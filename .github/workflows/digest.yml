@@ -1,11 +1,14 @@
 name: roma-news-digest
 
 on:
-  schedule:
-    # Časy jsou v UTC. 05:00 UTC ≈ 07:00 Praha (léto) / 06:00 (zima)
-    - cron: "0 5 * * *"
-    # 15:00 UTC ≈ 17:00 Praha (léto) / 16:00 (zima)
-    - cron: "0 15 * * *"
+  # Režim A (placené Anthropic API) – plánované spouštění je VYPNUTÉ, aby
+  # bez vyplněných secrets (ANTHROPIC_API_KEY, SMTP_*) workflow 2× denně nepadal.
+  # Až budeš chtít režim A, doplň secrets a odkomentuj schedule níže.
+  #schedule:
+  #  # Časy jsou v UTC. 05:00 UTC ≈ 07:00 Praha (léto) / 06:00 (zima)
+  #  - cron: "0 5 * * *"
+  #  # 15:00 UTC ≈ 17:00 Praha (léto) / 16:00 (zima)
+  #  - cron: "0 15 * * *"
   workflow_dispatch: {}   # umožní ruční spuštění z webu GitHubu
 
 jobs:
