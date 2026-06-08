@@ -1,0 +1,182 @@
+"""Sběr kandidátských článků z více zdrojů + deduplikace."""
+import time
+import urllib.parse
+
+import requests
+import feedparser
+
+import config
+
+UA = {"User-Agent": "Mozilla/5.0 (compatible; RomaNewsMonitor/1.0)"}
+
+
+def _google_news_url(query: str, hl: str, gl: str) -> str:
+    when = getattr(config, "GOOGLE_NEWS_WHEN", "").strip()
+    if when:
+        query = f"{query} when:{when}"   # jen čerstvé články, ať projdou oknem
+    q = urllib.parse.quote(query)
+    return (f"https://news.google.com/rss/search?q={q}"
+            f"&hl={hl}&gl={gl}&ceid={gl}:{hl}")
+
+
+def _within_window(published_parsed, hours: int) -> bool:
+    if not published_parsed:
+        return True  # neznámé datum necháme projít, posoudí Claude
+    ts = time.mktime(published_parsed)
+    return (time.time() - ts) <= hours * 3600
+
+
+def _norm_url(url: str) -> str:
+    """Odstraní query/fragment (utm apod.) pro spolehlivější dedup."""
+    p = urllib.parse.urlsplit(url)
+    return urllib.parse.urlunsplit((p.scheme, p.netloc, p.path, "", ""))
+
+
+def _entry_source(entry) -> str:
+    try:
+        src = entry.get("source")
+        if isinstance(src, dict):
+            return src.get("title", "")
+        return str(src) if src else ""
+    except Exception:
+        return ""
+
+
+def fetch_google_news() -> list:
+    items = []
+    for query, hl, gl in config.GOOGLE_NEWS_QUERIES:
+        try:
+            feed = feedparser.parse(_google_news_url(query, hl, gl))
+        except Exception as ex:
+            print(f"  Google News chyba ({hl}): {ex}")
+            continue
+        for e in feed.entries[:config.MAX_PER_FEED]:
+            if not _within_window(getattr(e, "published_parsed", None), config.LOOKBACK_HOURS):
+                continue
+            items.append({
+                "title":     e.get("title", ""),
+                "url":       e.get("link", ""),
+                "source":    _entry_source(e),
+                "snippet":   (e.get("summary", "") or "")[:500],
+                "published": e.get("published", ""),
+                "lang":      hl,
+            })
+    return items
+
+
+def fetch_gdelt() -> list:
+    params = {
+        "query": config.GDELT_QUERY,
+        "mode": "ArtList",
+        "format": "json",
+        "timespan": config.GDELT_TIMESPAN,
+        "maxrecords": str(config.GDELT_MAX),
+        "sort": "datedesc",
+    }
+    # GDELT povoluje 1 dotaz / 5 s, jinak vrací HTTP 429 (ne-JSON).
+    # Jeden retry po krátké pauze; když ani pak neprojde, pokračujeme bez něj.
+    data = None
+    for attempt in range(2):
+        try:
+            r = requests.get("https://api.gdeltproject.org/api/v2/doc/doc",
+                             params=params, headers=UA, timeout=30)
+        except Exception as ex:
+            print(f"  GDELT chyba: {ex}")
+            return []
+        if r.status_code == 429:
+            if attempt == 0:
+                print("  GDELT rate-limit (429), čekám 6 s a zkouším znovu…")
+                time.sleep(6)
+                continue
+            print("  GDELT stále 429, pokračuji bez něj")
+            return []
+        try:
+            data = r.json()
+        except Exception as ex:
+            print(f"  GDELT chyba (ne-JSON odpověď): {ex}")
+            return []
+        break
+    if data is None:
+        return []
+    items = []
+    for a in data.get("articles", []):
+        items.append({
+            "title":     a.get("title", ""),
+            "url":       a.get("url", ""),
+            "source":    a.get("domain", ""),
+            "snippet":   "",
+            "published": a.get("seendate", ""),
+            "lang":      a.get("language", ""),
+        })
+    return items
+
+
+def fetch_feed(url: str) -> list:
+    items = []
+    try:
+        feed = feedparser.parse(url)
+    except Exception as ex:
+        print(f"  Feed chyba ({url}): {ex}")
+        return items
+    for e in feed.entries[:config.MAX_PER_FEED]:
+        if not _within_window(getattr(e, "published_parsed", None), config.LOOKBACK_HOURS):
+            continue
+        items.append({
+            "title":     e.get("title", ""),
+            "url":       e.get("link", ""),
+            "source":    _entry_source(e) or url,
+            "snippet":   (e.get("summary", "") or "")[:500],
+            "published": e.get("published", ""),
+            "lang":      "",
+        })
+    return items
+
+
+def dedupe(items: list) -> list:
+    seen, out = set(), []
+    for it in items:
+        if not it.get("url"):
+            continue
+        key = _norm_url(it["url"])
+        tkey = (it.get("title", "") or "").strip().lower()[:120]
+        if key in seen or tkey in seen:
+            continue
+        seen.add(key)
+        if tkey:
+            seen.add(tkey)
+        out.append(it)
+    return out
+
+
+def fetch_watch_sites() -> list:
+    """Pro weby bez feedu: dotaz přes Google News omezený na doménu."""
+    items = []
+    for domain in config.WATCH_SITES:
+        query = f"site:{domain} ({config.WATCH_SITE_TERMS})"
+        url = _google_news_url(query, "en", "US")
+        try:
+            feed = feedparser.parse(url)
+        except Exception as ex:
+            print(f"  Watch-site chyba ({domain}): {ex}")
+            continue
+        for e in feed.entries[:config.MAX_PER_FEED]:
+            if not _within_window(getattr(e, "published_parsed", None), config.LOOKBACK_HOURS):
+                continue
+            items.append({
+                "title":     e.get("title", ""),
+                "url":       e.get("link", ""),
+                "source":    _entry_source(e) or domain,
+                "snippet":   (e.get("summary", "") or "")[:500],
+                "published": e.get("published", ""),
+                "lang":      "",
+            })
+    return items
+
+
+def collect() -> list:
+    items = fetch_google_news() + fetch_gdelt()
+    for f in config.RSS_FEEDS:
+        items += fetch_feed(f)
+    items += fetch_watch_sites()
+    items = dedupe(items)
+    return items[:config.MAX_CANDIDATES]

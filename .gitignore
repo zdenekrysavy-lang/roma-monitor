@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Tajné údaje – NIKDY necommitovat (v režimu B stejně nejsou potřeba)
+.env
+
+# Lokální nastavení Claude Code
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

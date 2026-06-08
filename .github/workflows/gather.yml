@@ -1,0 +1,38 @@
+name: roma-feed-gather
+
+# Režim B: sbírá kandidáty a publikuje je jako feed do repozitáře.
+# Soubor feed/candidates.json je pak dostupný přes veřejnou URL, kterou
+# si stáhne tvůj naplánovaný úkol v ChatGPT. Žádný API klíč není potřeba.
+
+on:
+  schedule:
+    - cron: "0 5 * * *"    # ~07:00 Praha (léto) / 06:00 (zima)
+    - cron: "0 15 * * *"   # ~17:00 Praha (léto) / 16:00 (zima)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write          # nutné, aby mohl commitnout aktualizovaný feed
+
+jobs:
+  gather:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalace závislostí (bez anthropic – AI tu neběží)
+        run: pip install feedparser requests
+
+      - name: Sběr kandidátů
+        run: python gather.py
+
+      - name: Publikace feedu
+        run: |
+          git config user.name  "roma-monitor-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed/candidates.json feed/candidates.md
+          git commit -m "feed update $(date -u +%FT%TZ)" || echo "beze změn"
+          git push
