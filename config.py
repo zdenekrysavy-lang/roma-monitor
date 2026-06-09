@@ -47,6 +47,12 @@ GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "1d")
 GDELT_QUERY    = '(Roma OR Romani OR Romanies OR Sinti OR "Roma minority") -football -soccer -"AS Roma" -calcio -transfer'
 GDELT_TIMESPAN = os.getenv("GDELT_TIMESPAN", "13h")
 GDELT_MAX      = int(os.getenv("GDELT_MAX", "120"))
+# GitHub Actions běží na sdílených IP, na které GDELT často vrací 429.
+# Víc pokusů s narůstající prodlevou + náhodný rozptyl (ať se netrefíme do
+# stejného okna jako ostatní joby). GDELT je „bonus" – když ani tak neprojde,
+# sběr pokračuje bez něj.
+GDELT_RETRIES  = int(os.getenv("GDELT_RETRIES", "4"))   # celkový počet pokusů
+GDELT_BACKOFF  = int(os.getenv("GDELT_BACKOFF", "8"))   # základ prodlevy v s (8, 16, 24…)
 
 # ════════════════════════════════════════════════════════════════════
 #  TVOJE ZDROJE  –  sem přidávej, když narazíš na zajímavý web

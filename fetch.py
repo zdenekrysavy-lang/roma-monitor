@@ -1,5 +1,6 @@
 """Sběr kandidátských článků z více zdrojů + deduplikace."""
 import time
+import random
 import urllib.parse
 
 import requests
@@ -77,10 +78,13 @@ def fetch_gdelt() -> list:
         "maxrecords": str(config.GDELT_MAX),
         "sort": "datedesc",
     }
-    # GDELT povoluje 1 dotaz / 5 s, jinak vrací HTTP 429 (ne-JSON).
-    # Jeden retry po krátké pauze; když ani pak neprojde, pokračujeme bez něj.
+    # GDELT povoluje ~1 dotaz / 5 s; na sdílených GitHub IP často 429.
+    # Víc pokusů s narůstající prodlevou (8, 16, 24…) + náhodný rozptyl,
+    # ať se netrefíme do stejného okna jako jiné joby. Když ani tak neprojde,
+    # pokračujeme bez něj (GDELT je bonus, ne kritický zdroj).
+    attempts = max(1, config.GDELT_RETRIES)
     data = None
-    for attempt in range(2):
+    for attempt in range(attempts):
         try:
             r = requests.get("https://api.gdeltproject.org/api/v2/doc/doc",
                              params=params, headers=UA, timeout=30)
@@ -88,11 +92,13 @@ def fetch_gdelt() -> list:
             print(f"  GDELT chyba: {ex}")
             return []
         if r.status_code == 429:
-            if attempt == 0:
-                print("  GDELT rate-limit (429), čekám 6 s a zkouším znovu…")
-                time.sleep(6)
+            if attempt < attempts - 1:
+                wait = config.GDELT_BACKOFF * (attempt + 1) + random.uniform(0, 3)
+                print(f"  GDELT rate-limit (429), pokus {attempt + 1}/{attempts}, "
+                      f"čekám {wait:.0f} s…")
+                time.sleep(wait)
                 continue
-            print("  GDELT stále 429, pokračuji bez něj")
+            print(f"  GDELT stále 429 i po {attempts} pokusech, pokračuji bez něj")
             return []
         try:
             data = r.json()
