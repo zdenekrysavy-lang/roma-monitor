@@ -64,13 +64,37 @@ GDELT_MAX      = int(os.getenv("GDELT_MAX", "120"))
 # Když si nejsi jistý, dej web do WATCH_SITES – vždycky to nějak zabere.
 
 RSS_FEEDS = [
-    "https://rroma.org/feed/",          # Rroma Foundation – hutný denní agregátor
-    # "https://nejaky-web.cz/rss",      # <- přidej svůj feed sem
+    # — Nadnárodní / agregátory —
+    "https://rroma.org/feed/",                                  # Rroma Foundation – hutný denní agregátor
+    "https://rroma.org/category/news-eastern-europe/feed/",     # Rroma – východní Evropa
+    "https://rroma.org/category/news-western-europe/feed/",     # Rroma – západní Evropa
+    "https://eriac.org/feed/",                                  # ERIAC – umění, kultura, akce, instituce
+    # — Ukrajina —
+    "https://chirikli.com.ua/en/news/feed/",                    # Chirikli / Roma Women's Fund (EN)
+    # — Srbsko / Balkán —
+    "https://rominfomedia.rs/feed/",                            # Rom Info Media (jih Srbska, Leskovac)
+    "https://romaworld.rs/feed/",                               # Romaworld (RS)
+    "https://roma-news.com/feed/",                              # Roma News Network (RS/balkán) – pozn. obsah nyní starší
+    # — Severní Makedonie —
+    "https://romatimes.news/index.php/en?format=feed&type=rss", # RomaTimes.News (MK/balkán, EN) – pozn. obsah nyní starší
+    # — Slovensko —
+    "https://romatv.sk/feed/",                                  # Roma Television
+    "https://romana.tv/feed/",                                  # Romana TV (video/podcast)
+    "https://www.tvroma.sk/feed/",                              # TV Roma – pozn. obsah nyní starší
 ]
 
 WATCH_SITES = [
-    "errc.org",                         # European Roma Rights Centre (vlastní CMS, bez feedu)
-    # "romea.cz",                       # <- přidej doménu sem
+    # Weby BEZ feedu – pipeline si udělá Google News dotaz „site:doména".
+    # Výnos závisí na tom, co Google z webu indexuje (u malých NGO může být i 0).
+    "errc.org",                         # European Roma Rights Centre – kauzy, právní kroky
+    "romaforeurope.org",                # Roma Foundation for Europe – press, kampaně, akce
+    "ergonetwork.org",                  # ERGO Network – News & Events
+    "romaofukraine.com",                # Roma of Ukraine / Roma News Ukraine (Wix, bez feedu)
+    "arca.org.ua",                      # ARCA Ukraine – Events, Projects, For the press
+    "aura-alliance.org",                # AURA – Ukrainian Roma Advocacy Alliance
+    "romnet.hu",                        # RomNet.hu (HU)
+    "dikhmedia.hu",                     # DIKH Média (HU)
+    "romapage.c3.hu",                   # Roma Press Center (HU) – spíš archivní
 ]
 
 # Klíčová slova připojená k dotazu na WATCH_SITES (kvůli relevanci u obecných webů).
