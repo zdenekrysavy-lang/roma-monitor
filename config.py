@@ -9,6 +9,7 @@ import os
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "13"))   # okno; >12 h kvůli překryvu mezi běhy
 MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "150"))  # strop kandidátů poslaných k analýze
 MAX_PER_FEED   = int(os.getenv("MAX_PER_FEED", "40"))
+MAX_PER_QUERY  = int(os.getenv("MAX_PER_QUERY", "12"))    # strop na jeden Google News dotaz, ať jeden jazyk (např. FR) nezaplaví feed
 CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-6")  # levnější varianta: claude-haiku-4-5-20251001
 
 # --- Google News RSS: (dotaz, jazyk hl, země gl) ---
@@ -28,18 +29,24 @@ GOOGLE_NEWS_QUERIES = [
     ('"Sinti und Roma" OR Antiziganismus OR Romafeindlichkeit OR "Roma-Minderheit"', "de", "DE"),
     ('"rom e sinti" OR "comunità rom" -calcio -"AS Roma"',     "it", "IT"),
     ('Роми OR ромска OR цигани',                               "bg", "BG"),
+    ('Ρομά OR τσιγγάνοι OR "μειονότητα Ρομά"',                 "el", "GR"),
 ]
+# Pozn.: Balkán (srbština, chorvatština, albánština), Ukrajinu a Turecko
+# ZÁMĚRNĚ neřešíme rodnými Google dotazy – tamní kořen „rom/Roman" se sráží
+# s „Rom-Com", římskými lázněmi, fotbalem apod. Tyhle země pokrývá líp široký
+# GDELT (hledá přes překlad podle významu, ne podle matoucího kořene).
 
 # Operátor Google News „when:" – vrátí jen čerstvé články za zadané období.
 # Bez něj Google řadí podle relevance a aktuální zprávy propadnou oknem 13 h.
 GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "1d")
 
 # --- GDELT (globální, vícejazyčný; bez klíče) ---
-# Vyžadujeme menšinový/etnický kontext a odřízneme fotbal, ať nelezou
-# AS Roma a město Řím napříč exotickými jazyky (thajština, čínština…).
-GDELT_QUERY    = '("Roma minority" OR "Roma people" OR "Roma community" OR Romani OR Sinti) -soccer -football'
+# Široký kořen (Roma/Romani/Sinti) NAVÁŽE i přeložené články z Balkánu, Ukrajiny,
+# Turecka apod. (GDELT Translingual matchuje podle významu). Šum (AS Roma, město
+# Řím) řešíme zápornými termíny, NE zúžením – to by zabilo multijazyčný záběr.
+GDELT_QUERY    = '(Roma OR Romani OR Romanies OR Sinti OR "Roma minority") -football -soccer -"AS Roma" -calcio -transfer'
 GDELT_TIMESPAN = os.getenv("GDELT_TIMESPAN", "13h")
-GDELT_MAX      = int(os.getenv("GDELT_MAX", "75"))
+GDELT_MAX      = int(os.getenv("GDELT_MAX", "120"))
 
 # ════════════════════════════════════════════════════════════════════
 #  TVOJE ZDROJE  –  sem přidávej, když narazíš na zajímavý web

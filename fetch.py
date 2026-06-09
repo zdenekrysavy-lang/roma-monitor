@@ -50,7 +50,10 @@ def fetch_google_news() -> list:
         except Exception as ex:
             print(f"  Google News chyba ({hl}): {ex}")
             continue
+        taken = 0
         for e in feed.entries[:config.MAX_PER_FEED]:
+            if taken >= config.MAX_PER_QUERY:
+                break  # strop na dotaz – ať jeden jazyk nezaplaví feed
             if not _within_window(getattr(e, "published_parsed", None), config.LOOKBACK_HOURS):
                 continue
             items.append({
@@ -61,6 +64,7 @@ def fetch_google_news() -> list:
                 "published": e.get("published", ""),
                 "lang":      hl,
             })
+            taken += 1
     return items
 
 
