@@ -1,138 +1,288 @@
-# Kandidáti — 2026-06-09T08:27:50+00:00 (35 položek)
+# Kandidáti — 2026-06-09T17:26:40+00:00 (73 položek)
 
-1. **PREVIEW: Close Encounters With Music closes season June 14 with Romani-inspired program - The Berkshire Edge** — The Berkshire Edge [en]
-   https://news.google.com/rss/articles/CBMitwFBVV95cUxOckI3Ti1iTUZrUmwwX2NFb1pUdjRpc2ZpQThhVFNVcmpaWWRHcnZ3SVlQcDdhMTkzeUREaHlkMkppNTZjT3FQQy1VOE5sVDVZbEdwZU9XXzJTZzVMd2gzTkp3blNLTWtNZlJjZGMwRkRKbVN3OTVaQVBjWHp4Nk1NZGtZZFFhVzRQRWRJVXdpWDE4cFhORllmbC13SWVQUVZEUzdHbUEzc3hNTjRSOHdwcUdneDFUQXM?oc=5
-   <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOckI3Ti1iTUZrUmwwX2NFb1pUdjRpc2ZpQThhVFNVcmpaWWRHcnZ3SVlQcDdhMTkzeUREaHlkMkppNTZjT3FQQy1VOE5sVDVZbEdwZU9XXzJTZzVMd2gzTkp3blNLTWtNZlJjZGMwRk
+1. **Noviny o 12:00 zajtra o 12:00 - TV JOJ** — TV JOJ [sk]
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFB3bjI5M0N5b0dXczhmcUxmazE0b0JaTG1sZkNRT291aDF5ajBzZXVvRDJCZk5zbEotczk1ZTRZb1RmTWpEYmVNLWxnQ2p0TEJKMjRMbTJGOUdjcm1iSlM3blB6SWdTNDF1Mlo1enRXOGphMDZFb1RSeldEMzZVSVk?oc=5
+   <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFB3bjI5M0N5b0dXczhmcUxmazE0b0JaTG1sZkNRT291aDF5ajBzZXVvRDJCZk5zbEotczk1ZTRZb1RmTWpEYmVNLWxnQ2p0TEJKMjRMbTJGOUdjcm1iSlM3blB6SWdTNDF1Mlo1enRXOG
 
-2. **Jekhipe Beyond the Nation-State: Collective Life in Matache’s The Permanence of Anti-Roma Racism - HHR Journal** — HHR Journal [en]
+2. **Roma Rights in State of Crisis, Declare 33 Human Rights Organisations - European Roma Rights Centre** — European Roma Rights Centre [en]
+   https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzkyRVYtdFh5VmVoRnBncGswWUhGcE1ud1NqVS1wOGRucFhNeWVmWkhIaDRlVk5yTlZvSS1CWW9oN0ZlTHlubFpldG5zTGhRc1RjT1R1M0JhbkFxSnFtdExlckhWUVRNXzJhWDl0MUxtenRobjZrZ0JKTkJJc3pqMmhLb0R3bjFhZUZIRG5zeVNCUWFOSTljY281aTZaSS1lODBzTWZiSQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzkyRVYtdFh5VmVoRnBncGswWUhGcE1ud1NqVS1wOGRucFhNeWVmWkhIaDRlVk5yTlZvSS1CWW9oN0ZlTHlubFpldG5zTGhRc1RjT1R1M0JhbkFxSnFtdExlckhWUVRNXzJhWDl0MU
+
+3. **Gender Pay Gap for Roma Women in North Macedonia - The Borgen Project** — The Borgen Project [en]
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81bEhmVjVLX3ZzSGs5YW9FZXk5aVVTX3NVeG41bW5GYlFTRlJWOUlSVDB3d0pJcFVNTTV6cllDc0JrNkxXSHNsSThBVVlUOEZrR1FlTnRtWGV1Tld6eWhNc1EtUWlXYU0?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81bEhmVjVLX3ZzSGs5YW9FZXk5aVVTX3NVeG41bW5GYlFTRlJWOUlSVDB3d0pJcFVNTTV6cllDc0JrNkxXSHNsSThBVVlUOEZrR1FlTnRtWGV1Tld6eWhNc1EtUWlXYU0?oc=5" targ
+
+4. **10 Zelda Mysteries That Still Keep Fans Up at Night - games.gg** — games.gg [en]
+   https://news.google.com/rss/articles/CBMicEFVX3lxTFBGY2drNEFLNjVwWWZPaW5MV3J0akNaZzVfUVpoRGYtaDZjSEk5ZGc5YW11STFfOW15RnNSQlBlVExLRlo1N0JheVR3RldGUHR1V1BmTkhxTGFVLWZoZDZrdzEwb1V0WTk4OUVyLWI3cVo?oc=5
+   <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBGY2drNEFLNjVwWWZPaW5MV3J0akNaZzVfUVpoRGYtaDZjSEk5ZGc5YW11STFfOW15RnNSQlBlVExLRlo1N0JheVR3RldGUHR1V1BmTkhxTGFVLWZoZDZrdzEwb1V0WTk4OUVyLWI3cV
+
+5. **National Lottery funding will increase educational opportunities for Gypsy, Roma and Traveller families - Northumbria University** — Northumbria University [en]
+   https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSEt0clpqWmZBeWdjTXl0VlptUlZqVGVLRVI4a1gtZmhQdnVtYk8zWXRueWZ1bnBLV0VyVmN2OGRiQ1RZWm83VG1JS2plNFB6VW43MU95Slh4MzRYVFo1eFNhV29zZVRPV2FyMVNxc0NQYzgwWlkxNUwwMzRUYWlvWGE4SGxUenhkd3lFWmdDdkxIN21yUjIyV2pqQUJlMlAzRWFtWGR5UVZzaDQ1YlhGWWZRbjdsVW9MaE5IYUd4aVVrb2dGd2JibGU5UXhDdXY1ZzdFdW0yempKWXdjbE9TM3VQS0UwZlNUVXFEWFB0ZGE?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSEt0clpqWmZBeWdjTXl0VlptUlZqVGVLRVI4a1gtZmhQdnVtYk8zWXRueWZ1bnBLV0VyVmN2OGRiQ1RZWm83VG1JS2plNFB6VW43MU95Slh4MzRYVFo1eFNhV29zZVRPV2FyMVNxc0
+
+6. **Jekhipe Beyond the Nation-State: Collective Life in Matache’s The Permanence of Anti-Roma Racism - HHR Journal** — HHR Journal [en]
    https://news.google.com/rss/articles/CBMizgFBVV95cUxNTTl6Mi1yaHFydTVpQWNNM2lzOWlHTkFUZjlaREVTRFliZHRydHdZQzl5azhhTDRFbEhZX1lUTlFGc1JKNVFGb2ZvSUhzSGV3cVIzSmstS19hWG1HRTdKWlFWWGxVd2liMVE0UlAwRlRNT2EtZzFwQlhZdkdFcU9La00xdG95djNweHZJdjhtRlhJUmRlN3hYNzJJZmItc2VmZ3NwSXlESjFMb0p5dktCV2doTXRHTjFZeTR4TUlrU3Q1SXhiX0hLd2daZGl1UQ?oc=5
    <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNTTl6Mi1yaHFydTVpQWNNM2lzOWlHTkFUZjlaREVTRFliZHRydHdZQzl5azhhTDRFbEhZX1lUTlFGc1JKNVFGb2ZvSUhzSGV3cVIzSmstS19hWG1HRTdKWlFWWGxVd2liMVE0UlAwRl
 
-3. **AI for Europe, in Europe’s own languages - The Parliament Magazine** — The Parliament Magazine [en]
+7. **AI for Europe, in Europe’s own languages - The Parliament Magazine** — The Parliament Magazine [en]
    https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1dsSnhuTzlnUGgxSWw5Mk1tY0JMQ0JfMTJmZjdVM2RRUzJRN2J0bS1TZWJ6cmNuZkVDZFZYTVNrai1HdklkX1doWjBfNGdVRXNRR09OdC1aUjlTcTJOTzRBb3ZLWTdwcjBhS3l3TlVwS1JaZmdCODVMY3h0UzVibnpFRnZZVkRYM3E5dXUwUlQzLWRaVVE?oc=5
    <a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1dsSnhuTzlnUGgxSWw5Mk1tY0JMQ0JfMTJmZjdVM2RRUzJRN2J0bS1TZWJ6cmNuZkVDZFZYTVNrai1HdklkX1doWjBfNGdVRXNRR09OdC1aUjlTcTJOTzRBb3ZLWTdwcjBhS3l3Tl
 
-4. **Genzano Flower Carpet 2026: practical guide to the village floral - inItaly** — inItaly [en]
-   https://news.google.com/rss/articles/CBMirwFBVV95cUxNbllsQXd4SVRBNWkzN1M0d1dmejFnaHlVS3daUnJCdHRXMDEyd3hmRFpQY1hPOUp3V3E1RnZoSVdMc09MSjhraVJld3Y1S2hHN1dXRTlnRUZYSEpLdllmZmpaT3U2ZzJNNm5qdHByLTNVRDRiRHB3UkNhdFB3WHd3RTVoXzBMd3lrUlN0bTR2dG5GODVJV0tUNlRYRk5iMTRwUWItQVlGalJtMVdBZTdz?oc=5
-   <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNbllsQXd4SVRBNWkzN1M0d1dmejFnaHlVS3daUnJCdHRXMDEyd3hmRFpQY1hPOUp3V3E1RnZoSVdMc09MSjhraVJld3Y1S2hHN1dXRTlnRUZYSEpLdllmZmpaT3U2ZzJNNm5qdHByLT
+8. **‘Can’t be what you can’t see’: Youth summit to boost ag industry - The Courier Mail** — The Courier Mail [en]
+   https://news.google.com/rss/articles/CBMiigJBVV95cUxQMlUyWlNjZzJTeU5YQ1hjWU5QbDBGSVh5Xzdld0F6SVE2MHJHRXNLVkdzRW00SXJIeFZ5cWV5dkwxVXp2NGcwSVE5RXFjSEY2WnZHSnk3OGFPc3Y2Q0NfZ1VYemdKUE9uLWVrR1c4QVlaQmhIRS1GNEMtMUFVRDBkMDljbXAzMVdrQ0QtdUNRN0dCR1I4S2pGWmFackZJR2MzQ0R4NXBKbTM0WUJHTFNaV21maWZqUUYxeHdLc1loSV8tTTh1TWZEWThtNHNBRHQwdVdSWWJzd0tqR2lHQ0d1REQ5Yk5ub09LVlpBM0tEbmhRTTZnX0Q3MmFaU3hEV0JaSFh6bHI4LWRtd9IBigJBVV95cUxQMlUyWlNjZzJTeU5YQ1hjWU5QbDBGSVh5Xzdld0F6SVE2MHJHRXNLVkdzRW00SXJIeFZ5cWV5dkwxVXp2NGcwSVE5RXFjSEY2WnZHSnk3OGFPc3Y2Q0NfZ1VYemdKUE9uLWVrR1c4QVlaQmhIRS1GNEMtMUFVRDBkMDljbXAzMVdrQ0QtdUNRN0dCR1I4S2pGWmFackZJR2MzQ0R4NXBKbTM0WUJHTFNaV21maWZqUUYxeHdLc1loSV8tTTh1TWZEWThtNHNBRHQwdVdSWWJzd0tqR2lHQ0d1REQ5Yk5ub09LVlpBM0tEbmhRTTZnX0Q3MmFaU3hEV0JaSFh6bHI4LWRtdw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxQMlUyWlNjZzJTeU5YQ1hjWU5QbDBGSVh5Xzdld0F6SVE2MHJHRXNLVkdzRW00SXJIeFZ5cWV5dkwxVXp2NGcwSVE5RXFjSEY2WnZHSnk3OGFPc3Y2Q0NfZ1VYemdKUE9uLWVrR1c4QV
 
-5. **A jelenben élők felelőssége - Józsefváros Újság** — Józsefváros Újság [hu]
+9. **A cigány kultúra kiemelkedő előadói lépnek fel Balatonbogláron - Marcali Portál** — Marcali Portál [hu]
+   https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWZuWjZ1WlBlTlJpSXFySHZnenFUUU1wcGptZHBibmNxZXZnZXlvWnlhaVhVOWlsRVhCZzBuOGpSeWFsLV9IRzhQajFDR204dW8xODZWbnpTQkhkN3VRTEhsTXdrNGhTZW92ZE5lek1qVW1XWUJyT0lXY2xrSkUtWFhPUURlajRPT2JPWE9LOV9xTlFhVXpMckt3TGhvTnVRZDFITA?oc=5
+   <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWZuWjZ1WlBlTlJpSXFySHZnenFUUU1wcGptZHBibmNxZXZnZXlvWnlhaVhVOWlsRVhCZzBuOGpSeWFsLV9IRzhQajFDR204dW8xODZWbnpTQkhkN3VRTEhsTXdrNGhTZW92ZE5lek
+
+10. **A jelenben élők felelőssége - Józsefváros Újság** — Józsefváros Újság [hu]
    https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMXBFRl9ld09mYUN0Q1kxWWRLTUhodVJDdVJhOXlCQVVtOUZxTTl4OEJKUmp2a3FSbGppNm5VV2RDdm5XTE1QVVFCRGJmem95aVUzRVNDVE9vMVlqd25qd3pLZTgycmRa?oc=5
    <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMXBFRl9ld09mYUN0Q1kxWWRLTUhodVJDdVJhOXlCQVVtOUZxTTl4OEJKUmp2a3FSbGppNm5VV2RDdm5XTE1QVVFCRGJmem95aVUzRVNDVE9vMVlqd25qd3pLZTgycmRa?oc=5" tar
 
-6. **Aparegio Gorj oprește apa în mai multe sate din Copăcioasa pentru igienizarea bazinelor - Gorj Tv** — Gorj Tv [ro]
+11. **India X Nagyecsed- táncos találkozás a Kesztyűgyárban - Józsefvárosi Önkormányzat** — Józsefvárosi Önkormányzat [hu]
+   https://news.google.com/rss/articles/CBMirwFBVV95cUxNV05BZXRERzlIR2Jic19WWjB2SDYzQUZxalp4LVB1ZjIxRjlxTEd5U2hXWVpUaDBqSkVaR1otOWEyNTRLT0N6ckZPQ0xrM2l3QXUzdS15S2lDRUlPS0kyVTNTd3hid3Bzd1VYT0dhQ1VvSDQ2ZWVjUmx0S0JjUDRKRVoyYUFKVC1LVGRENlZ3VVAyM1BuOUZWb1hmQ1VqekcxWUpDRlZpVFRFdVV6UlFV?oc=5
+   <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNV05BZXRERzlIR2Jic19WWjB2SDYzQUZxalp4LVB1ZjIxRjlxTEd5U2hXWVpUaDBqSkVaR1otOWEyNTRLT0N6ckZPQ0xrM2l3QXUzdS15S2lDRUlPS0kyVTNTd3hid3Bzd1VYT0dhQ1
+
+12. **Fergetegesnek ígérkezik a XXI. Ladikos Fesztivál - Színvonalas programkavalkád a mecséri Duna-parton - KISALFOLD** — KISALFOLD [hu]
+   https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGdvbnpfVDB4VUk1Z1pBMG0yNkV4TjVvUUtXTjdmSms1ZHNWM216U29uclp6aF9FNHo2UkJTNjJtNThWUGROR0V3YWRJSUFJTHhTT0tIbldzVGpPeThGb2FLbHcyNnltVkZ4a25IWkk3eS1OSFlwX0Q0WEtEd1FjUHBsNUVtMmtTeHFaY2NjQWpIbTVzVUE?oc=5
+   <a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGdvbnpfVDB4VUk1Z1pBMG0yNkV4TjVvUUtXTjdmSms1ZHNWM216U29uclp6aF9FNHo2UkJTNjJtNThWUGROR0V3YWRJSUFJTHhTT0tIbldzVGpPeThGb2FLbHcyNnltVkZ4a25IWk
+
+13. **Ha nem nyert volna a Tisza, Oláh Ibolya végleg elhagyta volna az országot - Twice.hu** — Twice.hu [hu]
+   https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEF1Y29rdk1obHdzZTRZdThPalBzYzg2UHJwV1NYR3lzdWlqaUN6Vk8yQ045bzNtXzVNaVZocVhkZWhycjR2VVp2WnoxcUM0ZlUwRlhyTzI3WnNHbWZTWEszNGl2VkFLQUppZDczNmFaLTVaQUwxWDhIN19KWU5rYThfd3h2S19nYmZUNzVxdWVENldaWHFmQWhwNWw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEF1Y29rdk1obHdzZTRZdThPalBzYzg2UHJwV1NYR3lzdWlqaUN6Vk8yQ045bzNtXzVNaVZocVhkZWhycjR2VVp2WnoxcUM0ZlUwRlhyTzI3WnNHbWZTWEszNGl2VkFLQUppZDczNm
+
+14. **Aparegio Gorj oprește apa în mai multe sate din Copăcioasa pentru igienizarea bazinelor - Gorj Tv** — Gorj Tv [ro]
    https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnVqR1hlQ0dtNDRsemtZV3pQSWh3RHlRZm44MWd2NkFsbmZqeTIwMjRfYnFzTGw1VGpJbUl0ZWxTX3VZbUZ6d20wV2xjejZQVU9FRWs5SEwxakM5UTVsY2F3cjJmS3FHZWFqY2N1Z0VvYzdZbGZsblAtYWlpanZRcVVLVDA5STFMWVg5VXFqUjlWdFJvUHczeV9rUE5MSjNqN1pRYTNKS0xGZw?oc=5
    <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnVqR1hlQ0dtNDRsemtZV3pQSWh3RHlRZm44MWd2NkFsbmZqeTIwMjRfYnFzTGw1VGpJbUl0ZWxTX3VZbUZ6d20wV2xjejZQVU9FRWs5SEwxakM5UTVsY2F3cjJmS3FHZWFqY2N1Z0
 
-7. **Se oprește apa la Copăcioasa! - Gorjeanul** — Gorjeanul [ro]
+15. **Se oprește apa la Copăcioasa! - Gorjeanul** — Gorjeanul [ro]
    https://news.google.com/rss/articles/CBMic0FVX3lxTE5aR1pZLWVZOWFiWTBrMzczaC14Q0VrZlEybUNkSlNkY05CYXZqUXhtNHdVdTFhUE02cTl1TjgxTkRtRVpwVlNYT2RvVEZNalNqUkkwdmpPbTI0bkdJOUE1T3g3bUJ0NHBNVXhhNnNMTmh6MEk?oc=5
    <a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5aR1pZLWVZOWFiWTBrMzczaC14Q0VrZlEybUNkSlNkY05CYXZqUXhtNHdVdTFhUE02cTl1TjgxTkRtRVpwVlNYT2RvVEZNalNqUkkwdmpPbTI0bkdJOUE1T3g3bUJ0NHBNVXhhNnNMTm
 
-8. **Anunț Aparegio Gorj – Ced Târgu-Cărbunești: Întrerupere apă mâine dimineață - tvsud.ro** — tvsud.ro [ro]
+16. **Robinetele se închid timp de șase ore în Scoarța - AS in Gorj** — AS in Gorj [ro]
+   https://news.google.com/rss/articles/CBMifkFVX3lxTE9CRDJfSTRzeFZEbXpwUlpPLVU5aFVHa1ZPa2VNMHBxb1FVLVI2LUVUQkcyN0ZOa2JaaDZidWIxZ1VlRDlJdXJvaDEtUHMyQW9NX3FES3psVlZ3LXFvRkhic29XSVR4ZnRWVjRPdnp3VzRtbHJTMUlxSkl6c09kQQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9CRDJfSTRzeFZEbXpwUlpPLVU5aFVHa1ZPa2VNMHBxb1FVLVI2LUVUQkcyN0ZOa2JaaDZidWIxZ1VlRDlJdXJvaDEtUHMyQW9NX3FES3psVlZ3LXFvRkhic29XSVR4ZnRWVjRPdnp3Vz
+
+17. **Anunț Aparegio Gorj – Ced Târgu-Cărbunești: Întrerupere apă mâine dimineață - tvsud.ro** — tvsud.ro [ro]
    https://news.google.com/rss/articles/CBMinwFBVV95cUxOSS1LRVhCanVRSWFkalNWcm4wamQ5N1V5RkRpVmZ0UE5IQzdPWXlrLWpJQzZlSUM2OFZFMVp4NHlrZmlGYWVXbVF4REZxdUQ2eW9UQjhhZnVjTl9fZDdNZTQzX3k5QTU3eEJMRVVZZlJLelotc2ZwU0t1enRVY1l5VEt6RWRsYlJkczctY2hBc1pJWERxdTJMNUl0QUZrenM?oc=5
    <a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOSS1LRVhCanVRSWFkalNWcm4wamQ5N1V5RkRpVmZ0UE5IQzdPWXlrLWpJQzZlSUM2OFZFMVp4NHlrZmlGYWVXbVF4REZxdUQ2eW9UQjhhZnVjTl9fZDdNZTQzX3k5QTU3eEJMRVVZZl
 
-9. **Se întrerupe furnizarea cu apă potabilă în localitatea Copăcioasa - GorjOnline** — GorjOnline [ro]
+18. **Se întrerupe furnizarea cu apă potabilă în localitatea Copăcioasa - GorjOnline** — GorjOnline [ro]
    https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGRJaWdQSE9uZVp3dnd4WkxNQ01UR25lbXpsTGZSWXNoZVZrQms5OXVFbENuNDJjUFdLZ2dxUzZpekRBOGJlOUJqY3hreXhjRHA4azAwaUN0ZGl0YlFwVjF5YnQ0Q1YtVUxpMmNHaGFha2pzdlRFdXFHQlhaV0VlY3YwS2czOF9teEhhR2xPbXE4RlJGUnpN?oc=5
    <a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGRJaWdQSE9uZVp3dnd4WkxNQ01UR25lbXpsTGZSWXNoZVZrQms5OXVFbENuNDJjUFdLZ2dxUzZpekRBOGJlOUJqY3hreXhjRHA4azAwaUN0ZGl0YlFwVjF5YnQ0Q1YtVUxpMmNHaG
 
-10. **La comunidad gitana vuelve a reunirse un año más con motivo de la beatificación de Ceferino Giménez Maya - Utrera Digital** — Utrera Digital [es]
+19. **Locuitorii satului Copăcioasa rămân fără apă - Viața Gorjului** — Viața Gorjului [ro]
+   https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTQwbUNzT19sVnRRZWdUb0FMUjh2V2pHT0dTNUVsRlFtNWVVd0RUR0tnajlpWGttQUVLZU9udDlDWm1GZUFCNlppWkloNHZ5ZnFGVmNqdnhXQml3QW5laGswa0hYeTNWdnpXbW1EYjdKa1FCdVV3ZFE1MXBqOE5FakVUeW8?oc=5
+   <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTQwbUNzT19sVnRRZWdUb0FMUjh2V2pHT0dTNUVsRlFtNWVVd0RUR0tnajlpWGttQUVLZU9udDlDWm1GZUFCNlppWkloNHZ5ZnFGVmNqdnhXQml3QW5laGswa0hYeTNWdnpXbW1EYj
+
+20. **La Escuela Flamenca María Gómez “La Canastera” de Almuñécar presenta el domingo la 2º parte del ... - Diario Sexitano** — Diario Sexitano [es]
+   https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWl0VUxjWGZYdTVvdGIzcld0cFVqYWtEdDVIR1llRnQ5YXQ2REd6TVBycmc0YnB5WlJYYjVHeUtFYkl0MmgxUURaUzVBVDlIa0hYeWh4S2szbXNROVdzYkxvOWdNU2FfYTY2cnNNOUVqWGNnYVZNVlByQ2R6V2Y5Mkx3ekZmQlhxekVfcVNfUlNDbTN3cDdNX2dCZkRiZXlQV0djTHlydFdiN09KcnlBVjMwY0tTUElucUxJT0RWb3d5Q2tBZjQ1bnQwZDQ3MFlFLVdrRnVTOWxYQUJfWDVUOS1LZldSSnpCNW9ZTHJuaUYzdjAzNThSUUZjemxYbFhwVVpHSG83RGk5cFFxM1HSAZMCQVVfeXFMT0EtVzBCTW1ITGtwUXhxNmhkcllqSWJxV2IxT3N3amN6RjdPdGtSOGhVUU5zbjM2UjZrd3A3RjB6NGNMLUxGeUJfaDRUdXUtdFg4SXViY250R3RfSTI3VUlvTXljRzlVRkxPb01hLVBiQUJFSDhnbGV0LThRM1Q5RXo0SVAwOFdHaUduQXhid1hVOThUU2pBT2JvamRxWGJaWi1SQ29ERjdhSy1vV0JqR2dpSlF4STZBRGtwN1NhMjJJVXVTcFg3WkpQdFRCOWRwd0VuR3RFSlBYb2RIa0pyWVppRlJnRnZQenhDU3JwZWpoampZc3FzenZjckhZOXdlT1pnbHRYVkhOa0t6Sm5NY1VxMWs?oc=5
+   <a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWl0VUxjWGZYdTVvdGIzcld0cFVqYWtEdDVIR1llRnQ5YXQ2REd6TVBycmc0YnB5WlJYYjVHeUtFYkl0MmgxUURaUzVBVDlIa0hYeWh4S2szbXNROVdzYkxvOWdNU2FfYTY2cnNNOU
+
+21. **La comunidad gitana vuelve a reunirse un año más con motivo de la beatificación de Ceferino Giménez Maya - Utrera Digital** — Utrera Digital [es]
    https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZk5qUU80cUdlUHlERW4tZ1FQWTdiUmlrVGh3cEZxR00yVm40cVhrWmUzX1NjZjRuOTRtNW1Pb0VjeUg5dndRSVYxY1gyTENHaXlJNnFhQlVkdXJsNnlYWTU4QXo3MnBjMnlwZFpWcE81Z1hYX3l0VnZVTVNXN2ZackFMa243bDY3a2oyMUl1OEZfUnpSR3F6OG5TNkxFUGFwTXN1bVRhcEx3ODRkQ2ZrbUpmMU5mM1lqeWpvUzVNaXFtODMyTFVTRl9fVW9qVUU5Q1M2QzhB?oc=5
    <a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZk5qUU80cUdlUHlERW4tZ1FQWTdiUmlrVGh3cEZxR00yVm40cVhrWmUzX1NjZjRuOTRtNW1Pb0VjeUg5dndRSVYxY1gyTENHaXlJNnFhQlVkdXJsNnlYWTU4QXo3MnBjMnlwZFpWcE
 
-11. **Las hermandades de San Román acompañaron al Santísimo en una nueva procesión de la Octava del Corpus - ArteSacro.org** — ArteSacro.org [es]
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdkZkWEZKWVF2MVlEWW1CMldrQ3RYbmg5WEQwcEdUY0Q2NWJnSG9MMDlCckJkdUc4dnI5SUdIb1BPSERtcVhFU3pUY0ZKaGw5VFp6UUZlN1AtR21XNmo4?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdkZkWEZKWVF2MVlEWW1CMldrQ3RYbmg5WEQwcEdUY0Q2NWJnSG9MMDlCckJkdUc4dnI5SUdIb1BPSERtcVhFU3pUY0ZKaGw5VFp6UUZlN1AtR21XNmo4?oc=5" target="_blank"
+22. **Educación renueva con la Fundación Secretariado Gitano el programa 'Promociona', que ha apoyado a 153 alumnos gitanos - Sarriguren Web** — Sarriguren Web [es]
+   https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMURjSDdNaHUzdk5JUXBRc1ZMUjRLbGxOa1FJX0ZJdU5heU55Y0dGU0FET3BscW9pakcwSHE0cTlBa3VYUllKQ2RRLVY0TWJHdVlmR1FXNnAwRjNaOWNKNmZHU0tyTWxUSEVkNkRaWW5ua05jeW5WdC11T1p6c0hFX0NrenlDZzRYMmdOZ2d1czJkWnRqSUVIakQtT3NVTVZNUnVybjJfTEFMUXZSMjZpZDRUQkpNb0h3UDRjQkVpblJYU1JGUVk3WFBlRVRrMjhrUlNPRFBtOGdzYm1lWTdwN2M2ZzVPV3BTLXJKa19FYktnUjdILWRxNHRPVzQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMURjSDdNaHUzdk5JUXBRc1ZMUjRLbGxOa1FJX0ZJdU5heU55Y0dGU0FET3BscW9pakcwSHE0cTlBa3VYUllKQ2RRLVY0TWJHdVlmR1FXNnAwRjNaOWNKNmZHU0tyTWxUSEVkNkRaWW
 
-12. **El momento en que el caballo es arrastrado por el río mientras es arrastrado por un enorme grupo de gitanos y peregrinos - ucvradio.pe** — ucvradio.pe [es]
-   https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa2M5TGI0enZQOFlsaU56QTlSMngyTDhsaW9jVjJxSzhYR0wwMFEwNW5jZE1pdFFUQ2VRVmVwU3UwVExJSGlJYjVFbnR4ckpWNHp5cW5UN1FLOC1Tek9JbkV5NW9hU2lEbzV6MUNCa1doNFBUcy1fbnY4b1FwT3lOTTdiU0VLcHlqV2JUN0dQSjNVb0ZMdkJYbjRlRHM3ak91Mk9lTmxPMUdHTUhkT1VaM3ZyS2NJM08zSUVKSUlITkZaTHZsbjZxdW9fRVNfRWdlSTYwRkhMT0xrbTZyWUlqTWZ6anZfN0lQZ2RCM25WSGFTdWVpcjI4SEd1OA?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa2M5TGI0enZQOFlsaU56QTlSMngyTDhsaW9jVjJxSzhYR0wwMFEwNW5jZE1pdFFUQ2VRVmVwU3UwVExJSGlJYjVFbnR4ckpWNHp5cW5UN1FLOC1Tek9JbkV5NW9hU2lEbzV6MUNCa1
+23. **Semécourt. Départ des gens du voyage : un soulagement… et de nouvelles tensions ailleurs - Le Républicain Lorrain** — Le Républicain Lorrain [fr]
+   https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenI2aVdBOGVLS2hZTU41b3JZYkNlOGJnalhzS2dZNGFmM0V1Q3NkTWhQRk81enpVZF8wZnFaaUZ6cmVPQ0RwaWhRRTRncjQ4TDM2eXZZZkZaSnV2ejVQOE5lcUxTN09qMkNiNkZPWWNaTGlFdXRGbF92bUMwZlBiRXUxTlBmc1ZGdDVLRTViRVlpY2pXV0xnb20xc1VOZHlpN1lFbEppQmRidjd2Z05pNmw4Q0ZsT0gtUk5wcEU5N1pTa3Y4QWNTZw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenI2aVdBOGVLS2hZTU41b3JZYkNlOGJnalhzS2dZNGFmM0V1Q3NkTWhQRk81enpVZF8wZnFaaUZ6cmVPQ0RwaWhRRTRncjQ4TDM2eXZZZkZaSnV2ejVQOE5lcUxTN09qMkNiNkZPWW
 
-13. **La tercera edición del “Campus 2030” volverá a reunir en Cazorla a 35 jóvenes con discapacidad intelectual en un campus interuniversitario de verano - Universidad de Murcia** — Universidad de Murcia [es]
-   https://news.google.com/rss/articles/CBMivAJBVV95cUxNVzY4RmxKVHhwMV9nYWpNWGQ0QVp0TUctNzhKOVFjUlhtUk16ZldfUi03NzY3cGdzX1B6aHNkSjBYTmFBSlpsak5kU0hSZFB6ekRkTlBJeXI5aXZ5YUV0M3p5bXpWTVpiUENsVm1yZ3p5cE85TkxLeDBsd2VXSmNyOUk3eFhnTTBhemw0cHpGbGhfZ2E0S2tFREM4bWVRcDRGX1poYUtTVmlRcFEwYWgxZ1BKdE44UFpWb1prbkhHeE5GZ3p0RFRLMUlHX2k3R2h3WUlLRUp2REx4ZjZQcnp1ajNmZW1QSWxuem5zTWQ0ajJudmZyNFI4eUJVRFNQRVp3ZThyUWdTQ0hXZ0s5QjBsZXc0TURtN0hwamcyWUtUdGpURzBxQVVKX1lqR01fZWxndGRlRDVzSW5xelo0?oc=5
-   <a href="https://news.google.com/rss/articles/CBMivAJBVV95cUxNVzY4RmxKVHhwMV9nYWpNWGQ0QVp0TUctNzhKOVFjUlhtUk16ZldfUi03NzY3cGdzX1B6aHNkSjBYTmFBSlpsak5kU0hSZFB6ekRkTlBJeXI5aXZ5YUV0M3p5bXpWTVpiUENsVm1yZ3
+24. **Rassemblement de gens du voyage à Damblain : Franck Leroy en soutien des élus locaux, écrit au ministre de l'Intérieur - ici.fr** — ici.fr [fr]
+   https://news.google.com/rss/articles/CBMigAJBVV95cUxQRXF3ZHhHMDI5R3Y0eElfSXlXaVJaU3pxUFZZZGpBQ0tsVFBmV1NVNFNHUFdhdnRjcmRvUkdHZGRiMjVRalYyZGs2Ry1wbmZIemY3TjJhSGJZeFVwQmp6WDM3ZGpiUmVpM0lUck83aGF6TTliUFlyZUEzN0tlcVU4N1M3RlJ2NjA1MndIM2x4eU1TOVcxWDlYdk9Yb0RPeHBKSzBmd3pNa2pMcGZBQXlGQV90ZGtsS2c5dHFWTi1Yc0xoWktRVG93cXFBUXF4NEpXNEtKOFo3QVZQc2kyWV9iOXV2OXZ4SGg2aGFHYXB0dVFOaWhYckR6MDhQU2tjMFFI?oc=5
+   <a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQRXF3ZHhHMDI5R3Y0eElfSXlXaVJaU3pxUFZZZGpBQ0tsVFBmV1NVNFNHUFdhdnRjcmRvUkdHZGRiMjVRalYyZGs2Ry1wbmZIemY3TjJhSGJZeFVwQmp6WDM3ZGpiUmVpM0lUck83aG
 
-14. **Interesante mesa redonda sobre la donación de órganos - Cofrademania** — Cofrademania [es]
-   https://news.google.com/rss/articles/CBMikAFBVV95cUxPcmdxRF92LUlXRVVTYWNWSnZEQnl0dWVqWDBIZTJmVWpRSTlZenhpcFlEUU4wS2liY3FlOVNzMHlucDhLbkZ1amZtOTlCWXdlZ1MtRGNYMmNTRjB4TGhJT19ucDJVYlFJMEtyZ092YU0yM0FFN2RkYUFtZXFIRVM2UlBTTTBzTFVDV1pXQlctaW0?oc=5
-   <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPcmdxRF92LUlXRVVTYWNWSnZEQnl0dWVqWDBIZTJmVWpRSTlZenhpcFlEUU4wS2liY3FlOVNzMHlucDhLbkZ1amZtOTlCWXdlZ1MtRGNYMmNTRjB4TGhJT19ucDJVYlFJMEtyZ092YU
+25. **« Ils ont montré de la bonne volonté » : les gens du voyage devraient être partis du parc du Breuil ce mercredi - Le JSL** — Le JSL [fr]
+   https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ3MxSWVsNzN4VUtCQVBiZzhvSGh1WkF1bWN2SW1hdXc1bGNXdGxrMlFWb1F4ZnlVVUZGdXpsbDdqclZPSjRfbkNpWm9QZkVfclVPZUw2cXBhS09nT0VWM3lNM0duZzg4UFpzNlNSQXRfYTcyWTR4SWpLVE5RaEFTN05pM1pCTzRLSUhqdVFUQzNFdjBIeHd2UWpaX2pCeWxUb2ppeXRXN3duS0l3Y2dkSmxDNlAycEF4akp2cHRSajlpaUxMYnlSbi1kWVVaR05uQUxKRDE5X00xeVRPckVMOHdySHhtZnFJSDFSR3RNa1U?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ3MxSWVsNzN4VUtCQVBiZzhvSGh1WkF1bWN2SW1hdXc1bGNXdGxrMlFWb1F4ZnlVVUZGdXpsbDdqclZPSjRfbkNpWm9QZkVfclVPZUw2cXBhS09nT0VWM3lNM0duZzg4UFpzNlNSQX
 
-15. **Memoria senior: 1989, hiperinflación, saqueos y Los Redondos rumbo a Obras en el viaje de toda una generación - Infobae** — Infobae [es]
-   https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRzBEaDUybEdfWEpnazE5bmtCR1A4Z0lSQ0VodE5NaU80U2tlWnV6TFFHeHZCMHlaQTR6NTg1U21rVGRUekpsNnA4VkkwZ3R1R2hJUDZfSWZmRzY2Z3c1TUI4Q3Q4Qm5lNmJXekpDRmFkZlZtbjVBcGlXaG82VllHTGxUQXVUX0xia2JrSlJXNXcwbTFfbldVeDIxT1hmZjlFaDRKX0RVRTRkclB0d3RQRUtSZ0ZqOGZYc1pGdFFKWnJsS0pQUVJ3YkUtaWxGRldGRkt1WDBPeHI3b0d1NVdtR0Jta2NiVG44enB0QWEtWF94Z9IBjAJBVV95cUxQYTk4QTgtcWVYX3hET2czd0dKcEFzYWdqUmx4TnNRR2Uyb0I1dU5CX1NYX2U0UWR0ck80T3JWc1J4dnlQbHdQZXFCbXZUSGZmejZhSUppcHlyU2xPeGQwbmFUTXpmVUZYYnpESFBtcUlNMzFfN2d6TW5xaHNKR0U1VTA4WlhPd3R0MkVhRXdOS3pycWRXUU5QdXhxd1RlaEc0SURGN1lhSmkwUmRvaTBMazJGOHJmbVRmWWFvRzlLZmNFWWF6Snc3RmNaX1ZEN0EwVVk0dHo1akJ0ejNfS0pQOUpqQ3JhRUtfOENtSnJjMzVYQzhTbE0xMlVhbkhET0lhVG9OSTdSUjYxOTRh?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRzBEaDUybEdfWEpnazE5bmtCR1A4Z0lSQ0VodE5NaU80U2tlWnV6TFFHeHZCMHlaQTR6NTg1U21rVGRUekpsNnA4VkkwZ3R1R2hJUDZfSWZmRzY2Z3c1TUI4Q3Q4Qm5lNmJXekpDRm
+26. **Des agents de la ville menacés de mort : grosse opération de police à Castres pour couper l’eau et l’électricité au campement illégal de gens du voyage - ladepeche.fr** — ladepeche.fr [fr]
+   https://news.google.com/rss/articles/CBMiogJBVV95cUxOeTBmR3AtS0hkWXBGODBKb0h5eUNDSEFGVnozVGk1dVVmb19tT2hVRzJ2N2twMTNjSjRNWjRMQ1VYX1pDbmdlcXM2SGppWndkV3pvcV9jZUpoVFgxSnZ2ZldRcWVkd1ItMkhuSlpTcENPU25kVlVjY1o3OXctdkRvUkcwMTRQdFRPX2g4czZnVWRNRTJsV2ZudDZheGZLSWFCcmxMVFg2bHhJVVlNc2ZKVEVMbzNOS3g1WkJnOTNud1NRV0RpSWF3TGxVYjZ5ZEVRMnA5S0pFUzV1aFpjUnl6YlJWbEVzVWlkdDQ4VElDNXZwdVo5aEpDSFdhVXNmWTRJdDlHQ0MyRTdLRU5QTU9yQVBQV2ZiaC1tMmVGeTVMM3Rsdw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiogJBVV95cUxOeTBmR3AtS0hkWXBGODBKb0h5eUNDSEFGVnozVGk1dVVmb19tT2hVRzJ2N2twMTNjSjRNWjRMQ1VYX1pDbmdlcXM2SGppWndkV3pvcV9jZUpoVFgxSnZ2ZldRcWVkd1ItMkhuSlpTcE
 
-16. **Tinta Brava: Al PRI no lo den por muerto, Morena tropieza - noticiasdetampico.mx** — noticiasdetampico.mx [es]
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxORTI4M2QzRzF0eDh4X2QzcDhDeFZlMWQwamhXX2ptRjByZEp0ZWlJc1Iybmw0RGw3ZmpjcmRrNGQ5UzRBczNfanU1VWpLcTFVM3hKMW9NOXBmRGtOeng2elNSNU5sMVZzaEVJWHJmeWl2WkVoRFdnSU03bVdybGtPQy11ZjdfbFZqdDlldDln?oc=5
-   <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxORTI4M2QzRzF0eDh4X2QzcDhDeFZlMWQwamhXX2ptRjByZEp0ZWlJc1Iybmw0RGw3ZmpjcmRrNGQ5UzRBczNfanU1VWpLcTFVM3hKMW9NOXBmRGtOeng2elNSNU5sMVZzaEVJWHJmeW
+27. **Beaune. Occupation de l'aérodrome : quels dégâts après le départ des gens du voyage ? - Le Bien Public** — Le Bien Public [fr]
+   https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVZuNnhqN1p2Z1k4WjYtcWM0U0dFUnR6VE1LTExyenBjanFQY1hDdEFpOTNvUkxrSHdzb3IzSFI2SVk4UW12bkxVNk9yYWxpaWhuaklrZkJqLS1tWTJnYkFRRDRmRHJzdmgxLWpTaXVVRTlYWk9oRVJ1OS1xRHNabWFwc05tMFNmSFZhRHhReEM1blNld0FzU0hSYk04NGpWeDRHLWpsLTNfb2ViTW9lWGM2UG5VTVk?oc=5
+   <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVZuNnhqN1p2Z1k4WjYtcWM0U0dFUnR6VE1LTExyenBjanFQY1hDdEFpOTNvUkxrSHdzb3IzSFI2SVk4UW12bkxVNk9yYWxpaWhuaklrZkJqLS1tWTJnYkFRRDRmRHJzdmgxLWpTaX
 
-17. **«Mallorca Confidencial», de Daniel Ilundáin | - elcotidiano.es** — elcotidiano.es [es]
-   https://news.google.com/rss/articles/CBMickFVX3lxTE1DdTFDUG1JczEyWWlRM2ZMZ1BOWTUtcy1wTkdmVlQ0NC1MU0t2MmZ2QmRqMjN5SUZZNzBMMnRQVmtuSERwUGg4eENrR0xsX1RkV1JTM2pwbi1XN1Z0SFVRZUd2RHRVOWREOVEtWExJTGdHQQ?oc=5
-   <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1DdTFDUG1JczEyWWlRM2ZMZ1BOWTUtcy1wTkdmVlQ0NC1MU0t2MmZ2QmRqMjN5SUZZNzBMMnRQVmtuSERwUGg4eENrR0xsX1RkV1JTM2pwbi1XN1Z0SFVRZUd2RHRVOWREOVEtWExJTG
+28. **Les gens du voyage envahissent un stade de foot avec 120 caravanes : un gros rassemblement évangéliste près de Toulouse - Actu.fr** — Actu.fr [fr]
+   https://news.google.com/rss/articles/CBMiggJBVV95cUxQQS0tSndwdVFnUUxzMngxNjFhWmh1N3dZNlkyQy1Cd0tZbW5NSXJYbmhCaGtqUVhGbzFYNWpNMUhaTDF6X0xiQVpvSGhNRlJGSEpDMFBVNElUZXNPN3N6NEhnaDIwMU05VE1XQ1h4ZjRFZ3l4bUFldTltQWlJMXYzUHlicEVlUFpsWEVkY3lxdnZPZmRtNzJhT3BSWFA3X09wN2RQLWc2MGJnYXpHalA3anZuV19aeXRpMW5HUW8wTmpXZmVSd1NNa1NHU1dZUTdqVVVJTDQwRG1Vei14a0FZZFllZUt3MUlDRktURmx5cTJPVl9MUGM3Zm5IX2J1Tl9ielE?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxQQS0tSndwdVFnUUxzMngxNjFhWmh1N3dZNlkyQy1Cd0tZbW5NSXJYbmhCaGtqUVhGbzFYNWpNMUhaTDF6X0xiQVpvSGhNRlJGSEpDMFBVNElUZXNPN3N6NEhnaDIwMU05VE1XQ1h4Zj
 
-18. **QR: "Nueva" forma de fraude electoral - Diario 24 Horas Quintana Roo** — Diario 24 Horas Quintana Roo [es]
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCcGZoRWo3aWp4NjV2X2NBNTU3OFJHcGVpeDR1X1BhTkNZNjF0TnpEYWRtZFFjQlh6ZHZSbHRMN3JxS0o3TjRFQ3ZIZGhmRmxlZnhLenFFd3NxM1E0cGlGNHJXemI?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCcGZoRWo3aWp4NjV2X2NBNTU3OFJHcGVpeDR1X1BhTkNZNjF0TnpEYWRtZFFjQlh6ZHZSbHRMN3JxS0o3TjRFQ3ZIZGhmRmxlZnhLenFFd3NxM1E0cGlGNHJXemI?oc=5" target="
+29. **Gironde : les caravanes des gens du voyage ont quitté Bruges pour se rendre sur l’aire de grand passage de Mérignac - Sud Ouest** — Sud Ouest [fr]
+   https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdG50cXNTVGVFWnFka2VmX3g5NGtFaWMzMVVNS3YxdVBXZUdVc3JXSXZhQ3VndlV1TVBDd0YyTk1YOTI0eURzODdidEV0YS1jVjdyczBQMXBRb09Zc2d6OWZ6LUxXNHh1Y2xRT25vbXBGaTV5TVJ5dWpSanVzeDdONGhYVFBmZmNZMDR4Szhib0NucmduMFN1WHZDSkNjbm5SQ1VZQ0xPUTNlcktYVVI2djhWemo2WWJjVFVyRUhjdWVBcVRyUUVla3ZfUWVhVlczeTY4aHNZcmQ1bXlBbDFmbVFjUW9CeTlLdnUwZEN5YlIwLUc3TzdIczI1aw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdG50cXNTVGVFWnFka2VmX3g5NGtFaWMzMVVNS3YxdVBXZUdVc3JXSXZhQ3VndlV1TVBDd0YyTk1YOTI0eURzODdidEV0YS1jVjdyczBQMXBRb09Zc2d6OWZ6LUxXNHh1Y2xRT25vbX
 
-19. **Où se trouvent exactement les trois nouvelles aires d’accueil des gens du voyage autour de Perpignan ? - Actu.fr** — Actu.fr [fr]
-   https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbk5vYnlHN0dmazhYTThCOHRvMzhLaEZSZDBzVzJRbmtkSEJBWTdLNGZwdWt4Q0xTbkNyQXFJeE1xcTNqVFRGNlJlM1JBVWtVTzNQQVRGY19Pc2djaXBpM0lvOUFleFlrR0NrVy1CMHpNNzMweHZzNnY4RjgtRkVUTllIZWRibHlaLXdKVnRTRHYzQW5faUMxb0UxTnNfalB4VkE4Y2w0UF9KVUNRZVhmbnpLTjJERkxfNlFRQ2ZkeE4xaWVBb3k4ZjJQajUwd3FuNkhuUlU5Q0w3b2ptLVJIeTdLODJTb1R5LWRkRmdmNUk1TWRRRkJUQll3?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbk5vYnlHN0dmazhYTThCOHRvMzhLaEZSZDBzVzJRbmtkSEJBWTdLNGZwdWt4Q0xTbkNyQXFJeE1xcTNqVFRGNlJlM1JBVWtVTzNQQVRGY19Pc2djaXBpM0lvOUFleFlrR0NrVy1CMH
+30. **« J’ai dégainé tout l’arsenal possible » : près de Bordeaux, un maire déloge un squat de gens du voyage en 48 heures - Le Figaro** — Le Figaro [fr]
+   https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa05JZHZESDFSQVdDd1NTSml3NlVQZEYwSWxaQ0FUajVEOXRRT0Q2T2JpY2k5SWpIdlUxNHk4R2ZIa19pQzhuNnNNbEdVazdwRExDdGJsT1JmaVRtSXUySzN1NUFkOFpaUjhDZmEtNnRfamx2dkNtZHd6LTJkZHBvb25FeWVLclpvalVLRi04V2RISU5VT05MaDNmLUM0WDZvZVlENlpna2wtUmhFbldlOEY5RzRkb280ZUR5M3VaaGRtMVR4Y2VKdnZ2b2g3d01JaXd5aDBsa2lsY3BGOEx2UEh6OWtxUQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa05JZHZESDFSQVdDd1NTSml3NlVQZEYwSWxaQ0FUajVEOXRRT0Q2T2JpY2k5SWpIdlUxNHk4R2ZIa19pQzhuNnNNbEdVazdwRExDdGJsT1JmaVRtSXUySzN1NUFkOFpaUjhDZmEtNn
 
-20. **Launaguet. Le groupe de gens du voyage a quitté le stade municipal - ladepeche.fr** — ladepeche.fr [fr]
-   https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDdSdEF1UXktdWVWbEQwTUVhQi1VN1czUVJub2NteXhpQXBYMVdSaTdZbS1MaG9wZUpZUEZ5ZzhLN3RscFlTVTI4TXNMbEpTYVQ2ME9aQ2hzUWJWRWNiZjdJTTVQNEM0LTV3N1FRNFRETkFJek9vT3NtNFhtcV9JUFNhdlE1ZGo3cW1tYzlubWJmeDRwSUp4a0hROTVjTWFkRUw0MzUxSQ?oc=5
-   <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDdSdEF1UXktdWVWbEQwTUVhQi1VN1czUVJub2NteXhpQXBYMVdSaTdZbS1MaG9wZUpZUEZ5ZzhLN3RscFlTVTI4TXNMbEpTYVQ2ME9aQ2hzUWJWRWNiZjdJTTVQNEM0LTV3N1FRNF
+31. **Carcassonne : la mairie RN invite des gens du voyage à s'installer sur le parking du Conseil départemental... dirigé par le PS - Orange Actualités** — Orange Actualités [fr]
+   https://news.google.com/rss/articles/CBMijAJBVV95cUxOU0ZQU3dCZENwX0hxVC1mb0Q2d29WU0NpcU9YNU8wMmJUcjA1N1JJeGp5ZXBUcmxoemdQUU5jTkQzVlJmaUJ4RlhWT1RQWFpuNnNlcGdFazJoaFkxM0RiR3ZGbzU0THFHaW8wQ1pTdGhtV2s3WmU3QW5tV0p1VXlzNHRlQ0lzTElpVkdJMDlSakRTazBseUNWbWo3c2h1aDhBdzZEVGlLd1ZYOWFJa01VTGNKZUJnWEY2UjN0MGpHZ3BfNDdZMFhKU2MyV3NySGVPM3Y2XzRFdGJJMXcwS2dFZjNFOTd2S2xuNGQ0VHBIVlJaWjBuSTJic09YN3hjcURrZzBzV3YxNzItWHFh?oc=5
+   <a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxOU0ZQU3dCZENwX0hxVC1mb0Q2d29WU0NpcU9YNU8wMmJUcjA1N1JJeGp5ZXBUcmxoemdQUU5jTkQzVlJmaUJ4RlhWT1RQWFpuNnNlcGdFazJoaFkxM0RiR3ZGbzU0THFHaW8wQ1pTdG
 
-21. **Près de Bayeux. Deux membres des gens du voyage jugés pour le vol d'une carte bancaire lors d'un démarchage - lamanchelibre.fr** — lamanchelibre.fr [fr]
+32. **L’accueil des gens du voyage au cœur du conseil municipal de Laillé - Ma Ville** — Ma Ville [fr]
+   https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVBmZlFfWUJLbzk5V0VpOTU5ekpQakk3WWVldFJBMzFPQkhKMG9aTTJkSk5ZMTBjLU83M0djbWxmaXp6ejdaSmtfOTFPVG40YlJBcHVnaEx1eWl6cmozYjNvb2Q2MXlGbnRVSkRzRkcwd2ZLR1l4dl9SX1d4UVhQblpiREhGT0hpVV9OWF9MOExiTlAzYVpNRlBuQkZPVWVjajl3UXhHbXNrZFBIV01BMmRUaXVqajExS3pFWk0ydTVqS296TzhmLUVn?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVBmZlFfWUJLbzk5V0VpOTU5ekpQakk3WWVldFJBMzFPQkhKMG9aTTJkSk5ZMTBjLU83M0djbWxmaXp6ejdaSmtfOTFPVG40YlJBcHVnaEx1eWl6cmozYjNvb2Q2MXlGbnRVSkRzRk
+
+33. **Pact. Des gens du voyage sur le stade : une charte de bonne conduite signée - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
+   https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0dac1pXbnI1dEhWclh0YmhRdjFqMmRRNlJXc0RLeE9qSWlQeC1SQlZiZ0xzYzczS1JaZ2RwWE5jY0tWR3F5Y2FvZDM5b2M3OGxMYmlrSTJtY25FZEt3TC14R0tkbUduS0VyOEd0aXNlOU8xN0M2NHBudGRqejBXRUwyYjV6YXZwN18ybkFpNXMyUlRnVEN5ZVNCaE5sbktqZXB2azFEc2JzejR3Zjl4R0NHUQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0dac1pXbnI1dEhWclh0YmhRdjFqMmRRNlJXc0RLeE9qSWlQeC1SQlZiZ0xzYzczS1JaZ2RwWE5jY0tWR3F5Y2FvZDM5b2M3OGxMYmlrSTJtY25FZEt3TC14R0tkbUduS0VyOEd0aX
+
+34. **DECRYPTAGE. "Impossible de se mettre en règle"... Caravanes à Castres : l'installation est illégale, mais les collectivités sont aussi hors des clous, pourquoi la situation est totalement bloquée - ladepeche.fr** — ladepeche.fr [fr]
+   https://news.google.com/rss/articles/CBMiowJBVV95cUxPelItd1VNUFVFcENMRVBCWWxRaENvaWFlRVBMdmhXZTVUZG5PcDdmMFoxUXlEaHVXN1JEbFFiOWUycXBnODg4cXlIYWRnMmtJVDR1TWllemJ6UXZFYVU3Z2NhQ1VqbENxWjJrZWNRSG45eUpVQ2doNU51RFE3QkZLeUYtdG5qbjF2YnU1alQtS1dlV3FiTmhEQVhVSmxfa2wwSGNCeHlfcUtYS2k0OU1pbzIwZ0t4ZldhMFQ5M0FVd3lDUTAwNkUzZUc2Tks1aUI3WTZMVmNLcFEzNDJ4NnpjV3hMOENJR3RUWUpUdjhTVkp3RXRwak9zNXRhcDV6Qk40Tm54dFNfQ2xIcWFiNVZGQngtd1A1TWJpODJYaXpJVDRhejA?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxPelItd1VNUFVFcENMRVBCWWxRaENvaWFlRVBMdmhXZTVUZG5PcDdmMFoxUXlEaHVXN1JEbFFiOWUycXBnODg4cXlIYWRnMmtJVDR1TWllemJ6UXZFYVU3Z2NhQ1VqbENxWjJrZWNRSG
+
+35. **Son terrain de foot occupé par des gens du voyage près de Lyon, le club annule ses activités : "Nous regrettons" - Actu.fr** — Actu.fr [fr]
+   https://news.google.com/rss/articles/CBMigwJBVV95cUxQb0dEejV3RkFIMG92Nkc2Tmpvenc1dERJWGlCVDJ4cmdIMFNBNjI0Tlo3OGZTd2tEQ3dqYjR1RXlZQ09zM1pVYUNFSGVmTHZDS0h4U1luSFNBeUd0MFpUSFVNWFJTR0VsM09SVlo2ZlVzak5mNmRndEJ3a0VlaTBNTnNERno3MEh5UXpHQTVLTlZhVWhxNTBMbUxGS2Uya2tsT1JQM3p5bTJJWjJjQkxmZUVUQnItNXcxV3NqeXhFUy10S2lSdy1XSVBRMGNkWVh1bHBVWXpmdU9sVm5xWkFBLXNaTWFCUnU4S1lqUldkTE9fbkgtSFdpTUhpbV9meGV0QVpB?oc=5
+   <a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxQb0dEejV3RkFIMG92Nkc2Tmpvenc1dERJWGlCVDJ4cmdIMFNBNjI0Tlo3OGZTd2tEQ3dqYjR1RXlZQ09zM1pVYUNFSGVmTHZDS0h4U1luSFNBeUd0MFpUSFVNWFJTR0VsM09SVlo2Zl
+
+36. **A Grasse, les Roms du squat des Quatre-chemins expulsés ce mercredi matin - Orange Actualités** — Orange Actualités [fr]
+   https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWVDWVR6VkNob3cwZHUzdEx3MkxpTmZ3X3dEeWtaeksxV092bkkwWUxXR0ZiNldwaDJlV2JYRXdIMExOZnNxb1JVTnJVMjJmbTBFTmRSa0pYeFJNeGI1SHRJa0lNY1c1UjdIbm1iaUhRVUNNSDFWUS1DaTZFMl96YWRLbnQxVkpieGE2TFJzZW1XWFFUYXhkQjFSZV84SkF2UkJVQkNaQWNmUzNIcl9saGVUUlVqc1NDOTJaY25QZHlKTUtFTmNDdzRmVmdvN00?oc=5
+   <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWVDWVR6VkNob3cwZHUzdEx3MkxpTmZ3X3dEeWtaeksxV092bkkwWUxXR0ZiNldwaDJlV2JYRXdIMExOZnNxb1JVTnJVMjJmbTBFTmRSa0pYeFJNeGI1SHRJa0lNY1c1UjdIbm1iaU
+
+37. **Gens du voyage : la mairie RN leur propose de s’installer... sur le parking du Conseil départemental ou dans une commune dirigée par un maire socialiste - ladepeche.fr** — ladepeche.fr [fr]
+   https://news.google.com/rss/articles/CBMioAJBVV95cUxQR19lRmxmakRrVkJlQkl4NVdiczNLdjBvX2l3QUdwZ19TUTAxUGNMOHo3X0VfdEpzT0VWSTIzUVk2dlVkM1d0VGFNQ25iZjlJRFFWWnlqcHlRbE12cU9QU3EyUHpBNjRneWdSejMtVFlKM2tHUi1UVlFSNnZ1S05QNEM0Tld6Q3Rua053dkFXaUFhdHZFX0haUnJzZGpvcEppZkVCQXgzRzh1YlYybG9ONnpDVUJuVU5jV19DUkpRb3BpUjg2Nk5Ib19FTmVVRldMZHdiRXk4THBpazcyOUxBZklaT3ZSSUJUXzhjZERsajc5Y3BXMF9SeThvZ25BeUxOWTNJblgzR0lhQVk5UEdqck9rUklRYmhWNGQxemxKWUU?oc=5
+   <a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxQR19lRmxmakRrVkJlQkl4NVdiczNLdjBvX2l3QUdwZ19TUTAxUGNMOHo3X0VfdEpzT0VWSTIzUVk2dlVkM1d0VGFNQ25iZjlJRFFWWnlqcHlRbE12cU9QU3EyUHpBNjRneWdSejMtVF
+
+38. **"Ils ont choisi de saccager un terrain de foot neuf" : ce maire "dégoûté" par l'installation illégale de gens du voyage - Actu.fr** — Actu.fr [fr]
+   https://news.google.com/rss/articles/CBMihgJBVV95cUxQOHBFbU9MME9TOXNKdDZjSnpqbFBoRXlOV3M5eDZVVUVUNDdscVZKdEpMd1UyUEtXYm9ScmJOWmZqNUZUdEltczhEWHZZOXBHMmVlMk51YnFjNlVTZU5xNWM3QjhYdXZ5R1JJZW5pQ1NsUW1rYWNHcGNQYVVsZWhWZ0FSVEZBb1ZYWjlRUWNhaG9RQzdzOFAxWFo1eThTVzlXU3QteDBtOHNEWXlLdjFvYXBDS2JLU3NubmZoVC1oTDNLdW0yM0VrM3ZMNEF6QTVhY3lUWVYxaVVMMVNrT3VlajczYmRPX19hVnFIMFkycEFDY1h1aVJtTUJlMGxKdnNpTmVLMUVn?oc=5
+   <a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQOHBFbU9MME9TOXNKdDZjSnpqbFBoRXlOV3M5eDZVVUVUNDdscVZKdEpMd1UyUEtXYm9ScmJOWmZqNUZUdEltczhEWHZZOXBHMmVlMk51YnFjNlVTZU5xNWM3QjhYdXZ5R1JJZW5pQ1
+
+39. **En moins de 48 heures, ce maire de Gironde réussit à faire partir 130 caravanes installées illégalement dans sa ville - Actu.fr** — Actu.fr [fr]
+   https://news.google.com/rss/articles/CBMiigJBVV95cUxQS2pPUzk1cHJpREtKWlVWVjhRUDhra1BmcGN0d1BQNUdsbGpQdkJFekpyUG1uQ2tza0FOWE1KaUE1WFpTVV9sMm1mSEU3aGRoNy1rcTlpMGM1Z0VuVFlaWUlJYU9Bd1A2S3JCRC1ZLXhVYVpNVF9wWElWcUIzbC1ZNHlsZ3F2bGhEbXY2U2ZKNEdDRzlfT0UxcEc0SC1rOTZ3WkYtalIyRVpMbDIzajdDUTZwMi1kSGJCMFJXRUFKbW1jVkNBck5MWjk5NHJqVnF0LUFlaXdURlVmMTNaRVp5bkxsV1h1WWhJSHZTWnZQR2xRajVFN3AzTHE2YVYyU3ZZWG5IQjR0eTAxQQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxQS2pPUzk1cHJpREtKWlVWVjhRUDhra1BmcGN0d1BQNUdsbGpQdkJFekpyUG1uQ2tza0FOWE1KaUE1WFpTVV9sMm1mSEU3aGRoNy1rcTlpMGM1Z0VuVFlaWUlJYU9Bd1A2S3JCRC1ZLX
+
+40. **Castres. Opération de police à La Borde Basse - lejournaldici.com** — lejournaldici.com [fr]
+   https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEVrUVNKQ3NkYW5KYzZnazhEbWVTZi1uTHdzQ3YzdmJ4eGJRdy1Dczg5QTI5cnlLaW5UTy1GUGZKNGxhTV9mQWtGMFl4UDQtbEVkZDR4YlRHbThTOVd4TUd4aGFSUUp3WGx5TzVwbGhpTndobGd1OEVKTUJxVHo1dkxnUW1FenB1VGc?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEVrUVNKQ3NkYW5KYzZnazhEbWVTZi1uTHdzQ3YzdmJ4eGJRdy1Dczg5QTI5cnlLaW5UTy1GUGZKNGxhTV9mQWtGMFl4UDQtbEVkZDR4YlRHbThTOVd4TUd4aGFSUUp3WGx5TzVwbG
+
+41. **Près de Bayeux. Deux membres des gens du voyage jugés pour le vol d'une carte bancaire lors d'un démarchage - lamanchelibre.fr** — lamanchelibre.fr [fr]
    https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQzRNc1Job0UtbV9FQTRxTmgyckJwTzBOemZjSmtTaV9yamMzci0yb1Fmb3FXdXBIRUlZTXkxUGpCYk1DOTR4VDZtaHlxcnNHenJVX21veU01UXpFdFByYXpSSXNuWFA3Z29ZWmwxUkVMLW41SnZlVzVBZHJxRXpkeDJfYk9TSVk1ekhBczhqb3VWbktyeGxubGpPVWRyeHVSUENOQWJlNjhzOEc5aVpkZXFZUWVEYTQ5dDJuOVcySFp5TEVLWFc2bjhuY1dwd3hhel90VTVPaU9yUTI5VFBPbTViNjNFWDh0?oc=5
    <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQzRNc1Job0UtbV9FQTRxTmgyckJwTzBOemZjSmtTaV9yamMzci0yb1Fmb3FXdXBIRUlZTXkxUGpCYk1DOTR4VDZtaHlxcnNHenJVX21veU01UXpFdFByYXpSSXNuWFA3Z29ZWmwxUk
 
-22. **Résorption des bidonvilles autour de Nantes : « Notre politique porte ses fruits », se félicite cette mairie - Ouest-France** — Ouest-France [fr]
+42. **Gens du voyage en région liégeoise : pour une "solution concertée" - L'Avenir** — L'Avenir [fr]
+   https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVkRNMnMzM2x0Q2VOMjNpaFhGZEtYRzBhVEV6MFlvbEswNVl0T281eWtKRWd4NVZyUVpwZllkN3owakxLWmVweDY0RzAxdTNnZ0U1bTY4MUFJdFpQQjdKVHRhaVdydG9HX2VDWU95T1p6M1EtNllLNlJfMVZTamFVczY5ZFNoX0pianc0cEpKaVlJMFJPbjdTTVlPU3F2RURBQnJhRkltWDVvQUZmVTZqclU5ejJUbDc1M3NqWkwwTElBNUVXOS1OdlBiSUh5LXV2aEQwSERn?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVkRNMnMzM2x0Q2VOMjNpaFhGZEtYRzBhVEV6MFlvbEswNVl0T281eWtKRWd4NVZyUVpwZllkN3owakxLWmVweDY0RzAxdTNnZ0U1bTY4MUFJdFpQQjdKVHRhaVdydG9HX2VDWU95T1
+
+43. **Bassin d’Arcachon : Après une altercation avec un élu, un camp de gens du voyage évacué - MSN** — MSN [fr]
+   https://news.google.com/rss/articles/CBMiywNBVV95cUxNRVRkZjh3b2plRUpWSGllM1lfZE56VWhuYUZsTUlETlpXSjcwaUdYV0dMOXRGbEEzdXNyVl9aMHV4M09vUkEzX1RMN1lMZ3p5d04wemc2YTFnN1hMREZLTEx3RDhleWFhZl9VSi1vRWlIZXhwbVlLbmpuLTIybzlDZlgyYjM0bDBIZ0ttazl6RjFQOVBJY0tLaHQzeXFoYUt4WG1ZUERiYjEwN2RUNHVnbkZNZ1NVVXJocFNQSXV1ZjlzREI5QU9vMlk4ODUtMjBpVlYyRlRNQTJCM0J5U3BYVDlucHhQTUtaWTRlRnZtd3JPRE1BQlBkR09zUDgzTUwtNlc1WHVyeVVGRGo4dlUwS3JQNXE0bGFRbVlzSXBvRzUyNjBoUElSYXJwNU9rQ0xUakRTUjRmdVBMRk93Nm44dng0dVNSYWNERnZzR3hFU1NvTXh2TEFDZjhnUVEyaWJpajBiRHpvNUFtajdIOWlDclpHXzJpOEphMlpXb1l2b3YxRnBnMjdqdWhoLU1vN2t2YVJ1M3FCQ3EtM201YXNjRktRZFJDdW1vaHVONjdMbXh1dl9ObmxtQU5wT3Jub3haNDNqVkk2SjFFODg?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiywNBVV95cUxNRVRkZjh3b2plRUpWSGllM1lfZE56VWhuYUZsTUlETlpXSjcwaUdYV0dMOXRGbEEzdXNyVl9aMHV4M09vUkEzX1RMN1lMZ3p5d04wemc2YTFnN1hMREZLTEx3RDhleWFhZl9VSi1vRW
+
+44. **À Ploudaniel, 250 caravanes installées illégalement sur le terrain d’un agriculteur, un arrangement trouvé - Ouest-France** — Ouest-France [fr]
+   https://news.google.com/rss/articles/CBMinwJBVV95cUxOWUxLT09fdG9rWVlQS3NrQ2ktb2YwbnhkRnZzN0ZtR0NCeTROZVZ5WnZCYWY3UE1XQ2JoM081V0t1SEh2ckJERFNKdzU1Zlh1LUVrQ05rc2ZPVXB4dDc2SHE0UEFMd3ZvVHJsRC0xcnpHbnNudkotamNJblZ4dXhVOEhEV3FjOUZkZzVPQWR5RUJfc2xLN211eGc3RE9WczhkbXVBVHE1NTNSQXg5RzJVQ2xQLXVCRnV6aHRlNFZCcEpQV0RxclZUTlpGcy1BRTRTRVRxZU1nWVpsaWRaTXJVYW5xUWlqcWJnRjN3VjFPYXhSOV82V1lHc3JtZXpMQ0stOWkwMFljX2NNTWJtemNnaGNYWW9MU0s1cjB1QlNaZw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMinwJBVV95cUxOWUxLT09fdG9rWVlQS3NrQ2ktb2YwbnhkRnZzN0ZtR0NCeTROZVZ5WnZCYWY3UE1XQ2JoM081V0t1SEh2ckJERFNKdzU1Zlh1LUVrQ05rc2ZPVXB4dDc2SHE0UEFMd3ZvVHJsRC0xcn
+
+45. **Résorption des bidonvilles autour de Nantes : « Notre politique porte ses fruits », se félicite cette mairie - Ouest-France** — Ouest-France [fr]
    https://news.google.com/rss/articles/CBMinwJBVV95cUxNRXlFd3dNeFhDVUd2a25OeHQtMnlvZVkxandFV3A5bEoyYUN0NHItNmxtMWhwS3RtemlSNnE5VGR2Y3VBd3ZhYXR2dW5rMEI2N3dGeFVhU1hWcWh1X1o4OG8yQlVDTEZJMlRqYXlIbjh2clVMZjBjdndzY2FTMnlXU2Y1eE94MG0tV1VlOWFORE00aHZXVmE2cTYyZVJRT2NYSkFsdkRnSk1ySTVKdFo3c3JUeGcxQjREZUlOcDhJUmI5blhJSG9MMDc4MUhoWWRvdTVVM3h3eW1wZDB1SDYyUEhoWW5nSXI5NWppeUt3b19oTURORXBlY2J3OVlqb1hyUEFwb2MwSXJVZzVFTV9FMkFUd2R6V29ENldlazFuaw?oc=5
    <a href="https://news.google.com/rss/articles/CBMinwJBVV95cUxNRXlFd3dNeFhDVUd2a25OeHQtMnlvZVkxandFV3A5bEoyYUN0NHItNmxtMWhwS3RtemlSNnE5VGR2Y3VBd3ZhYXR2dW5rMEI2N3dGeFVhU1hWcWh1X1o4OG8yQlVDTEZJMlRqYXlIbj
 
-23. **Gens du voyage en région liégeoise : pour une "solution concertée" - DHnet** — DHnet [fr]
-   https://news.google.com/rss/articles/CBMi9AFBVV95cUxNck5yRUJsM0k1d2w3WS1VSEIyaUhMNnZqTVc1LVRUQVBVMFFXWGc1QTAyUmVvRnpPYXVUSW9DN3AybkNMWkpDT3l6a3hpb2JLc25pMWR3bDhtSHdHcjNPM05uYjRJRUZlSnJKRkdNall5OEtqNUdRU25Od2o1UzNsZXI1Nm11TFYtYlhtMFIyZ3d4SHlUWkp6S0JXU0F4Y0JuNDBUMFBjdEIydkx2d09sbWs5U2lMemxQREgxWVhJVjU2aGJGNVJsUDNlSU1KQUIxSTNoYnJnUF9EcHBzakhJczEzMGFmVXF6QW5vb1BndWdONzl2?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxNck5yRUJsM0k1d2w3WS1VSEIyaUhMNnZqTVc1LVRUQVBVMFFXWGc1QTAyUmVvRnpPYXVUSW9DN3AybkNMWkpDT3l6a3hpb2JLc25pMWR3bDhtSHdHcjNPM05uYjRJRUZlSnJKRkdNal
+46. **CASTRES. Castres. Les terrains de la Borde-Basse occupés : le dossier entre les mains du préfet, le tournoi de l'Aviron Castrais menacé - letarnlibre.com** — letarnlibre.com [fr]
+   https://news.google.com/rss/articles/CBMihAJBVV95cUxNQkNDNWQ2akFqZzk2cXVZMC1FSS1TdHZOMWV0S0VLcENWOGx2cV9sdk1jOVQxeFd0UENSc3VYWW91NTNacUlOcHVBVnhsYzRwVkVDczl3dWZDZ2F2MTNvbXNySGJIM3NSeTFCWVJOT2I2UUQ4UFJMbURYUzIxU2xTUUthVnlhWVoxeFJRQzZUcUw0ZTdTeGxPeGpSQTM0UVpSNVNIWEhhQVZ2aDRWOGphSmdZV2RFY2RMc0luRHdYcmR3b1RSdXl0M3pvemhiQTVWN3Q3RXMzZWpmaEJIZ01mZ0x3S2o2VUJTQ3gxQ2tjZHVoUjZ0NzlNYk96WmRDam9WZUVGNw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxNQkNDNWQ2akFqZzk2cXVZMC1FSS1TdHZOMWV0S0VLcENWOGx2cV9sdk1jOVQxeFd0UENSc3VYWW91NTNacUlOcHVBVnhsYzRwVkVDczl3dWZDZ2F2MTNvbXNySGJIM3NSeTFCWVJOT2
 
-24. **Fonsorbes. Gens du voyage implantés illégalement: le maire lance une procédure - ladepeche.fr** — ladepeche.fr [fr]
-   https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0Q3OW9EMFF6LURIaTI1UHZkSWZhTVAzRGdQdWxqOGg4c2tlaUVHN0dGaE40OUo1MHpZQmIwLW81YzFveFdrc0RGcUU5eE0teHM4TjNLRmJ1NzZkdHE0WGtzSV9ld2F3NW5TMUMwV2JNT2ZVNThQczlUY3hvRWJ1anhvZFloa190Q0l2OGtaYzl3Ym0xNVFSWVk2UDljUVh5bnZNZ0JYbjdaTDB2N2JMM2FWQmZtUQ?oc=5
-   <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0Q3OW9EMFF6LURIaTI1UHZkSWZhTVAzRGdQdWxqOGg4c2tlaUVHN0dGaE40OUo1MHpZQmIwLW81YzFveFdrc0RGcUU5eE0teHM4TjNLRmJ1NzZkdHE0WGtzSV9ld2F3NW5TMUMwV2
+47. **Licra DRÔME : Concert de Nicolas Haler à la MJC Grand Charran - Licra - Antiraciste depuis 1927 - Licra** — Licra [fr]
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHBuNVREU2l0STE1RWdJWXNra0JQaUl2bjhSSFlfU0NXeTFGNzhHS2ZMWjA4dDg5NDd4VXVrR2t0aUtQekVMemxhZzFBTnBUbjduWlBDdTM3Q3U0aWU0NE5iVXpRd1NzckFFNGZWQ2hVNVd2LU52XzJFOWpzX0s5M2dibUtieVZx?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHBuNVREU2l0STE1RWdJWXNra0JQaUl2bjhSSFlfU0NXeTFGNzhHS2ZMWjA4dDg5NDd4VXVrR2t0aUtQekVMemxhZzFBTnBUbjduWlBDdTM3Q3U0aWU0NE5iVXpRd1NzckFFNGZWQ2
 
-25. **Redmi K100 Pro : une nouvelle fuite révèle un écran 185 Hz, une batterie de 8 500 mAh et un appareil photo de 200 MP. - fr.xiaomi-miui.gr** — fr.xiaomi-miui.gr [fr]
-   https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGxZcGZaaWdhdl9fUUdCWnhUN0UwMHZQaDdiWTRZZHY2VnRlbGNTMENzbEpDZTZ6bzdkNzlaUFBWRmVyb2NNUGFRQ3haTWFfanVuZExDVTFrdlFqQ1daWTZWZ1RHWktxeVNLY2RINzVQTGNxZ2tTNWdxRVZTN0ZTVzZ3?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGxZcGZaaWdhdl9fUUdCWnhUN0UwMHZQaDdiWTRZZHY2VnRlbGNTMENzbEpDZTZ6bzdkNzlaUFBWRmVyb2NNUGFRQ3haTWFfanVuZExDVTFrdlFqQ1daWTZWZ1RHWktxeVNLY2RINz
+48. **À Ploudaniel, 250 caravanes installées illégalement sur le terrain d’un agriculteur, un arrangement trouvé - Quimper Ma Ville** — Quimper Ma Ville [fr]
+   https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYmUyeGZ6NXpmT2hadWl6RlctSUhIVHZVNHZlV0N1NUE3WEZBQXlpNXoybTk5UTg2NzV2RmdaVEZDSFFKT3Q3R09uOG1yYmdDVkdrWUEwdHNLT0FJQTlNMUJHOTd2YnN3d1h3Q00zdG1tcmRNVmF0RF85and5a0RfUXZ3NlNSdkZFeGl4ZnBqVHJxVWhlelVqWHp1N0h5ZDhLV19MQ1dqX3JjZmQ1MmgyREViVlp4SWpPQW93V1paN2ZPMG92VjIxUk9aVlhXZG54cnE4NUk4UlpqMVpjVTQ0R1lHc082SEU5ejRkcndndlZhYmx4WVE3SHNnVTA?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYmUyeGZ6NXpmT2hadWl6RlctSUhIVHZVNHZlV0N1NUE3WEZBQXlpNXoybTk5UTg2NzV2RmdaVEZDSFFKT3Q3R09uOG1yYmdDVkdrWUEwdHNLT0FJQTlNMUJHOTd2YnN3d1h3Q00zdG
 
-26. **Soixante logements sortent de terre à Blagnac - ladepeche.fr** — ladepeche.fr [fr]
-   https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGVIc0F6VG9LZEs4MUFKUmg1WDVFUWozMnA5T21aRXItdm4teVRGVW5MTjh0d2F0Qm5NWjY4U1VaZkN6eThZaVhQYlJJU0QybGtfdXd3WU8xNlJPZGJ1SmxQSDlvRHVyZDFYMzJ2emdpRGU3UGhTa1BWTmpVcXJlanNxNy14TjU2UUI3ZWVTMy01VzdqYm1DekZn?oc=5
-   <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGVIc0F6VG9LZEs4MUFKUmg1WDVFUWozMnA5T21aRXItdm4teVRGVW5MTjh0d2F0Qm5NWjY4U1VaZkN6eThZaVhQYlJJU0QybGtfdXd3WU8xNlJPZGJ1SmxQSDlvRHVyZDFYMzJ2em
+49. **Missions évangéliques : faute d'aires de grand passage, les occupations illégales et les tensions se multiplient - France 3 Régions** — France 3 Régions [fr]
+   https://news.google.com/rss/articles/CBMijAJBVV95cUxPYzUybFc2MndPbXo2UlVjcjJubDFVYTZGcHhsNTlpVXowVmppcnRIN244YjlrREhJamNycmxsaS10eFZKNVdNLUdlcjAzSlFQWkRmMG9QX2VnU2FrUnI4ek5ob3RqUk9senQxRzBzS1NJWE14U2xBRnRYOXFqRFEtOTNUbkV0YVczVV9Id0R5UDl1ei04TEEyZ1pQOFN3RUdJYVNIRHp0THBYMmRuaWRDaV9JNk9JTkFHejVobXVtRUQ0ZG5MeHV0SWRXN0Z4eGdGekY2dGFZUU91NUdjUFhiVHNmcUVIaTJNR3FjbUVhTFFsbzJRQUkyZE9Cd1dDNGRNNWJKSEdZYUI3LXFK?oc=5
+   <a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxPYzUybFc2MndPbXo2UlVjcjJubDFVYTZGcHhsNTlpVXowVmppcnRIN244YjlrREhJamNycmxsaS10eFZKNVdNLUdlcjAzSlFQWkRmMG9QX2VnU2FrUnI4ek5ob3RqUk9senQxRzBzS1
 
-27. **Résorption des bidonvilles autour de Nantes : « Notre politique porte ses fruits », se félicite cette mairie - Maville Nantes** — Maville Nantes [fr]
-   https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3V2WkZ4WG9CTndvYXJVYjRDZlhTMlpiMHFLR280d2V6cmhIX3pYY2kxOWhIYjR1eFFsLXF3X0U1TWpVc1J4ZEwtR1lQdVhQM2I0dVlySzVROTB4eXo3YmJvT1F5V1FocXc2SjdFakdGMzhVd1Y1VkRiMmt6RDBTYzBDNVIxVFdhaGh4dUV2bkM0MlA5aHNUNkNFNFdUSjdoNEhCcHJlWkc1NGFvZktHNWpENWNvS3Jza1FJdm01TmZUM2VyZHVNbDJJRHlaZ25TQU5BMlBlT0lFYVpYWC10S1huS0VtUFZOclB3b2JPT04xQnJ2TW5j?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3V2WkZ4WG9CTndvYXJVYjRDZlhTMlpiMHFLR280d2V6cmhIX3pYY2kxOWhIYjR1eFFsLXF3X0U1TWpVc1J4ZEwtR1lQdVhQM2I0dVlySzVROTB4eXo3YmJvT1F5V1FocXc2SjdFak
+50. **Résorption des bidonvilles autour de Nantes : « Notre politique porte ses fruits », se félicite cette mairie - Maville Nantes** — Maville Nantes [fr]
+   https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZklUbGl5Q3BqRDg2MjlfZElERmJ4MjB2aEpQdFVaRE5pRWtGTFdIZWRnUzZNc3RMT01sV3BpTnA0M2RMOXVTYjBxZk4zSDFoVUNJUnVIZm9HY3BhNk4zcjBjRVFVck1ZRFFQNy1TTVN5U09RTlhSLVBKN29xcmpLUkRyOGVIRkR2bnNKMmJGZXp1dXM1d3hHRGwtMzlkaXpGcnk5cXZxdjZUaHozd3poTUkwYU45SVhwQkowMDdTM2R1NVN3WGNDWGtjYV9nTHU0V0xudXlxbVJWZ1Q2M1BpelEzNVpfT3FaTjZBZVhHOXZYdTQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZklUbGl5Q3BqRDg2MjlfZElERmJ4MjB2aEpQdFVaRE5pRWtGTFdIZWRnUzZNc3RMT01sV3BpTnA0M2RMOXVTYjBxZk4zSDFoVUNJUnVIZm9HY3BhNk4zcjBjRVFVck1ZRFFQNy1TTV
 
-28. **Villars-les-Dombes. Même délocalisée, la coupe de France de rock sauté a fait le spectacle - Le Progrès** — Le Progrès [fr]
+51. **Villars-les-Dombes. Même délocalisée, la coupe de France de rock sauté a fait le spectacle - Le Progrès** — Le Progrès [fr]
    https://news.google.com/rss/articles/CBMivgFBVV95cUxPX18waG92dWJJc284VTFUeVA4eTVQQWdvZVZFR1I2Y3NNUUxGdnlLOXJFNDAtci1DV0Rzam9BMFB3bWNsZmpGaVBuT0QxTV9vZTZUMTRCQk1RY1k4R3hxT3p0YTZ5amtSQVppbHg3NGJHUDB1c0ViX3pWbjJnclBNc3RaMURXM2E1YkZHbDlPU2xEYXBTSGlLY000VWl1N1BPUEtwcEhINlVud2F5MFhPc2tGOEFjemhQYmp1UFRn?oc=5
    <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPX18waG92dWJJc284VTFUeVA4eTVQQWdvZVZFR1I2Y3NNUUxGdnlLOXJFNDAtci1DV0Rzam9BMFB3bWNsZmpGaVBuT0QxTV9vZTZUMTRCQk1RY1k4R3hxT3p0YTZ5amtSQVppbHg3NG
 
-29. **Vorwurf des Antiziganismus: Gelsenkirchener AfD-Politikerin fordert Anwohner vor laufender Kamera zum Putzen auf - WELT** — WELT [de]
-   https://news.google.com/rss/articles/CBMilwJBVV95cUxOazR1VDVYYW5JMWsxTU4tc3JaN3lwU2xlVlBqZUZMSDNBaERsb2RKbmx3X29Cc0FjWXpoVWNpQVhndWgySnZIN0MtaVhFa0h4X2ljQ0EtVkItUHp5MWZyQVJLMmhENmNGckpWWTNLRFN2allHdDk2QXNBd2pHUFJQbjN0bGdmTjdLZjJ5bnpZa3BwYkFXREJJZ251akFXa0tiR1A4U2FwcTM4THBXV183aXpzUkd0cXpWTFdFaHZjR0xJQllxdTczdTVtUkg4NDNydERxbXBndTNWd1l3X1p5WHdMOTYyOC0xS01NOTZ6c2RVMHdCc1M5VHNsVjBQZXVoeHdnMDlHeVVTS3dkS2JiQXdWOWs4MzA?oc=5
-   <a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxOazR1VDVYYW5JMWsxTU4tc3JaN3lwU2xlVlBqZUZMSDNBaERsb2RKbmx3X29Cc0FjWXpoVWNpQVhndWgySnZIN0MtaVhFa0h4X2ljQ0EtVkItUHp5MWZyQVJLMmhENmNGckpWWTNLRF
+52. **Un incendie rue du Pont, à Liège : il n'y a pas de blessé - DHnet** — DHnet [fr]
+   https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUdqeGg1Mlc1VUJwY0VRdE9VelplT2IzcWF1WVJRYmNqY1k5dm5aSE4wMjM0SXRFRTNZekQxUkQta0w4UVJxZjBZYkNfSlJ2SGNhdG5aQ3UwN00wQXRTZThTdVFUWjg4X2dib3pJOWJSMjNSdVJ2UlU5QWJ4bVVUQXd3S2Jyc1M0TmNzMlRBNVhrNGFINUllU0F3SFJBTElneHF6dGp1VVcyREgtcUlESy02eE8yRDBkZzJzNmxzN1ViZ3dudlE?oc=5
+   <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUdqeGg1Mlc1VUJwY0VRdE9VelplT2IzcWF1WVJRYmNqY1k5dm5aSE4wMjM0SXRFRTNZekQxUkQta0w4UVJxZjBZYkNfSlJ2SGNhdG5aQ3UwN00wQXRTZThTdVFUWjg4X2dib3pJOW
 
-30. **20 Jahre Gleichbehandlungsgesetz: Ziel erreicht oder nicht? - radioeins.com** — radioeins.com [de]
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3cwemtVekZJcXlFWjFDTmV4YmZRMnNHVUlaTHlqZWc1NjdnRkp2UmZtOW53a0xWbk1rOXRGbWQ3SVlZam5mTWRtdW0tMFZwRVo4VEZxUFFiZXBRRDVsV01DelhPQTZCLUVSR0RaVFFTOWVyMXZzaUIwcU1VYVBISjJyT1ZBY1M0NU5tUE5nV09GSU5nQ0RBRmRZbDE?oc=5
-   <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3cwemtVekZJcXlFWjFDTmV4YmZRMnNHVUlaTHlqZWc1NjdnRkp2UmZtOW53a0xWbk1rOXRGbWQ3SVlZam5mTWRtdW0tMFZwRVo4VEZxUFFiZXBRRDVsV01DelhPQTZCLUVSR0RaVF
+53. **Justice fribourgeoise: une idylle de trois semaines lui aurait coûté 220’000 francs - 24 Heures** — 24 Heures [fr]
+   https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2dLREJVbjVoZGwxZFpOY05QWXVfYV9WVDBObWQwYjE1NWdrMy1ldTdTMXB2bHhIdTd4Q1dzVThMTXpSd2c3TmliQkJBdS1WMkdfdUtUdnFmdmc0STUwZnE0YUNWQ0RYLVJsVXhZSkcwSUp5NFI3RDg4RzdCdEVtZjN1ZUFGQmk5bGR3MHB2OXZLYnMwWVAtcEI3RzJZR3c?oc=5
+   <a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2dLREJVbjVoZGwxZFpOY05QWXVfYV9WVDBObWQwYjE1NWdrMy1ldTdTMXB2bHhIdTd4Q1dzVThMTXpSd2c3TmliQkJBdS1WMkdfdUtUdnFmdmc0STUwZnE0YUNWQ0RYLVJsVXhZSk
 
-31. **Asl Lecce protagonista al Forum PA 2026 con gli ambulatori di prossimità per l'equità nella salute - Leccenews24** — Leccenews24 [it]
+54. **Escroquerie à Fribourg : Un retraité se fait voler 220'000 francs par la femme de sa vie - MSN** — MSN [fr]
+   https://news.google.com/rss/articles/CBMihwJBVV95cUxPUXJRV0h6eG5zVEE3TDVmYlNyQXJEbjhTa0ZQM0V3TmdULVpJUEpRQlFjZS13RjB2UjJSVGpsMDIteC01NDFiNXVRcDRQX1B5RWRqOVE3T1lmWkNkMGVDNndPRmVRUkpIRTk4RHZmVGhxMVdiNHpIeGhaZkJEb1U4RzJranAtUGc2Zjh1VXF2VmNLaVIycG9ZdnZEWGpSYkhlVFI3c2hPV2VwX0hmZEJ2SVJ4MW5iVGxZOHlSTmEyYVNOb3RxZGNRVzcwenBWUHN4bzVnb1Fjb3ZxNG9OUld5YjZUakgtS0pXZzlNR0J0Qmw0N1FIQlRkNnFYVy1PQzB3d28zNC12RQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxPUXJRV0h6eG5zVEE3TDVmYlNyQXJEbjhTa0ZQM0V3TmdULVpJUEpRQlFjZS13RjB2UjJSVGpsMDIteC01NDFiNXVRcDRQX1B5RWRqOVE3T1lmWkNkMGVDNndPRmVRUkpIRTk4RHZmVG
+
+55. **Carcassonne : la mairie RN renvoie des gens du voyage vers le Département PS ou Alzonne - info.fr** — info.fr [fr]
+   https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWNmRWZYZjRPU0JEUTFWSmxSLUVodmFiQTVNaFZFaUlnNTVnNGttdDNKM3o5SEUzYWlnaEx5UERtQVJtbl9IdjFsYzN6ZzdEaHFjSXVlNU1nWGNJSjlKSTF6Q3FOUUlOcmpTamVOdFdBck9CVm5KS2VCMDBEazJUTGVLb29qMHJpaFhFWmVzZzNidV8tWUtDWmpoY2RvX25vLURiS1pOcw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWNmRWZYZjRPU0JEUTFWSmxSLUVodmFiQTVNaFZFaUlnNTVnNGttdDNKM3o5SEUzYWlnaEx5UERtQVJtbl9IdjFsYzN6ZzdEaHFjSXVlNU1nWGNJSjlKSTF6Q3FOUUlOcmpTamVOdF
+
+56. **Antiziganismus: Diskriminierung von Sinti und Roma in Deutschland nimmt zu - DIE ZEIT** — DIE ZEIT [de]
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUZORkxhNXRsbDVoTmZGd2xSNUdRVHpjRlBDYkw0TkxUS0I5UmJuVWtSNHBXemF3WjE0c01IdUJCVXlMamFVaHJRanNqY0dhRUpxc1l5N0FsRFdyaVJpUTlrV1c4NjZuQ0loZXFudmF2YUFPR0dPZVdXTGJOalo1X0hLZ3V3UWR1VVFWaHBn?oc=5
+   <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUZORkxhNXRsbDVoTmZGd2xSNUdRVHpjRlBDYkw0TkxUS0I5UmJuVWtSNHBXemF3WjE0c01IdUJCVXlMamFVaHJRanNqY0dhRUpxc1l5N0FsRFdyaVJpUTlrV1c4NjZuQ0loZXFudm
+
+57. **„Ekelhafter und abscheulicher Rassismus“ - taz.de** — taz.de [de]
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ReXRrbWFrQ1FoVWtwV0d5LWt3cWtBUVJQNGF1YTQwczVhWTJzd1NiV3pDeXpvX0xibFU4RzFtRVJXS09od21CdHFvbXpTUDd6N1lYT0VZWjNtOW5jdEZZ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ReXRrbWFrQ1FoVWtwV0d5LWt3cWtBUVJQNGF1YTQwczVhWTJzd1NiV3pDeXpvX0xibFU4RzFtRVJXS09od21CdHFvbXpTUDd6N1lYT0VZWjNtOW5jdEZZ?oc=5" target="_blank"
+
+58. **MIA-Bericht: Antiziganismus steigt auf neuen Höchststand - MiGAZIN** — MiGAZIN [de]
+   https://news.google.com/rss/articles/CBMifkFVX3lxTE94N21LanR4UmVOZkhidXMweC1NaE8wMU1qeDlSQzU2a25DNUY5cHVHd0Vpb1BlSUFmSTBqdjh2Q1J4eWZSNy16NFZwR3VtLTZtUlZxNUQ3UVlnT2gxdm9sYmRJQ0hUYzVMZ3Zka3JSbmdpSU5XbEpvdlQwSlJGZw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE94N21LanR4UmVOZkhidXMweC1NaE8wMU1qeDlSQzU2a25DNUY5cHVHd0Vpb1BlSUFmSTBqdjh2Q1J4eWZSNy16NFZwR3VtLTZtUlZxNUQ3UVlnT2gxdm9sYmRJQ0hUYzVMZ3Zka3JSbm
+
+59. **Jahresbericht: Sinti und Roma erneut deutlich häufiger bedroht und diskriminiert - STERN.de** — STERN.de [de]
+   https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzdrVm9XWl9CR2oxMDY3TTU2cmdZcUtfSXBjNDZjMUhEeTItekxWcDg0TFpidEdjVjdITm5JLVpmc2Z6M3g3aUw2STd0UHQwMjNDaEJld1RGbFMxbjF5MjRJUlc4czBINlhKc0RUQjFLUkVjSnJ2VnNHbG42T1Q5WkRPbnRWbUwycm94NXZjWkM2R2NPNTFUdjFKZHVWOTlMVlhKNDd6M2VyWFZmQlp2NVBBRUpLUGVQM1V2Wjhn?oc=5
+   <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzdrVm9XWl9CR2oxMDY3TTU2cmdZcUtfSXBjNDZjMUhEeTItekxWcDg0TFpidEdjVjdITm5JLVpmc2Z6M3g3aUw2STd0UHQwMjNDaEJld1RGbFMxbjF5MjRJUlc4czBINlhKc0RUQj
+
+60. **Antiziganismus in Deutschland: Mehr Gewaltvorfälle gegen Sinti und Roma – oft trifft es Kinder - RP Online** — RP Online [de]
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3BHVlF3NkRWTGF6ZW14WlhzTklMOXYwWTc4Q1FyWkVrekZtUHZJVkU1ckhMam14cmdtN1FhUjJoRzhtY3ZuQzFhZVQ1bzdJcmtSbVRnYkFZOW94b1Vma2RJbGxzbVVQQjM1LVFacmdNSFdOV2ZJcTVPS1JxZnljeHV0aFgwUHR4dHF4ZFBFUHJpUWxRYkl3cVJyWVNieXFLR0dZTWNmSU1OY1hOSG1Yd044anRObVZZRk5NQw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3BHVlF3NkRWTGF6ZW14WlhzTklMOXYwWTc4Q1FyWkVrekZtUHZJVkU1ckhMam14cmdtN1FhUjJoRzhtY3ZuQzFhZVQ1bzdJcmtSbVRnYkFZOW94b1Vma2RJbGxzbVVQQjM1LVFacm
+
+61. **Antiziganismus in Deutschland: Jahresbericht 2025 - ZDFheute** — ZDFheute [de]
+   https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTgxMm9GbzBxY0NDS191X0JZN3J6YVFxVEg4czQxQUJJYi1tS2hZUHRoZlJkSmhMREk3akRkdmpNczluQ2w5UWVQMURaN3RwdmZpT1d2X2N5ajEzY3pSQktrMHZ1TUxZYTFLeEFBaGp5VHI4QXdMcmFhcXhxY3huQklzZmVMa25NdDFoNUl6Z0YwbnBEdUJSZU5NUzh6dHdSaktPMmNhWWJUWXlBV25pSA?oc=5
+   <a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTgxMm9GbzBxY0NDS191X0JZN3J6YVFxVEg4czQxQUJJYi1tS2hZUHRoZlJkSmhMREk3akRkdmpNczluQ2w5UWVQMURaN3RwdmZpT1d2X2N5ajEzY3pSQktrMHZ1TUxZYTFLeEFBaG
+
+62. **Antiziganismus in Deutschland: Meldestelle verzeichnet erneut deutlichen Anstieg - osna.live** — osna.live [de]
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUlOdFpTYTJ3WHoyV3M0NEM4ZlowRFNSc2NLYzVoRm5CLUpLRDV1RHRreHN4c3BmVDNBWTlKMldOZEkxajZ2Ym5PSXdKZlMyTG53aHozbVJfLXhVTTNpUU1heHVBZUxiaHNwSkRRWG1BNGN0dXRFWEFWejVpRkhaUHd5Y0xNMU1GVUdXVXl5Y3o1NmZrY19qS0g4Q0FOZ19fNEZKWldXbElnX1Ni?oc=5
+   <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUlOdFpTYTJ3WHoyV3M0NEM4ZlowRFNSc2NLYzVoRm5CLUpLRDV1RHRreHN4c3BmVDNBWTlKMldOZEkxajZ2Ym5PSXdKZlMyTG53aHozbVJfLXhVTTNpUU1heHVBZUxiaHNwSkRRWG
+
+63. **Asl Lecce protagonista al Forum PA 2026 con gli ambulatori di prossimità per l'equità nella salute - Leccenews24** — Leccenews24 [it]
    https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2JMU3RwYThJMmtlNVIwcGl5dk12MEZic1ZpZEFiLVdJeVFDQlRsT1cyZTcxMHVESmVwRm9icjE0U2o4anJ2c3d1cHhZWnpqM01PeUZPSGdXY0t5YmFDM2F4SThHcmJWb0xyTUxvcUt1Wjh3Nl9FSmF0VFVfdXlNUkxCV3Z3VDhrV2FWZl84QQ?oc=5
    <a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2JMU3RwYThJMmtlNVIwcGl5dk12MEZic1ZpZEFiLVdJeVFDQlRsT1cyZTcxMHVESmVwRm9icjE0U2o4anJ2c3d1cHhZWnpqM01PeUZPSGdXY0t5YmFDM2F4SThHcmJWb0xyTUxvcU
 
-32. **"Възраждане":Нарушения на реда в Перник се неглижират, мерките са повече фасадни - БНР Новини** — БНР Новини [bg]
-   https://news.google.com/rss/articles/CBMivgFBVV95cUxPZi13emw0SnVfaUpWRWhCU0M3TGhCak5hNzRYNmRjUDg2SXVkSWVwR3R3OGZEYUNueEpWNGJhVWxKVHpDNEdWMVJWdjZCRkpYX3BLdDRrSy1ZaE0ybnBfVVM1d2ZYdHdobTNoR24zX3VPTFhfUjB4NW5KSDk1N0w3U2tiT3N5WG91VURiWE8yUmc4SDZMaFIzUzZKUmEyQjdFaGFtS0Rva21zdnNvb2FUSEZvZnBtVW9iaFRyb2VR?oc=5
-   <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPZi13emw0SnVfaUpWRWhCU0M3TGhCak5hNzRYNmRjUDg2SXVkSWVwR3R3OGZEYUNueEpWNGJhVWxKVHpDNEdWMVJWdjZCRkpYX3BLdDRrSy1ZaE0ybnBfVVM1d2ZYdHdobTNoR24zX3
+64. **Криминалистът Иван Савов: Имаме системен проблем – никой не уважава правилата! - epicenter.bg** — epicenter.bg [bg]
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTU0MktOY1RVam0tMU5fSDI3d0xGQVhyRU43clJHV2NUUnVKRi1EejRfdUlHNFhPMnZlSUJUeEk2VWc4N2RMcDdTV2V3VXhlRmNEOUFZd2VMQzBMNHJRTGdBcnZTZVVjaHJfYVZoY0Vsd0EyNGhRclpWRFhLTnlTWVNkSEZZQXhYbUl6R2h2UWlmU3BYNzlzZDNVSHVuRTRwRlVWLWRPVTE0MFVNdmdteVNTSklpTnlEV2o0?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTU0MktOY1RVam0tMU5fSDI3d0xGQVhyRU43clJHV2NUUnVKRi1EejRfdUlHNFhPMnZlSUJUeEk2VWc4N2RMcDdTV2V3VXhlRmNEOUFZd2VMQzBMNHJRTGdBcnZTZVVjaHJfYVZoY0
 
-33. **June News** — apublicspace.org [English]
-   https://apublicspace.org/news/detail/june-news-2026
+65. **Остров Света Анастасия става „Етносфера“ - Флагман.Бг** — Флагман.Бг [bg]
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pLVBWbDQxM052SlFfZDVIYXlLQnVCLWlnTnZMczVHcWQweTJ2cENwSjBhYXBZOHhONGlaUWpGVm1nSHF4ZnpsTTlNc0Q2d9IBXEFVX3lxTE44WENDMFFFaWVCN2xuRURfV1UwejA4U21HLXpSYlRTZnlObHNZcFVKQVlVZkMtRHlETWE0TGxWUUVCUHJaNkNocDZuMWxPcU9kQV9BTHFrTE1rM1RE?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pLVBWbDQxM052SlFfZDVIYXlLQnVCLWlnTnZMczVHcWQweTJ2cENwSjBhYXBZOHhONGlaUWpGVm1nSHF4ZnpsTTlNc0Q2d9IBXEFVX3lxTE44WENDMFFFaWVCN2xuRURfV1UwejA4U2
 
-34. ** ¡ Atrapado in fraganti ! Intentó suplantar la identidad de otra persona para votar y fue detenido** — larepublica.pe [Spanish]
-   https://larepublica.pe:443/sociedad/2026/06/08/atrapado-in-fraganti-intento-suplantar-la-identidad-de-otra-persona-para-votar-y-fue-detenido-121168
+66. **El hospital de Larroque incorporó un grupo electrógeno** — apfdigital.com.ar [Spanish]
+   https://www.apfdigital.com.ar/noticias/2026/06/09/459137-el-hospital-de-larroque-incorporo-un-grupo-electrogeno
 
-35. **Orbán , Fidesz , and Hungary Populist Foreign Policy | Carnegie Endowment for International Peace** — carnegieendowment.org [English]
-   https://carnegieendowment.org/research/2026/06/orban-fidesz-and-hungarys-populist-foreign-policy
+67. **Narrow Path to Happiness - Doc World** — nhpbs.org [English]
+   https://nhpbs.org/schedule/summary.aspx?progId=DocWorld807
+
+68. **Io non odio , la storia di Zijo Ribić - Osservatorio Balcani Caucaso Transeuropa** — balcanicaucaso.org [Italian]
+   https://www.balcanicaucaso.org/cp_article/io-non-odio-la-storia-di-zijo-ribic/
+
+69. **Nuovi colpi a Torino e provincia attribuiti a una coppia di truffatori seriali di anziani** — torinotoday.it [Italian]
+   https://www.torinotoday.it/cronaca/truffatori-seriali-anziani-2026.html
+
+70. **Truffe agli anziani a Torino e provincia | altri colpi nelle case attribuiti alla banda arrestata a marzo bottino totale oltre 100mila euro** — zazoom.it [Italian]
+   https://www.zazoom.it/2026-06-09/truffe-agli-anziani-a-torino-e-provincia-altri-colpi-nelle-case-attribuiti-alla-banda-arrestata-a-marzo-bottino-totale-oltre-100mila-euro/19319590/
+
+71. **Kindergarten and Roma** — https://rroma.org/feed/ []
+   https://rroma.org/kindergarten-and-roma/?utm_source=rss&utm_medium=rss&utm_campaign=kindergarten-and-roma
+   An article about the fact that there are almost no Roma in Kkindergarten in a Slovenian region that has several [&#8230;]
+
+72. **Romano Dikipe** — https://rroma.org/feed/ []
+   https://rroma.org/romano-dikipe-2/?utm_source=rss&utm_medium=rss&utm_campaign=romano-dikipe-2
+   In this issue, Romano Dikipe accompanies the Roma-Service association during their move to the new House of Ethnic Groups in [&#8230;]
+
+73. **London Exhibition** — https://rroma.org/feed/ []
+   https://rroma.org/london-exhibition-2/?utm_source=rss&utm_medium=rss&utm_campaign=london-exhibition-2
+   The Museum of Homelessness (MOH), part gallery, part support hub, part perennial meadow, is hosting an exhibition entitled ‘ Criminal: [&#8230;]
