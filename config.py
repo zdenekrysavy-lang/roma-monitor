@@ -30,6 +30,10 @@ GOOGLE_NEWS_QUERIES = [
     ('"rom e sinti" OR "comunità rom" -calcio -"AS Roma"',     "it", "IT"),
     ('Роми OR ромска OR цигани',                               "bg", "BG"),
     ('Ρομά OR τσιγγάνοι OR "μειονότητα Ρομά"',                 "el", "GR"),
+    ('Romowie OR "mniejszość romska" OR Cyganie',             "pl", "PL"),
+    ('ciganos OR "comunidade cigana"',                        "pt", "PT"),
+    ('romer OR "romsk minoritet"',                            "sv", "SE"),
+    ('romanit OR "Suomen romanit"',                           "fi", "FI"),
 ]
 # Pozn.: Balkán (srbština, chorvatština, albánština), Ukrajinu a Turecko
 # ZÁMĚRNĚ neřešíme rodnými Google dotazy – tamní kořen „rom/Roman" se sráží
