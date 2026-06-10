@@ -84,27 +84,30 @@ RSS_FEEDS = [
     # — Severní Makedonie —
     "https://romatimes.news/index.php/en?format=feed&type=rss", # RomaTimes.News (MK/balkán, EN) – pozn. obsah nyní starší
     # — Slovensko —
-    "https://romatv.sk/feed/",                                  # Roma Television
+    # Pozn.: romatv.sk má vlastní /feed/ PRÁZDNÝ (obsah je ve vlastních typech,
+    # REST API blokuje 403) → přesunut do WATCH_SITES (Google News site:).
     "https://romana.tv/feed/",                                  # Romana TV (video/podcast)
     "https://www.tvroma.sk/feed/",                              # TV Roma – pozn. obsah nyní starší
 ]
 
 WATCH_SITES = [
-    # Weby BEZ feedu – pipeline si udělá Google News dotaz „site:doména".
-    # Výnos závisí na tom, co Google z webu indexuje (u malých NGO může být i 0).
-    "errc.org",                         # European Roma Rights Centre – kauzy, právní kroky
-    "romaforeurope.org",                # Roma Foundation for Europe – press, kampaně, akce
-    "ergonetwork.org",                  # ERGO Network – News & Events
-    "romaofukraine.com",                # Roma of Ukraine / Roma News Ukraine (Wix, bez feedu)
-    "arca.org.ua",                      # ARCA Ukraine – Events, Projects, For the press
-    "aura-alliance.org",                # AURA – Ukrainian Roma Advocacy Alliance
-    "romnet.hu",                        # RomNet.hu (HU)
-    "dikhmedia.hu",                     # DIKH Média (HU)
-    "romapage.c3.hu",                   # Roma Press Center (HU) – spíš archivní
+    # Weby BEZ (použitelného) feedu – pipeline udělá Google News dotaz „site:doména".
+    # Formát: (doména, jazyk hl, země gl). JAZYK je klíčový – slovenský/maďarský
+    # článek nenajdeš anglickým dotazem.
+    # Termínový filtr ZÁMĚRNĚ nepřidáváme: všechny jsou ryze romské organizace,
+    # takže každý jejich článek je na téma. Výnos závisí na indexaci Googlem
+    # (u malých NGO může být i 0).
+    ("errc.org",          "en", "US"),  # European Roma Rights Centre – kauzy, právní kroky
+    ("romaforeurope.org", "en", "US"),  # Roma Foundation for Europe – press, kampaně, akce
+    ("ergonetwork.org",   "en", "US"),  # ERGO Network – News & Events
+    ("romaofukraine.com", "en", "US"),  # Roma of Ukraine / Roma News Ukraine (EN)
+    ("arca.org.ua",       "en", "US"),  # ARCA Ukraine – má /en/ sekci
+    ("aura-alliance.org", "en", "US"),  # AURA – Ukrainian Roma Advocacy Alliance (/en/)
+    ("romnet.hu",         "hu", "HU"),  # RomNet.hu
+    ("dikhmedia.hu",      "hu", "HU"),  # DIKH Média
+    ("romapage.c3.hu",    "hu", "HU"),  # Roma Press Center (archivní)
+    ("romatv.sk",         "sk", "SK"),  # Roma Television – /feed/ prázdný, jdeme přes Google
 ]
-
-# Klíčová slova připojená k dotazu na WATCH_SITES (kvůli relevanci u obecných webů).
-WATCH_SITE_TERMS = "Roma OR Romani OR Sinti OR Romové"
 
 # --- E-mail (SMTP) ---
 EMAIL_TO   = [x.strip() for x in os.getenv("EMAIL_TO", "").split(",") if x.strip()]

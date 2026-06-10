@@ -159,17 +159,24 @@ def dedupe(items: list) -> list:
 
 
 def fetch_watch_sites() -> list:
-    """Pro weby bez feedu: dotaz přes Google News omezený na doménu."""
+    """Pro weby bez feedu: dotaz přes Google News omezený na doménu.
+
+    Web je ryze romský, takže nepřidáváme klíčová slova – jen `site:doména`
+    ve správném jazyce. Bez správného locale by se slovenský/maďarský obsah
+    nenašel anglickým dotazem.
+    """
     items = []
-    for domain in config.WATCH_SITES:
-        query = f"site:{domain} ({config.WATCH_SITE_TERMS})"
-        url = _google_news_url(query, "en", "US")
+    for domain, hl, gl in config.WATCH_SITES:
+        url = _google_news_url(f"site:{domain}", hl, gl)
         try:
             feed = feedparser.parse(url)
         except Exception as ex:
             print(f"  Watch-site chyba ({domain}): {ex}")
             continue
+        taken = 0
         for e in feed.entries[:config.MAX_PER_FEED]:
+            if taken >= config.MAX_PER_QUERY:
+                break
             if not _within_window(getattr(e, "published_parsed", None), config.LOOKBACK_HOURS):
                 continue
             items.append({
@@ -178,8 +185,9 @@ def fetch_watch_sites() -> list:
                 "source":    _entry_source(e) or domain,
                 "snippet":   (e.get("summary", "") or "")[:500],
                 "published": e.get("published", ""),
-                "lang":      "",
+                "lang":      hl,
             })
+            taken += 1
     return items
 
 
