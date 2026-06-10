@@ -106,6 +106,7 @@ RSS_FEEDS = [
     # — Slovensko —
     # Pozn.: romatv.sk má vlastní /feed/ PRÁZDNÝ (obsah je ve vlastních typech,
     # REST API blokuje 403) → přesunut do WATCH_SITES (Google News site:).
+    "https://romanoforum.dennikn.sk/feed/",                     # Romano fórum (Denník N) – aktivní, kvalitní
     "https://romana.tv/feed/",                                  # Romana TV (video/podcast)
     "https://www.tvroma.sk/feed/",                              # TV Roma – pozn. obsah nyní starší
 ]
