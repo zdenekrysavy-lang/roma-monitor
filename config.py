@@ -7,7 +7,7 @@ import os
 
 # --- Obecné nastavení ---
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "13"))   # okno; >12 h kvůli překryvu mezi běhy
-MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "150"))  # strop kandidátů poslaných k analýze
+MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "300"))  # strop kandidátů poslaných k analýze
 MAX_PER_FEED   = int(os.getenv("MAX_PER_FEED", "40"))
 MAX_PER_QUERY  = int(os.getenv("MAX_PER_QUERY", "12"))    # strop na jeden Google News dotaz, ať jeden jazyk (např. FR) nezaplaví feed
 CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-6")  # levnější varianta: claude-haiku-4-5-20251001
@@ -48,9 +48,14 @@ GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "1d")
 # Široký kořen (Roma/Romani/Sinti) NAVÁŽE i přeložené články z Balkánu, Ukrajiny,
 # Turecka apod. (GDELT Translingual matchuje podle významu). Šum (AS Roma, město
 # Řím) řešíme zápornými termíny, NE zúžením – to by zabilo multijazyčný záběr.
-GDELT_QUERY    = '(Roma OR Romani OR Romanies OR Sinti OR "Roma minority") -football -soccer -"AS Roma" -calcio -transfer'
+# Přidána ethnonyma Gypsy/Gitano/"Irish Travellers" pro globální/anglofonní
+# pokrytí; záporné termíny krotí gypsy-šum (Gypsy Rose, gypsy moth, gypsy jazz).
+GDELT_QUERY    = ('(Roma OR Romani OR Romanies OR Sinti OR "Roma minority" '
+                  'OR Gypsy OR Gitano OR "Irish Travellers") '
+                  '-football -soccer -"AS Roma" -calcio -transfer '
+                  '-"Gypsy Rose" -"gypsy moth" -"gypsy jazz"')
 GDELT_TIMESPAN = os.getenv("GDELT_TIMESPAN", "13h")
-GDELT_MAX      = int(os.getenv("GDELT_MAX", "120"))
+GDELT_MAX      = int(os.getenv("GDELT_MAX", "250"))
 # GitHub Actions běží na sdílených IP, na které GDELT často vrací 429.
 # Víc pokusů s narůstající prodlevou + náhodný rozptyl (ať se netrefíme do
 # stejného okna jako ostatní joby). GDELT je „bonus" – když ani tak neprojde,
