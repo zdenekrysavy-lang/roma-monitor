@@ -10,6 +10,15 @@ LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "13"))   # okno; >12 h kvůli p
 MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "300"))  # strop kandidátů poslaných k analýze
 MAX_PER_FEED   = int(os.getenv("MAX_PER_FEED", "40"))
 MAX_PER_QUERY  = int(os.getenv("MAX_PER_QUERY", "12"))    # strop na jeden Google News dotaz, ať jeden jazyk (např. FR) nezaplaví feed
+
+# Romské NGO feedy a weby publikují řídce (i 1× za pár dní). Krátké okno
+# LOOKBACK_HOURS by je míjelo, když běh padne na „hluché" období – proto mají
+# vlastní, delší okno. Opakování mezi běhy hlídá perzistentní state/seen.json.
+FEED_LOOKBACK_HOURS = int(os.getenv("FEED_LOOKBACK_HOURS", "72"))
+
+# Perzistence „už viděných" URL mezi běhy (commituje ji workflow do repa).
+SEEN_PATH     = os.getenv("SEEN_PATH", "state/seen.json")
+SEEN_TTL_DAYS = int(os.getenv("SEEN_TTL_DAYS", "14"))   # po té době záznam vyprší
 CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-6")  # levnější varianta: claude-haiku-4-5-20251001
 
 # --- Google News RSS: (dotaz, jazyk hl, země gl) ---

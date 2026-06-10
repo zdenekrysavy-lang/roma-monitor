@@ -134,7 +134,9 @@ def fetch_feed(url: str) -> list:
         print(f"  Feed chyba ({url}): {ex}")
         return items
     for e in feed.entries[:config.MAX_PER_FEED]:
-        if not _within_window(getattr(e, "published_parsed", None), config.LOOKBACK_HOURS):
+        # Delší okno než u Google News/GDELT: romské feedy publikují řídce
+        # a krátké okno by je míjelo. Duplicity mezi běhy řeší seen.json.
+        if not _within_window(getattr(e, "published_parsed", None), config.FEED_LOOKBACK_HOURS):
             continue
         items.append({
             "title":     e.get("title", ""),
@@ -182,7 +184,8 @@ def fetch_watch_sites() -> list:
         for e in feed.entries[:config.MAX_PER_FEED]:
             if taken >= config.MAX_PER_QUERY:
                 break
-            if not _within_window(getattr(e, "published_parsed", None), config.LOOKBACK_HOURS):
+            # Stejně jako u RSS feedů: malé weby publikují řídce → delší okno.
+            if not _within_window(getattr(e, "published_parsed", None), config.FEED_LOOKBACK_HOURS):
                 continue
             items.append({
                 "title":     e.get("title", ""),

@@ -9,9 +9,54 @@ import os
 import json
 import datetime as dt
 
+import config
 import fetch
 
 OUT_DIR = os.getenv("FEED_DIR", "feed")
+
+
+def load_seen() -> dict:
+    """Načte mapu {normalizovaná URL: ISO čas prvního spatření}."""
+    try:
+        with open(config.SEEN_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def save_seen(seen: dict) -> None:
+    os.makedirs(os.path.dirname(config.SEEN_PATH), exist_ok=True)
+    with open(config.SEEN_PATH, "w", encoding="utf-8") as f:
+        json.dump(seen, f, ensure_ascii=False, indent=0)
+
+
+def filter_unseen(items: list, seen: dict) -> tuple:
+    """Vyřadí položky viděné v minulých bězích; nové do `seen` zapíše.
+
+    Zároveň pročistí záznamy starší než SEEN_TTL_DAYS, ať soubor neroste
+    donekonečna. Vrací (nové položky, počet přeskočených).
+    """
+    now = dt.datetime.now(dt.timezone.utc)
+    cutoff = now - dt.timedelta(days=config.SEEN_TTL_DAYS)
+    pruned = {}
+    for url, first in seen.items():
+        try:
+            if dt.datetime.fromisoformat(first) >= cutoff:
+                pruned[url] = first
+        except ValueError:
+            pass  # nečitelné datum – záznam zahodíme
+    seen.clear()
+    seen.update(pruned)
+
+    fresh, skipped = [], 0
+    for it in items:
+        key = fetch._norm_url(it.get("url", ""))
+        if key in seen:
+            skipped += 1
+            continue
+        seen[key] = now.isoformat(timespec="seconds")
+        fresh.append(it)
+    return fresh, skipped
 
 
 def write_feed(items: list, stats: dict) -> tuple:
@@ -51,7 +96,15 @@ def run() -> None:
     print("Sbírám kandidáty (bez AI)…")
     items = fetch.collect()
     stats = fetch.LAST_STATS
-    print(f"Kandidátů: {len(items)}  "
+
+    # Perzistentní dedup mezi běhy: co už bylo v některém minulém feedu,
+    # znovu neposíláme (řídké feedy mají delší okno a překrývaly by se).
+    seen = load_seen()
+    items, skipped = filter_unseen(items, seen)
+    save_seen(seen)
+    stats["skipped_seen"] = skipped
+
+    print(f"Kandidátů: {len(items)} nových ({skipped} už viděno dřív)  "
           f"(Google News {stats.get('google_news', 0)}, "
           f"GDELT {stats.get('gdelt', 0)}/{stats.get('gdelt_status', '?')}, "
           f"feedy {stats.get('feeds', 0)}, watch {stats.get('watch', 0)})")
