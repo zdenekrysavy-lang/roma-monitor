@@ -69,7 +69,12 @@ def fetch_google_news() -> list:
     return items
 
 
-def fetch_gdelt() -> list:
+def fetch_gdelt() -> tuple:
+    """Vrací (items, status). status: "ok" | "rate_limited" | "error".
+
+    Status pak putuje do feedu, aby ChatGPT agent věděl (a mohl uživateli říct),
+    jestli se globální GDELT vrstva tentokrát načetla, nebo ji rate-limit shodil.
+    """
     params = {
         "query": config.GDELT_QUERY,
         "mode": "ArtList",
@@ -90,7 +95,7 @@ def fetch_gdelt() -> list:
                              params=params, headers=UA, timeout=30)
         except Exception as ex:
             print(f"  GDELT chyba: {ex}")
-            return []
+            return [], "error"
         if r.status_code == 429:
             if attempt < attempts - 1:
                 wait = config.GDELT_BACKOFF * (attempt + 1) + random.uniform(0, 3)
@@ -99,15 +104,15 @@ def fetch_gdelt() -> list:
                 time.sleep(wait)
                 continue
             print(f"  GDELT stále 429 i po {attempts} pokusech, pokračuji bez něj")
-            return []
+            return [], "rate_limited"
         try:
             data = r.json()
         except Exception as ex:
             print(f"  GDELT chyba (ne-JSON odpověď): {ex}")
-            return []
+            return [], "error"
         break
     if data is None:
-        return []
+        return [], "error"
     items = []
     for a in data.get("articles", []):
         items.append({
@@ -118,7 +123,7 @@ def fetch_gdelt() -> list:
             "published": a.get("seendate", ""),
             "lang":      a.get("language", ""),
         })
-    return items
+    return items, "ok"
 
 
 def fetch_feed(url: str) -> list:
@@ -191,10 +196,30 @@ def fetch_watch_sites() -> list:
     return items
 
 
+# Statistiky posledního běhu collect() – aby je gather.py mohl vložit do feedu
+# a ChatGPT agent věděl, co se načetlo (hlavně zda naběhl globální GDELT).
+LAST_STATS = {}
+
+
 def collect() -> list:
-    items = fetch_google_news() + fetch_gdelt()
+    gn = fetch_google_news()
+    gd, gd_status = fetch_gdelt()
+    feed_items = []
     for f in config.RSS_FEEDS:
-        items += fetch_feed(f)
-    items += fetch_watch_sites()
-    items = dedupe(items)
-    return items[:config.MAX_CANDIDATES]
+        feed_items += fetch_feed(f)
+    watch = fetch_watch_sites()
+
+    merged = gn + gd + feed_items + watch
+    items = dedupe(merged)[:config.MAX_CANDIDATES]
+
+    global LAST_STATS
+    LAST_STATS = {
+        "google_news": len(gn),
+        "gdelt": len(gd),
+        "gdelt_status": gd_status,     # "ok" | "rate_limited" | "error"
+        "feeds": len(feed_items),
+        "watch": len(watch),
+        "before_dedup": len(merged),
+        "total": len(items),
+    }
+    return items
