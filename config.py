@@ -99,6 +99,8 @@ RSS_FEEDS = [
     "https://rominfomedia.rs/feed/",                            # Rom Info Media (jih Srbska, Leskovac)
     "https://romaworld.rs/feed/",                               # Romaworld (RS)
     "https://roma-news.com/feed/",                              # Roma News Network (RS/balkán) – pozn. obsah nyní starší
+    # — Chorvatsko —
+    "https://kalisara.hr/feed/",                                # Kali Sara / SRRH – pozn. obsah nyní starší (poslední 6/2025)
     # — Severní Makedonie —
     "https://romatimes.news/index.php/en?format=feed&type=rss", # RomaTimes.News (MK/balkán, EN) – pozn. obsah nyní starší
     # — Slovensko —
