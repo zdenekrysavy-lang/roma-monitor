@@ -10,6 +10,45 @@ import config
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; RomaNewsMonitor/1.0)"}
 
+# Pro Google News používáme prohlížečový UA – bot UA dostává 429 ochotněji.
+GN_UA = {"User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/124.0.0.0 Safari/537.36")}
+
+# Počítadlo selhání Google News v rámci jednoho collect() – plní LAST_STATS.
+_GN = {"queries": 0, "failures": 0}
+
+
+def _parse_gnews(url: str):
+    """Stáhne Google News RSS s explicitní kontrolou HTTP statusu.
+
+    feedparser sám HTTP chyby tiše spolkne (vrátí 0 položek), takže by
+    rate-limit Googlu vypadal jako „žádné zprávy". Tady 429/5xx logujeme,
+    zkusíme znovu s prodlevou, a selhání počítáme do _GN/LAST_STATS.
+    Vrací feedparser objekt, nebo None při selhání.
+    """
+    _GN["queries"] += 1
+    for attempt in range(config.GN_RETRIES):
+        try:
+            r = requests.get(url, headers=GN_UA, timeout=30)
+        except Exception as ex:
+            print(f"  Google News chyba: {ex}")
+            _GN["failures"] += 1
+            return None
+        if r.status_code == 200:
+            return feedparser.parse(r.content)
+        if r.status_code in (429, 503) and attempt < config.GN_RETRIES - 1:
+            wait = 15 * (attempt + 1) + random.uniform(0, 5)
+            print(f"  Google News HTTP {r.status_code}, pokus {attempt + 1}/"
+                  f"{config.GN_RETRIES}, čekám {wait:.0f} s…")
+            time.sleep(wait)
+            continue
+        print(f"  Google News HTTP {r.status_code}: {url[:90]}")
+        _GN["failures"] += 1
+        return None
+    _GN["failures"] += 1
+    return None
+
 
 def _google_news_url(query: str, hl: str, gl: str) -> str:
     when = getattr(config, "GOOGLE_NEWS_WHEN", "").strip()
@@ -45,11 +84,11 @@ def _entry_source(entry) -> str:
 
 def fetch_google_news() -> list:
     items = []
-    for query, hl, gl in config.GOOGLE_NEWS_QUERIES:
-        try:
-            feed = feedparser.parse(_google_news_url(query, hl, gl))
-        except Exception as ex:
-            print(f"  Google News chyba ({hl}): {ex}")
+    for i, (query, hl, gl) in enumerate(config.GOOGLE_NEWS_QUERIES):
+        if i:
+            time.sleep(config.GN_PAUSE)   # rozestup – série 25 dotazů bez pauz = 429
+        feed = _parse_gnews(_google_news_url(query, hl, gl))
+        if feed is None:
             continue
         taken = 0
         for e in feed.entries[:config.MAX_PER_FEED]:
@@ -174,11 +213,9 @@ def fetch_watch_sites() -> list:
     """
     items = []
     for domain, hl, gl in config.WATCH_SITES:
-        url = _google_news_url(f"site:{domain}", hl, gl)
-        try:
-            feed = feedparser.parse(url)
-        except Exception as ex:
-            print(f"  Watch-site chyba ({domain}): {ex}")
+        time.sleep(config.GN_PAUSE)       # watch jde také přes Google News → rozestupy
+        feed = _parse_gnews(_google_news_url(f"site:{domain}", hl, gl))
+        if feed is None:
             continue
         taken = 0
         for e in feed.entries[:config.MAX_PER_FEED]:
@@ -205,6 +242,8 @@ LAST_STATS = {}
 
 
 def collect() -> list:
+    _GN["queries"] = _GN["failures"] = 0
+
     gn = fetch_google_news()
     gd, gd_status = fetch_gdelt()
     feed_items = []
@@ -215,11 +254,19 @@ def collect() -> list:
     merged = gn + gd + feed_items + watch
     items = dedupe(merged)[:config.MAX_CANDIDATES]
 
+    if _GN["failures"] == 0:
+        gn_status = "ok"
+    elif _GN["failures"] < _GN["queries"]:
+        gn_status = "partial"          # část dotazů spadla (typicky 429)
+    else:
+        gn_status = "blocked"          # všechny dotazy spadly – Google blokuje IP
+
     global LAST_STATS
     LAST_STATS = {
         "google_news": len(gn),
+        "google_news_status": gn_status,   # "ok" | "partial" | "blocked"
         "gdelt": len(gd),
-        "gdelt_status": gd_status,     # "ok" | "rate_limited" | "error"
+        "gdelt_status": gd_status,         # "ok" | "rate_limited" | "error"
         "feeds": len(feed_items),
         "watch": len(watch),
         "before_dedup": len(merged),

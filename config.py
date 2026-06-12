@@ -53,6 +53,11 @@ GOOGLE_NEWS_QUERIES = [
 # Bez něj Google řadí podle relevance a aktuální zprávy propadnou oknem 13 h.
 GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "1d")
 
+# Google News rate-limituje rychlé série dotazů (15 jazyků + 10 watch webů
+# = 25 požadavků). Pauza mezi dotazy + retry na 429/5xx tomu předchází.
+GN_PAUSE   = float(os.getenv("GN_PAUSE", "2"))   # s mezi dotazy
+GN_RETRIES = int(os.getenv("GN_RETRIES", "3"))   # pokusy na jeden dotaz
+
 # --- GDELT (globální, vícejazyčný; bez klíče) ---
 # Široký kořen (Roma/Romani/Sinti) NAVÁŽE i přeložené články z Balkánu, Ukrajiny,
 # Turecka apod. (GDELT Translingual matchuje podle významu). Šum (AS Roma, město
@@ -69,7 +74,7 @@ GDELT_MAX      = int(os.getenv("GDELT_MAX", "250"))
 # Víc pokusů s narůstající prodlevou + náhodný rozptyl (ať se netrefíme do
 # stejného okna jako ostatní joby). GDELT je „bonus" – když ani tak neprojde,
 # sběr pokračuje bez něj.
-GDELT_RETRIES  = int(os.getenv("GDELT_RETRIES", "4"))   # celkový počet pokusů
+GDELT_RETRIES  = int(os.getenv("GDELT_RETRIES", "6"))   # celkový počet pokusů
 GDELT_BACKOFF  = int(os.getenv("GDELT_BACKOFF", "8"))   # základ prodlevy v s (8, 16, 24…)
 
 # ════════════════════════════════════════════════════════════════════
