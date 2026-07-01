@@ -1,281 +1,369 @@
 {
-  "generated_utc": "2026-07-01T08:49:52+00:00",
-  "count": 33,
+  "generated_utc": "2026-07-01T17:21:52+00:00",
+  "count": 44,
   "sources": {
-    "google_news": 30,
+    "google_news": 40,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "error",
-    "feeds": 26,
-    "watch": 6,
-    "before_dedup": 62,
-    "total": 52,
-    "skipped_seen": 19
+    "feeds": 34,
+    "watch": 2,
+    "before_dedup": 76,
+    "total": 66,
+    "skipped_seen": 22
   },
   "candidates": [
     {
-      "title": "It's hate, stop it! A campaign to combat extremist discourses - Diari ARA",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzB6dkE4TE91MDJVUlF4ZE9wcjZOWW00NFJkQ3BTSVg2NHNLMUtwd2R1MVU0NE1FRjBZT0FzQkZEd3luSHU2VTdEMHdXUHU4bTlJNXIycGdIc3JpMEhSbTZFZ05zX214cmVhXzhIdTBZbXZyVG40d1R3NkVjX0lYcGw1SjFFMEdZN3h6U2d3REhyQVBvRTllUUxuZDVVU2ttLXd5Q1VZUXV2UVJpaTZB0gGvAUFVX3lxTFBXMHp2QThMT3UwMlVSUXhkT3ByNk5ZbTQ0UmRDcFNJWDY0c0sxS3B3ZHUxVTQ0TUVGMFlPQXNCRkR3eW5IdTZVN0Qwd1dQdThtOUk1cjJwZ0hzcmkwSFJtNkVnTnNfbXhyZWFfOEh1MFltdnJUbjR3VHc2RWNfSVhwbDVKMUUwR1k3eHpTZ3dESHJBUG9FOWVRTG5kNVVTa20td3lDVVlRdXZRUmlpNkE?oc=5",
-      "source": "Diari ARA",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzB6dkE4TE91MDJVUlF4ZE9wcjZOWW00NFJkQ3BTSVg2NHNLMUtwd2R1MVU0NE1FRjBZT0FzQkZEd3luSHU2VTdEMHdXUHU4bTlJNXIycGdIc3JpMEhSbTZFZ05zX214cmVhXzhIdTBZbXZyVG40d1R3NkVjX0lYcGw1SjFFMEdZN3h6U2d3REhyQVBvRTllUUxuZDVVU2ttLXd5Q1VZUXV2UVJpaTZB0gGvAUFVX3lxTFBXMHp2QThMT3UwMlVSUXhkT3ByNk5ZbTQ0UmRDcFNJWDY0c0sxS3B3ZHUxVTQ0TUVGMFlPQXNCRkR3eW5IdTZVN0Qwd1dQdThtOUk1cjJwZ0hzcmkwSFJtNkVnTnNfbXhyZWFfOEh1MFltdnJUbjR3VHc2RWNfSVhwbDVKMUUwR1k3eHpTZ3dESHJBUG9FOWVRTG5kNV",
-      "published": "Tue, 30 Jun 2026 22:25:40 GMT",
+      "title": "Po potýčke v Dolnej Strede polícia stíha výtržníctvo aj ublíženie - Trnavak.sk",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbEM0OXZQUjNZRTEwb0VWNlA4WllrX3JvSWR6VnhIaUtTYXVkUGEzY2FtMTYzNUdLMzdjYko3bHVzZ21ZYXVQYVlUQlE3Nk5qNFpRcW5aTmFFN3JPdDBub1k4Vy1HS3ZsZzZqQV9xaFZtZ2xlYXppelpnY3JxcE1ONUQ0YWxoSE9PbnNHRUxMRkRUbUJMUU5zU0Z6Q2M5dnFoSXBnc1VSVE5RNW8yNEJEQ01FcDFWX21wajVza1ZkZnZVRW5xUHhB?oc=5",
+      "source": "Trnavak.sk",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNbEM0OXZQUjNZRTEwb0VWNlA4WllrX3JvSWR6VnhIaUtTYXVkUGEzY2FtMTYzNUdLMzdjYko3bHVzZ21ZYXVQYVlUQlE3Nk5qNFpRcW5aTmFFN3JPdDBub1k4Vy1HS3ZsZzZqQV9xaFZtZ2xlYXppelpnY3JxcE1ONUQ0YWxoSE9PbnNHRUxMRkRUbUJMUU5zU0Z6Q2M5dnFoSXBnc1VSVE5RNW8yNEJEQ01FcDFWX21wajVza1ZkZnZVRW5xUHhB?oc=5\" target=\"_blank\">Po potýčke v Dolnej Strede polícia stíha výtržníctvo aj ublíženie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trnavak.sk</font>",
+      "published": "Wed, 01 Jul 2026 11:23:04 GMT",
+      "lang": "sk"
+    },
+    {
+      "title": "Lula leads Senator Bolsonaro in Brazil presidential run-off, poll shows - The Mighty 790 KFGO",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONk9INlpHS0ZyYzFNMUVYWXRjUWpEZlkwbFQ0aF8zSnozODdpQms4TVFyNFgxZE04MnBDTTV6V2hOY1Vic0JXZWJNU0Q4YjNieE9Vd3Z0UzNydWI1aUFxUDVwVGM4b29WMEJVRlF1ckxWSFVTbE1EZ242SUhOZVN0NmJhZFBJY2pHRG5TNDRUVG5TalozemZ5UDNBeEM5SVRU?oc=5",
+      "source": "The Mighty 790 KFGO",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONk9INlpHS0ZyYzFNMUVYWXRjUWpEZlkwbFQ0aF8zSnozODdpQms4TVFyNFgxZE04MnBDTTV6V2hOY1Vic0JXZWJNU0Q4YjNieE9Vd3Z0UzNydWI1aUFxUDVwVGM4b29WMEJVRlF1ckxWSFVTbE1EZ242SUhOZVN0NmJhZFBJY2pHRG5TNDRUVG5TalozemZ5UDNBeEM5SVRU?oc=5\" target=\"_blank\">Lula leads Senator Bolsonaro in Brazil presidential run-off, poll shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mighty 790 KFGO</font>",
+      "published": "Wed, 01 Jul 2026 11:27:44 GMT",
       "lang": "en"
     },
     {
-      "title": "Los gitanos Traico siguen embocando gente con los autos usados - El diario de Tandil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHBNNXVTcnBMY3Y0ZU42UW8xcTdBRUdTZ0NRSHBWcGZnTS1MV1NYeUhXU1FQaVJHRkh1MXBMWkUwZktIUDFHZ1JoX3M0bHdfb0ozM2hrS0drQ0RNby1RMTlTQ2lLREpqbjZQWE5wMDNrbXFwX2J6OGl1UmNSQVlOTXZPRWtTVEFZY0VNaVQwY05GM3FOWW1QZE5zMmF5U19uZmxiam5lWlJwdw?oc=5",
-      "source": "El diario de Tandil",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHBNNXVTcnBMY3Y0ZU42UW8xcTdBRUdTZ0NRSHBWcGZnTS1MV1NYeUhXU1FQaVJHRkh1MXBMWkUwZktIUDFHZ1JoX3M0bHdfb0ozM2hrS0drQ0RNby1RMTlTQ2lLREpqbjZQWE5wMDNrbXFwX2J6OGl1UmNSQVlOTXZPRWtTVEFZY0VNaVQwY05GM3FOWW1QZE5zMmF5U19uZmxiam5lWlJwdw?oc=5\" target=\"_blank\">Los gitanos Traico siguen embocando gente con los autos usados</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El diario de Tandil</font>",
-      "published": "Wed, 01 Jul 2026 04:51:57 GMT",
+      "title": "Lula leads Senator Bolsonaro in Brazil presidential run-off, poll shows - WNWN-FM",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGJQQ0xrbm5SbG85UUFmaVFSYjE0Z0JxQWJQVnJoU1p2THFmR2FoVE5TeDRiZjE5Z25ZMFN4amFCTnljRUNxZ3RNeTZVR3RYSWtEbnBGSnVud0UtbDhxdjRmMGlOVktmeWo2OXczenRDaUJNSHVma29zc0Y1b1c2R0VSVDdpRWc3NDBOQ2JsQnd3b2dHMEF6YkdQZlJ2aXpWLVY0UktVbVc?oc=5",
+      "source": "WNWN-FM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGJQQ0xrbm5SbG85UUFmaVFSYjE0Z0JxQWJQVnJoU1p2THFmR2FoVE5TeDRiZjE5Z25ZMFN4amFCTnljRUNxZ3RNeTZVR3RYSWtEbnBGSnVud0UtbDhxdjRmMGlOVktmeWo2OXczenRDaUJNSHVma29zc0Y1b1c2R0VSVDdpRWc3NDBOQ2JsQnd3b2dHMEF6YkdQZlJ2aXpWLVY0UktVbVc?oc=5\" target=\"_blank\">Lula leads Senator Bolsonaro in Brazil presidential run-off, poll shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WNWN-FM</font>",
+      "published": "Wed, 01 Jul 2026 11:17:52 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "Oklevelek, könyvjutalmak – Lezárták a tanévet az Ózdi Erkel Ferenc Alapfokú Művészeti Iskolában is - Ózd Város weboldala",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbDNTaGczdHVMSnRZbVpIMDlSN01aSU1RdThCdnRoT203SVJqRTJLSzdMcDctWmx0RlNVdl8wb2tMeVNGSFFwTlU0UUZmaWtiWW8zSVZGaUhCUEdpT2hYNXVUUDhxQWxLektxYS1QTThkaVVwQzRJZTE5aDlqcU9ma0h4SzJRNzJMU0xJZzV6QzVhZ2NQd2pzTDBJZEhjWUlEbzNlZUJrcUFQQ3ZpRi1sN1U1RGhLTkZCUWhnNldpU2JSVjlr?oc=5",
+      "source": "Ózd Város weboldala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPbDNTaGczdHVMSnRZbVpIMDlSN01aSU1RdThCdnRoT203SVJqRTJLSzdMcDctWmx0RlNVdl8wb2tMeVNGSFFwTlU0UUZmaWtiWW8zSVZGaUhCUEdpT2hYNXVUUDhxQWxLektxYS1QTThkaVVwQzRJZTE5aDlqcU9ma0h4SzJRNzJMU0xJZzV6QzVhZ2NQd2pzTDBJZEhjWUlEbzNlZUJrcUFQQ3ZpRi1sN1U1RGhLTkZCUWhnNldpU2JSVjlr?oc=5\" target=\"_blank\">Oklevelek, könyvjutalmak – Lezárták a tanévet az Ózdi Erkel Ferenc Alapfokú Művészeti Iskolában is</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ózd Város weboldala</font>",
+      "published": "Wed, 01 Jul 2026 11:36:15 GMT",
+      "lang": "hu"
+    },
+    {
+      "title": "Naquerar celebra su estreno mundial en la Bienal de Flamenco de Sevilla - filmAnd",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDRxbHlTaXkwQjJoeVlGeUFKdGVNRWJISmkxUlpKNXM0RU4xbG1wbk8yM0R1TVBJUUx0UDllTTZpclRXQ3dfTXBvRWQtNzZrVmdBa2N2bjFvSUIxY2FLb18yc3pSTy1JcXV4WElCVEc3Ym9NUGFrUWJRQ1djWmVBazNBWmM3ay1wcHlMRUQxLWVid2xKdmc?oc=5",
+      "source": "filmAnd",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDRxbHlTaXkwQjJoeVlGeUFKdGVNRWJISmkxUlpKNXM0RU4xbG1wbk8yM0R1TVBJUUx0UDllTTZpclRXQ3dfTXBvRWQtNzZrVmdBa2N2bjFvSUIxY2FLb18yc3pSTy1JcXV4WElCVEc3Ym9NUGFrUWJRQ1djWmVBazNBWmM3ay1wcHlMRUQxLWVid2xKdmc?oc=5\" target=\"_blank\">Naquerar celebra su estreno mundial en la Bienal de Flamenco de Sevilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">filmAnd</font>",
+      "published": "Wed, 01 Jul 2026 10:39:29 GMT",
       "lang": "es"
     },
     {
-      "title": "À Horgues, de nouvelles tensions avec la communauté des gens du voyage - Radio France",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdTNudDMzWmhCeUdDQ1Zxem94SFZEUjdHRHhHQm5iSVpKTVpLNnNvRnA2SXJKdmppQkFuSHoxeWk5N0xOT2hhejBqUVMwNVgzY1JnU2RJWXhYQXhkZURpVUNma3lFaDNmX2NITFFUbmpvQUlWQzl3V0RmR250YnBqd2xjMVFrSlBoZlhyRUc2Um93Vm9FbWp4UTRnY1NRaWZaa19pTExhb25DOUF4Q1JETVdoT0FNeV9uV0R0My0wcWJOZk04Tmc1RmVHcUNGejI3Y0xwZzlTLThTM2RDeERvTjhJTkx5WE5qZnlR?oc=5",
-      "source": "Radio France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdTNudDMzWmhCeUdDQ1Zxem94SFZEUjdHRHhHQm5iSVpKTVpLNnNvRnA2SXJKdmppQkFuSHoxeWk5N0xOT2hhejBqUVMwNVgzY1JnU2RJWXhYQXhkZURpVUNma3lFaDNmX2NITFFUbmpvQUlWQzl3V0RmR250YnBqd2xjMVFrSlBoZlhyRUc2Um93Vm9FbWp4UTRnY1NRaWZaa19pTExhb25DOUF4Q1JETVdoT0FNeV9uV0R0My0wcWJOZk04Tmc1RmVHcUNGejI3Y0xwZzlTLThTM2RDeERvTjhJTkx5WE5qZnlR?oc=5\" target=\"_blank\">À Horgues, de nouvelles tensions avec la communauté des gens du voyage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rad",
-      "published": "Wed, 01 Jul 2026 05:31:30 GMT",
-      "lang": "fr"
+      "title": "Culcarba Fest 2026: Cine, magia y conciertos gratuitos para las noches de julio en Carbajosa - Tribuna de Salamanca.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejAyM2VieHZrUmtWdG85ZVBCclAwZXd6RjVSTEVlQUZuWmNjRXl1MUQ5dkFJNmc4TUhHb0VkZm9fUmdiQTY5Z1lDM2EzX1pyel9UT2w3RXI2YVJpbGpGN2w3WmEtMHJZNmZ1Q0tDNmQxYi1RM01TdDllX01DTHhOOHhVMmtjdUNOUGU3Tm9hTUd0N0hqcTg3TmwxaFkxQlVfUF9ncm05MkJhYXdRVnJWVWdxdjE0cGR0SEgzVzNZTkE4QVU4QTNFVVQ1SkZqVjlab2ZrdjR3?oc=5",
+      "source": "Tribuna de Salamanca.",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejAyM2VieHZrUmtWdG85ZVBCclAwZXd6RjVSTEVlQUZuWmNjRXl1MUQ5dkFJNmc4TUhHb0VkZm9fUmdiQTY5Z1lDM2EzX1pyel9UT2w3RXI2YVJpbGpGN2w3WmEtMHJZNmZ1Q0tDNmQxYi1RM01TdDllX01DTHhOOHhVMmtjdUNOUGU3Tm9hTUd0N0hqcTg3TmwxaFkxQlVfUF9ncm05MkJhYXdRVnJWVWdxdjE0cGR0SEgzVzNZTkE4QVU4QTNFVVQ1SkZqVjlab2ZrdjR3?oc=5\" target=\"_blank\">Culcarba Fest 2026: Cine, magia y conciertos gratuitos para las noches de julio en Carbajosa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribuna d",
+      "published": "Wed, 01 Jul 2026 17:05:32 GMT",
+      "lang": "es"
     },
     {
-      "title": "\"Les échanges sont très vifs\" : en un mois, trois groupes de gens du voyage s'installent sur ce stade près de Bordeaux - Actu.fr",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUlp6eGhPWkw5cFpMZUxDdzRnMWJRUFE0NVJrMXZqWm4yQ2pmSVB2d2M5WDFTS0RTZThSTlpzNE51eUxzYVRVdDZLMGpzZmN2dk5QdEZNZFcza0ZkUkJMUHBXN3REb3FkNnFfbUtSMTVpb2JidlppUUtiWjV4dEVLUjR2MElMRjZ5RU05bWxDdXR5QUtCcFd4dFNkcHY3a3A3Q2RXQ3dSTUNpSThYRTJTdmZST2ozQV9OUW5lOEJZY2c5RkFic1NMOU5JZ0lBYldJUVQxLVowdjhZU0RHTkxFa1NqcFM5eE5ldjlqbGRGNEI1ZVpfWWhaNEpEVGFkV1FYbXoyMQ?oc=5",
-      "source": "Actu.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQUlp6eGhPWkw5cFpMZUxDdzRnMWJRUFE0NVJrMXZqWm4yQ2pmSVB2d2M5WDFTS0RTZThSTlpzNE51eUxzYVRVdDZLMGpzZmN2dk5QdEZNZFcza0ZkUkJMUHBXN3REb3FkNnFfbUtSMTVpb2JidlppUUtiWjV4dEVLUjR2MElMRjZ5RU05bWxDdXR5QUtCcFd4dFNkcHY3a3A3Q2RXQ3dSTUNpSThYRTJTdmZST2ozQV9OUW5lOEJZY2c5RkFic1NMOU5JZ0lBYldJUVQxLVowdjhZU0RHTkxFa1NqcFM5eE5ldjlqbGRGNEI1ZVpfWWhaNEpEVGFkV1FYbXoyMQ?oc=5\" target=\"_blank\">\"Les échanges sont très vifs\" : en un mois, trois groupes de gens du voyage s",
-      "published": "Wed, 01 Jul 2026 07:11:33 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Gens du voyage : \"On ne nie pas le besoin d'une aire, mais pourquoi sacrifier des terres agricoles ?\" : ce maraîcher près de Toulouse repart au combat pour sauvegarder son exploitation - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQVZZaFVCS28wdWlfRThMNnFZanJHRm5TQkJDU0FMQ0pzM0lPQXJWdFJBanVnNkNDaGd1TDAxdUVMdkFHVjJtWXN6U2FLRGlzUzZxR0hhOWZlZkpIWXNmTVhCNXlQTTRRNUVtQzE0eFpZSEJCelFQbWlIdVdoQ2c2VVBkLXlYYTE2NWlENlRCUW5OenhOQnptWFRWRHhOelZ2OElURXQ2aThJRVVEV1BBRkhNb0hvdU5qajZzUWJLM3IzLS0xMEl1TnJ1VGpreHlicm15QWJKZkhScUdOUlpxSFZKSndnb0t1TW0tVEg1LUlieUc5RWYyam16Q3ZpWFRKZzlkRjBONDh0LVZfeUxmajlyVXBtN3h1cG9qbkdtMA?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPQVZZaFVCS28wdWlfRThMNnFZanJHRm5TQkJDU0FMQ0pzM0lPQXJWdFJBanVnNkNDaGd1TDAxdUVMdkFHVjJtWXN6U2FLRGlzUzZxR0hhOWZlZkpIWXNmTVhCNXlQTTRRNUVtQzE0eFpZSEJCelFQbWlIdVdoQ2c2VVBkLXlYYTE2NWlENlRCUW5OenhOQnptWFRWRHhOelZ2OElURXQ2aThJRVVEV1BBRkhNb0hvdU5qajZzUWJLM3IzLS0xMEl1TnJ1VGpreHlicm15QWJKZkhScUdOUlpxSFZKSndnb0t1TW0tVEg1LUlieUc5RWYyam16Q3ZpWFRKZzlkRjBONDh0LVZfeUxmajlyVXBtN3h1cG9qbkdtMA?oc=5\" target=\"_blank\">Gens du voyage : \"On ne nie pas le besoin",
-      "published": "Wed, 01 Jul 2026 04:56:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Niño de Elche [sur l’aire d’accueil des gens du voyage, av. Gros Malhon] - Les Trans",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2Q3d0J3Mkt1NzhPek8tcDRyX054NlZHS09JX21hSzV4ZzZmQkJRclpPb0o5UmVvVDlkZzJfUFBQcnFZajFhemVmV2JIaDFjbVVzT2s0WU1kVVAzUE9famlObDltLV93UnRTRGN1R3pJQ2daUTZ5VmcyUkpDUjZ3emtVZ3Vua1AwTUUyOFN0d2V4d0p5aWc?oc=5",
-      "source": "Les Trans",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2Q3d0J3Mkt1NzhPek8tcDRyX054NlZHS09JX21hSzV4ZzZmQkJRclpPb0o5UmVvVDlkZzJfUFBQcnFZajFhemVmV2JIaDFjbVVzT2s0WU1kVVAzUE9famlObDltLV93UnRTRGN1R3pJQ2daUTZ5VmcyUkpDUjZ3emtVZ3Vua1AwTUUyOFN0d2V4d0p5aWc?oc=5\" target=\"_blank\">Niño de Elche [sur l’aire d’accueil des gens du voyage, av. Gros Malhon]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Les Trans</font>",
-      "published": "Tue, 30 Jun 2026 22:15:16 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Occupations illégales par des gens du voyage : maires et agriculteurs en première ligne - L'Alsace",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWdlT3ZPcUdfWk1IaE5PejNTRHdkWWJESjhHWm1aSktuamtjWElfcHVMMENsMHM5cGIyYU9zQm9jai05X0thQUNLUzNPbTIyY183VjhMTmFQbmRvUzc3NGxtN2lCSUVaeTdhcGp3LWpIVzJHNHZaaElwQ0M5NjdlWnBRTmlDOUFuSUpSN2F5dVdmeGg4UkE0a3ZtRVJPc3ItRWpyWDVzbw?oc=5",
-      "source": "L'Alsace",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWdlT3ZPcUdfWk1IaE5PejNTRHdkWWJESjhHWm1aSktuamtjWElfcHVMMENsMHM5cGIyYU9zQm9jai05X0thQUNLUzNPbTIyY183VjhMTmFQbmRvUzc3NGxtN2lCSUVaeTdhcGp3LWpIVzJHNHZaaElwQ0M5NjdlWnBRTmlDOUFuSUpSN2F5dVdmeGg4UkE0a3ZtRVJPc3ItRWpyWDVzbw?oc=5\" target=\"_blank\">Occupations illégales par des gens du voyage : maires et agriculteurs en première ligne</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L'Alsace</font>",
-      "published": "Tue, 30 Jun 2026 23:07:51 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Gens du voyage à Saint-Julien : La préfète interpelle la communauté de communes - ODS Radio",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2ZGVUt0alNRV09oeVV1Z2h6dnFGUjZ6YW1ra2Fia0pBdTM1UW5obEFxTnlCaTlCRmxXbHQzRzRUWG1JdFJTMVMza1gzQy1JQVJ2ZFVtZE9RMV92aXVvOVlZSXJ2N1ZrdWZ4cTVXZ0o4aG9CbFU5QVZ6UE1JMHhnNXFHRnZiVU1lX0hvUkU2RTJTbElwQzJ4Z0IwcjRIVmdEVTBxOWxKNjBjOTJmZGYzZ2pJa3hTckV5cklZY3hzYw?oc=5",
-      "source": "ODS Radio",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2ZGVUt0alNRV09oeVV1Z2h6dnFGUjZ6YW1ra2Fia0pBdTM1UW5obEFxTnlCaTlCRmxXbHQzRzRUWG1JdFJTMVMza1gzQy1JQVJ2ZFVtZE9RMV92aXVvOVlZSXJ2N1ZrdWZ4cTVXZ0o4aG9CbFU5QVZ6UE1JMHhnNXFHRnZiVU1lX0hvUkU2RTJTbElwQzJ4Z0IwcjRIVmdEVTBxOWxKNjBjOTJmZGYzZ2pJa3hTckV5cklZY3hzYw?oc=5\" target=\"_blank\">Gens du voyage à Saint-Julien : La préfète interpelle la communauté de communes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ODS Radio</font>",
-      "published": "Wed, 01 Jul 2026 08:24:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Tiercé. La mairie prend des mesures pour éviter l’occupation de terrains de la commune - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMHJ2b0doUjMycTNhV0tEcWZZQ1hYN2NJMHBEVGc4S0M2aU9KMDB3OEx3TGxpSERqeTVLbVBKbHY5LXYxNExCajRoNUdQTnFpekdULVhVOXM0RGZlRnotMDhnOEtXWThqOXFBblktbTFUQ0VTOUJqREJBTDhOcGFtSzFFMkotZVlhQTVxN2dlb3hiVjFGV1UtZVZmWUZFcTFfaWRTR2RCenRHWUJMa2U0VmZINmhoMVlGeUk0a0IwTU92ZUU5ekZWM0Q5bno3VS12bnU3a2RyeDJzQ1ZSdGtEZkl3a3NNZHZqY2FiNVZ4MXh0Z3RmbHU4c0tJYXQzN1Z0bmtwOWJVNUFPU2M?oc=5",
+      "title": "Après une nouvelle arrivée de gens du voyage à Fouesnant, l’absence d’une aire d’accueil pose toujours question - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1J4RzRHejJCUTN2NUtUdExRR1RDQ1lkdzQ3a09jeGQyWDhzbkY0SXNoYzBkZjhReTBGc3o4cDRpRWVYYTYteWNPU3JRcDhRb1JMNjJkOFRvR3c5R0RLUlZWN0xGZjJHQ2RmeGY4V1Y0cmg5T3hkWnNMbjFYVXFfXzJReVZkWWxnLVhmaFB6V3BvMXBUeldBN3ZDa1VfekVJNmJtdzlXaDgycUw3QjlYeHQ3cVdHQXkzSHpKb0JvR0J0NUdhVmlJZFJ2aWZieXJiRFpwVW9zeEsxWldMVlRwYzVraVBZc0xPMGpyQXFPUGo1WDVmeElGclM1S3FHOVdBbDNFeFdCUkZhLTJXajBINVlDak5TZVY0LTNxeGd5QVRsTDA?oc=5",
       "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMHJ2b0doUjMycTNhV0tEcWZZQ1hYN2NJMHBEVGc4S0M2aU9KMDB3OEx3TGxpSERqeTVLbVBKbHY5LXYxNExCajRoNUdQTnFpekdULVhVOXM0RGZlRnotMDhnOEtXWThqOXFBblktbTFUQ0VTOUJqREJBTDhOcGFtSzFFMkotZVlhQTVxN2dlb3hiVjFGV1UtZVZmWUZFcTFfaWRTR2RCenRHWUJMa2U0VmZINmhoMVlGeUk0a0IwTU92ZUU5ekZWM0Q5bno3VS12bnU3a2RyeDJzQ1ZSdGtEZkl3a3NNZHZqY2FiNVZ4MXh0Z3RmbHU4c0tJYXQzN1Z0bmtwOWJVNUFPU2M?oc=5\" target=\"_blank\">Tiercé. La mairie prend des mesures pour éviter l’occupation de terr",
-      "published": "Wed, 01 Jul 2026 03:25:30 GMT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1J4RzRHejJCUTN2NUtUdExRR1RDQ1lkdzQ3a09jeGQyWDhzbkY0SXNoYzBkZjhReTBGc3o4cDRpRWVYYTYteWNPU3JRcDhRb1JMNjJkOFRvR3c5R0RLUlZWN0xGZjJHQ2RmeGY4V1Y0cmg5T3hkWnNMbjFYVXFfXzJReVZkWWxnLVhmaFB6V3BvMXBUeldBN3ZDa1VfekVJNmJtdzlXaDgycUw3QjlYeHQ3cVdHQXkzSHpKb0JvR0J0NUdhVmlJZFJ2aWZieXJiRFpwVW9zeEsxWldMVlRwYzVraVBZc0xPMGpyQXFPUGo1WDVmeElGclM1S3FHOVdBbDNFeFdCUkZhLTJXajBINVlDak5TZVY0LTNxeGd5QVRsTDA?oc=5\" target=\"_blank\">Après une nouvelle arrivée de gens d",
+      "published": "Wed, 01 Jul 2026 14:36:35 GMT",
       "lang": "fr"
     },
     {
-      "title": "Le Creusot - Montceau : Charles Landre et Dominique Jouanne écrivent à Isabelle Louis pour les gens du voyage... Et Torcy rend obligatoire le port du casque sur les trottinettes - Creusot Infos",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPSElKQm5GUUh3MlRmN3J2TmxROTFlYzliZ1lXOUF2b2VqV2NXYU9Uak5yMmRZMlpBOFpKbU54TjIybWVRZ2RRcTluekJLXzVNU2dKeEpMRm42aEJJRFRpUUE4LUpfTjg1dV9kTnd4cEdaWWRheG91NFNVei1hQ2ZwWlBwaS1jMXZxVnFmSXUtOVVQY0JwaldTU2FVSzBkMXpWTGZIX1JHTGx4NXhUTUFoNzRJNmg4OE5neWRoUllVM1R6Zk4yQXJxZERMdTd5c3NVcFc3SC1iVDd0TmEwZXRGNXZIV0YtQjdxMEN4SmtpU0ljWXZtb0xfTnVVYmJSUnUtVzlwYzBWcXZ4WUVIVEZVUThMNU1NaGNnY3UxUVNNYWI5eC1SUGZLN3FIRVpfX01lVXNJcEN2QTJOTUhyRU9KYi1xM1ZHRTVvcGZ0dEIxdkpXWTFSb2hzQUdkdGx2M3ZT?oc=5",
-      "source": "Creusot Infos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPSElKQm5GUUh3MlRmN3J2TmxROTFlYzliZ1lXOUF2b2VqV2NXYU9Uak5yMmRZMlpBOFpKbU54TjIybWVRZ2RRcTluekJLXzVNU2dKeEpMRm42aEJJRFRpUUE4LUpfTjg1dV9kTnd4cEdaWWRheG91NFNVei1hQ2ZwWlBwaS1jMXZxVnFmSXUtOVVQY0JwaldTU2FVSzBkMXpWTGZIX1JHTGx4NXhUTUFoNzRJNmg4OE5neWRoUllVM1R6Zk4yQXJxZERMdTd5c3NVcFc3SC1iVDd0TmEwZXRGNXZIV0YtQjdxMEN4SmtpU0ljWXZtb0xfTnVVYmJSUnUtVzlwYzBWcXZ4WUVIVEZVUThMNU1NaGNnY3UxUVNNYWI5eC1SUGZLN3FIRVpfX01lVXNJcEN2QTJOTUhyRU9KYi1xM1ZHRTVvcGZ0dEIxdk",
-      "published": "Wed, 01 Jul 2026 01:17:00 GMT",
+      "title": "Haute-Savoie. Gens du voyage : la préfète s’abrite toujours derrière le schéma d’accueil - Le Dauphiné Libéré",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXIxTDhORmNmSDA3aFVEQlFOdFZ1NzExY3Bjb1lvcXVLeERBZW1RbWtFTGluQjZ1eEVMek93RFU5OHFZY2JMWHBZLXV2M1ZVQzdZWjJjbFVNYUlxeWw5S2Nid1ZhcG5jQm4xa3JLcndoNkMwNUNUTzdEcGNmNVpuMUdMQ3BZNUNCQWc0WkwzVUVYN2t2N3hkY2ptbHVmd3dmN3Q2UUdiMWg0eGxJVHJXU3RmTHdNSW54bmRqaGFmLWhHMmJJX196VTdRYw?oc=5",
+      "source": "Le Dauphiné Libéré",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXIxTDhORmNmSDA3aFVEQlFOdFZ1NzExY3Bjb1lvcXVLeERBZW1RbWtFTGluQjZ1eEVMek93RFU5OHFZY2JMWHBZLXV2M1ZVQzdZWjJjbFVNYUlxeWw5S2Nid1ZhcG5jQm4xa3JLcndoNkMwNUNUTzdEcGNmNVpuMUdMQ3BZNUNCQWc0WkwzVUVYN2t2N3hkY2ptbHVmd3dmN3Q2UUdiMWg0eGxJVHJXU3RmTHdNSW54bmRqaGFmLWhHMmJJX196VTdRYw?oc=5\" target=\"_blank\">Haute-Savoie. Gens du voyage : la préfète s’abrite toujours derrière le schéma d’accueil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Dauphiné Libéré</font>",
+      "published": "Wed, 01 Jul 2026 16:49:20 GMT",
       "lang": "fr"
     },
     {
-      "title": "Dans les Landes, ce terrain de rugby se transforme en camp des gens du voyage : ils ne veulent plus repartir - Actu.fr",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRGNsMFVsc3RLSFM0d2J3d1V5cUJaNXN1cjlIM3hMSTN2bEhKa3JkNmVkWFZNblZKYjVvNkZ1cWlreTE0WVZhelllZkVZSXhjY3VsdDdHdUtZV1RGRHhMZm9kOFMtaTNMZUxMdS1wRk11cERyLUQ2aFYteXFTSjdXcFdGUTdTODJ2MWFzMEJLelQyZTQ2TXljeTBHOUs0QkJId3FUSVVra0pZZ2VtQ3VkODhSRjN1Y1N6NUhyemhDNGhlUFJIY2lIbWFCU1Z1VE9EcDViX1YtWE0tVVVQbm1JWVlKWTVqUTBibFVJU0w5Wmw5WFZMOXQwbVpJaXY1TkRPa0t1anliN01ibVUweFMzekxEWQ?oc=5",
+      "title": "Gens du voyage : un mal-logement à nouveau pointé du doigt - La Gazette des Communes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVW1RUEktbnNWOWpEMnd2SDY0QWotZnNDNkowX3J0ZGpZdzJEVmEyZWJTTW9NUVNDQnlxTjZaS0FaYV8tR25jNHJFLUM4MmtBUUpIdTZrdHZNM0JXT2ttX3lGYmZkYUZsZzlPQWpUSTNseEpCWl9mMGZGQWNrNkQtWHZJZUVJeGVCOUxzTHJGckFIV1ZJeW5RMzN1aVptQnY2ZWo4RQ?oc=5",
+      "source": "La Gazette des Communes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVW1RUEktbnNWOWpEMnd2SDY0QWotZnNDNkowX3J0ZGpZdzJEVmEyZWJTTW9NUVNDQnlxTjZaS0FaYV8tR25jNHJFLUM4MmtBUUpIdTZrdHZNM0JXT2ttX3lGYmZkYUZsZzlPQWpUSTNseEpCWl9mMGZGQWNrNkQtWHZJZUVJeGVCOUxzTHJGckFIV1ZJeW5RMzN1aVptQnY2ZWo4RQ?oc=5\" target=\"_blank\">Gens du voyage : un mal-logement à nouveau pointé du doigt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Gazette des Communes</font>",
+      "published": "Wed, 01 Jul 2026 13:42:16 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Près de Perpignan, des gens du voyage s'installent de force sur un terrain destiné au festival Les Déferlantes - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM0dObHlTbktfTUFENV9USlkzODRVTEtFMXZGQ1dob0tWYU1BOFlyYVlKNHJmWUQwelQ1SXN0T19xb2tMdlduMVE5SkE3TFcydzZ6Z2lDdFJ0eWdmaF9zLUN2QnB0clF6OVZ4bTZROFZ0cVpUVVQtZG84ZWQ4YmE1bWJJZzhGU04tZzdGNkstRWFKTUpycktxSUtQc0Y2UlZtbkhGUjlwdmtQRmRCUlBIalpvVXJ1b04zdl92bFQxbXNoU3IwNEpRVUJsemJSVjdaVlNtcG9CbTJMYlMxSVlqNm9Xa2sxWExlVGxtS2pIVUh6ZWt6NENYZg?oc=5",
       "source": "Actu.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQRGNsMFVsc3RLSFM0d2J3d1V5cUJaNXN1cjlIM3hMSTN2bEhKa3JkNmVkWFZNblZKYjVvNkZ1cWlreTE0WVZhelllZkVZSXhjY3VsdDdHdUtZV1RGRHhMZm9kOFMtaTNMZUxMdS1wRk11cERyLUQ2aFYteXFTSjdXcFdGUTdTODJ2MWFzMEJLelQyZTQ2TXljeTBHOUs0QkJId3FUSVVra0pZZ2VtQ3VkODhSRjN1Y1N6NUhyemhDNGhlUFJIY2lIbWFCU1Z1VE9EcDViX1YtWE0tVVVQbm1JWVlKWTVqUTBibFVJU0w5Wmw5WFZMOXQwbVpJaXY1TkRPa0t1anliN01ibVUweFMzekxEWQ?oc=5\" target=\"_blank\">Dans les Landes, ce terrain de rugby se transforme en cam",
-      "published": "Wed, 01 Jul 2026 04:04:02 GMT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM0dObHlTbktfTUFENV9USlkzODRVTEtFMXZGQ1dob0tWYU1BOFlyYVlKNHJmWUQwelQ1SXN0T19xb2tMdlduMVE5SkE3TFcydzZ6Z2lDdFJ0eWdmaF9zLUN2QnB0clF6OVZ4bTZROFZ0cVpUVVQtZG84ZWQ4YmE1bWJJZzhGU04tZzdGNkstRWFKTUpycktxSUtQc0Y2UlZtbkhGUjlwdmtQRmRCUlBIalpvVXJ1b04zdl92bFQxbXNoU3IwNEpRVUJsemJSVjdaVlNtcG9CbTJMYlMxSVlqNm9Xa2sxWExlVGxtS2pIVUh6ZWt6NENYZg?oc=5\" target=\"_blank\">Près de Perpignan, des gens du voyage s'installent de force sur un terrain destiné au festiva",
+      "published": "Wed, 01 Jul 2026 15:26:29 GMT",
       "lang": "fr"
     },
     {
-      "title": "\"Ce camp doit être évacué d'urgence\" : le coup de gueule d'un maire de Vendée après l'installation de gens du voyage - Actu.fr",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQa3BHLUI5TlVvUHFHaUJxZVZTd1VzYk1xMF9PcVBHelJaTHpLWC1HZENyUDV6Q21XTXpLTDRVRlN0MEhkSWpLZF9EOWFERWJvVXJWVVczOHJuc2tBMW9ncjBUSFZCcDl1NGliQXM0X0dZVnBhUlZKY3FWV3J4TEZmb044UkkwTmZfcmh6bFhVOWYxbG5RZk5tNDBxLU9qajhGSGlEbzVnVjZ4WDFNbUI3MVJVRk94VHpkelpaVVpGY0MyZjlwMGI0dVBsZkMxdllzVGVvX1c1TEpybGdWQ08tUU5PSDd3c2pQMnNxaE81WXBUR0kzTTUxbHMyUld1bC1yQ3c2WW9MMng5UEw2RzVr?oc=5",
-      "source": "Actu.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQa3BHLUI5TlVvUHFHaUJxZVZTd1VzYk1xMF9PcVBHelJaTHpLWC1HZENyUDV6Q21XTXpLTDRVRlN0MEhkSWpLZF9EOWFERWJvVXJWVVczOHJuc2tBMW9ncjBUSFZCcDl1NGliQXM0X0dZVnBhUlZKY3FWV3J4TEZmb044UkkwTmZfcmh6bFhVOWYxbG5RZk5tNDBxLU9qajhGSGlEbzVnVjZ4WDFNbUI3MVJVRk94VHpkelpaVVpGY0MyZjlwMGI0dVBsZkMxdllzVGVvX1c1TEpybGdWQ08tUU5PSDd3c2pQMnNxaE81WXBUR0kzTTUxbHMyUld1bC1yQ3c2WW9MMng5UEw2RzVr?oc=5\" target=\"_blank\">\"Ce camp doit être évacué d'urgence\" : le coup de gueule d'un m",
-      "published": "Wed, 01 Jul 2026 06:22:29 GMT",
+      "title": "Ils étaient arrivés depuis trois jours à peine : le préfet des Pyrénées-Orientales ordonne l’expulsion d’un convoi de gens du voyage \"sous 24 heures\" - L'Indépendant",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRXVaRWZpT1czbWpNMFlsYk4wZjZYUzlVMGRMdlNzOFZxWlNWbUpIMVBKQzFJZkRjRXhHWXVWSjBPbDNaVDdpblpuNkxOU2Z3LUNOTXJ5aFJzb01nNmRnUms1aEExeS1iSWpPTHBYTXlqUE4zRXVMeHpBengzWF9LaWllRjNmWUpNOGp4emllV3dCcHFkWGdReGk2eUpzUU51NnB3SU9pRjNKTXEydExRTndCWjhPX3BVY3U2OFVhZFF2bFhZNkdMNk81d2RjTUg4Z3ZQeG9UaGhxYW40eG90VXdhR180RzNZODhfTS04bl9jOVVzeEN6UVZhcnZES2U4NU5lbDZJZ2tLQ1NoSzBaOHBKT1VlbGlUQXpqeHIzVHk?oc=5",
+      "source": "L'Indépendant",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPRXVaRWZpT1czbWpNMFlsYk4wZjZYUzlVMGRMdlNzOFZxWlNWbUpIMVBKQzFJZkRjRXhHWXVWSjBPbDNaVDdpblpuNkxOU2Z3LUNOTXJ5aFJzb01nNmRnUms1aEExeS1iSWpPTHBYTXlqUE4zRXVMeHpBengzWF9LaWllRjNmWUpNOGp4emllV3dCcHFkWGdReGk2eUpzUU51NnB3SU9pRjNKTXEydExRTndCWjhPX3BVY3U2OFVhZFF2bFhZNkdMNk81d2RjTUg4Z3ZQeG9UaGhxYW40eG90VXdhR180RzNZODhfTS04bl9jOVVzeEN6UVZhcnZES2U4NU5lbDZJZ2tLQ1NoSzBaOHBKT1VlbGlUQXpqeHIzVHk?oc=5\" target=\"_blank\">Ils étaient arrivés depuis trois jours à",
+      "published": "Wed, 01 Jul 2026 17:02:00 GMT",
       "lang": "fr"
     },
     {
-      "title": "Tout continue comme avant : antitsiganisme et capitalisme - Le Club de Mediapart",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOHQyRW9XNm9ST2V6V0NfMjl5NUt6OGxmampaY2tyX0taQ0E3djBwMy1XVGhBVy1QSjBpNWVkVnlHb2tzTTVhMlZuTF9heXV3eVFZRFVtclpRaGdLRm9HY1FSRDFsMnp3T3VzektVU1g2bFM5U3NQaEt2N0l6RUg1b2ozYmI4dmFkd0xHdW5FMmNHVXVxM3R0R1JJMXR5bWhDdVNwdXdvSUl0bWZFclhlTHIzTFBpU1VFSkZhTTF1SWM?oc=5",
-      "source": "Le Club de Mediapart",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOHQyRW9XNm9ST2V6V0NfMjl5NUt6OGxmampaY2tyX0taQ0E3djBwMy1XVGhBVy1QSjBpNWVkVnlHb2tzTTVhMlZuTF9heXV3eVFZRFVtclpRaGdLRm9HY1FSRDFsMnp3T3VzektVU1g2bFM5U3NQaEt2N0l6RUg1b2ozYmI4dmFkd0xHdW5FMmNHVXVxM3R0R1JJMXR5bWhDdVNwdXdvSUl0bWZFclhlTHIzTFBpU1VFSkZhTTF1SWM?oc=5\" target=\"_blank\">Tout continue comme avant : antitsiganisme et capitalisme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Club de Mediapart</font>",
-      "published": "Wed, 01 Jul 2026 06:56:15 GMT",
+      "title": "Des gens du voyage en pèlerinage font étape pendant une semaine à Chaulgnes - La Montagne",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmJvTE9EOU4zbnZUMFlUWF9VNWZfeE90LTltT0VsR3VURXVYVE55Q0l6OTczaFlOVVVadXI2YW9EdlVSenNpQ1dMLXNzU19jY1VQX2Y4M2NCbW1ubzE1ZGx4dlljS2NlNHlCdWRWdzVLbVVSU0RyMlQ5YnF4dnBfTl8xamg2aGFUbzdXamtINWRsYmdMX3F0dUJLVWxXSFd3dVhyUjQ3ck1TNWNOaTNWOXJ4Wm9QMUxoWmlJMnM2dXRBNUczOXBCaWFfQ0htMjlM?oc=5",
+      "source": "La Montagne",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmJvTE9EOU4zbnZUMFlUWF9VNWZfeE90LTltT0VsR3VURXVYVE55Q0l6OTczaFlOVVVadXI2YW9EdlVSenNpQ1dMLXNzU19jY1VQX2Y4M2NCbW1ubzE1ZGx4dlljS2NlNHlCdWRWdzVLbVVSU0RyMlQ5YnF4dnBfTl8xamg2aGFUbzdXamtINWRsYmdMX3F0dUJLVWxXSFd3dVhyUjQ3ck1TNWNOaTNWOXJ4Wm9QMUxoWmlJMnM2dXRBNUczOXBCaWFfQ0htMjlM?oc=5\" target=\"_blank\">Des gens du voyage en pèlerinage font étape pendant une semaine à Chaulgnes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Montagne</font>",
+      "published": "Wed, 01 Jul 2026 15:00:00 GMT",
       "lang": "fr"
     },
     {
-      "title": "Einsiedeln, - cath.ch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXBwc3k4OTRoSXh2MFdfX0pnVDJTT0VlMGZ4MExnbVY3cmdRTmZrYm9lR1ZqNXVTdEJ3VEpLYWZCMTRDR1JfTkduc2VNak5TWWhnQ2hkQ1hhUmtVM016MUEwRkV3Q1hxLVhxYXZxbTl4cE9DLXpoY1hLa2ZTNG5sY3p4Rzl4Rl9DUVBoT3o0aTRtaGhYTUpNMkxn?oc=5",
-      "source": "cath.ch",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXBwc3k4OTRoSXh2MFdfX0pnVDJTT0VlMGZ4MExnbVY3cmdRTmZrYm9lR1ZqNXVTdEJ3VEpLYWZCMTRDR1JfTkduc2VNak5TWWhnQ2hkQ1hhUmtVM016MUEwRkV3Q1hxLVhxYXZxbTl4cE9DLXpoY1hLa2ZTNG5sY3p4Rzl4Rl9DUVBoT3o0aTRtaGhYTUpNMkxn?oc=5\" target=\"_blank\">Einsiedeln,</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cath.ch</font>",
-      "published": "Wed, 01 Jul 2026 00:02:52 GMT",
+      "title": "\"Ça devenait ingérable\" : le bidonville de Stains a été évacué, beaucoup d'habitants roms sans solution d'hébergement - Radio France",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNFg4T3BDdzdCcElmbVVHbVhGZXROaXByNnhIZnBjTDR4bVZHY3Y5OEdDM2JkU2lNdi1GMFlxaG5qUGRDdWVxT2tUYWdOSjlSeTdXYXRJVWZIOWNReWJvQV9JaEZlNmJ6ZC0xQ0lULWF3SE5oM2Vsd3RyWmhwVjg0eU15anpBOWt2Ylo1SGd4eU0xbFFHTWFnR1JsYXo1V21qYm4tOEVYQlduNkxEZzVQMlAwS0FDSHJ2alFmN2dCRnNmQ1NnVURsT2xvdkpQOWpjLS1mR0lBaF9FaXpCTVpCODNXRlVVMHMxakkzcFBLZUUyUGRMS1dOZlZZa19tYVEzSzltS1Y0dGFrdnJaLTduTFIwZkpGQ2lxU0VJ?oc=5",
+      "source": "Radio France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNNFg4T3BDdzdCcElmbVVHbVhGZXROaXByNnhIZnBjTDR4bVZHY3Y5OEdDM2JkU2lNdi1GMFlxaG5qUGRDdWVxT2tUYWdOSjlSeTdXYXRJVWZIOWNReWJvQV9JaEZlNmJ6ZC0xQ0lULWF3SE5oM2Vsd3RyWmhwVjg0eU15anpBOWt2Ylo1SGd4eU0xbFFHTWFnR1JsYXo1V21qYm4tOEVYQlduNkxEZzVQMlAwS0FDSHJ2alFmN2dCRnNmQ1NnVURsT2xvdkpQOWpjLS1mR0lBaF9FaXpCTVpCODNXRlVVMHMxakkzcFBLZUUyUGRMS1dOZlZZa19tYVEzSzltS1Y0dGFrdnJaLTduTFIwZkpGQ2lxU0VJ?oc=5\" target=\"_blank\">\"Ça devenait ingérable\" : le bidonville de Stai",
+      "published": "Wed, 01 Jul 2026 11:44:49 GMT",
       "lang": "fr"
     },
     {
-      "title": "Movimento Politico “Italia delle Identità” contrario al percorso di integrazione abitativa dei Rom - lameziainforma.it",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSVd3eUJPWXhiQ3ZrMDl1UjdHRzJDaGhOVkpoUWMxRmlGalZXcFVmZkFkdkNZQkZsZDYydkUyUlJsMEtZYWVzdTVsQ0RCSmhBaXVqd0N6RG9MZWIyMnFrZTZ4aWZLSU9WMkFuanYtTGxYcmtfU0Z5ZGstbWxZdUZ5VGxKcjFYYVVYMGNPM0RHVWNQQlo0ZTVDdmtLWUd3bDBSbUlIc2RoUU1Xdl9KaVp4cUNJajhrcm1KU1NKYU5CX1Vwb1c1Vk90U1gwVzBfOElGSk5HNnlHNG5ZVS12Rk1rcWFlQ25WeUQ0YmIzSXln0gHuAUFVX3lxTFBJV3d5Qk9ZeGJDdmswOXVSN0dHMkNoaE5WSmhRYzFGaUZqVldwVWZmQWR2Q1lCRmxkNjJ2RTJSUmwwS1lhZXN1NWxDREJKaEFpdWp3Q3pEb0xlYjIycWtlNnhpZktJT1YyQW5qdi1MbFhya19TRnlkay1tbFl1RnlUbEpyMVhhVVgwY08zREdVY1BCWjRlNUN2a0tZR3dsMFJtSUhzZGhRTVd2X0ppWnhxQ0lqOGtybUpTU0phTkJfVXBvVzVWT3RTWDBXMF84SUZKTkc2eUc0bllVLXZGTWtxYWVDblZ5RDRiYjNJeWc?oc=5",
-      "source": "lameziainforma.it",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSVd3eUJPWXhiQ3ZrMDl1UjdHRzJDaGhOVkpoUWMxRmlGalZXcFVmZkFkdkNZQkZsZDYydkUyUlJsMEtZYWVzdTVsQ0RCSmhBaXVqd0N6RG9MZWIyMnFrZTZ4aWZLSU9WMkFuanYtTGxYcmtfU0Z5ZGstbWxZdUZ5VGxKcjFYYVVYMGNPM0RHVWNQQlo0ZTVDdmtLWUd3bDBSbUlIc2RoUU1Xdl9KaVp4cUNJajhrcm1KU1NKYU5CX1Vwb1c1Vk90U1gwVzBfOElGSk5HNnlHNG5ZVS12Rk1rcWFlQ25WeUQ0YmIzSXln0gHuAUFVX3lxTFBJV3d5Qk9ZeGJDdmswOXVSN0dHMkNoaE5WSmhRYzFGaUZqVldwVWZmQWR2Q1lCRmxkNjJ2RTJSUmwwS1lhZXN1NWxDREJKaEFpdWp3Q3pEb0xlYjIycW",
-      "published": "Wed, 01 Jul 2026 05:54:15 GMT",
-      "lang": "it"
+      "title": "Les gens du voyage mis en demeure de quitter la zone de l’aéro-club des Bruyères, mais… - La Voix du Nord",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkdHVW5LR3BXRTh3Yi01QVNmdHdRSUNjeHJCN2g1VEUwcDl0Ymx3RzFDaEVhWmlXczZsUmJ5alBIYU9OYkMtalhWVlRXNF8xQjNld0N2em5TSVRJSkNVYjJHMTVNTUFqTzVCNlR4Zm1TY0FvYjFBZ1RRYWVtNEkwRW5SNGFrZi1jcDlma0JsN0JCdWdsa3F1WDE0TVR5UFZxRGNoWTVsZ3p5RVZYZ1pfazZ1ZWM5WlUtWDdYZjlnYThvQUdoM1BISnVaRWc2TTF0?oc=5",
+      "source": "La Voix du Nord",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkdHVW5LR3BXRTh3Yi01QVNmdHdRSUNjeHJCN2g1VEUwcDl0Ymx3RzFDaEVhWmlXczZsUmJ5alBIYU9OYkMtalhWVlRXNF8xQjNld0N2em5TSVRJSkNVYjJHMTVNTUFqTzVCNlR4Zm1TY0FvYjFBZ1RRYWVtNEkwRW5SNGFrZi1jcDlma0JsN0JCdWdsa3F1WDE0TVR5UFZxRGNoWTVsZ3p5RVZYZ1pfazZ1ZWM5WlUtWDdYZjlnYThvQUdoM1BISnVaRWc2TTF0?oc=5\" target=\"_blank\">Les gens du voyage mis en demeure de quitter la zone de l’aéro-club des Bruyères, mais…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voix du Nord</font>",
+      "published": "Wed, 01 Jul 2026 15:47:53 GMT",
+      "lang": "fr"
     },
     {
-      "title": "Πάτρα: Η καταγγελία της μητέρας για τον τραυματισμό του 10 μηνών βρέφους που νοσηλεύεται στο Καραμανδάνειο - \"Με έσπρωξαν ενώ το κρατούσα στην αγκαλιά μου\" - Παραπολιτικά",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbHJJeWZBaGlqamJkX3pkMURpOG1GYWl6Y0F5S1lNTzF2YnpJZnlhYmNiYl9iTGtNcE15cVpwZkZlaXFxbVNXMWJyNWp2bkNjUklDLVBhd1NUejhSVS1QNG4wRUJ4dDNJQlYxWHF5a19Ub2IwbXlNQ3BFUHpvdldqejJFOVZDenRiTW9VdkpmbHFsbFI3ZjRwcTJNNnJfUGg4dmswNGxFSTVxS1EycFFVLUwwWkVSRUg2V1hFR1BrYnVkUnJnYjVjdGllNTFtSWRmWjBlTGhIZVJtYWRKandsNHVCUDgwX3dweUZMQzQ5QzI0bU1MbXFDaTZJMHdzZi1EZ1h6QWx6NFZKdVpMWnV4YXplbTNjU2xCUlBuY3JheHpMUkoyNHhhaw?oc=5",
-      "source": "Παραπολιτικά",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbHJJeWZBaGlqamJkX3pkMURpOG1GYWl6Y0F5S1lNTzF2YnpJZnlhYmNiYl9iTGtNcE15cVpwZkZlaXFxbVNXMWJyNWp2bkNjUklDLVBhd1NUejhSVS1QNG4wRUJ4dDNJQlYxWHF5a19Ub2IwbXlNQ3BFUHpvdldqejJFOVZDenRiTW9VdkpmbHFsbFI3ZjRwcTJNNnJfUGg4dmswNGxFSTVxS1EycFFVLUwwWkVSRUg2V1hFR1BrYnVkUnJnYjVjdGllNTFtSWRmWjBlTGhIZVJtYWRKandsNHVCUDgwX3dweUZMQzQ5QzI0bU1MbXFDaTZJMHdzZi1EZ1h6QWx6NFZKdVpMWnV4YXplbTNjU2xCUlBuY3JheHpMUkoyNHhhaw?oc=5\" target=\"_blank\">Πάτρα: Η καταγγελία της μητέρ",
-      "published": "Wed, 01 Jul 2026 08:22:00 GMT",
+      "title": "Secteur d’Audun-le-Tiche. Gens du voyage : 30 places d’accueil prévues sur le territoire de la Communauté de communes du Pays-Haut Val d’Alzette - republicain-lorrain.fr",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQy1WYWMxcFhXN0dJTzR3RFh4RDNDQ3lMdzBpUzRtdkc0cFd3SGxnZHJrUk5tRmdicDVBc3pRYnlueWxSSDVIMWc5WW9iMVlBV25lbjhheDJ4eDNGOHVBV1JtVzdwamJqNFZublV0VkpHQTVReHczZW0zYWVFa2RnX1laOFp3VDZRcXBZekRnbkU0NGNCeVhCbHRiUktIVXdMT1UwY1k2MlZPZWVVWGMwRUlhMUhfUzFUSEhFVDlZcWpCREs5SVMtOWE5R3V2ZERHLUNlbW5TTzhsUVlKbTJMMlRCdHJiR0Q4ckhOQXlWdVprVTBfWHJxSzUxQ3JXbG1RM3c?oc=5",
+      "source": "republicain-lorrain.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQQy1WYWMxcFhXN0dJTzR3RFh4RDNDQ3lMdzBpUzRtdkc0cFd3SGxnZHJrUk5tRmdicDVBc3pRYnlueWxSSDVIMWc5WW9iMVlBV25lbjhheDJ4eDNGOHVBV1JtVzdwamJqNFZublV0VkpHQTVReHczZW0zYWVFa2RnX1laOFp3VDZRcXBZekRnbkU0NGNCeVhCbHRiUktIVXdMT1UwY1k2MlZPZWVVWGMwRUlhMUhfUzFUSEhFVDlZcWpCREs5SVMtOWE5R3V2ZERHLUNlbW5TTzhsUVlKbTJMMlRCdHJiR0Q4ckhOQXlWdVprVTBfWHJxSzUxQ3JXbG1RM3c?oc=5\" target=\"_blank\">Secteur d’Audun-le-Tiche. Gens du voyage : 30 places d’accueil prévues sur le te",
+      "published": "Wed, 01 Jul 2026 16:16:35 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Gens du voyage : la préfète de la Haute-Savoie alerte sur le non-respect du schéma départemental d’accueil - Le Messager",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbC1uSHl2OXFiOVBKbE5zN3kyMlJGeDYwM0tXTXlJa1hfaklpVjNJcGxIeTVGLXZjeThuS1NZbDZkWDA5Q0xIV3FxdjJDUTZFV0NIVmFVSmRaV0xGZWp6dHRWZ0E3ZEp4bkR2amZfNVEzTW12b2RIb2ZmN3ktbnZ0TTdSOGQ1T3RsNGFLLXJkZmpQaXEweEdNNkJqN25PTGZBa0FjRkl4YmVfdDBXSlowcWF0eWhhN3luTXprMzZTU2d0WTFhWE1DcUhON29DWjV5?oc=5",
+      "source": "Le Messager",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbC1uSHl2OXFiOVBKbE5zN3kyMlJGeDYwM0tXTXlJa1hfaklpVjNJcGxIeTVGLXZjeThuS1NZbDZkWDA5Q0xIV3FxdjJDUTZFV0NIVmFVSmRaV0xGZWp6dHRWZ0E3ZEp4bkR2amZfNVEzTW12b2RIb2ZmN3ktbnZ0TTdSOGQ1T3RsNGFLLXJkZmpQaXEweEdNNkJqN25PTGZBa0FjRkl4YmVfdDBXSlowcWF0eWhhN3luTXprMzZTU2d0WTFhWE1DcUhON29DWjV5?oc=5\" target=\"_blank\">Gens du voyage : la préfète de la Haute-Savoie alerte sur le non-respect du schéma départemental d’accueil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le ",
+      "published": "Wed, 01 Jul 2026 10:45:02 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Après une nouvelle arrivée de gens du voyage à Fouesnant, l’absence d’une aire d’accueil pose toujours question - Quimper Ma Ville",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQX2RodkJ3SlctMTgwQVRnOTJnUVJDSDNfVkpXa2FyT0FzdU45U09wd0ZoRHRsZU9uSDBBVllYWmFDZkZSbHdnRXhfckk5czJranU1OF9vQm5Edy1kQ213Rko4dmw4T0NLZjdBN2prNGdBZXNjeDN3dmU0a2tmLVBtT3BEcWY4bHl4OXVSc1pLOGhMeVVmTjVXZmpSTXE2OWhGdFozdXlFRm0tTXhQMllHQkZhT3lIY1FrWHVqbXctM19IZ0dvSTkyOHg2TUFFU3pSODNYRkVPMXlubWlvZXRHR1RCTTJBWFF1YlJqMllGd25IMGZfT2J2dlBFX2QwcWlLTXVyLQ?oc=5",
+      "source": "Quimper Ma Ville",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQX2RodkJ3SlctMTgwQVRnOTJnUVJDSDNfVkpXa2FyT0FzdU45U09wd0ZoRHRsZU9uSDBBVllYWmFDZkZSbHdnRXhfckk5czJranU1OF9vQm5Edy1kQ213Rko4dmw4T0NLZjdBN2prNGdBZXNjeDN3dmU0a2tmLVBtT3BEcWY4bHl4OXVSc1pLOGhMeVVmTjVXZmpSTXE2OWhGdFozdXlFRm0tTXhQMllHQkZhT3lIY1FrWHVqbXctM19IZ0dvSTkyOHg2TUFFU3pSODNYRkVPMXlubWlvZXRHR1RCTTJBWFF1YlJqMllGd25IMGZfT2J2dlBFX2QwcWlLTXVyLQ?oc=5\" target=\"_blank\">Après une nouvelle arrivée de gens du voyage à Fouesnant, l’absence d’une air",
+      "published": "Wed, 01 Jul 2026 14:36:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Brest : un agent du SMUR agressé par des gens du voyage après avoir demandé à leurs filles d'évacuer une piste d'atterrissage - CNews",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEk0RkRudnhYNVMwSjVhQ09veThKLXMyTFljYXBXSWFjMWp0WHViWUdINXhGeUNYYkpFOGF3eGZXU2lpMW5keWI2ZFVWQk85cWlFSURjVzItenhlM01qTF9MUU9va1NUNXdNelhVZlZPZHJsUzlIRVU4UzF0bGluWl9xZkZTaVlQWUlvZ3R2dGJOQ1ZOX0JrT0NtTnlQbnhNR0J0UFF5enIxakQ1OXh6UUVPRVhGdjEtU19SRE9RQdIBvwFBVV95cUxQMEk0RkRudnhYNVMwSjVhQ09veThKLXMyTFljYXBXSWFjMWp0WHViWUdINXhGeUNYYkpFOGF3eGZXU2lpMW5keWI2ZFVWQk85cWlFSURjVzItenhlM01qTF9MUU9va1NUNXdNelhVZlZPZHJsUzlIRVU4UzF0bGluWl9xZkZTaVlQWUlvZ3R2dGJOQ1ZOX0JrT0NtTnlQbnhNR0J0UFF5enIxakQ1OXh6UUVPRVhGdjEtU19SRE9RQQ?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEk0RkRudnhYNVMwSjVhQ09veThKLXMyTFljYXBXSWFjMWp0WHViWUdINXhGeUNYYkpFOGF3eGZXU2lpMW5keWI2ZFVWQk85cWlFSURjVzItenhlM01qTF9MUU9va1NUNXdNelhVZlZPZHJsUzlIRVU4UzF0bGluWl9xZkZTaVlQWUlvZ3R2dGJOQ1ZOX0JrT0NtTnlQbnhNR0J0UFF5enIxakQ1OXh6UUVPRVhGdjEtU19SRE9RQdIBvwFBVV95cUxQMEk0RkRudnhYNVMwSjVhQ09veThKLXMyTFljYXBXSWFjMWp0WHViWUdINXhGeUNYYkpFOGF3eGZXU2lpMW5keWI2ZFVWQk85cWlFSURjVzItenhlM01qTF9MUU9va1NUNXdNelhVZlZPZHJsUzlIRVU4UzF0bGluWl9xZkZTaVlQWUlvZ3",
+      "published": "Wed, 01 Jul 2026 13:55:29 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Parteitag der AfD: Ausnahmezustand in Erfurt erwartet - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTlLeW1USXdab2VIc1h6d2VmVzQ5NFR2RlZaSkFrRm9LQkZqNU13ajZtblhNb0Y3Q1RwaUVUaWp3QnVYU21UM2hsV2RLTm1vTlVVd0MyUHpXMjROMUhOMEF0cEFIQW5kaG9XTks5Tlp0akladzBSQmZONEp1cG5yRUs3d3ppS2ZVdU9rUlBB0gGOAUFVX3lxTE5kT0tYQ2tiYWZiY2puUk9XcDZyRGpJX1gxNXJUMlFDV0J4RFBScVFQVVNvWFpyRHJXRHZ6TER4aXJzdEpTS1RtWFBwR0lUUkZwUEUxTW1nQ2dDbUVZbmJycDFMczFkSlRUOEN0aENBNW5NSTdINVFDSEtVWkU1bU5XMUlwNFFaT1ZORUt3UXc?oc=5",
+      "source": "DW.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTlLeW1USXdab2VIc1h6d2VmVzQ5NFR2RlZaSkFrRm9LQkZqNU13ajZtblhNb0Y3Q1RwaUVUaWp3QnVYU21UM2hsV2RLTm1vTlVVd0MyUHpXMjROMUhOMEF0cEFIQW5kaG9XTks5Tlp0akladzBSQmZONEp1cG5yRUs3d3ppS2ZVdU9rUlBB0gGOAUFVX3lxTE5kT0tYQ2tiYWZiY2puUk9XcDZyRGpJX1gxNXJUMlFDV0J4RFBScVFQVVNvWFpyRHJXRHZ6TER4aXJzdEpTS1RtWFBwR0lUUkZwUEUxTW1nQ2dDbUVZbmJycDFMczFkSlRUOEN0aENBNW5NSTdINVFDSEtVWkU1bU5XMUlwNFFaT1ZORUt3UXc?oc=5\" target=\"_blank\">Parteitag der AfD: Ausnahmezustand in Er",
+      "published": "Wed, 01 Jul 2026 14:47:02 GMT",
+      "lang": "de"
+    },
+    {
+      "title": "Eklat um Baderöcke im Freibad: Nach umstrittenem Polizeieinsatz kündigt das Bad jetzt Konsequenzen an - Merkur",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0hXLUlPSVMxanFZN2dJa3FDWEI0c0c3Rk9VcS1UTlMxaERQZDdnNnVrR09aRVYwR1hwc3pST3phRFU4bnpEZ3cyQjRUaVZIS1FMUGtmRUxsM2h4aGgtRzRHR0VwMnR2SjlWOWx3U1BtQ1hxcDAxTzIyQnRDLW1uZnVUd2ZFam5YVTcyUk5pbGYta1VjanRaUHZMLVppNGRaZ2NPd21HTGVqS0lBMzF4Y2s0dVdFRVQ3R3ZaZnRvWGZVdw?oc=5",
+      "source": "Merkur",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0hXLUlPSVMxanFZN2dJa3FDWEI0c0c3Rk9VcS1UTlMxaERQZDdnNnVrR09aRVYwR1hwc3pST3phRFU4bnpEZ3cyQjRUaVZIS1FMUGtmRUxsM2h4aGgtRzRHR0VwMnR2SjlWOWx3U1BtQ1hxcDAxTzIyQnRDLW1uZnVUd2ZFam5YVTcyUk5pbGYta1VjanRaUHZMLVppNGRaZ2NPd21HTGVqS0lBMzF4Y2s0dVdFRVQ3R3ZaZnRvWGZVdw?oc=5\" target=\"_blank\">Eklat um Baderöcke im Freibad: Nach umstrittenem Polizeieinsatz kündigt das Bad jetzt Konsequenzen an</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Merkur</font>",
+      "published": "Wed, 01 Jul 2026 12:45:51 GMT",
+      "lang": "de"
+    },
+    {
+      "title": "Linke und Grüne fordern Rücktritt von stellvertretendem AfD-Bürgermeister - MSN",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPZVVvcWZOelhLZ3BkSVJrZXBEckcyUUZuTXRxZVFobmhOUHdfejdudGNfYVM2WUZnd2pjOWFnV2VTejNYVkcwcDR6Ny1vdnZ4NEVha09qUnZvMmVpS0dmQXdrb29IMjQyenpKWWNQR3BEcGZIQ2d1bHF4THI4dFprV1V2d1NJcmVyMFphZWhTRGhsUG5mMXpSaHVzdmNvTlpKWXRKeW9LTHlBZ2kydnVqWXFFUUsxUWtHc251MUt2UEpOVnR1dVF3ZElfX09fZHdFWXhOaTFuTFcyUWk2V3ZZaWs1T2NadmN1ZzgzdnFBTEsxRUFRSk45a3V6SkxaWnZZckxpVXRNRUtQWEFsV1NRVGdncVBLZ0RnYnVDMUlSMHZVMFNQbVJlQTNGRUZSRWoxQmRRU01DR1BYckkxVUxXZUJKUGF5U2p6ZmN3Zl9KZ01wZ0pVdXpGVnV0enNELWZjYl81dEl2NW45SVQ2OHMxV3J5U1Rlc3pJYVVUSjZfVFRCRXVWREVrZ2FpTjhrTnh1cDJmeHBrSW8?oc=5",
+      "source": "MSN",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimANBVV95cUxPZVVvcWZOelhLZ3BkSVJrZXBEckcyUUZuTXRxZVFobmhOUHdfejdudGNfYVM2WUZnd2pjOWFnV2VTejNYVkcwcDR6Ny1vdnZ4NEVha09qUnZvMmVpS0dmQXdrb29IMjQyenpKWWNQR3BEcGZIQ2d1bHF4THI4dFprV1V2d1NJcmVyMFphZWhTRGhsUG5mMXpSaHVzdmNvTlpKWXRKeW9LTHlBZ2kydnVqWXFFUUsxUWtHc251MUt2UEpOVnR1dVF3ZElfX09fZHdFWXhOaTFuTFcyUWk2V3ZZaWs1T2NadmN1ZzgzdnFBTEsxRUFRSk45a3V6SkxaWnZZckxpVXRNRUtQWEFsV1NRVGdncVBLZ0RnYnVDMUlSMHZVMFNQbVJlQTNGRUZSRWoxQmRRU01DR1BYckkxVUxXZUJKUGF5U2p6ZmN3Zl9KZ0",
+      "published": "Wed, 01 Jul 2026 12:34:00 GMT",
+      "lang": "de"
+    },
+    {
+      "title": "Κόλαση η ζωή των κατοίκων στο Σιδηρόκαστρο από τους Ρομά - Συμμορίες σκορπούν τρόμο, καθημερινές διαρρήξεις με εμπλοκή και ανηλίκων - Bankingnews",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNelhaWTN0YnFNZ1ZwSldCTWNEd1NlWWRGVWt5dUxYelRDNkxiRmtIS2dCZXNCa3VsbklEa1A0ZmtfU2puVU9ROERTUzlTS01aNjRHTzZDTTRmM04zbFF4UGVyUU9UUm1wbE9mQ1JjVU9CdjV2ZThicl93VTg4cjJTd3lCZUl4cEczWnAwdlRfX3lvUGtwM0hfbjNIQ01SUzdOMnN5Uk5DMG91cWN1cEVfbkxfUnhXTkN0MTBoRU1TSUhETWU0OFdfVF9taVRjRVRxQV9DZzRlUUdqSVRKUW1UcWp3X1NiTFE5T0w4?oc=5",
+      "source": "Bankingnews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNelhaWTN0YnFNZ1ZwSldCTWNEd1NlWWRGVWt5dUxYelRDNkxiRmtIS2dCZXNCa3VsbklEa1A0ZmtfU2puVU9ROERTUzlTS01aNjRHTzZDTTRmM04zbFF4UGVyUU9UUm1wbE9mQ1JjVU9CdjV2ZThicl93VTg4cjJTd3lCZUl4cEczWnAwdlRfX3lvUGtwM0hfbjNIQ01SUzdOMnN5Uk5DMG91cWN1cEVfbkxfUnhXTkN0MTBoRU1TSUhETWU0OFdfVF9taVRjRVRxQV9DZzRlUUdqSVRKUW1UcWp3X1NiTFE5T0w4?oc=5\" target=\"_blank\">Κόλαση η ζωή των κατοίκων στο Σιδηρόκαστρο από τους Ρομά - Συμμορίες σκορπούν τρόμο, καθημερινές διαρρήξεις με ",
+      "published": "Wed, 01 Jul 2026 05:50:41 GMT",
       "lang": "el"
     },
     {
-      "title": "Να σταματήσει η άδικη δίωξη εκπαιδευτικού απαιτούν σωματεία της Εύβοιας - 902",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGpBTGZWTVRGbTY0cUVTY0VHc1M5bWpfa0FwTk1wOGZCUklkd1hRRW9ybnZFMExyMFVleXo5bXhBOS03bnVyYXRUQ3VuSEZ4UnN5VU11VzdqVjRzRkVuS3AyVU13VXlKakZlMEd3dExBcDE3XzA0U2FtQTlhbmw1dnN0bzhpSDNielNwX2Z6RXNFMHFXdHFraG9BdEpJX1RsZ0RsWm03TGpWb1VhdG9PWUpB?oc=5",
-      "source": "902",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGpBTGZWTVRGbTY0cUVTY0VHc1M5bWpfa0FwTk1wOGZCUklkd1hRRW9ybnZFMExyMFVleXo5bXhBOS03bnVyYXRUQ3VuSEZ4UnN5VU11VzdqVjRzRkVuS3AyVU13VXlKakZlMEd3dExBcDE3XzA0U2FtQTlhbmw1dnN0bzhpSDNielNwX2Z6RXNFMHFXdHFraG9BdEpJX1RsZ0RsWm03TGpWb1VhdG9PWUpB?oc=5\" target=\"_blank\">Να σταματήσει η άδικη δίωξη εκπαιδευτικού απαιτούν σωματεία της Εύβοιας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">902</font>",
-      "published": "Tue, 30 Jun 2026 20:02:57 GMT",
+      "title": "Παύλος Χαϊκάλης για τον θάνατο του Μιχάλη Μόσιου: Πνίγομαι από τα συναισθήματά μου, είμαι τυχερός που τον γνώρισα - ProtoThema",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNENJT21rVFpmVzgxM3c4elhKYUlqYlYxY2dNU0JCT2labDlCc2Z4RWh1clRyeE5QZk5wWDRxYkhKa0RuaDU5UVBXSGNFVGFQREZMZWFqX2lubnpWQm1zQW9CSTBvTWcxZVBwYnNvd2xfdElNOXA0c09Fcy1POEFlQlB6YTdhY0l3VlY4QlNEMm5qWFRFX3gta1RBcmpHblpxOE54a3dMX3JaOHFkLVBUY0lXc2lCalg5Vzg5MFRMZld4YlktZEJGaEJnak5ueXpDZEtGOE14ZDRoalFmOXJRbXZTRHlIWXJrQi0yc0hEWWlEbUU5N29Jd255bzBZekpP?oc=5",
+      "source": "ProtoThema",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQNENJT21rVFpmVzgxM3c4elhKYUlqYlYxY2dNU0JCT2labDlCc2Z4RWh1clRyeE5QZk5wWDRxYkhKa0RuaDU5UVBXSGNFVGFQREZMZWFqX2lubnpWQm1zQW9CSTBvTWcxZVBwYnNvd2xfdElNOXA0c09Fcy1POEFlQlB6YTdhY0l3VlY4QlNEMm5qWFRFX3gta1RBcmpHblpxOE54a3dMX3JaOHFkLVBUY0lXc2lCalg5Vzg5MFRMZld4YlktZEJGaEJnak5ueXpDZEtGOE14ZDRoalFmOXJRbXZTRHlIWXJrQi0yc0hEWWlEbUU5N29Jd255bzBZekpP?oc=5\" target=\"_blank\">Παύλος Χαϊκάλης για τον θάνατο του Μιχάλη Μόσιου: Πνίγομαι από τα συναισθήματά μου,",
+      "published": "Wed, 01 Jul 2026 12:15:43 GMT",
       "lang": "el"
     },
     {
-      "title": "Πάτρα: Στο νοσοκομείο με κάταγμα 10 μηνών βρέφος - «Με έσπρωξαν ενώ το κρατούσα» - AlfaVita",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcG9SNHFXUHpQdHBZVTBJb2sxTUdhRzNOZURmUzFxVEZnczFvRkdXNzdudkd3YmE2NDA4NGNGXzVZTDczTlFtRWRrOEotSUhxUmdJbHVsWk5PN3pyVFJKekRIN184UlhvU1Rib1Nrei05U0NrNzFUaVF3b3lRUWZsa2E0Tk9NQks5Wm9CREYzRU1sdTNkR0E4d3hCSnRxLUJ1TTk3Q0xVMmhCTEhaNTB5NWp3?oc=5",
+      "title": "Αντιδράσεις εκπαιδευτικών κατά της παραπομπής της Μαρίας Μαυροκεφαλίδου στο πειθαρχικό επειδή αντιτάχθηκε σε συγχωνεύσεις τμημάτων - AlfaVita",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRm9VVkdIWElsNFVES0xCSTdDMEl2M3l6V3g2cjhsUmlKRFFmY3ZoYlZhRFFQejkycEFmZEtGYk55c0UwelZkbzlYYUwwS3NtbHp3cm9kT2tzODZoV01Mb0dBWEVxMU1WckNLZHhCbWpKVnhkb1BBaUs1UnhPaW0zR2FrNEVTMmQ1TGREVnV4TF96a0pCRnFsdXFqSEw4bk1XcFpxQVV3aWtiN2p3SXlRVTNURnlYN1Z2?oc=5",
       "source": "AlfaVita",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcG9SNHFXUHpQdHBZVTBJb2sxTUdhRzNOZURmUzFxVEZnczFvRkdXNzdudkd3YmE2NDA4NGNGXzVZTDczTlFtRWRrOEotSUhxUmdJbHVsWk5PN3pyVFJKekRIN184UlhvU1Rib1Nrei05U0NrNzFUaVF3b3lRUWZsa2E0Tk9NQks5Wm9CREYzRU1sdTNkR0E4d3hCSnRxLUJ1TTk3Q0xVMmhCTEhaNTB5NWp3?oc=5\" target=\"_blank\">Πάτρα: Στο νοσοκομείο με κάταγμα 10 μηνών βρέφος - «Με έσπρωξαν ενώ το κρατούσα»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlfaVita</font>",
-      "published": "Wed, 01 Jul 2026 08:39:31 GMT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRm9VVkdIWElsNFVES0xCSTdDMEl2M3l6V3g2cjhsUmlKRFFmY3ZoYlZhRFFQejkycEFmZEtGYk55c0UwelZkbzlYYUwwS3NtbHp3cm9kT2tzODZoV01Mb0dBWEVxMU1WckNLZHhCbWpKVnhkb1BBaUs1UnhPaW0zR2FrNEVTMmQ1TGREVnV4TF96a0pCRnFsdXFqSEw4bk1XcFpxQVV3aWtiN2p3SXlRVTNURnlYN1Z2?oc=5\" target=\"_blank\">Αντιδράσεις εκπαιδευτικών κατά της παραπομπής της Μαρίας Μαυροκεφαλίδου στο πειθαρχικό επειδή αντιτάχθηκε σε συγχωνεύσεις τμημάτων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlfaVita</f",
+      "published": "Wed, 01 Jul 2026 11:52:05 GMT",
       "lang": "el"
     },
     {
-      "title": "Ο θρυλικός «Ταμτάκος» έφυγε από την ζωή σε ηλικία 79 ετών - In.gr",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUdLcC1PUXp1RGVnRzVXUnc3czdNX1N5VGFKNVZweTFmaF9kZmpLVm1NLU4xd3VWOUdiOElxOWFyQnpfX0RpUFpCRk9aeFQ2czJyaHhoajd0N3EtMHdSVThvY3p4WEpLUjdzYkVlMm1YbTZDYUlOVXJ3RG5IcDhoSGl0T29fS250OUVJVmRqMlppMW5CQVpmMUs5RGZuUdIBngFBVV95cUxQMUdLcC1PUXp1RGVnRzVXUnc3czdNX1N5VGFKNVZweTFmaF9kZmpLVm1NLU4xd3VWOUdiOElxOWFyQnpfX0RpUFpCRk9aeFQ2czJyaHhoajd0N3EtMHdSVThvY3p4WEpLUjdzYkVlMm1YbTZDYUlOVXJ3RG5IcDhoSGl0T29fS250OUVJVmRqMlppMW5CQVpmMUs5RGZuUQ?oc=5",
-      "source": "In.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMUdLcC1PUXp1RGVnRzVXUnc3czdNX1N5VGFKNVZweTFmaF9kZmpLVm1NLU4xd3VWOUdiOElxOWFyQnpfX0RpUFpCRk9aeFQ2czJyaHhoajd0N3EtMHdSVThvY3p4WEpLUjdzYkVlMm1YbTZDYUlOVXJ3RG5IcDhoSGl0T29fS250OUVJVmRqMlppMW5CQVpmMUs5RGZuUdIBngFBVV95cUxQMUdLcC1PUXp1RGVnRzVXUnc3czdNX1N5VGFKNVZweTFmaF9kZmpLVm1NLU4xd3VWOUdiOElxOWFyQnpfX0RpUFpCRk9aeFQ2czJyaHhoajd0N3EtMHdSVThvY3p4WEpLUjdzYkVlMm1YbTZDYUlOVXJ3RG5IcDhoSGl0T29fS250OUVJVmRqMlppMW5CQVpmMUs5RGZuUQ?oc=5\" target=\"_blan",
-      "published": "Wed, 01 Jul 2026 00:35:00 GMT",
+      "title": "Μιχάλης Μόσιος: Ο Παύλος Χαϊκάλης συγκινεί με τα λόγια του για τον ηθοποιό – “Ήταν ένα αυθεντικό παιδί” - ANT1 TV",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbGR4a0NCRHZiOERxX3V2YnY0MldzVXU1amdyUlNuZDFIaE1KSjVUVWpkVWg3aHJzTnkyUW5pZTI2ZHJobWRRWHBLd3AwY2ZLZGQxeVZxZ292bWY1RWhyR2VWUUp3WTNHTTFDZXhoNDYxY3pjdFl6c21SREwxNmNIMjdIa1Y5MDRiQTNST3VweWVpeWZZeFAxb3pGMTlUNVNqOEEzblFEVkt4dDJxdVpsV2xZbi10d3JRV194UHdreTN6T0QxVTVPTllsbVVjSnRsTmVjcU43YXp2SnRreFVPczJRbzAzVVpWeXQ2TVpEZ1BvN21WWF9uTWhEUzNOSnd2RHZGaXJDc3lsbUlhNWF3dV94YmNfakg3UjJDZ0lB?oc=5",
+      "source": "ANT1 TV",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQbGR4a0NCRHZiOERxX3V2YnY0MldzVXU1amdyUlNuZDFIaE1KSjVUVWpkVWg3aHJzTnkyUW5pZTI2ZHJobWRRWHBLd3AwY2ZLZGQxeVZxZ292bWY1RWhyR2VWUUp3WTNHTTFDZXhoNDYxY3pjdFl6c21SREwxNmNIMjdIa1Y5MDRiQTNST3VweWVpeWZZeFAxb3pGMTlUNVNqOEEzblFEVkt4dDJxdVpsV2xZbi10d3JRV194UHdreTN6T0QxVTVPTllsbVVjSnRsTmVjcU43YXp2SnRreFVPczJRbzAzVVpWeXQ2TVpEZ1BvN21WWF9uTWhEUzNOSnd2RHZGaXJDc3lsbUlhNWF3dV94YmNfakg3UjJDZ0lB?oc=5\" target=\"_blank\">Μιχάλης Μόσιος: Ο Παύλος Χαϊκάλης συγκινεί ",
+      "published": "Wed, 01 Jul 2026 11:53:40 GMT",
       "lang": "el"
     },
     {
-      "title": "Πέθανε ο Μιχάλης Μόσιος, ο «Ταμτάκος» του ελληνικού κινηματογράφου και θεάτρου σε ηλικία 79 χρόνων - BEST TV Καλαμάτα",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblhUQ2ttclZYVXpIZVRYbnpTQ1Z6cEptb3FuMWJqNlpRdzB5RUVBd1pnZmxqT08tdTNVV2NjWUl0czI1RWd2YXRGTWxzNXpUbGZlbmF1d0g1ekY4dEV0TWVmVWhmM1kxV2htNzVOaXJLVGluVWVpSm9uWi1uUGNKU2FMNDBjdEJPLWRoYW8xMDR0UDhaTmYzR09udEY4WEI4T0NUXzBIdVN5TFktYXQ3d1d5NWdNb1ZwMjMw?oc=5",
-      "source": "BEST TV Καλαμάτα",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblhUQ2ttclZYVXpIZVRYbnpTQ1Z6cEptb3FuMWJqNlpRdzB5RUVBd1pnZmxqT08tdTNVV2NjWUl0czI1RWd2YXRGTWxzNXpUbGZlbmF1d0g1ekY4dEV0TWVmVWhmM1kxV2htNzVOaXJLVGluVWVpSm9uWi1uUGNKU2FMNDBjdEJPLWRoYW8xMDR0UDhaTmYzR09udEY4WEI4T0NUXzBIdVN5TFktYXQ3d1d5NWdNb1ZwMjMw?oc=5\" target=\"_blank\">Πέθανε ο Μιχάλης Μόσιος, ο «Ταμτάκος» του ελληνικού κινηματογράφου και θεάτρου σε ηλικία 79 χρόνων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BEST TV Καλαμάτα</font>",
-      "published": "Wed, 01 Jul 2026 08:37:42 GMT",
+      "title": "Παύλος Χαϊκάλης για Μιχάλη Μόσιο: Ήταν ταλαιπωρημένος, τον πολεμήσανε άγρια λόγω της επιτυχίας του - NewsIT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaXUwWW5RT19Lcy13NmdiWWd0b0FJRkIyOGRnM1RDQUJaMkl4V1g5R1N2eUxEUnpCc2M1eUd3eVUyU0Q3bHU0RDVKQjRONUhYcW9LNWZ0MEN4dWlXd3dUT3VBSng4b1J5UnFSR2xUTnN5OVFxcXdBeUtOS2VVV1BYVVNUMVZsSkFPamZMbUtrVHpIX0xFRi00bEJRd3FGUTNkSXVpTzdQN1VNMlRCRGxBdFhnNDBnLTB0d1hHU09xSUtDblRvX0FzMm9sRE5vSWN1NHlB0gHTAUFVX3lxTE1pdTBZblFPX0tzLXc2Z2JZZ3RvQUlGQjI4ZGczVENBQloySXhXWDlHU3Z5TERSekJzYzV5R3d5VTJTRDdsdTRENUpCNE41SFhxb0s1ZnQwQ3h1aVd3d1RPdUFKeDhvUnlScVJHbFROc3k5UXFxd0F5S05LZVVXUFhVU1QxVmxKQU9qZkxtS2tUekhfTEVGLTRsQlF3cUZRM2RJdWlPN1A3VU0yVEJEbEF0WGc0MGctMHR3WEdTT3FJS0NuVG9fQXMyb2xETm9JY3U0eUE?oc=5",
+      "source": "NewsIT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaXUwWW5RT19Lcy13NmdiWWd0b0FJRkIyOGRnM1RDQUJaMkl4V1g5R1N2eUxEUnpCc2M1eUd3eVUyU0Q3bHU0RDVKQjRONUhYcW9LNWZ0MEN4dWlXd3dUT3VBSng4b1J5UnFSR2xUTnN5OVFxcXdBeUtOS2VVV1BYVVNUMVZsSkFPamZMbUtrVHpIX0xFRi00bEJRd3FGUTNkSXVpTzdQN1VNMlRCRGxBdFhnNDBnLTB0d1hHU09xSUtDblRvX0FzMm9sRE5vSWN1NHlB0gHTAUFVX3lxTE1pdTBZblFPX0tzLXc2Z2JZZ3RvQUlGQjI4ZGczVENBQloySXhXWDlHU3Z5TERSekJzYzV5R3d5VTJTRDdsdTRENUpCNE41SFhxb0s1ZnQwQ3h1aVd3d1RPdUFKeDhvUnlScVJHbFROc3k5UXFxd0F5S0",
+      "published": "Wed, 01 Jul 2026 10:19:00 GMT",
       "lang": "el"
     },
     {
-      "title": "Δυτική Αχαΐα: Επίθεση από Ρομά σε πυροσβέστες – Ένας πυροσβέστης τραυματίστηκε - happenednow.gr",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjFiNC1Jc1lQN1Q4WlM3Rm5ObjFfWU12ckE3Tk4wWTRwbmlJcE52RXF0bVlVeDhZTnBzV2h1eHJUNmhmMmJHbU1ZUi00bW1zN0FDa1RkcEZfbXpmY3YtUzJRTHdpRmNad0hrY0gwZFVwZ0dkQ0Z3LTlpMlpQS0FkNWxmTU9NTW5RYTR0VWhCRHpoLThXRGxmamFaLWFVblJYMkZF?oc=5",
-      "source": "happenednow.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjFiNC1Jc1lQN1Q4WlM3Rm5ObjFfWU12ckE3Tk4wWTRwbmlJcE52RXF0bVlVeDhZTnBzV2h1eHJUNmhmMmJHbU1ZUi00bW1zN0FDa1RkcEZfbXpmY3YtUzJRTHdpRmNad0hrY0gwZFVwZ0dkQ0Z3LTlpMlpQS0FkNWxmTU9NTW5RYTR0VWhCRHpoLThXRGxmamFaLWFVblJYMkZF?oc=5\" target=\"_blank\">Δυτική Αχαΐα: Επίθεση από Ρομά σε πυροσβέστες – Ένας πυροσβέστης τραυματίστηκε</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">happenednow.gr</font>",
-      "published": "Wed, 01 Jul 2026 02:45:56 GMT",
+      "title": "Εντατικοποίηση των ελέγχων για τους… εισαγόμενους καταληψίες δημοσίων χώρων - Η ΡΟΔΙΑΚΗ",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlpxbTZMcmMtODhHZHUyM0JPZlUxcGUxNkhEd3hWR2pHMWtXX0lJQnpKX0YyX3ZSQ3d3NDA2RkpRZjY2YkJ2N2VDZG1oUklZcWttMWZmd3FJbjhjbFMtMmx6N3VXRTV4WGNQVzlkbldfUTNSTEVERlJVTlB3N3Y2R0ZlQUdvWEdzdFF2WEw5SzNic0NVWmpXVWNzMnRoSlE0UU0wbUUzajBST1g2Y3hKdVBOLWNqdTctaVdBRFRGLS0?oc=5",
+      "source": "Η ΡΟΔΙΑΚΗ",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlpxbTZMcmMtODhHZHUyM0JPZlUxcGUxNkhEd3hWR2pHMWtXX0lJQnpKX0YyX3ZSQ3d3NDA2RkpRZjY2YkJ2N2VDZG1oUklZcWttMWZmd3FJbjhjbFMtMmx6N3VXRTV4WGNQVzlkbldfUTNSTEVERlJVTlB3N3Y2R0ZlQUdvWEdzdFF2WEw5SzNic0NVWmpXVWNzMnRoSlE0UU0wbUUzajBST1g2Y3hKdVBOLWNqdTctaVdBRFRGLS0?oc=5\" target=\"_blank\">Εντατικοποίηση των ελέγχων για τους… εισαγόμενους καταληψίες δημοσίων χώρων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Η ΡΟΔΙΑΚΗ</font>",
+      "published": "Wed, 01 Jul 2026 14:00:04 GMT",
       "lang": "el"
     },
     {
-      "title": "Αποχαιρετισμός στον θρυλικό Ταμτάκο: Έφυγε από τη ζωή ο Μιχάλης Μόσιος σε ηλικία 79 ετών - politic.gr",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkVJX0IzeEZyUDRSbXpkcUNVODB1RnJvb3hfY3hFbGJDUEhLYkZuTDJydUtCMkxfbVlUYlF0T1dsTGU1d0VUR0pBeEdmWTVnQ2RXX2FDWl95cTMzMjh5SThGQnNXbEwxajY4R19oa0JYaFZOZ2RvSjU0ZVBzcW5acEwwaVRzTWgxVVl3VGdyQzZGLS1Vbkc1V1N3cUU2TTlNdnNhNF91SXNoTTFZSW54X3JsZ24zVzE5bVowRg?oc=5",
-      "source": "politic.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkVJX0IzeEZyUDRSbXpkcUNVODB1RnJvb3hfY3hFbGJDUEhLYkZuTDJydUtCMkxfbVlUYlF0T1dsTGU1d0VUR0pBeEdmWTVnQ2RXX2FDWl95cTMzMjh5SThGQnNXbEwxajY4R19oa0JYaFZOZ2RvSjU0ZVBzcW5acEwwaVRzTWgxVVl3VGdyQzZGLS1Vbkc1V1N3cUU2TTlNdnNhNF91SXNoTTFZSW54X3JsZ24zVzE5bVowRg?oc=5\" target=\"_blank\">Αποχαιρετισμός στον θρυλικό Ταμτάκο: Έφυγε από τη ζωή ο Μιχάλης Μόσιος σε ηλικία 79 ετών</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politic.gr</font>",
-      "published": "Wed, 01 Jul 2026 00:36:02 GMT",
+      "title": "«Μας εκβιάζουν και μας συκοφαντούν μέσα από τη φυλακή»: Εξώδικο της πρώην αντιδημάρχου Καρδίτσας σε μέλος της οικογένειας Βιλανάκη - ProtoThema",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTlqWHRCcVZvcmRQOEswbjF2MkJ4Qmx3a0RGbWJvZ2M5WF8waFBITlRXaDdKVEtyc0VYRmx6Wlo3QTU3SFI5VERlVDVyWV9WZGdWZEZvTnNtSU5qeWtic184QkJXaHRNSkxxUHRmRkhyZUJTNS12WTFVUjM2QVhrUjc4YzBhMWRGdV9iSjBlY2k1WTRqNlF4X182UzJMTk96akNsN3FtQXVjM2s5dGFFU2YzUndyaEl3eFc1dGd6bGVzbVotRlZJMmtJQk1BbDVoblBJ0gHYAUFVX3lxTE1UZk5BOU04UWFhTFdzdjEzd3pyQUFMekdNTTBORzdRNWNtMUpKNzdaLV9VSlF5NlhYY1g1TXJSbWVRdXJfOHRLVnc5eFlSUHg4LXVPMHlxUUVfcXpGT3NmYW9yOEJQZnZsajN5ajEtRUFWOGhSMzlMcDBLc2xfMkpHbkZzRTJEdnVrMWt6cXJORTRkZ3M0MDhfODB1cXdEM2xTczVUZFFhdklGek55bWZPa0F1LU91dDJrX1B5a1pUNHczQy1PbGFLanJzcHROYVVVbEVHaVp2MA?oc=5",
+      "source": "ProtoThema",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTlqWHRCcVZvcmRQOEswbjF2MkJ4Qmx3a0RGbWJvZ2M5WF8waFBITlRXaDdKVEtyc0VYRmx6Wlo3QTU3SFI5VERlVDVyWV9WZGdWZEZvTnNtSU5qeWtic184QkJXaHRNSkxxUHRmRkhyZUJTNS12WTFVUjM2QVhrUjc4YzBhMWRGdV9iSjBlY2k1WTRqNlF4X182UzJMTk96akNsN3FtQXVjM2s5dGFFU2YzUndyaEl3eFc1dGd6bGVzbVotRlZJMmtJQk1BbDVoblBJ0gHYAUFVX3lxTE1UZk5BOU04UWFhTFdzdjEzd3pyQUFMekdNTTBORzdRNWNtMUpKNzdaLV9VSlF5NlhYY1g1TXJSbWVRdXJfOHRLVnc5eFlSUHg4LXVPMHlxUUVfcXpGT3NmYW9yOEJQZnZsajN5ajEtRUFWOGhSMzlMcD",
+      "published": "Wed, 01 Jul 2026 14:31:00 GMT",
       "lang": "el"
     },
     {
-      "title": "Πέθανε ο Μιχάλης Μόσιος - Zappit",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rNkpIdm1NME15Rld5ak1lcVdQN2ZNY0wyZzZtM2JHdFZSY0lPWlFUOGluMmNFTVo2ckV0SGRtQ0RycXRMb0lucUczRDZXanBGbWthamtEMkg5cDZVX21VV1J3MGgwODNfUDBOR1dseW5TNUFEV1HSAXtBVV95cUxQc1JFbnBsR1BvZ1RZQnNDTklOdkM1dlZGSHJNTk9aOUVGck82QVBqaFoxb2ppN0RJSFVuZW5YdGlPRkgtd0s0ZkVNMzhHYUpKVERXeUlHaG1aRnIxT1BoUVhpbHREa3pEWWRjdlZYOWU4eXQ2ZkdERW5wRWs?oc=5",
-      "source": "Zappit",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9rNkpIdm1NME15Rld5ak1lcVdQN2ZNY0wyZzZtM2JHdFZSY0lPWlFUOGluMmNFTVo2ckV0SGRtQ0RycXRMb0lucUczRDZXanBGbWthamtEMkg5cDZVX21VV1J3MGgwODNfUDBOR1dseW5TNUFEV1HSAXtBVV95cUxQc1JFbnBsR1BvZ1RZQnNDTklOdkM1dlZGSHJNTk9aOUVGck82QVBqaFoxb2ppN0RJSFVuZW5YdGlPRkgtd0s0ZkVNMzhHYUpKVERXeUlHaG1aRnIxT1BoUVhpbHREa3pEWWRjdlZYOWU4eXQ2ZkdERW5wRWs?oc=5\" target=\"_blank\">Πέθανε ο Μιχάλης Μόσιος</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zappit</font>",
-      "published": "Wed, 01 Jul 2026 04:46:39 GMT",
+      "title": "Μιχάλης Μόσιος: Η ιδέα για τον αξέχαστο «Ταμτάκο», η γνωριμία με τη σύζυγό του και το μεγάλο του παράπονο - ProtoThema",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa3lJbHpnMDc2eFNpRnhxZmJILWtGN0RZTDIyQVBCaGQwSmg4SU92bVB4LWZmQm95WTdkUk1HVlItMWVxUjJOUy1BNl9qNVNxbVJVbEZBTzdzRDhEUmt6NnJTZzl3YzNlLU12X1NFb1M1YVoxRFoxUVRWaXcwTmVzR2VkMVBiLUlyYk1mMFd1TlFZWFoySGNGdk1OUjJpcWJHT21SR2g3T2hMSUJsUjBzNVZsdnN1bVZ0eTdVcGhCUXkzUHRQTGZ5WUs2M1FHQUZsbUNLRDFlYWRKYzhrVVBRTXQzQkRpY25NMjFwVFVqa1p3RnlhZUE?oc=5",
+      "source": "ProtoThema",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa3lJbHpnMDc2eFNpRnhxZmJILWtGN0RZTDIyQVBCaGQwSmg4SU92bVB4LWZmQm95WTdkUk1HVlItMWVxUjJOUy1BNl9qNVNxbVJVbEZBTzdzRDhEUmt6NnJTZzl3YzNlLU12X1NFb1M1YVoxRFoxUVRWaXcwTmVzR2VkMVBiLUlyYk1mMFd1TlFZWFoySGNGdk1OUjJpcWJHT21SR2g3T2hMSUJsUjBzNVZsdnN1bVZ0eTdVcGhCUXkzUHRQTGZ5WUs2M1FHQUZsbUNLRDFlYWRKYzhrVVBRTXQzQkRpY25NMjFwVFVqa1p3RnlhZUE?oc=5\" target=\"_blank\">Μιχάλης Μόσιος: Η ιδέα για τον αξέχαστο «Ταμτάκο», η γνωριμία με τη σύζυγό του και το μεγάλο του",
+      "published": "Wed, 01 Jul 2026 09:50:04 GMT",
       "lang": "el"
     },
     {
-      "title": "Ρέθυμνο: Έκλεψε εργαλεία από οικοδομή - Cretatimes.gr",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sa1g4NnlfTmxRUWV6UE9jaWM0UWVzOWEzNW5ianY1Qkt5cGlGX2dtb0RtN1RuOTFwelpsT05kUW5jb0RVSkxyVlY3c0tPTVNFOFByLW1oZkIxemF0M2VrVUZDTUlYREpsY3JRRDhB?oc=5",
-      "source": "Cretatimes.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5sa1g4NnlfTmxRUWV6UE9jaWM0UWVzOWEzNW5ianY1Qkt5cGlGX2dtb0RtN1RuOTFwelpsT05kUW5jb0RVSkxyVlY3c0tPTVNFOFByLW1oZkIxemF0M2VrVUZDTUlYREpsY3JRRDhB?oc=5\" target=\"_blank\">Ρέθυμνο: Έκλεψε εργαλεία από οικοδομή</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cretatimes.gr</font>",
-      "published": "Wed, 01 Jul 2026 07:59:24 GMT",
+      "title": "«Κέντρο Γειτονιάς Ρομά» στην Πάτρα: Ξεκινά η λειτουργία του με στήριξη της Περιφέρειας Δυτικής Ελλάδας - THE BEST",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcU1oQmdNaVc3RzhwY1Zpdi1jOVBvT2tPSWR6d0R5WHJEeS1ubjNaTjdNbzA2WF8wR1ZZcHM5b3FXbTA1WmI4b0pTUXlLYnNqSTdrYlNnVHJucDlOTTB5OVZXeVgtb2pJaUEwOUZ4RFBjbnE0RDNDZU9iZnJpbzF2UjFCcE1JYmVxNVJZaDFVS2ViRldjVTVyZUtKaUU5TjVjWXRreHFsZWtUX1l6RzItYUxkWjc4azV0WWduR0RvLTNydzhXdzQyMDZXc2I1VC1CcV9R0gHYAUFVX3lxTE9Md3ZMQURCeVVFbUFrV05WRHJBcXR1RTBiYmE5cDNZU3Jic25jcmRocTY1SzJRZTNNcUNKOWxpRGVXYVdsVUlpVGEwLWJkaFF0VDRHLWt3Nm5RRnh3U3lrZ1B2Z1h0ZDF3MVBVYjZkYy1qcFFrNXo2UDY0UDAwaXNoMFAyUjBSS0JONGZlOC1nODV4ZWlDTlJTX003VUFPaFRXaFo1QlV0UzY1TkdMdGZtUkZNT0NiOXBnVFhXdlVnb1ZQOVJLU2p2dmZ1WXBjRUI2YmVNcXQxOQ?oc=5",
+      "source": "THE BEST",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcU1oQmdNaVc3RzhwY1Zpdi1jOVBvT2tPSWR6d0R5WHJEeS1ubjNaTjdNbzA2WF8wR1ZZcHM5b3FXbTA1WmI4b0pTUXlLYnNqSTdrYlNnVHJucDlOTTB5OVZXeVgtb2pJaUEwOUZ4RFBjbnE0RDNDZU9iZnJpbzF2UjFCcE1JYmVxNVJZaDFVS2ViRldjVTVyZUtKaUU5TjVjWXRreHFsZWtUX1l6RzItYUxkWjc4azV0WWduR0RvLTNydzhXdzQyMDZXc2I1VC1CcV9R0gHYAUFVX3lxTE9Md3ZMQURCeVVFbUFrV05WRHJBcXR1RTBiYmE5cDNZU3Jic25jcmRocTY1SzJRZTNNcUNKOWxpRGVXYVdsVUlpVGEwLWJkaFF0VDRHLWt3Nm5RRnh3U3lrZ1B2Z1h0ZDF3MVBVYjZkYy1qcFFrNXo2UD",
+      "published": "Wed, 01 Jul 2026 12:59:46 GMT",
       "lang": "el"
     },
     {
-      "title": "Ωραιόκαστρο: Βρέθηκε και δεύτερη απανθρακωμένη σορός - Φόβοι ότι είναι το παιδί που αγνοείται - Tribune.gr",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLUQwVlljV2NNQzV2QkpoMHlMdlp1akxnc0l4UkVFRGFmYTlnX3VkVk5PYkRDalltNlJ3ajdDTjJOd1FscTdkVHdYTGU4Y3JPV2xhMDZFRW1xTGh0ZWJuY0tlWXJNaURRQk1uSEZDV2VuNmhOQllnUllQR2NHZnNhd0hvVU1OR0NqbFgzRVdBM0Q4OG84WDhxdlZRV2pyOGg2RGpuYUdWUzZIbkJZVEtYWWxGeGdOaGZnSXI4bmloWXNkS01iOUl2alFoRURXdFNsQWNyUDJjanNmNzhwTThwTA?oc=5",
-      "source": "Tribune.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLUQwVlljV2NNQzV2QkpoMHlMdlp1akxnc0l4UkVFRGFmYTlnX3VkVk5PYkRDalltNlJ3ajdDTjJOd1FscTdkVHdYTGU4Y3JPV2xhMDZFRW1xTGh0ZWJuY0tlWXJNaURRQk1uSEZDV2VuNmhOQllnUllQR2NHZnNhd0hvVU1OR0NqbFgzRVdBM0Q4OG84WDhxdlZRV2pyOGg2RGpuYUdWUzZIbkJZVEtYWWxGeGdOaGZnSXI4bmloWXNkS01iOUl2alFoRURXdFNsQWNyUDJjanNmNzhwTThwTA?oc=5\" target=\"_blank\">Ωραιόκαστρο: Βρέθηκε και δεύτερη απανθρακωμένη σορός - Φόβοι ότι είναι το παιδί που αγνοείται</a>&nbsp;&nbsp;<font color=\"#6f",
-      "published": "Tue, 30 Jun 2026 20:18:15 GMT",
+      "title": "Αναγνώστρια: Κάντε κάτι με τους Ρομά στην παραλία Τιγκακιού – Κάνουν μπάνιο και πλένουν τα ρούχα τους στη δημόσια ντουζιέρα - VimaTisKo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeXBncW8zQlhtTTBHRzI2VnVlNEczdVFfSXl6SkxDUXQ1OVo1REo4bEpxeDdldS1DRDhVbS1ac2FvZjFOM20wUjc5aDJfQmhxSjE4N1pHaUVLUzZ2V3NpWGRTa0VST1ZjSlJTOVp2ZVZVTXhva1dkNHBYQnZzM2tlNkxTN3lGUV8ybGRB?oc=5",
+      "source": "VimaTisKo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeXBncW8zQlhtTTBHRzI2VnVlNEczdVFfSXl6SkxDUXQ1OVo1REo4bEpxeDdldS1DRDhVbS1ac2FvZjFOM20wUjc5aDJfQmhxSjE4N1pHaUVLUzZ2V3NpWGRTa0VST1ZjSlJTOVp2ZVZVTXhva1dkNHBYQnZzM2tlNkxTN3lGUV8ybGRB?oc=5\" target=\"_blank\">Αναγνώστρια: Κάντε κάτι με τους Ρομά στην παραλία Τιγκακιού – Κάνουν μπάνιο και πλένουν τα ρούχα τους στη δημόσια ντουζιέρα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VimaTisKo</font>",
+      "published": "Wed, 01 Jul 2026 14:00:00 GMT",
       "lang": "el"
     },
     {
-      "title": "Program tv dla Wielkie wesela amerykańskich Romów , sezon 1, odc. 4 - Pilot WP",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGtzM3ZrNWxnTGdyeFBIcmEwQ1RwTWtKOFRhcGFKYTJBVmE0SXhwSEtjZC1kLXFUOHlHQzBfOHYtcmMxajZkYk5id3ljSk51MWR4ZW5Pdjllenl4Q1hGRkJMeWpLeGdLTXdhU09wZV9BNEFJVnEwY1ljMHlQYTBZQ1NQT0labWx3c1hCQWRseGpOTkpTWDdKaGl5bHM2VEl0S0IzdHFJdV8?oc=5",
-      "source": "Pilot WP",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGtzM3ZrNWxnTGdyeFBIcmEwQ1RwTWtKOFRhcGFKYTJBVmE0SXhwSEtjZC1kLXFUOHlHQzBfOHYtcmMxajZkYk5id3ljSk51MWR4ZW5Pdjllenl4Q1hGRkJMeWpLeGdLTXdhU09wZV9BNEFJVnEwY1ljMHlQYTBZQ1NQT0labWx3c1hCQWRseGpOTkpTWDdKaGl5bHM2VEl0S0IzdHFJdV8?oc=5\" target=\"_blank\">Program tv dla Wielkie wesela amerykańskich Romów , sezon 1, odc. 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pilot WP</font>",
-      "published": "Wed, 01 Jul 2026 05:57:57 GMT",
+      "title": "Romowie weszli do basenu w ubraniach. Awantura na miejskim kąpielisku - NTO",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVS1fTlRQTEV5aXhQZXhnbngxTU5Tb1d3SllHcUQ4RVZkX0wxZXFWRUhqTzRuOVZkWHdQdFF5cFlxZlFqWXZMR2J4RXZfc1A4OTNRbnFVZkE3c2lZZkRyajdCVDJkSmgtOFhmRHJpeUU4OUxXSjNlbFU4aHYwM3FpRkd1VGFhN18zTUpRR2dJdDc2ZEhpaVZ4T0hmQjl6cHlwMnc?oc=5",
+      "source": "NTO",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNVS1fTlRQTEV5aXhQZXhnbngxTU5Tb1d3SllHcUQ4RVZkX0wxZXFWRUhqTzRuOVZkWHdQdFF5cFlxZlFqWXZMR2J4RXZfc1A4OTNRbnFVZkE3c2lZZkRyajdCVDJkSmgtOFhmRHJpeUU4OUxXSjNlbFU4aHYwM3FpRkd1VGFhN18zTUpRR2dJdDc2ZEhpaVZ4T0hmQjl6cHlwMnc?oc=5\" target=\"_blank\">Romowie weszli do basenu w ubraniach. Awantura na miejskim kąpielisku</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTO</font>",
+      "published": "Wed, 01 Jul 2026 07:21:45 GMT",
       "lang": "pl"
     },
     {
-      "title": "Hevoset ovat kuuluneet aina Iisalmen Hagertien elämään – \"Symbolisesti hevosella on meille iso merkitys\" | Urheilu - Iisalmen Sanomat",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16UmZGVHkwMlMtVlk4NnpIcEpxbVlvaDZESmlaRHg4RHYteUZZTDBtWTFmZEZkVFpWUndRcTFPWUFwWWFfbFJuNlF3eS1ycUpvU0lMeGtlakJtUQ?oc=5",
-      "source": "Iisalmen Sanomat",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE16UmZGVHkwMlMtVlk4NnpIcEpxbVlvaDZESmlaRHg4RHYteUZZTDBtWTFmZEZkVFpWUndRcTFPWUFwWWFfbFJuNlF3eS1ycUpvU0lMeGtlakJtUQ?oc=5\" target=\"_blank\">Hevoset ovat kuuluneet aina Iisalmen Hagertien elämään – \"Symbolisesti hevosella on meille iso merkitys\" | Urheilu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iisalmen Sanomat</font>",
-      "published": "Wed, 01 Jul 2026 01:30:00 GMT",
-      "lang": "fi"
+      "title": "PJF recebe apresentação de programa de desenvolvimento social da Nexa Resources - PJF - Prefeitura de Juiz de Fora",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QYmZ4bXQxNTNJcjhJR3VuUi1aSm5xYlk3VFBSdDFnaVcwMHlrRERibjlkdmZZUUlUc0FXWGRmejVQTnowcXhtNFZESEZ1cWdCX3p6cHJhWmxNNVMwaEFXVkJSN0J2SXZVZHdPWDgwcHVfTkF5S282NGVVWQ?oc=5",
+      "source": "PJF - Prefeitura de Juiz de Fora",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9QYmZ4bXQxNTNJcjhJR3VuUi1aSm5xYlk3VFBSdDFnaVcwMHlrRERibjlkdmZZUUlUc0FXWGRmejVQTnowcXhtNFZESEZ1cWdCX3p6cHJhWmxNNVMwaEFXVkJSN0J2SXZVZHdPWDgwcHVfTkF5S282NGVVWQ?oc=5\" target=\"_blank\">PJF recebe apresentação de programa de desenvolvimento social da Nexa Resources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PJF - Prefeitura de Juiz de Fora</font>",
+      "published": "Wed, 01 Jul 2026 15:16:00 GMT",
+      "lang": "pt"
     },
     {
-      "title": "Média és Valóság – Balázs Géza - DIKH Média",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzdFMEU4b1NCdjFXc1k4SkxSMXNBSHY2Y3NnTWk5eWVQTXhna1pxb3JMTjU3VklCbVRXZlFxT18zdkFzdFFTb0U1UU1fWGNYSEdMZHhORnVNdk9XSEVQNWVSbGVkYzY5TEk3RkUxMmxaUGdyR19oOVlHaW5PMjhIRnBn?oc=5",
-      "source": "DIKH Média",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzdFMEU4b1NCdjFXc1k4SkxSMXNBSHY2Y3NnTWk5eWVQTXhna1pxb3JMTjU3VklCbVRXZlFxT18zdkFzdFFTb0U1UU1fWGNYSEdMZHhORnVNdk9XSEVQNWVSbGVkYzY5TEk3RkUxMmxaUGdyR19oOVlHaW5PMjhIRnBn?oc=5\" target=\"_blank\">Média és Valóság – Balázs Géza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIKH Média</font>",
-      "published": "Tue, 30 Jun 2026 19:34:46 GMT",
-      "lang": "hu"
+      "title": "Troféu Gralha Azul abre inscrições para 42ª edição da premiação mais tradicional do teatro - Bem Paraná",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUjBlSHdFQ2tqQkFuTE85bWFva1RaTkpXUG9SdzFUdWtfQm1WTFNKdW1VLXVOVjd0SXl0STNWV2ZWX3dSVTNhUVdoM0U0SEt0OUIxanFYcFhEWXo2QWRCUmU1eTZoSlHSAWxBVV95cUxPZVNjc3JycG9nQkw5WnZPWDM1UHk0dl9GYmR1MElvQ2FaT0Q2Q1YxNGNWeVhSSTROckhsV0JfNDlfdy1neERFUmpFdWM4ZGlVa0hLdDhISXUyR1NhbkxpMUx2dXJ5bXk5dEFueVQ?oc=5",
+      "source": "Bem Paraná",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUjBlSHdFQ2tqQkFuTE85bWFva1RaTkpXUG9SdzFUdWtfQm1WTFNKdW1VLXVOVjd0SXl0STNWV2ZWX3dSVTNhUVdoM0U0SEt0OUIxanFYcFhEWXo2QWRCUmU1eTZoSlHSAWxBVV95cUxPZVNjc3JycG9nQkw5WnZPWDM1UHk0dl9GYmR1MElvQ2FaT0Q2Q1YxNGNWeVhSSTROckhsV0JfNDlfdy1neERFUmpFdWM4ZGlVa0hLdDhISXUyR1NhbkxpMUx2dXJ5bXk5dEFueVQ?oc=5\" target=\"_blank\">Troféu Gralha Azul abre inscrições para 42ª edição da premiação mais tradicional do teatro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bem Paraná</",
+      "published": "Wed, 01 Jul 2026 16:03:00 GMT",
+      "lang": "pt"
     },
     {
-      "title": "Média és Valóság – Farkas Olivér - DIKH Média",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGVFbzIwaC1TalFRQVRyb0RkTlA1SUhtVF9BeWpqMTdBRUJsNG9rejhQdjZLT2tJOVBKXzByMkQ3TnZyUDFpaTRMamlmdnJWbzVObDdLRFZVMjZWejY1a3RBc1hwbEk5a045UzlmR0ZhTll5Y2JyeEZ6V2J4bXlhcUdZVlY?oc=5",
-      "source": "DIKH Média",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObGVFbzIwaC1TalFRQVRyb0RkTlA1SUhtVF9BeWpqMTdBRUJsNG9rejhQdjZLT2tJOVBKXzByMkQ3TnZyUDFpaTRMamlmdnJWbzVObDdLRFZVMjZWejY1a3RBc1hwbEk5a045UzlmR0ZhTll5Y2JyeEZ6V2J4bXlhcUdZVlY?oc=5\" target=\"_blank\">Média és Valóság – Farkas Olivér</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIKH Média</font>",
-      "published": "Tue, 30 Jun 2026 19:34:58 GMT",
-      "lang": "hu"
+      "title": "Reporting",
+      "url": "https://rroma.org/reporting/?utm_source=rss&utm_medium=rss&utm_campaign=reporting",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The Slovak government has decided that the annual report from the government commissioner for Roma communities will be submitted by [&#8230;]",
+      "published": "Wed, 01 Jul 2026 13:54:03 +0000",
+      "lang": ""
     },
     {
-      "title": "Különböző cigány népviseletek - DIKH Média",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pWGgzMHhIbUphcjQteFZCa0dDWDRQQXhjLVN0THZRbzBXS3E2WEtKYWE4UzJ0OV9DdDZQaGk4LXFzRlBNd1hhZEl2RU14aFkybnQyTVJSZVZGTzZEel9uUkkzeFBRVUxU?oc=5",
-      "source": "DIKH Média",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pWGgzMHhIbUphcjQteFZCa0dDWDRQQXhjLVN0THZRbzBXS3E2WEtKYWE4UzJ0OV9DdDZQaGk4LXFzRlBNd1hhZEl2RU14aFkybnQyTVJSZVZGTzZEel9uUkkzeFBRVUxU?oc=5\" target=\"_blank\">Különböző cigány népviseletek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIKH Média</font>",
-      "published": "Tue, 30 Jun 2026 15:48:25 GMT",
-      "lang": "hu"
+      "title": "Brawl in Sered",
+      "url": "https://rroma.org/brawl-in-sered/?utm_source=rss&utm_medium=rss&utm_campaign=brawl-in-sered",
+      "source": "https://rroma.org/feed/",
+      "snippet": "A recent incident involving Roma armed with weapons has raised concerns about public safety in the town of Sereď, Slovakia, [&#8230;]",
+      "published": "Wed, 01 Jul 2026 13:53:11 +0000",
+      "lang": ""
     },
     {
-      "title": "Django Reinhardt – A szabadság hangja a húrok között - DIKH Média",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHZDaG05YXZlM0ZHVEtuOFVRbzBoNXI1YmlKUVpkVV9OSzRMeVIwTS13Z20xQVJKLWExRTFuYndWeGJ6R0tyZmxSdnUtWmtiTngyVjlacWxfdE85R3lVOXJDaDgtN29IN0lOazRxV09kcS1yQUdQb0drdkRoMzIyQlVFS2Q?oc=5",
-      "source": "DIKH Média",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHZDaG05YXZlM0ZHVEtuOFVRbzBoNXI1YmlKUVpkVV9OSzRMeVIwTS13Z20xQVJKLWExRTFuYndWeGJ6R0tyZmxSdnUtWmtiTngyVjlacWxfdE85R3lVOXJDaDgtN29IN0lOazRxV09kcS1yQUdQb0drdkRoMzIyQlVFS2Q?oc=5\" target=\"_blank\">Django Reinhardt – A szabadság hangja a húrok között</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIKH Média</font>",
-      "published": "Tue, 30 Jun 2026 15:10:25 GMT",
-      "lang": "hu"
+      "title": "Hepatitis",
+      "url": "https://rroma.org/hepatitis/?utm_source=rss&utm_medium=rss&utm_campaign=hepatitis",
+      "source": "https://rroma.org/feed/",
+      "snippet": "A Hepatitis A outbreak has been reported in the Drugetháza community in Zakarpattia Ukraine, primarily affecting the Roma population, prompting [&#8230;]",
+      "published": "Wed, 01 Jul 2026 13:52:10 +0000",
+      "lang": ""
     },
     {
-      "title": "Esszé a cigány cirkuszokról:A cirkusz évszázadok óta az emberek egyik legkedveltebb szórakozási formája - DIKH Média",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU3Izekl3cXFkUUQxQy1JRHRHOENCTEtIeGt6VmdnU0FBVFZ5Rlo0amVVT0VNMFV3TGVsUlJjUzNKSDdDT0YyWlZmLXFWTkJsdGMyUXV1SWVzeElrLTZGazY1ajZWU05raGtBMVZ6VkNmbmJVb0UtUmRiODlrUjc5a2JLNi1CMmI4MXVzMXgtUXRHbWtHMDVCVVRMNUthTFR2b2xORTgyamE1SHQ4Q2ZibWdhM1NRU1ZOQkVuWWlMdC12QjRGZXNVMmpB?oc=5",
-      "source": "DIKH Média",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNU3Izekl3cXFkUUQxQy1JRHRHOENCTEtIeGt6VmdnU0FBVFZ5Rlo0amVVT0VNMFV3TGVsUlJjUzNKSDdDT0YyWlZmLXFWTkJsdGMyUXV1SWVzeElrLTZGazY1ajZWU05raGtBMVZ6VkNmbmJVb0UtUmRiODlrUjc5a2JLNi1CMmI4MXVzMXgtUXRHbWtHMDVCVVRMNUthTFR2b2xORTgyamE1SHQ4Q2ZibWdhM1NRU1ZOQkVuWWlMdC12QjRGZXNVMmpB?oc=5\" target=\"_blank\">Esszé a cigány cirkuszokról:A cirkusz évszázadok óta az emberek egyik legkedveltebb szórakozási formája</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIKH Média</fo",
-      "published": "Tue, 30 Jun 2026 15:48:26 GMT",
-      "lang": "hu"
+      "title": "Conference in Bosnia",
+      "url": "https://rroma.org/conference-in-bosnia/?utm_source=rss&utm_medium=rss&utm_campaign=conference-in-bosnia",
+      "source": "https://rroma.org/feed/",
+      "snippet": "A conference supported by the OSCE Mission in Bosnia and Herzegovina focused on the political participation of national minorities and [&#8230;]",
+      "published": "Wed, 01 Jul 2026 13:51:16 +0000",
+      "lang": ""
     },
     {
-      "title": "Rácz Félix – A roma származású bokszmenedzser, aki hidat épített két világ között - DIKH Média",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEpwRFBzNExZSHBEUXdNRHFDa0RFVW96MVhmS3BkbjRGQndRT29JQlEtNWxCN0pHYTRLSWpGUkFyWGhuSF9GZ0s0ZlgwRHprSkZDZFdBaVRwSWZfZDY4aTVIeWZOZGwxR2Q3eE9YQUZOSTAxaWJPdXNTQ2VmMl9WeWYxODdaTWhOWmQyNWxLczV0RTl4TTVtZ0xtZ1lHTXhkeUZWYnJLbS1vQQ?oc=5",
-      "source": "DIKH Média",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEpwRFBzNExZSHBEUXdNRHFDa0RFVW96MVhmS3BkbjRGQndRT29JQlEtNWxCN0pHYTRLSWpGUkFyWGhuSF9GZ0s0ZlgwRHprSkZDZFdBaVRwSWZfZDY4aTVIeWZOZGwxR2Q3eE9YQUZOSTAxaWJPdXNTQ2VmMl9WeWYxODdaTWhOWmQyNWxLczV0RTl4TTVtZ0xtZ1lHTXhkeUZWYnJLbS1vQQ?oc=5\" target=\"_blank\">Rácz Félix – A roma származású bokszmenedzser, aki hidat épített két világ között</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIKH Média</font>",
-      "published": "Tue, 30 Jun 2026 17:17:34 GMT",
-      "lang": "hu"
+      "title": "Mahala Transformation",
+      "url": "https://rroma.org/mahala-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=mahala-transformation",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The neighborhood of Hadji Dimitar in Kavarna, Bulgaria, has transformed from a place associated with poverty and crime to a [&#8230;]",
+      "published": "Wed, 01 Jul 2026 13:50:18 +0000",
+      "lang": ""
+    },
+    {
+      "title": "Zemljotres jačine 3,8 stepeni po Rihteru registrovan kod Leskovca",
+      "url": "https://rominfomedia.rs/2026/07/01/zemljotres-jacine-38-stepeni-po-rihteru-registrovan-kod-leskovca/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "<p>LESKOVAC, 1. jul 2026. – Zemljotres magnitude 3,8 jedinica po Rihterovoj skali registrovan je danas u 9.46 časova po lokalnom vremenu u regionu Leskovca, saopštio je Republički seizmološki zavod Srbije. Prema podacima seizmologa, teorijski intenzitet potresa u epicentralnom području procenjen je na IV do V stepeni Merkalijeve skale, što predstavlja zemljotres slabog do umerenog intenziteta. [&#8230;]</p>\n<p>Članak <a href=\"https://rominfomedia.rs/2026/07/01/zemljotres-jacine-38-stepeni-po-rih",
+      "published": "Wed, 01 Jul 2026 09:53:40 +0000",
+      "lang": ""
+    },
+    {
+      "title": "Da li infarkt može da se spreči?",
+      "url": "https://rominfomedia.rs/2026/07/01/da-li-infarkt-moze-da-se-spreci/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "<p>Iako se često smatra da&#160;infarkt&#160;nastupa iznenada i bez upozorenja, u velikom broju slučajeva organizam ipak šalje signale koji ukazuju na to da postoji problem sa&#160;krvnim sudovima srca. Upravo zato su prepoznavanje simptoma, redovni preventivni pregledi i kontrola faktora rizika među najvažnijim koracima u očuvanju&#160;zdravlja srca. Prema rečima kardiologa,&#160;profesora dr Nemanje Đenića, infarkt može biti i [&#8230;]</p>\n<p>Članak <a href=\"https://rominfomedia.rs/2026/07/01",
+      "published": "Wed, 01 Jul 2026 09:15:00 +0000",
+      "lang": ""
+    },
+    {
+      "title": "32 godine Atletskog kluba „AK-Vlasotince“",
+      "url": "https://rominfomedia.rs/2026/07/01/32-godine-atletskog-kluba-ak-vlasotince/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "<p>Par hiljada medalja za 32 godine postojanja Gradski atletski klub „AK-Vlasotince“ krajem juna 2026. godine obeležio je 32 godine postojanja i uspešnih nastupa na domaćim i međunarodnim takmičenjima. Klub, koji važi za jedan od atletskih kolektiva sa najvećim brojem mladih atletičara u Srbiji, osnovan je na Vidovdan, 28. juna 1994. godine, na inicijativu petorice profesora [&#8230;]</p>\n<p>Članak <a href=\"https://rominfomedia.rs/2026/07/01/32-godine-atletskog-kluba-ak-vlasotince/\">32 godine At",
+      "published": "Wed, 01 Jul 2026 09:10:22 +0000",
+      "lang": ""
+    },
+    {
+      "title": "Četiri bebe rođene u Leskovcu",
+      "url": "https://rominfomedia.rs/2026/07/01/cetiri-bebe-rodjene-u-leskovcu/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "<p>U leskovačkom porodilištu u protekla 24 časa rođene su četiri bebe – jedna devojčica i tri dečaka. Lekari i medicinsko osoblje nastavili su da pružaju neophodnu zdravstvenu negu novorođenčadi i njihovim majkama, a nove prinove obradovale su četiri porodice. Tokom prethodne noći, u Službi hitne medicinske pomoći Doma zdravlja Leskovac zabeležen je povećan obim posla. [&#8230;]</p>\n<p>Članak <a href=\"https://rominfomedia.rs/2026/07/01/cetiri-bebe-rodjene-u-leskovcu/\">Četiri bebe rođene u Leskov",
+      "published": "Wed, 01 Jul 2026 09:07:05 +0000",
+      "lang": ""
+    },
+    {
+      "title": "Isplate iz budžeta Grada Leskovca",
+      "url": "https://rominfomedia.rs/2026/07/01/isplate-iz-budzeta-grada-leskovca-99/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "<p>Iz gradskog budžeta u utorak 30.juna isplaćeno 5.378.505 dinara Od ovog iznosa, preko Centralnog registra faktura izmireni su redovni troškovi za sledeće oblasti: Obrazovanje: Kultura: Socijalna zaštita: Pravobranilaštvo: Sportsko-rekreativni centar SRC „Dubočica“: Predškolskoj ustanovi „Vukica Mitrović“ za internu reviziju opredeljeno je 115.740 dinara, dok je za troškove prevoza zaposlenih za mesec maj isplaćen iznos od [&#8230;]</p>\n<p>Članak <a href=\"https://rominfomedia.rs/2026/07/01/isp",
+      "published": "Wed, 01 Jul 2026 09:01:57 +0000",
+      "lang": ""
     }
   ]
 }
