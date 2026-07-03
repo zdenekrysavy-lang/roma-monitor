@@ -1,79 +1,11 @@
-# Kandidáti — 2026-07-03T07:58:45+00:00 (19 položek)
+# Kandidáti — 2026-07-03T08:28:31+00:00 (2 položek)
 
-_Zdroje: Google News 24 · GDELT 0 (ok) · feedy 35 · watch 1_
+_Zdroje: Google News 25 · GDELT 0 (ok) · feedy 35 · watch 1_
 
-1. **Brazil implements new regulations for meat exports to EU, Globo Rural reports - The Mighty 790 KFGO** — The Mighty 790 KFGO [en]
-   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGtZQ09YN2tNOFM0X2lrU3RyUFBZNG8wMl94ZEtvX3RCOFByX3ZFN0NQZENpNWdxUGhEVXNiNUVNZUE3QnlDYUlPUE1FX01lU3JFWmlVQ21BU0hRT2dnQl9tOWI5Zm1sYm5NdmdOcDZvTUVRRFg3QkU0TFdBUkVtcVdOckt4TVZYbWhQYmxSdVNwajdCM2dXdmdvQ3ozNnVSSkItTGRtcjk?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGtZQ09YN2tNOFM0X2lrU3RyUFBZNG8wMl94ZEtvX3RCOFByX3ZFN0NQZENpNWdxUGhEVXNiNUVNZUE3QnlDYUlPUE1FX01lU3JFWmlVQ21BU0hRT2dnQl9tOWI5Zm1sYm5NdmdOcD
+1. **Charente-Maritime : nouveaux feux de végétation dans le département - HELENE FM** — HELENE FM [fr]
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zR2VWVzlZWkNsVk5yRTcxUnNOd0VZalVLb0NXLV93cC0tU3JzV0M5R0Y2b2VWLU1HbzJMU0c3MmprV3RXS1NhOA?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zR2VWVzlZWkNsVk5yRTcxUnNOd0VZalVLb0NXLV93cC0tU3JzV0M5R0Y2b2VWLU1HbzJMU0c3MmprV3RXS1NhOA?oc=5" target="_blank">Charente-Maritime : nouveaux 
 
-2. **Brazil implements new regulations for meat exports to EU, Globo Rural reports - Internazionale** — Internazionale [en]
-   https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjRhWXhPOGp6V3JUd2NNbHR6LW50aXFLazFlSUxEUnJHTFgyazFmWWZxTlo5bjI2Mm1OVUJqa1V0UDZRZWhLZWp4V1p5Rkp5b0VqenVLTHR0WmxvUjdaLWxVZ1Rqcy1HZjB0eGdVRExveDRFODdrTzBiTW9VaGFmRWEwdU1ocWgwVnF4bjhQTWN5ekRVT2xlQXY4aG9iNG5ic0ZvbGhvM3JkZ2I5MDY4YXlZal9qcTdFc3k1RTdyeFFYbjhrY0o5N2xHZHZYQzFhNzBwNzg3Zw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjRhWXhPOGp6V3JUd2NNbHR6LW50aXFLazFlSUxEUnJHTFgyazFmWWZxTlo5bjI2Mm1OVUJqa1V0UDZRZWhLZWp4V1p5Rkp5b0VqenVLTHR0WmxvUjdaLWxVZ1Rqcy1HZjB0eGdVRE
-
-3. **PHOTOS: Vancouver Canucks draftees get first taste of action at Abbotsford camp - Maple Ridge News** — Maple Ridge News [en]
-   https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1ZGcURobFRDSC1kS05SdlFSeGVwQXV4Y29IN0JoN0Y0a1ptQTdSUWJsODVhcGxkX0NVZFZYTGlrRGlDcGJjYURMcXdWc1J6UVJfSEhDS3ZoWHdnd2dabmRFS1NNMVJMZElfQTZucTNHcGFlTmN2aFVrbEd6VEg2UHl2TEQ3bVA2SXVCNzhWbjVkOU53Z2x6NExJejF1bExCdmhGZmU3ZmdTV2dQUTRDWk81eFBhYXpG?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1ZGcURobFRDSC1kS05SdlFSeGVwQXV4Y29IN0JoN0Y0a1ptQTdSUWJsODVhcGxkX0NVZFZYTGlrRGlDcGJjYURMcXdWc1J6UVJfSEhDS3ZoWHdnd2dabmRFS1NNMVJMZElfQTZucT
-
-4. **Sheffield school in community hit by tensions and fights praised for inclusion - Yorkshire Live** — Yorkshire Live [en]
-   https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzdkNi14aWRZWndsV2lMdDhOUWRZZzJ6N0JTLWNwSDJrT3lSMWVzbUxuRjFmTUVscXI5RGNCYlhPcGxCR2xHVTJUczk4TkdSY0hoQkFvU3lxSkpTRGZkZlJ4azdBMnJNc3EydG5pYWQ3NlkxblA5TkZhQ0tNN1JGVmxfelZmbV9Ua203bThoVVRUZlpXWFV6Z1VxX2xiRXhB0gGgAUFVX3lxTE1HN2Q2LXhpZFlad2xXaUx0OE5RZFlnMno3QlMtY3BIMmtPeVIxZXNtTG5GMWZNRWxxcjlEY0JiWE9wbEJHbEdVMlRzOThOR1JjSGhCQW9TeXFKSlNEZmRmUnhrN0Eyck1zcTJ0bmlhZDc2WTFuUDlORmFDS003UkZWbF96VmZtX1RrbTdtOGhVVFRmWldYVXpnVXFfbGJFeEE?oc=5
-   <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzdkNi14aWRZWndsV2lMdDhOUWRZZzJ6N0JTLWNwSDJrT3lSMWVzbUxuRjFmTUVscXI5RGNCYlhPcGxCR2xHVTJUczk4TkdSY0hoQkFvU3lxSkpTRGZkZlJ4azdBMnJNc3EydG5pYW
-
-5. **Gens du voyage installés à La Bâtie-Neuve : l’évacuation du terrain occupé illégalement réalisée ce vendredi - Alpes 1** — Alpes 1 [fr]
-   https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNkpseEltaWE4RTZ0cHcwUi0xWjVKUW1ieklXazRZUTVuSFNQRVlfV0Q2WlB6Sm03X3c4VzRxV3B0MDJpYll4UmFKTmxRY3d6YWg0NmltU3BMQmhBNi1nc18xZ0V6ejJKTzF1UVFycFZPY1VvRHcxOWY4TVh2NmN3ME5mWDBiLXlBeV9vU2ZVXzR1c0ZSVXh2TUtmVHc2dEZYZmJjS0pJZUlZcHNWYzR4aU5xdmxaY1l0UF9Wc0U3dnRMcW1UbGwwSTI4R1FENWo1OWZjb0JVRF9FdktCbFUtczR6ZmRWY01hd3N1bzVoamE1X0E?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNkpseEltaWE4RTZ0cHcwUi0xWjVKUW1ieklXazRZUTVuSFNQRVlfV0Q2WlB6Sm03X3c4VzRxV3B0MDJpYll4UmFKTmxRY3d6YWg0NmltU3BMQmhBNi1nc18xZ0V6ejJKTzF1UVFycF
-
-6. **Rodez. L’aire de grand passage opérationnelle et réglementaire - ladepeche.fr** — ladepeche.fr [fr]
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHZOQmhaU1Q4dWVseUdjV2dYOEJJUlVIQWg2SUhxX3pBNll5bDgwTko5YkxManpYT0VtUmlsNEdhNEhScjJqQnFnN1dkSEhTSGx4RmN3SFpNQ1pKeENXTTV4dVpuOFNvaV9JZi04WElXdjhZYl9pcGxIVVA4RnpvQ2lyeTliVEpHR0tJZXBjNG9fc1QtMUNoX3JkdC1VbWNfTmpuejFR?oc=5
-   <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHZOQmhaU1Q4dWVseUdjV2dYOEJJUlVIQWg2SUhxX3pBNll5bDgwTko5YkxManpYT0VtUmlsNEdhNEhScjJqQnFnN1dkSEhTSGx4RmN3SFpNQ1pKeENXTTV4dVpuOFNvaV9JZi04WE
-
-7. **Leuze : "Les 700 € payés par les gens du voyage ne suffiront pas pour le ramassage des déchets. Mais au moins, ils participent aux frais" - L'Avenir** — L'Avenir [fr]
-   https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdU5yTktJTjNJZHlnMWdPX3dSendZSVRJRnFGYm94SUV5SXNwbEtPNHRkRFBzQWg5UTh6QUtaZ2oyMTRIT0lWenJjMnl4aURIazNZV3lRTVdJeHR5RmNQM0Yyc3I1NnQ5U2xDakhrMjZabzFzVnZpUjJSbXBPNUxlVzlhR2pvMFMwVnd6eklaZ01PdWNhOERZeFR4ckZtM3VuRGNfa3ZQRXFtWkV0NkpoRkZSNHVWWVpjaXdBc0Z2TWRSU3BKNUp5OUdVd3FuUXBhX1RJcDFHOTVqZ1I0UUJNbzJ6cC1Qc2VIcmRsT21YWjZVSjU1amRmVG1FVUFuV190dWNNckk5T1d0YU5kM0hfcjA5eGljLWhZOHhySWRWb3pwa2YtMlYtM2xnZEw2dFctY2d4TkdNWU13MV9ZTDBtMy1vYkxBbXJWdHZJQ1MyVXVpdHZI?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdU5yTktJTjNJZHlnMWdPX3dSendZSVRJRnFGYm94SUV5SXNwbEtPNHRkRFBzQWg5UTh6QUtaZ2oyMTRIT0lWenJjMnl4aURIazNZV3lRTVdJeHR5RmNQM0Yyc3I1NnQ5U2xDakhrMj
-
-8. **Hautes-Alpes. Des gens du voyages installés illégalement à La Bâtie-Neuve : l'évacuation des 240 caravanes en cours - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
-   https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGI1RXpOdUZ3aE51VzNzdHBVbTFrQ3NQSzl2WjJBNzE2dDAtSk5FeWZGM3FXekltQW04bExzY0taYnMxc3BZc214TVRnX3J2NzBGejUyT1V6dUc2b21JUV9HdUZzVDkyVmc3TUtfSlFnYXNXSVUtQlJJRHNPTzBRVGs2TUlBbUs2SUhvX0JjNWJucmxWMEx5aE56NGNpUUhhWDliajc2dW54VzdXdUZWdE1sc1lkaloyZDVfdE4zckNJRXd2UWliV3c1VnpjTks1UHRheVBjZmQzamY2X1E?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGI1RXpOdUZ3aE51VzNzdHBVbTFrQ3NQSzl2WjJBNzE2dDAtSk5FeWZGM3FXekltQW04bExzY0taYnMxc3BZc214TVRnX3J2NzBGejUyT1V6dUc2b21JUV9HdUZzVDkyVmc3TUtfSl
-
-9. **Les 700 € payés par les gens du voyage à Leuze-en-Hainaut ne suffiront pas pour le ramassage des déchets : "Mais au moins, ils participent aux frais" - DHnet** — DHnet [fr]
-   https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbzY2SEVlMXFWUmQ1YktRMmRPZWtnS19SV195c3Y3a1FCMm4yZGY1YmpuUUNDX0JRajdySmlpNkJqbi11Z2dkM3pteHd1eTROWkFYeUJ0bFl1alZXSUpTOGdLQUNYVmxHWXIxNU5Nd19FcENYZ2YwQW52NndPMUZNbE50MkdYVzc5Skl0MXlMN01ia1dqdFFBYzFRUnFlOEd4cmU4RWpXcnlCX2Z3NllDNG5LbFNWMFA1eWdFM2xlTGRpR1VfQ1dlTFpIUXdJRHc0U3hkM0hJTnZoN2twR0I4Ulk3MVp5NGZ0a0JGLUVBRTBlRElSUWRzbGZjbnlpS1RleXItS055eDV1OGlrMk9ZYjdKb1ZuQVU5eWtQQ2hYbklSZnYtLVJsaXAwSjRmYS1aaEVielVyNWRTV0pXcHAzdnpRNzN5UmxLUktyeE5LaU11UWV0Zk1JTk44QWM4RW1JaG1mTG9kS2pwMUg4WDUw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi7wJBVV95cUxPbzY2SEVlMXFWUmQ1YktRMmRPZWtnS19SV195c3Y3a1FCMm4yZGY1YmpuUUNDX0JRajdySmlpNkJqbi11Z2dkM3pteHd1eTROWkFYeUJ0bFl1alZXSUpTOGdLQUNYVmxHWXIxNU5Nd1
-
-10. **Les pompiers maîtrisent un incendie menaçant un camp de gens du voyage et deux maisons à Marennes-Hiers-Brouage - Sud Ouest** — Sud Ouest [fr]
-   https://news.google.com/rss/articles/CBMigwJBVV95cUxPcXV0MWtVTDRaN0VZaWZoYWZnQ29fbTkxTk44TGd2ckNlWDlVZUZsaFlkUlFsNG1KelE3bk80b2lweVl1RG12MzZYU2F1YUd6bDVqT2JKWkpZbWVCYkdtN0hGSTQ4aWhkUUFKRVdOU0pDdzFqNDlMY0xZU0txakJWUjV3MlF0ZFd4Z0w0N2hHblpxRmdDc1pmSG1GUk5zZDA2dzFRTF9zUXRZMmxpSE5wOFNCdE9uNGxHQ2M3bF9lUnJBUjBMVDh6ZU9BV1VSSGE2enFkSG9qSVA5OHl4VGdCNEkyQmRDcXhPUXlkQVNxbXhNOWdRNEZ1YmlMUzJESjZTWGxz?oc=5
-   <a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxPcXV0MWtVTDRaN0VZaWZoYWZnQ29fbTkxTk44TGd2ckNlWDlVZUZsaFlkUlFsNG1KelE3bk80b2lweVl1RG12MzZYU2F1YUd6bDVqT2JKWkpZbWVCYkdtN0hGSTQ4aWhkUUFKRVdOU0
-
-11. **Bal des Fleurs avec la Guinguette du Magnoac - NRPyrenees.fr** — NRPyrenees.fr [fr]
-   https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWFhcDZzazBzQ3g1NWRubkpVUEUxSGtoWEFfODlEN0F1RVNvV2cxaG5fbUh3Ujd1SDJ1Ynk3TUJZZ09wMnRkTVBBWVZTR2tTcUR3QUc0dXZCZzllMTliTUtSN0RqTlhkQzlGQ29wLXNNQ1F6UzRybk11cGZBeVZLRFUxMXdVb3A1MlBaTjg5LVpGLXlEeV9xRWR3?oc=5
-   <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWFhcDZzazBzQ3g1NWRubkpVUEUxSGtoWEFfODlEN0F1RVNvV2cxaG5fbUh3Ujd1SDJ1Ynk3TUJZZ09wMnRkTVBBWVZTR2tTcUR3QUc0dXZCZzllMTliTUtSN0RqTlhkQzlGQ29wLX
-
-12. **50 ans de rugby à l’EBA - NRPyrenees.fr** — NRPyrenees.fr [fr]
-   https://news.google.com/rss/articles/CBMifEFVX3lxTE1LMWdBcWVlRXUyaGczUDl2Wk9NS1hrZnRDV2ltd2VKVU5fU0kxWGlKRGlmYzkyUjdEcFE3R2NsVDR5SnM4YlZLdERzN203WXVWNkdTODdJVXVKRURrUUprYzg2aWRfSGNZaUZrYVJsQThRaGNBMVJ6X3Bua0Q?oc=5
-   <a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1LMWdBcWVlRXUyaGczUDl2Wk9NS1hrZnRDV2ltd2VKVU5fU0kxWGlKRGlmYzkyUjdEcFE3R2NsVDR5SnM4YlZLdERzN203WXVWNkdTODdJVXVKRURrUUprYzg2aWRfSGNZaUZrYVJsQT
-
-13. **Debeaux projets à la Maison d’assistantes maternelles - NRPyrenees.fr** — NRPyrenees.fr [fr]
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXppdGRZTTBrc2dnVm9seWZOVlFreWFIQ2ZPcnZ3aWVMamRaaENheU1teF9OS3lwRUJFb3pnS09pWUJvTjNkTkh4VXdPTm1xbUpjZFJBcDh5QnlsX1BPZXBRNnNOS0YwOWxQUWpDNEQxQnFzTmJfWTlfRTBIeDNObjNMM0FOdGtka3FzSm5naWxLcjB0cS1TSUNaam5sVlFualNPSw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXppdGRZTTBrc2dnVm9seWZOVlFreWFIQ2ZPcnZ3aWVMamRaaENheU1teF9OS3lwRUJFb3pnS09pWUJvTjNkTkh4VXdPTm1xbUpjZFJBcDh5QnlsX1BPZXBRNnNOS0YwOWxQUWpDNE
-
-14. **Le CCAS mobilisé pour les plus fragiles - NRPyrenees.fr** — NRPyrenees.fr [fr]
-   https://news.google.com/rss/articles/CBMikwFBVV95cUxORjJmdkZXYWtaRmpGNHhBS3RqNFlkVk55SUF2TEtfWXU3OC1hR1JvaUU4aGdEMXA5ZnZYb2l0eFZLcjQ1TWVsTk15Q1hsZm4wOHQzN2R1bVBpaU41SXMtUXFiQ09lTDR0OV9YS2VzaEdmQ1o3eVBCOTY0LThlX0oxa19GdnpvMU1UTnFRNUFSLWt3c00?oc=5
-   <a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxORjJmdkZXYWtaRmpGNHhBS3RqNFlkVk55SUF2TEtfWXU3OC1hR1JvaUU4aGdEMXA5ZnZYb2l0eFZLcjQ1TWVsTk15Q1hsZm4wOHQzN2R1bVBpaU41SXMtUXFiQ09lTDR0OV9YS2VzaE
-
-15. **Pluie de ceintures et de nouveautés au judo - NRPyrenees.fr** — NRPyrenees.fr [fr]
-   https://news.google.com/rss/articles/CBMimAFBVV95cUxPQS1QZXVXb1Y2bW9nd1lQUExERVZ6Z1N4TlphblZqZ2RUY18zNlRsZm5zbG9OOXAybkI0S0JkRUlnclRfejFOXzIxZXFCU0liNzFTNVJUSnhuQ29pVjNzSlpudk9YTC0xaHlEZ3o4VnZ1SDBCallURmNmMzJuR1p6QTlEUUw4LUd2eUhaLTM4Z21idDlOOVpyNw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPQS1QZXVXb1Y2bW9nd1lQUExERVZ6Z1N4TlphblZqZ2RUY18zNlRsZm5zbG9OOXAybkI0S0JkRUlnclRfejFOXzIxZXFCU0liNzFTNVJUSnhuQ29pVjNzSlpudk9YTC0xaHlEZ3o4Vn
-
-16. **Le Melting Potes célèbre ses 9 ans - NRPyrenees.fr** — NRPyrenees.fr [fr]
-   https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDBiXzFiLTNLMFNSQ1E2YTc5MFVfejc5Wm1wSVZzajVQVUloU3NRWEgzQ2JrdXkyXzlhdk5uVGZ1TDlCQl9RSHdXS2N2YXNMRkFzTXF6bEZjMEh6ZVFTU3pUYnZUcWR1Q0Jtek9pX0dlbHZTWnNCUk1EQUdLX1pXU2Z6UlN6RkpLa3kzUg?oc=5
-   <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDBiXzFiLTNLMFNSQ1E2YTc5MFVfejc5Wm1wSVZzajVQVUloU3NRWEgzQ2JrdXkyXzlhdk5uVGZ1TDlCQl9RSHdXS2N2YXNMRkFzTXF6bEZjMEh6ZVFTU3pUYnZUcWR1Q0Jtek9pX0
-
-17. **Νέα ολοκληρωμένη δράση για τη σχολική και κοινωνική ένταξη των παιδιών Ρομά Χρηματοδότηση ύψους 322.476,32 ευρώ για βιωματικά εργαστήρια, παιδικές κατασκηνώσεις και την υποστήριξη παιδιών και οικογενειών - Ειδήσεις από Βέροια, Νάουσα, Ημαθία - laosnews.gr** — laosnews.gr [el]
-   https://news.google.com/rss/articles/CBMivwJBVV95cUxNckRrR2NNT20zTUQ2M1dQdUJtYlFSSkRncGRQdXlHaVF1TjUzZ1lsZW1HZC1UR2FBZS1BUXNxS0lKV0FOQm9rUHkzMXNFSkFVcGdRUjNmSlhGVkt3MTYtS0w1c3FLN3QtVUNwZTVEZVJpV3FiNXZjQmpkOGlKcENrZWZEZmhEXzkxU3pUS0Q1R21XMm1vMVktOEdOa0c2ZEUydThhaG1XQkswbExoazZ5YVF4S3pHS0wzMmp0Rm85cHZwRGxXMzFtcHNDYnlMN1ZVaWxtUnFMdm1XbnhGdGNJRDFhNkFXb1QxNlQ4MVVaQnpoM2VNZ2xoYU9qV1BONE8zUjY2Z18wOUhSQVZuc2FGQl84TWRFdkJMcm91blVEVk1uNkU2aU5QRHFaZXN0ZnAxUDJuMTEtU2xwUXBhTERV?oc=5
-   <a href="https://news.google.com/rss/articles/CBMivwJBVV95cUxNckRrR2NNT20zTUQ2M1dQdUJtYlFSSkRncGRQdXlHaVF1TjUzZ1lsZW1HZC1UR2FBZS1BUXNxS0lKV0FOQm9rUHkzMXNFSkFVcGdRUjNmSlhGVkt3MTYtS0w1c3FLN3QtVUNwZTVEZV
-
-18. **Γιατροί του Κόσμου Καβάλας: εμβολιασμοί σε παιδιά στο κέντρο κοινότητας του Δήμου Νέστου - Kavala News** — Kavala News [el]
-   https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUlYTFktdEVwbmR0M3cxNEd0WjdhQjVZWFhwXzd4MFl5QzlZS28zUEJXQXIwZW91T3ZfS0VRSEdWY05KNzNpbGt3MGpOMVlDWlNVS2tvakI5LV8xdVdVazNqbDBTSG5sa2tJcWI4aWRVdWVTNkJZX0lTdnUwWmR4M3pKYTZMVEFVSFFKQlVjaF9iUjVaOVFLeTZOYWE2T0M2dFkzRzI4NkwzM3FXSXBFWVdn?oc=5
-   <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUlYTFktdEVwbmR0M3cxNEd0WjdhQjVZWFhwXzd4MFl5QzlZS28zUEJXQXIwZW91T3ZfS0VRSEdWY05KNzNpbGt3MGpOMVlDWlNVS2tvakI5LV8xdVdVazNqbDBTSG5sa2tJcWI4aW
-
-19. **Správy Hiri: referendum, zákaz sietí aj festival bez štátnych dotácií - Roma Television** — Roma Television [sk]
-   https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaE12cE1fWFdISlktYmFYcmlCZ2FjeWVWTjhBNzVjZWI2eUJ6cm1xdnJEMGtvVE5uejcwYVRkcmZiRDN2VTJZLVo2TEZ6NGV5a0ZYODJlRzJJRVA1aXBhQVNjNHNfOFgxc1Byb215UlpiRGFsTVlKUHlXNV9tWlVnUzQ4aUJMTzZwSkwzamRqbFNYWE5RWTR1cXduSlNQaXMtVTQ2WmNuendha2tWcUlWSHFwQlgyWGRUeXVCWDhlMVVieG9acEhjM1oyWlhoWDl5Qk85Vg?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaE12cE1fWFdISlktYmFYcmlCZ2FjeWVWTjhBNzVjZWI2eUJ6cm1xdnJEMGtvVE5uejcwYVRkcmZiRDN2VTJZLVo2TEZ6NGV5a0ZYODJlRzJJRVA1aXBhQVNjNHNfOFgxc1Byb215Ul
+2. **Μεσσηνία: Πώς έγινε η τραγωδία με τον πνιγμό του 6χρονου στην πισίνα – Η μητέρα του εργαζόταν στον επάνω όροφο - BEST TV Καλαμάτα** — BEST TV Καλαμάτα [el]
+   https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzNISXlzVUJicTRuUlFSMDdMX0twSERQQUZ6d2Jzd2tYd3JiSGtibEx0dUZlb0xNZklXUU1uV25oX1c1YkY4YWR3Q0pQV1E5V1NncGd2aFdpWDkwOEgtbEpuZXZUMDl6RGxIM3MyVHRZVHR5cUUxeFB5WkJuSkNqTVhqRzl5cE5BZURkcFExMUVoMnpmdzVlM243V0F0RWVOWVU0VlhZVld1VUF4M3A1QlBZU0RsRXhIcEJEclBxZlR6aHBrYzh3?oc=5
+   <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzNISXlzVUJicTRuUlFSMDdMX0twSERQQUZ6d2Jzd2tYd3JiSGtibEx0dUZlb0xNZklXUU1uV25oX1c1YkY4YWR3Q0pQV1E5V1NncGd2aFdpWDkwOEgtbEpuZXZUMDl6RGxIM3MyVH
