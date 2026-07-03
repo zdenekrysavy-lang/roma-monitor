@@ -1,34 +1,570 @@
 {
-  "generated_utc": "2026-07-03T08:28:31+00:00",
-  "count": 2,
+  "generated_utc": "2026-07-03T09:14:32+00:00",
+  "count": 69,
   "sources": {
     "google_news": 25,
     "google_news_status": "ok",
-    "gdelt": 0,
+    "gdelt": 67,
     "gdelt_status": "ok",
-    "gdelt_note": "GDELT vrátil 0 článků (prázdná odpověď)",
-    "feeds": 35,
+    "gdelt_note": "",
+    "feeds": 34,
     "watch": 1,
-    "before_dedup": 61,
-    "total": 46,
-    "skipped_seen": 44
+    "before_dedup": 127,
+    "total": 108,
+    "skipped_seen": 39
   },
   "candidates": [
     {
-      "title": "Charente-Maritime : nouveaux feux de végétation dans le département - HELENE FM",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zR2VWVzlZWkNsVk5yRTcxUnNOd0VZalVLb0NXLV93cC0tU3JzV0M5R0Y2b2VWLU1HbzJMU0c3MmprV3RXS1NhOA?oc=5",
-      "source": "HELENE FM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zR2VWVzlZWkNsVk5yRTcxUnNOd0VZalVLb0NXLV93cC0tU3JzV0M5R0Y2b2VWLU1HbzJMU0c3MmprV3RXS1NhOA?oc=5\" target=\"_blank\">Charente-Maritime : nouveaux feux de végétation dans le département</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HELENE FM</font>",
-      "published": "Fri, 03 Jul 2026 06:54:45 GMT",
+      "title": "Romani Air Quality Index (AQI) and Romania Air Pollution | IQAir Hong Kong - IQAir",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wM2p3SnY2akUtYUd0QjFndV85LUl5UGdKRzNfcFh6d2VUWGVteHhtVVpJbEdrbnpxWVhBZ2NWVXNoWVd1THZjOVdqc3lHZF96UmZyRjBTei1JMzZRWHdaSmlTRWIwVDhoOEdubw?oc=5",
+      "source": "IQAir",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9wM2p3SnY2akUtYUd0QjFndV85LUl5UGdKRzNfcFh6d2VUWGVteHhtVVpJbEdrbnpxWVhBZ2NWVXNoWVd1THZjOVdqc3lHZF96UmZyRjBTei1JMzZRWHdaSmlTRWIwVDhoOEdubw?oc=5\" target=\"_blank\">Romani Air Quality Index (AQI) and Romania Air Pollution | IQAir Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IQAir</font>",
+      "published": "Fri, 03 Jul 2026 01:30:37 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "Esclavagisme moderne dans un camp de gens du voyage : coup de théâtre au tribunal, les suspects sont relaxés - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWjJhRzJCNkRKN2pxU1NHNVRORkFyRklfaW9QcjNfQlFua3Y3SG9USkJfd0M1TmNKSEJOdmdGNkN1Ym92Tng1LWs4NGFud2lFZ3U4WnVRREh5NFI1TGtEVVpSUkZ4R2F0ZXRud2xLRnNOczM1OWFlb3NjQ1NIVkNqcV82RVloRVJoQnJMMHJ0TGJhY0IyNVlmZEJRdFdWdFJYNXJiN0Rva2taa3Etdl95Zml0YWhLcGRKTG4wTzZzTE5kdkluNzYyMU8yUUJVMjhpZnF6OGFnQnJBcDh2MDZILS00RXZxYXlGLXc?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWjJhRzJCNkRKN2pxU1NHNVRORkFyRklfaW9QcjNfQlFua3Y3SG9USkJfd0M1TmNKSEJOdmdGNkN1Ym92Tng1LWs4NGFud2lFZ3U4WnVRREh5NFI1TGtEVVpSUkZ4R2F0ZXRud2xLRnNOczM1OWFlb3NjQ1NIVkNqcV82RVloRVJoQnJMMHJ0TGJhY0IyNVlmZEJRdFdWdFJYNXJiN0Rva2taa3Etdl95Zml0YWhLcGRKTG4wTzZzTE5kdkluNzYyMU8yUUJVMjhpZnF6OGFnQnJBcDh2MDZILS00RXZxYXlGLXc?oc=5\" target=\"_blank\">Esclavagisme moderne dans un camp de gens du voyage : coup de théâtre au tribunal, les suspects sont relaxés</a>",
+      "published": "Fri, 03 Jul 2026 09:01:00 GMT",
       "lang": "fr"
     },
     {
-      "title": "Μεσσηνία: Πώς έγινε η τραγωδία με τον πνιγμό του 6χρονου στην πισίνα – Η μητέρα του εργαζόταν στον επάνω όροφο - BEST TV Καλαμάτα",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzNISXlzVUJicTRuUlFSMDdMX0twSERQQUZ6d2Jzd2tYd3JiSGtibEx0dUZlb0xNZklXUU1uV25oX1c1YkY4YWR3Q0pQV1E5V1NncGd2aFdpWDkwOEgtbEpuZXZUMDl6RGxIM3MyVHRZVHR5cUUxeFB5WkJuSkNqTVhqRzl5cE5BZURkcFExMUVoMnpmdzVlM243V0F0RWVOWVU0VlhZVld1VUF4M3A1QlBZU0RsRXhIcEJEclBxZlR6aHBrYzh3?oc=5",
-      "source": "BEST TV Καλαμάτα",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzNISXlzVUJicTRuUlFSMDdMX0twSERQQUZ6d2Jzd2tYd3JiSGtibEx0dUZlb0xNZklXUU1uV25oX1c1YkY4YWR3Q0pQV1E5V1NncGd2aFdpWDkwOEgtbEpuZXZUMDl6RGxIM3MyVHRZVHR5cUUxeFB5WkJuSkNqTVhqRzl5cE5BZURkcFExMUVoMnpmdzVlM243V0F0RWVOWVU0VlhZVld1VUF4M3A1QlBZU0RsRXhIcEJEclBxZlR6aHBrYzh3?oc=5\" target=\"_blank\">Μεσσηνία: Πώς έγινε η τραγωδία με τον πνιγμό του 6χρονου στην πισίνα – Η μητέρα του εργαζόταν στον επάνω όροφο</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BEST TV Καλ",
-      "published": "Fri, 03 Jul 2026 07:56:54 GMT",
-      "lang": "el"
+      "title": "La Bâtie-Neuve : les 250 caravanes installées illégalement évacuées en urgence - Radio SCOOP",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNczFpVVphNEhaYUlTOU1Xd29qbmVXMW9vc2RWNFNoaHUyMDlqRkZKLWR6bWpxdXNMeWNEbV91ZlJuenJWRWxJM05tLUc1MzE4enRDZzNjQkVVeVpGbzRsRXNzc1JsSmRLSy1QeVgxcV8xTGlBQ1NTUzZNOVVBT3FneEZwRmNMcW5UZXRZWktaWDl0MzhNMDVaOXZ6QnBLNDJYb3RYZjJxemJuY1lsb2VhR1UxQWYwUmc?oc=5",
+      "source": "Radio SCOOP",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNczFpVVphNEhaYUlTOU1Xd29qbmVXMW9vc2RWNFNoaHUyMDlqRkZKLWR6bWpxdXNMeWNEbV91ZlJuenJWRWxJM05tLUc1MzE4enRDZzNjQkVVeVpGbzRsRXNzc1JsSmRLSy1QeVgxcV8xTGlBQ1NTUzZNOVVBT3FneEZwRmNMcW5UZXRZWktaWDl0MzhNMDVaOXZ6QnBLNDJYb3RYZjJxemJuY1lsb2VhR1UxQWYwUmc?oc=5\" target=\"_blank\">La Bâtie-Neuve : les 250 caravanes installées illégalement évacuées en urgence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio SCOOP</font>",
+      "published": "Fri, 03 Jul 2026 08:36:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Fumée noire, bouchon sur l’autoroute à Montauban : un incendie de détritus et de végétaux éclate près du camp des gens du voyage, la rocade fortement ralentie - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOR2xMWlFoZm9SM1RtY24zUUo5RDcyRVVwVDhNbC0yYTFybFl5bFFWMkNuMm5ZQlR1d3c0eExxT0xoa0VXSHducnFoWUtfYU0ydG9HelBvRGtSYnVLQ3BTRnhjSHptdUMzV2JGVVBpUlN5RThmWVI0NFBScTdGWlc0SGNLX1R0aWFlcG9ZdG9MNFV4ZHAwQ3lTWURCWlg1aUJHNGJNTkM3R1FOSUd5R052T2pnVU5fS3FFbjdPMHdQTVVELXBSZEZzbmZNZk50cnk1R25lbFVvOVNpRE5zY3dqN2FSbGF4ZDhJRmx2UUEyTFJLQjlZaWpzNXlFV050QzZTUk1RMmg2UFpiUjNLWEgxUU9CZ0RzS0NUUmJ2MURR?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOR2xMWlFoZm9SM1RtY24zUUo5RDcyRVVwVDhNbC0yYTFybFl5bFFWMkNuMm5ZQlR1d3c0eExxT0xoa0VXSHducnFoWUtfYU0ydG9HelBvRGtSYnVLQ3BTRnhjSHptdUMzV2JGVVBpUlN5RThmWVI0NFBScTdGWlc0SGNLX1R0aWFlcG9ZdG9MNFV4ZHAwQ3lTWURCWlg1aUJHNGJNTkM3R1FOSUd5R052T2pnVU5fS3FFbjdPMHdQTVVELXBSZEZzbmZNZk50cnk1R25lbFVvOVNpRE5zY3dqN2FSbGF4ZDhJRmx2UUEyTFJLQjlZaWpzNXlFV050QzZTUk1RMmg2UFpiUjNLWEgxUU9CZ0RzS0NUUmJ2MURR?oc=5\" target=\"_blank\">Fumée noire, bouchon sur l’autoroute à Mont",
+      "published": "Fri, 03 Jul 2026 08:44:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Harly : pris en flagrant délit de vol de cuivre, deux hommes interpellés - L'Aisne nouvelle",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2JIX25aNWZCMURiclhHRFBuY0NVRjZqV2pFZjJ3c2E1VzlaaEVNVG4zZWZZdWJndGg0bXluLWVseExrSXdnVF8zMm9LMFYzdGE2OWE2WGNod1dWdUpCWEROOGlDQmFPNUZaZUxheVRfREFCMEVjXzhiXzB3dTNOTk1EWjJYQkxLZF8tV2lidnhFRllJRG5DbFZ1N0dNaVZYQW9JejhQM1RxNk9lb1owUjFNaDlVdGNucmxhazF3LTlEdVlJ?oc=5",
+      "source": "L'Aisne nouvelle",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2JIX25aNWZCMURiclhHRFBuY0NVRjZqV2pFZjJ3c2E1VzlaaEVNVG4zZWZZdWJndGg0bXluLWVseExrSXdnVF8zMm9LMFYzdGE2OWE2WGNod1dWdUpCWEROOGlDQmFPNUZaZUxheVRfREFCMEVjXzhiXzB3dTNOTk1EWjJYQkxLZF8tV2lidnhFRllJRG5DbFZ1N0dNaVZYQW9JejhQM1RxNk9lb1owUjFNaDlVdGNucmxhazF3LTlEdVlJ?oc=5\" target=\"_blank\">Harly : pris en flagrant délit de vol de cuivre, deux hommes interpellés</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L'Aisne nouvelle</font>",
+      "published": "Fri, 03 Jul 2026 08:41:03 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Gypsy Rose : Life After Lock Up",
+      "url": "https://www.tvguide.co.uk/schedule/dd56a927-fe41-5253-be6e-eed49c1fb94e/gypsy-rose-life-after-lock-up",
+      "source": "tvguide.co.uk",
+      "snippet": "",
+      "published": "20260630T191500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Gender - bending in Balkan history and folklore : Sworn virgins , ritual roles and women warriors in drag",
+      "url": "https://globalvoices.org/2026/06/29/gender-bending-in-balkan-history-and-folklore-sworn-virgins-ritual-roles-and-women-warriors-in-drag/",
+      "source": "globalvoices.org",
+      "snippet": "",
+      "published": "20260630T191500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Главные фильмы июля 2026 года : что смотреть в кино Лайфхакер",
+      "url": "https://lifehacker.ru/filmy-iyul-2026/",
+      "source": "lifehacker.ru",
+      "snippet": "",
+      "published": "20260630T190000Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "Людина в центрі держави : 4 роки трансформації системи захисту прав людини",
+      "url": "https://www.ukrinform.ua/rubric-society/4139225-ludina-v-centri-derzavi-4-roki-transformacii-sistemi-zahistu-prav-ludini.html",
+      "source": "ukrinform.ua",
+      "snippet": "",
+      "published": "20260630T190000Z",
+      "lang": "Ukrainian"
+    },
+    {
+      "title": "Time . ai",
+      "url": "https://time.mk/ai/787494d048/mk/",
+      "source": "time.mk",
+      "snippet": "",
+      "published": "20260630T190000Z",
+      "lang": "Macedonian"
+    },
+    {
+      "title": "  Diverte - te no inferno : ex - refém israelita reage a morte de raptor",
+      "url": "https://sapo.pt/artigo/diverte-te-no-inferno-ex-refem-israelita-reage-a-morte-de-raptor-6a440714cac12a526c922d98",
+      "source": "sapo.pt",
+      "snippet": "",
+      "published": "20260630T184500Z",
+      "lang": "Portuguese"
+    },
+    {
+      "title": "Marco Antonio Caponi anunció que será Charly García en una biopic :  Es un sueño hecho realidad  – Diario de Cultura",
+      "url": "https://www.diariodecultura.com.ar/cine-y-artes-visuales/marco-antonio-caponi-anuncio-que-sera-charly-garcia-en-una-biopic-es-un-sueno-hecho-realidad/",
+      "source": "diariodecultura.com.ar",
+      "snippet": "",
+      "published": "20260630T184500Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "PAU extraordinaria en Galicia : desde un plan B a una segunda oportunidad",
+      "url": "https://www.farodevigo.es/galicia/2026/06/30/pau-extraordinaria-galicia-plan-b-131987292.html",
+      "source": "farodevigo.es",
+      "snippet": "",
+      "published": "20260630T180000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Χαλκιδική : Οδική ασφάλεια , αντιπλημμυρική προστασία , σχολεία - Ο απολογισμός της Περιφερειακής Ενότητας για την περίοδο 2024 - 2026",
+      "url": "https://www.voria.gr/article/halkidiki-odiki-asfaleia-antiplimmyriki-prostasia-sholeia-o-apologismos-tis-perifereiakis",
+      "source": "voria.gr",
+      "snippet": "",
+      "published": "20260630T180000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Papa Leon al XIV - lea a binecuvântat pe 10 iunie Turnul lui Isus Cristos al bazilicii Sagrada Familia din Barcelona",
+      "url": "https://informatia-zilei.ro/papa-leon-al-xiv-lea-a-binecuvantat-pe-10-iunie-turnul-lui-isus-cristos-al-bazilicii-sagrada-familia-din-barcelona/",
+      "source": "informatia-zilei.ro",
+      "snippet": "",
+      "published": "20260630T174500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "200 Million Girls are Missing , But They Still Support Sex - Selection Abortions",
+      "url": "https://www.lifenews.com/2026/06/30/200-million-girls-are-missing-but-they-still-support-sex-selection-abortions/",
+      "source": "lifenews.com",
+      "snippet": "",
+      "published": "20260630T174500Z",
+      "lang": "English"
+    },
+    {
+      "title": "À Vitrolles , MB Recyclage voudrait bien que ses nouveaux voisins , des Roms , décampent",
+      "url": "https://www.laprovence.com/article/region/26243877941265/a-vitrolles-mb-recyclage-voudrait-bien-que-ses-nouveaux-voisins-des-roms-decampent",
+      "source": "laprovence.com",
+      "snippet": "",
+      "published": "20260630T174500Z",
+      "lang": "French"
+    },
+    {
+      "title": "Schismă în interiorul Bisericii Catolice . Papa Leon transmite un  ultim apel  către comunitatea  Sfântul Pius al X - lea  ",
+      "url": "https://ziare.com/biserica-catolica/schisma-sfantul-pius-2021688",
+      "source": "ziare.com",
+      "snippet": "",
+      "published": "20260630T174500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Val de căldură extrem în Europa : bilanț dramatic în Spania , Franța și Italia",
+      "url": "https://www.romania-actualitati.ro/stiri/in-lume/val-de-caldura-extrem-in-europa-bilant-dramatic-in-spania-franta-si-italia-id230689.html",
+      "source": "romania-actualitati.ro",
+      "snippet": "",
+      "published": "20260630T163000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "I Gipsy Kings by Diego Baliardo aprono il Festival di Villa Arconati",
+      "url": "https://www.ilgiorno.it/cosa-fare/gipsy-kings-villa-arconati-430522f5",
+      "source": "ilgiorno.it",
+      "snippet": "",
+      "published": "20260630T161500Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Vaucluse . Narcotrafic : ils étaient armés pour partir en guerre à la cité du Dr - Ayme , jusqu  à 7 ans de prison requis",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2026/06/30/narcotrafic-ils-etaient-armes-pour-partir-en-guerre-a-la-cite-du-dr-ayme-jusqu-a-7-ans-de-prison-requis",
+      "source": "ledauphine.com",
+      "snippet": "",
+      "published": "20260630T161500Z",
+      "lang": "French"
+    },
+    {
+      "title": "Karštojo antradienio įvykiai : žalia šviesa M . Sinkevičiui ir buvusio „ Snoro  vadovo prisipažinimai teisme",
+      "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/06/30/news/karstojo-antradienio-ivykiai-zalia-sviesa-m-sinkeviciui-ir-buvusio-snoro-vadovo-prisipazinimai-teisme-43008653/",
+      "source": "lrytas.lt",
+      "snippet": "",
+      "published": "20260630T161500Z",
+      "lang": "Lithuanian"
+    },
+    {
+      "title": "Hơn 4 thập niên nhóm lại những bình yên",
+      "url": "https://www.phunuonline.com.vn/hon-4-thap-nien-nhom-lai-nhung-binh-yen-a1585897.html",
+      "source": "phunuonline.com.vn",
+      "snippet": "",
+      "published": "20260630T161500Z",
+      "lang": "Vietnamese"
+    },
+    {
+      "title": "Nhóm chủ đề longform - nld . com . vn | Báo Người lao động",
+      "url": "https://nld.com.vn/nld/longform.htm",
+      "source": "nld.com.vn",
+      "snippet": "",
+      "published": "20260630T161500Z",
+      "lang": "Vietnamese"
+    },
+    {
+      "title": "El Teatro Real cierra su temporada con fuego en una irregular versión de la ópera más popular de Verdi",
+      "url": "https://www.eldiario.es/cultura/teatro/teatro-real-cierra-temporada-fuego-irregular-version-opera-popular-verdi_129_13345356.html",
+      "source": "eldiario.es",
+      "snippet": "",
+      "published": "20260630T160000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Un  Terzo racconto  per un Terzo settore che ha bisogno di più conflitto",
+      "url": "https://www.vita.it/un-terzo-racconto-per-un-terzo-settore-che-ha-bisogno-di-piu-conflitto/",
+      "source": "vita.it",
+      "snippet": "",
+      "published": "20260630T160000Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Forze dellordine dispiegate in tutto il Sudafrica in vista di proteste anti - migranti",
+      "url": "https://www.bresciaoggi.it/news/mondo/forze-dell-ordine-dispiegate-in-tutto-il-sudafrica-in-vista-di-proteste-anti-migranti-1.13058180",
+      "source": "bresciaoggi.it",
+      "snippet": "",
+      "published": "20260630T160000Z",
+      "lang": "English"
+    },
+    {
+      "title": "Ciolacu avertizează de la Buzău : România intră în „ junk  doar dacă prelungim criza politică și  ne tăiem singuri craca  ",
+      "url": "https://business24.ro/marcel-ciolacu-psd/avertisment-romania-retrogradare-junk-1658315",
+      "source": "business24.ro",
+      "snippet": "",
+      "published": "20260630T160000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Kennedy Center Claims It Will Lose  Hundreds Of Million In Donations Without Trump Name",
+      "url": "https://www.forbes.com/sites/conormurray/2026/06/30/kennedy-center-claims-it-will-lose-hundreds-of-millions-in-donations-after-removing-trump-name/",
+      "source": "forbes.com",
+      "snippet": "",
+      "published": "20260630T154500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Lazar Mutic vuelve a la Liga Endesa y ficha por el MoraBanc Andorra",
+      "url": "https://www.mundodeportivo.com/baloncesto/acb/20260630/1004201198/lazar-mutic-vuelve-liga-endesa-ficha-morabanc-andorra.html",
+      "source": "mundodeportivo.com",
+      "snippet": "",
+      "published": "20260630T151500Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "  โรซีเนียร์  ได้งานใหม่แล้วหลังตกลงคุม  ปารีส แอฟเซ  ",
+      "url": "https://www.dailynews.co.th/news/5990080/",
+      "source": "dailynews.co.th",
+      "snippet": "",
+      "published": "20260630T151500Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Megszavazták a polgármesterek fizetésének befagyasztását",
+      "url": "https://nepszava.hu/3327734_megszavaztak-a-polgarmesterek-fizetesenek-befagyasztasat",
+      "source": "nepszava.hu",
+      "snippet": "",
+      "published": "20260630T150000Z",
+      "lang": "Hungarian"
+    },
+    {
+      "title": "8 best hair and body mists for summer 2026 in Canada",
+      "url": "https://www.gananoquereporter.com:443/life/beauty/best-hair-body-mists-canada",
+      "source": "gananoquereporter.com",
+      "snippet": "",
+      "published": "20260630T150000Z",
+      "lang": "English"
+    },
+    {
+      "title": "Obec Šumiac získala vyše 1 , 1 milióna eur na obnovu základnej školy",
+      "url": "https://www.teraz.sk/regiony/obec-sumiac-ziskala-vyse-11-miliona/974390-clanok.html",
+      "source": "teraz.sk",
+      "snippet": "",
+      "published": "20260630T133000Z",
+      "lang": "Slovak"
+    },
+    {
+      "title": "Marcel Ciolacu : Nu cred că România va intra în „ junk . Există o posibilitate în cazul unei crize politice prelungite",
+      "url": "https://www.antena3.ro/politica/marcel-ciolacu-nu-cred-ca-romania-va-intra-in-junk-exista-o-posibilitate-in-cazul-unei-crize-politice-prelungite-793997.html",
+      "source": "antena3.ro",
+      "snippet": "",
+      "published": "20260630T133000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "A San Lazzaro di Savena arrivano i Campionati europei di bowling per sordi",
+      "url": "https://www.sassuolo2000.it/2026/06/30/a-san-lazzaro-di-savena-arrivano-i-campionati-europei-di-bowling-per-sordi/",
+      "source": "sassuolo2000.it",
+      "snippet": "",
+      "published": "20260630T131500Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Lietuva sparčiai mažina mokyklų nebaigiančių mokinių skaičių",
+      "url": "https://www.lrytas.lt/lietuvosdiena/svietimas/2026/06/30/news/lietuva-sparciai-mazina-mokyklu-nebaigianciu-mokiniu-skaiciu-43005962/",
+      "source": "lrytas.lt",
+      "snippet": "",
+      "published": "20260630T131500Z",
+      "lang": "Lithuanian"
+    },
+    {
+      "title": "ΣΔΕ Σαπών : Παρουσιάστηκε το έργο και οι δράσεις των εκπαιδευομένων",
+      "url": "https://xronos.gr/genika/sde-sapon-paroysiastike-ergo-kai-oi-draseis-ton-ekpaideyomenon",
+      "source": "xronos.gr",
+      "snippet": "",
+      "published": "20260630T131500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Më 30 qershor Kisha katolike romake kremton festën e martirëve të parë të Kishës",
+      "url": "https://kohajone.com/aktualitet/me-30-qershor-kisha-katolike-romake-kremton-festen-e-martireve-te-pare-te-kishes-romake/",
+      "source": "kohajone.com",
+      "snippet": "",
+      "published": "20260630T131500Z",
+      "lang": "Albanian"
+    },
+    {
+      "title": "Orchestraccia e gli artisti del Puff celebrano la  romanità  ",
+      "url": "https://www.adnkronos.com/spettacoli/lorchestraccia-e-gli-artisti-del-puff-celebrano-la-romanita_344jH17B8R7UZz1Ye868wb",
+      "source": "adnkronos.com",
+      "snippet": "",
+      "published": "20260630T131500Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "  Corriere della Sera : Pse Evropa po ngrohet më shumë se pjesa tjetër e botës ? – Zhurnal . mk – Lajme nga Maqedonia , Kosova , Bota , Analiza",
+      "url": "https://zhurnal.mk/corriere-della-sera-pse-evropa-po-ngrohet-me-shume-se-pjesa-tjeter-e-botes/",
+      "source": "zhurnal.mk",
+      "snippet": "",
+      "published": "20260630T130000Z",
+      "lang": "Albanian"
+    },
+    {
+      "title": "Orădeanul Andrei Arad câștigă la Roma Trofeul secțiunii Muzică Internațională , cu piesa „ Purple Rain  ",
+      "url": "http://www.romaniapozitiva.ro/banat-crisana/oradeanul-andrei-arad-castiga-la-roma-trofeul-sectiunii-muzica-internationala-cu-piesa-purple-rain/",
+      "source": "romaniapozitiva.ro",
+      "snippet": "",
+      "published": "20260630T130000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Leicestershire college hits back at axed courses claims amid widespread  misinformation  ",
+      "url": "https://www.leicestermercury.co.uk/news/local-news/college-address-course-axe-claims-11037237",
+      "source": "leicestermercury.co.uk",
+      "snippet": "",
+      "published": "20260630T130000Z",
+      "lang": "English"
+    },
+    {
+      "title": "Česko : Podpredsedníčka Senátu kritizuje presun ľudskoprávnej agendy . Hovorí o  nedomyslenej deštrukcii  ",
+      "url": "https://www.noviny.sk/politika/1228296-cesko-podpredsednicka-senatu-kritizuje-presun-ludskopravnej-agendy-hovori-o-nedomyslenej-destrukcii",
+      "source": "noviny.sk",
+      "snippet": "",
+      "published": "20260630T130000Z",
+      "lang": "Slovak"
+    },
+    {
+      "title": "มส . ไฟเขียวแต่งตั้ง  ที่ปรึกษาเจ้าคณะภาค - รองเจ้าคณะจังหวัด - ผู้ช่วยเจ้าอาวาสพระอารามหลวง  ",
+      "url": "https://www.dailynews.co.th/news/5989693/",
+      "source": "dailynews.co.th",
+      "snippet": "",
+      "published": "20260630T120000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "O post primátora Košíc bojuje aj žena . V kampani prisľúbila tvrdší postup proti nelegálnym osadám",
+      "url": "https://www.ta3.com/clanok/1058115/o-post-primatora-zabojuje-aj-zena-do-kampane-vstupila-s-prislubom-tvrdeho-postupu-proti-nelegalnym-osadam",
+      "source": "ta3.com",
+      "snippet": "",
+      "published": "20260630T120000Z",
+      "lang": "Slovak"
+    },
+    {
+      "title": "  Zarađuješ od intimnih odnosa 10 godina  Stanija potkačila Maju , iznela šok tvrdnje o bivšoj drugarici",
+      "url": "https://www.telegraf.rs/jetset/vesti-jetset/4351553-zaradjujes-od-intimnih-odnosa-10-godina-stanija-potkacila-maju-iznela-sok-tvrdnje-o-bivsoj-drugarici",
+      "source": "telegraf.rs",
+      "snippet": "",
+      "published": "20260630T114500Z",
+      "lang": "Serbian"
+    },
+    {
+      "title": "Kandidatúru na post primátorky Košíc ohlásila Lenka Kovačevičová",
+      "url": "https://www.teraz.sk/regiony/kandidaturu-na-post-primatorky-kosic/974338-clanok.html",
+      "source": "teraz.sk",
+      "snippet": "",
+      "published": "20260630T114500Z",
+      "lang": "Slovak"
+    },
+    {
+      "title": "HISTORIA E ERRËT E PERANDORISË ROMAKE : Gjak , komplote dhe lufta për pushtet",
+      "url": "https://top24.mk/historia-e-erret-e-perandorise-romake-gjak-komplote-dhe-lufta-per-pushtet/",
+      "source": "top24.mk",
+      "snippet": "",
+      "published": "20260630T114500Z",
+      "lang": "Albanian"
+    },
+    {
+      "title": "İklim krizi mutfağa nasıl girecek ? ",
+      "url": "http://live26.t24.com.tr/yazarlar/gurkan-akgunes/iklim-krizi-mutfaga-nasil-girecek,55901",
+      "source": "live26.t24.com.tr",
+      "snippet": "",
+      "published": "20260630T113000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "ดาวติ๊กต็อก  ติ่ง  เบื้องลึกนารีพิฆาต  ส้ม  ",
+      "url": "https://www.bangkokbiznews.com/blogs/politics/1240914",
+      "source": "bangkokbiznews.com",
+      "snippet": "",
+      "published": "20260630T111500Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Spotmedia : Murim de cald în București ! ",
+      "url": "https://www.dw.com/ro/spotmedia-murim-de-cald-%C3%AEn-bucure%C8%99ti/a-77765651",
+      "source": "dw.com",
+      "snippet": "",
+      "published": "20260630T111500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "İtalyada Afrika Sıcakları : 10 Ölü , 25 Kentte En Üst Düzey Alarm ! ",
+      "url": "https://www.gercekgundem.com/dunya/italyada-afrika-sicaklari-10-olu-25-kentte-en-ust-duzey-alarm-574119",
+      "source": "gercekgundem.com",
+      "snippet": "",
+      "published": "20260630T111500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Aşırı sıcaklar nedeniyle 4 kişi hayatını kaybetti",
+      "url": "https://www.bursadabugun.com/haber/asiri-sicaklar-nedeniyle-4-kisi-hayatini-kaybetti-1932243.html",
+      "source": "bursadabugun.com",
+      "snippet": "",
+      "published": "20260630T111500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "2500 Yıllık Çatışmalı Antik İran Tarihi Tekerrür Ederse , Beklediğimiz Kalıcı Barış Uzakta Mı ? ",
+      "url": "https://www.bolugundem.com/makale/28257830/suat-tosun/2500-yillik-catismali-antik-iran-tarihi-tekerrur-ederse-bekledigimiz-kalici-baris-uzakta-mi",
+      "source": "bolugundem.com",
+      "snippet": "",
+      "published": "20260630T110000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Kepri Siapkan Enam Agenda Wisata Unggulan Juli 2026 , Bidik 2 , 7 Juta Wisatawan Mancanegara",
+      "url": "https://koran-jakarta.com/2026-06-30/kepri-siapkan-enam-agenda-wisata-unggulan-juli-2026-bidik-27-juta-wisatawan-mancanegara",
+      "source": "koran-jakarta.com",
+      "snippet": "",
+      "published": "20260630T110000Z",
+      "lang": "Indonesian"
+    },
+    {
+      "title": "  ธฤตา  ปราบสาวอิเหนา หืดจับ  ริว  ดับหนุ่มญี่ปุ่น ลอยลำ 16 คนสุดท้าย ศึกเทนนิสไอทีเอฟจูเนียร์",
+      "url": "https://www.dailynews.co.th/news/5989389/",
+      "source": "dailynews.co.th",
+      "snippet": "",
+      "published": "20260630T110000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Obří vlna odchodů z vládních rad : Rezignovalo 53 expertů ! Končí i Monika Šimůnková",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/842804/obri-vlna-odchodu-z-vladnich-rad-rezignovalo-53-expertu-konci-i-monika-simunkova.html",
+      "source": "blesk.cz",
+      "snippet": "",
+      "published": "20260630T110000Z",
+      "lang": "Czech"
+    },
+    {
+      "title": "Otthon lenni az úton levésben",
+      "url": "https://szabadsag.ro/article/otthon-lenni-az-uton-levesben",
+      "source": "szabadsag.ro",
+      "snippet": "",
+      "published": "20260630T110000Z",
+      "lang": "Hungarian"
+    },
+    {
+      "title": "Julio en plataformas : los estrenos que llegan a Netflix , Amazon , HBO Max , Mubi , Apple TV , y Disney+",
+      "url": "https://www.lacapital.com.ar/julio-plataformas-los-estrenos-que-llegan-netflix-amazon-hbo-max-mubi-apple-tv-y-disney-n10267040.html",
+      "source": "lacapital.com.ar",
+      "snippet": "",
+      "published": "20260630T110000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Tarp valstybės vadovų – turtingiausia Nausėdos šeima : turtas viršijo 1 mln . eurų",
+      "url": "https://www.lrt.lt/naujienos/verslas/4/2976191/tarp-valstybes-vadovu-turtingiausia-nausedos-seima-turtas-virsijo-1-mln-euru",
+      "source": "lrt.lt",
+      "snippet": "",
+      "published": "20260630T104500Z",
+      "lang": "Lithuanian"
+    },
+    {
+      "title": "Z lidskoprávních rad vlády rezignovalo k dnešku kvůli přesunu agend 53 expertů",
+      "url": "https://www.respekt.cz/informacni-servis/z-lidskopravnich-rad-vlady-rezignovalo-k-dnesku-kvuli-presunu-agend-53-expertu-2026-06-30-09-17",
+      "source": "respekt.cz",
+      "snippet": "",
+      "published": "20260630T104500Z",
+      "lang": "Czech"
+    },
+    {
+      "title": "Místopředsedkyně Senátu Seitlová : Přesun agend je nedomyšlená destrukce",
+      "url": "https://www.ceskenoviny.cz/zpravy/mistopredsedkyne-senatu-seitlova-presun-agend-je-nedomyslena-destrukce/2845518",
+      "source": "ceskenoviny.cz",
+      "snippet": "",
+      "published": "20260630T104500Z",
+      "lang": "Czech"
+    },
+    {
+      "title": "Calendar istoric al judeţului Sălaj – 30 Iunie",
+      "url": "https://www.magazinsalajean.ro/calendar-istoric/calendar-istoric-al-judetului-salaj-30-iunie-8",
+      "source": "magazinsalajean.ro",
+      "snippet": "",
+      "published": "20260630T101500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "FOTO | Culoar de mobilitate urbană , park și depou pentru autobuze electrice la Blaj : Investiție de peste 32 de milioane de lei",
+      "url": "https://ziarulunirea.ro/foto-culoar-de-mobilitate-urbana-parkride-si-depou-pentru-autobuze-electrice-la-blaj-investitie-de-peste-32-de-milioane-de-lei-1000668/",
+      "source": "ziarulunirea.ro",
+      "snippet": "",
+      "published": "20260630T101500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "O moldoveancă a fost găsită fără suflare în Lacul Garda din Italia : Anchetatorii iau în calcul mai multe ipoteze",
+      "url": "https://protv.md/actualitate/o-moldoveanca-a-fost-gasita-fara-suflare-in-lacul-garda-din-italia-anchetatorii-iau-in-calcul-mai-multe-ipoteze---2761881.html",
+      "source": "protv.md",
+      "snippet": "",
+      "published": "20260630T101500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "İtalyada aşırı sıcaklar nedeniyle 4 kişi hayatını kaybetti",
+      "url": "https://www.aa.com.tr/tr/dunya/italyada-asiri-sicaklar-nedeniyle-4-kisi-hayatini-kaybetti/3982012",
+      "source": "aa.com.tr",
+      "snippet": "",
+      "published": "20260630T094500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Idősgondozás rászorulóknak - 2026 . június 30 ., kedd",
+      "url": "https://www.3szek.ro/load/cikk/181592/idosgondozas-raszoruloknak",
+      "source": "3szek.ro",
+      "snippet": "",
+      "published": "20260630T093000Z",
+      "lang": "Hungarian"
+    },
+    {
+      "title": "MUERTES 2026 | Los famosos que han muerto en 2026 : de Robert Duvall , Valentino y Chuck Norris hasta Catherine OHara , Fernando Esteso y Eric Dane",
+      "url": "https://www.elperiodicoextremadura.com/cultura/2026/06/30/muertos-fallecidos-famosos-2026-actores-musicos-escritores-artistas-131958176.html",
+      "source": "elperiodicoextremadura.com",
+      "snippet": "",
+      "published": "20260630T091500Z",
+      "lang": "Spanish"
     }
   ]
 }
