@@ -70,7 +70,10 @@ GN_RETRIES = int(os.getenv("GN_RETRIES", "3"))   # pokusy na jeden dotaz
 GDELT_QUERY    = ('(Roma OR Romani OR Romanies OR Sinti OR "Roma minority" '
                   'OR Gypsy OR Gitano OR "Irish Travellers") '
                   '-football -soccer -"AS Roma"')
-GDELT_TIMESPAN = os.getenv("GDELT_TIMESPAN", "13h")
+# GDELT má rozbité/zpožděné zpracování čerstvých dat: okno 13 h často padá do
+# díry a vrací 0 (ověřeno 7/2026 – 13h prázdno, 1 týden 9 článků). Širší okno
+# to málo, co GDELT má, aspoň vytáhne; duplicity mezi běhy hlídá state/seen.json.
+GDELT_TIMESPAN = os.getenv("GDELT_TIMESPAN", "72h")
 GDELT_MAX      = int(os.getenv("GDELT_MAX", "250"))
 # GitHub Actions běží na sdílených IP, na které GDELT často vrací 429.
 # Víc pokusů s narůstající prodlevou + náhodný rozptyl (ať se netrefíme do
