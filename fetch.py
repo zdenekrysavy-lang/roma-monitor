@@ -109,10 +109,12 @@ def fetch_google_news() -> list:
 
 
 def fetch_gdelt() -> tuple:
-    """Vrací (items, status). status: "ok" | "rate_limited" | "error".
+    """Vrací (items, status, note). status: "ok" | "rate_limited" | "error".
 
-    Status pak putuje do feedu, aby ChatGPT agent věděl (a mohl uživateli říct),
-    jestli se globální GDELT vrstva tentokrát načetla, nebo ji rate-limit shodil.
+    status i note (útržek toho, co GDELT reálně vrátil) putují do feedu, aby
+    ChatGPT agent i my viděli, PROČ se GDELT nenačetl – ne jen že se nenačetl.
+    Retryujeme VŠECHNY přechodné chyby: síť, 429, 5xx i ne-JSON odpověď
+    (GDELT je free služba a při přetížení vrací HTML/text místo JSON).
     """
     params = {
         "query": config.GDELT_QUERY,
@@ -122,47 +124,47 @@ def fetch_gdelt() -> tuple:
         "maxrecords": str(config.GDELT_MAX),
         "sort": "datedesc",
     }
-    # GDELT povoluje ~1 dotaz / 5 s; na sdílených GitHub IP často 429.
-    # Víc pokusů s narůstající prodlevou (8, 16, 24…) + náhodný rozptyl,
-    # ať se netrefíme do stejného okna jako jiné joby. Když ani tak neprojde,
-    # pokračujeme bez něj (GDELT je bonus, ne kritický zdroj).
     attempts = max(1, config.GDELT_RETRIES)
-    data = None
+    last_note = "neznámá chyba"
     for attempt in range(attempts):
         try:
             r = requests.get("https://api.gdeltproject.org/api/v2/doc/doc",
                              params=params, headers=UA, timeout=30)
         except Exception as ex:
-            print(f"  GDELT chyba: {ex}")
-            return [], "error"
-        if r.status_code == 429:
-            if attempt < attempts - 1:
-                wait = config.GDELT_BACKOFF * (attempt + 1) + random.uniform(0, 3)
-                print(f"  GDELT rate-limit (429), pokus {attempt + 1}/{attempts}, "
-                      f"čekám {wait:.0f} s…")
-                time.sleep(wait)
-                continue
-            print(f"  GDELT stále 429 i po {attempts} pokusech, pokračuji bez něj")
-            return [], "rate_limited"
-        try:
-            data = r.json()
-        except Exception as ex:
-            print(f"  GDELT chyba (ne-JSON odpověď): {ex}")
-            return [], "error"
-        break
-    if data is None:
-        return [], "error"
-    items = []
-    for a in data.get("articles", []):
-        items.append({
-            "title":     a.get("title", ""),
-            "url":       a.get("url", ""),
-            "source":    a.get("domain", ""),
-            "snippet":   "",
-            "published": a.get("seendate", ""),
-            "lang":      a.get("language", ""),
-        })
-    return items, "ok"
+            last_note = f"spojení selhalo: {ex}"[:200]
+        else:
+            if r.status_code == 429:
+                last_note = "HTTP 429 (rate-limit)"
+            elif r.status_code != 200:
+                last_note = f"HTTP {r.status_code}: {r.text.strip()[:150]}"
+            else:
+                try:
+                    data = r.json()
+                except Exception:
+                    # Ne-JSON = GDELT je přetížený nebo si stěžuje na dotaz.
+                    # Zalogujeme TĚLO, ať víme, co se děje (dřív jsme byli slepí).
+                    last_note = f"ne-JSON odpověď: {r.text.strip()[:180]}"
+                else:
+                    items = [{
+                        "title":     a.get("title", ""),
+                        "url":       a.get("url", ""),
+                        "source":    a.get("domain", ""),
+                        "snippet":   "",
+                        "published": a.get("seendate", ""),
+                        "lang":      a.get("language", ""),
+                    } for a in data.get("articles", [])]
+                    note = "" if items else "GDELT vrátil 0 článků (prázdná odpověď)"
+                    return items, "ok", note
+
+        if attempt < attempts - 1:
+            wait = config.GDELT_BACKOFF * (attempt + 1) + random.uniform(0, 3)
+            print(f"  GDELT selhalo ({last_note[:90]}), pokus {attempt + 1}/"
+                  f"{attempts}, čekám {wait:.0f} s…")
+            time.sleep(wait)
+
+    print(f"  GDELT se nenačetl ani po {attempts} pokusech: {last_note}")
+    status = "rate_limited" if "429" in last_note else "error"
+    return [], status, last_note
 
 
 def fetch_feed(url: str) -> list:
@@ -245,7 +247,7 @@ def collect() -> list:
     _GN["queries"] = _GN["failures"] = 0
 
     gn = fetch_google_news()
-    gd, gd_status = fetch_gdelt()
+    gd, gd_status, gd_note = fetch_gdelt()
     feed_items = []
     for f in config.RSS_FEEDS:
         feed_items += fetch_feed(f)
@@ -267,6 +269,7 @@ def collect() -> list:
         "google_news_status": gn_status,   # "ok" | "partial" | "blocked"
         "gdelt": len(gd),
         "gdelt_status": gd_status,         # "ok" | "rate_limited" | "error"
+        "gdelt_note": gd_note,             # diagnostika: co GDELT reálně vrátil
         "feeds": len(feed_items),
         "watch": len(watch),
         "before_dedup": len(merged),

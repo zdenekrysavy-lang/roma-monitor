@@ -64,10 +64,12 @@ GN_RETRIES = int(os.getenv("GN_RETRIES", "3"))   # pokusy na jeden dotaz
 # Řím) řešíme zápornými termíny, NE zúžením – to by zabilo multijazyčný záběr.
 # Přidána ethnonyma Gypsy/Gitano/"Irish Travellers" pro globální/anglofonní
 # pokrytí; záporné termíny krotí gypsy-šum (Gypsy Rose, gypsy moth, gypsy jazz).
+# Pozn.: GDELT má limit na počet termů v dotazu a při přetížení vrací ne-JSON.
+# Držíme dotaz krátký (méně termů = spolehlivější parsování); zbylý gypsy-šum
+# (Gypsy Rose, gypsy moth…) dotřídí ChatGPT, na úrovni sběru ho neřešíme.
 GDELT_QUERY    = ('(Roma OR Romani OR Romanies OR Sinti OR "Roma minority" '
                   'OR Gypsy OR Gitano OR "Irish Travellers") '
-                  '-football -soccer -"AS Roma" -calcio -transfer '
-                  '-"Gypsy Rose" -"gypsy moth" -"gypsy jazz"')
+                  '-football -soccer -"AS Roma"')
 GDELT_TIMESPAN = os.getenv("GDELT_TIMESPAN", "13h")
 GDELT_MAX      = int(os.getenv("GDELT_MAX", "250"))
 # GitHub Actions běží na sdílených IP, na které GDELT často vrací 429.
