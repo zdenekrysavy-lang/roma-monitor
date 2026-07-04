@@ -1,281 +1,217 @@
 {
-  "generated_utc": "2026-07-03T16:40:08+00:00",
-  "count": 33,
+  "generated_utc": "2026-07-04T07:41:30+00:00",
+  "count": 25,
   "sources": {
-    "google_news": 32,
+    "google_news": 27,
     "google_news_status": "ok",
-    "gdelt": 13,
+    "gdelt": 0,
     "gdelt_status": "ok",
-    "gdelt_note": "",
-    "feeds": 34,
-    "watch": 1,
-    "before_dedup": 80,
-    "total": 69,
-    "skipped_seen": 36
+    "gdelt_note": "GDELT vrátil 0 článků (prázdná odpověď)",
+    "feeds": 36,
+    "watch": 0,
+    "before_dedup": 63,
+    "total": 49,
+    "skipped_seen": 24
   },
   "candidates": [
     {
-      "title": "„Mindannyiunk érdeke lenne, hogy ne így éljenek ezek az emberek” - Transtelex",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTC1rc2RnNk9KWEgtWGNzbW9hNFRiLUpKcS1WMVFFMm5kbDZTWnF4OWVYWVM0bUd4c055STNGWVRwMWdUYk9kYWVRems5ZS1LYXljTkg4Sm1zRGI5ekRnS3BtSzh3X1FJdF9uaFhDSkNabDV5eVFqdk1yNkd5Zk1HT1ktZXpqaXVYbVVxNnZyWjBHdGh4UHlud0dpeVlLTXloSm1KNQ?oc=5",
-      "source": "Transtelex",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTC1rc2RnNk9KWEgtWGNzbW9hNFRiLUpKcS1WMVFFMm5kbDZTWnF4OWVYWVM0bUd4c055STNGWVRwMWdUYk9kYWVRems5ZS1LYXljTkg4Sm1zRGI5ekRnS3BtSzh3X1FJdF9uaFhDSkNabDV5eVFqdk1yNkd5Zk1HT1ktZXpqaXVYbVVxNnZyWjBHdGh4UHlud0dpeVlLTXloSm1KNQ?oc=5\" target=\"_blank\">„Mindannyiunk érdeke lenne, hogy ne így éljenek ezek az emberek”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transtelex</font>",
-      "published": "Fri, 03 Jul 2026 14:30:47 GMT",
+      "title": "SEČOVCE: Z osady vyviezli takmer 100 ton odpadu, Rómovia upratovali - TERAZ.sk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3hIa1ludVpYUWdnX2lXX3pfTW1BLW5Pc3g0Wmc1Rk1UenR2TjBtUXprR1NhMDYwNUdLQjE2Sk1PbHNmdmVFLUZvMGpHc182UFFOYUZyYmZweF9RM3FOLXMwN08xWmpFX0tKcGhyWm5ydWc2a0hnRlJ6TDRDUzdzcE1FMGVJTW41WGRSWnNKaGxnLVU3RUY1V2xNdXNkdnExS1ppU2pVUFBxRlBHLUE?oc=5",
+      "source": "TERAZ.sk",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3hIa1ludVpYUWdnX2lXX3pfTW1BLW5Pc3g0Wmc1Rk1UenR2TjBtUXprR1NhMDYwNUdLQjE2Sk1PbHNmdmVFLUZvMGpHc182UFFOYUZyYmZweF9RM3FOLXMwN08xWmpFX0tKcGhyWm5ydWc2a0hnRlJ6TDRDUzdzcE1FMGVJTW41WGRSWnNKaGxnLVU3RUY1V2xNdXNkdnExS1ppU2pVUFBxRlBHLUE?oc=5\" target=\"_blank\">SEČOVCE: Z osady vyviezli takmer 100 ton odpadu, Rómovia upratovali</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TERAZ.sk</font>",
+      "published": "Sat, 04 Jul 2026 01:23:35 GMT",
+      "lang": "sk"
+    },
+    {
+      "title": "Brazil’s Bolsonaro to remain under house arrest - WDEZ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUNUa0NjUjNGMWRMczdOcnQ4ZWVNU0J3aVVoTUxZX0l6SHN4bVhxVGlGTWU5c013aTJfZ2IwdkhPNXhMLTh3bklEbDBRVWxOVXZpWnpOUE1VOFZCRDlZaTM0eUZCWjJlY0hXSDJ6eFRGd2ZNQ2tNU3ZqN0lHYURGTg?oc=5",
+      "source": "WDEZ",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUNUa0NjUjNGMWRMczdOcnQ4ZWVNU0J3aVVoTUxZX0l6SHN4bVhxVGlGTWU5c013aTJfZ2IwdkhPNXhMLTh3bklEbDBRVWxOVXZpWnpOUE1VOFZCRDlZaTM0eUZCWjJlY0hXSDJ6eFRGd2ZNQ2tNU3ZqN0lHYURGTg?oc=5\" target=\"_blank\">Brazil’s Bolsonaro to remain under house arrest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDEZ</font>",
+      "published": "Sat, 04 Jul 2026 01:11:27 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "Brazil’s Bolsonaro to remain under house arrest - Internazionale",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODJlYXRlWVJha3BJU2FUNjVDNHQ3TXI1NjY4WUJOZVdTY1RjT1pSRWE5UzJHZ0huam1yaTBSY3Jjb1JWQ2hqclg0N3NXNncwT0JiMl9Od2paelhsVkFjUVBTSC1fZWJOU3VrX0dWRzB0ZHF4eG1pWkRUWTlXeTB4WllFVnRLNmJzeTE3UkMwQ3JFd3JUM0Z0UVdneGcyc0RtbDdZcWRrejBrZk03LWZaUw?oc=5",
+      "source": "Internazionale",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQODJlYXRlWVJha3BJU2FUNjVDNHQ3TXI1NjY4WUJOZVdTY1RjT1pSRWE5UzJHZ0huam1yaTBSY3Jjb1JWQ2hqclg0N3NXNncwT0JiMl9Od2paelhsVkFjUVBTSC1fZWJOU3VrX0dWRzB0ZHF4eG1pWkRUWTlXeTB4WllFVnRLNmJzeTE3UkMwQ3JFd3JUM0Z0UVdneGcyc0RtbDdZcWRrejBrZk03LWZaUw?oc=5\" target=\"_blank\">Brazil’s Bolsonaro to remain under house arrest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Internazionale</font>",
+      "published": "Fri, 03 Jul 2026 21:08:54 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "An outbreak of hepatitis A has been reported in a Roma camp in Transcarpathia - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2hkUXFuLTVpei14ZElMd0RlZmt5WTNOZ3pHZWg2WXNhU0cyYVVqY053WktfdWtIbmlFOTZTcldFQ3plVWVOMXdrR1hPQjg4bkF6Nl9xSGs1LVdkbFJqN2xVdDVmU2J6MWk3aXFFdTVaaE5yc1k0OUFwVmhMQ3VXeGh3OVFnaDU3VUsyNEE4aVNydFE?oc=5",
+      "source": "UA.NEWS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2hkUXFuLTVpei14ZElMd0RlZmt5WTNOZ3pHZWg2WXNhU0cyYVVqY053WktfdWtIbmlFOTZTcldFQ3plVWVOMXdrR1hPQjg4bkF6Nl9xSGs1LVdkbFJqN2xVdDVmU2J6MWk3aXFFdTVaaE5yc1k0OUFwVmhMQ3VXeGh3OVFnaDU3VUsyNEE4aVNydFE?oc=5\" target=\"_blank\">An outbreak of hepatitis A has been reported in a Roma camp in Transcarpathia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font>",
+      "published": "Fri, 03 Jul 2026 21:03:29 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "A múlt köde: 2008. Börtön a Roma Polgárjogi Alapítvány borsodi elnökének - Északhírnök",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3Y2MzVmZFRiLTBxazlzRHgyUkVJOW56MzJFZHFDRHdJek5UaTRzTV9uc1ltYXY3Mmc4RTFkSDUxNTFpSllZUlQ0Z0hYdzFWM3lDQWxfM1lwM0NFSUZybUYweDQ2TmhiS3BpX0xoS01hLVZ1Vm5WUlJsaEljRDdXQ3RGYjhFY1VLNHVoSFZqOTlmR2pUUF9CeGNQWEpyaGhFeXRndGU0RFkyVV83ckNR?oc=5",
+      "source": "Északhírnök",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3Y2MzVmZFRiLTBxazlzRHgyUkVJOW56MzJFZHFDRHdJek5UaTRzTV9uc1ltYXY3Mmc4RTFkSDUxNTFpSllZUlQ0Z0hYdzFWM3lDQWxfM1lwM0NFSUZybUYweDQ2TmhiS3BpX0xoS01hLVZ1Vm5WUlJsaEljRDdXQ3RGYjhFY1VLNHVoSFZqOTlmR2pUUF9CeGNQWEpyaGhFeXRndGU0RFkyVV83ckNR?oc=5\" target=\"_blank\">A múlt köde: 2008. Börtön a Roma Polgárjogi Alapítvány borsodi elnökének</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Északhírnök</font>",
+      "published": "Sat, 04 Jul 2026 03:47:40 GMT",
       "lang": "hu"
     },
     {
-      "title": "Viccek: A férj megcsalja a feleségét a titkárnőjével, de … - Bikuci.hu",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2N5ckgyX2xCb3B0cm5ZTThpWFpsRDdTQnB1SXBiQ0xkbGhRV0hXWkJSNjh4MEFzbHJHMThnOFVRcVdZcHZYR0w3OGxNMUktMlBxWTZqaG12bVZDMlJhQmdlNlBQQnhoZURQTTRTdmVWNjhIWlk1SkUxM0MzMl8xR1pndHFFdw?oc=5",
-      "source": "Bikuci.hu",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2N5ckgyX2xCb3B0cm5ZTThpWFpsRDdTQnB1SXBiQ0xkbGhRV0hXWkJSNjh4MEFzbHJHMThnOFVRcVdZcHZYR0w3OGxNMUktMlBxWTZqaG12bVZDMlJhQmdlNlBQQnhoZURQTTRTdmVWNjhIWlk1SkUxM0MzMl8xR1pndHFFdw?oc=5\" target=\"_blank\">Viccek: A férj megcsalja a feleségét a titkárnőjével, de …</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bikuci.hu</font>",
-      "published": "Fri, 03 Jul 2026 16:01:57 GMT",
-      "lang": "hu"
-    },
-    {
-      "title": "Viccek: Cigánygyerek az apjának:- Apa a Kalányos… - Bikuci.hu",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QajEycnlUd08tYk5XZ0JqVGE3cDV5OVRLaWFZQjlfR0g5WVZaVDJLczNqMkd5d3MzaFprT2JfY3hSek8tSTB6M2N5NTB1TFZfNGxXUlBXUzRQY2VxNVNqWFd0QTdoRXU2MHVibmlZcjZEdkJmM1B3?oc=5",
-      "source": "Bikuci.hu",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9QajEycnlUd08tYk5XZ0JqVGE3cDV5OVRLaWFZQjlfR0g5WVZaVDJLczNqMkd5d3MzaFprT2JfY3hSek8tSTB6M2N5NTB1TFZfNGxXUlBXUzRQY2VxNVNqWFd0QTdoRXU2MHVibmlZcjZEdkJmM1B3?oc=5\" target=\"_blank\">Viccek: Cigánygyerek az apjának:- Apa a Kalányos…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bikuci.hu</font>",
-      "published": "Fri, 03 Jul 2026 09:06:45 GMT",
-      "lang": "hu"
-    },
-    {
-      "title": "Copiii romi, eroi de poveste: Au lansat o carte în care ei sunt personajele principale (FOTO) - Bihoreanul",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUhHLVhlaGxCenIxQnVfTm52VV9sb3FUS3MtRlBtWU5HWEwyZzM1X0dsQUR3ZHBYMmRWcEdvYm1DVXJBTG90TzY2dTBuR0pCWnRvQ05DTTFfUExlYWtXcDRfQlJjdm5veHNBejE3UXh1ZVJJN3FQcFBMS0M1SGg2UGdRS0NlN2R0Z2E3OVNyRmpKSGk3SERlNW5SdnlDUk5uYUYzRjNWSkdEbUFHWUlkR2RJWWlqcHYtSDExTXlQSHZfNGtwVGhSZg?oc=5",
-      "source": "Bihoreanul",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUhHLVhlaGxCenIxQnVfTm52VV9sb3FUS3MtRlBtWU5HWEwyZzM1X0dsQUR3ZHBYMmRWcEdvYm1DVXJBTG90TzY2dTBuR0pCWnRvQ05DTTFfUExlYWtXcDRfQlJjdm5veHNBejE3UXh1ZVJJN3FQcFBMS0M1SGg2UGdRS0NlN2R0Z2E3OVNyRmpKSGk3SERlNW5SdnlDUk5uYUYzRjNWSkdEbUFHWUlkR2RJWWlqcHYtSDExTXlQSHZfNGtwVGhSZg?oc=5\" target=\"_blank\">Copiii romi, eroi de poveste: Au lansat o carte în care ei sunt personajele principale (FOTO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bihoreanul</font>",
-      "published": "Fri, 03 Jul 2026 11:43:07 GMT",
-      "lang": "ro"
-    },
-    {
-      "title": "Cuatro detenciones por el incendio de unos bajos en Valencia respaldan la versión de los ‘okupas’, que niegan haberlo causado - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNSkd2QmhxRXdwM2g3UTdibnhoYTFrVmFnaUpkZjlQejIzaHV1dUJnSjRlcEhpMDl3OG54eVY5Q0xwdjBoR2RZY25IcmtiY1RtV18tUm5USTZtSkRvMEJtNW01N2NCY0EyZU12S1U2NUt5SFdHN0VJdGhBYnpZOFZEWFkwMTNwdWhCdVlFdkktampWZlZLeTVVbzBVb0FjQ19UMy1EVVhscDVIQ3VjbENzUDFZS2UyLWg2YXNXczY1cDExdUtfQm93N0hnak4xMGt6Qi1ueGptdXBBRFkzbTZ4S0lMNVhJYnQ4elZGbVcxUWh6MFRycjd2dG9aRjQtaVpreGdjQUlfaXZfQWw5RDM4Z3FqWEJRaFJNdW9WRDl3VV90ZmUtZV8zWENESGx6Y0RhVm1UMNIByAJBVV95cUxPV1FfSWFNakhSUlZ2ZEduQjF3SkMtSno0WTdVYjlHcnRWeEJ6czhnbzY3X2U1ZXVKbFJGZklvVUlUOUtDQ3I4Y0RyYlpSQ1B0NHAxZ0FSWGlkT2lPWnZBX1RfeWRKMmxNYmx4aV9GbWl0WVdvTmY5aWdqdUlidFBVUmxfOVMyNHFUMzZiSzNNbkwxQ0lUblNjajYwYWVjQkthUzNwY3VfM3Eza3RjUXppQzNLVjgzTzBOdTN2ZVVzTmRGX2FSNjh5ckcxUm9FMUFjal9IbkVseG1qb2RJWTBMTk1MMEY0anplNmhHSGJ2QjRSelRiemZYOVl4QnVWUC16MmNNSnVjV3d3Ukx3XzJXSnJXOVQ1UHhzVnllX0EzZm56eVhzOUQ3eEhYSGJVRzVvZUYxRUtuVjRrTjdIZFFmUDlsRkNRVW5z?oc=5",
-      "source": "EL PAÍS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxNSkd2QmhxRXdwM2g3UTdibnhoYTFrVmFnaUpkZjlQejIzaHV1dUJnSjRlcEhpMDl3OG54eVY5Q0xwdjBoR2RZY25IcmtiY1RtV18tUm5USTZtSkRvMEJtNW01N2NCY0EyZU12S1U2NUt5SFdHN0VJdGhBYnpZOFZEWFkwMTNwdWhCdVlFdkktampWZlZLeTVVbzBVb0FjQ19UMy1EVVhscDVIQ3VjbENzUDFZS2UyLWg2YXNXczY1cDExdUtfQm93N0hnak4xMGt6Qi1ueGptdXBBRFkzbTZ4S0lMNVhJYnQ4elZGbVcxUWh6MFRycjd2dG9aRjQtaVpreGdjQUlfaXZfQWw5RDM4Z3FqWEJRaFJNdW9WRDl3VV90ZmUtZV8zWENESGx6Y0RhVm1UMNIByAJBVV95cUxPV1FfSWFNakhSUlZ2ZEduQj",
-      "published": "Fri, 03 Jul 2026 09:04:47 GMT",
+      "title": "Con el cantautor Antonio Remache - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0d4dW1UOEpmbDlvM2Zva2YzYnZNY1JaRjJVdVVvc19wS2FETjZ2S0gtVDdKRFBhVm5IZUY4Rmh6Rm11TEluenlacEY0S1BrWFl4RXoxSU9Ndy1uOVJyNTRxdDdPSjNPMU1CV0hhd1FiSy16V0Zrc19VN1dzZThveA?oc=5",
+      "source": "RTVE.es",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0d4dW1UOEpmbDlvM2Zva2YzYnZNY1JaRjJVdVVvc19wS2FETjZ2S0gtVDdKRFBhVm5IZUY4Rmh6Rm11TEluenlacEY0S1BrWFl4RXoxSU9Ndy1uOVJyNTRxdDdPSjNPMU1CV0hhd1FiSy16V0Zrc19VN1dzZThveA?oc=5\" target=\"_blank\">Con el cantautor Antonio Remache</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTVE.es</font>",
+      "published": "Sat, 04 Jul 2026 04:00:00 GMT",
       "lang": "es"
     },
     {
-      "title": "RomM - Le gestionnaire de ROMs des retro gamers sérieux - Korben",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanpOMzR4UHdrRTJ2eFFNQnZacXRFOEd4dGVLa0VfMnktdHJSdXNCSG5melFzMEpldDlWWTBabU1QOW5UdkR5RXVDcVE1Q2VPTEZGcWRZSmROOG5hS0NKclBYVmRqYk9wa2FKNDQwNDNkbVJpQXJVTHFfWTNTQVlvTHZ2UG1qWDJUbXBJV1lOVTJsR3RGbkhUR3Rn?oc=5",
-      "source": "Korben",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNanpOMzR4UHdrRTJ2eFFNQnZacXRFOEd4dGVLa0VfMnktdHJSdXNCSG5melFzMEpldDlWWTBabU1QOW5UdkR5RXVDcVE1Q2VPTEZGcWRZSmROOG5hS0NKclBYVmRqYk9wa2FKNDQwNDNkbVJpQXJVTHFfWTNTQVlvTHZ2UG1qWDJUbXBJV1lOVTJsR3RGbkhUR3Rn?oc=5\" target=\"_blank\">RomM - Le gestionnaire de ROMs des retro gamers sérieux</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korben</font>",
-      "published": "Fri, 03 Jul 2026 13:28:34 GMT",
-      "lang": "fr"
+      "title": "Salida extraordinaria del Nazareno de Osuna: horarios, itinerarios y datos de interés - Diario de Sevilla",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTTFUaEZMSFpnbnl2Ym9kd1ZUTkhhUnFac2R6RzZJS2lhU3lhS3pSNnBBU3pfdDJNX0gzUzI0OEx1UUNUYzRRM1hOM294cDFjaVFFRkE0TS10SHZ2eDJOeHZjdUh0UjRneThSejhHdmZoYm1rUXhmd3dFRVNSUGEwakVOTHc1SGUyM25CN1ptVlJsWVBaNWs2UmV2QmN2M2xyV2NlQTJRYXdzUmfSAbABQVVfeXFMT0huRVk3c0NyRHVyTVJYS2xMclpjT0VnekNvUUVGSjlkYTlVaGFzd0E2WUJfT2cxRXFqVFVxRjNCUUUySWxvaXpCRmJ5TVlZTEVLTlNWVEE3MV9Za3BMWEJQOGpQbGFwbEZpVVhWZERpTmM1dXFQWnVuNDNYZzFTRkJoNUh3RGhFYkdwRnBnNkx1cDdBelBMUjBVeHFIN1BaaHFTRFkzMk9NM2hueTE2My0?oc=5",
+      "source": "Diario de Sevilla",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTTFUaEZMSFpnbnl2Ym9kd1ZUTkhhUnFac2R6RzZJS2lhU3lhS3pSNnBBU3pfdDJNX0gzUzI0OEx1UUNUYzRRM1hOM294cDFjaVFFRkE0TS10SHZ2eDJOeHZjdUh0UjRneThSejhHdmZoYm1rUXhmd3dFRVNSUGEwakVOTHc1SGUyM25CN1ptVlJsWVBaNWs2UmV2QmN2M2xyV2NlQTJRYXdzUmfSAbABQVVfeXFMT0huRVk3c0NyRHVyTVJYS2xMclpjT0VnekNvUUVGSjlkYTlVaGFzd0E2WUJfT2cxRXFqVFVxRjNCUUUySWxvaXpCRmJ5TVlZTEVLTlNWVEE3MV9Za3BMWEJQOGpQbGFwbEZpVVhWZERpTmM1dXFQWnVuNDNYZzFTRkJoNUh3RGhFYkdwRnBnNkx1cDdBelBMUjBVeHFIN1BaaH",
+      "published": "Sat, 04 Jul 2026 06:44:53 GMT",
+      "lang": "es"
     },
     {
-      "title": "Hautes-Alpes. Gens du voyage à La Bâtie-Neuve : l’évacuation des 240 caravanes s’est déroulée « dans le calme » - Le Dauphiné Libéré",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU2JpX1gza0g2dnlJcXh5akQ5MzZRQWZ4NUpIWUw1X2tZXzhwUlFFMk1MMmF6MnAyaGdzNE9MeE9TbGFhZUhya1ZSaWhaWG5FOFBVSUwwRzYwSEZYTU9QYURQRm1qVEJXNVk0dk9OWm8xdGc5ellkVExnLVR1SVNnWW4xbDNlN3c1Y0xNMUFwLVZjY21aY1ltbTlGNU9CM0ZYbjlEVC16NEFVN19PNjgzS3lSMWM4Z3pmTGliNzZoSDB0Qnh4TnlXUnkzb25jNzdKaF9yOXZUdGlNS0trZ2VoenA2bE1OaUY0bEE?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU2JpX1gza0g2dnlJcXh5akQ5MzZRQWZ4NUpIWUw1X2tZXzhwUlFFMk1MMmF6MnAyaGdzNE9MeE9TbGFhZUhya1ZSaWhaWG5FOFBVSUwwRzYwSEZYTU9QYURQRm1qVEJXNVk0dk9OWm8xdGc5ellkVExnLVR1SVNnWW4xbDNlN3c1Y0xNMUFwLVZjY21aY1ltbTlGNU9CM0ZYbjlEVC16NEFVN19PNjgzS3lSMWM4Z3pmTGliNzZoSDB0Qnh4TnlXUnkzb25jNzdKaF9yOXZUdGlNS0trZ2VoenA2bE1OaUY0bEE?oc=5\" target=\"_blank\">Hautes-Alpes. Gens du voyage à La Bâtie-Neuve : l’évacuation des 240 caravanes s’est déroulée « dans le calme »<",
-      "published": "Fri, 03 Jul 2026 14:09:44 GMT",
-      "lang": "fr"
+      "title": "Apuesta del IAJ por fomentar líneas de cooperación con los jóvenes investigadores universitarios - Junta de Andalucía",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEdSZk1hNUhjc3JnRlF6M3E2YkVnNDFwRU43WS03M3ZoYmVpNEwzYTZaNVVfeGI2X2ZKajlGdXM3ME1fQ25lcDJSRHc1RS1HRkk1dllwaVhTYTZzdWtZZG9UbHV4bFBGbXNzOVo4VmVybVJQdnBMN2V3dl9NMG1LeGlHVTQ2YjdPMlloR2l4OGI2NG95dXhmRTJFczM0VHI4LXN3aUZUOWtlVXphZTk4Q3dGTW1GOWFvMVlxaEp6WktfbDV6VnZmdXhtZC1idw?oc=5",
+      "source": "Junta de Andalucía",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEdSZk1hNUhjc3JnRlF6M3E2YkVnNDFwRU43WS03M3ZoYmVpNEwzYTZaNVVfeGI2X2ZKajlGdXM3ME1fQ25lcDJSRHc1RS1HRkk1dllwaVhTYTZzdWtZZG9UbHV4bFBGbXNzOVo4VmVybVJQdnBMN2V3dl9NMG1LeGlHVTQ2YjdPMlloR2l4OGI2NG95dXhmRTJFczM0VHI4LXN3aUZUOWtlVXphZTk4Q3dGTW1GOWFvMVlxaEp6WktfbDV6VnZmdXhtZC1idw?oc=5\" target=\"_blank\">Apuesta del IAJ por fomentar líneas de cooperación con los jóvenes investigadores universitarios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Junta de Andalu",
+      "published": "Fri, 03 Jul 2026 19:07:23 GMT",
+      "lang": "es"
     },
     {
-      "title": "\"On prépare l’opération d’évacuation\" : ils avaient saisi la justice après s’être installés sur un terrain privé… Les gens du voyage vont être sortis de force de cette commune près de Perpignan - L'Indépendant",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQenVPdGtqZVMxUzl5dVo2X2ZBRWU1a0tzLTh3WWd0TnNURkMzZFg3UUJmY1NyeG1ITUd2UnNlSzNPSnNKZHlBSUtsbmVnQ0ROVHlnMjl5YUNSSGpZTnBnVUxTT0dRZDJSSG5UZDFaNXlxdXNicExTM1pFWTFmOUd3U0ZkTF9veEVNbnYtV0VJd2ZIc0pnTVpsUi1lak4yX1QtazhBdkNBWHplbnh1dk1UOXhZaW0zdm5SRVB6SWplNHJuRUl4cXFrRnFrcEJ1eWh0U3ZPUXBERU92YVVxYzd6SUhsU1ZCOWUtTmZLRzhUWE8wcjlOYlozNXlEVGdsa1lxRG93dFkxU1dpeFE4d0xCSnMteUNPQVNfdV9ocDBKTlVIRHZNSGgzYlBn?oc=5",
-      "source": "L'Indépendant",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQenVPdGtqZVMxUzl5dVo2X2ZBRWU1a0tzLTh3WWd0TnNURkMzZFg3UUJmY1NyeG1ITUd2UnNlSzNPSnNKZHlBSUtsbmVnQ0ROVHlnMjl5YUNSSGpZTnBnVUxTT0dRZDJSSG5UZDFaNXlxdXNicExTM1pFWTFmOUd3U0ZkTF9veEVNbnYtV0VJd2ZIc0pnTVpsUi1lak4yX1QtazhBdkNBWHplbnh1dk1UOXhZaW0zdm5SRVB6SWplNHJuRUl4cXFrRnFrcEJ1eWh0U3ZPUXBERU92YVVxYzd6SUhsU1ZCOWUtTmZLRzhUWE8wcjlOYlozNXlEVGdsa1lxRG93dFkxU1dpeFE4d0xCSnMteUNPQVNfdV9ocDBKTlVIRHZNSGgzYlBn?oc=5\" target=\"_blank\">\"On prépare l’opération d’é",
-      "published": "Fri, 03 Jul 2026 15:32:00 GMT",
-      "lang": "fr"
+      "title": "\"La suerte tenía que estar de mi lado\" - vertigomotorsport.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWng1blJhUzhFYzBvTFh3V0JHWGhqNXhaWTVndDFaS3ZERkN1bzBoWE5HbkMyMEdHZTFkMkdienFYTHZIc0VRMmtfbHpjQS1xMFk5ZnR4bk05dVpIbExTa0lXdkhhOEkzN3NSWVF4YjdobXFuSFFNY25yRWs0QmJGaFd5TW14X00?oc=5",
+      "source": "vertigomotorsport.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWng1blJhUzhFYzBvTFh3V0JHWGhqNXhaWTVndDFaS3ZERkN1bzBoWE5HbkMyMEdHZTFkMkdienFYTHZIc0VRMmtfbHpjQS1xMFk5ZnR4bk05dVpIbExTa0lXdkhhOEkzN3NSWVF4YjdobXFuSFFNY25yRWs0QmJGaFd5TW14X00?oc=5\" target=\"_blank\">\"La suerte tenía que estar de mi lado\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vertigomotorsport.com</font>",
+      "published": "Fri, 03 Jul 2026 19:39:21 GMT",
+      "lang": "es"
     },
     {
-      "title": "Installation illicite des gens du voyage : des élus haut-savoyards reçus à Matignon - Le Messager",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmt6UHlmR2tialBMcWpXaWhpVk5hTlA3RVpzbGF1SFZrbVc0ZUFtZ19xS1F1X01pTXNtWm8tQkdOeFY1MGxiRkNGU0M1V0lDeUU1ZXBqeHRLcUV6TmRNZWV1dTZyRTZ6Z29QUjY1RzVOMmtDMVRWSzJka1M2cWJLVlI1bDk4N1Q5QzFUbzk1aENUYzBCb1FiZWJ2TVd1ckd5elNnWDhQRE5KSGhOT1c1SjFJZGswN1JRWVFqMWJYWTdnTFM5amxpZ0ZQN3ZwRkE?oc=5",
-      "source": "Le Messager",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmt6UHlmR2tialBMcWpXaWhpVk5hTlA3RVpzbGF1SFZrbVc0ZUFtZ19xS1F1X01pTXNtWm8tQkdOeFY1MGxiRkNGU0M1V0lDeUU1ZXBqeHRLcUV6TmRNZWV1dTZyRTZ6Z29QUjY1RzVOMmtDMVRWSzJka1M2cWJLVlI1bDk4N1Q5QzFUbzk1aENUYzBCb1FiZWJ2TVd1ckd5elNnWDhQRE5KSGhOT1c1SjFJZGswN1JRWVFqMWJYWTdnTFM5amxpZ0ZQN3ZwRkE?oc=5\" target=\"_blank\">Installation illicite des gens du voyage : des élus haut-savoyards reçus à Matignon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Messager</font>",
-      "published": "Fri, 03 Jul 2026 15:38:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Des gens du voyage \"tronçonnent le cadenas\" et s'incrustent sur ce terrain privé près de Perpignan - Actu.fr",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSzJPNHRrdWJFeVpSQXJCRE1MaVN5MzktNnhfeFpNTEx2VjdSWkxsN2hySWMxelF6X2lhS1EzRjNTNmllNC1hYlljcm9pOFctajY2dnE5eW9ybFNxQU5EajlSd3VIaDRfQjZXXzB3VXN2NlFIeEJYOEtCU3hZbXlaSHVIeWRCb3JqUUQyRllSSG9RNVpNTDlSbW1faFJSOGxXang2d0V3eU9rWTVDb1VTN1FOeEJYd21DTmE4UF9oTGl2UFVMV0J1N3padzh1RWt4U1NyZWczQ0pJZjRuZmdZOEczaGJOUQ?oc=5",
-      "source": "Actu.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSzJPNHRrdWJFeVpSQXJCRE1MaVN5MzktNnhfeFpNTEx2VjdSWkxsN2hySWMxelF6X2lhS1EzRjNTNmllNC1hYlljcm9pOFctajY2dnE5eW9ybFNxQU5EajlSd3VIaDRfQjZXXzB3VXN2NlFIeEJYOEtCU3hZbXlaSHVIeWRCb3JqUUQyRllSSG9RNVpNTDlSbW1faFJSOGxXang2d0V3eU9rWTVDb1VTN1FOeEJYd21DTmE4UF9oTGl2UFVMV0J1N3padzh1RWt4U1NyZWczQ0pJZjRuZmdZOEczaGJOUQ?oc=5\" target=\"_blank\">Des gens du voyage \"tronçonnent le cadenas\" et s'incrustent sur ce terrain privé près de Perpignan</a>&nbsp;&nbsp;<fo",
-      "published": "Fri, 03 Jul 2026 13:25:55 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "L’accueil des gens du voyage met le feu aux débats lors du conseil communautaire de Coeur-de-Charente - Charente Libre",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbkZGaEljdHdlWW9pUldSMFBrZ0cteHVwckl1SjBPdmFnbDNlS0tuM01KeFRjN2tWdnhtZGlGS2laaGszLVM0RkxSS2tscFlXa0VqR1VUY2ozbDVESXpJdXhMbnBqNWh6dlItRW5xNXF2Wl9oVjN2dDh1Y0xrRlJnTE1YcjlNdWNxYTlZQXhwS2JPNkszMWhxWWRyekJkQUppWTM5d3lXVFY1QlB3Ti1JM0tkYkplelhHUy1uWlFRYi1oTXBHempYb0NUR2dFNlpaaFpTQVFRelpucl9lUFdSVUFoWEJaNW53TUpwSWpETURCNEE?oc=5",
-      "source": "Charente Libre",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbkZGaEljdHdlWW9pUldSMFBrZ0cteHVwckl1SjBPdmFnbDNlS0tuM01KeFRjN2tWdnhtZGlGS2laaGszLVM0RkxSS2tscFlXa0VqR1VUY2ozbDVESXpJdXhMbnBqNWh6dlItRW5xNXF2Wl9oVjN2dDh1Y0xrRlJnTE1YcjlNdWNxYTlZQXhwS2JPNkszMWhxWWRyekJkQUppWTM5d3lXVFY1QlB3Ti1JM0tkYkplelhHUy1uWlFRYi1oTXBHempYb0NUR2dFNlpaaFpTQVFRelpucl9lUFdSVUFoWEJaNW53TUpwSWpETURCNEE?oc=5\" target=\"_blank\">L’accueil des gens du voyage met le feu aux débats lors du conseil communautaire de Coeur-de-Charent",
-      "published": "Fri, 03 Jul 2026 15:14:38 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "VIDÉO. Arnaque, agression et gens du voyage : ce qu'il faut retenir cette semaine dans les Deux-Sèvres - lanouvellerepublique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUS1oZ2NfVDV5ZmdSeXpDX2Nab1VlRmdXd1Q3RVdjTGdoSm9wcGJwUU1zTmpyTmpRMVVPOFhNM1dCSXNwYXRELWNjS0RwazQyNVZ6MFhubEgxYVNMVC00WnEtZm9FRTZjZnBWTHpvWXc0Um9WRUx3cFh0WGZ2RGRJamhRRy16R0xkcmxEbVN6cDVoaUVCeVRTZXdEejBhQWlUSTltSWxYb1Y1QW5TUHl6dGlEM1VWdFdtYmlnVjNWNWRNZzNNZ3ZkMDVBSVdTR0lzZlpwQmhabU5uN2JQRjlqVF8zOXdxblNncnpIMW9n?oc=5",
-      "source": "lanouvellerepublique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUS1oZ2NfVDV5ZmdSeXpDX2Nab1VlRmdXd1Q3RVdjTGdoSm9wcGJwUU1zTmpyTmpRMVVPOFhNM1dCSXNwYXRELWNjS0RwazQyNVZ6MFhubEgxYVNMVC00WnEtZm9FRTZjZnBWTHpvWXc0Um9WRUx3cFh0WGZ2RGRJamhRRy16R0xkcmxEbVN6cDVoaUVCeVRTZXdEejBhQWlUSTltSWxYb1Y1QW5TUHl6dGlEM1VWdFdtYmlnVjNWNWRNZzNNZ3ZkMDVBSVdTR0lzZlpwQmhabU5uN2JQRjlqVF8zOXdxblNncnpIMW9n?oc=5\" target=\"_blank\">VIDÉO. Arnaque, agression et gens du voyage : ce qu'il faut retenir cette semaine dans les Deux-Sèvres</a>&",
-      "published": "Fri, 03 Jul 2026 15:01:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "« Il n’est pas question qu’elle paie un seul euro pour le nettoyage » : la Ville de Corbas dépose plainte contre les gens du voyage - Le Progrès",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORGdoRjk5YnhGWnhrRkxHdS03aGQtNGtxZnF0VTdMRHc0LUJGOFJ2VHlSOXRjTnpReU5vbDlIYzZkQk16ams1SG5WSDN1UklTQVhFclozS2cwZmwtcXE0UTZNdFJpNV9rcERwMld2NWRvNklQVWI0bzdZNlV2a2JhYXQtN2R2RTVPZjFuVDNoYnlWV01QSnV0VzNhX3lEUW5uWWNLekRfdm00RnV0aW10RE9hNEwtd0lEdlpGeE1GN2c0b01aUWtFYUVNY29ENW1GMTdYdm1jS0lYUk9pZi1PYV95dGRhN20yR0c5QjItM1NOckJ0X3NWVzJBQ2xNVFY1cl9tNmVB?oc=5",
-      "source": "Le Progrès",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxORGdoRjk5YnhGWnhrRkxHdS03aGQtNGtxZnF0VTdMRHc0LUJGOFJ2VHlSOXRjTnpReU5vbDlIYzZkQk16ams1SG5WSDN1UklTQVhFclozS2cwZmwtcXE0UTZNdFJpNV9rcERwMld2NWRvNklQVWI0bzdZNlV2a2JhYXQtN2R2RTVPZjFuVDNoYnlWV01QSnV0VzNhX3lEUW5uWWNLekRfdm00RnV0aW10RE9hNEwtd0lEdlpGeE1GN2c0b01aUWtFYUVNY29ENW1GMTdYdm1jS0lYUk9pZi1PYV95dGRhN20yR0c5QjItM1NOckJ0X3NWVzJBQ2xNVFY1cl9tNmVB?oc=5\" target=\"_blank\">« Il n’est pas question qu’elle paie un seul euro pour le nettoyage » : la ",
-      "published": "Fri, 03 Jul 2026 14:20:40 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Actualité Locale - Radio SCOOP",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Yb3pINGNKMmN3WGt0eW5RbnhjTklGbm5tOVo4SHMyZmRuQ0EtTkdGSE5IcFdEREJHMC1Wd0hCUTAtaTQ4N3ZySFA5VVNPWUNYTTJwOFBUQQ?oc=5",
-      "source": "Radio SCOOP",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Yb3pINGNKMmN3WGt0eW5RbnhjTklGbm5tOVo4SHMyZmRuQ0EtTkdGSE5IcFdEREJHMC1Wd0hCUTAtaTQ4N3ZySFA5VVNPWUNYTTJwOFBUQQ?oc=5\" target=\"_blank\">Actualité Locale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio SCOOP</font>",
-      "published": "Fri, 03 Jul 2026 09:59:45 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "« On exige des actes ! » : face aux installations illicites de gens du voyage, des élus les dénoncent à Matignon - Le Dauphiné Libéré",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZmpOWGFjUndlSnk2eWxTTXA0Ymwtbm15U1J3ek5pN2toRldTekQ2eFl4dGhBS191d3l6d2k1UjRMUm9rYklCR3RTUUpWMG5Tc3RSbGNwampKQkJQYWE2dWRqV2xaVm5mVENrd3U2R0NPbTZSel9lOUFsZW1XbGZqQzFEVkNQZjV5MmZvbGlmd1M3QVJHbmJydHZkM2t6Mm1ueFZrVmxiTmVITEg4NW5LT3pHMWZ3UWFESExoVXo4dkhIWUZnWG14QWVGdGhxZ3BhekhISEI5TQ?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZmpOWGFjUndlSnk2eWxTTXA0Ymwtbm15U1J3ek5pN2toRldTekQ2eFl4dGhBS191d3l6d2k1UjRMUm9rYklCR3RTUUpWMG5Tc3RSbGNwampKQkJQYWE2dWRqV2xaVm5mVENrd3U2R0NPbTZSel9lOUFsZW1XbGZqQzFEVkNQZjV5MmZvbGlmd1M3QVJHbmJydHZkM2t6Mm1ueFZrVmxiTmVITEg4NW5LT3pHMWZ3UWFESExoVXo4dkhIWUZnWG14QWVGdGhxZ3BhekhISEI5TQ?oc=5\" target=\"_blank\">« On exige des actes ! » : face aux installations illicites de gens du voyage, des élus les dénoncent à Matignon</a>&nbsp;&nbsp;<font col",
-      "published": "Fri, 03 Jul 2026 16:07:30 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Karlsruhe benennt Platz nach Familie Reinhardt: Zeichen des Gedenkens an das Leid der Sinti und Roma - Wochenblatt Reporter",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQenlURFhBb1VGSHFZc3lBSG5VRTdwRnM1clBMb3Q5Z19QWnB6RE9SVWtrUzZTTnBwZWZHZE9mTjFMMExOcjVHbk5ZczlvM09RNC1NN2NYVERaQTZEeWNFTnVQcEpLQzhkeTRmMmFBUFNXRUZIREs0YkoxdzlLcTg2TFN0M0xWUzZPQmdHaFY4STJOYlZEUnRsUW9nNnhrWE5NZnM3M1lidlRYZkc3QlN6eDA4SGZ3dDFHT1BtNjZWakVVOVdTVmFPSnhxbm5xT3NycXhfa3dwSHljLXJjUm81bTNEX1BOSGJ4NGFaZEJvSGt4VDFLcnc?oc=5",
-      "source": "Wochenblatt Reporter",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQenlURFhBb1VGSHFZc3lBSG5VRTdwRnM1clBMb3Q5Z19QWnB6RE9SVWtrUzZTTnBwZWZHZE9mTjFMMExOcjVHbk5ZczlvM09RNC1NN2NYVERaQTZEeWNFTnVQcEpLQzhkeTRmMmFBUFNXRUZIREs0YkoxdzlLcTg2TFN0M0xWUzZPQmdHaFY4STJOYlZEUnRsUW9nNnhrWE5NZnM3M1lidlRYZkc3QlN6eDA4SGZ3dDFHT1BtNjZWakVVOVdTVmFPSnhxbm5xT3NycXhfa3dwSHljLXJjUm81bTNEX1BOSGJ4NGFaZEJvSGt4VDFLcnc?oc=5\" target=\"_blank\">Karlsruhe benennt Platz nach Familie Reinhardt: Zeichen des Gedenkens an das Leid der Sinti und ",
-      "published": "Fri, 03 Jul 2026 13:29:26 GMT",
-      "lang": "de"
-    },
-    {
-      "title": "Тик-Ток пропищя от неграмотния примитив Ради Кошмара, който се гаври с целия български народ и историята му (видео) - Днес България",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPajVIck44bXZQSzNDOWsyLXB0NnlwQnlwQVJjcUFYZWZLMFdMOUtReUtLX1ZYNDduWjRjT2o4eEtOSXhUeEs4bUdrLTBNR19lTVFKbkJnNHU4clZpQXNNSmF1OHcxREphODZiTmNpa3BwQWhRNnFqWVk3Y0w2MWpRcGxoTjFzam8ybGx4VUV2NUZWdERuOVBkSFB3ZEM3ZjZUVHhORjBsaHF0eDNvVjJTZzllVlMxdVhVWkt6N0N1UWptcWFJRVpYeXZvWU9CRHFyUHBaN0hueDFOVm13SnhmRGFpNWhFMDhMUkF4N285WFZaR2NOaVRaQTVuYnE0RExJR1JpSEloRjY2X2xhQnFJanZUNUdZbnZ5Nm5hUGNyY1ByZDg2MnIyN1JiRzJITnVYQ3R6aEphTjI3bG1UcVpoMXVPdUtMZw?oc=5",
-      "source": "Днес България",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxPajVIck44bXZQSzNDOWsyLXB0NnlwQnlwQVJjcUFYZWZLMFdMOUtReUtLX1ZYNDduWjRjT2o4eEtOSXhUeEs4bUdrLTBNR19lTVFKbkJnNHU4clZpQXNNSmF1OHcxREphODZiTmNpa3BwQWhRNnFqWVk3Y0w2MWpRcGxoTjFzam8ybGx4VUV2NUZWdERuOVBkSFB3ZEM3ZjZUVHhORjBsaHF0eDNvVjJTZzllVlMxdVhVWkt6N0N1UWptcWFJRVpYeXZvWU9CRHFyUHBaN0hueDFOVm13SnhmRGFpNWhFMDhMUkF4N285WFZaR2NOaVRaQTVuYnE0RExJR1JpSEloRjY2X2xhQnFJanZUNUdZbnZ5Nm5hUGNyY1ByZDg2MnIyN1JiRzJITnVYQ3R6aEphTjI3bG1UcVpoMXVPdUtMZw?oc=5\" targe",
-      "published": "Fri, 03 Jul 2026 11:08:59 GMT",
-      "lang": "bg"
-    },
-    {
-      "title": "Παράσυρση και εγκατάλειψη έξω από τα δικαστήρια της Ευελπίδων – Στο ΚΑΤ τραυματίας Ρομά - Skai.gr",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDVKQURBR1VZWHVTYmZ6bWFOcmFxQWwtYkNFajl6WnlfNno2X3VKRWY5WGFVQTJWNlFCZ2M5VDdIZ2xUQTIzR21kbzZybkgza2pPWmpKLUNkREhjRkRKUWJEVTJkcUw3dGNJR3BQTl9TaXViWXdtcEMxUEVlSXh3X1A4ZVZfTnlVVmFyRGZVYUJaeFhFMk9zWkxDb9IBoAFBVV95cUxQYzdqc3pPUFlTZXZxYkRGVWdrN1l1ai0tLVdnX2x4ZXFYNmlISnhJa3FzSGNidnJSLWJmZ3VqTmR6SFh4MWVHUnNjTXVhWTREaWNHVzhLWjJRZGFwZmtVRnNKU0cxYjR2ZG8zTk5LTGRjU3F5V3VaS2tUcElmbzdoTFlVQnY2NzRIMXZZc3pQRXhZOHVVMGd5V0NTYWFycjVZ?oc=5",
-      "source": "Skai.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDVKQURBR1VZWHVTYmZ6bWFOcmFxQWwtYkNFajl6WnlfNno2X3VKRWY5WGFVQTJWNlFCZ2M5VDdIZ2xUQTIzR21kbzZybkgza2pPWmpKLUNkREhjRkRKUWJEVTJkcUw3dGNJR3BQTl9TaXViWXdtcEMxUEVlSXh3X1A4ZVZfTnlVVmFyRGZVYUJaeFhFMk9zWkxDb9IBoAFBVV95cUxQYzdqc3pPUFlTZXZxYkRGVWdrN1l1ai0tLVdnX2x4ZXFYNmlISnhJa3FzSGNidnJSLWJmZ3VqTmR6SFh4MWVHUnNjTXVhWTREaWNHVzhLWjJRZGFwZmtVRnNKU0cxYjR2ZG8zTk5LTGRjU3F5V3VaS2tUcElmbzdoTFlVQnY2NzRIMXZZc3pQRXhZOHVVMGd5V0NTYWFycjVZ?oc=5\" target=\"_blank\"",
-      "published": "Fri, 03 Jul 2026 14:12:55 GMT",
+      "title": "Ν. Πήλιο: Ρομά έπεισε γυναίκα να αφήσει κοσμήματα για να τα καταγράψει drone - Aftodioikisi.gr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU21UMWNmUExjV29tckJKeWZuNWI5Q2VQeDRCQzYtajJwNGhCbXNreGdaZGJXbnVGX1BGdGt4enhVRGh5dno3aXM4LXdzNFpLZlVhd3N3R3ExTzVZcW53TnJzRlJHRDFiMFduRlBTVmVkdVRaUWItMkJYYTFmU2RieFFZRE5EeVRuaWs0c0xjeVgxWnBFVXFiNHJDWHZ0VTFWSURNWG9rMzhqVk1ZZGpULUxwbw?oc=5",
+      "source": "Aftodioikisi.gr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU21UMWNmUExjV29tckJKeWZuNWI5Q2VQeDRCQzYtajJwNGhCbXNreGdaZGJXbnVGX1BGdGt4enhVRGh5dno3aXM4LXdzNFpLZlVhd3N3R3ExTzVZcW53TnJzRlJHRDFiMFduRlBTVmVkdVRaUWItMkJYYTFmU2RieFFZRE5EeVRuaWs0c0xjeVgxWnBFVXFiNHJDWHZ0VTFWSURNWG9rMzhqVk1ZZGpULUxwbw?oc=5\" target=\"_blank\">Ν. Πήλιο: Ρομά έπεισε γυναίκα να αφήσει κοσμήματα για να τα καταγράψει drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aftodioikisi.gr</font>",
+      "published": "Fri, 03 Jul 2026 19:59:31 GMT",
       "lang": "el"
     },
     {
-      "title": "Ζεφύρι: Πώς οι Ρομά που παρίσταναν τους υπαλλήλους του ΔΕΔΔΗΕ εξαπάτησαν πολίτες (Εικόνες) - Παραπολιτικά",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYXctdy10SkNpbnhCN0VCQUt1eUVrYUlIeVE5SU51T2E3TjN0bjk1eGo5WlZGZ3ZzMG90N3dwdEtzVDFpN1N2MldMV1FIalVqanBmLW45ZC1rZmVYMmJ5Z3BYeGxULXpibXVySjlDVG00ZElHWVRrSTVtd3ViNEJQQjBqZENyaDNTUEV3UmV0TkppcnRIcVJ2eVhPenF0N0ZRQmRZRWFjU3E5TzVoMXAtNDU5VnhNTkRJWG5SZG9DN084ZEYwRE1rejdKb3cyX0g3UWVNUjdVb3FHWmppVjVCQWdKQTVQczVVRHdESFR2N3FDbFVybW5TbEs5MUVhMGltVE1VdW56X3VUeHlTMnk1ajZaa2VRWUUtSUNCYmRCanY?oc=5",
-      "source": "Παραπολιτικά",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxOYXctdy10SkNpbnhCN0VCQUt1eUVrYUlIeVE5SU51T2E3TjN0bjk1eGo5WlZGZ3ZzMG90N3dwdEtzVDFpN1N2MldMV1FIalVqanBmLW45ZC1rZmVYMmJ5Z3BYeGxULXpibXVySjlDVG00ZElHWVRrSTVtd3ViNEJQQjBqZENyaDNTUEV3UmV0TkppcnRIcVJ2eVhPenF0N0ZRQmRZRWFjU3E5TzVoMXAtNDU5VnhNTkRJWG5SZG9DN084ZEYwRE1rejdKb3cyX0g3UWVNUjdVb3FHWmppVjVCQWdKQTVQczVVRHdESFR2N3FDbFVybW5TbEs5MUVhMGltVE1VdW56X3VUeHlTMnk1ajZaa2VRWUUtSUNCYmRCanY?oc=5\" target=\"_blank\">Ζεφύρι: Πώς οι Ρομά που παρίσταναν τους ",
-      "published": "Fri, 03 Jul 2026 11:05:00 GMT",
+      "title": "Αφροδίτη Λατινοπούλου: «Αν ήμουν σε ένα νησί με γύφτους, θα προτιμούσα να κολυμπήσω με τους καρχαρίες - Flash.gr",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWpReWVSaHdKWF9RSUtxWW9XWERRUDVITWVidXRiZ1QzeklVdnNuZ1BhZFRiQzNNVThlZExMMjQwRDRqSTBDc0xCWnQ4YzhOZ3dZVUNNcl91VndnMmVBd1R6V3ozS0N0MkFSajZUNFdhSlRCbjJXd3hYZ3l1OHI4WTFja3l2NWNNSXVfQXdyaGtFMUdoUHR6bWp0eDJFTkgzemJPSVdYV2N2NGFfNE5DajBHdHFSS2xHSm01MEwzUTlWMmd2UlY5c0V3?oc=5",
+      "source": "Flash.gr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWpReWVSaHdKWF9RSUtxWW9XWERRUDVITWVidXRiZ1QzeklVdnNuZ1BhZFRiQzNNVThlZExMMjQwRDRqSTBDc0xCWnQ4YzhOZ3dZVUNNcl91VndnMmVBd1R6V3ozS0N0MkFSajZUNFdhSlRCbjJXd3hYZ3l1OHI4WTFja3l2NWNNSXVfQXdyaGtFMUdoUHR6bWp0eDJFTkgzemJPSVdYV2N2NGFfNE5DajBHdHFSS2xHSm01MEwzUTlWMmd2UlY5c0V3?oc=5\" target=\"_blank\">Αφροδίτη Λατινοπούλου: «Αν ήμουν σε ένα νησί με γύφτους, θα προτιμούσα να κολυμπήσω με τους καρχαρίες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Flash.gr</font>",
+      "published": "Fri, 03 Jul 2026 20:00:00 GMT",
       "lang": "el"
     },
     {
-      "title": "Ευελπίδων: Παρέσυρε και εγκατάλειψε αντίδικό του έξω από τα δικαστήρια – Στο ΚΑΤ ο τραυματίας - Reporter.gr",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFIxRzVoOHZMWkFheXpfb3RmWF9DWEJIZDZ6RF8zV3NhZFA3bGVKQTRRZFlLT29QUE53VWRqVUFOdjRld05yVVJHb0pjUkR2Tkp0cEpndEtNYUtYVWd5LVRhMWdoc3JKVGQ4WVBId0pmLTVmT0dGSWx1NFIyZ2FoQlV4OFczM2JtNlkxQzRxMzFCcDI4SExNNWtDNjU0ME5YMlA4dmEzQzdUOFhpN1gtSnZyNU15QkVWSm9ESV9JNVk3aXRTeEhEMG9vUXA?oc=5",
-      "source": "Reporter.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFIxRzVoOHZMWkFheXpfb3RmWF9DWEJIZDZ6RF8zV3NhZFA3bGVKQTRRZFlLT29QUE53VWRqVUFOdjRld05yVVJHb0pjUkR2Tkp0cEpndEtNYUtYVWd5LVRhMWdoc3JKVGQ4WVBId0pmLTVmT0dGSWx1NFIyZ2FoQlV4OFczM2JtNlkxQzRxMzFCcDI4SExNNWtDNjU0ME5YMlA4dmEzQzdUOFhpN1gtSnZyNU15QkVWSm9ESV9JNVk3aXRTeEhEMG9vUXA?oc=5\" target=\"_blank\">Ευελπίδων: Παρέσυρε και εγκατάλειψε αντίδικό του έξω από τα δικαστήρια – Στο ΚΑΤ ο τραυματίας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reporter.gr</font>",
-      "published": "Fri, 03 Jul 2026 14:28:46 GMT",
+      "title": "Ζεφύρι: Οικογενειακή υπόθεση η εξαπάτηση πολιτών από σπείρα Ρομά - Οι διευθυντές, οι τηλεφωνητές και η τυχαία επιλογή των θυμάτων - lawandorder.gr",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QcndiSnFkb0JGNlJmczdmZjZqY0loOWxJWjNzZk1RRloxSzVuUXF6YkF5TnZZb3h2XzI0bDJzSWNnaG9wVVNPUGppS3NrRXJsQWFtN3AyVlIzV3FqdERFMl9hLUItYjVZazdIbk9jOEJVVmRXbkM0RmZuWQ?oc=5",
+      "source": "lawandorder.gr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1QcndiSnFkb0JGNlJmczdmZjZqY0loOWxJWjNzZk1RRloxSzVuUXF6YkF5TnZZb3h2XzI0bDJzSWNnaG9wVVNPUGppS3NrRXJsQWFtN3AyVlIzV3FqdERFMl9hLUItYjVZazdIbk9jOEJVVmRXbkM0RmZuWQ?oc=5\" target=\"_blank\">Ζεφύρι: Οικογενειακή υπόθεση η εξαπάτηση πολιτών από σπείρα Ρομά - Οι διευθυντές, οι τηλεφωνητές και η τυχαία επιλογή των θυμάτων</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lawandorder.gr</font>",
+      "published": "Sat, 04 Jul 2026 04:21:30 GMT",
       "lang": "el"
     },
     {
-      "title": "Ρόδος: Τους έδιωξαν το πρωί και... επέστρεψαν το απόγευμα οι ρομά - Έντονες διαμαρτυρίες από κατοίκους κι επιχειρηματίες - Η ΡΟΔΙΑΚΗ",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVkJNNExEZWhaV0c0NEJRODJYa2Rwdkd0UVlpVmlPQTgwOUxjN3F0SWlTRVN4a0FyTG5zVm1yRDBzZ2dxaHQ5ODMycEpQbWlVX0FSVUFWYjhnRExiMEJsMUVHYnIyQk1mNjBhNGRiczZENUcxRTVOYkRJaVpwVUVoR1BlQklnZWFpMF9rSXNMa3IzcjBlTnpVMXlrdl8xQk5zUzc4d05iRHUtRm5SSkFyZW1vNEo2czIwa3B5Q2h2Q21ySzYwMDREM2xjSVZTbEhDSC1UUHhQTVdFNGwtT3RfcG9mWE9lSkdM?oc=5",
-      "source": "Η ΡΟΔΙΑΚΗ",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVkJNNExEZWhaV0c0NEJRODJYa2Rwdkd0UVlpVmlPQTgwOUxjN3F0SWlTRVN4a0FyTG5zVm1yRDBzZ2dxaHQ5ODMycEpQbWlVX0FSVUFWYjhnRExiMEJsMUVHYnIyQk1mNjBhNGRiczZENUcxRTVOYkRJaVpwVUVoR1BlQklnZWFpMF9rSXNMa3IzcjBlTnpVMXlrdl8xQk5zUzc4d05iRHUtRm5SSkFyZW1vNEo2czIwa3B5Q2h2Q21ySzYwMDREM2xjSVZTbEhDSC1UUHhQTVdFNGwtT3RfcG9mWE9lSkdM?oc=5\" target=\"_blank\">Ρόδος: Τους έδιωξαν το πρωί και... επέστρεψαν το απόγευμα οι ρομά - Έντονες διαμαρτυρίες από κατοίκους κι επιχειρημ",
-      "published": "Fri, 03 Jul 2026 06:59:02 GMT",
+      "title": "Ναύπλιο: Το ευρωπαϊκό πρόγραμμα για τους Ρομά και η δράση στο 3ο Δημοτικό - anagnostis.org",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRldVVUVva1g5dHhuNUExUWNZMFNOMHdyMVhOaEJtcm9nZXFNZnZTSFhZekx1Y1RaMkVTVFpzX1V3MTNDQ1FQWTRmaGlzeXFUaFlNVzFKMGk3Nm9NVFZGUXFQckM2M3FlNFB5R0F1UUFua2FSSWpRa0RIbHRRQkVvOTlTUE1QVHVKUmlIQXowNHhmNjVuNm5Ib21zcGM1d3hXcFQySTBQdThTQ1hnc3hVOdIBuAFBVV95cUxPQUUzbEhKeTE1dnROVjB2TGtkNkVpc3RNSzZSYUUxZFUzeGcwN0VlQ0dka0FuX180OTlNVzgyRW9SNWVWX3B5M0FZRWctRWZPNEdUc2JyRGRhYlBWWnE2RHRBMW5RaWhSS3YyN0lLWmFzTEJWc1ljc0pQY2NZWUxSajd0OHNULW1wUzAzN0ZWOUF0RF9acW81TUxmZndEdE5vazNEeUZrNUFtMS0tRmJnWnRFTXBQWE1L?oc=5",
+      "source": "anagnostis.org",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRldVVUVva1g5dHhuNUExUWNZMFNOMHdyMVhOaEJtcm9nZXFNZnZTSFhZekx1Y1RaMkVTVFpzX1V3MTNDQ1FQWTRmaGlzeXFUaFlNVzFKMGk3Nm9NVFZGUXFQckM2M3FlNFB5R0F1UUFua2FSSWpRa0RIbHRRQkVvOTlTUE1QVHVKUmlIQXowNHhmNjVuNm5Ib21zcGM1d3hXcFQySTBQdThTQ1hnc3hVOdIBuAFBVV95cUxPQUUzbEhKeTE1dnROVjB2TGtkNkVpc3RNSzZSYUUxZFUzeGcwN0VlQ0dka0FuX180OTlNVzgyRW9SNWVWX3B5M0FZRWctRWZPNEdUc2JyRGRhYlBWWnE2RHRBMW5RaWhSS3YyN0lLWmFzTEJWc1ljc0pQY2NZWUxSajd0OHNULW1wUzAzN0ZWOUF0RF9acW81TUxmZn",
+      "published": "Fri, 03 Jul 2026 19:22:54 GMT",
       "lang": "el"
     },
     {
-      "title": "Πώς οι Ρομά που παρίσταναν τους υπαλλήλους του ΔΕΔΔΗΕ εξαπάτησαν πολίτες και έβγαλαν 1,6 εκατ. ευρώ - dimosio.gr",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEl5QTY3cTJSUEg3SHFsZEl4dW1hT0t2WEx6NmRKN1ZJaUlmblVrVFRKbTNTX0tKLWlrMmpaS2VOSC1qU1EweW82OVkzLVZMTzJ4UVl6UlhVU2ZDeTZsS3BRMFZlcjR6eDBUQVN1ckswUWp6WlBHLXQxRWhqUExMZnM2ODVDeUZic0RWa2xkY1Q0Q0QzQk5JQW8tNGtNMnZ1UU5BVXdfYjBBRkFHQ3k1SHk1cDJDQQ?oc=5",
-      "source": "dimosio.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEl5QTY3cTJSUEg3SHFsZEl4dW1hT0t2WEx6NmRKN1ZJaUlmblVrVFRKbTNTX0tKLWlrMmpaS2VOSC1qU1EweW82OVkzLVZMTzJ4UVl6UlhVU2ZDeTZsS3BRMFZlcjR6eDBUQVN1ckswUWp6WlBHLXQxRWhqUExMZnM2ODVDeUZic0RWa2xkY1Q0Q0QzQk5JQW8tNGtNMnZ1UU5BVXdfYjBBRkFHQ3k1SHk1cDJDQQ?oc=5\" target=\"_blank\">Πώς οι Ρομά που παρίσταναν τους υπαλλήλους του ΔΕΔΔΗΕ εξαπάτησαν πολίτες και έβγαλαν 1,6 εκατ. ευρώ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dimosio.gr</font>",
-      "published": "Fri, 03 Jul 2026 11:44:42 GMT",
+      "title": "Ένας 49χρονος Ρομά συνελήφθη στις Σέρρες για κλοπές καλωδίων αξίας 125.000 ευρώ. - Афинские Новости",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHhzVlBDY3p0TFlJQW9CRjJNRGI0M0ZOb0V5a1AwZ2wybFBaTXlRLXhVemI5ZHlZSzduTGZEYUp1WVZucUdZeUp2VzhibU1oaUdiRklFaktSRjFuSUstRl84a2tLLXBWclFRZ21OVDFMZ2p5cElsYU9CTklwUnJ3R3Bkakh4SkN0LWx2akV5MFN6NzhRdmdrLWdlU1lDVmVKX2ZRUjVHVDVFbUNXZk4tNQ?oc=5",
+      "source": "Афинские Новости",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHhzVlBDY3p0TFlJQW9CRjJNRGI0M0ZOb0V5a1AwZ2wybFBaTXlRLXhVemI5ZHlZSzduTGZEYUp1WVZucUdZeUp2VzhibU1oaUdiRklFaktSRjFuSUstRl84a2tLLXBWclFRZ21OVDFMZ2p5cElsYU9CTklwUnJ3R3Bkakh4SkN0LWx2akV5MFN6NzhRdmdrLWdlU1lDVmVKX2ZRUjVHVDVFbUNXZk4tNQ?oc=5\" target=\"_blank\">Ένας 49χρονος Ρομά συνελήφθη στις Σέρρες για κλοπές καλωδίων αξίας 125.000 ευρώ.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Афинские Новости</font>",
+      "published": "Fri, 03 Jul 2026 23:02:46 GMT",
       "lang": "el"
     },
     {
-      "title": "Ρομά παρίσταναν τους υπαλλήλους του ΔΕΔΔΗΕ και «ρήμαζαν» πολίτες - difernews.gr",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXppSTFyakZULU9IUlZDWmJvV1FSb3h4bWNmam1XQ0t0R24zcDZFMTgxS2c1SGpzbUFFRzVzb3hpdWN5elUxTW0tSm95SE9LMURiVDFnbTBLNTNzWXJwVlAtQ1paTUU1X2RubVpqVW9HRTdhd1M5S2xXd0Z2eUN2ZUdmOTMxdUI0aU9EWA?oc=5",
-      "source": "difernews.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXppSTFyakZULU9IUlZDWmJvV1FSb3h4bWNmam1XQ0t0R24zcDZFMTgxS2c1SGpzbUFFRzVzb3hpdWN5elUxTW0tSm95SE9LMURiVDFnbTBLNTNzWXJwVlAtQ1paTUU1X2RubVpqVW9HRTdhd1M5S2xXd0Z2eUN2ZUdmOTMxdUI0aU9EWA?oc=5\" target=\"_blank\">Ρομά παρίσταναν τους υπαλλήλους του ΔΕΔΔΗΕ και «ρήμαζαν» πολίτες</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">difernews.gr</font>",
-      "published": "Fri, 03 Jul 2026 10:42:04 GMT",
+      "title": "Αστυνομία: 10 συλλήψεις σε οικισμούς Ρομά σε Αργολίδα και Κορινθία - ArgolidaPortal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORU5qLUdsZWZZRzdWYzk4YnBkcVpVYjdNUFUzekhBeUQ2eGlnVVdDZEp0ZHhPcWJBTWEtV2dhdm40Vkp3OVY1V19Xa005Wk8zb1JneHJxcG5mVTRVa3Blc0tfYWFsWFBUUDA3MS10SkJuWm1qZE5hNHFId0ktSmYzVWphR0V6aTUzX0FuaTNOVndISU9vaEVqT3c4a3hwbW1Fb1FkMUo0ZkYxeVpsQ1E?oc=5",
+      "source": "ArgolidaPortal",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORU5qLUdsZWZZRzdWYzk4YnBkcVpVYjdNUFUzekhBeUQ2eGlnVVdDZEp0ZHhPcWJBTWEtV2dhdm40Vkp3OVY1V19Xa005Wk8zb1JneHJxcG5mVTRVa3Blc0tfYWFsWFBUUDA3MS10SkJuWm1qZE5hNHFId0ktSmYzVWphR0V6aTUzX0FuaTNOVndISU9vaEVqT3c4a3hwbW1Fb1FkMUo0ZkYxeVpsQ1E?oc=5\" target=\"_blank\">Αστυνομία: 10 συλλήψεις σε οικισμούς Ρομά σε Αργολίδα και Κορινθία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ArgolidaPortal</font>",
+      "published": "Sat, 04 Jul 2026 06:22:39 GMT",
       "lang": "el"
     },
     {
-      "title": "Δήμος Νάουσας: 322.000 ευρώ για την ένταξη των παιδιών Ρομά - Veriotis",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmFNTUZyM0dkM2xsQTN0cm5DUWlVSHQ3Tzc1ajJuRDlZQU9TdTlzLVBlSVI2X3FITzd2WE1sZUFHemwwdFduX2l0N212Z1pfX2NHTUhyWDNYRlM5c3FmS202U3VoTGVJZHRZdGNjUFYxVGIxWDFxN3ljTjJLRW5feHEtVEI3Vk5QTGhaQmRRM1RLSk1tM2EwZHVn?oc=5",
-      "source": "Veriotis",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmFNTUZyM0dkM2xsQTN0cm5DUWlVSHQ3Tzc1ajJuRDlZQU9TdTlzLVBlSVI2X3FITzd2WE1sZUFHemwwdFduX2l0N212Z1pfX2NHTUhyWDNYRlM5c3FmS202U3VoTGVJZHRZdGNjUFYxVGIxWDFxN3ljTjJLRW5feHEtVEI3Vk5QTGhaQmRRM1RLSk1tM2EwZHVn?oc=5\" target=\"_blank\">Δήμος Νάουσας: 322.000 ευρώ για την ένταξη των παιδιών Ρομά</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Veriotis</font>",
-      "published": "Fri, 03 Jul 2026 07:59:00 GMT",
+      "title": "Εξαρθρώθηκε σπείρα Ρομά για τηλεφωνικές απάτες – Τους πρόδωσε η επίδειξη της λείας τους στα κοινωνικά δίκτυα - Tribune.gr",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWFlvQjhCYkZwUVdaM25IbW80Ui10VUN0Z2NFUnRpQ24tbDFmNjNRX0RYRlk2V1JRdTY2bWQ5bEtTNG9mX3V1QnNlUmNZamhtZVpwRzgyZ1MwTWZaU19GU3JYeXVWSXVGQ1VHMFZRT0ZNQlFpUlpZLUxvZWJjNTJ0TTlrZENRc3JZWHNLMXBxRlRMVnQ3X3JmOF94bFNuSWdueG9fUlZGdXJxZ1JjRWE1dnZnYm9PeVpYS0RidlRTOUFhN2MxQnFueG5ReUdpVXU4bk0xYWJWWlh1RHljVjFPOTQtdzBQUEN1RHNGWm40aWxBNlZQ?oc=5",
+      "source": "Tribune.gr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWFlvQjhCYkZwUVdaM25IbW80Ui10VUN0Z2NFUnRpQ24tbDFmNjNRX0RYRlk2V1JRdTY2bWQ5bEtTNG9mX3V1QnNlUmNZamhtZVpwRzgyZ1MwTWZaU19GU3JYeXVWSXVGQ1VHMFZRT0ZNQlFpUlpZLUxvZWJjNTJ0TTlrZENRc3JZWHNLMXBxRlRMVnQ3X3JmOF94bFNuSWdueG9fUlZGdXJxZ1JjRWE1dnZnYm9PeVpYS0RidlRTOUFhN2MxQnFueG5ReUdpVXU4bk0xYWJWWlh1RHljVjFPOTQtdzBQUEN1RHNGWm40aWxBNlZQ?oc=5\" target=\"_blank\">Εξαρθρώθηκε σπείρα Ρομά για τηλεφωνικές απάτες – Τους πρόδωσε η επίδειξη της λείας τους στα κοινωνι",
+      "published": "Fri, 03 Jul 2026 19:28:59 GMT",
       "lang": "el"
     },
     {
-      "title": "Ο απόλυτος viral γάμος Ρομά: Το ζευγάρι πάει στην εκκλησία με άμαξα - Athens Magazine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjBPb1p0dWhzUFNTX3hDTGs0SzJFNm1IWm9reGdKTUtZRnVndm9LUk1JVDJDZ043WjZCazBXc2oyZHdEai01YkY0eklJMGVMclhuSmF6QXJFV21USzVpSnp5SkcyMXJ0SGxZNm53dS13b29vTDBQTXZzaDU3d0MxS2JvZXpyM2RObUV6dVJFeTlmdElCOUlCZjlvZ0phWjJIb3BEYi03ZjhTRi0xeHlWNzdB?oc=5",
-      "source": "Athens Magazine",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjBPb1p0dWhzUFNTX3hDTGs0SzJFNm1IWm9reGdKTUtZRnVndm9LUk1JVDJDZ043WjZCazBXc2oyZHdEai01YkY0eklJMGVMclhuSmF6QXJFV21USzVpSnp5SkcyMXJ0SGxZNm53dS13b29vTDBQTXZzaDU3d0MxS2JvZXpyM2RObUV6dVJFeTlmdElCOUlCZjlvZ0phWjJIb3BEYi03ZjhTRi0xeHlWNzdB?oc=5\" target=\"_blank\">Ο απόλυτος viral γάμος Ρομά: Το ζευγάρι πάει στην εκκλησία με άμαξα</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Athens Magazine</font>",
-      "published": "Fri, 03 Jul 2026 11:50:42 GMT",
+      "title": "Δήμος Σερρών: Ολοκληρώθηκε το πρόγραμμα προσωπικής ανάπτυξης για ηλικιωμένους - Serres24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalY2Y1BxeEVjcExoWGI0VldLdFhZOVFPMVJJNTBlOXhGRVZPYUJWZk5Id1ZydldmazhIa2lkbVFrSXExUllZWlVmRkhKYkxFQTFvS2RCSjFlSlJ3bC1VNEtJdV84V3UwdnlWM3JkZWlRaWp2R3FGRXpCVHZwZkdEcW5UVUVLZmxObnFxbEtZQXowY0VYa3E4djFuZUdxYkE?oc=5",
+      "source": "Serres24",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPalY2Y1BxeEVjcExoWGI0VldLdFhZOVFPMVJJNTBlOXhGRVZPYUJWZk5Id1ZydldmazhIa2lkbVFrSXExUllZWlVmRkhKYkxFQTFvS2RCSjFlSlJ3bC1VNEtJdV84V3UwdnlWM3JkZWlRaWp2R3FGRXpCVHZwZkdEcW5UVUVLZmxObnFxbEtZQXowY0VYa3E4djFuZUdxYkE?oc=5\" target=\"_blank\">Δήμος Σερρών: Ολοκληρώθηκε το πρόγραμμα προσωπικής ανάπτυξης για ηλικιωμένους</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Serres24</font>",
+      "published": "Sat, 04 Jul 2026 06:11:45 GMT",
       "lang": "el"
     },
     {
-      "title": "Συνελήφθη 49χρονος Ρομά στις Σέρρες: Ήταν μέλος σπείρας που είχε αφαιρέσει καλώδια βάρους 800 κιλών (φωτο) - Pronews.gr",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZHlaOWpwSVJUUU9oNW1GZGdVemE2UFlyUkUzbmpmNDdDOUZtSkZPNG1Gb1ZCYlFyRUpNTEdVV0FyTjZEaDB5Z0xvbVBwV3FJSHR3QUc4VXZWRkRIOU1xRS1sRkp1Yld6WFNVYWt6UXdIakMzb3RKaGdwOTlBVUlTUWlrNThZc3dUOVZSUzJ5NWJxQnNNVTFEY3IyUkc2TXJ1cDJDNU1SNDZBRXdBMW9RWmVNRE5BNW1OS0tSSUFLeEFaME5YTzluak90Z3gzZkF2bGQ1VzhGbWxlTEhJeDFxUDlWU0JibHFjR2ZxUjNucDlSMWVk0gH6AUFVX3lxTE1oUGhybkNIeWx2MEswbk5SLVUwUmVjaEdFUGtsVnMzNGhmQllfeldBeVQtaG83TXlsanN6b2ZiTWlrVnlhWFdkYWJFV3JzNWpfelNrMjh5MEY3LTRPZ3g2X3hDU1E1SVEyY1RkbGNyZWY0X2FacTR1elFZZUdSbzQ5WTdqdEhCcjNHaDNXTEhXX2w4b2c4bE9QMnBYOE9hSXEzZmctTGRiM2FreW4wRUxjTzVSZG5TV2xlTnBXcUM2aTFRLW03RzZOclcwUnpMdi1zQnBvel8zemRjZFFjemlvYVBIMXViakt2dkpIX0J0R3dDQ05tUDdvUnc?oc=5",
+      "title": "Εξαρθρώθηκε σπείρα για τηλεφωνικές απάτες – Τους πρόδωσε η επίδειξη της λείας τους στα κοινωνικά δίκτυα- Σε οικογενειακή υπόθεση είχαν αναγάγει τις τηλεφωνικές απάτες τα μέλη συμμορίας Ρομά- Δύο αδέλφια και πέντε συγγενείς τους φέρονται να είχαν εξα - iliaweb.gr",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNQ2tSaXdIZF9vbkRlMjdkbWpIX0NrX2dWb0hMdE1DLTYwU1FyQUVXbTloTW5sTlhoWEl4UUVsa1NPUGVLVTZLdmFndHd1VjVRU3FTTlc0cTJPQzNrcU1zVXNKN1pwVWthZWVlM1Z4UVdlR2IyN2otUjBXVmxObDF6RUtRUUZjZjVIVUotX1lzLTlnOWF3N1ZvMV9wQ1gwZGtHWEp6WnUxdDk1a2ltT3JKd0g2b21VamZUUWJ5OFY1UUhKTkxNcFlDMXF4YTM0Sk44T2FGbDFHMkFKellxZV9VZEJObzl6OHZIWTRMV1lzYU1CMGhIZUU2djNKTExWR1ExYW1fZGVXMC1Tc0RBMmRkVHhUQ0RtUEE0cjdiTENuVFNVUkwwdHc?oc=5",
+      "source": "iliaweb.gr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxNQ2tSaXdIZF9vbkRlMjdkbWpIX0NrX2dWb0hMdE1DLTYwU1FyQUVXbTloTW5sTlhoWEl4UUVsa1NPUGVLVTZLdmFndHd1VjVRU3FTTlc0cTJPQzNrcU1zVXNKN1pwVWthZWVlM1Z4UVdlR2IyN2otUjBXVmxObDF6RUtRUUZjZjVIVUotX1lzLTlnOWF3N1ZvMV9wQ1gwZGtHWEp6WnUxdDk1a2ltT3JKd0g2b21VamZUUWJ5OFY1UUhKTkxNcFlDMXF4YTM0Sk44T2FGbDFHMkFKellxZV9VZEJObzl6OHZIWTRMV1lzYU1CMGhIZUU2djNKTExWR1ExYW1fZGVXMC1Tc0RBMmRkVHhUQ0RtUEE0cjdiTENuVFNVUkwwdHc?oc=5\" target=\"_blank\">Εξαρθρώθηκε σπείρα για τηλεφωνικ",
+      "published": "Fri, 03 Jul 2026 19:22:19 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Ζάκυνθος: «Γουρούνα» συγκρούστηκε με τουριστικό λεωφορείο – Διασωληνωμένος νεαρός τουρίστας - iliaweb.gr",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSzFVOGR1Tk1TcVlYVEx0Y1Z0RHV2MXNuclVZOFUwOHlHYWVmRmNHZEtWWmI3ZU1RZ002VjhudnJHZFdkV0lYZmJJWlIxakRsaTM4RkswQjlTSkFoMFB1OHJLbXZVeU5VbDZwMHc0MEx1RjNzMTRET2FDb2ZXeWc5V0E2eU1QNzVlOUtIZjNBWWVDRjU1ZVR5emt4eEdlenNfVDBGVEViY0x2T3M?oc=5",
+      "source": "iliaweb.gr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSzFVOGR1Tk1TcVlYVEx0Y1Z0RHV2MXNuclVZOFUwOHlHYWVmRmNHZEtWWmI3ZU1RZ002VjhudnJHZFdkV0lYZmJJWlIxakRsaTM4RkswQjlTSkFoMFB1OHJLbXZVeU5VbDZwMHc0MEx1RjNzMTRET2FDb2ZXeWc5V0E2eU1QNzVlOUtIZjNBWWVDRjU1ZVR5emt4eEdlenNfVDBGVEViY0x2T3M?oc=5\" target=\"_blank\">Ζάκυνθος: «Γουρούνα» συγκρούστηκε με τουριστικό λεωφορείο – Διασωληνωμένος νεαρός τουρίστας</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iliaweb.gr</font>",
+      "published": "Fri, 03 Jul 2026 20:22:26 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Πάτρα: Νέα αιφνιδιαστική έρευνα στις φυλακές Αγίου Στεφάνου – Τι βρήκαν οι σωφρονιστικοί υπάλληλοι - iliaweb.gr",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZWpQQno5WkRtNGx0X09CRVMzZE5oWVdKZEdCZ2czcVU1Q0JQVGNOUXZCakRfbWg2ZGRUeFhOOTVnU3pkVkFsLVNZUnBCQUhub2ZDY085UTJ1dnh6Y2U1WFVlNEtFSFZQekFRX0o3bE5QSTBTaUhENkVtZGNLN3h6cW05UU5ibVRJSTRqcDBfbXJQQ2hIbnBCelFvTTM0LXRiX0NLWU52QWFSbWNsZE1hRkkwUnZVUQ?oc=5",
+      "source": "iliaweb.gr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZWpQQno5WkRtNGx0X09CRVMzZE5oWVdKZEdCZ2czcVU1Q0JQVGNOUXZCakRfbWg2ZGRUeFhOOTVnU3pkVkFsLVNZUnBCQUhub2ZDY085UTJ1dnh6Y2U1WFVlNEtFSFZQekFRX0o3bE5QSTBTaUhENkVtZGNLN3h6cW05UU5ibVRJSTRqcDBfbXJQQ2hIbnBCelFvTTM0LXRiX0NLWU52QWFSbWNsZE1hRkkwUnZVUQ?oc=5\" target=\"_blank\">Πάτρα: Νέα αιφνιδιαστική έρευνα στις φυλακές Αγίου Στεφάνου – Τι βρήκαν οι σωφρονιστικοί υπάλληλοι</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iliaweb.gr</font>",
+      "published": "Fri, 03 Jul 2026 19:50:21 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Σοβαρός τραυματισμός 7χρονου που έπαιζε σε μπάρα ΑμεΑ σε παραλία της Αμφιλοχίας - Pronews.gr",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnR2Zjl1OFRkdHZSRkdDRkFIYkJLbDBCY3FXZS02eHZUUW9pTGp2b05Sb3NEYlFLd05TN2FlNWcxRUhNcXVvUTduOVI4ektab2NOTkdsbEtWZ2RvOFFmaWx1d0xfZVNvckUwNjd1LUw3U3BqQmpZOTdfa1lmU3NMcS1fUHhyOWJNcXVOSno3Tk1HUElqXzNGdVhkSWxpX0Nnc1BNSmI3Q2NmRUFwRld5SUU2ODg4M3pJQ19SREpKVTVWYWdNcU1SVDZMY2RVNHAyQWhRRTR3RE3SAdgBQVVfeXFMTWJ0dmY5dThUZHR2UkZHQ0ZBSGJCS2wwQmNxV2UtNnh2VFFvaUxqdm9OUm9zRGJRS3dOUzdhZTVnMUVITXF1b1E3bjlSOHpLWm9jTk5HbGxLVmdkbzhRZmlsdXdMX2VTb3JFMDY3dS1MN1NwakJqWTk3X2tZZlNzTHEtX1B4cjliTXF1Tkp6N05NR1BJal8zRnVYZElsaV9DZ3NQTUpiN0NjZkVBcEZXeUlFNjg4ODN6SUNfUkRKSlU1VmFnTXFNUlQ2TGNkVTRwMkFoUUU0d0RN?oc=5",
       "source": "Pronews.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZHlaOWpwSVJUUU9oNW1GZGdVemE2UFlyUkUzbmpmNDdDOUZtSkZPNG1Gb1ZCYlFyRUpNTEdVV0FyTjZEaDB5Z0xvbVBwV3FJSHR3QUc4VXZWRkRIOU1xRS1sRkp1Yld6WFNVYWt6UXdIakMzb3RKaGdwOTlBVUlTUWlrNThZc3dUOVZSUzJ5NWJxQnNNVTFEY3IyUkc2TXJ1cDJDNU1SNDZBRXdBMW9RWmVNRE5BNW1OS0tSSUFLeEFaME5YTzluak90Z3gzZkF2bGQ1VzhGbWxlTEhJeDFxUDlWU0JibHFjR2ZxUjNucDlSMWVk0gH6AUFVX3lxTE1oUGhybkNIeWx2MEswbk5SLVUwUmVjaEdFUGtsVnMzNGhmQllfeldBeVQtaG83TXlsanN6b2ZiTWlrVnlhWFdkYWJFV3JzNWpfelNrMjh5ME",
-      "published": "Fri, 03 Jul 2026 10:27:51 GMT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnR2Zjl1OFRkdHZSRkdDRkFIYkJLbDBCY3FXZS02eHZUUW9pTGp2b05Sb3NEYlFLd05TN2FlNWcxRUhNcXVvUTduOVI4ektab2NOTkdsbEtWZ2RvOFFmaWx1d0xfZVNvckUwNjd1LUw3U3BqQmpZOTdfa1lmU3NMcS1fUHhyOWJNcXVOSno3Tk1HUElqXzNGdVhkSWxpX0Nnc1BNSmI3Q2NmRUFwRld5SUU2ODg4M3pJQ19SREpKVTVWYWdNcU1SVDZMY2RVNHAyQWhRRTR3RE3SAdgBQVVfeXFMTWJ0dmY5dThUZHR2UkZHQ0ZBSGJCS2wwQmNxV2UtNnh2VFFvaUxqdm9OUm9zRGJRS3dOUzdhZTVnMUVITXF1b1E3bjlSOHpLWm9jTk5HbGxLVmdkbzhRZmlsdXdMX2VTb3JFMDY3dS1MN1Nwak",
+      "published": "Fri, 03 Jul 2026 19:47:43 GMT",
       "lang": "el"
     },
     {
-      "title": "Μεσολόγγι: Συνελήφθη φυγόδικος για απόπειρα κλοπής - Karvasaras.gr",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByaWhCYTl4eGY5ZXJZQ2RFaURwd2R0NG91MVZJZlFFQmFDcGxod3FiUUJHLUtiMEE0dDUyb3FuUzA1SGlNeThXNTFJQlZ4d19HWWhzaE9sNjhPUDRFWWtYV0hhd1FXdEFaSmQxZ0cxYlN0X1hHMXF6TmhGbVAzUQ?oc=5",
-      "source": "Karvasaras.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFByaWhCYTl4eGY5ZXJZQ2RFaURwd2R0NG91MVZJZlFFQmFDcGxod3FiUUJHLUtiMEE0dDUyb3FuUzA1SGlNeThXNTFJQlZ4d19HWWhzaE9sNjhPUDRFWWtYV0hhd1FXdEFaSmQxZ0cxYlN0X1hHMXF6TmhGbVAzUQ?oc=5\" target=\"_blank\">Μεσολόγγι: Συνελήφθη φυγόδικος για απόπειρα κλοπής</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Karvasaras.gr</font>",
-      "published": "Fri, 03 Jul 2026 10:14:24 GMT",
-      "lang": "el"
+      "title": "55-letni Niemiec oskarżony o zaprzeczanie zbrodniom nazistowskim - wPolityce.pl",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNU83b2JnbHBWWjgxX3VHb0FCN01zZWx0d3BKM1BfS3BMUF9Tck5ENGdIZ1E1bE1JaDFRVHJXZUJJZzFFczVtb25UeDZOR0JZMnFIMEdSeGd5MGdpVGNtR1JQekZYSzBRcGExeUJKNHhwVUhmQWRrSld6UHB4Nkxfc2VWZVhOM05YZUtBVTQ3OFYxLXhlSVdiRk4tcUxoM2JNdmdZ?oc=5",
+      "source": "wPolityce.pl",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNU83b2JnbHBWWjgxX3VHb0FCN01zZWx0d3BKM1BfS3BMUF9Tck5ENGdIZ1E1bE1JaDFRVHJXZUJJZzFFczVtb25UeDZOR0JZMnFIMEdSeGd5MGdpVGNtR1JQekZYSzBRcGExeUJKNHhwVUhmQWRrSld6UHB4Nkxfc2VWZVhOM05YZUtBVTQ3OFYxLXhlSVdiRk4tcUxoM2JNdmdZ?oc=5\" target=\"_blank\">55-letni Niemiec oskarżony o zaprzeczanie zbrodniom nazistowskim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wPolityce.pl</font>",
+      "published": "Fri, 03 Jul 2026 19:31:40 GMT",
+      "lang": "pl"
     },
     {
-      "title": "Djelem Djelem Festival",
-      "url": "https://rroma.org/djelem-djelem-festival-2/?utm_source=rss&utm_medium=rss&utm_campaign=djelem-djelem-festival-2",
-      "source": "https://rroma.org/feed/",
-      "snippet": "The 13th Djelem Djelem Arts and Culture Festival in Dortmund features the Roma Ball concert, celebrating the 10th anniversary of [&#8230;]",
-      "published": "Fri, 03 Jul 2026 14:18:41 +0000",
+      "title": "Resandefolkets dag: Spår av resandefolket i arkiven - Malmö stad",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbUZDbkhLSzBQUHY5R3A2bzM4QVZ4SmE4OWNld1hLX3g1ZThUTThibWFFNXcwOHBmenRlNmw2NUFOUjdFUW1hN2ZaMy1OZG16UjVwOEhCa2RVYzZ1dVF6TmNsQmxDQXFITzBMRzNXVTlOM096akRHWHhmZFNUNC1QYkJ0YXJSdGV0b1ppVmxxeWZXT3RZaTdiQzhnY1d2NGtLMUlHLTNlZXF3NXVRVk96VXFyZktuaUphM1gweUxSUEtvSExFYTVpcm5WTXZxODl0eFZxZnZRcGxlZTE0SkppcGl3cWs2QjRZdUItOGVVcGVIaVlweTYw?oc=5",
+      "source": "Malmö stad",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbUZDbkhLSzBQUHY5R3A2bzM4QVZ4SmE4OWNld1hLX3g1ZThUTThibWFFNXcwOHBmenRlNmw2NUFOUjdFUW1hN2ZaMy1OZG16UjVwOEhCa2RVYzZ1dVF6TmNsQmxDQXFITzBMRzNXVTlOM096akRHWHhmZFNUNC1QYkJ0YXJSdGV0b1ppVmxxeWZXT3RZaTdiQzhnY1d2NGtLMUlHLTNlZXF3NXVRVk96VXFyZktuaUphM1gweUxSUEtvSExFYTVpcm5WTXZxODl0eFZxZnZRcGxlZTE0SkppcGl3cWs2QjRZdUItOGVVcGVIaVlweTYw?oc=5\" target=\"_blank\">Resandefolkets dag: Spår av resandefolket i arkiven</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Malmö ",
+      "published": "Fri, 03 Jul 2026 19:53:53 GMT",
+      "lang": "sv"
+    },
+    {
+      "title": "Niš obeležio godišnjice antifašističke borbe i SUBNOR-a: Naglasak na kulturi sećanja",
+      "url": "https://romaworld.rs/nis-obelezio-godisnjice-antifasisticke-borbe-i-subnor-a-naglasak-na-kulturi-secanja/",
+      "source": "https://romaworld.rs/feed/",
+      "snippet": "<p>U Parku heroja kod spomenika „Iskra slobode“ u Nišu održana je svečanost povodom 85. godišnjice antifašističkog ustanka u Srbiji, 81. godišnjice pobede nad nacizmom i 78 godina postojanja Saveza udruženja boraca narodnooslobodilačkog rata (SUBNOR). U okviru programa „Nećemo zaboraviti niti dozvoliti da se ponovi“, okupljeni su položili vence i odali počast učesnicima Narodnooslobodilačke borbe i [&#8230;]</p>\n<p>Članak <a href=\"https://romaworld.rs/nis-obelezio-godisnjice-antifasisticke-borbe",
+      "published": "Fri, 03 Jul 2026 20:41:05 +0000",
       "lang": ""
     },
     {
-      "title": "Austria and Racism",
-      "url": "https://rroma.org/austria-and-racism-2/?utm_source=rss&utm_medium=rss&utm_campaign=austria-and-racism-2",
-      "source": "https://rroma.org/feed/",
-      "snippet": "The UN special rapporteur on racism, Ashwini K.P., reports that far-right ideologies have entered the mainstream in Austria, highlighting an [&#8230;]",
-      "published": "Fri, 03 Jul 2026 14:17:49 +0000",
-      "lang": ""
-    },
-    {
-      "title": "Legal Aid",
-      "url": "https://rroma.org/legal-aid/?utm_source=rss&utm_medium=rss&utm_campaign=legal-aid",
-      "source": "https://rroma.org/feed/",
-      "snippet": "The Hungarian National Roma Self-Government (MROÖ) has launched a legal aid and information network to support Roma communities, with initial [&#8230;]",
-      "published": "Fri, 03 Jul 2026 14:17:01 +0000",
-      "lang": ""
-    },
-    {
-      "title": "Integration?",
-      "url": "https://rroma.org/integration-3/?utm_source=rss&utm_medium=rss&utm_campaign=integration-3",
-      "source": "https://rroma.org/feed/",
-      "snippet": "A new initiative in Patras aims to support and integrate Roma communities through the establishment of a &#8216;Roma Neighborhood Center&#8217; [&#8230;]",
-      "published": "Fri, 03 Jul 2026 14:16:11 +0000",
-      "lang": ""
-    },
-    {
-      "title": "Discrimination in Montenegro",
-      "url": "https://rroma.org/discrimination-in-montenegro/?utm_source=rss&utm_medium=rss&utm_campaign=discrimination-in-montenegro",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Roma in Montenegro face ongoing challenges, including housing conditions, education access, employment opportunities, and societal prejudices. Activist Shejla Pepić highlights [&#8230;]",
-      "published": "Fri, 03 Jul 2026 14:15:22 +0000",
-      "lang": ""
-    },
-    {
-      "title": "Bulgaria and Roma",
-      "url": "https://rroma.org/bulgaria-and-roma-13/?utm_source=rss&utm_medium=rss&utm_campaign=bulgaria-and-roma-13",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Bulgarian Justice Minister Nikolai Naydenov presented the government&#8217;s commitment to protecting vulnerable groups&#8217; rights to Council of Europe Commissioner for [&#8230;]",
-      "published": "Fri, 03 Jul 2026 14:14:36 +0000",
+      "title": "Koordinaciono telo za prava manjina: Novi mehanizam kontrole, ali bez garancije promena na terenu",
+      "url": "https://romaworld.rs/koordinaciono-telo-za-prava-manjina-novi-mehanizam-kontrole-ali-bez-garancije-promena-na-terenu/",
+      "source": "https://romaworld.rs/feed/",
+      "snippet": "<p>Vlada Srbije osnovala je Koordinaciono telo za praćenje sprovođenja Akcionog plana za ostvarivanje prava nacionalnih manjina za period 2026–2029. godine, uz obrazloženje da će ono unaprediti koordinaciju i efikasnost institucija. Telo će prikupljati i analizirati podatke o sprovođenju mera, organizovati sastanke sa nadležnim institucijama, usvajati preporuke za unapređenje politika i razmatrati polugodišnje izveštaje o rezultatima. [&#8230;]</p>\n<p>Članak <a href=\"https://romaworld.rs/koordin",
+      "published": "Fri, 03 Jul 2026 20:09:53 +0000",
       "lang": ""
     }
   ]
