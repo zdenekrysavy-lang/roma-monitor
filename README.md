@@ -7,21 +7,22 @@ hotový přehled e-mailem.
 
 ## Dva režimy
 
-- **Režim A – plný pipeline (`main.py`).** Sběr → třídění/shrnutí přes Anthropic
-  API → e-mail. Vše řídí kód, výstup je konzistentní. Vyžaduje API klíč (drobný
-  pay-as-you-go náklad).
-- **Režim B – feed pro ChatGPT (`gather.py`).** Aplikace jen NASBÍRÁ kandidáty
-  a publikuje je jako veřejný JSON. Třídění a česká shrnutí dělá tvůj naplánovaný
-  agent v ChatGPT (kryto předplatným, bez API poplatků). Návod: `chatgpt_task.md`.
-
-Níže popsaný tok platí pro režim A; režim B je jeho první polovina bez AI kroku.
+- **Režim B – feed pro ChatGPT (`gather.py`) — NASAZENÝ, AKTIVNÍ.** Aplikace
+  jen NASBÍRÁ kandidáty a publikuje je jako veřejný JSON na
+  `https://raw.githubusercontent.com/zdenekrysavy-lang/roma-monitor/main/feed/candidates.json`.
+  Třídění a česká shrnutí dělá naplánovaný agent v ChatGPT (kryto předplatným,
+  bez API poplatků). Prompt a návod: `chatgpt_task.md`.
+- **Režim A – plný pipeline (`main.py`) — připravený, vypnutý.** Sběr →
+  třídění/shrnutí přes Anthropic API → e-mail. Vyžaduje API klíč (drobný
+  pay-as-you-go náklad); cron v `digest.yml` je zakomentovaný.
 
 ## Jak to funguje
 
 ```
-Google News RSS (11 jazyků)  ┐
-GDELT (globální, vícejazyčný) ├─►  dedup  ─►  Claude (třídí + shrnuje)  ─►  HTML e-mail
-vlastní RSS feedy (volitelné) ┘
+Google News RSS (15 jazyků)     ┐
+GDELT (globální, vícejazyčný)    ├─► dedup ─► seen.json ─► feed (B) / Claude+e-mail (A)
+13 romských RSS feedů            │
+10 webů bez feedu (GN site:)     ┘
 ```
 
 - **Sběr** je zdarma a bez klíčů (Google News RSS, GDELT).
@@ -33,7 +34,8 @@ vlastní RSS feedy (volitelné) ┘
 1. **API klíč Anthropic** – z <https://console.anthropic.com> → *API Keys*.
    Pozor: účtuje se zvlášť (pay-as-you-go), **není součástí Claude Pro**.
    Náklady jsou nízké – Claude dostává jen titulky a krátké úryvky.
-   Pro další úsporu přepni `CLAUDE_MODEL` na `claude-haiku-4-5-20251001`.
+   Výchozí model je `claude-sonnet-5`; pro další úsporu přepni
+   `CLAUDE_MODEL` na `claude-haiku-4-5-20251001`.
 2. **SMTP přístup** pro odesílání e-mailu (např. schránka na romea.cz).
 3. **Účet na GitHubu** (kvůli bezplatnému plánovači GitHub Actions).
 
@@ -61,11 +63,13 @@ Bez vyplněného SMTP se přehled jen vypíše do konzole – ideální pro prvn
 ## Úpravy
 
 - **Zdroje / jazyky:** `config.py` → `GOOGLE_NEWS_QUERIES`. Přidej řádek
-  `('<dotaz>', '<jazyk>', '<země>')` pro další jazyk.
+  `('<dotaz>', '<jazyk>', '<země>')` — ale jen pro jazyky s jednoznačným
+  termínem pro Romy (jinak dotaz zaplaví AS Roma / město Řím; takové jazyky
+  nech na GDELT).
 - **Přidání zdroje (web/feed):** `config.py`, sekce „TVOJE ZDROJE".
-  Má-li web RSS feed → přidej jeho URL do `RSS_FEEDS`. Nemá feed (nebo nevíš)
-  → přidej jen doménu do `WATCH_SITES` (pipeline si sama udělá dotaz přes
-  Google News na tu doménu). Předvyplněno: `rroma.org` (feed) a `errc.org` (web).
+  Má-li web RSS feed → přidej `(URL_feedu, 'jazyk')` do `RSS_FEEDS`. Nemá
+  feed → přidej `('doména', 'jazyk', 'země')` do `WATCH_SITES` (pipeline se
+  zeptá Google News na tu doménu ve správném jazyce).
 - **Pravidla třídění a shrnutí:** prompt `SYSTEM` v `analyze.py`.
 - **Vzhled e-mailu:** `render.py`.
 - **Frekvence:** cron v `digest.yml` (přidej/uber řádky `- cron:`).
@@ -83,8 +87,10 @@ Bez vyplněného SMTP se přehled jen vypíše do konzole – ideální pro prvn
 
 ## Poznámky
 
-- Okno `LOOKBACK_HOURS=13` mírně přesahuje 12h kadenci, aby nevypadly zprávy
-  na hraně mezi běhy. Drobné překryvy řeší dedup; pro tvrdou ochranu proti
-  opakování lze doplnit perzistentní seznam již viděných URL.
+- Okna: Google News `LOOKBACK_HOURS=13`; GDELT a romské feedy/weby 72 h
+  (GDELT má děravé čerstvé okno, malé weby publikují řídce). Opakování mezi
+  běhy hlídá perzistentní `state/seen.json` (TTL 14 dní) – feed obsahuje
+  jen NOVÉ zprávy, prázdný feed je normální stav.
 - GDELT i Google News mají proměnlivou dostupnost; pipeline je odolný –
-  když jeden zdroj selže, ostatní pokračují.
+  když jeden zdroj selže, ostatní pokračují a stav se propíše do pole
+  `sources` ve feedu (`gdelt_status`, `gdelt_note`, `google_news_status`).

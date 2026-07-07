@@ -6,6 +6,7 @@ Na GitHub Actions:  běží automaticky podle cronu v .github/workflows/digest.y
 import datetime as dt
 
 import fetch
+import gather      # kvůli sdílenému seen.json (perzistentní dedup mezi běhy)
 import analyze
 import render
 import notify
@@ -14,9 +15,11 @@ import notify
 def run() -> None:
     print("1/4 Sbírám kandidátské články…")
     items = fetch.collect()
-    print(f"     kandidátů: {len(items)}")
+    seen = gather.load_seen()
+    items, skipped = gather.filter_unseen(items, seen)
+    print(f"     kandidátů: {len(items)} nových ({skipped} už viděno dřív)")
     if not items:
-        print("Žádní kandidáti, končím.")
+        print("Žádní noví kandidáti, končím.")
         return
 
     print("2/4 Analyzuji a třídím přes Claude…")
@@ -31,6 +34,9 @@ def run() -> None:
     subject = (f"Romové ve světě: {len(results)} zpráv "
                f"({n_high} klíčových) – {dt.datetime.now():%d.%m. %H:%M}")
     notify.send(subject, html_body)
+    # seen ukládáme až po úspěšném odeslání – při pádu se zprávy neztratí,
+    # příští běh je zkusí znovu.
+    gather.save_seen(seen)
     print("Hotovo.")
 
 

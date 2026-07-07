@@ -167,7 +167,7 @@ def fetch_gdelt() -> tuple:
     return [], status, last_note
 
 
-def fetch_feed(url: str) -> list:
+def fetch_feed(url: str, lang: str = "") -> list:
     items = []
     try:
         feed = feedparser.parse(url)
@@ -185,7 +185,7 @@ def fetch_feed(url: str) -> list:
             "source":    _entry_source(e) or url,
             "snippet":   (e.get("summary", "") or "")[:500],
             "published": e.get("published", ""),
-            "lang":      "",
+            "lang":      lang,
         })
     return items
 
@@ -249,8 +249,8 @@ def collect() -> list:
     gn = fetch_google_news()
     gd, gd_status, gd_note = fetch_gdelt()
     feed_items = []
-    for f in config.RSS_FEEDS:
-        feed_items += fetch_feed(f)
+    for f, flang in config.RSS_FEEDS:
+        feed_items += fetch_feed(f, flang)
     watch = fetch_watch_sites()
 
     merged = gn + gd + feed_items + watch

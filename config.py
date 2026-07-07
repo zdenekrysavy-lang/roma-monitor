@@ -19,7 +19,7 @@ FEED_LOOKBACK_HOURS = int(os.getenv("FEED_LOOKBACK_HOURS", "72"))
 # Perzistence „už viděných" URL mezi běhy (commituje ji workflow do repa).
 SEEN_PATH     = os.getenv("SEEN_PATH", "state/seen.json")
 SEEN_TTL_DAYS = int(os.getenv("SEEN_TTL_DAYS", "14"))   # po té době záznam vyprší
-CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-6")  # levnější varianta: claude-haiku-4-5-20251001
+CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-5")  # levnější varianta: claude-haiku-4-5-20251001
 
 # --- Google News RSS: (dotaz, jazyk hl, země gl) ---
 # Pro každý jazyk vlastní dotaz s lokálními termíny pro "Romové".
@@ -89,36 +89,38 @@ GDELT_BACKOFF  = int(os.getenv("GDELT_BACKOFF", "8"))   # základ prodlevy v s (
 # Máš dvě možnosti podle toho, co web nabízí:
 #
 # 1) RSS_FEEDS – web má vlastní RSS/Atom feed (často URL končí /feed/ nebo /rss).
-#    Přidáš celou adresu feedu. Nejspolehlivější, nejrychlejší.
+#    Přidáš dvojici (adresa feedu, jazyk obsahu). Nejspolehlivější, nejrychlejší.
 #
-# 2) WATCH_SITES – web feed nemá (nebo nevíš). Přidáš jen doménu a pipeline
-#    si sama vytvoří dotaz přes Google News omezený na tu doménu + romská
-#    klíčová slova. Pohodlné, ale závisí na tom, co Google z webu indexuje.
+# 2) WATCH_SITES – web feed nemá (nebo nevíš). Přidáš (doménu, jazyk, zemi)
+#    a pipeline si sama vytvoří dotaz přes Google News omezený na tu doménu.
+#    Pohodlné, ale závisí na tom, co Google z webu indexuje.
 #
 # Když si nejsi jistý, dej web do WATCH_SITES – vždycky to nějak zabere.
 
+# Formát: (URL feedu, jazyk obsahu) – jazyk putuje do feedu, ať ChatGPT agent
+# ví, v jakém jazyce položka je (dřív měly feedové položky lang prázdný).
 RSS_FEEDS = [
     # — Nadnárodní / agregátory —
-    "https://rroma.org/feed/",                                  # Rroma Foundation – hutný denní agregátor
-    "https://rroma.org/category/news-eastern-europe/feed/",     # Rroma – východní Evropa
-    "https://rroma.org/category/news-western-europe/feed/",     # Rroma – západní Evropa
-    "https://eriac.org/feed/",                                  # ERIAC – umění, kultura, akce, instituce
+    ("https://rroma.org/feed/",                                  "en"),  # Rroma Foundation – hutný denní agregátor
+    ("https://rroma.org/category/news-eastern-europe/feed/",     "en"),  # Rroma – východní Evropa
+    ("https://rroma.org/category/news-western-europe/feed/",     "en"),  # Rroma – západní Evropa
+    ("https://eriac.org/feed/",                                  "en"),  # ERIAC – umění, kultura, akce, instituce
     # — Ukrajina —
-    "https://chirikli.com.ua/en/news/feed/",                    # Chirikli / Roma Women's Fund (EN)
+    ("https://chirikli.com.ua/en/news/feed/",                    "en"),  # Chirikli / Roma Women's Fund (EN sekce)
     # — Srbsko / Balkán —
-    "https://rominfomedia.rs/feed/",                            # Rom Info Media (jih Srbska, Leskovac)
-    "https://romaworld.rs/feed/",                               # Romaworld (RS)
-    "https://roma-news.com/feed/",                              # Roma News Network (RS/balkán) – pozn. obsah nyní starší
+    ("https://rominfomedia.rs/feed/",                            "sr"),  # Rom Info Media (jih Srbska, Leskovac)
+    ("https://romaworld.rs/feed/",                               "sr"),  # Romaworld (RS)
+    ("https://roma-news.com/feed/",                              "sr"),  # Roma News Network (RS/balkán) – pozn. obsah nyní starší
     # — Chorvatsko —
-    "https://kalisara.hr/feed/",                                # Kali Sara / SRRH – pozn. obsah nyní starší (poslední 6/2025)
+    ("https://kalisara.hr/feed/",                                "hr"),  # Kali Sara / SRRH – pozn. obsah nyní starší (poslední 6/2025)
     # — Severní Makedonie —
-    "https://romatimes.news/index.php/en?format=feed&type=rss", # RomaTimes.News (MK/balkán, EN) – pozn. obsah nyní starší
+    ("https://romatimes.news/index.php/en?format=feed&type=rss", "en"),  # RomaTimes.News (MK/balkán, EN) – pozn. obsah nyní starší
     # — Slovensko —
     # Pozn.: romatv.sk má vlastní /feed/ PRÁZDNÝ (obsah je ve vlastních typech,
     # REST API blokuje 403) → přesunut do WATCH_SITES (Google News site:).
-    "https://romanoforum.dennikn.sk/feed/",                     # Romano fórum (Denník N) – aktivní, kvalitní
-    "https://romana.tv/feed/",                                  # Romana TV (video/podcast)
-    "https://www.tvroma.sk/feed/",                              # TV Roma – pozn. obsah nyní starší
+    ("https://romanoforum.dennikn.sk/feed/",                     "sk"),  # Romano fórum (Denník N) – aktivní, kvalitní
+    ("https://romana.tv/feed/",                                  "sk"),  # Romana TV (video/podcast)
+    ("https://www.tvroma.sk/feed/",                              "sk"),  # TV Roma – pozn. obsah nyní starší
 ]
 
 WATCH_SITES = [

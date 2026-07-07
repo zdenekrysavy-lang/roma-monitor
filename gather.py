@@ -101,7 +101,6 @@ def run() -> None:
     # znovu neposíláme (řídké feedy mají delší okno a překrývaly by se).
     seen = load_seen()
     items, skipped = filter_unseen(items, seen)
-    save_seen(seen)
     stats["skipped_seen"] = skipped
 
     print(f"Kandidátů: {len(items)} nových ({skipped} už viděno dřív)  "
@@ -109,6 +108,9 @@ def run() -> None:
           f"GDELT {stats.get('gdelt', 0)}/{stats.get('gdelt_status', '?')}, "
           f"feedy {stats.get('feeds', 0)}, watch {stats.get('watch', 0)})")
     jp, mp = write_feed(items, stats)
+    # seen ukládáme až PO úspěšném zápisu feedu – kdyby zápis spadl,
+    # články nesmí zůstat označené jako „viděné", aniž byly publikovány.
+    save_seen(seen)
     print(f"Uloženo: {jp} a {mp}")
 
 

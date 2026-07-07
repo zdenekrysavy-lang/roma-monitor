@@ -11,7 +11,11 @@ import config
 
 client = anthropic.Anthropic()  # bere ANTHROPIC_API_KEY z prostředí
 
-BATCH_SIZE = 40
+# Menší dávka + rezerva v max_tokens: 40 položek s českými shrnutími se do
+# 4000 tokenů vešlo jen tak tak – uříznutý JSON pak tiše zahodil celou dávku.
+BATCH_SIZE = 25
+MAX_TOKENS = 8000
+RETRIES    = 2   # pokusy na dávku (API chyba i nevalidní JSON)
 
 SYSTEM = """Jsi editor zpravodajství specializovaný na témata romské menšiny ve světě.
 Dostaneš JSON seznam kandidátských článků (titulek, zdroj, jazyk, úryvek).
@@ -51,18 +55,23 @@ def _analyze_batch(items: list, offset: int) -> list:
         "snippet": it.get("snippet", ""),
     } for i, it in enumerate(items)]
 
-    msg = client.messages.create(
-        model=config.CLAUDE_MODEL,
-        max_tokens=4000,
-        system=SYSTEM,
-        messages=[{"role": "user", "content": json.dumps(payload, ensure_ascii=False)}],
-    )
-    text = "".join(b.text for b in msg.content if b.type == "text")
-    try:
-        return json.loads(_strip_fences(text))
-    except Exception as ex:
-        print(f"  JSON parse chyba: {ex}")
-        return []
+    for attempt in range(RETRIES):
+        try:
+            msg = client.messages.create(
+                model=config.CLAUDE_MODEL,
+                max_tokens=MAX_TOKENS,
+                system=SYSTEM,
+                messages=[{"role": "user",
+                           "content": json.dumps(payload, ensure_ascii=False)}],
+            )
+            text = "".join(b.text for b in msg.content if b.type == "text")
+            return json.loads(_strip_fences(text))
+        except Exception as ex:
+            # API chyba i nevalidní JSON – jednou zopakujeme, pak dávku vzdáme
+            # (přijít o 25 kandidátů je lepší než shodit celý běh).
+            print(f"  Dávka {offset}–{offset + len(items) - 1}, "
+                  f"pokus {attempt + 1}/{RETRIES} selhal: {ex}")
+    return []
 
 
 def analyze(items: list) -> list:
