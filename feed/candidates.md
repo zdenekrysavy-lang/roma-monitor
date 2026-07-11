@@ -1,346 +1,343 @@
-# Kandidáti — 2026-07-11T07:10:39+00:00 (105 položek)
+# Kandidáti — 2026-07-11T16:01:30+00:00 (102 položek)
 
-_Zdroje: Google News 29 · GDELT 250 (ok) · feedy 30 · watch 1_
+_Zdroje: Google News 35 · GDELT 250 (ok) · feedy 29 · watch 1_
 
-1. **Italy industrial output ends three-month positive streak with May fall - MSN** — MSN [en]
-   https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnp2R2dWekE2V21xSDVIejNmYTNTcVdxZ2RCOWVRTkZIY19YbjkzMmNCZER4V2VkZVI3bGtZdkVzQWlGNUU1SnJoY20yc3FBUzAzXzNqQk5pa084R2FrSlZwOGo3NGxScUV2Y2hwNDl3YlZubDFPeHU3LTMxMXVWWnlxWHNWazloRHM1amVBZzdVbnJORExsbGJrWWJ2bFZkc1ZMQ0d1Y3d3MjRCU2szYnUxZDdBZ3MwQlYyREE1aw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnp2R2dWekE2V21xSDVIejNmYTNTcVdxZ2RCOWVRTkZIY19YbjkzMmNCZER4V2VkZVI3bGtZdkVzQWlGNUU1SnJoY20yc3FBUzAzXzNqQk5pa084R2FrSlZwOGo3NGxScUV2Y2hwND
+1. **History, culture, and challenges of the Romani people - MSN** — MSN [en]
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnNrYkNNRW5nbXR3bUh6Y2lDdVRsZlRVUjJWdTljbFFCWVkzTG1GVWxNbTJUTF96cHNNX3BjcGZiem1SbWRDMGRBWWFPUXRsa0ZUQzJON1hITjBYXzNSWmlvcmZvcTdzZ0hWWHhsMmZwVU0tODlmNzNaczVWM3ZpbS1BN2dVLUlvOW5LRm1TSEg4UGEyNGZUUWNRLWt3WU9X?oc=5
+   <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnNrYkNNRW5nbXR3bUh6Y2lDdVRsZlRVUjJWdTljbFFCWVkzTG1GVWxNbTJUTF96cHNNX3BjcGZiem1SbWRDMGRBWWFPUXRsa0ZUQzJON1hITjBYXzNSWmlvcmZvcTdzZ0hWWHhsMm
 
-2. **NNS acquires shares in OCI - Il Giornale dei Castelli Romani** — Il Giornale dei Castelli Romani [en]
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE9TclFwd3hTQUp4ZEJWWWItWkttVWQ5cEJuLU11aEs5dkNEdWtKWTY0LTNvWFdjZzVSbHctRFRDaFV1UnNETGdQYTV5Zm4wMG5kWU1FN3RhQi1QeTlmVzBMRml5SVJPVUdUd2t0TzExRG5JT2lPWDc3MGg4Zw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE9TclFwd3hTQUp4ZEJWWWItWkttVWQ5cEJuLU11aEs5dkNEdWtKWTY0LTNvWFdjZzVSbHctRFRDaFV1UnNETGdQYTV5Zm4wMG5kWU1FN3RhQi1QeTlmVzBMRml5SVJPVUdUd2t0TzExRG
+2. **Viccek: Két cigány Egyiptomba megy nyaralni. Első nap… - Bikuci.hu** — Bikuci.hu [hu]
+   https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmdQdFVJd3Q1dDZDbDlqN3d3Sldrck5kSlMzMGtSc1dxaEdOLURxOEV5cTMwOURnQU16X3JSTElZZTl3NGN6TWFvd2YtQ3c0LUZCbDhSV2RHTjdibXd2TFFnUTBOSTkzSDNMVXU0X2IwYjcyUFFXMUhWeGVzd0JRaWxB?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmdQdFVJd3Q1dDZDbDlqN3d3Sldrck5kSlMzMGtSc1dxaEdOLURxOEV5cTMwOURnQU16X3JSTElZZTl3NGN6TWFvd2YtQ3c0LUZCbDhSV2RHTjdibXd2TFFnUTBOSTkzSDNMVXU0X2
 
-3. **OPTIMA Batteries Powers RUF Boxer 8 Prototype at the 2026 Goodwood Festival of Speed - Il Giornale dei Castelli Romani** — Il Giornale dei Castelli Romani [en]
-   https://news.google.com/rss/articles/CBMixgFBVV95cUxNam11RzJxX0M5UmlTSGFxM0MxQmo5YjQ5OVluQ1hiWHBMVUQ5eXRqckxodWJjTG1NSHBaVkpOSTVmM2EtVEZvdTBQb2NFeG12SDRzdHZOSl90dTNDS3k2QTREWU5oVndqU1lzdU8wUUJSdHdMWmozcDlSeE5aVHRhYjl2OW9ZcUQxM2llT2Fma2ZGYk03OEhidnptTVhSVHNDMVhpS09IZjNNNEhmLUpFTUFVRXlwZ1BJMTJNQ1VDX25nTXZZVmc?oc=5
-   <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNam11RzJxX0M5UmlTSGFxM0MxQmo5YjQ5OVluQ1hiWHBMVUQ5eXRqckxodWJjTG1NSHBaVkpOSTVmM2EtVEZvdTBQb2NFeG12SDRzdHZOSl90dTNDS3k2QTREWU5oVndqU1lzdU8wUU
+3. **VIDEO | Timotei Onoriu: Nu se poate scăpa de eticheta de „țigan” în România - Mediafax** — Mediafax [ro]
+   https://news.google.com/rss/articles/CBMivgFBVV95cUxPVURmZlhsblFaWlJnQ3JxN3NEbl9sXzRJNFM3TXR0eWdLeHBfcEVGR3FhVC1MSFc1REMxcjNfZWVEbVU2ejh1QkVVcGJVUUgyY25kdF9hVlBxaFgwMnpRNDBNTEtqeDNCbkgwUGxBOWxwRWl6bjlHNWhpM2FnU3BPQVR1NEIzekgyRlNHQlltZGlKTEw0QnJEQmFrWVlWWjgwV1dwc29Rck4tbVJqSkZlRWJ3eGtDQUVjbGMwME1B0gG-AUFVX3lxTE9VRGZmWGxuUVpaUmdDcnE3c0RuX2xfNEk0UzdNdHR5Z0t4cF9wRUZHcWFULUxIVzVEQzFyM19lZURtVTZ6OHVCRVVwYlVRSDJjbmR0X2FWUHFoWDAyelE0ME1MS2p4M0JuSDBQbEE5bHBFaXpuOUc1aGkzYWdTcE9BVHU0QjN6SDJGU0dCWW1kaUpMTDRCckRCYWtZWVZaODBXV3Bzb1FyTi1tUmpKRmVFYnd4a0NBRWNsYzAwTUE?oc=5
+   <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPVURmZlhsblFaWlJnQ3JxN3NEbl9sXzRJNFM3TXR0eWdLeHBfcEVGR3FhVC1MSFc1REMxcjNfZWVEbVU2ejh1QkVVcGJVUUgyY25kdF9hVlBxaFgwMnpRNDBNTEtqeDNCbkgwUGxBOW
 
-4. **Viccek: – Hogy hívják a cigány börtönt?-… - Bikuci.hu** — Bikuci.hu [hu]
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE1lM1NlUE84M1hsNjRINGM3STlQTDdLeUxlSU5WRWdodk1FbkJsd28ydWprcnRKS1hoVXhJLTZBZkF6anc2eXZSQTRnRUx0U1VaVnRfWWNoWlRJWEtScUVPbVJVM3NvZEh6U1c4dw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1lM1NlUE84M1hsNjRINGM3STlQTDdLeUxlSU5WRWdodk1FbkJsd28ydWprcnRKS1hoVXhJLTZBZkF6anc2eXZSQTRnRUx0U1VaVnRfWWNoWlRJWEtScUVPbVJVM3NvZEh6U1c4dw?oc=
+4. **Tabăra de romi din România, ridicată ilegal lângă Madrid, a fost demolată. "Rezidenții" s-au mutat însă la 100 de metri distanță - StiriDiaspora** — StiriDiaspora [ro]
+   https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTU5rM2VDaGo5NnZweUdnMF9SWlN6eEVkZVVFcGZEamF3b2MwY3hBcVlmNExpNGVfYzFHbkpqLWlNeFFlQUctNTR4TVJSR2FnWVJfS0kzVERCQ0QybWxtN1BrRWVnS2dvUXd0UWZyNktvS0RRUUpBcTFMVGtSNUNQakV3NVlhZ3hvQk5SVm1aN2ZpVmloZ3JuLWY2Yjg2YjctRVdYNkhZRi0taTZuaU51THROS1JwSEVFMnBmSDAxNHFQdm1MbnZHbEc3eGNBTW5aSERMVGFidElSWEhlakpINGloeE4xcEQtRl9hZUFrQVNUamFpQnY4?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTU5rM2VDaGo5NnZweUdnMF9SWlN6eEVkZVVFcGZEamF3b2MwY3hBcVlmNExpNGVfYzFHbkpqLWlNeFFlQUctNTR4TVJSR2FnWVJfS0kzVERCQ0QybWxtN1BrRWVnS2dvUXd0UWZyNk
 
-5. **Occupations illicites de Roms et Gens du voyage : un vrai cauchemar économique pour les entrepreneurs nantais - Le Figaro** — Le Figaro [fr]
-   https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOHVoRDZNVGlEQnRGZlEzYlk5elEyeXFpM0hQWlZySTBYa3dydjFvYWt6VkxGZVFmZTFNc3NqMjZQbDVURXVORlh0NGU1bnpDeHJVd2lKTE4wVWJBckJOdFJWeGhYLU5uTWVLVWhMU3ZDNWRtc01mV25xd0Q1ZVpMd1B4cVdWLUtMZGlJd3MzVS05eTBzRWJwaUNLZ1BRMDFFNE51c0RIeGdHZVRQbXJNZXJPanNKOE41YTFFRVZHa1dxSWRSSmpadXY0RnVRbjJTOUszdi1BZTU1cTY0V0lwVQ?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOHVoRDZNVGlEQnRGZlEzYlk5elEyeXFpM0hQWlZySTBYa3dydjFvYWt6VkxGZVFmZTFNc3NqMjZQbDVURXVORlh0NGU1bnpDeHJVd2lKTE4wVWJBckJOdFJWeGhYLU5uTWVLVWhMU3
+5. **Bărbatul mort în accidentul de la Cuneo e român. Constantin avea 46 de ani - StiriDiaspora** — StiriDiaspora [ro]
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkI1S0pwTXh1U3lBdDJBaXF1Um9PZWVIMm1rbER0eHFLREMtUlpIRWpVYjVxX1FvTEl4Mk9ZaGtJWlp2d01fVnZ6SlFQVGpqQkY5YktLNFp4SmNUTkxrVWk2RnJuOFdyampBRk9kNXQ0MWlPZzN3aEZvNEhxTFVMTldERFlfRWF4QlJrc1FxdUtpbmZpd3Bwcm1FZEZ1ZFd3QWFjTVFhbW5fSGpXUllWY0FFU2nSAboBQVVfeXFMTW8xejMyeHlBQUhFS0RzeFRqcWNvRXBld2hWaHZURkhCajNueVlCdlEyZ2NTbi0xbkNneG9XWlF2emhLYVlqdlFUbHhzcVo1V1RUVW1QLVRacnNYbVRkczB4bDFMUHkydU5vUHBSVVFHUkdqSlg3eDJDNjRhdlUyVXg5SkY4UzhkUDE5U25RT19UTXBmVXZiUkI0RmIwWkpnTmNISjZoX2RXTWNiWGhPdHBUaDNDcDVGQ2Rn?oc=5
+   <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkI1S0pwTXh1U3lBdDJBaXF1Um9PZWVIMm1rbER0eHFLREMtUlpIRWpVYjVxX1FvTEl4Mk9ZaGtJWlp2d01fVnZ6SlFQVGpqQkY5YktLNFp4SmNUTkxrVWk2RnJuOFdyampBRk9kNX
 
-6. **Une trentaine de familles de gens du voyage relogées à Lure après l'incendie sur leur aire d'accueil - ici.fr** — ici.fr [fr]
-   https://news.google.com/rss/articles/CBMihAJBVV95cUxQLXZwR19uYkdnUWVfa3NVWkNqU2l0SzQ3RmZlclZzb2xvRWhwckpEUjVFSnFPSWtBbU8wLVd4X2VrU2UybXByT1JDZG5PbG9kOUVHSFRfRlpGMzNZQjJLSEhFNkFlSHQ0ejdNTm9pYlBqdFZObFQ0bmh5eDNTWk4wTllhbTkyclJobHB4UG9Wa29JcjhUdzl0bndKaG9rY1dfNDQ3UEtBQUN2WWVnRkNEVEJEdnNGWm5pWFNSLUExU1FuRlluaUdGUkpvbmhoMmVaYWJ2emdVXzQzMlJieEVmVTFQVWhLRXJLQ1h0bDNQcnF0SkNsZHZtRUNYdldqWDBMNHlMbw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxQLXZwR19uYkdnUWVfa3NVWkNqU2l0SzQ3RmZlclZzb2xvRWhwckpEUjVFSnFPSWtBbU8wLVd4X2VrU2UybXByT1JDZG5PbG9kOUVHSFRfRlpGMzNZQjJLSEhFNkFlSHQ0ejdNTm9pYl
+6. **La Asociación Cultural del Pueblo Gitano de La Isla muestra su respeto a las víctimas de Los Gallardos - Diario de Cádiz** — Diario de Cádiz [es]
+   https://news.google.com/rss/articles/CBMiowFBVV95cUxNR19BZ1ZLby1RcjIzYi00ek93dHF0VldDOVhxRXZUa1pvbi12WXJROWRQTVQwdnljdHBnN1RsTTVVVXY2SjE2dTFmTnhFQndJQ1Z5WVV0anhrSDBNV3EydFpZWGNkU0VpNFExeE5KclRMbDVLSGdWT0ltQlZNSG5EWDdmRUZsb3Qtc2t1aW0xN3g3SHkxUWZYdjd5WUNnalQ0WWZV0gGjAUFVX3lxTE1HX0FnVktvLVFyMjNiLTR6T3d0cXRWV0M5WHFFdlRrWm9uLXZZclE5ZFBNVDB2eWN0cGc3VGxNNVVVdjZKMTZ1MWZOeEVCd0lDVnlZVXRqeGtIME1XcTJ0WllYY2RTRWk0UTF4TkpyVExsNUtIZ1ZPSW1CVk1IbkRYN2ZFRmxvdC1za3VpbTE3eDdIeTFRZlh2N3lZQ2dqVDRZZlU?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNR19BZ1ZLby1RcjIzYi00ek93dHF0VldDOVhxRXZUa1pvbi12WXJROWRQTVQwdnljdHBnN1RsTTVVVXY2SjE2dTFmTnhFQndJQ1Z5WVV0anhrSDBNV3EydFpZWGNkU0VpNFExeE5Kcl
 
-7. **Un campement de gens du voyage met en colère des riverains à Lyon : "Des enfants sont livrés à eux-même" - Actu.fr** — Actu.fr [fr]
-   https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR2FfQTR5LTV5M0Z6SjRnX3NtS0poVFZGSXJjSGxwTlJRMkw0UlNFNGNqWkhXc083VDk1STl0SXozNUJYWGFWR1l1cTFKVExpeDZPT2lmVUFYcVN1c0lMYTBEczZLdmZlU0V0NVI5Ri1NTnRFaDZLQU0tSWhEREpTTnZUR0FtbDI5SUNhWGoybng5eGlhb1BlalJpRFowVDI1QnNHcEFoU3RxcDFxS2VoaE5BOGdNRFJfUkx5VWVqYzlfeF8tckhtbjJVemVUZVQ5OUhuUTBWLTNfNkZtQ3hBMHFUcjhjWTFjdkRFWFNLRGtrZEtV?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR2FfQTR5LTV5M0Z6SjRnX3NtS0poVFZGSXJjSGxwTlJRMkw0UlNFNGNqWkhXc083VDk1STl0SXozNUJYWGFWR1l1cTFKVExpeDZPT2lmVUFYcVN1c0lMYTBEczZLdmZlU0V0NVI5Ri
+7. **CF Tramontana, las chicas gitanas que golean prejuicios en cada partido - naiz:** — naiz: [es]
+   https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTRIcFc3c05XTlgwcEw5WnFvaGNNQVh6R0NYekwzQ1FlQ25Tdjc2a29jVHpFa0w2VVpsRHFRUFVHSEZrcVpfc3VZWTQ3N2J4QkF1OGh2cVRPazZSUjd1anp5VE04VmR2RmZUc2hhZGN6SWtfYng0S3VXMVdJV0p2UDNkUkpjX0JfTkRjaTRVa3dGZ0ZTblRTU3ZGdGJRcTZ5UDB5cmhfSW8xVHJkRTdwMmJTbWRTdWxZ0gG4AUFVX3lxTFBZNEhwVzdzTldOWDBwTDlacW9oY01BWHpHQ1h6TDNDUWVDblN2NzZrb2NUekVrTDZVWmxEcVFQVUdIRmtxWl9zdVlZNDc3YnhCQXU4aHZxVE9rNlJSN3VqenlUTThWZHZGZlRzaGFkY3pJa19ieDRLdVcxV0lXSnZQM2RSSmNfQl9ORGNpNFVrd0ZnRlNuVFNTdkZ0YlFxNnlQMHlyaF9JbzFUcmRFN3AyYlNtZFN1bFk?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTRIcFc3c05XTlgwcEw5WnFvaGNNQVh6R0NYekwzQ1FlQ25Tdjc2a29jVHpFa0w2VVpsRHFRUFVHSEZrcVpfc3VZWTQ3N2J4QkF1OGh2cVRPazZSUjd1anp5VE04VmR2RmZUc2hhZG
 
-8. **Circulation : un important convoi des gens du voyage attendu sur les routes des Landes - landesinfo.net** — landesinfo.net [fr]
-   https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0YwdFI2MXAxcnFTdnUtdG04YjRpcy0wVERsZ3BQS0J3R2cwRGc3UWJPc1pLdXI5SFV6TVdnNkdZTHZkRVFDM01LdUcza01BU2xUTGxwNE1RWndzclJ3OGF2eFFMLWUzNWxoWDY0MGYwcFhGT3VzWEVYNTBpRmt0V3JuQ1E1QlhLNEtjNTI2MjBNelhOUmk3M2VpSUwtWFFCMENid2NYSDh1Y0tDNjhNeUNsempwbFVrRHI4?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0YwdFI2MXAxcnFTdnUtdG04YjRpcy0wVERsZ3BQS0J3R2cwRGc3UWJPc1pLdXI5SFV6TVdnNkdZTHZkRVFDM01LdUcza01BU2xUTGxwNE1RWndzclJ3OGF2eFFMLWUzNWxoWDY0MG
+8. **Wes Anderson reúne a Hollywood en un homenaje musical a su universo cinematográfico - Infobae** — Infobae [es]
+   https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM0VYMTh3MWVzQnhjMVlTS1lIWXlGTDlHcFFEalFJX3lHQXdpcnhYY2pleXBDUmlLd2g5b1l3ZlZSNEVwcEtROWZGd01XakNVbkFENWcxMDJLQ2R3S1NnbzRhWk1NdFg5NEFPZ0hxOG95WkxnazFmUVQ1V054cHNkS1hiRXFuWXBBSUpvV2NZa1BPNFYwWUFGQk9BY3AwZ3M3N2tRNmVFbHhsSVd5LTlndVhQQVhKbnR6ZUZxZE1ISXdKNHQ2T0hiSXhRbXRMMjhYek9uNmVIMGdKRGwtZWlVRl9KTkVVYWhqNGotZdIB7AFBVV95cUxOM0VYMTh3MWVzQnhjMVlTS1lIWXlGTDlHcFFEalFJX3lHQXdpcnhYY2pleXBDUmlLd2g5b1l3ZlZSNEVwcEtROWZGd01XakNVbkFENWcxMDJLQ2R3S1NnbzRhWk1NdFg5NEFPZ0hxOG95WkxnazFmUVQ1V054cHNkS1hiRXFuWXBBSUpvV2NZa1BPNFYwWUFGQk9BY3AwZ3M3N2tRNmVFbHhsSVd5LTlndVhQQVhKbnR6ZUZxZE1ISXdKNHQ2T0hiSXhRbXRMMjhYek9uNmVIMGdKRGwtZWlVRl9KTkVVYWhqNGotZQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM0VYMTh3MWVzQnhjMVlTS1lIWXlGTDlHcFFEalFJX3lHQXdpcnhYY2pleXBDUmlLd2g5b1l3ZlZSNEVwcEtROWZGd01XakNVbkFENWcxMDJLQ2R3S1NnbzRhWk1NdFg5NEFPZ0hxOG
 
-9. **Dans les Landes, un convoi des gens du voyage va provoquer des bouchons ce week-end : voici les routes à éviter - Actu.fr** — Actu.fr [fr]
-   https://news.google.com/rss/articles/CBMigwJBVV95cUxNQU0tWGh5dFp1WnE4NzhiM20yWjFJdm41ZHBrVXJFcERfN0xscjJISE5iVE1LemFIbUF5NEtJaW9WbDBIekFaNlNjSm5RSHZsakE3R3NjMGlJN2hHWVBFTGZxTlZuVF8wR3pNem1VTlljbWtCdFZzRjhnNHdGMWlhTnpwYXVJdzNVSk9LM0g0TnFLSXdMbVowdGcyNFRZa3RNMFdTbVVOSWJkbEE4RlZrcU1sbG9HNW9meTV1MDliNS02NFlJRlpUU2plbkJYQS04U3BETWdkWWFWM0lMNWRrT1Z2Z2E4TkNrVXhsU1FaRkExSG11RkNHSDhpcmRtOVhJOUVF?oc=5
-   <a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxNQU0tWGh5dFp1WnE4NzhiM20yWjFJdm41ZHBrVXJFcERfN0xscjJISE5iVE1LemFIbUF5NEtJaW9WbDBIekFaNlNjSm5RSHZsakE3R3NjMGlJN2hHWVBFTGZxTlZuVF8wR3pNem1VTl
+9. **Sélestat. La Ville envisage des solutions pour éviter l’installation des gens du voyage au Grubfeld - DNA** — DNA [fr]
+   https://news.google.com/rss/articles/CBMixgFBVV95cUxPOTJjM2VGZlBMM1lMSUVXcnFoWmRtX05Ecm5NVUZSeHpLdWNqZ3ZGRVBsUHZpWFB3d2V4c3NGcGFtOVJYSnM5Z2hkaUdtbFI4WHZ4dGtOVVNZVFRiUUdLRnk4T2F3RHltLXJvZFZlTlhWNTJveTM3azl2SHUtN0JWQWJKclRJWWJ5cXZUNi1MLTFxS3pXR2EyWHNNcGxLLVVxWElKZEtBUFlsRnBhdS1YSjh5eFRYSnZnMC1aN19UTXBOUmo0M0E?oc=5
+   <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPOTJjM2VGZlBMM1lMSUVXcnFoWmRtX05Ecm5NVUZSeHpLdWNqZ3ZGRVBsUHZpWFB3d2V4c3NGcGFtOVJYSnM5Z2hkaUdtbFI4WHZ4dGtOVVNZVFRiUUdLRnk4T2F3RHltLXJvZFZlTl
 
-10. **Gaillac. Smoky Boat ce samedi 11 juillet au Riad Occitan - ladepeche.fr** — ladepeche.fr [fr]
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxObU9WNGJuNU56WG11emxXd282MnIzS3lvd2wzTXBrUTRLUkxQM2thRHdXU1BOUV9vTE1OaXZCc0owMGRpLXpCOWQ3S0RhYzBZNjNzWDVITS1VeEdBaDZaMm52bmdCbzFVX0h3VFNjU2Q0Sk92QUI3Q0J4S29jdWtrcnJKdDBnSU9zVkRiZHk1NWl0NS0zcVBRODVKanM?oc=5
-   <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxObU9WNGJuNU56WG11emxXd282MnIzS3lvd2wzTXBrUTRLUkxQM2thRHdXU1BOUV9vTE1OaXZCc0owMGRpLXpCOWQ3S0RhYzBZNjNzWDVITS1VeEdBaDZaMm52bmdCbzFVX0h3VFNjU2
+10. **Les gens du voyage quittent le stade Toulliou de Quimperlé - Le Télégramme** — Le Télégramme [fr]
+   https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVgwSVhsSGxST1E3eHRwQ3FIbHNUaXJkWHJRT1lERExLTjBDNEpEMHlSWENMSlRWMXRxQmlCT2hnTUZ4QVJjWXhFczJyS0hnNzBvZzYtckE1NVdQMHpVU1hhTjNRYVpGQnJOR3dabHRpUUU4TWhud0R2ZElQczdpTHB3Z3pHSWlia2pVVk5XbHR5OVBIdGVBT09EMTFhdHRQdUp4LWNxUXhuSUFHcm1fYVNxQlpTTEZhLXJweXlaeFU4Zw?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVgwSVhsSGxST1E3eHRwQ3FIbHNUaXJkWHJRT1lERExLTjBDNEpEMHlSWENMSlRWMXRxQmlCT2hnTUZ4QVJjWXhFczJyS0hnNzBvZzYtckE1NVdQMHpVU1hhTjNRYVpGQnJOR3dabH
 
-11. **Sécurité, propreté et lutte contre l’incivilité à Salerne - Il Mattino** — Il Mattino [fr]
-   https://news.google.com/rss/articles/CBMingFBVV95cUxPM2pSVllBODZ3WldKNjg4TWZYcG9mVEl5UFhKQm5KeFpvVE5jbWliUU9OdjMyNUJleWxtRzA0dnFlTmxQZXBLelM0aXBVblExazFhWGFWcG1OU3k1UEJUNzRBZ2xlRE1GdXdXZU1TeVduclUta3YzRUZ0SjRkVDVSM2VqY3ZvenNZZ0J3YXZPUDZiZG9sUFRLcEpVRnY2UdIBowFBVV95cUxQdHNiUFVhWHZYaXV0VmM0bXhRX2pQQ005RWg4cllTNUNuVmpNTDRHdUVBRlQ3bnZ2TUltaWJNZGdXcUpvUFFLWjNiVTBkU3lQVUsyTlM0X25nUXY5cmI0dkFiZFJsR19IUjJ2aEM2WklGdlBaZVhBdTdwWFQ5WE9CNkFtMjYzenRybF93RlpHUWNzQ0VnSU5xS1RmNE5fOGM4QVZR?oc=5
-   <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPM2pSVllBODZ3WldKNjg4TWZYcG9mVEl5UFhKQm5KeFpvVE5jbWliUU9OdjMyNUJleWxtRzA0dnFlTmxQZXBLelM0aXBVblExazFhWGFWcG1OU3k1UEJUNzRBZ2xlRE1GdXdXZU1TeV
+11. **Hesdin-l’Abbé : installation des gens du voyage sur la zone de Landacres, la circulation perturbée ce samedi matin sur la D901 - La Voix du Nord** — La Voix du Nord [fr]
+   https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGg2ZDZzSnVoNnhTRVZ5Vld2clpVX2F6SWphQVVaNm1wVWdjNWRQelE5THE0Zjl4VnlCVVpySkhEd3drOFRrSjQzZmxkZjlVcTh1RmpDeFNIV2pXRkFKNTVEZ1ZhcFNLWkI0aXp4QWthY25BNGdCZmhSZTloN2hLTGs2UjVnbE9vb1dqQkFkcFo3ek53QU9zbU9WWlYzblh2TnM4c2R5OWdCbDJXNXVJLU1TQld5UHZNNlFsNmFjdERwQUw2OUU4?oc=5
+   <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGg2ZDZzSnVoNnhTRVZ5Vld2clpVX2F6SWphQVVaNm1wVWdjNWRQelE5THE0Zjl4VnlCVVpySkhEd3drOFRrSjQzZmxkZjlVcTh1RmpDeFNIV2pXRkFKNTVEZ1ZhcFNLWkI0aXp4QW
 
-12. **Was ist eigentlich auf dem Karlsruher Messplatz los? Zeltkonferenz mit hunderten Wohnwagen - ka-news** — ka-news [de]
-   https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkRMOVlsdjV3YUlHNzZmalNqbFA1N3ZFdklVeU1OQWk5eWFDQ0UtVFQtTUdDUWRsTHdoY2xydmJmOVFCUUNIY001VVoxSmxjMXlmNXV2a1dIWF9iM2lYTWd2c3NGNk5UOGtwa25laS0wZkVfS2VwdXVoTVdJM29pYnphYmNCYkZJVmVJZ0Q5SW5pSVNSYk9DZzFQdldyUmNEVnFFdVoyNXF0REgtZEVDUUY3bFN6b3o2UldUb1BLeU5zd2tRMElEWXJYUGdyc2I5RHRkXzEzc0JYODhMSTk4amJrSWh2TlNGWktwanlR?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkRMOVlsdjV3YUlHNzZmalNqbFA1N3ZFdklVeU1OQWk5eWFDQ0UtVFQtTUdDUWRsTHdoY2xydmJmOVFCUUNIY001VVoxSmxjMXlmNXV2a1dIWF9iM2lYTWd2c3NGNk5UOGtwa25laS
+12. **La préfecture apporte des clarifications après un article de Sud Ouest - Le Petit Journal** — Le Petit Journal [fr]
+   https://news.google.com/rss/articles/CBMixgFBVV95cUxPQW1Cb0RnQmhDYnA2Z3p4bkpLbFNCSnhDbVhEUVNSYm1pZFItNC1sbjlEQXQxRmZjUzY3QmlIcjk0VFVyOEMtUWRNeFVmbWZzaW9hQlBlVWNCNi01bzYxVkI0MHFFcEItZXpoZ1BtZnh0U1djM0JoRXJwbERwdHdVWGlMdVM3b0VMVWF1Mm9VajFoWDF1bVJaLTlqbDd2MUhQaDhGbm9KTEVNRVJDVTUxOGUwMldNcTRib3ZRb2RRSEUydVM0TFHSAcYBQVVfeXFMT0FtQm9EZ0JoQ2JwNmd6eG5KS2xTQkp4Q21YRFFTUmJtaWRSLTQtbG45REF0MUZmY1M2N0JpSHI5NFRVcjhDLVFkTXhVZm1mc2lvYUJQZVVjQjYtNW82MVZCNDBxRXBCLWV6aGdQbWZ4dFNXYzNCaEVycGxEcHR3VVhpTHVTN29FTFVhdTJvVWoxaFgxdW1SWi05amw3djFIUGg4Rm5vSkxFTUVSQ1U1MThlMDJXTXE0Ym92UW9kUUhFMnVTNExR?oc=5
+   <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPQW1Cb0RnQmhDYnA2Z3p4bkpLbFNCSnhDbVhEUVNSYm1pZFItNC1sbjlEQXQxRmZjUzY3QmlIcjk0VFVyOEMtUWRNeFVmbWZzaW9hQlBlVWNCNi01bzYxVkI0MHFFcEItZXpoZ1BtZn
 
-13. **Zentralrat der Sinti und Roma erstattet Anzeige gegen Teistungens Bürgermeister wegen Volksverhetzung - GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt** — GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt [de]
-   https://news.google.com/rss/articles/CBMilgJBVV95cUxQZEJCRzNCeXlLd0NiWHluZ2xxUGFzWTZwVjU2N1pnTXo4dU5OanJETjA5S3k2M0ppUzMydnFIT09DUExNSkg2eWtzZTVYWGtYMnpHNXlielNLa3NjZno1TWYtX0s2SWwtdnVqM0JfQ2IyX3R4dTVybHphY3BtdjVVcWFfOE9YYzhZdnloM0U4cjVnYkZOVjYwQnEyRzEyZmpyeHhmaldCR1BPaW5nMGUtT19XSzhBeTgyYXRVSnY5XzBCWmhrelluSy1jbW5zOHc2dlFYSjRFak82aVM3NzlkeHQxYkxWMzU2U1d2TUNkQllrdlozTmluY0J3NEhlek5Uc01rOEtCQXlRS3BqczlZVU1GR19aZw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMilgJBVV95cUxQZEJCRzNCeXlLd0NiWHluZ2xxUGFzWTZwVjU2N1pnTXo4dU5OanJETjA5S3k2M0ppUzMydnFIT09DUExNSkg2eWtzZTVYWGtYMnpHNXlielNLa3NjZno1TWYtX0s2SWwtdnVqM0JfQ2
+13. **Dans cette ville de Haute-Savoie, un simple sac-poubelle abandonné peut vous coûter 100 euros - Le Messager** — Le Messager [fr]
+   https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVRtSU9VTjgtRVhoejVxWmNFc0FqTU5IS1R3X0NiQnlDZ1gwOXJ0R3dNVXNRWnc0Sll3M2lReDR0MnAycUN0b005eU5SUW82cnc4QU1OV1RUSHBoZllRaURua1BNYWdwVTlUTFNQNnh4eExuTGJ6YTVwbVNER1c3S2hGeDBxa2tVd2FoWFp6cGhBbUNYUU9ySFFUelM4RG51TUdhTzdlVHpqUjdzRlg3dFF5NDlVZE9JRDV2ZnVrVGtYV3Q1QU9wNlRR?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVRtSU9VTjgtRVhoejVxWmNFc0FqTU5IS1R3X0NiQnlDZ1gwOXJ0R3dNVXNRWnc0Sll3M2lReDR0MnAycUN0b005eU5SUW82cnc4QU1OV1RUSHBoZllRaURua1BNYWdwVTlUTFNQNn
 
-14. **Над 100 роми се млатиха в Карловско - Plovdiv Daily** — Plovdiv Daily [bg]
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcmlCaDdpOUJqUDNKVmRfSEJndkxiVjFiUk95U0dsTThtVjRhZ1YzcDVlMTYxTHk5ZDFGZmFLcFJzWjBYWnFkaUIzdlJSYmNudjRvajBHOUNVb01xc3g0?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcmlCaDdpOUJqUDNKVmRfSEJndkxiVjFiUk95U0dsTThtVjRhZ1YzcDVlMTYxTHk5ZDFGZmFLcFJzWjBYWnFkaUIzdlJSYmNudjRvajBHOUNVb01xc3g0?oc=5" target="_blank"
+14. **Consiglio d’Europa: Moldova, polizia e comunità rom unite su una piattaforma di dialogo per garantire comprensione e accesso alla giustizia - agensir.it** — agensir.it [it]
+   https://news.google.com/rss/articles/CBMijgJBVV95cUxNWjB2V0FfekxXMi14OVZLWVpQWXVIRWI4SFNiYkhMRnBPREJObHpaVTQxMkUzRjB1QU00S3lDNmN5U1htXzY0dzhaS0d0TDFkVTFJVUNkVTJzcjZybWZOemtYUGQ0VTZKT1UtR25fRWtLUkt5VXdjLURfQ2pyN1NJM3Itdi1LRkNVbW9JZm9qc3p4cG0yVXByVW01RFBsOERJN1FPNmNuRWxNZGtkc0t4TDY3UEpzSGo1NE9sM19SdGhRdzBuczRrNG11b1gzSVhEREloT2lpdklmem1rT25NSUROMDR6OFdWSDZ2MnpqRktyOElhVmluZDFuX3NsYktaU3NqMnZORWxEb2hiTkE?oc=5
+   <a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxNWjB2V0FfekxXMi14OVZLWVpQWXVIRWI4SFNiYkhMRnBPREJObHpaVTQxMkUzRjB1QU00S3lDNmN5U1htXzY0dzhaS0d0TDFkVTFJVUNkVTJzcjZybWZOemtYUGQ0VTZKT1UtR25fRW
 
-15. **Нов случай на масови сблъсъци, в което са участвали около - novini247.com** — novini247.com [bg]
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxNR012QkV3bEJYcW5QckNPVU5hbnI4Y2d4VURDUWt5Sl94eGlxRmp2TkR1QUNUanFGSk45dGx5R0ZyRHdyMTZJS2FpbVdNcndaZkw2RHg1YXBoT01VcmQwVlpZWlU2QUtlVWg1WFczUUNhSE93dElsQ29BdXozUl9qSG9hNWhxRkcyNmh6U1JPNGo4ZFZtOXlrTlBzb1kyS0JwQk1BQg?oc=5
-   <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNR012QkV3bEJYcW5QckNPVU5hbnI4Y2d4VURDUWt5Sl94eGlxRmp2TkR1QUNUanFGSk45dGx5R0ZyRHdyMTZJS2FpbVdNcndaZkw2RHg1YXBoT01VcmQwVlpZWlU2QUtlVWg1WFczUU
+15. **Ромска сватба във Видин: Полицията проверява 1300 гости - paragraf.bg** — paragraf.bg [bg]
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxONXlHbkhjakotcVpnWHQ2cEVzV2d2OXVHcTI4TWZudlNQRUNzbF9KcHJDLWlJNmFJUDV4SXBuYkVxSFh2dnZROENGdXRzMmdFY0w0Y2ZjM2ZyZnhJVk1ZOHBjYURfTUEtZExrQVY2aUFNbVgzSmdRSUVSTzZuend4Y2hwVjNrejhCVjN3T0hhZHVwMGpsMUJwMlJoUDc4ZmdTY1B4SHFscWYyN2gtMVktSFlR?oc=5
+   <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxONXlHbkhjakotcVpnWHQ2cEVzV2d2OXVHcTI4TWZudlNQRUNzbF9KcHJDLWlJNmFJUDV4SXBuYkVxSFh2dnZROENGdXRzMmdFY0w0Y2ZjM2ZyZnhJVk1ZOHBjYURfTUEtZExrQVY2aU
 
-16. **Γιατί μπαίνουν στο στόχαστρο γιατροί και νοσηλευτές στα νοσοκομεία – Όλα τα στοιχεία για τη βία στο ΕΣΥ - HealthReport.gr** — HealthReport.gr [el]
-   https://news.google.com/rss/articles/CBMiywFBVV95cUxQUklPRzIyeWN4dmFUWWlxRGlkM09wQ0VaLVFXQm8zMlFUUHczRURXOUpFVFFnV185X3ZnY3h1Y3RNX0xXaFZNdHFNV3RvTHQxZHZOWTBNMnUybXhKUnliLVRPR3h5U0x0dUJMLTB0MGpULTBLTUwzT2ttWjU2VGxfNFJieFpvbVJGLVJHSWZ0aXdtN0hhcmMtTlNXdC1tYmY4SnJGRHhlaW55YTBMWkdlRzBFNVgyeFpwMkk3cU82OWxnZlo1LXhQeWx1UdIB0AFBVV95cUxPNF9vRWdwM19nc2IxYzllNjh4M1p4cnJPclQwRVAySVhZZ0lNMnVweVVRLUNabGt3THhOcjBzbGloaktkb2dLOWtDOFJjMzhZTTRSVUozOWRZQW5HNTZmcGZIWFFyUUNSM1dMMF9KaEhsWWJBZnd3MlZZdWtPZTZETEhrZzY5bnFKRkN3WTJvbGRLTHhvT205X3lEeWJBQ1ZhRXZNWURLeDJvY0FKWEdpLW9mSU02MDRrMEFJLVJmY2VRMnpVQWhhaXlVYjVfa1JZ?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQUklPRzIyeWN4dmFUWWlxRGlkM09wQ0VaLVFXQm8zMlFUUHczRURXOUpFVFFnV185X3ZnY3h1Y3RNX0xXaFZNdHFNV3RvTHQxZHZOWTBNMnUybXhKUnliLVRPR3h5U0x0dUJMLTB0MG
+16. **Мащабна ромска сватба в училищен двор предизвика сериозно напрежение във - novini247.com** — novini247.com [bg]
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxQUktFNGFRRzdwb2U2MGMzZThta0dBelFOMklDZmdnVkNkM2wxMFRsSTBQdmFKTzFJNzFZMWhvYjhuWU44aFp4T0M0SklhQmlPNzdZNlFNeGU0VVNtT2ZzMmpuUmJIRG5KZzkwV2h3bEFCYjE2MExDQkdrUU9KTU8wQVcxUEV3Y0p2ZWM2UXQ4Z2VuOXM5VklwZ0c1ZGpUUmFrVmY2aDZaQjYzaXJMamlBd0FqZ3lXWWd2MnZNSg?oc=5
+   <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQUktFNGFRRzdwb2U2MGMzZThta0dBelFOMklDZmdnVkNkM2wxMFRsSTBQdmFKTzFJNzFZMWhvYjhuWU44aFp4T0M0SklhQmlPNzdZNlFNeGU0VVNtT2ZzMmpuUmJIRG5KZzkwV2h3bE
 
-17. **Α. Λατινοπούλου: “Σε ποια ελεύθερη οικονομία ο Πρωθυπουργός «συνεννοείται» με επιχειρηματίες και μειώνει τιμές; Βάλτε το σφυροδρέπανο για σήμα της ΝΔ!” - Βεργίνα Τηλεόραση** — Βεργίνα Τηλεόραση [el]
-   https://news.google.com/rss/articles/CBMihAJBVV95cUxOOXFmS1NhMkRib1R3dW5wNXhXOVUwYXdHeUphLVNhOTByLTNRajlFNkRUZGpQY2dIYXduMFRhc0ZyblliSEVnem1aVEtid0ZEUG1oWlJBd1JTRTB5M20xdm5IVmlSRWttTnlhMmYxb2RsQlFRM2Z4eE50U0pqUEZicHowVURybmF2S1pxZEwtTnlPQUxaZzdpQVNhbVZTb0NIbVZZNFJCVmZwWXNqaVNPZFZUcFNJbG5EXzhjRVRXZlc3RlBUSVl4MWdHZWJIaWdTZjIxdmRNeWdULXoycm0tTmw2OVF2c2hfeXJBMlNhdEdIeHh5RWVrUThSa2w4eHpJTHVSYw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxOOXFmS1NhMkRib1R3dW5wNXhXOVUwYXdHeUphLVNhOTByLTNRajlFNkRUZGpQY2dIYXduMFRhc0ZyblliSEVnem1aVEtid0ZEUG1oWlJBd1JTRTB5M20xdm5IVmlSRWttTnlhMmYxb2
+17. **Αργολίδα: 24 αστυνομικοί έλεγχοι σε καταυλισμούς Ρομά με 5 συλλήψεις - Αργολικές Ειδήσεις** — Αργολικές Ειδήσεις [el]
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oay1xcWpNa0R0djVwc3ZudXN2MENxOXNGbTVza2ltS0FTNFJRSVZBSnBHc3dDYkpYSDB5SDFVeHFmMVNJcjVZSkowM0ljY01ZZUEwSUdoZ0tSRlBTMGJv?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oay1xcWpNa0R0djVwc3ZudXN2MENxOXNGbTVza2ltS0FTNFJRSVZBSnBHc3dDYkpYSDB5SDFVeHFmMVNJcjVZSkowM0ljY01ZZUEwSUdoZ0tSRlBTMGJv?oc=5" target="_blank"
 
-18. **Πυρκαγιά σε μονάδα επιχείρησης στη Λάρισα - Μήνυμα από το 112 στους κατοίκους του Ομορφοχωρίου - Capital.gr** — Capital.gr [el]
-   https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFYzTnBKc2NIZjV6WjJxX3IzeUxwX2k4a2dyVDg4S3ZHby1hbGtOZnNZVlhST3BDRWIwU2M2V0E0TmNmM1paLWJESEZKMmNCczh3UUlva3pvQmoyd2JoVWdjTkp1YThwZjdZVHhUZmsySkhEWmZnU3JuNnV2NGVVZFNFRGY5b2VWaFRzdVR4N0U4YndMUEl2X0pERTVFVi1KUFd5bXNLUmJyeUNPcHQyMnVqY2FWd1Ric2l4SllrN2M2aHViUUNSUjJocHp1d2VLdWZyVFdzSlMzMUZIMlJr0gHfAUFVX3lxTE1UVjNOcEpzY0hmNXpaMnFfcjN5THBfaThrZ3JUODhLdkdvLWFsa05mc1lWWFJPcENFYjBTYzZXQTROY2YzWlotYkRIRkoyY0JzOHdRSW9rem9CajJ3YmhVZ2NOSnVhOHBmN1lUeFRmazJKSERaZmdTcm42dXY0ZVVkU0VEZjlvZVZoVHN1VHg3RThid0xQSXZfSkRFNUVWLUpQV3ltc0tSYnJ5Q09wdDIydWpjYVZ3VGJzaXhKWWs3YzZodWJRQ1JSMmhwenV3ZUt1ZnJUV3NKUzMxRkgyUms?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFYzTnBKc2NIZjV6WjJxX3IzeUxwX2k4a2dyVDg4S3ZHby1hbGtOZnNZVlhST3BDRWIwU2M2V0E0TmNmM1paLWJESEZKMmNCczh3UUlva3pvQmoyd2JoVWdjTkp1YThwZjdZVHhUZm
+18. **Έβρος: Πυρκαγιά σε αγροτοδασική έκταση στα Λάβαρα - Επιχειρούν επίγειες δυνάμεις και ένα ελικόπτερο - Capital.gr** — Capital.gr [el]
+   https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN0pybkY3ZXBNOEFpWFhJUFI0WnY1Z3hCREF5cF95V0VvVHluWkgzUVpfWnkxamJvSzdrd21sVHVKLTBBOU5QdkZDdVYyQ29DX2JpSVdTRTFVYkk3aG1hbVh4SzM0QUZuN05LQ203QmZIeVl1Q2oxd2pGOG5uMVlQYXZpcE5ON1h5WXBEUTc5dzhCNkRYRDYzVmkxSUZaLWNYZXh0cUtzd0lkYlBZLXRWT2tLX01qY0FZUjVDVkxfWU5kWEo5eC1heG9qRXBPZnhUUEdKTjJxMzBIaVlFWWYyaXpuZmPSAeQBQVVfeXFMTTdKcm5GN2VwTThBaVhYSVBSNFp2NWd4QkRBeXBfeVdFb1R5blpIM1FaX1p5MWpib0s3a3dtbFR1Si0wQTlOUHZGQ3VWMkNvQ19iaUlXU0UxVWJJN2htYW1YeEszNEFGbjdOS0NtN0JmSHlZdUNqMXdqRjhubjFZUGF2aXBOTjdYeVlwRFE3OXc4QjZEWEQ2M1ZpMUlGWi1jWGV4dHFLc3dJZGJQWS10Vk9rS19NamNBWVI1Q1ZMX1lOZFhKOXgtYXhvakVwT2Z4VFBHSk4ycTMwSGlZRVlmMml6bmZj?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN0pybkY3ZXBNOEFpWFhJUFI0WnY1Z3hCREF5cF95V0VvVHluWkgzUVpfWnkxamJvSzdrd21sVHVKLTBBOU5QdkZDdVYyQ29DX2JpSVdTRTFVYkk3aG1hbVh4SzM0QUZuN05LQ203Qm
 
-19. **Πρωτοσέλιδο - Εφημερίδα Πατρίς 11/7/2026 - frontpages.gr** — frontpages.gr [el]
-   https://news.google.com/rss/articles/CBMikAFBVV95cUxNWjlhMjJ1MWV4b1RsN2M5Q0ZCT2Y4ZTZUeW50QUkxejJfaTZPcGJzNy1UdUFCOFFkVEVGNEdNNzQ3R09ZRU8xbGNuWUQtUjF0YzhHSWxaSGhkRG9mUFhqTjBMSlMtb3VFMUpzMEp3RmlzVzIwb1FRcS1jTm9FRTQ5ZDd0OWwyQUxhdkpKdGd4Rkw?oc=5
-   <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNWjlhMjJ1MWV4b1RsN2M5Q0ZCT2Y4ZTZUeW50QUkxejJfaTZPcGJzNy1UdUFCOFFkVEVGNEdNNzQ3R09ZRU8xbGNuWUQtUjF0YzhHSWxaSGhkRG9mUFhqTjBMSlMtb3VFMUpzMEp3Rm
+19. **Άργος: Ρομά έκλεισαν τον δρόμο Άργους – Νέας Κίου σε ένδειξη διαμαρτυρίας - Notospress** — Notospress [el]
+   https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkU4em1GMnI5dnN2OWZON0otTDBIMThhblpFb0JHWVVpVC05cm1LcXpqVWxQYXQ5MXI0TzEzLTNTWTBQLWdoRW9OOTNHRWRJSV9UZ0piSV9oZzN2d0EtSFhIb3BjTzhVLTZlQ3loVVZzZWJzQ21kZU9nVE9yTlJVODNCVmlBcHU4T1FXcnZUUHZNajNxRzNGZldDNGxhWFhSVkt4MkozdlJLZkM2TTE0RkNlb3JkV1NrSU8tY3EtSkc?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkU4em1GMnI5dnN2OWZON0otTDBIMThhblpFb0JHWVVpVC05cm1LcXpqVWxQYXQ5MXI0TzEzLTNTWTBQLWdoRW9OOTNHRWRJSV9UZ0piSV9oZzN2d0EtSFhIb3BjTzhVLTZlQ3loVV
 
-20. **Εγκληματικές οργανώσεις με Ρομά και… «χρυσές δουλειές» – Στόχος τους πανάκριβα κοσμήματα και ρολόγια - PatrisNews** — PatrisNews [el]
-   https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRm1aU0ZJc3o5Y2R5WTRsQlNCUzhvMGRpR0lITzFDQWg0NGN0eDRuVFQzWXdIZXRzZU1QZDRZVTNpeUFhTFJDd2lpX1FEZXhuLUJkc3JITmdiTXpIQktJMk1oVU1KWXlKa3lNZDdscENsTGpMWWZlR3h6U0xNaUxzWnB0TDdUdHNUVnhIWE5LMXc1Z2JydXl1N21LSUh2UnNKbDgwUDQydjkwMjljdWFnekp4RzVnY19lUV9QWUZ0OFdvWjA?oc=5
-   <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRm1aU0ZJc3o5Y2R5WTRsQlNCUzhvMGRpR0lITzFDQWg0NGN0eDRuVFQzWXdIZXRzZU1QZDRZVTNpeUFhTFJDd2lpX1FEZXhuLUJkc3JITmdiTXpIQktJMk1oVU1KWXlKa3lNZDdscE
+20. **Ρομά απέκλεισαν δρόμο στην Αργολίδα: Διαμαρτύρονται για την αστυνομική βία - Argolida Planet** — Argolida Planet [el]
+   https://news.google.com/rss/articles/CBMiyAJBVV95cUxQLWlYcmVTVUM3dUZnTmJoM0Y4NEM4N0hlTUJwc2JIbFA2SEFwNmRoUDBweG0xY2JkYXRmczJ3cWJFT1IwdXhZc0JuZjAwcHh3N2RfUmo5dzNlWnJOcDZfbHB5MDRqd25mNlBSNXh0MDNZQ25iaThieVRsRy1VT1RnQ3Vpdm1SUDNoTlhqd2xjQi1lV2R2cXd2aGJVeXVoc3A0R3RWN20tbGhxcVQzLTAwMDV4MTJ1c2d0cm1OWFZZMl9Hb1oxQkJvUzJVaGFsWVM5TWVYaUhjUVFYQlE3T1AwUU9oM0ppVFNrbmJVN3JNaFAteVdMaGtOUjdZbER2ODVRQU50eWdSMGFDQkgtN0FLU1liZUtjLUdwX01Xd21yRHM4WjlMS2EyM2JLQk1PSWVXb0t1OGF0MWdYRUNmTDlJZ2F1ckh4T2Vs?oc=5
+   <a href="https://news.google.com/rss/articles/CBMiyAJBVV95cUxQLWlYcmVTVUM3dUZnTmJoM0Y4NEM4N0hlTUJwc2JIbFA2SEFwNmRoUDBweG0xY2JkYXRmczJ3cWJFT1IwdXhZc0JuZjAwcHh3N2RfUmo5dzNlWnJOcDZfbHB5MDRqd25mNlBSNXh0MD
 
-21. **Αργολίδα: Στοχευμένες αστυνομικές επιχειρήσεις σε καταυλισμούς Ρομά - ArgolidaPortal** — ArgolidaPortal [el]
-   https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEhzSTYzVWs4dmhYcGJ5OFVvS3U5OVdHZUJoc2x4Q3c1Y1FpMnRYNDRNc0dpR0EzLW5qaXpaWi1PbzNSa21JMWd6cTR0elZHeFhVckpiREVPcVplUDlUUWxlZ1pwYV9zS3otY0t2U0R1ektXa2owYlBWX0VKS0tJa1lWMzdySGxRY2N3SlkwU0Y0VVh0cUh5QlVDXy1wZmVCZUVLb0dBRERGQWZk?oc=5
-   <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEhzSTYzVWs4dmhYcGJ5OFVvS3U5OVdHZUJoc2x4Q3c1Y1FpMnRYNDRNc0dpR0EzLW5qaXpaWi1PbzNSa21JMWd6cTR0elZHeFhVckpiREVPcVplUDlUUWxlZ1pwYV9zS3otY0t2U0
+21. **Αργολίδα: Ρομά έκλεισαν δρόμο στη Νέα Κίο διαμαρτυρόμενοι για την αστυνομική βία (βίντεο) - AgioiTheodoroi.com** — AgioiTheodoroi.com [el]
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1FjWkJ4aXAyZDZjUVo1Tk5WazU0aXBqNENDMVpwYk5LeUo3aEtrbl9MOHRKUmVIbTJ0WFZHMUR5U1JPTHJPWDc5Z0xVc1BOaFVkX3pQVnZ1R3BOeUg4NmRaaGxGZkgwQXBRbVdmWlNUQkpEMTZYSVhyTmxGSF9mbWY0cnp1UW4zWmItTFV6N0VlTTJwRHBlSzdETzBETnhFNHBTQW81MldhN09vMnJkejV2QnM?oc=5
+   <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1FjWkJ4aXAyZDZjUVo1Tk5WazU0aXBqNENDMVpwYk5LeUo3aEtrbl9MOHRKUmVIbTJ0WFZHMUR5U1JPTHJPWDc5Z0xVc1BOaFVkX3pQVnZ1R3BOeUg4NmRaaGxGZkgwQXBRbVdmWl
 
-22. **Δήμος Τριφυλίας: Εγκρίθηκε δαπάνη για τρεις εκπαιδευτικές δράσεις - Gargalianoionline** — Gargalianoionline [el]
-   https://news.google.com/rss/articles/CBMioAFBVV95cUxQV212bVVvREJ4OVAtV2Faa0o5VzBSeXZfSUo0eVpKTjVpYjZvb3pyZDNQR2M3bWpyOFJDNnNvNHJUcUJiaGRVb0RmMDlUWkJJQkpXelAwc0lwTWdxMHJzUWthSEI3d2RfU1gtNHcza1VhbVZMTTRqR1VyVWQ4cXZoOENobHMyN3NoU2Z2RTRRSEo4dkY3dnJRWTllZjA3dGEy0gGoAUFVX3lxTE5VZmx5aGZRbnI0dmVPMzZaeUd0cVJpdFYzS2tidnMxUmpWQ3lhS21oYzZaS3NJWjFMcUJ2SFVfbzFHd2Q3am1ndm9IZ0Q2cEFUbkdMUGNncUtfNU51QldEQmZfNHRBZUhzTlJvdkZPOVZOcUEwUzNIWURGNFRXVEQweE1fVHg3QVlKNVFIV0NFNURmTkpieE1TMHhVLUpBQjcxMS00dDRLUQ?oc=5
-   <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV212bVVvREJ4OVAtV2Faa0o5VzBSeXZfSUo0eVpKTjVpYjZvb3pyZDNQR2M3bWpyOFJDNnNvNHJUcUJiaGRVb0RmMDlUWkJJQkpXelAwc0lwTWdxMHJzUWthSEI3d2RfU1gtNHcza1
+22. **Λαμία: Έπεσε πάλι ξύλο μεταξύ νεαρών στο κέντρο της πόλης - LamiaReport.gr** — LamiaReport.gr [el]
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjNud3NRWnY0M0VnQlNSRXdLa2JIY3J0NGh0X0M0YXU2VnNoM1UxTFNCVi1fbDJFYUlZQkRtWHVmbVExTmExN2pTdy00XzNpV3d3RWh4bzJFVHR0V2x5eEFZQjNSMDFWTWJlUXBYdktMMFB1Q28yOHlyY3JsUDR2RWJYM0ZHWWhEa2FtRXg0dFpzNU13RHpZakpWeUVDSXZ4UHA1SHV1anAzSjNq?oc=5
+   <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjNud3NRWnY0M0VnQlNSRXdLa2JIY3J0NGh0X0M0YXU2VnNoM1UxTFNCVi1fbDJFYUlZQkRtWHVmbVExTmExN2pTdy00XzNpV3d3RWh4bzJFVHR0V2x5eEFZQjNSMDFWTWJlUXBYdk
 
-23. **Η τσαντιροποίηση των νοσοκομείων - εφημερίδα δημοκρατία** — εφημερίδα δημοκρατία [el]
-   https://news.google.com/rss/articles/CBMihAFBVV95cUxNa01lZHBTT01lTmF2cUg1eXdDaWRKYXRBd01PNkMtUjVCQkhtQkVUMVppbWdWSWZLRnA5bzhHN09hRl9rcERYZml4TjlHYjdfbmgzcmFxa3M0TVhGVDFxd0hCTVVKbVJJNlVSck1mOXJxeGktbXlXRDZ2M2FyWnd0UllPck0?oc=5
-   <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNa01lZHBTT01lTmF2cUg1eXdDaWRKYXRBd01PNkMtUjVCQkhtQkVUMVppbWdWSWZLRnA5bzhHN09hRl9rcERYZml4TjlHYjdfbmgzcmFxa3M0TVhGVDFxd0hCTVVKbVJJNlVSck1mOX
+23. **Ultradireita amplia pressão sobre comunidade cigana em Portugal - Vero Notícias** — Vero Notícias [pt]
+   https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWRrbUFTbl9yWWZCMXlLSnFGU2N3dFhrUTNRMEJRVXBySGYxeUhtanVqODF1a3h5eFF0M0ZNckMzMTF2Y3BxR2ZUUFpOaGU4RWJzb0gtb2FFTlk0UEJXLUZsa1A0NXdxbXNCdE5CNFU2aURmejJJYkNXM2p6dUhIZEwta1V1TFBlTHg2Q3h5OHlHMXN5eWNTaGkyUQ?oc=5
+   <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWRrbUFTbl9yWWZCMXlLSnFGU2N3dFhrUTNRMEJRVXBySGYxeUhtanVqODF1a3h5eFF0M0ZNckMzMTF2Y3BxR2ZUUFpOaGU4RWJzb0gtb2FFTlk0UEJXLUZsa1A0NXdxbXNCdE5CNF
 
-24. **Program tv dla PitBull 2 , sezon 2, odc. 8 - Pilot WP** — Pilot WP [pl]
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxOZG1IVVJLVENpRmpoWEpmOFlrRGxyQVc3Zm4waVllQmcwNXNid1ppV2k1UmF4b2FkUWV2eUUxcl9fR25uMm5WbnNVMTRoVzJjWGh4bHcyejVHcXRBZVF2YWRLa3E1Nm5CMmFULUxvNU91RXY1TGt2MXVrNXQ0ZHlQcEszRF9acjg?oc=5
-   <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOZG1IVVJLVENpRmpoWEpmOFlrRGxyQVc3Zm4waVllQmcwNXNid1ppV2k1UmF4b2FkUWV2eUUxcl9fR25uMm5WbnNVMTRoVzJjWGh4bHcyejVHcXRBZVF2YWRLa3E1Nm5CMmFULUxvNU
+24. **Comunidade cigana em Portugal reage ao avanço da ultradireita - Portal ABC do ABC** — Portal ABC do ABC [pt]
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9VeWh0d2Zja2IxNkRGazUyTGNaRlk4WXlTYU5Bd3RCSnFwOEhSOTg2SHFBZzNTNnVoUEFjclJWYzVkN1lSNC1JckVTRktsdVRfUUFIN01nT2pVaFA4UFFJNUE4azgzS0ljQTg3RzB1YkRrYTdiNVN6eW92THg3SU0?oc=5
+   <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9VeWh0d2Zja2IxNkRGazUyTGNaRlk4WXlTYU5Bd3RCSnFwOEhSOTg2SHFBZzNTNnVoUEFjclJWYzVkN1lSNC1JckVTRktsdVRfUUFIN01nT2pVaFA4UFFJNUE4azgzS0ljQTg3RzB1Yk
 
-25. **Ultradireita de Portugal escolhe povos ciganos como alvo preferencial de discursos xenófobos - Folha de S.Paulo** — Folha de S.Paulo [pt]
-   https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc2h1ZlVYb1NpdkZGbm5iQWthZncxQmw1eW5JYVRhTEdOTlJDeU9DRnFxS3pvMGQwOElUbFVMQzRfX3FwSm9lRTNUMWJjdjlxOGxySjEzVkdIUkhzcFNCdWZjbW9NQ3Bkd0FRendsV0tzTUVLa3BNaVBUeFBuQlM4d0kzRWFfX3ItV1RORVBtemxlRlAyU3RnMFRCODZ4UlNFVWZUNWYxZGRwbGxFLXAxMkxfY1BZWm81NXZVa2NqU0xqZG0zVmhuR01lZG1VeWs1LU9FN2tGYkNYQQ?oc=5
-   <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc2h1ZlVYb1NpdkZGbm5iQWthZncxQmw1eW5JYVRhTEdOTlJDeU9DRnFxS3pvMGQwOElUbFVMQzRfX3FwSm9lRTNUMWJjdjlxOGxySjEzVkdIUkhzcFNCdWZjbW9NQ3Bkd0FRendsV0
+25. **Extrema-direita mira ciganos para ataques xenofóbicos em Portugal - Diário do Centro do Mundo** — Diário do Centro do Mundo [pt]
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxNZG5mQ25CM0hqZTUxNkZfRUpWbEFNRmlETzRYSHo2UkRzblhiOFQtTkxkU3FsTVlOQzlKUDU1dEtROWpyMDhySTdlM1JkT3RCTDRzQjRtVlRHTzAyRXcxWE0zNFVLZUFQNkE5ZGhuaC1hVTV5REh0Njc3RDJMODlScmNPNXJ2M29hZkVkdk1JeDFfSkNhZWZwOWpjZktrRUZ0?oc=5
+   <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNZG5mQ25CM0hqZTUxNkZfRUpWbEFNRmlETzRYSHo2UkRzblhiOFQtTkxkU3FsTVlOQzlKUDU1dEtROWpyMDhySTdlM1JkT3RCTDRzQjRtVlRHTzAyRXcxWE0zNFVLZUFQNkE5ZGhuaC
 
-26. **Dois homens são presos por aplicar golpe de mais R$ 11 mil contra casal de idosos em São Sepé - Bei Notícias** — Bei Notícias [pt]
-   https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFgycGZ6VjZuNDhoRlFoakxVeGRCWmNWYWRvSDYzcWtUWnNvVjVReTlWLVgxNENKSFN2QU50M01SdExoY2VUNG1qUUhYTV9IbGxUbGFUNHdyWGlUcHRmaXVVSW0xTFFjaUZoSl9QQU9VR0dMVjgwWHlyYUYxUERTM3BET0ZXMHFacFVXQlVKS3JXN1VCOWtvYmlvUHZmSXNoUjJ4YUFqNXc2OTN6Y1Z4SUZqNm1TdWRCVVctam03YjJkSjB5UEtR?oc=5
-   <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFgycGZ6VjZuNDhoRlFoakxVeGRCWmNWYWRvSDYzcWtUWnNvVjVReTlWLVgxNENKSFN2QU50M01SdExoY2VUNG1qUUhYTV9IbGxUbGFUNHdyWGlUcHRmaXVVSW0xTFFjaUZoSl9QQU
+26. **Judy Collins says her farewell tour isnt a farewell** — boston.com [English]
+   https://www.boston.com/culture/music/2026/07/11/lets-just-call-it-a-tour-judy-collins-says-her-farewell-tour-isnt-a-farewell/
 
-27. **Giugliano in Campania : controlli nei campi Rom dei carabinieri** — ottopagine.it [Italian]
-   https://www.ottopagine.it/na/cronaca/432868/giugliano-in-campania-controlli-nei-campi-rom-dei-carabinieri.shtml
+27. **13 vintage recipes that prove the old ways were the right ways** — mesabitribune.com [English]
+   https://www.mesabitribune.com/around_the_web/health/13-vintage-recipes-that-prove-the-old-ways-were-the-right-ways/article_73cff142-014a-5385-9829-70eea63d75be.html
 
-28. **The Wall sau cum lumea reînvață limbajul războiului** — libertatea.ro [Romanian]
-   https://www.libertatea.ro/opinii/the-wall-sau-cum-lumea-reinvata-limbajul-razboiului-5810070
+28. **Chocaron contra una camioneta , se fugaron y fueron detenidos** — laarena.com.ar [Spanish]
+   https://www.laarena.com.ar/la-pampa/chocaron-contra-una-camioneta-se-fugaron-y-fueron-detenidos-202671110420
 
-29. **Bari spedizione punitiva al rione San Pio | due uomini picchiati brutalmente spari in strada Terrore tra i bimbi che giocavano** — zazoom.it [Italian]
-   https://www.zazoom.it/2026-07-11/bari-spedizione-punitiva-al-rione-san-pio-due-uomini-picchiati-brutalmente-spari-in-strada-terrore-tra-i-bimbi-che-giocavano/19448476/
+29. **Barra recebe programao cultural com Zé Ramalho , Ludmilla , Raça Negra e espetáculo internacional de ballet** — oglobo.globo.com [Portuguese]
+   https://oglobo.globo.com/rio/bairros/barra/noticia/2026/07/11/barra-recebe-programacao-cultural-com-ze-ramalho-ludmilla-raca-negra-e-espetaculo-internacional-de-ballet.ghtml
 
-30. **Velikani glume iz  malog rita  i Jakobsfelda - Kultura** — danas.rs [Serbian]
-   https://www.danas.rs/kultura/velikani-glume-iz-malog-rita-i-jakobsfelda/
+30. **ปวดฉี่ทันทีหลังดื่มน้ำ ไตดีหรือไตพัง ? แพทย์เตือนถ้าป่วย  น้ำเหลว  จะฟ้อง 4 อาการนี้ ! ** — sanook.com [Thai]
+   https://www.sanook.com/news/9898658/
 
-31. **Εγκληματικές οργανώσεις με Ρομά και … « χρυσές δουλειές » - Στόχος τους πανάκριβα κοσμήματα και ρολόγια - PatrisNews** — patrisnews.com [Greek]
-   https://www.patrisnews.com/egklimatikes-organoseis-me-roma-kai-chryses-doyleies-stochos-toys-panakriva-kosmimata-kai-rologia/
+31. **Tottenham Attacker  Has Been Offered  To Champions League Club** — insidefutbol.com [English]
+   http://insidefutbol.com/2026/07/11/has-been-offered-agents-look-for-escape-route-for-tottenham-hotspur-star/719598/
 
-32. **Doi biologi au calculat consumul energetic al armatei lui Hannibal . De ce elefanţii s - au descurcat mai bine decât soldaţii în Alpi** — antena3.ro [Romanian]
-   https://www.antena3.ro/externe/mapamond/doi-biologi-au-calculat-consumul-energetic-al-armatei-lui-hannibal-de-ce-elefantii-s-au-descurcat-mai-bine-decat-soldatii-in-alpi-795034.html
+32. **Luna lui Cuptor , luna secerişului : Ce credeau românii despre luna iulie şi obiceiurile de demult** — cotidianul.ro [Romanian]
+   https://www.cotidianul.ro/luna-lui-cuptor-luna-secerisului-ce-credeau-romanii-despre-luna-iulie-si-obiceiurile-lui-de-demult/
 
-33. **Nhạc sĩ Trần Tiến : Nghề cầm bút có cuộc sống rất nghèo nhưng rất đẹp** — tuoitre.vn [Vietnamese]
-   https://tuoitre.vn/nhac-si-tran-tien-nghe-cam-but-co-cuoc-song-rat-ngheo-nhung-rat-dep-100260711074809766.htm
+33. **Nel Borgo Laudato si  il pranzo di Papa Leone XIV con le persone socialmente vulnerabili della diocesi di Roma - I saluti dei cardinali Baggio e Reina e dellarcivescovo Marín de San Martín - Chiamati a riconoscere il volto di Cristo negli ultimi** — osservatoreromano.va [Italian]
+   https://www.osservatoreromano.va/it/news/2026-07/quo-156/chiamati-a-riconoscere-il-volto-di-cristo-negli-ultimi.html
 
-34. **Prima reacție a Ala Nemerenco după scandalul blocului alimentar de la Spitalul Clinic Bălți : „ Prioritizăm viața versus varza  ** — news.yam.md [Romanian]
-   https://news.yam.md/ro/story/43036963
+34. **Что посмотреть в Китае , Небесная лестница над пропастью - 11 июля 2026** — 161.ru [Russian]
+   https://161.ru/text/world/2026/07/11/76527281/
 
-35. **ส่องพระยอดนิยม ประจำวันที่ 11 กรกฎาคม พ . ศ . 2569** — dailynews.co.th [Thai]
-   https://www.dailynews.co.th/articles/6012462/
+35. **Versos acústicos en la voz de Tzontechomiztli** — diariosigloxxi.com [Spanish]
+   https://www.diariosigloxxi.com/texto-diario/mostrar/5950452/versos-acusticos-voz-tzontechomiztli
 
-36. **ล่าเครือข่ายซุกเฮโรอีนส่ง  แอร์สาว  หิ้วบินไกล ใกล้ปิดจ๊อบ** — dailynews.co.th [Thai]
-   https://www.dailynews.co.th/articles/6017386/
+36. **Italia începe lucrările la un proiect de pe vremea Romei antice . Legătura cu Donald Trump** — stirileprotv.ro [Romanian]
+   https://stirileprotv.ro/stiri/international/italia-incepe-lucrarile-la-un-proiect-de-pe-vremea-romei-antice-legatura-cu-donald-trump.html
 
-37. **Zorlu transfer sürecini bizzat yürüten Aziz Yıldırım süper bir yeteneği uygun maliyetle Fenerbahçeye kazandırdı ! Greenwood vurgunu** — sozcu.com.tr [Turkish]
-   https://www.sozcu.com.tr/zorlu-transfer-surecini-bizzat-yuruten-aziz-yildirim-super-bir-yetenegi-uygun-maliyetle-fenerbahce-p335509
+37. **EU to delay launch of new ETIAS until 2027 - find out why** — basingstokegazette.co.uk [English]
+   https://www.basingstokegazette.co.uk/news/26272100.eu-delay-launch-new-etias-2027---find/
 
-38. **สังคมออนไลน์ภาคกลาง …  กัญชาไทยแลนด์  อาละวาดหนักในต่างประเทศ !! ** — dailynews.co.th [Thai]
-   https://www.dailynews.co.th/articles/6007426/
+38. **Ženám odoberali deti už v pôrodnici a pripadalo im to normálne . Môj život je jedna veľká depresia , hovorí spisovateľka Danišová** — dennikn.sk [Slovak]
+   https://dennikn.sk/5448231/zenam-odoberali-deti-uz-v-porodnici-a-pripadalo-im-to-normalne-moj-zivot-je-jedna-velka-depresia-hovori-spisovatelka-danisova/
 
-39. ** « I dont have masks , it always me inside and outside the theaters ». Maurizio Battista at the Coral Garden in Messina** — odnako.org [English]
-   https://www.odnako.org/i-dont-have-masks-its-always-me-inside-and-outside-the-theaters-maurizio-battista-at-the-coral-garden-in-messina/
+39. **Si accende la musica , fino al 27 luglio , al Pordenone Blues & Co . Festival** — pordenoneoggi.it [Italian]
+   https://pordenoneoggi.it/pordenone/si-accende-la-musica-fino-al-27-luglio-pordenone-blues-co-festival/
 
-40. **Eye Magazine | Blog | Roses and castles** — eyemagazine.com [English]
-   https://eyemagazine.com/blog/post/roses-and-castles
+40. **Судьбы врачей - преступников Освенцима и казнь Хорста Фишера** — kommersant.ru [Russian]
+   https://www.kommersant.ru/doc/8799597
 
-41. **เช็กดวงประจำวันที่ 11 ก . ค . 69 ราศีที่ดาวศรีสถิต  สิงห์  ราศีที่ดาวกาลีสถิต  มิถุน  ** — dailynews.co.th [Thai]
-   https://www.dailynews.co.th/articles/6014706/
+41. **Ultradireita de Portugal escolhe povos ciganos como alvo preferencial de discursos xenófobos** — jornaldebrasilia.com.br [Portuguese]
+   https://jornaldebrasilia.com.br/noticias/mundo/ultradireita-de-portugal-escolhe-povos-ciganos-como-alvo-preferencial-de-discursos-xenofobos/
 
-42. **Zeci de noi rute de zbor din 2026 , anunțate în Europa și în lume . Din ce dată sunt introduse și ce companii aeriene operează** — business24.ro [Romanian]
-   https://business24.ro/noi-zboruri/zeci-rute-aeriene-introduse-2026-europa-lume-din-ce-data-sunt-care-companii-1659739
+42. **Убийство в детском клубе : рабочий без причины зарезал администратора** — mk.ru [Russian]
+   https://www.mk.ru/incident/2026/07/11/ubiystvo-v-detskom-klube-rabochiy-bez-prichiny-zarezal-administratora.html
 
-43. **El verdadero motivo del distanciamiento entre Juan Gabriel y Rocío Dúrcal** — abc.es [Spanish]
-   https://www.abc.es/gente/desvelamos-exclusiva-verdadero-motivo-distanciamiento-juan-gabriel-20260707012945-nt.html
+43. **W Końskowoli trwa Święto Róż . Wieczorem zagra Power Play** — dziennikwschodni.pl [Polish]
+   https://www.dziennikwschodni.pl:443/artykul/390582,w-konskowoli-trwa-swieto-roz-wieczorem-zagra-power-play
 
-44. ** ¡ Alfonso Reyes ! - La Jornada San Luis** — lajornadasanluis.com.mx [Spanish]
-   https://lajornadasanluis.com.mx/alfonso-reyes/
+44. **Jacksen Tiago Sebut Indonesia Punya Stok Gelandang Muda Putri Melimpah** — jawapos.com [Indonesian]
+   https://www.jawapos.com/sepak-bola-indonesia/2607110260/jacksen-tiago-sebut-indonesia-punya-stok-gelandang-muda-putri-melimpah
 
-45. **Greenwood , Leroy Saneyi yedi ! Galatasaray  ın kafası karışıktı** — fotospor.com.tr [Turkish]
-   https://www.fotospor.com.tr/galatasaray/greenwood-leroy-saneyi-yedi-galatasarayin-kafasi-kariskti-707946
+45. **Clavellinas : una escuela de música y la reforma de una corsetería histórica de Cáceres** — elperiodicoextremadura.com [Spanish]
+   https://www.elperiodicoextremadura.com/caceres-local/2026/07/11/clavellinas-escuela-musica-reforma-corseteria-132319216.html
 
-46. **Spongy moth treatment coming to St . Louis , Carlton counties** — duluthnewstribune.com [English]
-   https://www.duluthnewstribune.com/news/local/spongy-moth-treatment-coming-to-st-louis-carlton-counties
+46. **  La dématérialisation tue la musique classique  : le cri dalarme de Jordi Savall avant son concert à labbaye de Fontfroide , près de Narbonne** — lindependant.fr [French]
+   https://www.lindependant.fr/2026/07/11/la-dematerialisation-tue-la-musique-classique-le-cri-dalarme-de-jordi-savall-avant-son-concert-a-labbaye-de-fontfroide-pres-de-narbonne-13449336.php
 
-47. **Праздники 11 июля 2026 года** — vm.ru [Russian]
-   https://vm.ru/news/1244214-den-koktejlya-moxito-i-vcemipnyj-den-shokolada-kakie-prazdniki-otmechayut-v-rossii-i-mire-11-iyulya
+47. **Anunț important pentru cei care călătoresc : companiile aeriene deschid rute noi către cele mai căutate destinații în toamna și iarna 2026** — jurnalul.ro [Romanian]
+   https://jurnalul.ro/bani-afaceri/economia/rute-aeriene-noi-europa-toamna-iarna-2026-zboruri-noi-1038588.html
 
-48. **Traveller Letters : Disappointing Etihad business class , Qantas points problems and more** — brisbanetimes.com.au [English]
-   https://www.brisbanetimes.com.au/traveller/travel-news/i-expect-business-class-to-be-a-premium-experience-this-was-anything-but-20260708-p60dpa.html
+48. **Chelsea set price for Alejandro Garnacho after missing pre - season training** — metro.co.uk [English]
+   https://metro.co.uk/2026/07/11/chelsea-set-price-alejandro-garnacho-missing-pre-season-training-29110662/
 
-49. **Продюсер предрек повышение гонораров группе « Звери » после возвращения на сцену** — lenta.ru [Russian]
-   https://lenta.ru/news/2026/07/10/prodyuser-predrek-povyshenie-gonorarov-gruppe-zveri-posle-vozvrascheniya-na-stsenu/
+49. ** « Στην περίπτωση του Μάνου Κονέ στρέφεται η Μάντσεστερ Γιουνάιτεντ » ** — kerkida.net [Greek]
+   https://www.kerkida.net/eidiseis/diethni/premier-league/manchester-united/stin-periptosi-toy-manoy-kone-strefetai-i-mantsester-gioynaitent
 
-50. **Italia  e vendosur  për të mbështetur procesin e anëtarësimit të vendeve të Ballkanit Perëndimor në BE – 3SHI . NET** — 3shi.net [Albanian]
-   https://3shi.net/italia-e-vendosur-per-te-mbeshtetur-procesin-e-anetaresimit-te-vendeve-te-ballkanit-perendimor-ne-be/
+50. **Vasile Tofan , desemnat candidat la funcția de prim - ministru al Republicii Moldova . Care sunt primele sale priorități** — news.yam.md [Romanian]
+   https://news.yam.md/ro/story/43113978
 
-51. **Miratohet  Karta e Romë për Ballkanin , Ita - Syri** — syri.net [Albanian]
-   https://www.syri.net/rajoni/902358/miratohet-karta-e-romes-per-ballkanin-italia-propozon-parimet-per-zgjerimin-e-ardhshem-te-be-se/
+51. **Times do Sábado SBT e do Domingo Legal disputam a Copinha no Programa Silvio Santos** — oplanetatv.clickgratis.com.br [Portuguese]
+   https://oplanetatv.clickgratis.com.br/noticias/bastidores/times-do-sabado-sbt-e-do-domingo-legal-disputam-a-copinha-no-programa-silvio-santos.html
 
-52. **Ushtria izraelite po përgatitet të tërhiqet nga - Syri** — syri.net [Albanian]
-   https://www.syri.net/bote/902419/ushtria-izraelite-po-pergatitet-te-terhiqet-nga-disa-pjese-te-libanit-jugor-brenda-pak-ditesh/
+52. **10 bộ phim cổ trang Trung Quốc khiến khán giả luỵ** — vietgiaitri.com [Vietnamese]
+   https://vietgiaitri.com/10-bo-phim-co-trang-trung-quoc-khien-khan-gia-luy-20260711i7732714/
 
-53. **Summer fun continues with concerts , theater and comedy** — simivalleyacorn.com [English]
-   https://www.simivalleyacorn.com/articles/summer-fun-continues-with-concerts-theater-and-comedy/
+53. **﻿Север , шагнувший за свои пределы** — pravdasevera.ru [Russian]
+   https://pravdasevera.ru/2026/07/11/6a50dbdcb02c7464920b779d.html
 
-54. **Wyre Forest District Council call for sites map published** — kidderminstershuttle.co.uk [English]
-   https://www.kidderminstershuttle.co.uk/news/26267779.wyre-forest-district-council-call-sites-map-published/
+54. **Per què el quadre  Milicià ferit  és irrecuperable ? ** — ara.cat [Catalan]
+   https://www.ara.cat/cultura/art/quadre-milicia-ferit-irrecuperable_1_5795263.html
 
-55. **Meloni se revoltă împotriva regulilor verzi ale UE . Italia contestă cea mai importantă condiție de mediu din viitorul buget al Uniunii** — antena3.ro [Romanian]
-   https://www.antena3.ro/externe/uniunea-europeana/meloni-se-revolta-impotriva-regulilor-verzi-ale-ue-italia-contesta-cea-mai-importanta-conditie-de-mediu-din-viitorul-buget-al-uniunii-795044.html
+55. ** „ Here we ... GONE ! » Manchester United nu - l mai prezintă oficial și renunță la transferul de 45 de milioane de euro ! ** — gsp.ro [Romanian]
+   https://www.gsp.ro/international/campionate/a-picat-transferul-atalanta-ederson-brazilia-mondial-genunchi-vizita-medicala-manchester-united-959326.html
 
-56. **Man Utd deny Ederson transfer story , eyeing Manu Kone too** — caughtoffside.com [English]
-   https://www.caughtoffside.com/2026/07/10/man-utd-deny-ederson-transfer-story-eyeing-manu-kone-too/
+56. **Alecci sulla vicenda dello sgombero del campo  Scordovillo  e la gestione da parte della Regione – Calabria Reportage** — calabriareportage.it [Italian]
+   https://www.calabriareportage.it/alecci-sulla-vicenda-dello-sgombero-del-campo-scordovillo-e-la-gestione-da-parte-della-regione/
 
-57. **Una colección para que la gente « vuelva a hacer suya la poesía » ** — elnortedecastilla.es [Spanish]
-   https://www.elnortedecastilla.es/culturas/libros/coleccion-gente-vuelva-suya-poesia-20260709201113-nt.html
+57. **Ennyit lehet keresni idénymunkával a mezőgazdaságban** — blikk.hu [Hungarian]
+   https://www.blikk.hu/gazdasag/penz/szezonmunka-keresetek-mezogazdasag/dd6197w
 
-58. **Copilul care a scris o ecuație la 4 ani pe o mașinuță de gunoi . Acum e olimpic , are IQ 200 și își face singur muzica vieții** — antena3.ro [Romanian]
-   https://www.antena3.ro/life/copilul-care-a-scris-o-ecuatie-la-4-ani-pe-o-masinuta-de-gunoi-acum-e-olimpic-are-iq-200-si-isi-face-singur-muzica-vietii-795197.html
+58. **Country music icon Tommy Hunter introduced several stars to Canadians** — theglobeandmail.com [English]
+   https://www.theglobeandmail.com/canada/article-tommy-hunter/
 
-59. **Andrey Santo Manchester United shirt number revealed** — caughtoffside.com [English]
-   https://www.caughtoffside.com/2026/07/10/andrey-santos-manchester-united-shirt-number/
+59. **Giugliano , maxi controlli nei campi rom : 26 denunce per furto di energia e 19 auto sequestrate** — marigliano.net [Italian]
+   https://www.marigliano.net/2026/07/giugliano-maxi-controlli-nei-campi-rom-26-denunce-per-furto-di-energia-e-19-auto-sequestrate/123855/
 
-60. **ABDden İsraile  beklemede kal  talimatı : Lübnana saldırılar askıya alındı , gözler şimdi Romada** — turkiyegazetesi.com.tr [Turkish]
-   https://www.turkiyegazetesi.com.tr/dunya/abdden-israile-beklemede-kal-talimati-lubnan-saldirilarini-askiya-aldi-gozler-simdi-r-1802521
+60. **Lo  sceriffo  e  tornato in citta  - il sindaco di salerno vincenzo de luca dichiara ... ** — dagospia.com [Italian]
+   https://www.dagospia.com/politica/sceriffo-e-tornato-in-citta-sindaco-salerno-vincenzo-de-luca-480225
 
-61. **Katil İsrail devlet televizyonu : İsrail , ABDnin talebi üzerine Lübnana saldırılarını durdurdu** — trthaber.com [Turkish]
-   https://www.trthaber.com/haber/dunya/katil-israil-devlet-televizyonu-israil-abdnin-talebi-uzerine-lubnana-saldirilarini-durdurdu-950899.html
+61. **Ziua Mondială a Populației 2026 : provocările demografice din Moldova și UE** — news.yam.md [Romanian]
+   https://news.yam.md/ro/story/43093717
 
-62. **ABDnin Talimatıyla ... İsrail , Lübnan Saldırılarını Durdurdu** — gercekgundem.com [Turkish]
-   https://www.gercekgundem.com/dunya/abdnin-talimatiyla-israil-lubnan-saldirilarini-durdurdu-574742
+62. **Kendji Girac , dans la torpeur caniculaire du pavillon de Grignan , enflamme un peu plus les Nuits dIstres** — laprovence.com [French]
+   https://www.laprovence.com/article/culture-loisirs/4518299978597114/kendji-girac-dans-la-torpeur-caniculaire-du-pavillon-de-grignan-enflamme-un-peu-plus-les-nuits-distres
 
-63. **  บาร์ซา  บรรลุข้อตกลงคว้า  อเดเยมี  เสริมแนวรุก** — dailynews.co.th [Thai]
-   https://www.dailynews.co.th/news/6017502/
+63. **Tajani : Italia me vizion strategjik për Ballkanin** — zeri.info [Albanian]
+   https://zeri.info/bota/629602/tajani-italia-me-vizion-strategjik-per-ballkanin/
 
-64. **  Convoy of caravan return to Whitley Bay Spanish City in  Illegal encampment** — chroniclelive.co.uk [English]
-   https://www.chroniclelive.co.uk/news/north-east-news/whitley-bay-encampment-spanish-city-34272639
+64. **Цыган - альфонс притворился грузином и обокрал свою пассию в Твери** — vesti.ru [Russian]
+   https://www.vesti.ru/ns/cygan-alfons-pritvorilsya-gruzinom-i-obokral-svoyu-passiyu-v-tveri
 
-65. **О Томпсону сад ситну књигу пишу и настављају да промовишу** — politika.rs [Serbian]
-   https://www.politika.rs/scc/clanak/769825/o-tompsonu-sad-sitnu-knjigu-pisu-i-nastavljaju-da-promovisu
+65. **Leto u znaku napornog rada : Sezonski poslovi glavni izvor prihoda za mnoge romske porodice** — telegraf.rs [Serbian]
+   https://www.telegraf.rs/vesti/srbija/4358154-leto-u-znaku-napornog-rada-sezonski-poslovi-glavni-izvor-prihoda-za-mnoge-romske-porodice
 
-66. **  ผีแดง  ล้มดีลคว้า  เอแดร์ซอน  หลังตรวจร่างกายไม่ผ่าน** — dailynews.co.th [Thai]
-   https://www.dailynews.co.th/news/6017509/
+66. **Martine Grael :  Ter uma mulher no leme ainda mexe com o ego de muita gente  ** — estadao.com.br [Portuguese]
+   https://www.estadao.com.br/cultura/trip-fm/martine-grael-ter-uma-mulher-no-leme-ainda-mexe-com-o-ego-de-muita-gente/
 
-67. **Kurti pas takimit me Abdixhikun : Ende ska marrëveshje , por jam optimist për rrugën përpara** — kallxo.com [Albanian]
-   https://kallxo.com/lajm/kurti-pas-takimit-me-abdixhikun-ende-ska-marreveshje-por-jam-optimist-per-rrugen-perpara/
+67. **PRN Johor : 63 . 13 peratus keluar mengundi setakat jam 4 petang** — sinarharian.com.my [Malay]
+   https://www.sinarharian.com.my/article/787373/berita/politik/prn-johor-6313-peratus-keluar-mengundi-setakat-jam-4-petang
 
-68. **Nasa revela segredos do campo magnético de pulsar localizado em nebulosa** — correiobraziliense.com.br [Portuguese]
-   https://www.correiobraziliense.com.br/ciencia-e-saude/2026/07/7458957-nasa-revela-segredos-do-campo-magnetico-de-pulsar-localizado-em-nebulosa.html
+68. **Chelsea Incar Mesin Gol 37 Gol , Eks Barito Putera dan Timnas : Ini Bisa Guncang Lini Depan** — banjarmasin.tribunnews.com [Indonesian]
+   https://banjarmasin.tribunnews.com/superball/1368211/chelsea-incar-mesin-gol-37-gol-eks-barito-putera-dan-timnas-ini-bisa-guncang-lini-depan
 
-69. **Gulyás Gergő Strasbourgban sír – Selmeci János jegyzete** — klubradio.hu [Hungarian]
-   https://www.klubradio.hu/adasok/gulyas-gergo-strasbourgban-sir-selmeci-janos-jegyzete-162204
+69. **Expoziția „ Constelații ale Antichității  la Muzeul Palazzo Altemps din Roma - ** — amosnews.ro [Romanian]
+   https://www.amosnews.ro/expozitia-constelatii-ale-antichitatii-la-muzeul-palazzo-altemps-din-roma/
 
-70. **Manu Kone shkëlqen në Botëror , Roma fërkon duart . Oferta e parë është 58 milionë euro** — 24-ore.com [Albanian]
-   https://24-ore.com/manu-kone-shkelqen-ne-boteror-roma-ferkon-duart-oferta-e-pare-eshte-58-milione-euro/
+70. **Descoperire macabră : Doi soți bogați au fost găsiți mumificați în vila lor . Ce se întâmplă acum cu toată averea lor** — ziare.com [Romanian]
+   https://ziare.com/descoperire-macabra/soti-bogati-gasiti-mumificati-vila-lor-avere-donata-caritabil-2023669
 
-71. **İsrailden kritik geri adım ! ABD istedi , İsrail saldırıları durdurdu** — cnnturk.com [Turkish]
-   https://www.cnnturk.com/dunya/israilden-kritik-geri-adim-abd-istedi-israil-saldirilari-durdurdu-3441240
+71. **Tried and tested : From Hailey Bieber to Amal Clooney , these are the celebrity - approved perfumes to shop now** — hellomagazine.com [English]
+   https://www.hellomagazine.com/hfm/beauty-trends/911563/celebrity-favourite-perfumes-tried-and-tested/
 
-72. **İsrail devlet televizyonu : İsrail , ABDnin talebi üzerine Lübnana saldırılarını durdurdu** — aa.com.tr [Turkish]
-   https://www.aa.com.tr/tr/dunya/israil-devlet-televizyonu-israil-abdnin-talebi-uzerine-lubnana-saldirilarini-durdurdu/3994619
+72. **Θ . Νικηταράς για τον απολογισμό πεπραγμένων του 2025 : Αν και δεν προχώρησαν όλα όπως θα θέλαμε , έχουμε πολλά να κάνουμε ακόμη , αρκεί να μας αφήσουν ελεύθερους … ** — vimatisko.gr [Greek]
+   https://vimatisko.gr/katigoria/kentriki-3/th-nikitaras-gia-ton-apologismo-pepragmenon-t
 
-73. **Cape Fear TV show , starring Amy Adams and Javier Bardem , has distinctly modern menace** — abc.net.au [English]
-   https://www.abc.net.au/news/2026-07-11/cape-fear-nick-antosca-interview-amy-adams-javier-bardem/106898872
+73. **Droga nga Shqipëria drejt Italisë me autobusë linje , 23 persona të arrestuar** — opinion.al [Albanian]
+   https://opinion.al/droga-nga-shqiperia-drejt-italise-me-autobuse-linje-23-persona-te-arrestuar/
 
-74. **100 души се биха в Карловско** — news.bg [Bulgarian]
-   https://news.bg/regions/100-dushi-se-biha-v-karlovsko.html
+74. **Francisco , o viajante inquieto** — observador.pt [Portuguese]
+   https://observador.pt/programas/conversas-do-fim-do-mundo/francisco-o-viajante-inquieto/
 
-75. **İsrail , ABDnin talebi üzerine Lübnana saldırıları durdurdu** — dunya.com [Turkish]
-   https://www.dunya.com/dunya/israil-abdnin-talebi-uzerine-lubnana-saldirilari-durdurdu-haberi-831828
+75. **Futuro Vergara De Laurentiis non ci sta | la mossa del presidente** — zazoom.it [Italian]
+   https://www.zazoom.it/2026-07-11/futuro-vergara-de-laurentiis-non-ci-sta-la-mossa-del-presidente/19449026/
 
-76. **Triciclo è il luogo dove gli oggetti e le persone trovano una seconda chance** — zazoom.it [Italian]
-   https://www.zazoom.it/2026-07-10/triciclo-e-il-luogo-dove-gli-oggetti-e-le-persone-trovano-una-seconda-chance/19447431/
+76. **A fitojmë nga koncerti i Kanye West ? ** — javanews.al [Albanian]
+   https://javanews.al/a-fitojme-nga-koncerti-i-kanye-west/
 
-77. **A családi kastélyt is elkártyázták a zöld asztalnál : szerencsejáték a régi Magyarországon** — divany.hu [Hungarian]
-   https://divany.hu/offline/kartyabarlangok-szerencsejatek-regi-magyarorszag-kastely-elkartyazasa/
+77. **Life Hack : How to deal with travel fatigue and how to tell it apart from jet lag** — irishexaminer.com [English]
+   https://www.irishexaminer.com/lifestyle/advice/arid-41876654.html
 
-78. **โปรแกรมปากกาลดน้ำหนัก ยี่ห้อไหนดี รู้จักปากกาคุมหิวก่อนใช้** — mthai.com [Thai]
-   https://mthai.com/news/pr/414701.html
+78. **LatAm Expat & Nomad Daily Guide for Saturday , July 11 , 2026** — riotimesonline.com [English]
+   https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-saturday-july-11-2026/
 
-79. **Δεκατρία μπαμ « στον αέρα » ** — kathimerini.gr [Greek]
-   https://www.kathimerini.gr/opinion/564335293/dekatria-mpam-ston-aera/
+79. **​​ ¿ Refugios climáticos bajo tierra ? Roma estudia su subsuelo para combatir el calor** — planoinformativo.com [Spanish]
+   https://planoinformativo.com/1156648/refugios-climaticos-bajo-tierrag-roma-estudia-su-subsuelo-para-combatir-el-calor
 
-80. **Talenti shqiptar nga fshati Neproshten që shkëlqen në skenën ndërkombëtare ! ** — tvkoha.tv [Albanian]
-   https://tvkoha.tv/talenti-shqiptar-nga-fshati-neproshten-qe-shkelqen-ne-skenen-nderkombetare/
+80. **นาซา รับสมัครผู้กล้า จำลองใช้ชีวิตบนดาวอังคาร 1 ปีเต็มบนโลก** — springnews.co.th [Thai]
+   https://www.springnews.co.th/digital-tech/technology/864154
 
-81. **คุม  เอกวิทย์  ถึง บช . ปส . - ตร . เผย  Rose Rose  คนบงการส่งเฮโรฮีนหนีออกนอกประเทศ** — thaipbs.or.th [Thai]
-   https://www.thaipbs.or.th/news/content/508136
+81. **Man Utd : Major update on Ederson transfer as INEOS make enquiry to sign TWO other midfielder deals** — teamtalk.com [English]
+   https://www.teamtalk.com/manchester-united/ederson-transfer-still-on-contact-made-manu-kone-joao-gomes
 
-82. **Zastupnik Baksa nakon pucnjave u Čakovcu :  Odbijam dvostruka mjerila i licemjerje  ** — index.hr [Croatian]
-   https://www.index.hr/vijesti/clanak/zastupnik-baksa-nakon-pucnjave-u-cakovcu-odbijam-dvostruka-mjerila-i-licemjerje/2812183.aspx?index_tid=1084781&index_ref=naslovnica_vijesti_najnovije_d
+82. **Bohaté léto v Rožnově : Valašské muzeum představilo program pro celou rodinu** — tyden.cz [Czech]
+   https://www.tyden.cz/bohate-leto-v-roznove-valasske-muzeum-predstavilo-program-pro-celou-rodinu
 
-83. **Alkotmányos védelmet kapott hat kisebbségi népcsoport Ausztriában , köztük a magyarok is** — vg.hu [Hungarian]
-   https://www.vg.hu/helyzetkep/2026/07/alkotmany-nepcsoporttorveny-magyar-vedelem-ausztria
+83. **Basgitarista v plavkách , Radičovej súkromie aj hrmenie z united states . Piatková Pohoda odpálila parádnu šou** — aktuality.sk [Slovak]
+   https://www.aktuality.sk/clanok/VMjCFdx/basgitarista-v-plavkach-radicovej-sukromie-aj-hrmenie-z-usa-piatkova-pohoda-odpalila-paradnu-sou/
 
-84. **Basoreliefuri de pe fațada Palatului Farnese din Roma , sculptate sub îndrumarea lui Michelangelo , au fost restaurate ( GALERIE FOTO ) ** — agerpres.ro [Romanian]
-   https://agerpres.ro/cultura/2026/07/10/basoreliefuri-de-pe-fatada-palatului-farnese-din-roma-sculptate-sub-indrumarea-lui-michelangelo-au-f--1575183
+84. **Gipsy Kings ofrecerá el concierto del año en Arcos** — andaluciainformacion.es [Spanish]
+   https://www.andaluciainformacion.es/articulo/arcos/gipsy-kings-ofrecera-concierto-ano-arcos/202607110923273428194.html
 
-85. **10 juillet 11937 : Django Reinhardt fusionne le jazz et la culture manouche en plein Paris** — jazzradio.fr [French]
-   https://www.jazzradio.fr/news/musique/43035/10-juillet-11937-django-reinhardt-fusionne-le-jazz-et-la-culture-manouche-en-plein-paris
+85. **Юлія Гонтарук про фільм To Die to Live : інтервю для LB . ua** — lb.ua [Ukrainian]
+   https://lb.ua/culture/2026/07/11/750802_yuliya_gontaruk_usi_boyatsya.html
 
-86. ** ¿ Refugios climático bajo tierra ? Roma explora su subsuelo ante el calor extremo « Diario La Capital de Mar del Plata** — lacapitalmdp.com [Spanish]
-   https://www.lacapitalmdp.com/refugios-climaticos-bajo-tierra-roma-explora-su-subsuelo-ante-el-calor-extremo/
+86. **  Surface Tension  by Roma Devanbu at Axis Gallery - KVMR Community Radio** — kvmr.org [English]
+   https://www.kvmr.org/kvmr-event/surface-tension-by-roma-devanbu-at-axis-gallery/2026-07-11/
 
-87. **Прокатная десятка** — kommersant.ru [Russian]
-   https://www.kommersant.ru/doc/8799672
+87. **ஜூலை 17ல் அறிவிக்கப்பட்ட படங்கள் திட்டமிட்டபடி வருமா ? ** — cinema.dinamalar.com [Tamil]
+   https://cinema.dinamalar.com/news/kollywood/will-the-films-announced-on-july-17th-come-as-planned/139426
 
-88. **Güvenilir çiftçi atasözüne göre : Bu yaz sıcaklar insanı ve hayvanı zorlayacak** — tr.euronews.com [Turkish]
-   https://tr.euronews.com/2026/07/10/guvenilir-ciftci-atasozune-gore-bu-yaz-sicaklar-insani-ve-hayvani-zorlayacak
+88. **Lộ diện quán quân giải Vô địch Quốc gia Yulgang Grand Championship 2026** — baomoi.com [Vietnamese]
+   https://baomoi.com/lo-dien-quan-quan-giai-vo-dich-quoc-gia-yulgang-grand-championship-2026-c55594050.epi
 
-89. **Масово сбиване между 100 души в Пловдивско , полицията блокира района** — plovdiv24.bg [Bulgarian]
-   https://www.plovdiv24.bg/novini/regionalni/Masovo-sbivane-mezhdu-100-dushi-v-Plovdivsko-policiyata-blokira-raiona-2993754
+89. **Evropska komisija vam želi dopovedati , da ste vsi  strukturno rasistični  ** — demokracija.si [Slovenian]
+   https://demokracija.si/tujina/evropska-komisija-vam-zeli-dopovedati-da-ste-vsi-strukturno-rasisticni/
 
-90. **Martine Grael : primeira mulher a comandar barco no SailGP** — revistatrip.uol.com.br [Portuguese]
-   https://revistatrip.uol.com.br/trip-fm/martine-grael-ter-uma-mulher-no-leme-ainda-mexe-com-o-ego-de-muita-gente
+90. **O delegație militară americană va călători în Liban pentru a sprijini implementarea armistițiului** — stiripesurse.ro [Romanian]
+   https://www.stiripesurse.ro/o-delegatie-militara-americana-va-calatori-in-liban-pentru-a-sprijini-implementarea-armistitiului_3902469
 
-91. **EU to delay launch of new ETIAS until 2027 - find out why** — hillingdontimes.co.uk [English]
-   https://www.hillingdontimes.co.uk/news/national/uk-today/26270256.eu-delay-launch-new-etias-2027---find/
+91. **Giugliano corrente rubata per alimentare il campo rom in zona ASI** — zazoom.it [Italian]
+   https://www.zazoom.it/2026-07-11/giugliano-corrente-rubata-per-alimentare-il-campo-rom-in-zona-asi-denunciati-26-capifamiglia/19448524/
 
-92. **Julia Luzán , la periodista cultural que no se parecía a nadie** — elpais.com [Spanish]
-   https://elpais.com/cultura/2026-07-10/julia-luzan-la-periodista-cultural-que-no-se-parecia-a-nadie.html
+92. **O delegație militară americană merge în Liban pentru implementarea armistițiului dintre Israel și Hezbollah** — mediafax.ro [Romanian]
+   https://www.mediafax.ro/externe/o-delegatie-militara-americana-merge-in-liban-pentru-implementarea-armistitiului-dintre-israel-si-hezbollah-23770548
 
-93. **Kurti optimist para takimit me Abdixhikun** — kallxo.com [Albanian]
-   https://kallxo.com/lajm/kurti-optimist-para-takimit-me-abdixhikun/
+93. **Accident fatal la Bilicenii Vechi : un șofer a murit , iar două pasagere au ajuns la spital** — news.yam.md [Romanian]
+   https://news.yam.md/ro/story/43056064
 
-94. **Outdoor Movie Night : The Sandlot** — wqsv.org [English]
-   https://www.wqsv.org/outdoor-movie-night-the-sandlot/
+94. **AfD and Roma** — https://rroma.org/feed/ [en]
+   https://rroma.org/afd-and-roma-4/?utm_source=rss&utm_medium=rss&utm_campaign=afd-and-roma-4
+   AfD politicians Norbert Emmerich and Enxhi Seli-Zacharias were filmed giving brooms to Sinti and Roma in Gelsenkirchen, instructing them to [&#8230;]
 
-95. **EU to delay launch of new ETIAS until 2027 - find out why | Harwich and Manningtree Standard** — harwichandmanningtreestandard.co.uk [English]
-   https://www.harwichandmanningtreestandard.co.uk/news/national/uk-today/26270256.eu-delay-launch-new-etias-2027---find/
+95. **Crime in Greece** — https://rroma.org/feed/ [en]
+   https://rroma.org/crime-in-greece-4/?utm_source=rss&utm_medium=rss&utm_campaign=crime-in-greece-4
+   Another article whereby crime in Greece is basically a Roma problem… According to the article, two criminal organizations, primarily composed [&#8230;]
 
-96. **10 bộ phim Hoa ngữ được đánh giá hay từ tập đầu tiên : Tống Uy Long dẫn đầu** — vietgiaitri.com [Vietnamese]
-   https://vietgiaitri.com/10-bo-phim-hoa-ngu-duoc-danh-gia-hay-tu-tap-dau-tien-tong-uy-long-dan-dau-20260710i7732194/
+96. **Portugal and Roma** — https://rroma.org/feed/ [en]
+   https://rroma.org/portugal-and-roma-4/?utm_source=rss&utm_medium=rss&utm_campaign=portugal-and-roma-4
+   DJ Jorge Syllvah performed at the National Gypsy People&#8217;s Day in Lisbon, highlighting the challenges faced by the Roma community [&#8230;]
 
-97. **6 phim cổ trang trinh thám Trung Quốc đáng xem nhất** — vietgiaitri.com [Vietnamese]
-   https://vietgiaitri.com/6-phim-co-trang-trinh-tham-trung-quoc-dang-xem-nhat-20260710i7732202/
+97. **Arakhel …** — https://rroma.org/feed/ [en]
+   https://rroma.org/arakhel/?utm_source=rss&utm_medium=rss&utm_campaign=arakhel
+   The city of Pirot has been selected as the pilot city for the regional project &#8220;Arakhel,&#8221; aimed at improving protection [&#8230;]
 
-98. **EU to delay launch of new ETIAS until 2027 - find out why | Braintree and Witham Times** — braintreeandwithamtimes.co.uk [English]
-   https://www.braintreeandwithamtimes.co.uk/news/national/uk-today/26270256.eu-delay-launch-new-etias-2027---find/
+98. **Oecumenical Initiative** — https://rroma.org/feed/ [en]
+   https://rroma.org/oecumenical-initiative/?utm_source=rss&utm_medium=rss&utm_campaign=oecumenical-initiative
+   Representatives of the Ecumenical Community presented a model for social inclusion of Roma at a meeting of European networks in [&#8230;]
 
-99. **Moroccan recipes from Madaq** — saultstar.com [English]
-   https://www.saultstar.com:443/life/food/moroccan-recipes
+99. **Bulgaria Brawl – Again** — https://rroma.org/feed/ [en]
+   https://rroma.org/bulgaria-brawl-again/?utm_source=rss&utm_medium=rss&utm_campaign=bulgaria-brawl-again
+   A mass brawl involving around 100 people occurred in the village of Kŭrnare, Bulgaria, between two feuding Roma families, as [&#8230;]
 
-100. **Fitojmë nga koncerti i Kanye West ? - Report - tv . al** — report-tv.al [Albanian]
-   https://report-tv.al/lajm/fitojme-nga-koncerti-i-kanye-west
+100. **Za obrazovanje više od pet miliona dinara, ostale mere iz LAP-a za Rome bez finansiranja.** — https://romaworld.rs/feed/ [sr]
+   https://romaworld.rs/za-obrazovanje-vise-od-pet-miliona-dinara-ostale-mere-iz-lap-a-za-rome-bez-finansiranja/
+   <p>Grad Niš je za sprovođenje Lokalnog akcionog plana za unapređenje položaja Roma i Romkinja za period 2024–2026. godine opredelio po 12 miliona dinara, za svaku godinu. Od tog iznosa, oko pet milion
 
-101. **Moroccan recipes from Madaq | Fairview Post** — fairviewpost.com [English]
-   https://www.fairviewpost.com:443/life/food/moroccan-recipes
+101. **Slovenskí punkáči aj rómska dychovka, ktorá obletela svet. Pozrite si atmosféru tretieho dňa Pohody (fotogaléria)** — https://romanoforum.dennikn.sk/feed/ [sk]
+   https://romanoforum.dennikn.sk/slovenski-punkaci-aj-romska-dychovka-ktora-obletela-svet-pozrite-si-atmosferu-tretieho-dna-pohody-fotogaleria/
+   Pozrite si zábery z piatkových hudobno-vizuálnych vystúpení na trenčianskom letisku.
 
-102. **Moroccan recipes from Madaq | Northern News** — northernnews.ca [English]
-   https://www.northernnews.ca:443/life/food/moroccan-recipes
-
-103. **Moroccan recipes from Madaq | Pincher Creek Echo** — pinchercreekecho.com [English]
-   https://www.pinchercreekecho.com:443/life/food/moroccan-recipes
-
-104. **Sila rómskych piesní aj pôsobivá šou Gorillaz. Ako vyzeral druhý deň na Pohode (fotogaléria)** — https://romanoforum.dennikn.sk/feed/ [sk]
-   https://romanoforum.dennikn.sk/sila-romskych-piesni-aj-posobiva-sou-gorillaz-ako-vyzeral-druhy-den-na-pohode-fotogaleria/
-   Pozrite si zábery z hudobno-vizuálnych vystúpení na trenčianskom letisku.
-
-105. **HIRING: Call for Lead Researcher (Consultancy) RIPE INDEX - ERGO Network** — ERGO Network [en]
-   https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnltVnh3Znh5dEZ5ZlVTREV4MUhYSWFubDAyaVRyRUJGLVRERUZHc0tZT2xCZGFsazU1bGk1U2VVVFJsdTNpcC1yWmFkUHV1T1Q3SlZOV0M0bDRxSEdBdWpFVmViX2pXUlJHckk3blp4WW8zS1gyOE1PSnM2LU14dXRHeVdvZTZvQUtFVFV4RzE?oc=5
-   <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnltVnh3Znh5dEZ5ZlVTREV4MUhYSWFubDAyaVRyRUJGLVRERUZHc0tZT2xCZGFsazU1bGk1U2VVVFJsdTNpcC1yWmFkUHV1T1Q3SlZOV0M0bDRxSEdBdWpFVmViX2pXUlJHckk3bl
+102. **Na rómske hliadky pôjde vyše 15 miliónov eur. Obce môžu žiadať podporu - Roma Television** — Roma Television [sk]
+   https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkpSMkJJSTNxUEdIbkFUaDJadEN6VlgxczZuM1NrUmNFOXRmN0x5OWx2MF9rOTlMY1dEM0thUlp2cEJOcE1rcHlaWV8yV05qYm9fUWJNLXJLSEZhTUNTRDZqbS05V2VkVFEyWVA4V2taX1ZJUlo2Um9xbGVEVlZYZUZKbG5ySzlJazI1bFF6UXYxcXdubTBuNTRuNnVPN0YwNWtaTF9SUmoxTjBjYXo5UWw0RkhsR05pSDRia1JNc2Q3Uk44a2RlY0I1WHpKenBiY3lHZXBCUXh4aERDdGc?oc=5
+   <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkpSMkJJSTNxUEdIbkFUaDJadEN6VlgxczZuM1NrUmNFOXRmN0x5OWx2MF9rOTlMY1dEM0thUlp2cEJOcE1rcHlaWV8yV05qYm9fUWJNLXJLSEZhTUNTRDZqbS05V2VkVFEyWVA4V2
