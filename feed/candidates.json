@@ -1,473 +1,721 @@
 {
-  "generated_utc": "2026-07-19T07:26:44+00:00",
-  "count": 57,
+  "generated_utc": "2026-07-19T16:02:35+00:00",
+  "count": 88,
   "sources": {
-    "google_news": 11,
+    "google_news": 39,
     "google_news_status": "ok",
     "gdelt": 250,
     "gdelt_status": "ok",
     "gdelt_note": "",
     "feeds": 30,
-    "watch": 3,
-    "before_dedup": 294,
-    "total": 266,
-    "skipped_seen": 209
+    "watch": 2,
+    "before_dedup": 321,
+    "total": 287,
+    "skipped_seen": 199
   },
   "candidates": [
     {
-      "title": "Raquel Puertas, una paya que trabaja con el pueblo gitano en Plasencia: \"No son un problema, son una oportunidad\" - El Periódico Extremadura",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNm1xQ2xwUnp0WjRmYThkeWdqM2lWcWtqN2tLYnRRSnVJLVU2OWoxcWlVUXBxanQ4R2dIcEJOYXgzQzVvcF9RejJlVmFzTVUxMnZWSkY0RjNrQkpTeHk3azNvUmFiR3ZTNHZVUF80OU9kTHdnc0xSR0czNlNhU0hmTG9RRjg1MkN0eTFkVk1zNllfaUNVT1NLeGRqdVFJYzROVkJOVTltdjNUYjkxSGNwVVlKRG00N2lGUDVxdV9id1BFZURIZWNmLUtrb0lmWTJTN3U5am9XQlgzQdIB3wFBVV95cUxPNzNQVVZIajhIT0VGTlJBM2I2NWJyR0JSdFdIUHFkTjM5ck9RNWFzMTF0YmloWjRFd3hEZ2FBVFZsNU12Q1VzS1c1d1lXVWU4ZWQwTjhkYVN1emktTFBjbUdyYUZuTmZjWnhGdWxUeGxEenlsYWVrSGRtLTZTNUM5VExPQ0V1a21fU3Y2NzJfTXRfMzg0SEd1cEJYdHVrelpLdnRxd3hkZjlzT0NDUXMwQWRwcmhkeU5PTW45ckdIdE5zT194U0ludU5KZGMzMUF1WlRVQXlYaVhYVWJtMlpv?oc=5",
-      "source": "El Periódico Extremadura",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNm1xQ2xwUnp0WjRmYThkeWdqM2lWcWtqN2tLYnRRSnVJLVU2OWoxcWlVUXBxanQ4R2dIcEJOYXgzQzVvcF9RejJlVmFzTVUxMnZWSkY0RjNrQkpTeHk3azNvUmFiR3ZTNHZVUF80OU9kTHdnc0xSR0czNlNhU0hmTG9RRjg1MkN0eTFkVk1zNllfaUNVT1NLeGRqdVFJYzROVkJOVTltdjNUYjkxSGNwVVlKRG00N2lGUDVxdV9id1BFZURIZWNmLUtrb0lmWTJTN3U5am9XQlgzQdIB3wFBVV95cUxPNzNQVVZIajhIT0VGTlJBM2I2NWJyR0JSdFdIUHFkTjM5ck9RNWFzMTF0YmloWjRFd3hEZ2FBVFZsNU12Q1VzS1c1d1lXVWU4ZWQwTjhkYVN1emktTFBjbUdyYUZuTmZjWnhGdWxUeGxEen",
-      "published": "Sun, 19 Jul 2026 04:30:54 GMT",
+      "title": "Music is what God intended, says Pope Leo - aleteia.org",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QWG5TVjVQSXRBWC1tRW0tVURSQXNRNkdxZ2p1M2UwU0NrcmdOeEM3VEVQSGxWNTBJM2Rma3VpcVhmdWRXRUtEWmVUSk1KcEhjTHZYRmNNUWhMZWg5M1VUNUFjbi1WOGRQMkVaTVo1V3FVQjBYaVhBOWlvRlk?oc=5",
+      "source": "aleteia.org",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5QWG5TVjVQSXRBWC1tRW0tVURSQXNRNkdxZ2p1M2UwU0NrcmdOeEM3VEVQSGxWNTBJM2Rma3VpcVhmdWRXRUtEWmVUSk1KcEhjTHZYRmNNUWhMZWg5M1VUNUFjbi1WOGRQMkVaTVo1V3FVQjBYaVhBOWlvRlk?oc=5\" target=\"_blank\">Music is what God intended, says Pope Leo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aleteia.org</font>",
+      "published": "Sun, 19 Jul 2026 10:24:04 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "Influencers Andrew Tate, Tristan arrested in US for 38 new rape, sex trafficking charges in UK - theweek.in",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQX3J3by1tSDczY0RRTU9OMVAtelNvYllnd20xZTh1MzhGVGZMV0d5TlNEZjkzVGJ4bHBiUXJKZkIzbGNIOGZKaDFPTEJfTE9TNEM5Q1pTSDhyYVFNMkNjUVJzWFFQYjA2MFNGUEZ3bkZ5UkhBVHFpVHVicW5Ya1ROeUhWUEtZd2NYci1TLXRSMC1VT2FkSU1kU3MyajJZMFZ5aU91NEFhbHJ2NTQ1b1BxR1hDcDR2aEtfMlpkNW9ydTFoZ1hpNV9lWlVYR0ItTDV0X0g5UGR4dy1yaGd2LWVXM2F4MlR2Y1hPZDQteHh2UjZVSThsZGhvejkzT0VCTXp4NTktSEZCNEMwM0HSAZACQVVfeXFMTmRRZWR6VXRSTl9tc29vYmtwd09KUFdORHVRbDJycnZWY19seVJ3TWtlRl9iTmpYTXVnLTdOaVM0d0hfUTItM0FqZEUtdFdSektBdlBUQ1ZESC1iTHdxUGxoeDM3WWVQZnNJaUkzNVNUbmlqdVVIcW56dTFJODA1LUx1Y2IzVDlEVFZXcm84azFHeTEySjhBaFFrUWtDOWRoWEZsNEFDVmtPSTZRZW05aFpReUdPR3hUUHhVSlRxOHRjSkdGZnhKNHZkbkZEZXQ0ZXdtRXBTbUluN2J0RTA5YnFTbFgxdEtGc216RzJhQ1NwN2d1WUZFc0pDZ0E5ZWp5b2prdGdDaHZaaDdpb1l4bzM?oc=5",
+      "source": "theweek.in",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQX3J3by1tSDczY0RRTU9OMVAtelNvYllnd20xZTh1MzhGVGZMV0d5TlNEZjkzVGJ4bHBiUXJKZkIzbGNIOGZKaDFPTEJfTE9TNEM5Q1pTSDhyYVFNMkNjUVJzWFFQYjA2MFNGUEZ3bkZ5UkhBVHFpVHVicW5Ya1ROeUhWUEtZd2NYci1TLXRSMC1VT2FkSU1kU3MyajJZMFZ5aU91NEFhbHJ2NTQ1b1BxR1hDcDR2aEtfMlpkNW9ydTFoZ1hpNV9lWlVYR0ItTDV0X0g5UGR4dy1yaGd2LWVXM2F4MlR2Y1hPZDQteHh2UjZVSThsZGhvejkzT0VCTXp4NTktSEZCNEMwM0HSAZACQVVfeXFMTmRRZWR6VXRSTl9tc29vYmtwd09KUFdORHVRbDJycnZWY19seVJ3TWtlRl9iTmpYTXVnLTdOaVM0d0",
+      "published": "Sun, 19 Jul 2026 09:01:22 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "ROMI PENTRU ROMÂNIA / 19 07. 2026 - B1TV",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JMm5FazVfZ041b1Z2eFYxYk51X0pmdVZLc0FOQjhvYlUxUl9qUjh1MnBKZ0QteHVaaXBhaXpNVXIxOVhURmtaVFFFWFo5R3V1S2dWLXFJa2F2Zlo0cG9r?oc=5",
+      "source": "B1TV",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JMm5FazVfZ041b1Z2eFYxYk51X0pmdVZLc0FOQjhvYlUxUl9qUjh1MnBKZ0QteHVaaXBhaXpNVXIxOVhURmtaVFFFWFo5R3V1S2dWLXFJa2F2Zlo0cG9r?oc=5\" target=\"_blank\">ROMI PENTRU ROMÂNIA / 19 07. 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B1TV</font>",
+      "published": "Sun, 19 Jul 2026 08:23:04 GMT",
+      "lang": "ro"
+    },
+    {
+      "title": "Una directora del Ministerio de Igualdad pide un mínimo de gitanos en las listas electorales - The Objective",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWVWVFpzLXNGOXNfU25QaXpIS2tIYjlMLUtXYURKN2ltSS1wRVE0UlRnSmVBOTEteENCdGlZYmkxNko1OEF6akl2N3NJOXJfakJ6TmNFVHI3bXFiU0YxVUt0bDdTQmFJdlpqdnVOcFE4SGJnYlA2RTMxUVVFb3pzc1VFTlZVaTduX3BhSWlYYnNrVVN6VjBIRHktTFNZRGlXbnp4OGdwQlZYVzNISGpHc09kNFk3RWvSAbwBQVVfeXFMTk9fMDI5ZGU5dzNfMDdMWlUyemExYkIwLXh5dTFpc3lqQlJEekNFMlM3aGpoUHZnX2dENmI4RDRWSFRtYnFRY211bzExOGlBZnBVaEVSMDQxSWNHOV9QUk4xMG1iMS14cVhiY2lrRHgxLThuTG9DWnJFTlNVdmdIMlJ4Q0Fhd0lkakdiV25qN1VadDdEbUcyMnlfdmo4VTd6T1lmQk90TjlZNXlhN2l0a0ZzUEo2OGZvdFA1RmY?oc=5",
+      "source": "The Objective",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWVWVFpzLXNGOXNfU25QaXpIS2tIYjlMLUtXYURKN2ltSS1wRVE0UlRnSmVBOTEteENCdGlZYmkxNko1OEF6akl2N3NJOXJfakJ6TmNFVHI3bXFiU0YxVUt0bDdTQmFJdlpqdnVOcFE4SGJnYlA2RTMxUVVFb3pzc1VFTlZVaTduX3BhSWlYYnNrVVN6VjBIRHktTFNZRGlXbnp4OGdwQlZYVzNISGpHc09kNFk3RWvSAbwBQVVfeXFMTk9fMDI5ZGU5dzNfMDdMWlUyemExYkIwLXh5dTFpc3lqQlJEekNFMlM3aGpoUHZnX2dENmI4RDRWSFRtYnFRY211bzExOGlBZnBVaEVSMDQxSWNHOV9QUk4xMG1iMS14cVhiY2lrRHgxLThuTG9DWnJFTlNVdmdIMlJ4Q0Fhd0lkakdiV25qN1VadDdEbU",
+      "published": "Sun, 19 Jul 2026 13:52:26 GMT",
       "lang": "es"
     },
     {
-      "title": "Lo Ferro, con sabor a melón - Murcia Plaza",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnpmVS1YRmFDRThYOWpzeWxqNXpUQWxERmhIM2lRWG94WUxPc3NveTJKRElGTUU2NmR0ai0tV2U4cWFtM2N4a3duZUV4anFQSlNUVElWUDd4bnNiaXhxSldqN1g4Yy1IT3Nka0RzM1VUelFXOGR0QVFyWF9sMjdxa2tBOA?oc=5",
-      "source": "Murcia Plaza",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnpmVS1YRmFDRThYOWpzeWxqNXpUQWxERmhIM2lRWG94WUxPc3NveTJKRElGTUU2NmR0ai0tV2U4cWFtM2N4a3duZUV4anFQSlNUVElWUDd4bnNiaXhxSldqN1g4Yy1IT3Nka0RzM1VUelFXOGR0QVFyWF9sMjdxa2tBOA?oc=5\" target=\"_blank\">Lo Ferro, con sabor a melón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Murcia Plaza</font>",
-      "published": "Sun, 19 Jul 2026 04:01:37 GMT",
+      "title": "Dhoad Gypsies of Rajasthan hipnotiza Etnosur en la noche grande del festival - www.diariojaen.es",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPckJaNEtFVGt3SVgzVWJWQzkxSXRPMG03YnJxYzEyTWRreS1OcllvYXJRQUYtVEZicnA3WGI0Q0xEVTd2Q1NTSVY0NWNjR2p0ajVfbGthRk01OXpzSVRGVUNkekxOQ0o4R3Z5U2JMcXI2VXFic3VLMWd0dTh0U3ZfRGR0R3pEMmdlVUg5OGZqSDJFTlZTWXlVLXUtSWYzYVJNNTMxa1ZPVHZSZ1NpamFjenQySTlmekJ4cXB1b1d30gHDAUFVX3lxTE5YTVR0QkNXeEpfWVZIdDZkd1BKT09aZVlJZVY4TVZCR3BxUTVtR3p6Ql9mRUY2a3ZUVVczcE5Oc0hIdkhLSEVZVTI3aERXVjE5RW1RLWdQVVRXbm93VU5GVVNDcGdtN24tVGdEaW4zNDBldUlHUHpiRE5tNEJPZXdTTm1nNm5lMVhrV0FWVTJMZmVoMUl0WGdzTUlqMFhGRXNHU2RXTE1xRmtuakt5YnJYc0V1bFdqdDFRSkpKODhxZmMxTQ?oc=5",
+      "source": "www.diariojaen.es",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPckJaNEtFVGt3SVgzVWJWQzkxSXRPMG03YnJxYzEyTWRreS1OcllvYXJRQUYtVEZicnA3WGI0Q0xEVTd2Q1NTSVY0NWNjR2p0ajVfbGthRk01OXpzSVRGVUNkekxOQ0o4R3Z5U2JMcXI2VXFic3VLMWd0dTh0U3ZfRGR0R3pEMmdlVUg5OGZqSDJFTlZTWXlVLXUtSWYzYVJNNTMxa1ZPVHZSZ1NpamFjenQySTlmekJ4cXB1b1d30gHDAUFVX3lxTE5YTVR0QkNXeEpfWVZIdDZkd1BKT09aZVlJZVY4TVZCR3BxUTVtR3p6Ql9mRUY2a3ZUVVczcE5Oc0hIdkhLSEVZVTI3aERXVjE5RW1RLWdQVVRXbm93VU5GVVNDcGdtN24tVGdEaW4zNDBldUlHUHpiRE5tNEJPZXdTTm1nNm5lMVhrV0FWVT",
+      "published": "Sun, 19 Jul 2026 14:26:00 GMT",
       "lang": "es"
     },
     {
-      "title": "Fotogalería | Raquel Puertas, una paya que trabaja con el pueblo gitano en Plasencia - El Periódico Extremadura",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnhQQnBmUFdKT2NScE9KU2VJb3VET2U3aEhKY1o3VEhPWElpQU04cDIxajYxZEs3MUtxVUZJek1zaEdmVWd2WDFiT0o4M3NLdjV0RlBIZXdxRXdtS1d6TU54NEpQLTJ6bDFodTYxdEpudUpKTFZpaUJMSnhpX2k3alB3eGlsRl9mYjVjZ0RsNEtBa2tOQlplRG5OX2NfUEtQRFRvbHBaaU5aa0VWbm1KOUdCRjNMX1B4eGYwcA?oc=5",
-      "source": "El Periódico Extremadura",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnhQQnBmUFdKT2NScE9KU2VJb3VET2U3aEhKY1o3VEhPWElpQU04cDIxajYxZEs3MUtxVUZJek1zaEdmVWd2WDFiT0o4M3NLdjV0RlBIZXdxRXdtS1d6TU54NEpQLTJ6bDFodTYxdEpudUpKTFZpaUJMSnhpX2k3alB3eGlsRl9mYjVjZ0RsNEtBa2tOQlplRG5OX2NfUEtQRFRvbHBaaU5aa0VWbm1KOUdCRjNMX1B4eGYwcA?oc=5\" target=\"_blank\">Fotogalería | Raquel Puertas, una paya que trabaja con el pueblo gitano en Plasencia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico Extremadura</font>",
-      "published": "Sun, 19 Jul 2026 05:00:02 GMT",
+      "title": "La bomba que parecía un balón: un proyecto educativo rompe años de silencio en Granada - Granada Hoy",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXlaMGpHRFN6UDFjdk9acDJ5Snd0cVl3aHRvd3dpTDJhblhSekNfb1hMeHhEaXF4YXp6b0FpQXduUkVsejBqVktJODFQVnk1bktHa091QTl6ZU9aUzFmQjZ3NVVTWmV2YzVLdTNubDExTW5DaTNuekdKQWVHYVBEemNGb2UtcGRJX3I2MVRRdDlUVlJLTllDekJBOGNYZWdQNVNLNW1wQljSAagBQVVfeXFMT3V5WjBqR0RTelAxY3ZPWnAyeUp3dHFZd2h0b3d3aUwyYW5YUnpDX29YTHh4RGlxeGF6em9BaUF3blJFbHowalZLSTgxUFZ5NW5LR2tPdUE5emVPWlMxZkI2dzVVU1pldmM1S3UzbmwxMU1uQ2kzbnpHSkFlR2FQRHpjRm9lLXBkSV9yNjFUUXQ5VFZSS05ZQ3pCQThjWGVnUDVTSzVtcEJY?oc=5",
+      "source": "Granada Hoy",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXlaMGpHRFN6UDFjdk9acDJ5Snd0cVl3aHRvd3dpTDJhblhSekNfb1hMeHhEaXF4YXp6b0FpQXduUkVsejBqVktJODFQVnk1bktHa091QTl6ZU9aUzFmQjZ3NVVTWmV2YzVLdTNubDExTW5DaTNuekdKQWVHYVBEemNGb2UtcGRJX3I2MVRRdDlUVlJLTllDekJBOGNYZWdQNVNLNW1wQljSAagBQVVfeXFMT3V5WjBqR0RTelAxY3ZPWnAyeUp3dHFZd2h0b3d3aUwyYW5YUnpDX29YTHh4RGlxeGF6em9BaUF3blJFbHowalZLSTgxUFZ5NW5LR2tPdUE5emVPWlMxZkI2dzVVU1pldmM1S3UzbmwxMU1uQ2kzbnpHSkFlR2FQRHpjRm9lLXBkSV9yNjFUUXQ5VFZSS05ZQ3pCQThjWGVnUDVTSz",
+      "published": "Sun, 19 Jul 2026 12:00:46 GMT",
       "lang": "es"
     },
     {
-      "title": "El Top 10 del Regional tiene a SFRC y Duendes como punteros - Diario Uno Santa Fe",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRk1OSDFCRS15TTVGd2IzeTJYYXZzN2s3TlhKWF9NWXBmUERXQWlCN0tqS3Nuc0hqYjR0TzlaczA5WF9tbVVHR0FpWkxGNGVLN1F1TWQzMzMxOWIzY3JieUhoeDhRcUlhREkweHpEOFNEZm0yTjNFbFVIT3dEMFpDMF9tQjd0N28zeUNueE0zck9ONExVSGZoc2RXYmROV3ZXaHRyVGRjSTF4dXg5SVN2aXpzbErSAbQBQVVfeXFMT0ZNTkgxQkUteU01RndiM3kyWGF2czdrN05YSlhfTVlwZlBEV0FpQjdLaktzbnNIamI0dE85WnMwOVhfbW1VR0dBaVpMRjRlSzdRdU1kMzMzMTliM2NyYnlIaHg4UXFJYURJMHh6RDhTRGZtMk4zRWxVSE93RDBaQzBfbUI3dDdvM3lDbnhNM3JPTjRMVUhmaHNkV2JkTld2V2h0clRkY0kxeHV4OUlTdml6c2xK?oc=5",
-      "source": "Diario Uno Santa Fe",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPRk1OSDFCRS15TTVGd2IzeTJYYXZzN2s3TlhKWF9NWXBmUERXQWlCN0tqS3Nuc0hqYjR0TzlaczA5WF9tbVVHR0FpWkxGNGVLN1F1TWQzMzMxOWIzY3JieUhoeDhRcUlhREkweHpEOFNEZm0yTjNFbFVIT3dEMFpDMF9tQjd0N28zeUNueE0zck9ONExVSGZoc2RXYmROV3ZXaHRyVGRjSTF4dXg5SVN2aXpzbErSAbQBQVVfeXFMT0ZNTkgxQkUteU01RndiM3kyWGF2czdrN05YSlhfTVlwZlBEV0FpQjdLaktzbnNIamI0dE85WnMwOVhfbW1VR0dBaVpMRjRlSzdRdU1kMzMzMTliM2NyYnlIaHg4UXFJYURJMHh6RDhTRGZtMk4zRWxVSE93RDBaQzBfbUI3dDdvM3lDbnhNM3JPTjRMVUhmaH",
-      "published": "Sat, 18 Jul 2026 23:58:25 GMT",
-      "lang": "es"
-    },
-    {
-      "title": "Ce bidonville près de la Cité de l’Espace ne devrait être évacué qu’au printemps - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHd3MjRVQVU4TEQyOHJRSDBNQWdEd080RU9XVGJnNEllQVY4ZnByZDJHMEJiRkNYUjN0UzdHZnlGXzhteDlDWkRHMGtOTkVJNDRoTWFKdk50bFp0NlZKN0ExaVBodGo3QUJNTWxadDAwbU8tdVFGTnJfQ1hRa2RXZUNMUFllQlJCTVlBSWxqYS02WjBDX2M0SUVVUWszdXFqZ3hKYUZ6bnF0eHl1cHBrbEpTMy1KZ3BGMkxXaF9NcHhpQ3p4U3c?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHd3MjRVQVU4TEQyOHJRSDBNQWdEd080RU9XVGJnNEllQVY4ZnByZDJHMEJiRkNYUjN0UzdHZnlGXzhteDlDWkRHMGtOTkVJNDRoTWFKdk50bFp0NlZKN0ExaVBodGo3QUJNTWxadDAwbU8tdVFGTnJfQ1hRa2RXZUNMUFllQlJCTVlBSWxqYS02WjBDX2M0SUVVUWszdXFqZ3hKYUZ6bnF0eHl1cHBrbEpTMy1KZ3BGMkxXaF9NcHhpQ3p4U3c?oc=5\" target=\"_blank\">Ce bidonville près de la Cité de l’Espace ne devrait être évacué qu’au printemps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ladepeche.fr</font>",
-      "published": "Sun, 19 Jul 2026 03:14:00 GMT",
+      "title": "\"On ne s'y attendait pas\" : à Digne-les-Bains, des gens du voyage ont pris place sur un terrain privé - La Provence",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSnUtWXJwVXJzeFZkSzc2cmI0eDRHOFhvWDJBSmxKdmd0Umh3TFVGdkFndFY0Y0VzVHh2Ym96Z1FVOEhpOGxOMmMwdXlyMmtfNnRkTllxM2F1R2U0anlTS2RMZFVxZzBZc0VpLTBsbHNGRFJTVTdYdFdPMFl1ZmFuSF8yYVJyRzllVXU4OUNSYXgwSS1IbzJrREFELXV2Uy11ckxlV3RoR2NIbzd6bnMxNWhTWVRlSXgxSDl0WW5HQlExRHExdVZCUFUxNGJkMGtzRnlvd21NY28wRGJteDlaaFVGTFppVk9vRnc?oc=5",
+      "source": "La Provence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSnUtWXJwVXJzeFZkSzc2cmI0eDRHOFhvWDJBSmxKdmd0Umh3TFVGdkFndFY0Y0VzVHh2Ym96Z1FVOEhpOGxOMmMwdXlyMmtfNnRkTllxM2F1R2U0anlTS2RMZFVxZzBZc0VpLTBsbHNGRFJTVTdYdFdPMFl1ZmFuSF8yYVJyRzllVXU4OUNSYXgwSS1IbzJrREFELXV2Uy11ckxlV3RoR2NIbzd6bnMxNWhTWVRlSXgxSDl0WW5HQlExRHExdVZCUFUxNGJkMGtzRnlvd21NY28wRGJteDlaaFVGTFppVk9vRnc?oc=5\" target=\"_blank\">\"On ne s'y attendait pas\" : à Digne-les-Bains, des gens du voyage ont pris place sur un terrain privé</a>&nbsp;&",
+      "published": "Sun, 19 Jul 2026 13:46:01 GMT",
       "lang": "fr"
     },
     {
-      "title": "Après trois épisodes de canicule, des organismes exténués en Loire-Atlantique - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHFFOUZlVnhzNHZobzRNazRLcTM2Y0pqa0wxYTlZUS1kZ1JNOXJGeUdCUkZhVlF4S2JuaGFyVFM4ZkJUaVpjeUxDWTV4TVpuLWtrOU9fVmtsSTUweG9BbkIweDg4UG9aU1M3YW1TVjV6dnBlY0NQaElOVHNBQmZTX0RHMmpaQ19SUGNzYXc2S3ZCTGpqa2tBdVM3bzhGdGJUYWt0Vkx6QTEwT19XOHVObnQwbi1vTmNnVlJSVlNPdk92TmZ4NzBkQzhpM3hOd25oM3dXNjZob1RtXzF5WURUN0ZUaEtoZTdKMUY5Yw?oc=5",
+      "title": "Après le départ des gens du voyage, plus 80 bénévoles nettoient un champ à Saint-Pierre-du-Mont - ici.fr",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcDBEOVB2bERRUUFjbUZRaGswVXdaVER5OWIzMHQxUkc3RVN4TlpYcFZKaGZscUlxSDJYZ0xsQlQzQ3JNLWNzZkxpd2xESElIWk1Cek1UQy1ZaUNseWx6aDBHTno5aGl3VUhqdmNTY2E3X0FzUzBpZUdLeG1ZbkZYM0J3Mmw5YlRvY3ZadE12a1NmWmJwYng0Q0NKbFlSazVGUk9VUk92Tkp3dFhFeXBGUXZUUWpqYy03U2RoTWMxd2pXTkZ6QjRTWWZBSHBoeEp3QmVHcGtUV3BpaTVXV2xWM04wRTRKbkM5X1diY1dHZGg1VG9TclNHeWxtUTBodF9R?oc=5",
+      "source": "ici.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQcDBEOVB2bERRUUFjbUZRaGswVXdaVER5OWIzMHQxUkc3RVN4TlpYcFZKaGZscUlxSDJYZ0xsQlQzQ3JNLWNzZkxpd2xESElIWk1Cek1UQy1ZaUNseWx6aDBHTno5aGl3VUhqdmNTY2E3X0FzUzBpZUdLeG1ZbkZYM0J3Mmw5YlRvY3ZadE12a1NmWmJwYng0Q0NKbFlSazVGUk9VUk92Tkp3dFhFeXBGUXZUUWpqYy03U2RoTWMxd2pXTkZ6QjRTWWZBSHBoeEp3QmVHcGtUV3BpaTVXV2xWM04wRTRKbkM5X1diY1dHZGg1VG9TclNHeWxtUTBodF9R?oc=5\" target=\"_blank\">Après le départ des gens du voyage, plus 80 bénévoles nettoient un champ à Saint-Pi",
+      "published": "Sun, 19 Jul 2026 13:22:40 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Des gens du voyage s’installent sans autorisation près de Saint-Brieuc : une plainte déposée pour occupation illégale - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOOW0ySnRreDc3dWd0TEltc1ZMRnNoZVRyV1lMOUtraWx5RGFEU3JtMmxUaHgtZDVudjRIaGRoa2N0cmlDUFlucFVmQ1M5SEN2R0NnWEl6OTBzb2JEVkl5aWJIbXprbThxTkwxX194ZVBVd1Q3UDlnUTZYeWlpcFBZWWp5ZWF1Wmp3MnI3NDBWOWk2QUNaYlBmVm1qSXFhcl9LcEd0T3VUR3ZJdWJJN2hiaFNCbVU4aGdlYm5wbWpVWWwwT1FscW5VMUJsSmlTTm9vYVFXQXlzM2FPbkVTbFo2ajNuUDJnRmdNbHA2aERReUlyTHRDeGdDX2FkVkxrTjRHNFMzQUJ6UHVWdVNISU9idU1uc29lQ1hWQjg3ZFVxa0xnQ3dVUm00?oc=5",
       "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHFFOUZlVnhzNHZobzRNazRLcTM2Y0pqa0wxYTlZUS1kZ1JNOXJGeUdCUkZhVlF4S2JuaGFyVFM4ZkJUaVpjeUxDWTV4TVpuLWtrOU9fVmtsSTUweG9BbkIweDg4UG9aU1M3YW1TVjV6dnBlY0NQaElOVHNBQmZTX0RHMmpaQ19SUGNzYXc2S3ZCTGpqa2tBdVM3bzhGdGJUYWt0Vkx6QTEwT19XOHVObnQwbi1vTmNnVlJSVlNPdk92TmZ4NzBkQzhpM3hOd25oM3dXNjZob1RtXzF5WURUN0ZUaEtoZTdKMUY5Yw?oc=5\" target=\"_blank\">Après trois épisodes de canicule, des organismes exténués en Loire-Atlantique</a>&nbsp;&nbsp;<font color=\"#6f",
-      "published": "Sun, 19 Jul 2026 07:00:38 GMT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxOOW0ySnRreDc3dWd0TEltc1ZMRnNoZVRyV1lMOUtraWx5RGFEU3JtMmxUaHgtZDVudjRIaGRoa2N0cmlDUFlucFVmQ1M5SEN2R0NnWEl6OTBzb2JEVkl5aWJIbXprbThxTkwxX194ZVBVd1Q3UDlnUTZYeWlpcFBZWWp5ZWF1Wmp3MnI3NDBWOWk2QUNaYlBmVm1qSXFhcl9LcEd0T3VUR3ZJdWJJN2hiaFNCbVU4aGdlYm5wbWpVWWwwT1FscW5VMUJsSmlTTm9vYVFXQXlzM2FPbkVTbFo2ajNuUDJnRmdNbHA2aERReUlyTHRDeGdDX2FkVkxrTjRHNFMzQUJ6UHVWdVNISU9idU1uc29lQ1hWQjg3ZFVxa0xnQ3dVUm00?oc=5\" target=\"_blank\">Des gens du voyage s’installent",
+      "published": "Sun, 19 Jul 2026 13:20:51 GMT",
       "lang": "fr"
     },
     {
-      "title": "Xiaomi 17 : la version stable d'Android 17 avec HyperOS 3 a commencé à être déployée. - fr.xiaomi-miui.gr",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VLXFxWE9UM0ZVSEUwWXRVWlB5X0RVY2gySUJRN1JqVVd6WmdmS1dBdEkzcGRrTmh6dHl2bjRodWVGSnYwbFEyVUMwN3c3c0tHNF9ESEhQV3NLY25Mdi1PRk5BanZkTVFXYkR0SElYdzRaU093cjhUODdB?oc=5",
-      "source": "fr.xiaomi-miui.gr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9VLXFxWE9UM0ZVSEUwWXRVWlB5X0RVY2gySUJRN1JqVVd6WmdmS1dBdEkzcGRrTmh6dHl2bjRodWVGSnYwbFEyVUMwN3c3c0tHNF9ESEhQV3NLY25Mdi1PRk5BanZkTVFXYkR0SElYdzRaU093cjhUODdB?oc=5\" target=\"_blank\">Xiaomi 17 : la version stable d'Android 17 avec HyperOS 3 a commencé à être déployée.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fr.xiaomi-miui.gr</font>",
-      "published": "Sat, 18 Jul 2026 19:03:11 GMT",
+      "title": "« Ils ont voulu négocier » : des gens du voyage garent quarante caravanes dans l'Eure, le maire reste inflexible - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQak5PdVgxN0lzTm1GUHBNVE5JS0NIR2pFQjlvNUVjM2N0THVGQ003cFNVXy1wRGJhdVFJRXVsOTNZX3duTENMMzB1XzluUnhhVWp1bjFURjh5UnVzeWY5Wlk3RnYybTBkaGJlTmNLajJJUnY3eHRRd0lsVlVOUm1OVEh4MjhBMHdKS25mY3RlYzdoa3hwelNaYzV5UjJDRDdHb2xRTWw5djNjRDZPY3dZN0tISEdYWDBKaU5CMnY2X1NkcU9WZXYtaFRsa2gxSWZhMGRrRFdKYWZGMjBqOVhhaVYzRWlpQzVGblczLUhEN3hYSXE2WUxockV2ZzN1TS1GYUgwcVRnRQ?oc=5",
+      "source": "Actu.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQak5PdVgxN0lzTm1GUHBNVE5JS0NIR2pFQjlvNUVjM2N0THVGQ003cFNVXy1wRGJhdVFJRXVsOTNZX3duTENMMzB1XzluUnhhVWp1bjFURjh5UnVzeWY5Wlk3RnYybTBkaGJlTmNLajJJUnY3eHRRd0lsVlVOUm1OVEh4MjhBMHdKS25mY3RlYzdoa3hwelNaYzV5UjJDRDdHb2xRTWw5djNjRDZPY3dZN0tISEdYWDBKaU5CMnY2X1NkcU9WZXYtaFRsa2gxSWZhMGRrRFdKYWZGMjBqOVhhaVYzRWlpQzVGblczLUhEN3hYSXE2WUxockV2ZzN1TS1GYUgwcVRnRQ?oc=5\" target=\"_blank\">« Ils ont voulu négocier » : des gens du voyage garent quarante caravanes",
+      "published": "Sun, 19 Jul 2026 14:21:16 GMT",
       "lang": "fr"
     },
     {
-      "title": "Θεσσαλονίκη: Σαφάρι ελέγχων από την ΕΛ.ΑΣ. σε οικισμό Ρομά στην Περαία - Thestival",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS1F4UWF2cjdJQkRZNGZJUTlPVWtoRllxSVBrejhQallJcDFRM3ZQZUUyYmJNWEFWYndHT3c0WVhyaGNhTUJuSkgwR3RnQlR1V2J4ajFPdm1nTHdMb3lXbWxCcUN4R0JPaV9pRnk4RkhNVkd2SU9mMEZkSTJzY0EwUFRCb09aRmlvTXB0US0xR2RoQQ?oc=5",
-      "source": "Thestival",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQS1F4UWF2cjdJQkRZNGZJUTlPVWtoRllxSVBrejhQallJcDFRM3ZQZUUyYmJNWEFWYndHT3c0WVhyaGNhTUJuSkgwR3RnQlR1V2J4ajFPdm1nTHdMb3lXbWxCcUN4R0JPaV9pRnk4RkhNVkd2SU9mMEZkSTJzY0EwUFRCb09aRmlvTXB0US0xR2RoQQ?oc=5\" target=\"_blank\">Θεσσαλονίκη: Σαφάρι ελέγχων από την ΕΛ.ΑΣ. σε οικισμό Ρομά στην Περαία</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thestival</font>",
-      "published": "Sun, 19 Jul 2026 06:28:00 GMT",
+      "title": "Bassin d’Arcachon : les gens du voyage reviennent au Teich, des routes bloquées - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGFiNUhjM0kzQnFYblh4czM3MVlXRXVGd3Zuc1N3TjQ3Q1NWYWRqc3hjVWMtYjNKVUI0TE5obXVRWHYzcHd3SUpLdXVMeTF1Q3pLblJiYUl4SUJuaUZ6U0JYc0pWZmNIUDdSUHBGTWJBVFJSWHVqZUJwMnBZSTdINlMwQWEtaWVCc2JTTlBBYmhENDRhM0NlS1c4X0RrT1lmM3JMdEw4V2l3aTk5N0VaQzZ3WWdaN0NxLVFhRnVvY2tEY0dqaHJOX2ZR?oc=5",
+      "source": "Sud Ouest",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGFiNUhjM0kzQnFYblh4czM3MVlXRXVGd3Zuc1N3TjQ3Q1NWYWRqc3hjVWMtYjNKVUI0TE5obXVRWHYzcHd3SUpLdXVMeTF1Q3pLblJiYUl4SUJuaUZ6U0JYc0pWZmNIUDdSUHBGTWJBVFJSWHVqZUJwMnBZSTdINlMwQWEtaWVCc2JTTlBBYmhENDRhM0NlS1c4X0RrT1lmM3JMdEw4V2l3aTk5N0VaQzZ3WWdaN0NxLVFhRnVvY2tEY0dqaHJOX2ZR?oc=5\" target=\"_blank\">Bassin d’Arcachon : les gens du voyage reviennent au Teich, des routes bloquées</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sud Ouest</font>",
+      "published": "Sun, 19 Jul 2026 14:25:59 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Des gens du voyage s’installent sans autorisation près de Saint-Brieuc : une plainte déposée - Maville.com Saint Brieuc",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYTQ1eFRaT0hNSUJaX0ZCN0NSLUtJNUQyaVpDVF9CaDhWX1AtU3o4dDUyeWNKblpjNHd6Z2NSQU1OWks0bFBKN2t0VVZIYXJkZXF5bW1CLUJvUWdHZi1yUUwwNmlMTE9rWVk4dUdJMXprLUQ2RnZ5X1JpN0diUDI4YS0xRnVwTERvaE5zZ3FueHY2WXZfRHhSdFl5Z09UdV9qX0pSSWRsandBRFp4cXlDa01HSGZrelJQTjdaQzExQU9IM0RBRm10UUQ4R2N2S1VvRE1xYVlmYTlRNm55RXE3d1hwVWpVeWpIYW5VdWVseE1iU3JHUWhjQTVrb2JPbDlqMm1hb2VMVFh0d3dIVmJOSEp3?oc=5",
+      "source": "Maville.com Saint Brieuc",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPYTQ1eFRaT0hNSUJaX0ZCN0NSLUtJNUQyaVpDVF9CaDhWX1AtU3o4dDUyeWNKblpjNHd6Z2NSQU1OWks0bFBKN2t0VVZIYXJkZXF5bW1CLUJvUWdHZi1yUUwwNmlMTE9rWVk4dUdJMXprLUQ2RnZ5X1JpN0diUDI4YS0xRnVwTERvaE5zZ3FueHY2WXZfRHhSdFl5Z09UdV9qX0pSSWRsandBRFp4cXlDa01HSGZrelJQTjdaQzExQU9IM0RBRm10UUQ4R2N2S1VvRE1xYVlmYTlRNm55RXE3d1hwVWpVeWpIYW5VdWVseE1iU3JHUWhjQTVrb2JPbDlqMm1hb2VMVFh0d3dIVmJOSEp3?oc=5\" target=\"_blank\">Des gens du voyage s’installent sans autorisation près de S",
+      "published": "Sun, 19 Jul 2026 14:20:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Vosges. À Saint-Étienne-lès-Remiremont, on bloque certains accès pour les gens du voyage - Vosges Matin",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXd3Ujhoc3A3Qk9hYzlqYnMxNmNMVkVjVk9LbEZ0XzYzMW5CZnBaV3ppNnBXT1dBY3Uxa0tXRkUxZHVxa0NVc2lmdGNVSXZPQV9aaElSTGVOY1ZBZUE3MmRLb2pGZzl2RGZnaG1seVl5Z0M1SUtLTUl3Q2ZVSXN1MWdwMHYtd3FWLU5nc0JzNXg3WEZwWjJTM2V1WlJQbDZRdU9ESHVWSkV5TlRYOUhfU0k2N1NxZVBWY0lQR2RBMGtGRXlDVkE?oc=5",
+      "source": "Vosges Matin",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXd3Ujhoc3A3Qk9hYzlqYnMxNmNMVkVjVk9LbEZ0XzYzMW5CZnBaV3ppNnBXT1dBY3Uxa0tXRkUxZHVxa0NVc2lmdGNVSXZPQV9aaElSTGVOY1ZBZUE3MmRLb2pGZzl2RGZnaG1seVl5Z0M1SUtLTUl3Q2ZVSXN1MWdwMHYtd3FWLU5nc0JzNXg3WEZwWjJTM2V1WlJQbDZRdU9ESHVWSkV5TlRYOUhfU0k2N1NxZVBWY0lQR2RBMGtGRXlDVkE?oc=5\" target=\"_blank\">Vosges. À Saint-Étienne-lès-Remiremont, on bloque certains accès pour les gens du voyage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vosges Matin</font>",
+      "published": "Sun, 19 Jul 2026 10:00:15 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "« La situation n'est plus tenable » : Florent Benoît en appel au ministre de l’Intérieur sur les gens du voyage - Le Dauphiné Libéré",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGxxY3ZRT3RRTnR5ZmNnY2Q1cDI1LWZwT2FKWUN1WFVneGFtWGlYWExIVGdtRHZNaGU2eVZOUmpjOUlNM1g3ZVdzSVlrZWtBd21YN3Y5Z2kzVFlMSVpuRW1pdnBadTUyZUVmc1hEZWt3cTUwVDYyTFE1RlhsZzh3VTlXbEhkUnpURzdSb3NWNTJPUFVDVHdnTlJSNTRsM2d5UzhCQUQybE02SzI1U3pwMjdqb1RWMlNscmNxOEdiMmlfZw?oc=5",
+      "source": "Le Dauphiné Libéré",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGxxY3ZRT3RRTnR5ZmNnY2Q1cDI1LWZwT2FKWUN1WFVneGFtWGlYWExIVGdtRHZNaGU2eVZOUmpjOUlNM1g3ZVdzSVlrZWtBd21YN3Y5Z2kzVFlMSVpuRW1pdnBadTUyZUVmc1hEZWt3cTUwVDYyTFE1RlhsZzh3VTlXbEhkUnpURzdSb3NWNTJPUFVDVHdnTlJSNTRsM2d5UzhCQUQybE02SzI1U3pwMjdqb1RWMlNscmNxOEdiMmlfZw?oc=5\" target=\"_blank\">« La situation n'est plus tenable » : Florent Benoît en appel au ministre de l’Intérieur sur les gens du voyage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Dauphiné Libé",
+      "published": "Sun, 19 Jul 2026 10:33:47 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Suarlée: une communauté des gens du voyage s'installent dans un champ du BEP - L'Avenir",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXVVR2w3ZmtqcXlZQjJlM0ZUSG9DNk5QU1Z5TVdhNmhCQmFnUGNSV0Z4czhrdTViMlh1UlBiRFNYSGlxVmxRN0p5S1ptN0NVdHpNWnNzNTBBSXFfVGdBRGhiempOQzUwZnFiZ0VmV3EwWmJ4VW9TdUQ2aDRfT2hfX2FsM3E0NnJfR3pOb1JXamZKSG1qUUpRTnFvSFhBTzY2Q3dsd2d2Rk1tS3Z0djlBNWJITGZmWlE5d2tZS1VxN1FlTGxEYjhzWkE1TFhKVVB2OVE?oc=5",
+      "source": "L'Avenir",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXVVR2w3ZmtqcXlZQjJlM0ZUSG9DNk5QU1Z5TVdhNmhCQmFnUGNSV0Z4czhrdTViMlh1UlBiRFNYSGlxVmxRN0p5S1ptN0NVdHpNWnNzNTBBSXFfVGdBRGhiempOQzUwZnFiZ0VmV3EwWmJ4VW9TdUQ2aDRfT2hfX2FsM3E0NnJfR3pOb1JXamZKSG1qUUpRTnFvSFhBTzY2Q3dsd2d2Rk1tS3Z0djlBNWJITGZmWlE5d2tZS1VxN1FlTGxEYjhzWkE1TFhKVVB2OVE?oc=5\" target=\"_blank\">Suarlée: une communauté des gens du voyage s'installent dans un champ du BEP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L'Avenir</font>",
+      "published": "Sun, 19 Jul 2026 15:24:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "« Le stade est plein » : une quarantaine de caravanes de la communauté des gens du voyage installée près de Honfleur - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdW9IaS1jX25GNnFZQVVyTFRBOGtHTGpCRXhGYzZ4UGlzamdnN2lkMTRwMHM3Sm5YRzdUOGdEemVBYk5oOVdtTUJhS1RzVUhUTUlwSGVNRzgxVzZocF8zTlVSaWIzeGhhYlIyZ2FqYUpBQXZ6U05uT0FiOUhTQkJ0THBPc2ZfQ2pGTnJCSFNLaDRLTTJaM0NlcXgyY0E2d0Vva0s5a1dSYUhsdlhzZVc2TTcwak5OTlFCZTd2ZkF5eGRWVlFRUzVCcWN2TWpGVkVYX2lNNldaOU1SZHFIR01udW9JcklKV2lwc0tnOGgxSm16ajNpRmFJZjk0WXg4bjVHQmprY2Q3ZTgzV19pV0lOX2dZcWFvR0V5ZG5jWmlKWWZfUQ?oc=5",
+      "source": "Ouest-France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQdW9IaS1jX25GNnFZQVVyTFRBOGtHTGpCRXhGYzZ4UGlzamdnN2lkMTRwMHM3Sm5YRzdUOGdEemVBYk5oOVdtTUJhS1RzVUhUTUlwSGVNRzgxVzZocF8zTlVSaWIzeGhhYlIyZ2FqYUpBQXZ6U05uT0FiOUhTQkJ0THBPc2ZfQ2pGTnJCSFNLaDRLTTJaM0NlcXgyY0E2d0Vva0s5a1dSYUhsdlhzZVc2TTcwak5OTlFCZTd2ZkF5eGRWVlFRUzVCcWN2TWpGVkVYX2lNNldaOU1SZHFIR01udW9JcklKV2lwc0tnOGgxSm16ajNpRmFJZjk0WXg4bjVHQmprY2Q3ZTgzV19pV0lOX2dZcWFvR0V5ZG5jWmlKWWZfUQ?oc=5\" target=\"_blank\">« Le stade est plein » : une quaranta",
+      "published": "Sun, 19 Jul 2026 10:03:22 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Marennes-Hiers-Brouage : le collectif des riverains dépose un recours gracieux contre l’aire de grand passage des gens du voyage au lieu-dit Fief de Jean-Roy - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOb0pCWE5YMl9SeVdfZkZXU21tSmh2UFdxWEdQNmhKZk9zQmd1UWJtSzNodnFORVM1NlNkM1prQXBMaWxBWGpPY1B3NHpfZ09wRWlhUjBITGtYRVc4R3pCUEZkaGJYWnFjM2QtemN6TjVMajB1SXpMMjVPT1NUVGZranpaN1d6QTNHV0ZyVG4xM0lZRWw2eVhFSW9qMUE2ZHJNTDctQmdQd0RCWXZXZTNSSVRFOGVrNzZnbjliTjdaaS1YeVN6OXVsb0tKdmlVR0p5ZXFhUVNBNElzMmlONFUyREdTV2dBaWZVOU4xbUtrV1FMcWh5TFZub3hyX05qZ3ZhWmNyM2dnTkxVTTV2Snl3TlE2OGlQempydUNhZFNteHl5MWlvUndFU1RIbXdCQTZ3UU13Z0NqYVhiRGk0NFc5WTZyc3R5aEhZV3lwQVhQVTZlaFk?oc=5",
+      "source": "Sud Ouest",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wJBVV95cUxOb0pCWE5YMl9SeVdfZkZXU21tSmh2UFdxWEdQNmhKZk9zQmd1UWJtSzNodnFORVM1NlNkM1prQXBMaWxBWGpPY1B3NHpfZ09wRWlhUjBITGtYRVc4R3pCUEZkaGJYWnFjM2QtemN6TjVMajB1SXpMMjVPT1NUVGZranpaN1d6QTNHV0ZyVG4xM0lZRWw2eVhFSW9qMUE2ZHJNTDctQmdQd0RCWXZXZTNSSVRFOGVrNzZnbjliTjdaaS1YeVN6OXVsb0tKdmlVR0p5ZXFhUVNBNElzMmlONFUyREdTV2dBaWZVOU4xbUtrV1FMcWh5TFZub3hyX05qZ3ZhWmNyM2dnTkxVTTV2Snl3TlE2OGlQempydUNhZFNteHl5MWlvUndFU1RIbXdCQTZ3UU13Z0NqYVhiRGk0NFc5WTZyc3R5aEhZV3lwQVhQVT",
+      "published": "Sun, 19 Jul 2026 15:59:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Une vingtaine de caravanes installée illégalement sur le stade d’entraînement de foot à Vinon-sur-Verdon - La Provence",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZmRJOUxsNXQyUmp3UU9oZjJYWTg3SV9BX0IzS1J4amo0RWV0UVpSb0lMYXJsT3ZwM3BPdTZIVkY2SDNhQlYyX1NUdlBCM2M1NlFMYzhjaHM1U2VqUi1lQ3NFdG45a3E2OV9WcjR0WHJiUDQwWHZhbThIdmk4NTdJUnF5OFprVXFDVnNHa1ljQUdwUUFPVUw4U2ZNcFVVNGZ4WnpTZXlENWUyTmR3NV9kVWVtTWJ5NDlTN0UycHhZYUc1Q3NwOFlWamxZdUVkendkajFyOGNuNmQ0bC1kWXE4aG9TOGVVbDdpaTR0YnllZjVhTnRn?oc=5",
+      "source": "La Provence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZmRJOUxsNXQyUmp3UU9oZjJYWTg3SV9BX0IzS1J4amo0RWV0UVpSb0lMYXJsT3ZwM3BPdTZIVkY2SDNhQlYyX1NUdlBCM2M1NlFMYzhjaHM1U2VqUi1lQ3NFdG45a3E2OV9WcjR0WHJiUDQwWHZhbThIdmk4NTdJUnF5OFprVXFDVnNHa1ljQUdwUUFPVUw4U2ZNcFVVNGZ4WnpTZXlENWUyTmR3NV9kVWVtTWJ5NDlTN0UycHhZYUc1Q3NwOFlWamxZdUVkendkajFyOGNuNmQ0bC1kWXE4aG9TOGVVbDdpaTR0YnllZjVhTnRn?oc=5\" target=\"_blank\">Une vingtaine de caravanes installée illégalement sur le stade d’entraînement de foot à Vinon-sur-V",
+      "published": "Sun, 19 Jul 2026 10:46:06 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Für eine demokratische Gegenwart und Zukunft - Nibelungen Kurier",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcHozRjBzWi1NaDcwWl9qLXNWOG1WQ2t6VFFNblN5Zmtia3k0VW03Z1FoX2tjd0lRVzAxU1dpcmRVa3NzTDYzTFMzVjVMYzAwQk11ZTBIM2hfOVBhdjBWWWUtTUtNaWtqSHFwNlpHMEVTNmlNYmZQWF91TG9yZ1k?oc=5",
+      "source": "Nibelungen Kurier",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcHozRjBzWi1NaDcwWl9qLXNWOG1WQ2t6VFFNblN5Zmtia3k0VW03Z1FoX2tjd0lRVzAxU1dpcmRVa3NzTDYzTFMzVjVMYzAwQk11ZTBIM2hfOVBhdjBWWWUtTUtNaWtqSHFwNlpHMEVTNmlNYmZQWF91TG9yZ1k?oc=5\" target=\"_blank\">Für eine demokratische Gegenwart und Zukunft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nibelungen Kurier</font>",
+      "published": "Sun, 19 Jul 2026 12:55:00 GMT",
+      "lang": "de"
+    },
+    {
+      "title": "\"Sono uniti, non come i cristiani\": il vertice tra le cosche dopo il furto nel cantiere Amazon - Corriere della Calabria",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2RDQ2NlaVNGcWR3NlcxbXhGTmlIcWZ2VmpaRXV5R2lQLU5qZG5EYU96RFl1TF82c0ViOU13bTNhZDJBUTdhN3lvLUUya25vQ3phUnRnM0lOTUtRa21wOXJaX1VqNU5pWEQzTmxjdTZBemE5VmZJMU1TeEtmWlN3czR2MEl6RXVRNmRiS3RaVDdNSmNUalhFRmpnb3VwOVJxeUNJTk1sMUoybVQyTFJ2ZUhwZ2tESGZRMDhXT2NYVVNoWFpWTjR1NDBBU2pnelc5ejF5UXZR?oc=5",
+      "source": "Corriere della Calabria",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2RDQ2NlaVNGcWR3NlcxbXhGTmlIcWZ2VmpaRXV5R2lQLU5qZG5EYU96RFl1TF82c0ViOU13bTNhZDJBUTdhN3lvLUUya25vQ3phUnRnM0lOTUtRa21wOXJaX1VqNU5pWEQzTmxjdTZBemE5VmZJMU1TeEtmWlN3czR2MEl6RXVRNmRiS3RaVDdNSmNUalhFRmpnb3VwOVJxeUNJTk1sMUoybVQyTFJ2ZUhwZ2tESGZRMDhXT2NYVVNoWFpWTjR1NDBBU2pnelc5ejF5UXZR?oc=5\" target=\"_blank\">\"Sono uniti, non come i cristiani\": il vertice tra le cosche dopo il furto nel cantiere Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Corrier",
+      "published": "Sun, 19 Jul 2026 12:30:00 GMT",
+      "lang": "it"
+    },
+    {
+      "title": "Percorso formativo “Determinanti sociali, accesso ai diritti e contrasto dell’antiziganismo” a Palazzo Nicotera - Lamezia Informa",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZWZqU2wtNTRKUjN4SEVTbDVpcGZUMzVfeFFpdmU0M285Nlp3NHlETnNfN1FGR3owSGRoQ2s4VE5sUUFMdEVRcDl6aHU4MTdQM3dzRkQ0Mkx0eExPQkxDb2FsRGV3bGhBMjVwbm9nbmFidzhDYU5zLWxRdWp4Mk9laXVCR0VWNXhza0VZdzRkcWF2eUg4YXZYWF9xWHF6ZVFOaHZPYmVQS3owa25xRDdYaDRaUm1hb21NQWszZVpSUnBuNGpjZ3g5bkFQOTRtNmthUU8zenFLc3FjRjZZa1BtdnBTallCb3VfUFhiUlRUSnJPWk00cWpaQTBIVzbSAfwBQVVfeXFMTmVmalNsLTU0SlIzeEhFU2w1aXBmVDM1X3hRaXZlNDNvOTZadzR5RE5zXzdRRkd6MEhkaENrOFRObFFBTHRFUXA5emh1ODE3UDN3c0ZENDJMdHhMT0JMQ29hbERld2xoQTI1cG5vZ25hYnc4Q2FOcy1sUXVqeDJPZWl1QkdFVjV4c2tFWXc0ZHFhdnlIOGF2WFhfcVhxemVRTmh2T2JlUEt6MGtucUQ3WGg0WlJtYW9tTUFrM2VaUlJwbjRqY2d4OW5BUDk0bTZrYVFPM3pxS3NxY0Y2WWtQbXZwU2pZQm91X1BYYlJUVEpyT1pNNHFqWkEwSFc2?oc=5",
+      "source": "Lamezia Informa",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZWZqU2wtNTRKUjN4SEVTbDVpcGZUMzVfeFFpdmU0M285Nlp3NHlETnNfN1FGR3owSGRoQ2s4VE5sUUFMdEVRcDl6aHU4MTdQM3dzRkQ0Mkx0eExPQkxDb2FsRGV3bGhBMjVwbm9nbmFidzhDYU5zLWxRdWp4Mk9laXVCR0VWNXhza0VZdzRkcWF2eUg4YXZYWF9xWHF6ZVFOaHZPYmVQS3owa25xRDdYaDRaUm1hb21NQWszZVpSUnBuNGpjZ3g5bkFQOTRtNmthUU8zenFLc3FjRjZZa1BtdnBTallCb3VfUFhiUlRUSnJPWk00cWpaQTBIVzbSAfwBQVVfeXFMTmVmalNsLTU0SlIzeEhFU2w1aXBmVDM1X3hRaXZlNDNvOTZadzR5RE5zXzdRRkd6MEhkaENrOFRObFFBTHRFUXA5emh1ODE3UD",
+      "published": "Sun, 19 Jul 2026 07:20:56 GMT",
+      "lang": "it"
+    },
+    {
+      "title": "Бойко за президентския вот: Всички цигани ще гласуват за ПБ (ВИДЕО) - Lupa BG",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldjZ25CUVF6a2VIdXE3b29PRzUtN1lQM3RoenlEUFFBOFBITjR5RElVMFkwd3pkcWpLeUxOQlBUQUR4MGJiRkp4THNFQUlWcnN5NjN6OFp2QUlVanZtNVlmQkxrN1RpV1l0cEpaclJEaHJ5QVNHV1VncTZuQ1c3Y2FkQmQwSzFOLTJhY2RZWWs4YWExUFNSVUV6QkxlV2R6WGJMZHB4d0c?oc=5",
+      "source": "Lupa BG",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldjZ25CUVF6a2VIdXE3b29PRzUtN1lQM3RoenlEUFFBOFBITjR5RElVMFkwd3pkcWpLeUxOQlBUQUR4MGJiRkp4THNFQUlWcnN5NjN6OFp2QUlVanZtNVlmQkxrN1RpV1l0cEpaclJEaHJ5QVNHV1VncTZuQ1c3Y2FkQmQwSzFOLTJhY2RZWWs4YWExUFNSVUV6QkxlV2R6WGJMZHB4d0c?oc=5\" target=\"_blank\">Бойко за президентския вот: Всички цигани ще гласуват за ПБ (ВИДЕО)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lupa BG</font>",
+      "published": "Sun, 19 Jul 2026 14:25:28 GMT",
+      "lang": "bg"
+    },
+    {
+      "title": "Отсега мога да ви кажа, че божествена двойка да излезе - novini247.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRl9pbmhna1RBWHRtM0VlZGI1b2ZIZ0JSWXFHZU1mY0lTLWhQUVdITmhGdmIxWVdNMmNQY2VCSjBxbmRGbmo5S19IMGpSRDk3ekVPMnFJc0FJbWE3aS1uRU1maGhUV1hMa2JkMEVncVc5eHJuQWJXNk5rYUFyXzF4S0djZ0tncS1EN0E0bHhoWVcxcFVUYzk0eHdIa3RaUQ?oc=5",
+      "source": "novini247.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRl9pbmhna1RBWHRtM0VlZGI1b2ZIZ0JSWXFHZU1mY0lTLWhQUVdITmhGdmIxWVdNMmNQY2VCSjBxbmRGbmo5S19IMGpSRDk3ekVPMnFJc0FJbWE3aS1uRU1maGhUV1hMa2JkMEVncVc5eHJuQWJXNk5rYUFyXzF4S0djZ0tncS1EN0E0bHhoWVcxcFVUYzk0eHdIa3RaUQ?oc=5\" target=\"_blank\">Отсега мога да ви кажа, че божествена двойка да излезе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">novini247.com</font>",
+      "published": "Sun, 19 Jul 2026 14:32:30 GMT",
+      "lang": "bg"
+    },
+    {
+      "title": "Γύφτος ή Ρομά; Η λέξη που άλλαξε σημασία και η ιστορία που δεν πρέπει να ξεχαστεί - The TOC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3lJUU9zQUxGZldCTk9YSkdEXzZJajA0WUNfMGtIbjlaRzFJaW4zcnBqSkRkNG4wdFAwVGF3ZnIzSFNIMkQxV1owTmJDbEdpbUhRY2NoNE9VTlFmV0hteGlRMEI5aG95NENrSjhwTk1ENnhMa2N3bVBKc21jd0JYSjRSN1YxYzJETFNQMU1wV2FmNEJGVlFSLVY3NVZ0NzA5TmlpVldBZnFzR3dfRi1ZZEc5d3MwVmlJOTZnRHpnajVXRWvSAcMBQVVfeXFMTWN5SVFPc0FMRmZXQk5PWEpHRF82SWowNFlDXzBrSG45WkcxSWluM3JwakpEZDRuMHRQMFRhd2ZyM0hTSDJEMVdaME5iQ2xHaW1IUWNjaDRPVU5RZldIbXhpUTBCOWhveTRDa0o4cE5NRDZ4TGtjd21QSnNtY3dCWEo0UjdWMWMyRExTUDFNcFdhZjRCRlZRUi1WNzVWdDcwOU5paVZXQWZxc0d3X0YtWWRHOXdzMFZpSTk2Z0R6Z2o1V0Vr?oc=5",
+      "source": "The TOC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3lJUU9zQUxGZldCTk9YSkdEXzZJajA0WUNfMGtIbjlaRzFJaW4zcnBqSkRkNG4wdFAwVGF3ZnIzSFNIMkQxV1owTmJDbEdpbUhRY2NoNE9VTlFmV0hteGlRMEI5aG95NENrSjhwTk1ENnhMa2N3bVBKc21jd0JYSjRSN1YxYzJETFNQMU1wV2FmNEJGVlFSLVY3NVZ0NzA5TmlpVldBZnFzR3dfRi1ZZEc5d3MwVmlJOTZnRHpnajVXRWvSAcMBQVVfeXFMTWN5SVFPc0FMRmZXQk5PWEpHRF82SWowNFlDXzBrSG45WkcxSWluM3JwakpEZDRuMHRQMFRhd2ZyM0hTSDJEMVdaME5iQ2xHaW1IUWNjaDRPVU5RZldIbXhpUTBCOWhveTRDa0o4cE5NRDZ4TGtjd21QSnNtY3dCWEo0UjdWMWMyRE",
+      "published": "Sun, 19 Jul 2026 09:23:00 GMT",
       "lang": "el"
     },
     {
-      "title": "Möt Nobelpristagaren i ekonomi. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nSURmTFpyNXRwTGhma2dHZU9DLUljU2xpaHJSSmpQTk8tWjIxQk9Gb0tMV0VsU0lDLTFaQjR1NHRsU08tM2s2YWJLbjNhSGxWN3BfWEUzd0RMdExLZ2tiYmpR?oc=5",
+      "title": "Υπό έλεγχο η φωτιά στο Κορωπί - Ξεκίνησε από καμένα σκουπίδια σε καταυλισμό Ρομά - Newsbomb",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbWVOSWpUcWNHa3JrWkdMbmh4STFodV9vNDNLcl96LWxwaWg1ajZnRE9JalNRbXlXemZ2TG1YRmhoMnI0SFlLaTI5Z3JQRGxFOWUzU1kweWpWYnF4WFUzM2N4UkRPUDJxbHhaU084WEx3ckFoRkw5dGloZ2RRT21LbkdjWnFTc3E4NzZ3Nl9CQ3lPQTZ2UXM0RUowcWE3aGVvaVdqT1BDSndMM081a0JRbzRvQnBXTWpqbnNDNEVEN2VNZw?oc=5",
+      "source": "Newsbomb",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbWVOSWpUcWNHa3JrWkdMbmh4STFodV9vNDNLcl96LWxwaWg1ajZnRE9JalNRbXlXemZ2TG1YRmhoMnI0SFlLaTI5Z3JQRGxFOWUzU1kweWpWYnF4WFUzM2N4UkRPUDJxbHhaU084WEx3ckFoRkw5dGloZ2RRT21LbkdjWnFTc3E4NzZ3Nl9CQ3lPQTZ2UXM0RUowcWE3aGVvaVdqT1BDSndMM081a0JRbzRvQnBXTWpqbnNDNEVEN2VNZw?oc=5\" target=\"_blank\">Υπό έλεγχο η φωτιά στο Κορωπί - Ξεκίνησε από καμένα σκουπίδια σε καταυλισμό Ρομά</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsbomb</font>",
+      "published": "Sun, 19 Jul 2026 15:57:07 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Αλεξανδρούπολη: «Όλα τα μαγαζιά γεμάτα Τούρκους – ακόμα και οι ζητιάνοι είναι Τούρκοι» - newsfire.gr",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV09PWlRMc0d2SVduMEtjdzFMVm5MRFExMjRRYnZLTEExQl9sUUNNcmhtZnRCVksySm8tLUdHUjZ2MjV3RlVmWVNycFBUdkQzc2R1TWZfTU5xU0lwRmRBYW9SckFoOWN4TS01emdGZGNsYXZxVG8xZmVaay1lM3FsQURxOVRZMmJ3d25qWk5xcnRwQnlVRW01YnhUNG1BVUtaaFItbmMtbnhCRTNJZkNITQ?oc=5",
+      "source": "newsfire.gr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNV09PWlRMc0d2SVduMEtjdzFMVm5MRFExMjRRYnZLTEExQl9sUUNNcmhtZnRCVksySm8tLUdHUjZ2MjV3RlVmWVNycFBUdkQzc2R1TWZfTU5xU0lwRmRBYW9SckFoOWN4TS01emdGZGNsYXZxVG8xZmVaay1lM3FsQURxOVRZMmJ3d25qWk5xcnRwQnlVRW01YnhUNG1BVUtaaFItbmMtbnhCRTNJZkNITQ?oc=5\" target=\"_blank\">Αλεξανδρούπολη: «Όλα τα μαγαζιά γεμάτα Τούρκους – ακόμα και οι ζητιάνοι είναι Τούρκοι»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsfire.gr</font>",
+      "published": "Sun, 19 Jul 2026 15:39:48 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Παράταξη Σβόλη: Η Πάτρα πωλήθηκε στον Περισσό κύριε Πελετίδη - THE BEST",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTlEM0U4UDdjVWZlejRnR2FCSEJUNlR1ZGZ4NmZtbU5qZkhUa1d2bkVsNDVFeDBKU25HZVhJR1hoSDVlQkhCZUliQjJaVFpkU3d3bTVZSWZWUGZGRUQ0V0FIcDFOaENEVmRhYTVYMXZMMlQ5TG15cUV3VU50NG9xU2tmcFQ1NmZpZ051QkkwRmNFb1lMcjZXOGdSbkVldHdoOVFvWdIBpAFBVV95cUxOdTlEM0U4UDdjVWZlejRnR2FCSEJUNlR1ZGZ4NmZtbU5qZkhUa1d2bkVsNDVFeDBKU25HZVhJR1hoSDVlQkhCZUliQjJaVFpkU3d3bTVZSWZWUGZGRUQ0V0FIcDFOaENEVmRhYTVYMXZMMlQ5TG15cUV3VU50NG9xU2tmcFQ1NmZpZ051QkkwRmNFb1lMcjZXOGdSbkVldHdoOVFvWQ?oc=5",
+      "source": "THE BEST",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTlEM0U4UDdjVWZlejRnR2FCSEJUNlR1ZGZ4NmZtbU5qZkhUa1d2bkVsNDVFeDBKU25HZVhJR1hoSDVlQkhCZUliQjJaVFpkU3d3bTVZSWZWUGZGRUQ0V0FIcDFOaENEVmRhYTVYMXZMMlQ5TG15cUV3VU50NG9xU2tmcFQ1NmZpZ051QkkwRmNFb1lMcjZXOGdSbkVldHdoOVFvWdIBpAFBVV95cUxOdTlEM0U4UDdjVWZlejRnR2FCSEJUNlR1ZGZ4NmZtbU5qZkhUa1d2bkVsNDVFeDBKU25HZVhJR1hoSDVlQkhCZUliQjJaVFpkU3d3bTVZSWZWUGZGRUQ0V0FIcDFOaENEVmRhYTVYMXZMMlQ5TG15cUV3VU50NG9xU2tmcFQ1NmZpZ051QkkwRmNFb1lMcjZXOGdSbkVldHdoOVFvWQ?oc=",
+      "published": "Sun, 19 Jul 2026 12:46:52 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Autoridades desmentem narrativa falsa de André Ventura sobre assalto de ciganos a casa de GNR em Elvas - Tribuna Alentejo",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMVFJLVhXWWhZRDdBZnlBdlZvSk5aV3g2T3c2WUo3cGhJZTZ0UDhqR2RvZDlZMTBvbHVQdUJMMkVKaFN5SkZPZGt4YzRuSDBvMlppQkJwby1abmUxY25JNlRZLU5WbXFBdnlKRnlUVWxHTnU3OUtWWHl4aHdsaVBieERyQkRyWmlKX2ZSTG52OTM3c0JLamlhVEFhbjNDQ2J4STMtcXZwU20tWGpHaUliSnFsVHNYNDM2alRXVGlaYXpDMXl0YXdYRnl4VUN0cDctNzVTaA?oc=5",
+      "source": "Tribuna Alentejo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMVFJLVhXWWhZRDdBZnlBdlZvSk5aV3g2T3c2WUo3cGhJZTZ0UDhqR2RvZDlZMTBvbHVQdUJMMkVKaFN5SkZPZGt4YzRuSDBvMlppQkJwby1abmUxY25JNlRZLU5WbXFBdnlKRnlUVWxHTnU3OUtWWHl4aHdsaVBieERyQkRyWmlKX2ZSTG52OTM3c0JLamlhVEFhbjNDQ2J4STMtcXZwU20tWGpHaUliSnFsVHNYNDM2alRXVGlaYXpDMXl0YXdYRnl4VUN0cDctNzVTaA?oc=5\" target=\"_blank\">Autoridades desmentem narrativa falsa de André Ventura sobre assalto de ciganos a casa de GNR em Elvas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T",
+      "published": "Sun, 19 Jul 2026 11:57:57 GMT",
+      "lang": "pt"
+    },
+    {
+      "title": "Trailers do filme Ciganos da Ciambra - Ingresso.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14c2JkWnRGTDNGckM3NkxLQXBGOTNXOGhIc0dKSVNHOUo4RzRjSUFuMFdlejJoUVg3MVNDX0hFelp6MC1IRk9idk9mTlI4cHdjUjd5Ql9ScFRteDVEZElsTmw4Sl9nOWoxb2c?oc=5",
+      "source": "Ingresso.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE14c2JkWnRGTDNGckM3NkxLQXBGOTNXOGhIc0dKSVNHOUo4RzRjSUFuMFdlejJoUVg3MVNDX0hFelp6MC1IRk9idk9mTlI4cHdjUjd5Ql9ScFRteDVEZElsTmw4Sl9nOWoxb2c?oc=5\" target=\"_blank\">Trailers do filme Ciganos da Ciambra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ingresso.com</font>",
+      "published": "Sun, 19 Jul 2026 09:29:22 GMT",
+      "lang": "pt"
+    },
+    {
+      "title": "Cracovia Krakow vs Sevilla Förutsägelse: Förväntade laguppställningar - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEhydWRNRzVrWUd1MmhWVU1xQVZ5TFBRRHBoWkk2bUZyNzdudTUySGwtd2owbF8zRkRzamxTSWc0V0NIbnc1QlM0azFFMFduRE1IVkJtR3RhQmRRMkQ2U3Fqd1lDeHZfQTlISnFOUjBWR0NfYUtxWTlrNUFTTy12VWE0cURFdw?oc=5",
       "source": "Vietnam.vn",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nSURmTFpyNXRwTGhma2dHZU9DLUljU2xpaHJSSmpQTk8tWjIxQk9Gb0tMV0VsU0lDLTFaQjR1NHRsU08tM2s2YWJLbjNhSGxWN3BfWEUzd0RMdExLZ2tiYmpR?oc=5\" target=\"_blank\">Möt Nobelpristagaren i ekonomi.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "published": "Sun, 19 Jul 2026 03:27:07 GMT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEhydWRNRzVrWUd1MmhWVU1xQVZ5TFBRRHBoWkk2bUZyNzdudTUySGwtd2owbF8zRkRzamxTSWc0V0NIbnc1QlM0azFFMFduRE1IVkJtR3RhQmRRMkQ2U3Fqd1lDeHZfQTlISnFOUjBWR0NfYUtxWTlrNUFTTy12VWE0cURFdw?oc=5\" target=\"_blank\">Cracovia Krakow vs Sevilla Förutsägelse: Förväntade laguppställningar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "published": "Sun, 19 Jul 2026 09:34:44 GMT",
       "lang": "sv"
     },
     {
-      "title": "Salah tamam sıra forvette",
-      "url": "https://www.posta.com.tr/spor/salah-tamam-sira-forvette-3016639",
-      "source": "posta.com.tr",
-      "snippet": "",
-      "published": "20260719T070000Z",
-      "lang": "Turkish"
+      "title": "HNK Gorica vs FC St. Pauli Förutsägelse: Förväntade laguppställningar - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0haQ1ppSWxvV0o4SElCM01fbm9pR0xFQm1QXzVpcndDdmZMNjBHMmxudGVxWWpIeDFxZUFHVlUtOXV6Y1AySGcxMHlzX2lkVUc2M3N1bXpRV3Bjdi1OVjNrb1FwNlVKcmJJNjVBekg5ZDAtdWFVdjk0Qzljc3drMWFjcm4?oc=5",
+      "source": "Vietnam.vn",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0haQ1ppSWxvV0o4SElCM01fbm9pR0xFQm1QXzVpcndDdmZMNjBHMmxudGVxWWpIeDFxZUFHVlUtOXV6Y1AySGcxMHlzX2lkVUc2M3N1bXpRV3Bjdi1OVjNrb1FwNlVKcmJJNjVBekg5ZDAtdWFVdjk0Qzljc3drMWFjcm4?oc=5\" target=\"_blank\">HNK Gorica vs FC St. Pauli Förutsägelse: Förväntade laguppställningar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "published": "Sun, 19 Jul 2026 09:34:44 GMT",
+      "lang": "sv"
     },
     {
-      "title": "From rock to Rabindrasangeet , Parsi guitarist Cyrus Tata has left a mark on the Kolkata music scene",
-      "url": "https://scroll.in/article/1094339/from-rock-to-rabindrasangeet-parsi-guitarist-cyrus-tata-has-left-his-mark-on-kolkatas-music-scene",
-      "source": "scroll.in",
-      "snippet": "",
-      "published": "20260719T070000Z",
-      "lang": "English"
+      "title": "Anne Harjukoski on auttanut eri puolilla maailmaa – Rinnalla kulkija! - Hymy",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JaXF3T19xcHZiRFFuMVFna0s1QTNvYXFBZ0Nxb1BuSXdUVFlpTk5iOWlaT0lkMWM0UE9IWUVicmpWUVJwQTVhaE05QTVPOUZfZkE?oc=5",
+      "source": "Hymy",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JaXF3T19xcHZiRFFuMVFna0s1QTNvYXFBZ0Nxb1BuSXdUVFlpTk5iOWlaT0lkMWM0UE9IWUVicmpWUVJwQTVhaE05QTVPOUZfZkE?oc=5\" target=\"_blank\">Anne Harjukoski on auttanut eri puolilla maailmaa – Rinnalla kulkija!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hymy</font>",
+      "published": "Sun, 19 Jul 2026 07:47:49 GMT",
+      "lang": "fi"
     },
     {
-      "title": "NARCOTRÁFICO EN MALLORCA / Piden 56 años para el Charly y otros siete acusados de blanquear dinero del narcotráfico",
-      "url": "https://www.diariodemallorca.es/fotos/sucesos/2026/07/19/piden-56-anos-charly-siete-132586759.html",
-      "source": "diariodemallorca.es",
+      "title": "Fundación ONCE , Cruz Roja , Cáritas y Fundación Secretariado Gitano urgen a  no vaciar de contenido la Europa social  ",
+      "url": "https://www.elconfidencial.com/sociedad/2026-07-19/fondo-social-europeo-inclusion-cohesion-1hms-1svm_4392419/",
+      "source": "elconfidencial.com",
       "snippet": "",
-      "published": "20260719T070000Z",
+      "published": "20260719T153000Z",
       "lang": "Spanish"
     },
     {
-      "title": "Andy Ruiz delivers honest verdict on Tyson Fury vs Anthony Joshua :  It only takes one punch  ",
-      "url": "https://boxingnewsonline.net/news/andy-ruiz-jr-predicts-fury-vs-joshua/",
-      "source": "boxingnewsonline.net",
+      "title": "Mijëra ushtarë dhe policë italianë marshojnë në Romë për pagat dhe pensionet",
+      "url": "https://kohajone.com/aktualitet/mijera-ushtare-dhe-police-italiane-marshojne-ne-rome-per-pagat-dhe-pensionet/",
+      "source": "kohajone.com",
       "snippet": "",
-      "published": "20260719T070000Z",
-      "lang": "English"
+      "published": "20260719T153000Z",
+      "lang": "Albanian"
     },
     {
-      "title": "San Francisco Community Leaders Share Memories About Orphan Andy - San Francisco Bay Times",
-      "url": "https://sfbaytimes.com/san-francisco-community-leaders-share-memories-about-orphan-andys/",
-      "source": "sfbaytimes.com",
+      "title": "Slobodna Dalmacija - Legendarni Gipsy Kings za  Slobodnu  uoči koncerta u Splitu : Emocije nemaju jezik . Imamo poruku za našu splitsku publiku",
+      "url": "https://slobodnadalmacija.hr/mozaik/scena/showbiz/legendarni-gipsy-kings-za-slobodnu-uoci-koncerta-u-splitu-emocije-nemaju-jezik-imamo-poruku-za-nasu-splitsku-publiku-1568191",
+      "source": "slobodnadalmacija.hr",
       "snippet": "",
-      "published": "20260719T070000Z",
-      "lang": "English"
+      "published": "20260719T150000Z",
+      "lang": "Croatian"
     },
     {
-      "title": "Θεσσαλονίκη : Σαφάρι ελέγχων από την ΕΛ . ΑΣ . σε οικισμό Ρομά στην Περαία",
-      "url": "https://www.inewsgr.com/362/thessaloniki-safari-elegchon-apo-tin-elas-se-oikismo-roma-stin-peraia.htm",
-      "source": "inewsgr.com",
+      "title": "Baykar ve Leonardodan yeni hamle ! Gözler KIZILELMAda - Bigpara Teknoloji Haberleri",
+      "url": "https://bigpara.hurriyet.com.tr/haberler/teknoloji-haberleri/baykar-ve-leonardodan-yeni-hamle-gelecegin-hava-muharebesi-tanitilacak_ID102212581/",
+      "source": "bigpara.hurriyet.com.tr",
       "snippet": "",
-      "published": "20260719T070000Z",
+      "published": "20260719T144500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Chương Nhược Nam bị gắn mác khắc tinh phim cổ trang ngôn tình - Hậu trường phim",
+      "url": "https://vietgiaitri.com/chuong-nhuoc-nam-bi-gan-mac-khac-tinh-phim-co-trang-ngon-tinh-20260719i7737582/",
+      "source": "vietgiaitri.com",
+      "snippet": "",
+      "published": "20260719T144500Z",
+      "lang": "Vietnamese"
+    },
+    {
+      "title": "Baykar ve Leonardo yeni hedeflerini açıklayacak ! Gözler KIZILELMAda",
+      "url": "https://ekonomi.haber7.com/ekonomi/haber/3644679-baykar-ve-leonardo-yeni-hedeflerini-aciklayacak-gozler-kizilelmada",
+      "source": "ekonomi.haber7.com",
+      "snippet": "",
+      "published": "20260719T144500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Ηράκλειο : Δημοτικό συμβούλιο με καταυλισμό Ρομα , Κέντρο Αστέγων και καθαριότητα",
+      "url": "https://www.skaikritis.gr/irakleio-dimotiko-symvoulio-me-katavlismo-roma-kentro-astegon-kai-kathariotita/",
+      "source": "skaikritis.gr",
+      "snippet": "",
+      "published": "20260719T144500Z",
       "lang": "Greek"
     },
     {
-      "title": "Can Uzun transferinde Galatasaraya dev rakip ! Yakından takip ediyorlar",
-      "url": "https://www.milliyet.com.tr/skorer/can-uzun-transferinde-galatasaraya-dev-rakip-yakindan-takip-ediyorlar-7625900",
-      "source": "milliyet.com.tr",
+      "title": "Cotswolds car company to be liquidated amid £111 , 000 debts",
+      "url": "https://www.cotswoldjournal.co.uk/news/26292405.cotswolds-car-company-liquidated-amid-111-000-debts/",
+      "source": "cotswoldjournal.co.uk",
       "snippet": "",
-      "published": "20260719T061500Z",
-      "lang": "Turkish"
-    },
-    {
-      "title": "ดูดวงรายวัน 19 กรกฎาคม 2569",
-      "url": "https://horoscope.kapook.com/view302575.html",
-      "source": "horoscope.kapook.com",
-      "snippet": "",
-      "published": "20260719T051500Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "The five top new shows to see on TV this week : Granite Harbour , Gypsy Wives and the return of Murder 24 / 7 to BBC1",
-      "url": "https://www.kentonline.co.uk/news/native/we-ve-sorted-your-tv-week-granite-harbour-gypsy-wives-plus-342789/",
-      "source": "kentonline.co.uk",
-      "snippet": "",
-      "published": "20260719T051500Z",
+      "published": "20260719T134500Z",
       "lang": "English"
     },
     {
-      "title": "โดรนยูเครนถล่มคลังสินค้า - คลังน้ำมันในรัสเซีย ดับ 7 ราย",
-      "url": "https://www.ryt9.com/s/iq/12831021",
-      "source": "ryt9.com",
+      "title": "Коментари - Мощни експлозии в Киев , разрушения и жертва след руска атака с балистични ракети ( снимки ) ",
+      "url": "https://dnes.dir.bg/comments/moshtni-eksplozii-v-kiev-razrusheniya-i-zhertva-sled-ruska-ataka-s-balistichni-raketi-snimki",
+      "source": "dnes.dir.bg",
       "snippet": "",
-      "published": "20260719T050000Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "Църковен празник на 19 юли : Какво е забранено да правите днес",
-      "url": "https://www.bgonair.bg/a/2-bulgaria/424917-tsarkoven-praznik-na-19-yuli-kakvo-e-zabraneno-da-pravite-dnes",
-      "source": "bgonair.bg",
-      "snippet": "",
-      "published": "20260719T044500Z",
+      "published": "20260719T134500Z",
       "lang": "Bulgarian"
     },
     {
-      "title": "Что празднуют 19 июля в Украине и мире",
-      "url": "https://unn.ua/ru/news/chto-prazdnuyut-19-iyulya-v-ukraine-i-mire",
-      "source": "unn.ua",
+      "title": "Vilniuje pagerbtas trečiasis Ukrainoje žuvęs savanoris I . Kailius",
+      "url": "https://www.vz.lt/verslo-aplinka/2026/07/19/vilniuje-pagerbtas-treciasis-ukrainoje-zuves-savanoris-i-kailius-587631",
+      "source": "vz.lt",
       "snippet": "",
-      "published": "20260719T044500Z",
-      "lang": "Russian"
+      "published": "20260719T134500Z",
+      "lang": "Lithuanian"
     },
     {
-      "title": "Neznani storilci so se zdaj spravili nad njivo tamkajšnjega kmeta : koruzo uničili zaradi maščevanja ?! ( FOTO ) ",
-      "url": "https://slovenskenovice.delo.si/novice/slovenija/neznani-storilci-so-se-zdaj-spravili-nad-njivo-tamkajsnjega-kmeta-koruzo-unicili-zaradi-mascevanja-foto",
-      "source": "slovenskenovice.delo.si",
+      "title": "Vilniuje pagerbtas trečiasis Ukrainoje žuvęs savanoris Ignas Kailius",
+      "url": "https://klaipeda.diena.lt/naujienos/vilnius/miesto-pulsas/vilniuje-pagerbtas-treciasis-ukrainoje-zuves-savanoris-ignas-kailius-1766386",
+      "source": "klaipeda.diena.lt",
       "snippet": "",
-      "published": "20260719T044500Z",
-      "lang": "Slovenian"
+      "published": "20260719T131500Z",
+      "lang": "Lithuanian"
     },
     {
-      "title": "La hora de estar a la altura de Tarraco",
-      "url": "https://www.diaridetarragona.com/opinion/editorial/266168/hora-altura-tarraco.html",
-      "source": "diaridetarragona.com",
+      "title": "Portmahomack Victorian home with letting potential hits market for offers over £400 , 000",
+      "url": "https://www.ross-shirejournal.co.uk/news/highland-seaside-home-with-romantic-caravan-hits-market-fo-440363/",
+      "source": "ross-shirejournal.co.uk",
       "snippet": "",
-      "published": "20260719T034500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Calendarul zilei - 19 iulie - Radio România Constanța",
-      "url": "https://www.radioconstanta.ro/2026/07/19/calendarul-zilei-19-iulie-12/",
-      "source": "radioconstanta.ro",
-      "snippet": "",
-      "published": "20260719T033000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Vražedný idealismus Václava Havla . TEORIE X",
-      "url": "https://www.krajskelisty.cz/praha/35401-vrazedny-idealismus-vaclava-havla-teorie-x.htm",
-      "source": "krajskelisty.cz",
-      "snippet": "",
-      "published": "20260719T033000Z",
-      "lang": "Czech"
-    },
-    {
-      "title": "Quatre ferits en una baralla familiar a trets a Badalona",
-      "url": "https://www.diaridegirona.cat/societat/2026/07/19/quatre-ferits-baralla-familiar-trets-132593294.html",
-      "source": "diaridegirona.cat",
-      "snippet": "",
-      "published": "20260719T020000Z",
-      "lang": "Catalan"
-    },
-    {
-      "title": "Real Madrid Sign Morocco Yasmine Zouhair",
-      "url": "https://www.moroccoworldnews.com/2026/07/330150/real-madrid-sign-moroccos-yasmine-zouhair/",
-      "source": "moroccoworldnews.com",
-      "snippet": "",
-      "published": "20260719T020000Z",
+      "published": "20260719T123000Z",
       "lang": "English"
     },
     {
-      "title": "Slavné fotografie : Mrtvý Heinrich Himmler v britském zajetí",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/heinrich-himmler-nacismus-smrt-jed-nsdap-druha-svetova-valka-slavne-fotografie.A260427_082411_zahranicni_ikro",
-      "source": "idnes.cz",
+      "title": "Incendio al campo rom di Japigia , fumo nero sul quartiere",
+      "url": "https://www.quotidianodipuglia.it/bari/incendio_al_campo_rom_di_japigia_fumo_nero_quartiere-9660441.html",
+      "source": "quotidianodipuglia.it",
       "snippet": "",
-      "published": "20260719T014500Z",
-      "lang": "Czech"
-    },
-    {
-      "title": "PS Plus Extra ou Deluxe : qual plano vale mais a pena em 2026 ? ",
-      "url": "https://canaltech.com.br/games/ps-plus-extra-ou-deluxe-qual-vale-a-pena-2026/",
-      "source": "canaltech.com.br",
-      "snippet": "",
-      "published": "20260719T010000Z",
-      "lang": "Portuguese"
-    },
-    {
-      "title": "เช็กดวงประจำวันที่ 19 ก . ค . 69 ราศีที่ดาวศรีสถิต  มิถุน  ราศีที่ดาวกาลีสถิต  สิงห์  ",
-      "url": "https://www.dailynews.co.th/articles/6036602/",
-      "source": "dailynews.co.th",
-      "snippet": "",
-      "published": "20260719T000000Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "Impulsivë apo të qetë – cilët meshkuj zgjasin më shumë në shtrat ? ",
-      "url": "https://telegrafi.com/impulsive-apo-te-qete-cilet-meshkuj-zgjasin-me-shume-ne-shtrat/",
-      "source": "telegrafi.com",
-      "snippet": "",
-      "published": "20260718T223000Z",
-      "lang": "Albanian"
-    },
-    {
-      "title": "Roma D  Italia celebrates 65 years around the table in Tustin",
-      "url": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-07-18/roma-d-italia-celebrates-65-years-around-table-in-tustin",
-      "source": "latimes.com",
-      "snippet": "",
-      "published": "20260718T220000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Capitala europeană perfectă pentru un city break . Cât costă cazarea și mâncarea",
-      "url": "https://www.cancan.ro/capitala-europeana-perfecta-pentru-un-city-break-cat-costa-cazarea-si-mancarea-21471115",
-      "source": "cancan.ro",
-      "snippet": "",
-      "published": "20260718T201500Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Aise . it - Agenzia Internazionale Stampa Estero",
-      "url": "https://www.aise.it/made-in-italy/enoturismo-irvo-in-sicilia-lancia-il-manifesto-della-rete-delle-bollicine/235149/144",
-      "source": "aise.it",
-      "snippet": "",
-      "published": "20260718T191500Z",
+      "published": "20260719T123000Z",
       "lang": "Italian"
     },
     {
-      "title": "SHQIPTARËT – LIDHJET E HERSHME ME PERËNDIMIN – Dielli",
-      "url": "https://gazetadielli.com/shqiptaret-lidhjet-e-hershme-me-perendimin/",
-      "source": "gazetadielli.com",
+      "title": "Man banned from sites after Tinker Corner incidents",
+      "url": "https://www.ledburyreporter.co.uk/news/26292567.man-banned-sites-tinkers-corner-incidents/",
+      "source": "ledburyreporter.co.uk",
       "snippet": "",
-      "published": "20260718T184500Z",
-      "lang": "Albanian"
-    },
-    {
-      "title": "Leo marks 80 years of family , food and tradition | Pioneers",
-      "url": "https://www.elpasoinc.com/special_sections/pioneers/leos-carries-on-family-recipes-with-eight-decades-of-success/article_631bff0f-f81b-43fb-aadf-f440e6905efc.html",
-      "source": "elpasoinc.com",
-      "snippet": "",
-      "published": "20260718T184500Z",
+      "published": "20260719T120000Z",
       "lang": "English"
     },
     {
-      "title": "Kültür ve Turizm Bakan Yardımcısı Gökhan Yazgı Konyada !  Türkiye Kültür Yolu Festivali dünyada ses getiriyor  ",
-      "url": "https://www.konhaber.com/guncel/kultur_ve_turizm_bakan_yardimcisi_gokhan_yazgi_konya_da_turkiye_kultur_yolu_festivali_dunyada_ses_getiriyor-2004757h",
-      "source": "konhaber.com",
+      "title": "Eltemették a Balatonba fúlt Csokit , segítségnyújtás elmulasztása miatt nyomoz a rendőrség",
+      "url": "https://www.blikk.hu/aktualis/belfold/temetes-csoki-halal-gyasz-vizbefulladt-balaton/vwzypxk",
+      "source": "blikk.hu",
       "snippet": "",
-      "published": "20260718T184500Z",
-      "lang": "Turkish"
+      "published": "20260719T120000Z",
+      "lang": "Hungarian"
     },
     {
-      "title": "Carles Benavent Trío o feliz encuentro en el Fijazz",
-      "url": "https://www.informacion.es/cultura/2026/07/18/carles-benavent-trio-o-feliz-132585327.html",
-      "source": "informacion.es",
+      "title": "Liverpool facing Arsenal transfer scrap for â ‚ ¬50m - rated left - back as Iraola fires up Kerkez",
+      "url": "https://www.teamtalk.com/news/liverpool-arsenal-transfer-scrap-dortmund-left-back-daniel-svensson",
+      "source": "teamtalk.com",
       "snippet": "",
-      "published": "20260718T183000Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Știrile PRO TV de la ora 20 : 00 cu Valeria Capra",
-      "url": "https://protv.md/jurnale-de-stiri/stirile-pro-tv-de-la-ora-20-00-cu-valeria-capra-18-07-2026---2763205.html",
-      "source": "protv.md",
-      "snippet": "",
-      "published": "20260718T181500Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Concert Review : L . A . Guns Rip And Tear At Mercury Ballroom 7 / 15 / 26 - LEO Weekly",
-      "url": "https://www.leoweekly.com/music/concert-reviews/concert-review-l-a-guns-rip-and-tear-at-mercury-ballroom-7-15-26/",
-      "source": "leoweekly.com",
-      "snippet": "",
-      "published": "20260718T181500Z",
+      "published": "20260719T114500Z",
       "lang": "English"
     },
     {
-      "title": "Вучић у Владимировцу : Почећемо са Румунима градњу брзе саобраћајнице до Темишвара",
-      "url": "https://www.politika.rs/scc/clanak/771858/vucic-u-vladimirovcu-pocecemo-sa-rumunima-gradnju-brze-saobracajnice-do-temisvara",
-      "source": "politika.rs",
+      "title": "Bódi Margó így éli meg a nőiességét : kilépett férje árnyékából",
+      "url": "https://www.borsonline.hu/magyar-sztarhirek/2026/07/bodi-margo-notar-mary-dal",
+      "source": "borsonline.hu",
       "snippet": "",
-      "published": "20260718T180000Z",
-      "lang": "Serbian"
+      "published": "20260719T114500Z",
+      "lang": "Hungarian"
     },
     {
-      "title": "Църковен празник на 19 юли : Поличбите , които вещаят щастие и късмет",
-      "url": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-19-uli-polichbite-koito-veshtajat-shtastie-i-kysmet-news_2615640.html",
-      "source": "actualno.com",
+      "title": "กทม . เลื่อนสอบบรรจุข้าราชการเป็นกลาง ก . ย . 69 ยกเลิกสัญญาจ้าง มศว . จัดสอบ",
+      "url": "https://www.posttoday.com/general-news/745650",
+      "source": "posttoday.com",
       "snippet": "",
-      "published": "20260718T174500Z",
-      "lang": "Bulgarian"
-    },
-    {
-      "title": "State and military resources deployed for South Texas flood response",
-      "url": "https://www.kgns.tv/2026/07/18/state-military-resources-deployed-south-texas-flood-response/",
-      "source": "kgns.tv",
-      "snippet": "",
-      "published": "20260718T174500Z",
-      "lang": "English"
-    },
-    {
-      "title": "  Cats : The Jellicle Ball  closing , Andrew Lloyd Webber , Tony analysis",
-      "url": "https://www.goldderby.com/theater/2026/cats-the-jellicle-ball-closing-andrew-lloyd-webber-2027-tony-awards/",
-      "source": "goldderby.com",
-      "snippet": "",
-      "published": "20260718T174500Z",
-      "lang": "English"
-    },
-    {
-      "title": "Циганський гороскоп знайдіть свій знак за датою народження та дізнайтесь про свій характер",
-      "url": "https://news.telegraf.com.ua/ukr/obshhestvo/5945631-kinzhal-chasha-chi-svichka-znaydit-sviy-znak-u-tsiganskomu-goroskopi-ta-diznaytes-vlasnu-dolyu",
-      "source": "news.telegraf.com.ua",
-      "snippet": "",
-      "published": "20260718T174500Z",
-      "lang": "Ukrainian"
-    },
-    {
-      "title": " ( video ) Ultimul drum al Baronului romilor : Artur Cerari , petrecut de sute de oameni cu lăutari și tradiții",
-      "url": "https://news.yam.md/ro/story/45160358",
-      "source": "news.yam.md",
-      "snippet": "",
-      "published": "20260718T173000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Polo Logístico del Este : la apuesta de Mendoza para convertirse en un gran nodo del comercio internacional",
-      "url": "https://www.losandes.com.ar/agroindustria/polo-logistico-del-este-la-apuesta-mendoza-convertirse-un-gran-nodo-del-comercio-internacional-n5998584",
-      "source": "losandes.com.ar",
-      "snippet": "",
-      "published": "20260718T173000Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Aston Villa Target Reported Back At Club Overweight",
-      "url": "http://insidefutbol.com/2026/07/18/overweight-aston-villa-and-sunderland-target-put-on-kilos-over-summer-admits-coach/720368/",
-      "source": "insidefutbol.com",
-      "snippet": "",
-      "published": "20260718T171500Z",
-      "lang": "English"
-    },
-    {
-      "title": "Жестокост в Казанлък : Мъж нарочно прегази легнало коте , без да му мигне окото",
-      "url": "https://www.ruse24.bg/novini/regionalni/Zhestokost-v-Kazanluk-Muzh-narochno-pregazi-legnalo-kote-bez-da-mu-migne-okoto-2997261",
-      "source": "ruse24.bg",
-      "snippet": "",
-      "published": "20260718T171500Z",
-      "lang": "Bulgarian"
-    },
-    {
-      "title": "Haverá soluo para o SNS ? ",
-      "url": "https://sol.iol.pt/opiniao/noticias/antonio-correia-de-campos-havera-solucao-para-o-sns/20260718/6a5b9e580cf2f6a1a1e71273",
-      "source": "sol.iol.pt",
-      "snippet": "",
-      "published": "20260718T164500Z",
-      "lang": "Portuguese"
-    },
-    {
-      "title": "La polizia olandese interviene per sgomberare un laboratorio di droga in una casa",
-      "url": "https://www.bresciaoggi.it/news/mondo/la-polizia-olandese-interviene-per-sgomberare-un-laboratorio-di-droga-in-una-casa-1.13074951",
-      "source": "bresciaoggi.it",
-      "snippet": "",
-      "published": "20260718T163000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Bitka na Kozari je neuporedivo značajnija od Kosovske bitke",
-      "url": "https://www.danas.rs/vesti/drustvo/bitka-na-kozari-je-neuporedivo-znacajnija-od-kosovske-bitke/",
-      "source": "danas.rs",
-      "snippet": "",
-      "published": "20260718T161500Z",
-      "lang": "Serbian"
-    },
-    {
-      "title": "หนุ่มสุดช้ำ เจองูหางกระดิ่งฉกสองแผล ซ้ำเจอบิลค่ารักษาอ่วม 1 . 3 ล้านดอลลาร์",
-      "url": "https://www.dailynews.co.th/news/6038034/",
-      "source": "dailynews.co.th",
-      "snippet": "",
-      "published": "20260718T161500Z",
+      "published": "20260719T114500Z",
       "lang": "Thai"
     },
     {
-      "title": "Amaia se come el escenario de Cap Roig - Proceso Digital",
-      "url": "https://proceso.hn/amaia-se-come-el-escenario-de-cap-roig/",
-      "source": "proceso.hn",
+      "title": "Rouffach . Une affiche éprise de liberté pour les 30 ans du festival Musicalta",
+      "url": "https://www.lalsace.fr/culture-loisirs/2026/07/19/une-affiche-eprise-de-liberte-pour-les-30-ans-du-festival-musicalta",
+      "source": "lalsace.fr",
       "snippet": "",
-      "published": "20260718T160000Z",
-      "lang": "Spanish"
+      "published": "20260719T113000Z",
+      "lang": "French"
     },
     {
-      "title": "Bakan Yardımcısı Yazgı : Konya , Kültür Yolunun vazgeçilmez duraklarından biri",
-      "url": "https://www.yenikonya.com.tr/konya/bakan_yardimcisi_yazgi_konya_kultur_yolu_nun_vazgecilmez_duraklarindan_biri-1981910",
-      "source": "yenikonya.com.tr",
+      "title": "Дан сећања на децу убијену током геноцида у НДХ обележава се данас",
+      "url": "https://sputnikportal.rs/20260719/dan-secanja-na-decu-ubijenu-tokom-genocida-u-ndh-obelezava-se-danas-1201458076.html",
+      "source": "sputnikportal.rs",
       "snippet": "",
-      "published": "20260718T160000Z",
-      "lang": "Turkish"
+      "published": "20260719T113000Z",
+      "lang": "Serbian"
     },
     {
-      "title": "Масов бой в Димитровград , 25 души са задържани",
-      "url": "https://www.vesti.bg/bulgaria/masov-boj-v-dimitrovgrad-25-dushi-sa-zadyrzhani-6265177",
-      "source": "vesti.bg",
+      "title": "Teisingumo ministerija : EŽTT sprendimas dėl CŽV kalėjimo bus vykdomas",
+      "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2995025/teisingumo-ministerija-eztt-sprendimas-del-czv-kalejimo-bus-vykdomas",
+      "source": "lrt.lt",
       "snippet": "",
-      "published": "20260718T160000Z",
+      "published": "20260719T113000Z",
+      "lang": "Lithuanian"
+    },
+    {
+      "title": "Γύφτος ή Ρομά ; Η λέξη που άλλαξε σημασία και η ιστορία που δεν πρέπει να ... ",
+      "url": "https://www.thetoc.gr/koinwnia/article/guftos-i-roma-i-lexi-pou-allaxe-simasia-i-istoria-pou-den-prepei-na-xexastei/",
+      "source": "thetoc.gr",
+      "snippet": "",
+      "published": "20260719T111500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "  Surface Tension  by Roma Devanbu at Axis Gallery - KVMR Community Radio",
+      "url": "https://www.kvmr.org/kvmr-event/surface-tension-by-roma-devanbu-at-axis-gallery/2026-07-19/",
+      "source": "kvmr.org",
+      "snippet": "",
+      "published": "20260719T111500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Bari , a fuoco le baracche del campo rom di Japigia : colonna di fumo visibile in tutta la città",
+      "url": "https://bari.repubblica.it/cronaca/2026/07/19/news/bari_a_fuoco_le_baracche_del_campo_rom_di_japigia_colonna_di_fumo_visibile_in_tutta_la_citta-425480408/",
+      "source": "bari.repubblica.it",
+      "snippet": "",
+      "published": "20260719T110000Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Крум Зарков с отворено писмо към социалистите и предложение за Манифест на левите сили ᐉ Новини от Fakti . bg - България",
+      "url": "https://fakti.bg/bulgaria/1068691-krum-zarkov-s-otvoreno-pismo-kam-socialistite-i-predlojenie-za-manifest-na-levite-sili",
+      "source": "fakti.bg",
+      "snippet": "",
+      "published": "20260719T104500Z",
       "lang": "Bulgarian"
     },
     {
-      "title": "Divé maky zožali obrovský úspech. Mladé talenty očarili Bratislavu - Roma Television",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa3N5MWE2UWlUczE3UlAwVkc3TGtleXZoVEkxMDVnalI4ZWZjOWZVOFgwY09mNy1vLVVVNUhxdXZhWUQ1SHg0SVRkZ3ZDR1hnMG5LZlBuYms1cTIyOGtGbFo1UmpBVWlvMzMxS1V3NnZYc2lGN3FMdTlERU5KLW5HallOSHpDWkthTURhS2xmOURDVUNhY3BfajJManlhdFQ2M2RzWURTLXVTMndnYXhqRFVyRzE1U1ZjYU9FbHhuQk9Oakk?oc=5",
+      "title": "Дан сећања на децу убијену у НДХ",
+      "url": "https://www.politika.rs/scc/clanak/771975/dan-secanja-na-decu-ubijenu-u-ndh",
+      "source": "politika.rs",
+      "snippet": "",
+      "published": "20260719T104500Z",
+      "lang": "Serbian"
+    },
+    {
+      "title": "Cum arată cavoul cu șemineu și marmură adusă din Italia al lui Artur Cerari . Opulență la înmormântarea baronului romilor din Republica Moldova",
+      "url": "https://adevarul.ro/stiri-interne/societate/cum-arata-cavoul-cu-semineu-si-marmura-adusa-din-2544244.html",
+      "source": "adevarul.ro",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Emily Wilson për reagimin  toksik  ndaj përk - Syri",
+      "url": "https://www.syri.net/kulture/904089/emily-wilson-per-reagimin-toksik-ndaj-perkthimit-te-saj-radikal-te-odisese/",
+      "source": "syri.net",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "Albanian"
+    },
+    {
+      "title": "Carrillo ( Igualdad ) aboga por establecer una cuota obligatoria de representación gitana en las listas electorales",
+      "url": "https://www.europapress.es/epsocial/igualdad/noticia-carrillo-igualdad-aboga-establecer-cuota-obligatoria-representacion-gitana-listas-electorales-20260719120251.html",
+      "source": "europapress.es",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Arteta is already making plans to deal with the injury of Saliba",
+      "url": "https://www.caughtoffside.com/2026/07/19/arteta-has-a-plan-to-deal-with-saliba-injury/",
+      "source": "caughtoffside.com",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "English"
+    },
+    {
+      "title": "Bari vasto incendio al campo rom di Japigia | il fumo visibile in tutta la città paura per la presenza di bombole di gas",
+      "url": "https://www.zazoom.it/2026-07-19/bari-vasto-incendio-al-campo-rom-di-japigia-il-fumo-visibile-in-tutta-la-citta-paura-per-la-presenza-di-bombole-di-gas/19478054/",
+      "source": "zazoom.it",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Serbie : Gypsy Mafia , au tréfonds du hip - hop rrom - Le Courrier des Balkans",
+      "url": "https://www.courrierdesbalkans.fr/serbie-gypsy-mafia-au-trefonds-du-hip-hop-rrom-33976/",
+      "source": "courrierdesbalkans.fr",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "French"
+    },
+    {
+      "title": "Copa do Mundo : literatura argentina e espanhola duelam nas estantes",
+      "url": "https://www.correiodopovo.com.br/arteagenda/copa-do-mundo-literatura-argentina-e-espanhola-duelam-nas-estantes-1.1731881",
+      "source": "correiodopovo.com.br",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "Portuguese"
+    },
+    {
+      "title": "Piogge monsoniche allagano il Kashmir , morti e feriti",
+      "url": "https://www.bresciaoggi.it/news/mondo/piogge-monsoniche-allagano-il-kashmir-morti-e-feriti-1.13075288",
+      "source": "bresciaoggi.it",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "English"
+    },
+    {
+      "title": "ਜਾਂਬਾਜ਼ ਨਾਇਕ ਦੇ ਜਜ਼ਬੇ ਦੀ ਕਹਾਣੀ ;  ਮਿਸ ਇੰਡੀਆ  ਜਹਾਜ਼ ਨਾਲ ਇਤਿਹਾਸ ਸਿਰਜਣ ਵਾਲੇ ਦੇਸ਼ ਦੇ ਪਹਿਲੇ ਪਾਇਲਟ ਫਲਾਇੰਗ ਅਫ਼ਸਰ  ਮਨਮੋਹਨ ਸਿੰਘ  ",
+      "url": "https://www.punjabitribuneonline.com/news/explainers/the-story-of-the-spirit-of-a-brave-hero-manmohan-singh-the-countrys-first-pilot-and-flying-officer-created-history-with-the-miss-india-aircraft/",
+      "source": "punjabitribuneonline.com",
+      "snippet": "",
+      "published": "20260719T103000Z",
+      "lang": "Punjabi"
+    },
+    {
+      "title": "Creșterea timpului de trecere la controlul pașapoartelor afectează fluxul de pasageri în aeroporturile europene în sezonul estival",
+      "url": "https://business24.ro/ees/crestere-timp-trecere-control-pasapoarte-flux-pasageri-aeroporturi-1660713",
+      "source": "business24.ro",
+      "snippet": "",
+      "published": "20260719T100000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Miroslav Antić otišao pre 40 godina – priča o zlatnim rukama šokirala sve",
+      "url": "https://www.blic.rs/kultura/miroslav-antic-otisao-pre-40-godina-prica-o-zlatnim-rukama-sokirala-sve/pry8tep",
+      "source": "blic.rs",
+      "snippet": "",
+      "published": "20260719T091500Z",
+      "lang": "Serbian"
+    },
+    {
+      "title": "RAQUEL PUERTAS , UNA PAYA QUE TRABAJA CON EL PUEBLO GITANO EN PLASENCIA :  No son un problema , son una oportunidad  ",
+      "url": "https://www.elperiodicoextremadura.com/plasencia/2026/07/19/raquel-puertas-paya-pueblo-gitano-no-problema-oportunidad-plasencia-132493173.html",
+      "source": "elperiodicoextremadura.com",
+      "snippet": "",
+      "published": "20260719T091500Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Proteste la Veneţia după ce ambasadorul SUA în Italia , miliardarul Tilman Fertitta , a venit cu un iaht de 450 de milioane de dolari",
+      "url": "https://www.antena3.ro/externe/proteste-la-venetia-dupa-ce-ambasadorul-sua-in-italia-miliardarul-tilman-fertitta-a-venit-cu-un-iaht-de-450-de-milioane-de-dolari-796152.html",
+      "source": "antena3.ro",
+      "snippet": "",
+      "published": "20260719T083000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Postupný koniec Mašličkova ? Starosta Luníka IX stavil na prísne kontrolované bývanie - Regióny - Správy",
+      "url": "https://www.pravda.sk/spravy/regiony/clanok/2009193-clanok",
+      "source": "pravda.sk",
+      "snippet": "",
+      "published": "20260719T083000Z",
+      "lang": "Slovak"
+    },
+    {
+      "title": "Man Mohan Singh :  मिस इंडिया  से इतिहास रचा , फिर युद्ध में शहीद हुए ... कौन थे मन मोहन सिंह ? ",
+      "url": "https://www.dainiktribuneonline.com/news/explainers/man-mohan-singh-made-history-with-miss-india-then-got-martyred-in-the-war-who-was-man-mohan-singh/",
+      "source": "dainiktribuneonline.com",
+      "snippet": "",
+      "published": "20260719T083000Z",
+      "lang": "Hindi"
+    },
+    {
+      "title": "Dodik : Srpski narod ne broji godine , već prekinuta detinjstva , prazne đačke klupe i neostvarene snove",
+      "url": "http://www.glas-javnosti.rs/vesti/okruzenje/dodik-srpski-narod-ne-broji-godine--vec-prekinuta-detinjstva--prazne-djacke-klupe-i-neostvarene-snove",
+      "source": "glas-javnosti.rs",
+      "snippet": "",
+      "published": "20260719T081500Z",
+      "lang": "Serbian"
+    },
+    {
+      "title": "Tangokuningatar Raija Mäntyniemi : Suorat sanat Mirellasta",
+      "url": "https://www.seiska.fi/vain-seiskassa/tangokuningatar-raija-mantyniemi-suorat-sanat-mirellasta/2207791",
+      "source": "seiska.fi",
+      "snippet": "",
+      "published": "20260719T081500Z",
+      "lang": "Finnish"
+    },
+    {
+      "title": "DOCUMENTAR : Fostul tenisman Ilie Năstase împlinește 80 de ani ( 19 iulie ) ",
+      "url": "https://agerpres.ro/documentare/2026/07/19/documentar-fostul-tenisman-ilie-nastase-implineste-80-de-ani-19-iulie--1577314",
+      "source": "agerpres.ro",
+      "snippet": "",
+      "published": "20260719T081500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "KLIMË – Vapa ekstreme mund ti kushtojë Italisë mbi 13 miliardë dollarë në vit – 24 ore",
+      "url": "https://24-ore.com/klime-vapa-ekstreme-mund-ti-kushtoje-italise-mbi-13-miliarde-dollare-ne-vit/",
+      "source": "24-ore.com",
+      "snippet": "",
+      "published": "20260719T073000Z",
+      "lang": "Albanian"
+    },
+    {
+      "title": "5 bộ phim Trung Quốc mới đồng loạt lên sóng",
+      "url": "https://vietgiaitri.com/5-bo-phim-trung-quoc-moi-dong-loat-len-song-20260719i7737449/",
+      "source": "vietgiaitri.com",
+      "snippet": "",
+      "published": "20260719T073000Z",
+      "lang": "Vietnamese"
+    },
+    {
+      "title": "Ziua în istorie | 19 iulie",
+      "url": "https://www.antenasatelor.ro/viata-la-tara/agenda/ziua-in-istorie-19-iulie-id43984.html",
+      "source": "antenasatelor.ro",
+      "snippet": "",
+      "published": "20260719T073000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Что было в этот день в Феодосии и Крыму в прошлые годы 19 июля",
+      "url": "https://kafanews.com/novosti/211150/chto-bylo-v-etot-den-v-feodosii-i-krymu-v-proshlye-gody-19-iyulya_2026-07-19",
+      "source": "kafanews.com",
+      "snippet": "",
+      "published": "20260719T073000Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "Pluutot uuriv kosmoselaev ärkas pikast talveunest",
+      "url": "https://forte.delfi.ee/artikkel/120597991/pluutot-uuriv-kosmoselaev-arkas-pikast-talveunest",
+      "source": "forte.delfi.ee",
+      "snippet": "",
+      "published": "20260719T071500Z",
+      "lang": "Estonian"
+    },
+    {
+      "title": "Что празднуют 19 июля в Украине и мире - Последние новости сегодня",
+      "url": "http://pressorg24.com/news?id=838015",
+      "source": "pressorg24.com",
+      "snippet": "",
+      "published": "20260719T071500Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "French Chronicle …",
+      "url": "https://rroma.org/french-chronicle-369/?utm_source=rss&utm_medium=rss&utm_campaign=french-chronicle-369",
+      "source": "https://rroma.org/feed/",
+      "snippet": "Not much this week in France about Roma. A concert titled “Vent d’Est” in the South of France; the closure [&#8230;]",
+      "published": "Sun, 19 Jul 2026 13:09:57 +0000",
+      "lang": "en"
+    },
+    {
+      "title": "Roma in Burgenland",
+      "url": "https://rroma.org/roma-in-burgenland/?utm_source=rss&utm_medium=rss&utm_campaign=roma-in-burgenland",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The documentary &#8220;Roma in Burgenland &#8211; Stories We Tell Ourselves&#8221; by director Robert Dornhelm explores the history, culture, and current [&#8230;]",
+      "published": "Sun, 19 Jul 2026 13:09:16 +0000",
+      "lang": "en"
+    },
+    {
+      "title": "Serbian Elections",
+      "url": "https://rroma.org/serbian-elections-3/?utm_source=rss&utm_medium=rss&utm_campaign=serbian-elections-3",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The Roma Party announced its decision to participate in upcoming elections and is open to discussions with opposition parties for [&#8230;]",
+      "published": "Sun, 19 Jul 2026 13:08:21 +0000",
+      "lang": "en"
+    },
+    {
+      "title": "Roma in Montenegro",
+      "url": "https://rroma.org/roma-in-montenegro-2/?utm_source=rss&utm_medium=rss&utm_campaign=roma-in-montenegro-2",
+      "source": "https://rroma.org/feed/",
+      "snippet": "Ivan Radulović emphasizes the need to correct the position of the Roma and Egyptian communities in Montenegro before implementing guaranteed [&#8230;]",
+      "published": "Sun, 19 Jul 2026 13:07:33 +0000",
+      "lang": "en"
+    },
+    {
+      "title": "Slovak Settlements",
+      "url": "https://rroma.org/slovak-settlements/?utm_source=rss&utm_medium=rss&utm_campaign=slovak-settlements",
+      "source": "https://rroma.org/feed/",
+      "snippet": "Slovakia is working to improve living conditions in marginalized Roma communities, investing nearly one billion euros, yet many still lack [&#8230;]",
+      "published": "Sun, 19 Jul 2026 13:06:41 +0000",
+      "lang": "en"
+    },
+    {
+      "title": "Ropa prudko zdražela. Ceny za týždeň vyskočili až o 16 percent - Roma Television",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVB6elNWNUExV2kzQUVuR3FjbDFiQUYyUmJxbEUtdGRCRHZlLUlnM3BXS1NaRjVQempNdDVWdC1iWVVWSlRQbXJibDZ1MXVtWUpxOGxsWnhIc3N4ZmFGV2plaDNwUzV4Z3cySWJiLWI4V2d0T0JFR1JTOHp6eWhqLTFIQnhIRTFxZ0lkejhnUTVOREJ2Q0NkN3VhYVpwZDh2UFFCRVBYb3Q2VnNzbE9acHpZWXRBRWFLNmFCX0UyeXZLakdtWDVGNk5ZQ2pZZw?oc=5",
       "source": "Roma Television",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa3N5MWE2UWlUczE3UlAwVkc3TGtleXZoVEkxMDVnalI4ZWZjOWZVOFgwY09mNy1vLVVVNUhxdXZhWUQ1SHg0SVRkZ3ZDR1hnMG5LZlBuYms1cTIyOGtGbFo1UmpBVWlvMzMxS1V3NnZYc2lGN3FMdTlERU5KLW5HallOSHpDWkthTURhS2xmOURDVUNhY3BfajJManlhdFQ2M2RzWURTLXVTMndnYXhqRFVyRzE1U1ZjYU9FbHhuQk9Oakk?oc=5\" target=\"_blank\">Divé maky zožali obrovský úspech. Mladé talenty očarili Bratislavu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roma Television</font>",
-      "published": "Sat, 18 Jul 2026 23:58:12 GMT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVB6elNWNUExV2kzQUVuR3FjbDFiQUYyUmJxbEUtdGRCRHZlLUlnM3BXS1NaRjVQempNdDVWdC1iWVVWSlRQbXJibDZ1MXVtWUpxOGxsWnhIc3N4ZmFGV2plaDNwUzV4Z3cySWJiLWI4V2d0T0JFR1JTOHp6eWhqLTFIQnhIRTFxZ0lkejhnUTVOREJ2Q0NkN3VhYVpwZDh2UFFCRVBYb3Q2VnNzbE9acHpZWXRBRWFLNmFCX0UyeXZLakdtWDVGNk5ZQ2pZZw?oc=5\" target=\"_blank\">Ropa prudko zdražela. Ceny za týždeň vyskočili až o 16 percent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roma Television</font>",
+      "published": "Sun, 19 Jul 2026 10:22:13 GMT",
       "lang": "sk"
     }
   ]
