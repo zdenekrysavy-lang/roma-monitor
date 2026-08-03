@@ -50,7 +50,8 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
 - `gather.py`  — režim B: feed + seen.json (JSON i lidsky čitelný MD)
 - `analyze.py` — režim A: třídění/shrnutí přes Claude; prompt `SYSTEM`
 - `render.py` / `notify.py` / `main.py` — režim A: HTML, SMTP, orchestrace
-- `.github/workflows/gather.yml` — režim B, cron 2× denně (5:00, 15:00 UTC)
+- `.github/workflows/gather.yml` — režim B, cron 2× denně (5:30, 15:30 UTC =
+  ~7:30 a 17:30 Praha, tj. půl hodiny před čtením agentem v 8:00 a 18:00)
 - `.github/workflows/digest.yml` — režim A, cron VYPNUTÝ
 
 ## Jak spustit / testovat
