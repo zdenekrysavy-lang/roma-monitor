@@ -4,22 +4,51 @@ Aplikace (`gather.py` + workflow `gather.yml`) 2× denně publikuje seznam
 kandidátských zpráv do `feed/candidates.json`. Agent v ChatGPT si soubor
 stáhne a udělá chytrou část — bez poplatků za Anthropic API.
 
-## Veřejná adresa feedu (NASAZENO)
+## Jak agent feed čte (pořadí podle spolehlivosti)
 
-Pro ChatGPT agenta používej adresu přes **jsDelivr CDN**:
+### 1) Konektor GitHub (DOPORUČENO)
+V ChatGPT připoj **GitHub konektor v režimu jen pro čtení** a nech agenta
+načíst soubor přímo z repozitáře:
 
+| | |
+|---|---|
+| repozitář | `zdenekrysavy-lang/roma-monitor` |
+| větev | `main` |
+| soubor | `feed/candidates.json` |
+
+Čte se přes GitHub API, takže to obchází obojí, na čem ostatní cesty selhaly
+(403 z CDN, 401 z webového prohlížení). V promptu pak **nepoužívej slova
+„stáhni" ani „po stažení"** — sveden by zkusil HTTP a zase narazil.
+
+### 2) HTML stránka přes GitHub Pages (záloha)
+Feed se publikuje i jako obyčejná webová stránka, kterou prohlížecí nástroj
+přečte bez potíží (na rozdíl od surového `.json`):
+
+```
+https://zdenekrysavy-lang.github.io/roma-monitor/feed/
+```
+
+Vyžaduje jednorázově zapnout Pages: *Settings → Pages → Source: Deploy from
+a branch → Branch: `main` / `(root)` → Save*.
+
+### 3) Přímé adresy JSON (pro tebe, ne pro agenta)
 ```
 https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json
+https://raw.githubusercontent.com/zdenekrysavy-lang/roma-monitor/main/feed/candidates.json
 ```
+Obě fungují z prohlížeče i z příkazové řádky (ověřeno HTTP 200 i pro UA
+`ChatGPT-User`), ale nástroje ChatGPT na nich selhávají — viz níže.
 
-> **Když agent hlásí HTTP 403:** skoro jistě si feed stahuje **spouštěním kódu**
-> (curl / python v sandboxu), a ten nemá přístup k internetu. Ověřeno 8/2026:
-> obě adresy vrací HTTP 200 i pro oficiální UA `ChatGPT-User` a `OAI-SearchBot`,
-> takže hosting v pořádku je. Řešení je v promptu — přikázat webové prohlížení
-> (viz text úkolu níže), ne měnit adresu.
+> **Historie ladění (8/2026), ať se to znovu nehledá:**
+> - `raw.githubusercontent.com` → agent hlásil **403**. Příčina: stahoval to
+>   spouštěním kódu, a sandbox ChatGPT nemá přístup k internetu.
+> - `cdn.jsdelivr.net` → totéž **403** ze stejného důvodu.
+> - webové prohlížení na `.json` → **401 Unauthorized**; prohlížecí nástroj je
+>   stavěný na stránky, ne na surové soubory.
+> - **Hosting je přitom v pořádku:** obě adresy vrací HTTP 200 i pro oficiální
+>   UA `ChatGPT-User` a `OAI-SearchBot`, `robots.txt` nikde není.
 >
-> jsDelivr proti `raw.githubusercontent.com` navíc servíruje správný
-> `Content-Type: application/json` a nepodléhá anti-abuse limitům GitHubu.
+> Proto se čte přes GitHub konektor (varianta 1), případně HTML stránku (2).
 >
 > CDN drží obsah 12 h, proto workflow po každé publikaci volá
 > `purge.jsdelivr.net` — agent tak vždy dostane čerstvý feed.
@@ -41,14 +70,11 @@ Prázdný feed (`count: 0`) je normální stav = od minulého běhu nic nového.
 Kadence „každý den 7:00 a 17:00". Aktuálně nasazený prompt:
 
 ---
-Otevři a přečti tuto adresu POMOCÍ WEBOVÉHO PROHLÍŽENÍ (nástroj web / browsing):
-https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json
+Pomocí konektoru GitHub otevři soubor `feed/candidates.json` z větve `main`
+repozitáře `zdenekrysavy-lang/roma-monitor`. Je to veřejný repozitář, stačí
+přístup jen pro čtení. Nepoužívej k tomu webové prohlížení ani spouštění kódu.
 
-DŮLEŽITÉ: nestahuj ji spouštěním kódu (python, curl, requests, příkazová řádka).
-Sandbox pro spouštění kódu nemá přístup k internetu a vrací HTTP 403 – to NENÍ
-chyba feedu. Adresa je veřejná a funkční; použij prostě webové prohlížení.
-
-Obsahuje pole `candidates` se zprávami (title, url, source, lang, snippet)
+Soubor obsahuje pole `candidates` se zprávami (title, url, source, lang, snippet)
 a pole `sources` se statistikou sběru. Je to SUROVÝ sběr napříč jazyky —
 obsahuje šum, který musíš odfiltrovat. Udělej tohle:
 
@@ -75,7 +101,7 @@ obsahuje šum, který musíš odfiltrovat. Udělej tohle:
      tentokrát nenačetly (rate-limit) – přehled je postaven hlavně z GDELT
      a romských feedů."
 
-Pokud je pole `candidates` prázdné nebo se feed nepodaří stáhnout, napiš mi to
+Pokud je pole `candidates` prázdné nebo se soubor nepodaří otevřít, napiš mi to
 a nic neposílej.
 ---
 

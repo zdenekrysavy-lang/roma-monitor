@@ -8,6 +8,7 @@ Spuštění:  python gather.py
 import os
 import json
 import datetime as dt
+from html import escape as esc
 
 import config
 import fetch
@@ -89,7 +90,71 @@ def write_feed(items: list, stats: dict) -> tuple:
     with open(md_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    return json_path, md_path
+    html_path = write_html(payload)
+    return json_path, md_path, html_path
+
+
+def write_html(payload: dict) -> str:
+    """Feed jako obyčejná HTML stránka (feed/index.html).
+
+    ChatGPT agent si přes prohlížení neporadí s odkazem na surový .json soubor
+    (vrací 401/403), ale běžnou webovou stránku přečte bez problémů. Publikuje
+    se přes GitHub Pages — viz chatgpt_task.md.
+    """
+    st = payload["sources"]
+    rows = []
+    for i, it in enumerate(payload["candidates"], 1):
+        title = esc(it.get("title", ""))
+        url = esc(it.get("url", ""))
+        meta = " · ".join(x for x in [esc(it.get("source", "")),
+                                      esc((it.get("lang", "") or "").upper()),
+                                      esc(it.get("published", ""))] if x)
+        snippet = esc(it.get("snippet", ""))
+        rows.append(
+            f'<article>\n<h2>{i}. <a href="{url}">{title}</a></h2>\n'
+            f'<p class="meta">{meta}</p>\n'
+            + (f"<p>{snippet}</p>\n" if snippet else "")
+            + f'<p class="url">{url}</p>\n</article>'
+        )
+    body = "\n".join(rows) or "<p>Za sledované období nepřišly žádné nové zprávy.</p>"
+
+    doc = f"""<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kandidáti – Romové ve světě ({payload['count']})</title>
+<style>
+ body{{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+      max-width:52rem;margin:0 auto;padding:1.5rem;line-height:1.5;color:#1a1a1a}}
+ h1{{font-size:1.4rem;margin:0 0 .3rem}}
+ h2{{font-size:1rem;margin:0 0 .2rem;font-weight:600}}
+ article{{border-top:1px solid #e5e5e5;padding:.9rem 0}}
+ .meta{{font-size:.8rem;color:#666;margin:.1rem 0}}
+ .url{{font-size:.75rem;color:#888;word-break:break-all;margin:.2rem 0 0}}
+ .head{{font-size:.85rem;color:#555;margin-bottom:1rem}}
+ a{{color:#0b5cad}}
+</style>
+</head>
+<body>
+<h1>Kandidátské zprávy o Romech ve světě</h1>
+<p class="head">
+ Vygenerováno (UTC): <strong>{esc(payload['generated_utc'])}</strong><br>
+ Počet nových zpráv: <strong>{payload['count']}</strong><br>
+ Zdroje tohoto běhu: Google News {st.get('google_news', 0)}
+ ({esc(st.get('google_news_status', '?'))}) ·
+ GDELT {st.get('gdelt', 0)} ({esc(st.get('gdelt_status', '?'))}) ·
+ feedy {st.get('feeds', 0)} · weby {st.get('watch', 0)}
+ {('<br>Poznámka ke GDELT: ' + esc(st['gdelt_note'])) if st.get('gdelt_note') else ''}
+</p>
+{body}
+</body>
+</html>
+"""
+    path = os.path.join(OUT_DIR, "index.html")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(doc)
+    return path
 
 
 def run() -> None:
@@ -107,11 +172,11 @@ def run() -> None:
           f"(Google News {stats.get('google_news', 0)}, "
           f"GDELT {stats.get('gdelt', 0)}/{stats.get('gdelt_status', '?')}, "
           f"feedy {stats.get('feeds', 0)}, watch {stats.get('watch', 0)})")
-    jp, mp = write_feed(items, stats)
+    jp, mp, hp = write_feed(items, stats)
     # seen ukládáme až PO úspěšném zápisu feedu – kdyby zápis spadl,
     # články nesmí zůstat označené jako „viděné", aniž byly publikovány.
     save_seen(seen)
-    print(f"Uloženo: {jp} a {mp}")
+    print(f"Uloženo: {jp}, {mp} a {hp}")
 
 
 if __name__ == "__main__":
