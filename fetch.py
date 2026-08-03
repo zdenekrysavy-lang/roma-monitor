@@ -1,4 +1,6 @@
 """Sběr kandidátských článků z více zdrojů + deduplikace."""
+import re
+import html
 import time
 import random
 import urllib.parse
@@ -66,6 +68,23 @@ def _within_window(published_parsed, hours: int) -> bool:
     return (time.time() - ts) <= hours * 3600
 
 
+_TAG_RE = re.compile(r"<[^>]+>")
+_WS_RE = re.compile(r"\s+")
+
+
+def _clean_snippet(text: str, limit: int = 300) -> str:
+    """Odstraní HTML z úryvku.
+
+    Google News cpe do summary celý <a href="…base64…"> odkaz, který se pak
+    v úryvku opakuje – balast, který jen nafukuje feed a agentovi nic neříká.
+    """
+    if not text:
+        return ""
+    text = _TAG_RE.sub(" ", text)
+    text = html.unescape(text)
+    return _WS_RE.sub(" ", text).strip()[:limit]
+
+
 def _norm_url(url: str) -> str:
     """Odstraní query/fragment (utm apod.) pro spolehlivější dedup."""
     p = urllib.parse.urlsplit(url)
@@ -100,7 +119,7 @@ def fetch_google_news() -> list:
                 "title":     e.get("title", ""),
                 "url":       e.get("link", ""),
                 "source":    _entry_source(e),
-                "snippet":   (e.get("summary", "") or "")[:500],
+                "snippet":   _clean_snippet(e.get("summary", "")),
                 "published": e.get("published", ""),
                 "lang":      hl,
             })
@@ -183,7 +202,7 @@ def fetch_feed(url: str, lang: str = "") -> list:
             "title":     e.get("title", ""),
             "url":       e.get("link", ""),
             "source":    _entry_source(e) or url,
-            "snippet":   (e.get("summary", "") or "")[:500],
+            "snippet":   _clean_snippet(e.get("summary", "")),
             "published": e.get("published", ""),
             "lang":      lang,
         })
@@ -230,7 +249,7 @@ def fetch_watch_sites() -> list:
                 "title":     e.get("title", ""),
                 "url":       e.get("link", ""),
                 "source":    _entry_source(e) or domain,
-                "snippet":   (e.get("summary", "") or "")[:500],
+                "snippet":   _clean_snippet(e.get("summary", "")),
                 "published": e.get("published", ""),
                 "lang":      hl,
             })

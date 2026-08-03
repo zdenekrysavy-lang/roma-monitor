@@ -12,10 +12,14 @@ Pro ChatGPT agenta používej adresu přes **jsDelivr CDN**:
 https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json
 ```
 
-> **Proč ne raw.githubusercontent.com?** GitHub na `raw.` blokuje sdílené IP
-> rozsahy automatických klientů a ChatGPT agentovi vrací **HTTP 403** (stalo se
-> 8/2026). jsDelivr je CDN určená přesně pro tohle čtení, servíruje identická
-> data a k tomu správný `Content-Type: application/json`.
+> **Když agent hlásí HTTP 403:** skoro jistě si feed stahuje **spouštěním kódu**
+> (curl / python v sandboxu), a ten nemá přístup k internetu. Ověřeno 8/2026:
+> obě adresy vrací HTTP 200 i pro oficiální UA `ChatGPT-User` a `OAI-SearchBot`,
+> takže hosting v pořádku je. Řešení je v promptu — přikázat webové prohlížení
+> (viz text úkolu níže), ne měnit adresu.
+>
+> jsDelivr proti `raw.githubusercontent.com` navíc servíruje správný
+> `Content-Type: application/json` a nepodléhá anti-abuse limitům GitHubu.
 >
 > CDN drží obsah 12 h, proto workflow po každé publikaci volá
 > `purge.jsdelivr.net` — agent tak vždy dostane čerstvý feed.
@@ -37,7 +41,13 @@ Prázdný feed (`count: 0`) je normální stav = od minulého běhu nic nového.
 Kadence „každý den 7:00 a 17:00". Aktuálně nasazený prompt:
 
 ---
-Stáhni JSON z https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json
+Otevři a přečti tuto adresu POMOCÍ WEBOVÉHO PROHLÍŽENÍ (nástroj web / browsing):
+https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json
+
+DŮLEŽITÉ: nestahuj ji spouštěním kódu (python, curl, requests, příkazová řádka).
+Sandbox pro spouštění kódu nemá přístup k internetu a vrací HTTP 403 – to NENÍ
+chyba feedu. Adresa je veřejná a funkční; použij prostě webové prohlížení.
+
 Obsahuje pole `candidates` se zprávami (title, url, source, lang, snippet)
 a pole `sources` se statistikou sběru. Je to SUROVÝ sběr napříč jazyky —
 obsahuje šum, který musíš odfiltrovat. Udělej tohle:
