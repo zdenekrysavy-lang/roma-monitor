@@ -8,8 +8,9 @@ hotový přehled e-mailem.
 ## Dva režimy
 
 - **Režim B – feed pro ChatGPT (`gather.py`) — NASAZENÝ, AKTIVNÍ.** Aplikace
-  jen NASBÍRÁ kandidáty a publikuje je jako veřejný JSON na
-  `https://raw.githubusercontent.com/zdenekrysavy-lang/roma-monitor/main/feed/candidates.json`.
+  jen NASBÍRÁ kandidáty a publikuje je jako veřejný JSON; agent ho čte přes
+  `https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json`
+  (jsDelivr CDN — `raw.githubusercontent.com` vrací automatům 403).
   Třídění a česká shrnutí dělá naplánovaný agent v ChatGPT (kryto předplatným,
   bez API poplatků). Prompt a návod: `chatgpt_task.md`.
 - **Režim A – plný pipeline (`main.py`) — připravený, vypnutý.** Sběr →

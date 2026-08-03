@@ -10,8 +10,9 @@ Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
 ## Dva režimy
 - **B (feed pro ChatGPT) — AKTIVNÍ:** `gather.py` → sběr + publikace
   `feed/candidates.json` (workflow `gather.yml`, cron 2× denně). Bez API klíčů.
-  Veřejná URL feedu:
-  `https://raw.githubusercontent.com/zdenekrysavy-lang/roma-monitor/main/feed/candidates.json`
+  Veřejná URL feedu **pro agenta** (jsDelivr CDN — `raw.githubusercontent.com`
+  vrací automatům 403, viz níže):
+  `https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json`
   Prompt agenta: `chatgpt_task.md`.
 - **A (plný):** `main.py` → sběr + Claude třídí/shrnuje + e-mail. Vyžaduje
   ANTHROPIC_API_KEY + SMTP secrets. Cron v `digest.yml` je zakomentovaný,
@@ -87,6 +88,12 @@ vlastní).
 3. Spící feedy (roma-news.com, romatimes.news, tvroma.sk, kalisara.hr)
    publikují na Facebooku místo webu — FB monitorovat nejde (Meta blokuje);
    nechány napojené, ožijí samy.
+5. **Doručení feedu:** `raw.githubusercontent.com` vrací automatickým klientům
+   (ChatGPT agent) **403** — GitHub blokuje jejich sdílené IP. Proto agent čte
+   přes jsDelivr CDN a workflow po publikaci volá `purge.jsdelivr.net`
+   (CDN jinak drží 12 h). Kdyby zlobila i jsDelivr, další varianta jsou GitHub
+   Pages (`Settings → Pages → Deploy from branch main`), URL by pak byla
+   `https://zdenekrysavy-lang.github.io/roma-monitor/feed/candidates.json`.
 4. Režim A: před aktivací vyplnit Secrets (ANTHROPIC_API_KEY, EMAIL_*,
    SMTP_*) a odkomentovat cron v `digest.yml`.
 

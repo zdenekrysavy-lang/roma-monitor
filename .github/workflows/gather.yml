@@ -37,3 +37,16 @@ jobs:
           git commit -m "feed update $(date -u +%FT%TZ)" || echo "beze změn"
           git pull --rebase origin main
           git push
+
+      # ChatGPT agent čte feed přes jsDelivr CDN (raw.githubusercontent.com mu
+      # vrací 403 – GitHub blokuje sdílené IP automatických klientů). CDN drží
+      # obsah 12 h, proto ji po každé publikaci proplachneme, ať agent nedostane
+      # feed z minulého běhu. Selhání purge nesmí shodit workflow.
+      - name: Proplach jsDelivr CDN
+        continue-on-error: true
+        run: |
+          for f in candidates.json candidates.md; do
+            curl -sS --max-time 60 \
+              "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/feed/$f" || true
+            echo
+          done

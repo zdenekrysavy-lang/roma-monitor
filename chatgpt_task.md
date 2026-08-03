@@ -6,9 +6,22 @@ stáhne a udělá chytrou část — bez poplatků za Anthropic API.
 
 ## Veřejná adresa feedu (NASAZENO)
 
+Pro ChatGPT agenta používej adresu přes **jsDelivr CDN**:
+
 ```
-https://raw.githubusercontent.com/zdenekrysavy-lang/roma-monitor/main/feed/candidates.json
+https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json
 ```
+
+> **Proč ne raw.githubusercontent.com?** GitHub na `raw.` blokuje sdílené IP
+> rozsahy automatických klientů a ChatGPT agentovi vrací **HTTP 403** (stalo se
+> 8/2026). jsDelivr je CDN určená přesně pro tohle čtení, servíruje identická
+> data a k tomu správný `Content-Type: application/json`.
+>
+> CDN drží obsah 12 h, proto workflow po každé publikaci volá
+> `purge.jsdelivr.net` — agent tak vždy dostane čerstvý feed.
+>
+> Původní adresa `https://raw.githubusercontent.com/zdenekrysavy-lang/roma-monitor/main/feed/candidates.json`
+> funguje dál (např. z prohlížeče), jen na ni nespoléhej u automatů.
 
 Feed obsahuje:
 - `candidates` — pole zpráv (title, url, source, lang, snippet, published).
@@ -24,7 +37,7 @@ Prázdný feed (`count: 0`) je normální stav = od minulého běhu nic nového.
 Kadence „každý den 7:00 a 17:00". Aktuálně nasazený prompt:
 
 ---
-Stáhni JSON z https://raw.githubusercontent.com/zdenekrysavy-lang/roma-monitor/main/feed/candidates.json
+Stáhni JSON z https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json
 Obsahuje pole `candidates` se zprávami (title, url, source, lang, snippet)
 a pole `sources` se statistikou sběru. Je to SUROVÝ sběr napříč jazyky —
 obsahuje šum, který musíš odfiltrovat. Udělej tohle:
