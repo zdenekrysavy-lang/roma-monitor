@@ -20,7 +20,7 @@ načíst soubor přímo z repozitáře:
 (403 z CDN, 401 z webového prohlížení). V promptu pak **nepoužívej slova
 „stáhni" ani „po stažení"** — sveden by zkusil HTTP a zase narazil.
 
-### 2) HTML stránka přes GitHub Pages (záloha)
+### 2) HTML stránka přes GitHub Pages (ZAPNUTO, záloha)
 Feed se publikuje i jako obyčejná webová stránka, kterou prohlížecí nástroj
 přečte bez potíží (na rozdíl od surového `.json`):
 
@@ -28,8 +28,11 @@ přečte bez potíží (na rozdíl od surového `.json`):
 https://zdenekrysavy-lang.github.io/roma-monitor/feed/
 ```
 
-Vyžaduje jednorázově zapnout Pages: *Settings → Pages → Source: Deploy from
-a branch → Branch: `main` / `(root)` → Save*.
+Přes Pages jde i JSON: `…/roma-monitor/feed/candidates.json` — běžná webová
+doména bez anti-abuse limitů, takže může projít tam, kde `raw.` selhával.
+
+> Pozor na koncové `/feed/`. Tlačítko „Visit site" v nastavení vede na kořen
+> `…/roma-monitor/`, kde je jen rozcestník — samotný feed je o úroveň níž.
 
 ### 3) Přímé adresy JSON (pro tebe, ne pro agenta)
 ```
