@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name  "roma-monitor-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed/candidates.json feed/candidates.md feed/index.html state/seen.json
+          git add feed/candidates.json feed/candidates.md feed/index.html feed/archiv.html state/seen.json state/archive.json
           git commit -m "feed update $(date -u +%FT%TZ)" || echo "beze změn"
           git pull --rebase origin main
           git push
@@ -49,7 +49,7 @@ jobs:
       - name: Proplach jsDelivr CDN
         continue-on-error: true
         run: |
-          for f in candidates.json candidates.md index.html; do
+          for f in candidates.json candidates.md index.html archiv.html; do
             curl -sS --max-time 60 \
               "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/feed/$f" || true
             echo

@@ -28,6 +28,13 @@ FEED_LOOKBACK_HOURS = int(os.getenv("FEED_LOOKBACK_HOURS", "72"))
 # Perzistence „už viděných" URL mezi běhy (commituje ji workflow do repa).
 SEEN_PATH     = os.getenv("SEEN_PATH", "state/seen.json")
 SEEN_TTL_DAYS = int(os.getenv("SEEN_TTL_DAYS", "14"))   # po té době záznam vyprší
+
+# Archiv pro záchytnou stránku „posledních 7 dní". Feed nese jen NOVÉ položky,
+# takže když je agent nepřečte (výpadek, chyba doručení), zmizí nenávratně –
+# seen.json se aktualizuje při sběru, ne při odeslání. Archiv drží všechno
+# bez ohledu na seen, aby se dalo zpětně dohledat, co uteklo.
+ARCHIVE_PATH = os.getenv("ARCHIVE_PATH", "state/archive.json")
+ARCHIVE_DAYS = int(os.getenv("ARCHIVE_DAYS", "7"))
 CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-5")  # levnější varianta: claude-haiku-4-5-20251001
 
 # --- Google News RSS: (dotaz, jazyk hl, země gl) ---
