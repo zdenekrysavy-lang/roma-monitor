@@ -16,11 +16,31 @@ Do pipeline se ČTK **záměrně nezapojuje** – viz „Proč ne přes feed" n�
    agent to přečte spolu s oběma feedy a zařadí do přehledu
 ```
 
-## 1) Nastav přeposílání
+## 1) Přeposílání – JE HOTOVO, agent to už dělá
 
-V `romea@romea.cz` vytvoř pravidlo: e-maily s předmětem obsahujícím
-„E-mail servis ČTK" (nebo od odesílatele ČTK) přeposílat do schránky, ke které
-má agent konektor (např. `zdenek.rysavy@romea.cz`).
+Ověřeno 9. 8. 2026 přímo ve schránce: `zdenek.rysavy@romea.cz` běží na
+**Gmailu** (ne na Outlooku) a chodí tam přeposlané ČTK od `romea@romea.cz`.
+
+Klíčové zjištění: **tamní agent přílohu už čte a rozebírá v těle zprávy.**
+Předmět „Fwd: Zpravodajství ČTK", tělo obsahuje:
+
+```
+**Kategorie:** Redakce Romea.cz / Romano voďi / romská kultura a extremismus
+**Priorita:** P1
+**Proč je relevantní:** HTML příloha obsahuje dvě zprávy. … Romský Bašavel
+2026 (15:00, Centrální park na Pankráci) … náklady německého státu po
+žhářském útoku …
+**Doporučená akce:** Prověřit Romský Bašavel pro redakční pokrytí …
+**Původní odesílatel:** ibmail <ibmail@ctk.cz>
+```
+
+Monitorovací agent si tedy vystačí s TĚLEM zprávy – přílohu otevírat nemusí.
+(Kdyby ji přesto chtěl, Gmail konektor ji vystavuje jako
+`dokument_CTK.html`, `text/html`, včetně ID.)
+
+> **Nezakládej druhé, „holé" přeposílací pravidlo.** Ve schránce se objevily
+> oba druhy: rozbor od agenta i syrové přeposlání bez přidané hodnoty. To
+> druhé jen duplikuje práci – vypni ho.
 
 ## 2) Načasování – čemu dát pozor
 
@@ -40,10 +60,15 @@ feedů (7:35) tomu nevadí, ten běží nezávisle.
 Přidej k úkolu jako třetí část, PŘED odesláním obou e-mailů:
 
 ---
-Kromě obou feedů zkontroluj poštu: najdi e-maily „E-mail servis ČTK", které
-dorazily od tvého minulého běhu (tj. za posledních zhruba 12 hodin), a otevři
-jejich HTML přílohu. Každá obsahuje seznam zpráv – u každé je titulek, datum,
-klíčová slova a plný text.
+Kromě obou feedů zkontroluj poštu (Gmail): najdi zprávy s předmětem
+„Fwd: Zpravodajství ČTK" od odesílatele romea@romea.cz, které dorazily od
+tvého minulého běhu (zhruba za posledních 12 hodin). V TĚLE zprávy je už
+hotový rozbor (Kategorie, Priorita, Proč je relevantní, Doporučená akce) –
+vycházej z něj, přílohu otevírat nemusíš. Pokud by tělo rozbor neobsahovalo,
+otevři přílohu `dokument_CTK.html`.
+
+Kdyby dorazila táž dávka ČTK dvakrát (jednou s rozborem, jednou jako holé
+přeposlání), použij tu s rozborem a druhou ignoruj.
 
 Se zprávami z ČTK nalož stejně jako s položkami z feedů:
 - Použij stejné pravidlo relevance (týká se to Romů – výslovně, nebo fakticky?).
@@ -66,10 +91,9 @@ by znamenalo je fakticky znovu zveřejnit – to by licenci porušovalo.
 Cesta přes poštu je proto nejen nejjednodušší, ale i právně nejčistší:
 zprávy se nikam neukládají, agent si je přečte a použije jen vlastní shrnutí.
 
-## Co ověřit při prvním běhu
+## Další zdroj, který se u toho našel: NewtonMedia
 
-ČTK chodí jako **příloha**, ne jako tělo e-mailu. Ne každý e-mailový konektor
-umí přílohy otevřít. Když agent nahlásí, že přílohu nepřečte, řešení jsou:
-- přeposílat s volbou „vložit do těla zprávy" (pokud to poštovní klient umí),
-- nebo nechat mailového agenta v `romea@romea.cz` obsah přílohy vypsat do těla
-  přeposílané zprávy.
+Ve schránce chodí i profesionální mediální monitoring
+(`newtonone@newtonmedia.eu`, předmět „Monitoring - ROMEA, Přehled, N").
+Stejnou cestou by šel zapojit taky – zatím to neděláme, ale stojí za zvážení,
+až se ČTK v přehledu usadí.
