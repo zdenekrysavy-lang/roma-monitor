@@ -10,7 +10,7 @@ on:
     # Běh trvá 2–7 min + proplach CDN, takže rezerva bohatě stačí. Větší mezeru
     # nechceme: co vyjde mezi sběrem a čtením, spadne až do dalšího přehledu
     # (o 12 h později).
-    - cron: "30 5 * * *"    # ~07:30 Praha (léto) / 06:30 (zima)
+    - cron: "45 6 * * *"    # ~08:45 Praha (léto) / 07:45 (zima)
     - cron: "30 15 * * *"   # ~17:30 Praha (léto) / 16:30 (zima)
   workflow_dispatch: {}
 
