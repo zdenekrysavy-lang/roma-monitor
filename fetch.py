@@ -209,16 +209,72 @@ def fetch_feed(url: str, lang: str = "") -> list:
     return items
 
 
+# Titulky přehledových/rubrikových stránek – nejsou to články, jen rozcestníky.
+_AGG_PATTERNS = re.compile(
+    r"veškeré informace o tématu|archiv článků|přehled nejnovějších událostí"
+    r"|informace o osobách jménem|kalendárium|^téma\s|^aktuality\b|^akce\s*-",
+    re.I)
+
+
+def _strip_source_suffix(title: str) -> str:
+    """„Titulek článku - Deník N" → „Titulek článku".
+
+    Google News lepí za titulek jméno zdroje. Bez odstranění projde tentýž
+    článek dvakrát, když ho převezme jiný web (syndikace).
+    """
+    return title.rsplit(" - ", 1)[0].strip() if " - " in title else title.strip()
+
+
+# Rubrikové předpony, které weby lepí před tentýž titulek („Galerie: …“).
+_LABEL_RE = re.compile(
+    r"^(galerie|diskuze|diskus[ei]|obrazem|video|foto|komentář|rozhovor|anketa"
+    r"|živě|přímý přenos|studio n)\s*:\s*", re.I)
+
+
+def _dedup_key(title: str) -> str:
+    """Klíč pro porovnání titulků – bez zdroje i rubrikové předpony."""
+    t = _strip_source_suffix(title)
+    prev = None
+    while t != prev:                      # „Galerie: OBRAZEM: …“
+        prev = t
+        t = _LABEL_RE.sub("", t).strip()
+    return t.lower()[:120]
+
+
+def _is_aggregation_page(title: str) -> bool:
+    """Pozná rozcestník typu „Romové - Deník N" (stránka tématu, ne článek)."""
+    if _AGG_PATTERNS.search(title):
+        return True
+    # Délkovou heuristiku smí dostat jen Google News (lepí za titulek zdroj).
+    # Přímo z RSS chodí i legitimní krátké titulky („Appleby Horse Fair").
+    if " - " not in title:
+        return False
+    return len(_strip_source_suffix(title)) < 26
+
+
 def drop_excluded(items: list) -> list:
-    """Zahodí položky z nechtěných zdrojů (obsahové farmy, vlastní web)."""
-    bad = [s.lower() for s in getattr(config, "EXCLUDE_SOURCES", [])]
-    if not bad:
-        return items
+    """Zahodí nechtěné zdroje a přehledové stránky.
+
+    EXCLUDE_SOURCES: běžná položka = hledá se jako podřetězec ve zdroji i URL;
+    položka s „=" na začátku = musí se rovnat celému názvu zdroje (kvůli
+    agregátorům typu „Seznam", které přebírají cizí obsah včetně článků ROMEA,
+    ale nesmí padnout i „Seznam Zprávy" s vlastní žurnalistikou).
+    """
+    raw = getattr(config, "EXCLUDE_SOURCES", [])
+    exact = {s[1:].strip().lower() for s in raw if s.startswith("=")}
+    subs = [s.lower() for s in raw if not s.startswith("=")]
     out = []
     for it in items:
-        hay = f"{it.get('source', '')} {it.get('url', '')}".lower()
-        if any(b in hay for b in bad):
+        title = it.get("title", "")
+        if not title.strip() or _is_aggregation_page(title):
             continue
+        src = (it.get("source", "") or "").strip().lower()
+        if src in exact:
+            continue
+        if subs:
+            hay = f"{src} {it.get('url', '')}".lower()
+            if any(b in hay for b in subs):
+                continue
         out.append(it)
     return out
 
@@ -229,7 +285,9 @@ def dedupe(items: list) -> list:
         if not it.get("url"):
             continue
         key = _norm_url(it["url"])
-        tkey = (it.get("title", "") or "").strip().lower()[:120]
+        # Bez jména zdroje a rubrikové předpony – jinak projde tentýž článek
+        # znovu („… - ČT art" vs „… - Seznam", „Galerie: X" vs „X").
+        tkey = _dedup_key(it.get("title", "") or "")
         if key in seen or tkey in seen:
             continue
         seen.add(key)

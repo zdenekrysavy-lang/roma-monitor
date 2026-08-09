@@ -212,7 +212,12 @@ CZ_GOOGLE_NEWS_QUERIES = [
 CZ_EXCLUDE_SOURCES = ["vietnam.vn", "romea.cz", "romea",
                       "medium.cz", "médium.cz",          # obsahová farma
                       "měšec.cz", "sreality.cz", "kaufland.cz", "lidé.cz",
-                      "facebook.com", "kurzy.cz", "zdopravy.cz"]
+                      "facebook.com", "kurzy.cz", "zdopravy.cz",
+                      # „=" = přesná shoda názvu zdroje. Agregátor Seznam.cz
+                      # přebírá cizí obsah včetně článků ROMEA (jen titulek,
+                      # perex a diskuze). Vlastní žurnalistika „Seznam Zprávy"
+                      # tímhle nepadne.
+                      "=Seznam"]
 
 # Jen tematicky vyhraněné zdroje. Obecná média (iRozhlas, Deník N, A2larm,
 # Hlídací pes, Investigace) tu SCHVÁLNĚ nejsou – publikují všechno od sportu
