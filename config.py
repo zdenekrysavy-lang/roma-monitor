@@ -1,9 +1,18 @@
-"""Konfigurace pipeline pro monitoring zpráv o Romech ve světě.
+"""Konfigurace pipeline pro monitoring zpráv o Romech.
 
+Dva PROFILY (přepínač MONITOR_PROFILE):
+  world — Romové ve světě; hledá ETNICKÝ termín napříč 15 jazyky (výchozí)
+  cz    — dění v ČR v agendě ROMEA; hledá TÉMATA (rasismus, bydlení, dávky,
+          diskriminace…), protože velká část těch zpráv slovo „Rom" vůbec
+          neobsahuje — např. „superdávka", „segregace ve školách".
+
+Zdroje pro každý profil jsou dole v sekci „TVOJE ZDROJE".
 Vše citlivé (API klíč, SMTP heslo) se bere z proměnných prostředí,
 nikdy se nepíše natvrdo do kódu.
 """
 import os
+
+MONITOR_PROFILE = os.getenv("MONITOR_PROFILE", "world")
 
 # --- Obecné nastavení ---
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "13"))   # okno; >12 h kvůli překryvu mezi běhy
@@ -52,6 +61,13 @@ GOOGLE_NEWS_QUERIES = [
 # Operátor Google News „when:" – vrátí jen čerstvé články za zadané období.
 # Bez něj Google řadí podle relevance a aktuální zprávy propadnou oknem 13 h.
 GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "1d")
+
+# Zdroje, které se z výsledků zahodí (porovnává se s polem `source`, bez ohledu
+# na velikost písmen). POZOR: nedělat to operátorem „-site:" v dotazu – Google
+# News ho NEPODPORUJE a místo filtrování začne vracet náhodné zprávy
+# (ověřeno 8/2026: dotaz se 4 přesnými zásahy vrátil se „-site:" 100 položek
+# balastu typu „zatmění Slunce"). Filtrujeme proto až tady v kódu.
+EXCLUDE_SOURCES = []
 
 # Google News rate-limituje rychlé série dotazů (15 jazyků + 10 watch webů
 # = 25 požadavků). Pauza mezi dotazy + retry na 429/5xx tomu předchází.
@@ -141,6 +157,106 @@ WATCH_SITES = [
     ("romapage.c3.hu",    "hu", "HU"),  # Roma Press Center (archivní)
     ("romatv.sk",         "sk", "SK"),  # Roma Television – /feed/ prázdný, jdeme přes Google
 ]
+
+# Klíčová slova připojená k dotazu na WATCH_SITES. Prázdné = nepřidávat.
+# Profil „world" je nepotřebuje (samé romské organizace, každý článek je na téma),
+# profil „cz" ano (úřady publikují všechno možné, tam bez filtru utoneš).
+WATCH_SITE_TERMS = ""
+
+# GDELT má smysl jen u světového profilu (globální translingual).
+GDELT_ENABLED = True
+
+
+# ════════════════════════════════════════════════════════════════════
+#  PROFIL „cz" – dění v ČR v agendě ROMEA
+# ════════════════════════════════════════════════════════════════════
+# Návrh dotazů vychází z reálné produkce ROMEA.cz (analýza 2/2026–8/2026:
+# top tagy Rasismus 109, Extremismus 70, Vláda 66, Diskriminace 35, Soud 35,
+# Vzdělávání 32, Sociální vyloučení 31, Bydlení 24, Sociální dávky 12…).
+#
+# POZOR na klíčový rozdíl proti světovému profilu: velká část relevantních
+# zpráv slovo „Rom" NEOBSAHUJE („Statisíce domácností dostávají superdávku",
+# „Segregace dětí ve školách nekončí"). Proto se hledají TÉMATA, ne etnonyma.
+# Cenou je šum (běžné sociální zpravodajství) – ten dotřídí agent.
+
+CZ_GOOGLE_NEWS_QUERIES = [
+    # ── VRSTVA 1: je to o Romech (bez ohledu na téma) ──────────────
+    # Jádro monitoringu. Sport, kultura, kriminalita, byznys – cokoli,
+    # když je to o Romech. Proto je dotazů víc: každý má vlastní strop
+    # MAX_PER_QUERY, takže rozdělením získáme pro romská témata víc místa.
+    ('Romové OR Romky OR "romská menšina" OR "romská komunita"',            "cs", "CZ"),
+    ('romský OR romská OR romské OR romští',                                "cs", "CZ"),
+    ('anticiganismus OR protiromský OR cikáni OR cigáni',                   "cs", "CZ"),
+    ('"romské děti" OR "romští žáci" OR "romská rodina" OR "romské rodiny"', "cs", "CZ"),
+    ('"romská kultura" OR "romská hudba" OR "romský festival" OR "romské divadlo"', "cs", "CZ"),
+    ('"romský holokaust" OR "Lety u Písku" OR "Hodonín u Kunštátu" OR Porajmos', "cs", "CZ"),
+    # ── VRSTVA 2: témata, která se Romů týkají i bez zmínky ────────
+    # Tady je nutná OPATRNOST: volný jednoslovný dotaz („ubytovna",
+    # „chudoba") vrátí balast, který spotřebuje celý strop dotazu a vytlačí
+    # skutečné trefy. Proto raději konkrétní víceslovné termíny.
+    ('rasismus OR rasistický OR "rasový motiv" OR "rasově motivovaný"',     "cs", "CZ"),
+    ('extremismus OR neonacisté OR "krajní pravice" OR "předsudečná nenávist"', "cs", "CZ"),
+    ('"podněcování k nenávisti" OR "hanobení rasy" OR "nenávistné projevy"', "cs", "CZ"),
+    ('"vyloučená lokalita" OR "vyloučené lokality" OR "sociální vyloučení" OR "obchod s chudobou"', "cs", "CZ"),
+    ('superdávka OR "dávky na bydlení" OR "příspěvek na bydlení" OR "hmotná nouze"', "cs", "CZ"),
+    ('"sociální bydlení" OR "dostupné bydlení" OR "bytová nouze"',          "cs", "CZ"),
+    ('"segregace ve školách" OR "společné vzdělávání" OR segregace žáci',   "cs", "CZ"),
+    ('"protiprávní sterilizace" OR sterilizace odškodnění',                 "cs", "CZ"),
+    ('diskriminace ombudsman OR "veřejný ochránce práv" OR "rovné zacházení"', "cs", "CZ"),
+    ('"zmocněnkyně pro romské záležitosti" OR "Rada vlády pro záležitosti romské menšiny" OR "Agentura pro sociální začleňování"', "cs", "CZ"),
+]
+
+# Obsahové farmy publikující česky a vlastní články ROMEA (ty redakce nepotřebuje
+# dostávat zpátky). Filtruje se podle pole `source` až po stažení – viz
+# EXCLUDE_SOURCES výše, proč to nejde operátorem v dotazu.
+CZ_EXCLUDE_SOURCES = ["vietnam.vn", "romea.cz", "romea",
+                      "medium.cz", "médium.cz",          # obsahová farma
+                      "měšec.cz", "sreality.cz", "kaufland.cz", "lidé.cz",
+                      "facebook.com", "kurzy.cz", "zdopravy.cz"]
+
+# Jen tematicky vyhraněné zdroje. Obecná média (iRozhlas, Deník N, A2larm,
+# Hlídací pes, Investigace) tu SCHVÁLNĚ nejsou – publikují všechno od sportu
+# po počasí, feed by utonul. Pokrývají je tematické dotazy Google News výše.
+CZ_RSS_FEEDS = [
+    ("https://amnesty.cz/feed/",          "cs"),  # Amnesty International ČR
+    ("https://socialnibydleni.org/feed",  "cs"),  # Platforma pro sociální bydlení
+    ("https://in-ius.cz/feed/",           "cs"),  # In IUSTITIA – předsudečné násilí
+    ("https://iqrs.cz/feed/",             "cs"),  # IQ Roma servis
+    ("https://osf.cz/feed/",              "cs"),  # Nadace OSF
+]
+
+# Úřady a organizace bez použitelného feedu (ověřeno 8/2026). Publikují i spoustu
+# nesouvisejícího, proto se k dotazu přidávají CZ_WATCH_SITE_TERMS.
+CZ_WATCH_SITES = [
+    ("vlada.gov.cz",             "cs", "CZ"),  # Úřad vlády, Rada vlády pro rom. menšinu
+    ("ochrance.cz",              "cs", "CZ"),  # Veřejný ochránce práv
+    ("socialni-zaclenovani.cz",  "cs", "CZ"),  # Agentura pro sociální začleňování
+    ("mpsv.cz",                  "cs", "CZ"),  # MPSV – dávky, sociální politika
+    ("mmr.gov.cz",               "cs", "CZ"),  # MMR – bydlení, dotace
+    ("nssoud.cz",                "cs", "CZ"),  # Nejvyšší správní soud
+    ("usoud.cz",                 "cs", "CZ"),  # Ústavní soud
+    ("clovekvtisni.cz",          "cs", "CZ"),  # Člověk v tísni
+]
+
+CZ_WATCH_SITE_TERMS = ('Rom OR romský OR diskriminace OR "vyloučená lokalita" '
+                       'OR rasismus OR "sociální bydlení" OR dávky')
+
+
+# ── Přepnutí profilu ────────────────────────────────────────────────
+if MONITOR_PROFILE == "cz":
+    GOOGLE_NEWS_QUERIES = CZ_GOOGLE_NEWS_QUERIES
+    EXCLUDE_SOURCES     = CZ_EXCLUDE_SOURCES
+    RSS_FEEDS           = CZ_RSS_FEEDS
+    WATCH_SITES         = CZ_WATCH_SITES
+    WATCH_SITE_TERMS    = CZ_WATCH_SITE_TERMS
+    GDELT_ENABLED       = False   # u domácího zpravodajství nepřidá nic navíc
+    MAX_PER_QUERY       = int(os.getenv("MAX_PER_QUERY", "8"))
+    # Českých zpráv k těmto tématům vychází řádově míň než u 15 jazyků světového
+    # profilu: when:1d vracelo 0–4 položky na dotaz, when:7d desítky (ověřeno
+    # 8/2026). Proto širší okno – že se nic nezopakuje, hlídá state/seen.json.
+    GOOGLE_NEWS_WHEN    = os.getenv("GOOGLE_NEWS_WHEN", "3d")
+    LOOKBACK_HOURS      = int(os.getenv("LOOKBACK_HOURS", "72"))
+
 
 # --- E-mail (SMTP) ---
 EMAIL_TO   = [x.strip() for x in os.getenv("EMAIL_TO", "").split(",") if x.strip()]

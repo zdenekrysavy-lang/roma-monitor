@@ -1,0 +1,54 @@
+name: roma-feed-gather-cz
+
+# Profil „cz": dění v ČR v agendě ROMEA (Romové + rasismus, bydlení, dávky,
+# diskriminace, vzdělávání…). Publikuje feed-cz/, který čte stejný agent
+# v ChatGPT jako světový feed – posílá z něj ale samostatný e-mail.
+
+on:
+  schedule:
+    # Stejná logika jako u světového profilu: půl hodiny před čtením agentem
+    # (8:00 a 18:00 Praha). Posunuto o 5 min, ať oba běhy nekolidují na push.
+    - cron: "35 5 * * *"    # ~07:35 Praha (léto) / 06:35 (zima)
+    - cron: "35 15 * * *"   # ~17:35 Praha (léto) / 16:35 (zima)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  gather:
+    runs-on: ubuntu-latest
+    env:
+      MONITOR_PROFILE: cz
+      FEED_DIR: feed-cz
+      SEEN_PATH: state/seen-cz.json
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalace závislostí (bez anthropic – AI tu neběží)
+        run: pip install feedparser requests
+
+      - name: Sběr kandidátů (profil cz)
+        run: python gather.py
+
+      - name: Publikace feedu
+        run: |
+          git config user.name  "roma-monitor-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed-cz/candidates.json feed-cz/candidates.md feed-cz/index.html state/seen-cz.json
+          git commit -m "feed-cz update $(date -u +%FT%TZ)" || echo "beze změn"
+          git pull --rebase origin main
+          git push
+
+      - name: Proplach jsDelivr CDN
+        continue-on-error: true
+        run: |
+          for f in candidates.json candidates.md index.html; do
+            curl -sS --max-time 60 \
+              "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/feed-cz/$f" || true
+            echo
+          done

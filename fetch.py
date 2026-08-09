@@ -209,6 +209,20 @@ def fetch_feed(url: str, lang: str = "") -> list:
     return items
 
 
+def drop_excluded(items: list) -> list:
+    """Zahodí položky z nechtěných zdrojů (obsahové farmy, vlastní web)."""
+    bad = [s.lower() for s in getattr(config, "EXCLUDE_SOURCES", [])]
+    if not bad:
+        return items
+    out = []
+    for it in items:
+        hay = f"{it.get('source', '')} {it.get('url', '')}".lower()
+        if any(b in hay for b in bad):
+            continue
+        out.append(it)
+    return out
+
+
 def dedupe(items: list) -> list:
     seen, out = set(), []
     for it in items:
@@ -228,14 +242,16 @@ def dedupe(items: list) -> list:
 def fetch_watch_sites() -> list:
     """Pro weby bez feedu: dotaz přes Google News omezený na doménu.
 
-    Web je ryze romský, takže nepřidáváme klíčová slova – jen `site:doména`
-    ve správném jazyce. Bez správného locale by se slovenský/maďarský obsah
-    nenašel anglickým dotazem.
+    U romských webů (profil „world") stačí `site:doména` ve správném jazyce –
+    každý jejich článek je na téma. Úřady v profilu „cz" publikují všechno
+    možné, proto se k dotazu přidají WATCH_SITE_TERMS.
     """
     items = []
+    terms = getattr(config, "WATCH_SITE_TERMS", "").strip()
     for domain, hl, gl in config.WATCH_SITES:
         time.sleep(config.GN_PAUSE)       # watch jde také přes Google News → rozestupy
-        feed = _parse_gnews(_google_news_url(f"site:{domain}", hl, gl))
+        q = f"site:{domain} ({terms})" if terms else f"site:{domain}"
+        feed = _parse_gnews(_google_news_url(q, hl, gl))
         if feed is None:
             continue
         taken = 0
@@ -266,13 +282,16 @@ def collect() -> list:
     _GN["queries"] = _GN["failures"] = 0
 
     gn = fetch_google_news()
-    gd, gd_status, gd_note = fetch_gdelt()
+    if getattr(config, "GDELT_ENABLED", True):
+        gd, gd_status, gd_note = fetch_gdelt()
+    else:
+        gd, gd_status, gd_note = [], "disabled", "GDELT je v tomto profilu vypnutý"
     feed_items = []
     for f, flang in config.RSS_FEEDS:
         feed_items += fetch_feed(f, flang)
     watch = fetch_watch_sites()
 
-    merged = gn + gd + feed_items + watch
+    merged = drop_excluded(gn + gd + feed_items + watch)
     items = dedupe(merged)[:config.MAX_CANDIDATES]
 
     if _GN["failures"] == 0:
@@ -284,6 +303,7 @@ def collect() -> list:
 
     global LAST_STATS
     LAST_STATS = {
+        "profile": getattr(config, "MONITOR_PROFILE", "world"),
         "google_news": len(gn),
         "google_news_status": gn_status,   # "ok" | "partial" | "blocked"
         "gdelt": len(gd),
