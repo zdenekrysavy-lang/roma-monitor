@@ -7,6 +7,12 @@ shrnutí a e-mail pak dělá naplánovaný agent v ChatGPT (režim B, NASAZENO)
 nebo Claude přes API (režim A, připraveno, vypnuto). Plánování řeší GitHub
 Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
 
+## Tři zdroje pro agenta
+1. `feed/` — Romové ve světě (profil `world`, 15 jazyků + GDELT + romské feedy)
+2. `feed-cz/` — dění v ČR v agendě ROMEA (profil `cz`, tematické dotazy)
+3. **ČTK** — tematický e-mail servis, čte ho agent přímo z pošty; do repa se
+   ZÁMĚRNĚ neukládá (licencovaný obsah, repo je veřejné). Viz `chatgpt_task_ctk.md`.
+
 ## Dva režimy
 - **B (feed pro ChatGPT) — AKTIVNÍ:** `gather.py` → sběr + publikace
   `feed/candidates.json` (workflow `gather.yml`, cron 2× denně). Bez API klíčů.
