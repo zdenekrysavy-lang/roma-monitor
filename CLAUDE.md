@@ -56,9 +56,13 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
 - `gather.py`  — režim B: feed + seen.json (JSON i lidsky čitelný MD)
 - `analyze.py` — režim A: třídění/shrnutí přes Claude; prompt `SYSTEM`
 - `render.py` / `notify.py` / `main.py` — režim A: HTML, SMTP, orchestrace
-- `.github/workflows/gather.yml` — režim B, cron 2× denně (5:30, 15:30 UTC =
-  ~7:30 a 17:30 Praha, tj. půl hodiny před čtením agentem v 8:00 a 18:00)
+- `.github/workflows/gather.yml` — svět, cron 6:45 a 15:30 UTC (~8:45 a 17:30 Praha)
+- `.github/workflows/gather-cz.yml` — Česko, cron 6:50 a 15:35 UTC (~8:50 a 17:35 Praha)
 - `.github/workflows/digest.yml` — režim A, cron VYPNUTÝ
+- `PROMPT_AMANPOUR.md` — hotové zadání pro agenta (svět + Česko + ČTK, dva e-maily)
+
+Agent čte v **9:15 a 18:00** Praha; sběr má ~25 min náskok, aby stihl doběhnout
+i propláchnout CDN. Ranní čas je zvolený tak, aby se stihlo i ranní ČTK (8:55).
 
 ## Jak spustit / testovat
 ```bash
