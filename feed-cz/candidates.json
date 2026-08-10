@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-08-10T09:12:59+00:00",
-  "count": 13,
+  "generated_utc": "2026-08-10T16:27:41+00:00",
+  "count": 8,
   "sources": {
     "profile": "cz",
-    "google_news": 48,
+    "google_news": 45,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
@@ -11,112 +11,72 @@
     "feeds": 2,
     "watch": 0,
     "before_dedup": 29,
-    "total": 25,
-    "skipped_seen": 12
+    "total": 23,
+    "skipped_seen": 15
   },
   "candidates": [
     {
-      "title": "Maroš Matiaško: Český institucionální rasismus před Evropským soudem pro lidská práva - denikreferendum.cz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMzJ6ei16Y0cxek5vUGlocHVHemtIZ0liTEhDclotdHJDSDhYc0JhejE5bmxlNXZuVHl5cEd4R2NRaW91ZUdEVEZoVjMxZjNVU0tZNExIelZabE9OTXBWMl80SV9hcjE0bUEyRmN1RUZFOUtib3REXzN3ejhzTmFEZUZsMm1DUDFfdkljRXNnQ1UxMkVkQnRJR21POHB3enRqYk56YjJIVEk1Ulc2aW5z?oc=5",
-      "source": "denikreferendum.cz",
-      "snippet": "Maroš Matiaško: Český institucionální rasismus před Evropským soudem pro lidská práva denikreferendum.cz",
-      "published": "Sun, 09 Aug 2026 23:56:00 GMT",
+      "title": "Rasismus naruby? Skandál s černošským opisovačem – problém má univerzita i celá britská společnost - lidovky.cz",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMkMyMS14U05UQzU0eHpjMTN0X3dUbTh5NWN2ekJOUGhJdFM1RXo3bXBZZUhyYlBmMW1qZzJhcUwxT1d0NlgzTEJSSXhGTnhjSmp6UU0weE9UZ1BmUEJVb0xmeDhWalA2VXozNENwTzd5V2hCd21nVE9TeDI4YlZTSTBRd3lqM0dBaHUwTFlaVnlzbXZGWUxYSGNvcFFIZGxmU0lrTjhtQmlDYW5LeXdBTmlYbDRwOV9HQmFoMXNfbmF2MkFfdEFYemRLdW5vcTM3ZnluRkZGUXN4QlZ3cjduOFk5c19SR2tHQUR4TU9xTm5sdw?oc=5",
+      "source": "lidovky.cz",
+      "snippet": "Rasismus naruby? Skandál s černošským opisovačem – problém má univerzita i celá britská společnost lidovky.cz",
+      "published": "Mon, 10 Aug 2026 10:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "O Roma vakeren - 8. 8. 2026 - mujRozhlas",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mbWxMZmZkcGNlVmV1c091NGxLV09IbkY3RXdnUV9Bb194RV91U1FHMHpoUUNFMjd2a3Y0UlZlM01hMTc3VmFJSVlIbS1tUkw1bktnRlZlYl9iMkpvc3Q1LTNhbGR4QW5ldk5CQTBRVzNFQQ?oc=5",
-      "source": "mujRozhlas",
-      "snippet": "O Roma vakeren - 8. 8. 2026 mujRozhlas",
-      "published": "Sat, 08 Aug 2026 22:10:03 GMT",
+      "title": "Belgická vzpěračka zvedala 334,5 kila. Asistent jí sabotoval rekordní pokus, policie řeší rasový motiv - SportyŽivě",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHFTSHRLNzZ0eV9NcXgzdG5ZeC02WmJnS2lQcHhMWGlkQ2dkR0tBUDBLMkwxWmwyQzlDYmVIeXZySVRLeTlvMkg3UTgwbFJCWUx4V1FZbnp2WUF3Z2VTTWF0NEExYjVyamVfbGFtNVRjdmRtNjJOU3JtSEZWV19RTkQ2bnFXUmlYR3p1VTYyTDQzNlZpOGdzcTZ0bjNxNDhEb2c?oc=5",
+      "source": "SportyŽivě",
+      "snippet": "Belgická vzpěračka zvedala 334,5 kila. Asistent jí sabotoval rekordní pokus, policie řeší rasový motiv SportyŽivě",
+      "published": "Mon, 10 Aug 2026 11:03:51 GMT",
       "lang": "cs"
     },
     {
-      "title": "Nebezpečného schizofrenika propustili kvůli obavám z rasismu. Později zabil tři lidi - Aktuálně.cz",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUTRBaDNQV2dHR0tXcW9UUGRUTDZmLTIxNzJDSHpUTDlwRDhtaDlLQThRMi1pR1RfQk9rSW9EeTRSRl9mYjN6VUdyWlhmVEpVUGZ5Mll4MjRpZ21MTWVYRmlRWmZ4Wk5mWmpoXzJlQ2xnbkM3M3VXVTJKOGg5bmd2bDlFeHgtZTQtMXRaUjBuZTF6NXdDUGF5ZFM4bnFsMnNjblFGOG5FNTFBR2JVSDl1MVk2UElESVZOVlJFRUFUTzBYN01WU3F1YVk0MDc2UHFGLXZRTVo1UFlFLWdDeG0xcnM2bm1UcHNqYmdzaG94VklzZw?oc=5",
-      "source": "Aktuálně.cz",
-      "snippet": "Nebezpečného schizofrenika propustili kvůli obavám z rasismu. Později zabil tři lidi Aktuálně.cz",
-      "published": "Sat, 08 Aug 2026 18:50:18 GMT",
+      "title": "Faulovala bělošku, musela ze hřiště. Basketbalové hvězdy rozpoutaly bouři - Deník.cz",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWnhQZTdjWXRmYW10c2tDSlBJVjdFWFBTSFJWOGhveTBiNFA1eUJ0bU5Rbm5XYmsyTkFETjM5YTNLQmN5WGw1bnR2anNFOGs3M1NlN01fU0t4YzdwaUNGVjUtZlFHbGJKSnY2X2YyX2N5OVdkU01jODJsWVJHNDl5cml6SWg5bDRJNE9NRUdFVzZkVWlWZDBXWVJza1hwc1BKSk5B?oc=5",
+      "source": "Deník.cz",
+      "snippet": "Faulovala bělošku, musela ze hřiště. Basketbalové hvězdy rozpoutaly bouři Deník.cz",
+      "published": "Mon, 10 Aug 2026 14:18:31 GMT",
       "lang": "cs"
     },
     {
-      "title": "Černošský plagiátor z Cambridge lhal skoro o všem. Pídícího se novináře umlčeli - iDNES.cz",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdkNsMzhRaU45a1FfYWRZV0dyYkd2ODh3Rld5TTZIWU1QZkQzYS1iZnFBczRiVkpCZDhoelZvQmVNamoweXV0MGxoYkd3dlpaYllFc2FtcXpvU1R2cVI2TXFoOGhkVzloYm5XUl8wNHVFUDEwTkc4dnNBNTJSQ2xSZUp1OF9uMFc4eHVBMW11UGpLX3FhLXJ2LWtNSS01U050eUdWU2xXVUIwSXVFZ1NGWjI5ZFVzdS1CYmhBR2NERklKQmlyakx4dFIzemJxZkp6bm4w?oc=5",
-      "source": "iDNES.cz",
-      "snippet": "Černošský plagiátor z Cambridge lhal skoro o všem. Pídícího se novináře umlčeli iDNES.cz",
-      "published": "Fri, 07 Aug 2026 13:07:00 GMT",
+      "title": "Vojtěch Petrů: Zpráva vlády o extremismu musela skončit fiaskem - Deník Referendum",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlktRU1yempicUtwdnhJRnJCazZxUjFwVEtIVmVKbjZpbVBMT3pHTWx1R3J0TmFORjEtaHNHU3d0Skd4OFJld1p0cll6YnRPN0NwTXlaZ0gxa09jck1objY3MW9oTG5FLTlxV3liNndmMWRmdzhYNXNPWklOd0dKb3NzVGRmeTF6OVB1UWR1RVFmZFk?oc=5",
+      "source": "Deník Referendum",
+      "snippet": "Vojtěch Petrů: Zpráva vlády o extremismu musela skončit fiaskem Deník Referendum",
+      "published": "Mon, 10 Aug 2026 10:22:18 GMT",
       "lang": "cs"
     },
     {
-      "title": "Na prolhaného profesora mohli přijít o rok dřív. Londýnská policie ale raději umlčela novináře - www.prahanadlani.cz",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0ZKMWtVY3U3cnVFZDlYZ0xnb0V2MEdvRHMxaE5ScWh3b1pCVVM4TXVoQnphZHQwcnN5MjBwVkZtTDZRZmRjejU1WXJPYm9yREMzV21RaHJ4bFdNaFBiVFgzUmRtTHN4Y0tfVFFaR2NGTy1na2dwR051R0dlVVBNTnIzNlBMN2I2eXVWU09sVGhOaDRNaElHM0ZnNF9rU3VnU0w2Nm02R242VzZwQlR2MVB5amRpVWFZYkkxM2ExNE1NcTNqNXlscUNCbHJwY3EwMXotcUFwRlBYN1gxNFRNQkhkVUZfUldU0gHuAUFVX3lxTE1MSGFGcFhLUzlpVF94ZElkVEZwOVNucGFHY0JiYmh4Z3NaXzFXQWFtcWlLUU1XUHhYTVlVRVhwUVdSaE4xUHc3R2hWVU9DOGd4WG4yTUE0UDBtS25ZcnhwSmtBUDBVcUMtcGgydUowVXFqWDM1S1ZmS1lVYmI4eFZNWDYzM3VyczJjZXkyWE1IVzJGb3Y3ZG5GZlhaSEV1bVByVDY0TjRyYTRaUzhYMDdPb0IySGRSQ3A5SzctcDU3R1JZZk4wdVk0enlSMEl5YUl4QUlISElZbFpldFFaUjc5dWpubzdZVGFJemo0VGc?oc=5",
-      "source": "www.prahanadlani.cz",
-      "snippet": "Na prolhaného profesora mohli přijít o rok dřív. Londýnská policie ale raději umlčela novináře www.prahanadlani.cz",
-      "published": "Fri, 07 Aug 2026 14:15:37 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Zastupitelé Českých Budějovic kolem schůzky s fotbalovými ultras mlží - denikreferendum.cz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkVlS2NEbXlPelNqM0FYVkV0cG5FYnFZcGh3RGVZMkpXbVlrTXZOdTVMcHE0emlaWG9rVVFLdTNuYXBFQ281bVBKclRsbTdfUTZDb05aZ0ZuRUpWN0prd0hVeU9QY3RuWF9fNGxMOXJvcFlYVThaZHFKR3NOblhIaTJPLVI2MWM1R3JGc0VmSmtvWFlWNks1WnBVZ3RVNFlKNWFXeWlsQTR1Z3pwcWQ0?oc=5",
-      "source": "denikreferendum.cz",
-      "snippet": "Zastupitelé Českých Budějovic kolem schůzky s fotbalovými ultras mlží denikreferendum.cz",
+      "title": "Michal Hořejší: Naše Česko, neonacisté a facebooková politika - Deník Referendum",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1VpcFlUSWFQSXN1ajNhWVY5NXJ4dWZrdm5mVDllaDVIWHNla0RoSjlmX3Q5MkU3dGt4V2VOeXFPVGRjSDBFaFZHSkZKMlEtQTdOb0Fub3N2OVZrQzR2eHV6TENlLTdVTEUtQWh4VXdqbmUxS1NnbW9KVmtiQzh3cHZ6SWxlelNkQ3FfdVd3?oc=5",
+      "source": "Deník Referendum",
+      "snippet": "Michal Hořejší: Naše Česko, neonacisté a facebooková politika Deník Referendum",
       "published": "Sun, 09 Aug 2026 22:31:00 GMT",
       "lang": "cs"
     },
     {
+      "title": "Ruský soud rozhoduje, zda není na místě vyloučit z voleb jedinou opoziční stranu - RESPEKT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVHV2M1FZNjN1anpWM0hCOV9odmRVOEZJN1RWc04zM1pxT0FLRDgtbkgzNlRicEZfUmI1d0NvcWNSY1BuekVEX2NNaFRSX2tYSzloZmdaWGdoVllMVF8ySUVxekRhRTYtS3A3OTFKaHBuX0ZRZHNTX2pWeE55QUlHLXBUU2RJc1hUR1NCV0poZmpaTGhTcVpuZE5KTUtIWDE2VEk4YmgwMHpDRlVIdl95bDROOWZWc3ZKeWdyNk5sWDhnd1FfSjNVSXgxOUI3Wkl6ZUNJ?oc=5",
+      "source": "RESPEKT",
+      "snippet": "Ruský soud rozhoduje, zda není na místě vyloučit z voleb jedinou opoziční stranu RESPEKT",
+      "published": "Mon, 10 Aug 2026 10:31:04 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Na férovku: Policie vysvětlila, proč Turek nebyl jmenován ministrem. Mazání jeho výroků nebylo dost rychlé - LP-Life.cz",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTZ0ekNGeTUzWExDNUYyQ2FkcTM2a2RCSTIwb09EM0xJRDNfTDkyb3RFd0wwdmpTX01TUlhsa1NWdlp2bmpfWEJoQ2NvcFBBdndwYk9oLTczeTVZRGczcHFMSEJoeHM2SE9ZdWNDQW42OXFSUmlGWENZQWpWMGFpWGJpS2NVWnlyNnVPQkJ3QnpaZHBYd1FlcUxWNnJvWHhsc1lxd0hERzM3bTlJQWlXZHNXMmpma2NjWWJN?oc=5",
+      "source": "LP-Life.cz",
+      "snippet": "Na férovku: Policie vysvětlila, proč Turek nebyl jmenován ministrem. Mazání jeho výroků nebylo dost rychlé LP-Life.cz",
+      "published": "Mon, 10 Aug 2026 13:14:43 GMT",
+      "lang": "cs"
+    },
+    {
       "title": "Galerie: Mojžíř: Jak se z pronájmů stal výnosný byznys. Cesta ven existuje - Ústecký deník",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2dfcGYyVkgyWTRNQ1FkbnZtWE1sUW5VbVBTbWlfRFp6dlAzT2l0NWdvWWEzX2ZBZlJoQmxUOXRPSDZ2RGlSdUpQemxNN2daZ0NOYzczMktXcmc2Y0lqVWZVb2xqZzNCUEdWRjAzWlBjS2huaGhCVWhGT2o3RzVjZjZzcVQ5OG1NNDExYy1Ual95elU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFF0NGhQbjcwNXZyYmlaUUVMbjhZRWdEUndCOWtvMGdTTHBTOE5idEtpN0FFZktFZEFCVTJWOS1wcV9yUUNqcW9HSUZmaUZfWXVMb0ozNVd3Sm1LZF9aWDZZSi1NTDBxSE5HRTNoYXlmT0VTRU1vdTNYUC1qY05QSndIYlM4Y2tIOHpTZ1czdXpvZTlPM0ZHcHVRRWVNUQ?oc=5",
       "source": "Ústecký deník",
       "snippet": "Galerie: Mojžíř: Jak se z pronájmů stal výnosný byznys. Cesta ven existuje Ústecký deník",
-      "published": "Mon, 10 Aug 2026 07:32:25 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Eurostat: Pětina Evropanů je ohrožena chudobou, kolik je ohroženo Čechů? - Finance.cz",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQjVDSFI3OHZmM28tSkdrMDdZNW14c2psT016NUlNMm5ja0ctaDVWRWNHZlFwV1o1dmFnUk1MTkxqaWNKeVlRd19EdWEwSENVSEYzSlItM0dFcTNac05fTXFweWlxcno2MDhCdmJRRHZmcTRqYlBHc0VyclBaWUtGU19XLXBPb2ZJOHprOHJRdUlGRWhUMFVvSnRSOE9icWd6RkE?oc=5",
-      "source": "Finance.cz",
-      "snippet": "Eurostat: Pětina Evropanů je ohrožena chudobou, kolik je ohroženo Čechů? Finance.cz",
-      "published": "Mon, 10 Aug 2026 00:00:03 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Příjemci původních dávek dostanou v srpnu poprvé superdávku. Od října se změní její výpočet, spočítejte si novou výši - Finance.cz",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUFOX28tVWxoRXhNb3lDZHFVd3hDU0xJQU9oX01oT2JUZERPVWhManBMQ3dfVW1BRi1fYldIUkp2UnJ6S2ZacjAxYU1ZNkRNWHlVdmFaVG84SC02T3NQbHJFeUVrWm4xSGlsNndScFZaNkxDSk05UHpXdTJydFBRRXViZFB2MGRCVkQ1M1lIZEl0c05GeFpudmhjd3hRMHlITHNmNWJGX2VLcW9QVXVxdUxfWnVvUTJqTEd2cWlCY1hHTjF5cXJFQ3BJcXVSYWxLbGNENnpfc0k1V1g2Y3Fv?oc=5",
-      "source": "Finance.cz",
-      "snippet": "Příjemci původních dávek dostanou v srpnu poprvé superdávku. Od října se změní její výpočet, spočítejte si novou výši Finance.cz",
-      "published": "Sun, 09 Aug 2026 23:34:26 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Senioři mohou kromě důchodu získat dalších 5 příspěvků od státu: Mnozí je přitom vůbec nečerpají - Centrum.cz",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa1hmMmJRY0tidXRuVnc5NGhBMl9zdDVYcHRkeVp2VWhLaFk2b3dLeU9taFpwQWVFVGdRd1RTQV9JRWdYckxubjRFb0k1YXg2QTVKV0YyV3ltVDVKd0c5NnR6RlJTR20wamFjMzlaZkhoNlpYVVZNd1VaNEpkcXpLWkt0a3hHT1ZXcnpkS2dENVE0VGR3MlM5VDZKR3I0RDVaSWdtQTRIRDFsaThTWUlNVl9oUmMtY3h4RDd0NnpfVEdLMXN4S2V4RUh2dUQ?oc=5",
-      "source": "Centrum.cz",
-      "snippet": "Senioři mohou kromě důchodu získat dalších 5 příspěvků od státu: Mnozí je přitom vůbec nečerpají Centrum.cz",
-      "published": "Mon, 10 Aug 2026 08:36:53 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Francie otevřela cestu k asistované sebevraždě. V Česku podobný návrh před lety neuspěl, debata ale pokračuje - novinykraje.cz",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbEctMl9ZVkVXVWc5cDVIOHliS3d0Z2xPblpGem5ET1N0aDJhNzI0cVFtUW5vbndZZU9EQ1JiQmVqcXRWdHZVMURNSzN2VzhkT0lEaURnVnZZa01Fd1NwU3RXVVpYQThjNDJBdXRkUGFidklCandwWWtIWDByZXAtTGlxUE9ETjhoQVJsTjh4WVNSVkF2eGsxb29FMW10NkNMM0lxVk0tUUJZSndOWGdYQXgwQzVQX0xWVnd0MkhwWjRaZTFNcm1Wd3BnVnF5UWdHcU15LXRQSzA3VlhFMXM1MW43QkQ4VUJWd1NJ?oc=5",
-      "source": "novinykraje.cz",
-      "snippet": "Francie otevřela cestu k asistované sebevraždě. V Česku podobný návrh před lety neuspěl, debata ale pokračuje novinykraje.cz",
-      "published": "Mon, 10 Aug 2026 07:02:37 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Sociální pracovník/pracovnice – SAS",
-      "url": "https://iqrs.cz/socialni-pracovnik-pracovnice-sas-2/",
-      "source": "https://iqrs.cz/feed/",
-      "snippet": "Hledáme nového kolegu či kolegyni do týmu sociálních pracovníků. Nabízíme možnost zapojení v sociálně aktivizační službě pro rodiny s dětmi (SAS). 📍 Místo výkonu práce: Brno (zázemí organizace + terén) 🕒 Úvazek: 1,0 📅 Nástup: ASAP – dle domluvy Koho hledáme? Hledáme člověka, který splňuje odbornou z",
-      "published": "Mon, 10 Aug 2026 08:30:35 +0000",
-      "lang": "cs"
-    },
-    {
-      "title": "Metodik/čka sociálních služeb",
-      "url": "https://iqrs.cz/metodik-cka-socialnich-sluzeb/",
-      "source": "https://iqrs.cz/feed/",
-      "snippet": "Přidejte se k nám a staňte se součástí týmu, který se spolupodílí na tvorbě metodických postupů, rozvoji vnitřních procesů a nastavování pravidel, jež pomáhají zkvalitňovat práci zaměstnanců, ale i poskytovaných sociálních služeb. Budete se podílet na revizích metodik, aktualizaci a sjednocování vni",
-      "published": "Mon, 10 Aug 2026 08:21:40 +0000",
+      "published": "Mon, 10 Aug 2026 07:32:26 GMT",
       "lang": "cs"
     }
   ]
