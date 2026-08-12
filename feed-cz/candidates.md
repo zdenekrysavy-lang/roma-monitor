@@ -1,23 +1,27 @@
-# Kandidáti — 2026-08-11T16:29:50+00:00 (5 položek)
+# Kandidáti — 2026-08-12T08:06:04+00:00 (6 položek)
 
-_Zdroje: Google News 40 · GDELT 0 (disabled) · feedy 2 · watch 0_
+_Zdroje: Google News 41 · GDELT 0 (disabled) · feedy 2 · watch 1_
 
-1. **Podvodnice s falešnými penězi řádily v charitativním obchodě - Krimi Plzeň** — Krimi Plzeň [cs]
-   https://news.google.com/rss/articles/CBMidkFVX3lxTFA3SE1TUm1kVU5wRXo2aTFnbjdpTUhfYkhyRnUwYmdSWWo3MnFMcG00RnhtREh5N195SHFwRy1kMlZ3Nl9ybkY1V09BM3pnS2MzWHRyRi0zVWtuNzVkSkRHR3ZrVFN6SVR2VXhsMXduUXdIblBaakE?oc=5
-   Podvodnice s falešnými penězi řádily v charitativním obchodě Krimi Plzeň
+1. **Galerie: Pochod radikálů v Dřevnovicích se blíží. Přidají se k nim i místní - Prostějovský deník** — Prostějovský deník [cs]
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxPN01PNWJBSjJCMUlLU3hyOW9WXzcwN2pvbldsOHF2Y2o4Y1lDYkRSUDVXTUdVVTV1Wk5tYVZNQjdQTUtMMGlyUDEtdU9FdzdwSHhVaUNoWDVXcEJ0MUJYc0Z6WEs1MUNYdlFfRGhDVVM4bDBwUlFtcTcybnIyT3FFTTlzU2VROWNoSXdqRmdKZjRad2Q0V2ZmTGtpMjl5ZThvVGRvaHZMdzAyR2JtMUZncU9n?oc=5
+   Galerie: Pochod radikálů v Dřevnovicích se blíží. Přidají se k nim i místní Prostějovský deník
 
-2. **Pád profesorské celebrity z Cambridge. Je to selhání woke kultury, nebo projev rasismu? - RESPEKT** — RESPEKT [cs]
-   https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVJaaUl0RWJfenNjMjJRZk5ieEZUajFBQ0EwZEFiU201X3gxN2VvM2pkR1AwN0F0cWhvVTRBN2RjUEswQU9zME5zanZFX2tzYnJIbUxsOGVtYXdZUklwdm1yekVLcG12RDVIbzJYSWV1a1JfSzRaMVcwenFuUTM4eV9WRlJHMExMOG0yd2tLRG9zc2E0c0s3RkF4LUZIX01Yb0E2YlJfNGlDdHItSUFhaFUxYnlKdw?oc=5
-   Pád profesorské celebrity z Cambridge. Je to selhání woke kultury, nebo projev rasismu? RESPEKT
+2. **Galerie: Aktivista s duší umělce. Cenu Muzea romské kultury má Robin Stria in memoriam - Brněnský deník** — Brněnský deník [cs]
+   https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2VHR3Rpc2plU2Y2bnFMUlNDbE80SmF3QUU5UDNzc1IwRWttVGw2R3VzUG1RSGxLRVlZU2JObV9BbF9OT2dPd25YZTA2emo4ajNBSVV4ZUhyTWtIMHBQbkJPM0g3TGwweklyNmVxSUQtazdWV3ZkdkJUdDE2Uko3SXkxOEVWSWFDZkxRekQ1V0txTnUtWlBUY01yRVpBcmVQZTN5LXJNM3hIcHRDYlVJUUNqSE5fb1JhWTIzOA?oc=5
+   Galerie: Aktivista s duší umělce. Cenu Muzea romské kultury má Robin Stria in memoriam Brněnský deník
 
-3. **Výdaje na mimořádné dávky vzrostly na 523 milionů Kč, jsou dosud nejvyšší - České noviny** — České noviny [cs]
-   https://news.google.com/rss/articles/CBMi4wFBVV95cUxOck9pVktJbUNWdFNLR0x6VXEyblhTR3ZiLTYxRktfSW9heFNvX1dkR0JTQWVwam5Bb2xKdFMyUkpLTmhuREQtZlZZMGtGenBRcWJPWW1SWjVnSUlsazBSNkhZM1ZLOTJELVltRjhWenJTeTM5ZEkwU0lCeG9UeFg5UDhNWS1JWDc3TGtHOWExVl9xVE5fRnYxSTlxVUdmN3RNdHpCSldwZ0c1Uldram1BYk5fbjBJbmxERUV2M1d4SXBlUC1OZmd3bVVkY3BRbnpIUGlsOHRoYjJTQzdUalRsSmo1NA?oc=5
-   Výdaje na mimořádné dávky vzrostly na 523 milionů Kč, jsou dosud nejvyšší České noviny
+3. **Proč v určitých čtvrtích přetrvává pravicový extremismus - Britské listy** — Britské listy [cs]
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aNU8tcmM3LTd5VTRTX1BqM1lSUVhNZUlkMjdaQ1pSRVZ6c2s4SFE0RG5xSXkxOTdZcWw2X05jN0thVU52d2xpdUhrQkxhdw?oc=5
+   Proč v určitých čtvrtích přetrvává pravicový extremismus Britské listy
 
-4. **Chytré hodinky i auta zbytečně svolávají záchranáře. Většina automatických tísňových volání končí planým poplachem - Noviny kraje** — Noviny kraje [cs]
-   https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMGVPMURkZnhxRm9wVHRyU19JRFN4WmxNQkwzMEF5WHFGY3V3QkkteTN5U0htV18yOGRlR3o0dDJ5dVM1R2Y3ZE02ejhpUXpWUkgzOUg4TnFfenlHUzVsWVR5WUpmMUVYaEZZdlFOZkctZEFjODI1Y296bF9VM1lSWVhWN0NFYTN6Q1FJUENzY0NESkw2bWhHYnVmajFfcDhwS3BYLWFIRHJHV1BGU0JaYktXekp5VFRQSDNsSEdVQW9JSVZaaTNfZTh3OWMtTXBGbnU3Rk9fZ0xHOG1pUURXUGdZNU5QTnJxRmF3MGl5SnMySTQ?oc=5
-   Chytré hodinky i auta zbytečně svolávají záchranáře. Většina automatických tísňových volání končí planým poplachem Noviny kraje
+4. **Obalová revoluce začíná. Z potravinových obalů mizí „věčné chemikálie“, změna bude něco stát i zákazníky - Noviny kraje** — Noviny kraje [cs]
+   https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS3lLYVNNSXE1REVFc1Y3MW5MOGRhR2FQYlFDNDlSUUtLaUQwbm1ILVhoRllZNVhqeS1rVEdyaEtROC1vYzdiWTc1eWlOcm1NdXJpNV9sQXJEY3pyLTRDSDhWNk9zVVVXOE1SMWl6MlRqLUJvclBCTko1bTZNTzNyY2ptQUpjQnZsVWowYW1DdjlmSnZVQ19IUWZURGlodU5wNkhrcjU3YTl2TVNzMTZJVWhEbFlfVXYtQ1VtUnFqWm9odFFGQ2dWUUlsWlVObFNuY0d3WS1R?oc=5
+   Obalová revoluce začíná. Z potravinových obalů mizí „věčné chemikálie“, změna bude něco stát i zákazníky Noviny kraje
 
-5. **Železná Ruda staví nájemní byty, ve městě je po nich velká poptávka - Metro.cz** — Metro.cz [cs]
-   https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2tRWGlHalBpRy1scUtVRTZmaE1ObW53aUJiaXNQeWtFaUtSNlFHdENidlJTdjZtcHpfRFhSRjlNblRyZ2dvZllRRVVaeTBqSEZ5VzZsNk9GbG5jdFgwQ3dFS0I1MXY2STc2Wnl1bG5mZ2JSdGIwckxXMkJEa2IwTE5iUU4ybHowU2hwa0dLZTdCLXpvM0tTTHY2aUJESGV1SWJHOGNacERuRl9VczVlaFpuY1d3aVk1OEFPZVR4cWdjX1NmeWR1R3hvVjJBMUVYdWl1aDFEV2dsQTZURFE?oc=5
-   Železná Ruda staví nájemní byty, ve městě je po nich velká poptávka Metro.cz
+5. **Za nedostatečnou označilo kapacitu nájemního bydlení 55 procent měst a obcí v Libereckém kraji - genus.cz** — genus.cz [cs]
+   https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1FBTTRrZkdLSWI0dW9DdlFXcHFNUFFNSHM5ck5hUlBiZkZZNkNPNzYzUXZpZEppZklOYmNYOWtVbVAzZmFHZ3U0TUFEWnJwenBqOUtYSnd2MVdndFZkS053THhjY1ZZdDNKNjZOMnpRd25yam80SVU5eWpfUkpCb0J1WE5xaVlPM1pHQU9OdndTWHMwNWx6Mnp1YzhGQ1ZBdXFRWXRIWHJ2dFVEQXBlNnczUkhGNURrSkhqM0ExLThIbGotaW5MMXlfa0tMQ3Jsc0VVdmtWSFE2RnRiTDR3?oc=5
+   Za nedostatečnou označilo kapacitu nájemního bydlení 55 procent měst a obcí v Libereckém kraji genus.cz
+
+6. **Možnosti a překážky podpory mladých bez zázemí - Člověk v tísni** — Člověk v tísni [cs]
+   https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnI3a2d1T0VNS0hWV1prc0NtODUxbkpORFJIekNQN3NGa3dsbzNFUXBrUnVraEJ2eFI0TGhGUHlyMVFtYk9QQmZ3TlI4eTdISmpBaUVla3U0dkhXLTQ0NmdtX19UQmhadnFiRnFvVHNyTmFMMWFZWWRKbXdtcmtRZzFtNDFYYjdaS1ZxVEcwSlVDVlgtcXQxRl9XRnpzUjh6TWxySW5uS2ZYTXVjX2VMWlJjZ0QxM2U2OFJsci0xYUFGUElyUHpyWGgtdw?oc=5
+   Možnosti a překážky podpory mladých bez zázemí Člověk v tísni
