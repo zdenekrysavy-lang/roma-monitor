@@ -215,6 +215,15 @@ _AGG_PATTERNS = re.compile(
     r"|informace o osobách jménem|kalendárium|^téma\s|^aktuality\b|^akce\s*-",
     re.I)
 
+# Fotogalerie a videoprohlížeče k článkům. Deník.cz je znovu protlačuje do
+# Google News s ČERSTVÝM datem, i když obsah je letitý – ověřeno 8/2026:
+# „Galerie: VIDEO: Rasismus … Zlínský Jawo“ hlásilo Google News jako 21 h
+# staré, ale datePublished na denik.cz byl 28. 6. 2022. Datové okno je proti
+# tomu bezmocné, protože filtruje podle data od Googlu. Galerie je navíc jen
+# druhotný pohled na článek – když je článek čerstvý, projde i samostatně.
+_GALLERY_RE = re.compile(
+    r"^(galerie|fotogalerie|videogalerie|obrazem|video dne)\s*:", re.I)
+
 
 def _strip_source_suffix(title: str) -> str:
     """„Titulek článku - Deník N" → „Titulek článku".
@@ -267,6 +276,12 @@ def drop_excluded(items: list) -> list:
     for it in items:
         title = it.get("title", "")
         if not title.strip() or _is_aggregation_page(title):
+            continue
+        if _GALLERY_RE.match(title.strip()):
+            continue
+        # Někdy je odkaz rovnou na prohlížeč fotek (…/galerie-…?photo=6).
+        url = it.get("url", "")
+        if "/galerie-" in url or "photo=" in url:
             continue
         src = (it.get("source", "") or "").strip().lower()
         if src in exact:
