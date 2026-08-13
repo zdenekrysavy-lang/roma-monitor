@@ -21,9 +21,27 @@ přílohu otevírat nemusíš. Kdyby rozbor v těle chyběl, otevři přílohu
 `dokument_CTK.html`. Pokud táž dávka ČTK dorazí dvakrát (jednou s rozborem,
 jednou jako holé přeposlání), použij tu s rozborem a druhou ignoruj.
 
-Obě pole `candidates` obsahují zprávy (title, url, source, lang, snippet)
-a pole `sources` se statistikou sběru. Jde o SUROVÝ sběr — obsahuje šum,
-který musíš odfiltrovat.
+Obě pole `candidates` obsahují zprávy (title, url, source, lang, snippet,
+published) a pole `sources` se statistikou sběru. Jde o SUROVÝ sběr —
+obsahuje šum, který musíš odfiltrovat.
+
+## A2) Ověř datum vydání — POLE `published` NENÍ SPOLEHLIVÉ
+
+Některé weby znovu protlačují staré články do Google News s čerstvým datem.
+Ověřeno: článek s datem „před 21 hodinami" byl ve skutečnosti z června 2022.
+
+Proto u každé zprávy, kterou chceš zařadit:
+- Ber `published` jen jako orientační údaj, ne jako fakt.
+- Když otevřeš odkaz, zkontroluj skutečné datum vydání na stránce
+  (obvykle u titulku nebo v metadatech článku).
+- **Zprávy starší než 7 dní vyřaď**, i kdyby `published` tvrdilo, že jsou
+  čerstvé. Výjimka: výslovně ohlášená budoucí událost (pozvánka na akci,
+  termín soudního jednání) — tu ponech.
+- Podezřelé jsou hlavně odkazy na fotogalerie a videoprohlížeče
+  (adresa obsahuje `/galerie-`, `?photo=`, titulek začíná „Galerie:"
+  nebo „OBRAZEM:"). Ty vyřaď vždy.
+- U každé zprávy v e-mailu **uveď datum vydání**, ať je případný problém
+  vidět na první pohled.
 
 ## B) E-mail č. 1 — „Romové ve světě – přehled"
 
@@ -41,7 +59,8 @@ Zdroj: světový feed + zahraniční zprávy z ČTK.
    „gypsy/cigán" tam, kde nejde o etnickou skupinu.
 2. U zbylých urči důležitost: KLÍČOVÉ / střední / nízká (klíčové = násilí,
    legislativa, soudy, diskriminace, mezinárodní dopad).
-3. Ke každé napiš 1–2větné shrnutí v ČEŠTINĚ a přidej odkaz (pole `url`).
+3. Ke každé napiš 1–2větné shrnutí v ČEŠTINĚ, uveď DATUM VYDÁNÍ a přidej
+   odkaz (pole `url`).
 4. Seřaď od nejdůležitějších, seskup podle důležitosti.
 5. Na konec připoj řádek „Zdroje tohoto běhu:" s počty sources.google_news,
    sources.gdelt, sources.feeds, sources.watch.
@@ -69,7 +88,8 @@ Zdroj: český feed + domácí zprávy z ČTK. Pošli ho jako SAMOSTATNÝ e-mail
    a historické zajímavosti.
 2. U zbylých urči důležitost: KLÍČOVÉ / střední / nízká (klíčové = násilí,
    soudy, legislativa, diskriminace, kroky vlády a úřadů).
-3. Ke každé napiš 1–2větné shrnutí v ČEŠTINĚ a přidej odkaz (pole `url`).
+3. Ke každé napiš 1–2větné shrnutí v ČEŠTINĚ, uveď DATUM VYDÁNÍ a přidej
+   odkaz (pole `url`).
 4. Seřaď od nejdůležitějších, seskup podle důležitosti.
 5. Na konec připoj „Zdroje tohoto běhu:" s počty sources.google_news,
    sources.feeds, sources.watch. Pokud sources.google_news_status není "ok",
