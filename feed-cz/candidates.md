@@ -1,23 +1,27 @@
-# Kandidáti — 2026-08-13T08:07:46+00:00 (5 položek)
+# Kandidáti — 2026-08-13T16:30:12+00:00 (6 položek)
 
-_Zdroje: Google News 41 · GDELT 0 (disabled) · feedy 2 · watch 2_
+_Zdroje: Google News 43 · GDELT 0 (disabled) · feedy 0 · watch 1_
 
-1. **Galerie: Aktivista s duší umělce. Cenu Muzea romské kultury má Robin Stria in memoriam - Brněnský deník** — Brněnský deník [cs]
-   https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGVuUzFWY2dObHVrQVFBQkVjYVFpOXFKVVJFZUgtZExxeTBDRTVEZEpQUUFvYTdWRGF4cWJ4blV6clNXVE5KdkZQV0FIOEI4cWQzaHBYYml4dURNOFItTGloUVRHaDVTNjhFNXRGYThwMjV3Mkd1ZVJDcmh1cE9CbTFraThmd01wZFpxSmJkVFhjTTE2dlAtcXp6RGNCTFR3WHNJZFhDOGNCWDFoMmd5bjJMSnoxdnRFWjNQNA?oc=5
-   Galerie: Aktivista s duší umělce. Cenu Muzea romské kultury má Robin Stria in memoriam Brněnský deník
+1. **Romský festival Bašavel na Pankráci - Pražský patriot** — Pražský patriot [cs]
+   https://news.google.com/rss/articles/CBMidEFVX3lxTE9WVFBtVFVmTnk5N0ZZT1ZOVUVrYW5LNk12bTlieTBkZmk4TzJpWlUtVERRX2Rya0xrbWJodlctRVltMnNxNWZBR3EwSGxHVHRjaGdpQjgwX3R2VjF3TWNsSjdzMnhwcWtUbGNmcUgxdlBwb0po?oc=5
+   Romský festival Bašavel na Pankráci Pražský patriot
 
-2. **Galerie: VIDEO: Rasismus a fyzické napadení. Zlínský Jawo se stal terčem nechutného útoku - Deník.cz** — Deník.cz [cs]
-   https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGNlLVp1Zkw2RXh2d0cxY3FGLUpFSzdoeU83ZWZ1NloxTTJlVkUzS2FwNTFwZTFqSVdrNmtpZmpqb3QtRy1OcjVqZmRTeTNjT2djbUZ3SjU5MmtWazhhbnN0cTdTYnhMR2RYQmgyRHJoX2tCUjdhYmM0VXd0b3pOVnJMdTVLbGhfNTRHZnZzOXFLWllhTW13ZURkSF8wWHhzQlNDTlFlVUlObFZtMHdXZ2tOajZNdG8?oc=5
-   Galerie: VIDEO: Rasismus a fyzické napadení. Zlínský Jawo se stal terčem nechutného útoku Deník.cz
+2. **Galerie: Romský aktivista Růžička: Na Lety by se mělo pohlížet jako na Terezín - Deník.cz** — Deník.cz [cs]
+   https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejkxbUhENGlGN0V0SkRXbXhPT3RWUW5teld0Mk1wR2F4VEpIdmt1R2xkcEZSWHlRcmxNSmhrTXNYdXRxbzJVb1dSdkl4c1pveHI0OHAwNGNJTmJmUWttMUFkV25qSEFEdEkzX1hhWkNMNE1yX1FVU3V0UlREbmY0MTl3RG4tR25xTENZY1dNMW00N3lKZHAzMW5wVXlGb3NkYkNYQ3ZhbDBIZw?oc=5
+   Galerie: Romský aktivista Růžička: Na Lety by se mělo pohlížet jako na Terezín Deník.cz
 
-3. **Vzhůru do manosféry! Vychází komiks o soužití S radikálním misogynem - Reflex.cz** — Reflex.cz [cs]
-   https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVZKU3BRUUl5czJWb0w2NURWRDV3MXV6UllfX0xyNENsZVBHc0stTjBEYlFtTk9jdmlmeU1kcGJHZ2pQdUotWTlCaTc4Z043dHpwNS1USTZEZGk5YmVMeVVkVmJ2RnlERklSRDlsS0kxWWtSYWZCeDNMdC1oVllQMmNWb2Mza1haek8tbmFLdkg1WHVoUEZjUl9CTHRZaGVjV2x4X1hFbTgtWi1QMmdoNnJiSnpIbTA?oc=5
-   Vzhůru do manosféry! Vychází komiks o soužití S radikálním misogynem Reflex.cz
+3. **Muži v kuklách zbili v Nitře indického studenta - Novinky** — Novinky [cs]
+   https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXoxTUtKeFpoLXZEWGRwN2czN0hCMFJvVW1Gd2RPLUM1Z0RqWl9ZaDh4dTUxVklFZkZ6dmM0U1BCWG04QXloY3pkVmRhdldsUXQtYnhqZDhDbl9qSmdMZ01ZV1RKU2tNMlljOGppbDNtSGtzeXI0RlZFWTZUVVFESWFUc3hTcHdsWlpSSktFWi1XN1hTN0ZjTUhGWWZuOVFIQlloQ2UwUQ?oc=5
+   Muži v kuklách zbili v Nitře indického studenta Novinky
 
-4. **Kaplice otvírá novou naučnou stezku, propojuje přírodu, historii i příběhy města - Noviny kraje** — Noviny kraje [cs]
-   https://news.google.com/rss/articles/CBMixgFBVV95cUxQRTFSTzBzNFkyVXlqcWk1R3Y1SEQyaUlLS1d6V3JMY3drUl9HR2dPbXVIQmlVamc0bHpEZTNWeDNnYVVRb3p1WEZZMHdSQWxuaXBUQXRVLWRaR1ZGdnBMb0o2OGhRbjhVYXo3TFMwZGc5amZCZ1hyS2VTOEVXX2lES1J0YjBhR2lMUlVUdUpjUC1tdFhwZVNyMm1fZWE1cEZKM2xBX1JackRkNlJfZmRNV25UZ1I2azlXR3VLZG9GazZyZ3BxVFE?oc=5
-   Kaplice otvírá novou naučnou stezku, propojuje přírodu, historii i příběhy města Noviny kraje
+4. **Koupání jen pro černé. Berlínské divadlo sklidilo kritiku za rezervaci bazénu - Deník.cz** — Deník.cz [cs]
+   https://news.google.com/rss/articles/CBMic0FVX3lxTFBTQmo4N2g0VVIzLV9pdUwzN0hRNk52XzRFc2FCTmFSZ0s5VUY0blRmSkVCMHNUU1AzOERGU29XVXYtV3ctd0NucVV6RmFuTUZ1U19mYmlKRElTcGJWb3BqX0swRDlhQU9GRGViSkhnUFlCSkk?oc=5
+   Koupání jen pro černé. Berlínské divadlo sklidilo kritiku za rezervaci bazénu Deník.cz
 
-5. **Věková diskriminace na trhu práce se týká lidí i ve středním věku, ukazuje výzkumná zpráva zástupce ombudsmanky a vědců z Masarykovy univerzity | Ombudsman - Veřejný ochránce práv** — Veřejný ochránce práv [cs]
-   https://news.google.com/rss/articles/CBMihwJBVV95cUxNRVlmNVRNU3RxaVBia0ZjVkNYeG1NRmtsb0VjYVZEYmdMYTNpOUVHSVVQaWNhVFE3VnNvODV2YWpOMUM1cU1RYlhZWnl5VWVuN2lZX0FwbTdvLWpsZVVfUDhzX1FxdEQwSzdWUXBNNWdNLWd6MnB4RHpyTFRSZlJYX2xheHhuUXNWOUUwX0lrMlN3NFluejBqRG1CVHpnNXJyVlAyd183djZnMjlQOGdLSVFfMzJ1WGwwOXplbEFyeTJGZG5xVk5FUDVySktfRHMxNkNieVZldXMtNkRRVmttY1VhUFlnekFscUg3cTlJM3VGMTRqSW1scWowNU55akFXaDh4RU5BQQ?oc=5
-   Věková diskriminace na trhu práce se týká lidí i ve středním věku, ukazuje výzkumná zpráva zástupce ombudsmanky a vědců z Masarykovy univerzity | Ombudsman Veřejný ochránce práv
+5. **Výzkum: Věková diskriminace na trhu práce se týká lidí i ve středním věku - České noviny** — České noviny [cs]
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fOTV4Wm5udDZKYUZPOEZVU3NTU1JMT2RFNk1XM1FEYXdBdklLMlV2TUJwc21qeGRMSWI5T3NtekF4QlpJSlFERlJFb1FST0RBaV9z?oc=5
+   Výzkum: Věková diskriminace na trhu práce se týká lidí i ve středním věku České noviny
+
+6. **Věková diskriminace začíná dříve, než jste čekali. A zákony v praxi selhávají - Česká justice** — Česká justice [cs]
+   https://news.google.com/rss/articles/CBMieEFVX3lxTE02MXZNTlJxNnl1REw5eXpjZ0tGQTRab3Q0RzRHUHlocWdpeUkyWVVTTElhR0NHMXVONnoyM1BGazNQZjNFUGE3cGk0SktHd1RPNklDWkUxN3RYMmhnUnprR0RueTNGbTlTSWtWM0RIbDA2dTViVHQ1TA?oc=5
+   Věková diskriminace začíná dříve, než jste čekali. A zákony v praxi selhávají Česká justice
