@@ -1,23 +1,19 @@
-# Kandidáti — 2026-08-16T07:20:21+00:00 (5 položek)
+# Kandidáti — 2026-08-16T15:55:16+00:00 (4 položek)
 
 _Zdroje: Google News 43 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Romský festival v Praze byl plný tance a jídla. Nejvíc lákala věštírna - tn.nova.cz** — tn.nova.cz [cs]
-   https://news.google.com/rss/articles/CBMitwFBVV95cUxPOV9SQWVUY3poeTV0ZWFnSHZDLUdWcW9hSjFKR09nZVVhbXNUVmxnNDVUM21RemxpZ3RaajlseFFHYTRxNE1xRFFTOExlemp6UmU3SFBOWVhqMVIyQVpXT05oRTVneUcwTWxSMWJTTkhzd3ZBOVp4cGNPSzA3Und0TjFBSFpGb19hb0NwZFl3eTlVZ0FxSG4weXdITFM1aFZjUDlTQWk1d3dBcnlrZGJ3OXR2X2hkQUU?oc=5
-   Romský festival v Praze byl plný tance a jídla. Nejvíc lákala věštírna tn.nova.cz
-
-2. **Němcům se nedaří deportace, sabotují je i úředníci. Politici v Berlíně zuří - iDNES.cz** — iDNES.cz [cs]
-   https://news.google.com/rss/articles/CBMizgFBVV95cUxOUWtQYlNNNVYyYW8yd1lINzBWakliMUZqTVhrMG1CUGVWZ0tGT2pZX2xZWVhTX1RRb1lHOE1TNmNEYmRrOTNmQVQ3cWh0TFpCaUFydGNLSkMzTG1Ka2k4Y3NpbjI5VExwVElUcGNLSTFpZzFtY2E1QmM3ODhMSjhfYkRLc1BMZXZGVFdQRFVjRkRHVDZjOTZRYlBhNGpvdG1VYnVwTGN4M0tYckNFNFB5UXBlUDRPMFRhSUVhTlZxODYwYXRQWU9xZmhVd0VpQQ?oc=5
-   Němcům se nedaří deportace, sabotují je i úředníci. Politici v Berlíně zuří iDNES.cz
-
-3. **Do restaurace se chodilo ústy černošské karikatury. A Američané ji milovali - Hrot24.cz** — Hrot24.cz [cs]
-   https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEY1MXE1TWVGa2t5NEs5TkNtejlUZVNURlpDRXRzVllPSFRqZFRLN29nV1VSNkFfdUF4RV9ZczQ0RkRyVHZrSHdreDY2UTI2N0pYVk9LaUFXOEdReWNycmMybDNDMlB2dHVjRVlZb0Rtek0tanNYY3B2M1lDOVhvSjNNb001WlhGSUFvRQ?oc=5
+1. **Do restaurace se chodilo ústy černošské karikatury. A Američané ji milovali - Hrot24.cz** — Hrot24.cz [cs]
+   https://news.google.com/rss/articles/CBMikwFBVV95cUxQN1F5Y0lCNmp5M1M5R2VzMFlEX01CWWtMM0xNbWVRMnBlWjROUG5uU3ZOWXE0MUdPREFTTW4ySlduOV9rX2JaUU9RcEUwRE52Z3huenpWbE13LTFrVHB5YmpvWlJLeG9QejQzVnJJd0tFS29hbW5Wc0lfU0luMnlrRGpkVXNsRC1PcnY2SXl3UExKUzg?oc=5
    Do restaurace se chodilo ústy černošské karikatury. A Američané ji milovali Hrot24.cz
 
-4. **Martin Dvořák mě prý chce žalovat: Nenadávej na zrcadlo, když máš hubu křivou! - monikalefay.cz** — monikalefay.cz [cs]
-   https://news.google.com/rss/articles/CBMioAFBVV95cUxOS29OMDBfTUFRRmotQ2ExN1NodzNtVERJRXZ2Sjk4dVhnbFdyRmFibVd0M1hRejBlNEFrYWhxSzNDdlhvUTRNYzJtWHpxQTR0YW9LNnBoMDZNVDhGYTRUMmVRNXRKX25LZkQ0b1M0S2N2eVhEZFJVTUJKMmNsSnhDdlBlajBOSkFxbGNnNnRGTjRoQU5UXzlmQ1FoNVYtRnI2?oc=5
-   Martin Dvořák mě prý chce žalovat: Nenadávej na zrcadlo, když máš hubu křivou! monikalefay.cz
+2. **85 příspěvků, 8 trestných činů. Policie rozebrala Turkův Facebook status po statusu a jeho obhajoba padla - Tiscali.cz** — Tiscali.cz [cs]
+   https://news.google.com/rss/articles/CBMizgFBVV95cUxOS21oZXZDSVlUWFFmbGVoTWFVWUVXTS13dkJKS0QtVll5WXRER2hwMG9nRHdoMjhJVGthbGI1LUpXQ1NUeVNRQlRNNXFKRnhWRXRkRnE3aWMwWEwxY1BvREZNVEt6eUJpOTkyNkxVNENrbFRQOUNkdXlUVDZjRzh3WTFqRGUzMDkzcDZjRWxnbmowZ3JNSG5pZmNXWG5Yd1JiQlZ0TUxsQ3ZUaDZrOHdqMkdxQnRMQ25iSnJ0MEV2SURfWEpDdnA5UlltbEptZw?oc=5
+   85 příspěvků, 8 trestných činů. Policie rozebrala Turkův Facebook status po statusu a jeho obhajoba padla Tiscali.cz
 
-5. **Extremismus v nové éře: Českou bezpečnost mění online radikalizace - czdefence.cz** — czdefence.cz [cs]
-   https://news.google.com/rss/articles/CBMingFBVV95cUxQby1ZbXJka1l5SWlYZzBHVldaMm1NTzZOaTM3WjJ3NnczenhhT0FCbE9nM05OSGFUMXBaWi1IbkZGb3hxeEJqNmFfNnBIYUVzcmptSk01dWRhY1dFT3RvRHg0OUhGX2t6V2d2a01tVWRUZ2tOYkltUy1qcDdEYjRsWld0U0QxMEMxajdneDZsaW0wTlN2LW5QZVJWSVVidw?oc=5
-   Extremismus v nové éře: Českou bezpečnost mění online radikalizace czdefence.cz
+3. **Železná Ruda staví nájemní byty, ve městě je po nich velká poptávka - Plzeňská Drbna** — Plzeňská Drbna [cs]
+   https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2hsOW5BZHNCNWJ6WjVybXZNb2p2T3d2R0VXTWNFZjE4Ung0S08tZlFndFloZzB5NklRZ2t0ZW0tS2JDRFlfcXZ4U3k5VHJKV3h1c3g0R1llejJkMVV0VTNBWHFaNTdtTHVoek5PbEMtVWxfMTVuZ29Wa1luYngzVWhBbGluNzRMWEpXbzlHVlRKQl94dGNxOE1IaWE5ejlhT1FkZ3JqVmg1TmJYUUdrM1hXV0t1QQ?oc=5
+   Železná Ruda staví nájemní byty, ve městě je po nich velká poptávka Plzeňská Drbna
+
+4. **Návštěva, která se neuskutečnila. Děti, které se nenarodily. Jak moc ublížily Romům nucené sterilizace - Lidovky.cz** — Lidovky.cz [cs]
+   https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHhRdWZ3WUxpZGdJdVZYOVdzdnlDUHpXa3JHTThXc0RyM2I0Y2NhazVGOU9GS3I3OHhoVWh5YjJudDJOT0xiTVhkOUFEemhTYUVqSUF0N1NIRmRVcE1RTkZ0Wlc1TnBELXdtVEZfMmFXajZEdm1rN2Q0Z1EzMjZjUldJMGF2LWdkbjR1Qy1YeDRmLXJ3LTFTX0hsNzBKZEpIS3JYQlkxbDd2WjRMQm4zUGJCbXA3dVpoWloxQk9HZHF2MjVrejdj?oc=5
+   Návštěva, která se neuskutečnila. Děti, které se nenarodily. Jak moc ublížily Romům nucené sterilizace Lidovky.cz
