@@ -1,23 +1,23 @@
-# Kandidáti — 2026-08-15T15:52:32+00:00 (5 položek)
+# Kandidáti — 2026-08-16T07:20:21+00:00 (5 položek)
 
-_Zdroje: Google News 45 · GDELT 0 (disabled) · feedy 0 · watch 1_
+_Zdroje: Google News 43 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Tloukli na okna a hnali nás jako dobytek. Protektorátní teror bleskově vymazal mnoho romských rodin - Reflex.cz** — Reflex.cz [cs]
-   https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQzNDcDNmMWt4Sm80NUV2akY1OUQwWjVTbFo1bm9zVnFzMVlXVHN6Yk0zdTNrWXlnakVQSEtadG5JcTV4U3VHc29zM2txNDhiM3RLTzRVaGF6SWxrNUZkUmxSaklqcy1zQ1FjWk96TDBINTF0S09LcloyLWFuZGRDZWVpa3pvVF85WHh5c21BOWpPUk5pMFQ0T2RoSzlYMnRVMDlDTGhncTV3TmU2c01rRl9WUk9Bcy1aSldsMmpYQkxzRkNQQy1uLUxTWVNUYWZyRFBmSVA1UWpZOEk0X1JRVzRR?oc=5
-   Tloukli na okna a hnali nás jako dobytek. Protektorátní teror bleskově vymazal mnoho romských rodin Reflex.cz
+1. **Romský festival v Praze byl plný tance a jídla. Nejvíc lákala věštírna - tn.nova.cz** — tn.nova.cz [cs]
+   https://news.google.com/rss/articles/CBMitwFBVV95cUxPOV9SQWVUY3poeTV0ZWFnSHZDLUdWcW9hSjFKR09nZVVhbXNUVmxnNDVUM21RemxpZ3RaajlseFFHYTRxNE1xRFFTOExlemp6UmU3SFBOWVhqMVIyQVpXT05oRTVneUcwTWxSMWJTTkhzd3ZBOVp4cGNPSzA3Und0TjFBSFpGb19hb0NwZFl3eTlVZ0FxSG4weXdITFM1aFZjUDlTQWk1d3dBcnlrZGJ3OXR2X2hkQUU?oc=5
+   Romský festival v Praze byl plný tance a jídla. Nejvíc lákala věštírna tn.nova.cz
 
-2. **„Diskuse tu má místo. Rasismus ne.“ Krejčík se z Afriky ostře pustil do nenávistných komentářů svých sledujících - Žena.cz** — Žena.cz [cs]
-   https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUHlIbFZrTjVpVGdGckxSdk83b3BmMVpRalM2Qi10TEFpYk92Um5fRi1mcGJHWVdnbXpzb3FDNU9TT2N0RExCNDVDc2ZIQ1Q3c2J6OGVpdWtUaTZoMUxnNUtINWY5WU1JRDhwT2tfcnJqZzNGWkdCaVR5eHNyOTVvSl9iMXoxd1I3b05qRDFHay05Y0RxRWlLczlyQjdpT0JTRW1RUE1DVnp6VXNkSWpkRTRJcnFXS3QxMjUwUmc4TktQcVVCcXVEZm9GLWIxblptMC1iMXpmY00xNlk?oc=5
-   „Diskuse tu má místo. Rasismus ne.“ Krejčík se z Afriky ostře pustil do nenávistných komentářů svých sledujících Žena.cz
+2. **Němcům se nedaří deportace, sabotují je i úředníci. Politici v Berlíně zuří - iDNES.cz** — iDNES.cz [cs]
+   https://news.google.com/rss/articles/CBMizgFBVV95cUxOUWtQYlNNNVYyYW8yd1lINzBWakliMUZqTVhrMG1CUGVWZ0tGT2pZX2xZWVhTX1RRb1lHOE1TNmNEYmRrOTNmQVQ3cWh0TFpCaUFydGNLSkMzTG1Ka2k4Y3NpbjI5VExwVElUcGNLSTFpZzFtY2E1QmM3ODhMSjhfYkRLc1BMZXZGVFdQRFVjRkRHVDZjOTZRYlBhNGpvdG1VYnVwTGN4M0tYckNFNFB5UXBlUDRPMFRhSUVhTlZxODYwYXRQWU9xZmhVd0VpQQ?oc=5
+   Němcům se nedaří deportace, sabotují je i úředníci. Politici v Berlíně zuří iDNES.cz
 
-3. **Německá běžkyně Kolbenová o rasismu v atletice: Kdybych nebyla bílá, nedopadlo by to dobře - SportyŽivě** — SportyŽivě [cs]
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbnBWWkR1T1BQQ1NkdGkxZllQTlBIWUViRVduNTZBUlpYbllQRnd6LUxRS21ienI5d3E2dW5GRXoyeU5TMkZkZXR6STVMNDhqc1lEZXRIcHZILVdwazNrQmhHMzY1MWFjWHlSX2NEVUJUOXI0dTdOXzNWb3ZRbmRsT0RVVG1sRG1O?oc=5
-   Německá běžkyně Kolbenová o rasismu v atletice: Kdybych nebyla bílá, nedopadlo by to dobře SportyŽivě
+3. **Do restaurace se chodilo ústy černošské karikatury. A Američané ji milovali - Hrot24.cz** — Hrot24.cz [cs]
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEY1MXE1TWVGa2t5NEs5TkNtejlUZVNURlpDRXRzVllPSFRqZFRLN29nV1VSNkFfdUF4RV9ZczQ0RkRyVHZrSHdreDY2UTI2N0pYVk9LaUFXOEdReWNycmMybDNDMlB2dHVjRVlZb0Rtek0tanNYY3B2M1lDOVhvSjNNb001WlhGSUFvRQ?oc=5
+   Do restaurace se chodilo ústy černošské karikatury. A Američané ji milovali Hrot24.cz
 
-4. **Netanjahu označil Británii za první islámskou zemi s jadernými zbraněmi. Zapomněl na Pákistán - Novinky** — Novinky [cs]
-   https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUW9FaVc4RzkwUTJLMVozRW1mYmRwbWNzYlpES0RLQnlSTHZ3VXhQNHd0UzZxOG5PYUNBcFVnSXk5bWtQdnhKQlRUVzJUOTBJV2xhY1o4WE8wZ0EwNm5mcDR0UUVpcHZlNGdva0xDUDZmemR0anUyM2JlUHJod0ZTVllpY2NMMHVSaGxWVU9TZUhjRWJLcGVLTjZnTE43NEFfMU40bE53bTlja18zbTZMaV9KVko3ZUloYUk4WllzaC1KMGdfbVNSVERxdW1td3FkTHFvWXhKZ3N3RHF1b2l5aEhSUzVlUXN1WGMtQmZZaC1SSXlSRmJCMDR3?oc=5
-   Netanjahu označil Británii za první islámskou zemi s jadernými zbraněmi. Zapomněl na Pákistán Novinky
+4. **Martin Dvořák mě prý chce žalovat: Nenadávej na zrcadlo, když máš hubu křivou! - monikalefay.cz** — monikalefay.cz [cs]
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxOS29OMDBfTUFRRmotQ2ExN1NodzNtVERJRXZ2Sjk4dVhnbFdyRmFibVd0M1hRejBlNEFrYWhxSzNDdlhvUTRNYzJtWHpxQTR0YW9LNnBoMDZNVDhGYTRUMmVRNXRKX25LZkQ0b1M0S2N2eVhEZFJVTUJKMmNsSnhDdlBlajBOSkFxbGNnNnRGTjRoQU5UXzlmQ1FoNVYtRnI2?oc=5
+   Martin Dvořák mě prý chce žalovat: Nenadávej na zrcadlo, když máš hubu křivou! monikalefay.cz
 
-5. **Superdávka se v srpnu naplno projeví u dalších domácností. Podívejte se, koho se změna týká - ProSvět.cz** — ProSvět.cz [cs]
-   https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWtVd1BwRzF3NEM0SG9zbTdKbnlZR1VKU1Z2eUN5VXNhOGdUaEVTQVBLTGZyWmVSLWhwX2RxTFNPVEo3NHV1XzNQa0tzQldaZUlqTFhyNnFfeFJzQ0VSVnBZVVNmc3lYdUdZTHRDZmQ0TElkM1pSRWl4U0xiODdnZUJVMXpsX2VNRVM3Zlc5OWpkMjI3QjhGdEJyTjR0TUR3X0N3MlJuNktZRk9XRXc?oc=5
-   Superdávka se v srpnu naplno projeví u dalších domácností. Podívejte se, koho se změna týká ProSvět.cz
+5. **Extremismus v nové éře: Českou bezpečnost mění online radikalizace - czdefence.cz** — czdefence.cz [cs]
+   https://news.google.com/rss/articles/CBMingFBVV95cUxQby1ZbXJka1l5SWlYZzBHVldaMm1NTzZOaTM3WjJ3NnczenhhT0FCbE9nM05OSGFUMXBaWi1IbkZGb3hxeEJqNmFfNnBIYUVzcmptSk01dWRhY1dFT3RvRHg0OUhGX2t6V2d2a01tVWRUZ2tOYkltUy1qcDdEYjRsWld0U0QxMEMxajdneDZsaW0wTlN2LW5QZVJWSVVidw?oc=5
+   Extremismus v nové éře: Českou bezpečnost mění online radikalizace czdefence.cz
