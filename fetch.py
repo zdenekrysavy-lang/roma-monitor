@@ -364,7 +364,12 @@ def collect() -> list:
         feed_items += fetch_feed(f, flang)
     watch = fetch_watch_sites()
 
-    merged = drop_excluded(gn + gd + feed_items + watch)
+    # Pořadí rozhoduje: dedup nechává PRVNÍ výskyt a ořez na MAX_CANDIDATES
+    # usekává od konce. Nejdřív tedy vlastní romské feedy a sledované weby
+    # (nejvyšší signál, přímé odkazy), pak Google News, nakonec GDELT
+    # (největší objem, nejvíc šumu). Dřív to bylo obráceně a při ořezu padaly
+    # jako první právě feedy.
+    merged = drop_excluded(feed_items + watch + gn + gd)
     items = dedupe(merged)[:config.MAX_CANDIDATES]
 
     if _GN["failures"] == 0:

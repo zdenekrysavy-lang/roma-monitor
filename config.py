@@ -15,10 +15,18 @@ import os
 MONITOR_PROFILE = os.getenv("MONITOR_PROFILE", "world")
 
 # --- Obecné nastavení ---
-LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "13"))   # okno; >12 h kvůli překryvu mezi běhy
+# Okno pro Google News. Sběr běží 1× denně a jen Po–Pá (8/2026 – dvakrát
+# denně stálo agenta příliš tokenů), takže PONDĚLÍ musí pokrýt celý víkend:
+# 74 h = pátek ráno až pondělí ráno + rezerva. Že se v úterý až pátek nic
+# nezopakuje, hlídá state/seen.json.
+LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "74"))
 MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "300"))  # strop kandidátů poslaných k analýze
 MAX_PER_FEED   = int(os.getenv("MAX_PER_FEED", "40"))
-MAX_PER_QUERY  = int(os.getenv("MAX_PER_QUERY", "12"))    # strop na jeden Google News dotaz, ať jeden jazyk (např. FR) nezaplaví feed
+# Strop na jeden Google News dotaz, ať jeden jazyk (např. FR) nezaplaví feed.
+# Uplatňuje se PŘED filtrem seen.json, takže u širokého okna (74 h) by ho jinak
+# zaplnily už odeslané položky a vytlačily novinky. Zvednutí nestojí agenta
+# žádné tokeny navíc – co už viděl, se do feedu stejně nedostane.
+MAX_PER_QUERY  = int(os.getenv("MAX_PER_QUERY", "20"))
 
 # Romské NGO feedy a weby publikují řídce (i 1× za pár dní). Krátké okno
 # LOOKBACK_HOURS by je míjelo, když běh padne na „hluché" období – proto mají
@@ -67,7 +75,7 @@ GOOGLE_NEWS_QUERIES = [
 
 # Operátor Google News „when:" – vrátí jen čerstvé články za zadané období.
 # Bez něj Google řadí podle relevance a aktuální zprávy propadnou oknem 13 h.
-GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "1d")
+GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "3d")   # kvůli víkendu, viz LOOKBACK_HOURS
 
 # Zdroje, které se z výsledků zahodí (porovnává se s polem `source`, bez ohledu
 # na velikost písmen). POZOR: nedělat to operátorem „-site:" v dotazu – Google
@@ -262,7 +270,7 @@ if MONITOR_PROFILE == "cz":
     WATCH_SITES         = CZ_WATCH_SITES
     WATCH_SITE_TERMS    = CZ_WATCH_SITE_TERMS
     GDELT_ENABLED       = False   # u domácího zpravodajství nepřidá nic navíc
-    MAX_PER_QUERY       = int(os.getenv("MAX_PER_QUERY", "8"))
+    MAX_PER_QUERY       = int(os.getenv("MAX_PER_QUERY", "14"))
     # Českých zpráv k těmto tématům vychází řádově míň než u 15 jazyků světového
     # profilu: when:1d vracelo 0–4 položky na dotaz, when:7d desítky (ověřeno
     # 8/2026). Proto širší okno – že se nic nezopakuje, hlídá state/seen.json.
