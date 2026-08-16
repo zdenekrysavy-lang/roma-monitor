@@ -1,391 +1,131 @@
-# Kandidáti — 2026-08-16T07:20:33+00:00 (119 položek)
+# Kandidáti — 2026-08-16T15:48:55+00:00 (32 položek)
 
-_Zdroje: Google News 34 · GDELT 250 (ok) · feedy 30 · watch 1_
+_Zdroje: Google News 40 · GDELT 0 (rate_limited) · feedy 32 · watch 3_
 
-1. **Holiday on August 16, 2026 — National Roma Day in the United States - UA.NEWS** — UA.NEWS [en]
-   https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUpDc1daeVdHMDF6clotWGdDMk9iQjBHOGNWOFNKcHJyU3hLcFc1d2FiMFRoWHVYT25tb3JOME5KSHc5M2JKWjRXUXBnMlhpX3huUmZ1RThSREdjMHp3MGFqRldtU0RlaWIzdkx4cGZ2a0FUVE1leXpwR0QwaWFYOGJ4WVktbE5yQ2Ew?oc=5
-   Holiday on August 16, 2026 — National Roma Day in the United States UA.NEWS
+1. **EastEnders actor Shane Richie and wife Christie Goddard ‘officially split’ after nineteen years of marriage - Goss.ie** — Goss.ie [en]
+   https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGptUlFsNFZ4dHhxTkVYWGZGeDY1TldFc01EdFhEOVpFSVJIaXlPOVF2WW5QMWs4eFZQZmlia0xUdFV4MHpNRGdWRndvWGhXX05CR3hRS2YtS0NJeFQ1ZUR0V1RhcjZjVk5mQ2ZMbzFhMW1nc1lMNFFrQ2lteW1HRWZYcFF2QWotU2RoX1d2c3VwdGsyWlZPdDJxTE5SaVR4WGYzd3BoRW95N25lLV95WEZ2eW4xcWFIVW1BMFFqZTJhVXFwNUVNTXQ4d2R5NE1yWGx3?oc=5
+   EastEnders actor Shane Richie and wife Christie Goddard ‘officially split’ after nineteen years of marriage Goss.ie
 
-2. **The Face Reality Clear Skin Method Empowers Licensed Skin Care Professionals and Their Clients - WWD** — WWD [en]
-   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1lJMTMxNlFHWmR3OEFOeTZDQzVhZTRTWERlcWZuVE9yMEJKanBOdUhXSE1CLU5ObEpvSlZSSC1vc2gwOFc5QVN6THBldEMxMHRQeEwtT0pBU0ZSbjNRLVY5UERNQ19Zam12QmEwcVdxYUljVTZHRjRVT3dVMk5fV3IyVUpKUnVvWWdkaTFweHN0aVltSWhWWGVFTzlkbHFqQlFkdExFTXQ?oc=5
-   The Face Reality Clear Skin Method Empowers Licensed Skin Care Professionals and Their Clients WWD
+2. **„Să nu aibă frică să-și poarte identitatea”. Elena Sîrbu, despre educația și integrarea romilor fără asimilare - Europa Liberă Moldova** — Europa Liberă Moldova [ro]
+   https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQjIwRGRnWlNMUDAzUWJKNlFTaTNNQ20zU3ZMcTlINXY5WU9hcWlGakdyWU9JNmZRWjNVN2liTkJoclgtUFFJd25SRHlyM2RDeFppaElnN2VyRDhMYWIzelFsYWh2ckZqQ1BjY09QRU5oQ0JRZGdrSTh4RXdfdHZvM3VnaDVFUVU1MV8yWWdVSmllUDdFQ0w1VFFQal80ejk3VGRrSEJiTHlHNVJVbmtIV2dFamltS1puNTRfVVhwM0otQnJGcGtSajZtU3JIeEp4UUhrRDg4aHFELXp4V0UxUHlpS0NqMXE5dFl30gHuAUFVX3lxTE14UnBJRzFZMmJsU3lXRm1rLTYwV0lRLTRDcExoRXpMNjh1R19QQi1CSERBWF8zSVhxa3dMaTZ2WmQ0c1ZOclJsUUNDcGxqUHkxTVQzd3FnNDhpZGRGVXNoUGdyREx0QmNPNkZaUzFZYzFnbHg5STl3TVRldEZBdUtEMjY2TWt3Z0F2Q3VhcFEyQmdKLUpHb3JhVXd0bk9YQ0MycDBsMy1qZVZlZW8za3FoVVptNXZ4dkhDaWIzMTktb2dYcjk3THJRVko1UG9JdjJWTHVGR0Frc1JKRzM1Nm5BSnp2bFVzZ0VJTlM0Vmc?oc=5
+   „Să nu aibă frică să-și poarte identitatea”. Elena Sîrbu, despre educația și integrarea romilor fără asimilare Europa Liberă Moldova
 
-3. **Locarno Film Festival Winners: Florin Șerban, Monica Bellucci & Hong Sangsoo Among Victors - IMDb** — IMDb [en]
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81RXZTQjAyLWwtbDRpajdYNkgxUGlZb2g5RUpMZkNsc1VnVHZwU25fbDFnQ2dqUEdtRHMwN1FOcDRtbmh3U0h5N2hINnNIQWMwWEtZbEI2V0FuWTk0cTZKbFVTd0tfam8?oc=5
-   Locarno Film Festival Winners: Florin Șerban, Monica Bellucci & Hong Sangsoo Among Victors IMDb
+3. **Breaking News: Dronă doborâtă de un F-18 spaniol după ce a intrat în spațiul aerian al României, în apropiere de Galați ➡ https://tinyurl.com/22nn57ba - facebook.com** — facebook.com [ro]
+   https://news.google.com/rss/articles/CBMigAJBVV95cUxNdzRCV3FoY00wREt5dVVBZnlfdFJGQW0wZEh1ZE9ndUV5TkV4NHBiZ01xbFZqOW1hY0hFTnlIZXRWaUxrUDdzb1pXalhxQUdUeTl3MWxfTzdfTWpkSVdqalhsTHRDVHV4OThKYzFLdDdXQWt1REg3aWRuVXZfYUt2cHZHNXVsa2hCR3V5VDVyMVNaOUdWZkVURGl2SFlRZ0NYT0h3eTVwTlRXYlNHMFlTaHhaYXlaRjFHX2dUOEY1WmdleUExVEZsdHJkTHZ5amdxbk1EeGxwRldpT2c4c3hxNUlEUVNvYTZ3NnBLempxd3RzUWhVa0ktMU91UWMzbkVU?oc=5
+   Breaking News: Dronă doborâtă de un F-18 spaniol după ce a intrat în spațiul aerian al României, în apropiere de Galați ➡ https://tinyurl.com/22nn57ba facebook.com
 
-4. **Shane Richie and wife divorce after 19 years of marriage - Female First** — Female First [en]
-   https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlQ2R3QwNWx4MzR2U080eERWakVtcFF6RE5LV3VOT3FJQTRBdWNIZVZvREdNQmpuRFZfZnF2VXJnNjVpMlR6YTVpYlFDMllLa2x3Z0wteFVBS1VOcmFsVmhNQWt4ZHctTzhlOWRySWszTHJUbVpWZjNtMlJfQVh4TjJyb0hGT2RTNVkyLVNvdTBkbF91bEUzSVZPVERXV1NiVHc?oc=5
-   Shane Richie and wife divorce after 19 years of marriage Female First
+4. **«Aujourd’hui, le racisme est bien pire» : les gens du voyage encore dans le viseur des candidats à la présidentielle - Libération** — Libération [fr]
+   https://news.google.com/rss/articles/CBMijgJBVV95cUxPcHV1Z0VJdGJhVndXWGsxVWdVTkc1WVQ1aENEUmgwVlY3djliY0JqbzA5aEljb3gtdTJWdXRqV1JBTUktRU9mMGdYcGF5bXJqYVhlc0ZqejRjZG5fTmZjVFRvUnd0VlJxSVJ3dTlxbHJ3ZkJ4bjBEaXpCSEkxbmh0V1JvbTZnaUlSTDVqdFNRUjZ0Zmp1Y3ZZc29PQVlsQ09JT2dRQU8tNzBvNWF2ZjEzRDd1RE5oaElaZm5ja3FBQmdvMzNKR25fZ2Q1UzFBR2FETTV1Mi1Pb0s3N2g2MnNDQ3RmWGp2TW8xd2pFQ256WEg1WFQycHQ1R29yVnhGWVNhLU42TFE2LWpOLWpRSWc?oc=5
+   «Aujourd’hui, le racisme est bien pire» : les gens du voyage encore dans le viseur des candidats à la présidentielle Libération
 
-5. **Orvinio (RI): Polenta Festival returns on August 22–23 - inItaly** — inItaly [en]
-   https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmROelBNb3lESWVOSVlad3cxMzlQN2Ria2ZYdV9JdjhyZjNpQ0pNeFJnb29DVWRzZVNtM0d3NzA2UjRnbTBLVlhzMk03RHJnUjNaWXBIcmdfWk03bXBrdDFCd25fcVhWRWJ1UjJmU3hGdlhoZjNZNTB5TDkxSjdrQ19fVzViYVEwaTZUOGNqc01iSVNNdS13c1NBUVhfdjA?oc=5
-   Orvinio (RI): Polenta Festival returns on August 22–23 inItaly
+5. **Face à face tendu entre un maire et des gens du voyage : ils voulaient s’installer sur une aire de pique-nique mais l’élu a bloqué les 100 caravanes - Midi Libre** — Midi Libre [fr]
+   https://news.google.com/rss/articles/CBMimwJBVV95cUxQRm5qU01RMmZMUjdMTm9PcGViX2xjU21MSkl4NkREUl9LU1IxbGRyNUFOQkt4VnMybWkybVVrVkJzbkJ4XzdkQUFNNDE3MnNlQy1pajVGODlJVUxES0VvSVBtWVRMZ2UxajBUcnZTSUlHVzJLWU1BRTNKZVJ0ZktlcDVneXJ1U3kwTm1zTHZub09zS3BDbF9mcDhLbmhacFgyXzRQUktLcEN0OW9LWEFaZUlYU2ljb2dfUlpfZ1pIUi1jVlhsWmU2X3BPS2pPNkhSV0xzZlRVMzFLdW9LSFlVMGZEV0oyWlpDZzB5QlBnY3Zkb3AxbE83X0NwOWo0cUxyeE96SWNSc0p6OVBwbHdGdW4wRU5GLVJzbEdr?oc=5
+   Face à face tendu entre un maire et des gens du voyage : ils voulaient s’installer sur une aire de pique-nique mais l’élu a bloqué les 100 caravanes Midi Libre
 
-6. **Ambulanța atacată. În loc să vorbim despre sărăcie, despre lipsa de educație media, despre absența statului din comunități, preferăm să vorbim despre „ei” - Republica.ro** — Republica.ro [ro]
-   https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjMwamxyNk9LY1E1STNFOWhPY21vTHdNRGlicVJXV2xMbG5mQmhxaWtrdmp1UFFMVDh0VEx5ajJUR09DNU12WXpHV0J2WnZNYm50emNxMHdBUHdOWFVKR0NFY3dEaXRvcktGbWZGYzhQZnBtSHNLQlhmWk1QWERpdnRhQ2JrTHl4dm5PcThHQ19ZUGNQU1lXbWl4OU92ZXgzNkt6VXRyV0Q4djFmWmsybDg5RnY5MWJyNUNQLUhrSW5yODA?oc=5
-   Ambulanța atacată. În loc să vorbim despre sărăcie, despre lipsa de educație media, despre absența statului din comunități, preferăm să vorbim despre „ei” Republica.ro
+6. **« Ils ont respecté leur engagement de nettoyer le site » : les caravanes des gens du voyage ont quitté la dune de Plouharnel - Le Télégramme** — Le Télégramme [fr]
+   https://news.google.com/rss/articles/CBMikgJBVV95cUxNNzNHcTBUb2lxRHh0UUlPRFc2Z3VxR1UxLU13ZXpmcVY1Yml1OGlnXzFBOGlUdGFfWDcxR2p6Qk0zT1NxYVphRGZEcVZzejFYb0RUV1M0R3Z2TktpeFRFc25DTGdtMkZneUJhS2VDdmt0Y0ZycktYSW9BcFY4SmFYUDF6VllYempXWENGZmdLUXlQRWJhLWsyZzhEQlBGOUtVWl9Kb3ZabjVoRW55YnB2MDI3Yk40Q1pMSHUtbmdKQkIzazBUT0Fmel9NVS12N3lNaFp4TzdlQmNNSmFIZDdUWGFmQjlDeVU5dlVXRlo3XzZ2RjlHdkM1OERaSnJTVjRGYTBqNEVUd25XTElHRUdkVEhB?oc=5
+   « Ils ont respecté leur engagement de nettoyer le site » : les caravanes des gens du voyage ont quitté la dune de Plouharnel Le Télégramme
 
-7. **Tabără gratuită la Predeal pentru 45 de elevi din Vaslui. Șase zile de aventură, educație și socializare la munte - Stiri Est** — Stiri Est [ro]
-   https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHZkV0ttTkI2OHdmSWVhRzN4aEdEUkJLWlVFTWNWdENMRnlQeE9aZk9JYmR3NzNPMVBVMlZUbVkyRzhTSzN1Ri0xTXdqN1FwTWpjakNjX3VLNFRCdXlaOEFiOWFKOF9nTjhLWllBZnpuNXlBT29aUVZOaEc3anJOUkZTR1o0SDY4YTZ6NnlEXzZNX1hWNGNfOE5OZHpROHl1UVN5SU5RaVROcVNmMnlCbHhvS2RyMzFteGZyWDRDcm9KM1BQc3lNMlgxWm9qYllRZVVoTmY3TWVjZw?oc=5
-   Tabără gratuită la Predeal pentru 45 de elevi din Vaslui. Șase zile de aventură, educație și socializare la munte Stiri Est
+7. **L’incendie d’un campement rom à Couëron nécessite d’évacuer 80 personnes - Ouest-France** — Ouest-France [fr]
+   https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRlpkY2dNak1zS0wzWXNZMjZTanJUbjI5SHlBYndrR19tT3BlbmVobHFub24wbU1NNmFQY2UzcTlpU1JlQU5NWUctejRqWjk2MkFuejdtdnR0WTBrN005QW1VVFdyX1NNa2pNZjFHSVRmbWY5MElHZzFGMG1WcDlHeEsxY1U2NTI0TnFQWGZnYThRTkdsdi0xS2tlZTk5N05FMGJWaUtSZ01BRzNPMGN5N3R6LXZaMlNySUJvSzhIQjQ0S3FZUks3d0RhVDc4Q010ZC16c0w3Q1Zjbkt6a2hsQWRONEQzRHYzSmozRy1SWTZGQXdJTHM0UGUtMDM?oc=5
+   L’incendie d’un campement rom à Couëron nécessite d’évacuer 80 personnes Ouest-France
 
-8. **José Moreno. La tercera esperanza de la Madrugá. - ArteSacro** — ArteSacro [es]
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFdQaS1tR1UzOW9NN1hRRFUyUFZBY2JhOUlYUXFZbjBfVWtWT3BkeWFBbUxRQVA1T3Fkc2JpZG9wTmNvUGx1ZW1TamxYVHpONGk1Um91UU1BR190S3M2WGgybDJVUE5WUkNITkQ3M0puMEdfeDlLQmV2ZS15UElpZVNlR2FpdmZ3?oc=5
-   José Moreno. La tercera esperanza de la Madrugá. ArteSacro
+8. **Coarraze : le sous-préfet de Pau en visite pour aborder les dossiers de la commune - La République des Pyrénées** — La République des Pyrénées [fr]
+   https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUEY2ZW5wSVBnWjRmNHlNWXZLMUgyVjZLSnRBRHl6bEtaVy11MDhKeVZRRXAtM2ZWVHFSVFc3Rl85VHFXOUJOOHpBQV9zYS1ralRxRkljVzNEX2FCakt1YkhBamRmZERkTG1SYnJtRmZlQnkxVzlsRE85dmUyRWJnQjVUTmRUdUdqbmJ4YjZIeFU3aDAyOUlXN0d3aEJCWnREN2Fza0t1S0xJUDdZYkFvS3VlYlJCOWJ1T0FsY3YyWmRVSkZHQ3QzcHp6OENnUzdBNUVsZmVSMmV3b1pjOEJVS2VkT0hKcXZKZUZsSVgyM2ZocW54?oc=5
+   Coarraze : le sous-préfet de Pau en visite pour aborder les dossiers de la commune La République des Pyrénées
 
-9. **HyperOS 4.x Stable & Beta - ROM Pilot : Liste des ROM officielles de Xiaomi basées sur Android 16 et 17 (mise à jour le 16 août 2026) - xiaomi-miui.gr** — xiaomi-miui.gr [fr]
-   https://news.google.com/rss/articles/CBMiggFBVV95cUxNeEc5NXVEY0Npbm1OcDdPR3VYMGhfZGZHSFEwTml3STcwQXNZYlA3cy1nMHlTaGVxSkpVeHJOTjZlb0hxb2lhcGpTZ2Y2NTVwMV9ma3FNNGk0YkpXVUhZaHhmU0NjX3d4MDExbGZNblc1ZEc2M3hfQ0ZuQmlOd2x2MndR?oc=5
-   HyperOS 4.x Stable & Beta - ROM Pilot : Liste des ROM officielles de Xiaomi basées sur Android 16 et 17 (mise à jour le 16 août 2026) xiaomi-miui.gr
+9. **Grez-Doiceau : des gens du voyage s'installent sans autorisation à Gastuche - L'Avenir** — L'Avenir [fr]
+   https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQVFuRlZZU0xBZkRlMk5meVpQWFZSUmh1WkRROTRPTFpkRzNIaTIwSUEwcEpRMU5nZDZLSmRtakRlb0ppRG91bVRkYUZhNWJHSTJBbV9yWE9xNXJFLTJ1MzF2XzI1Sm5aTVc5cEZRRW9CVkowRnkwNzdfLUJFRkp3YXZnZHBkbUF5WVAxdmFLM1VvdGg1ZTZmNEdtbjE1TjJLbnJFcURGS0hFME1ZUk01M1hxOEM3anZLTTFxcVRZeG94dGNYVmo3dzR3TUxVQkZOU1Ryay0tblVvN19nY2d5WV9oTEp5UmhZczNKRndFaWlYWlVzMzNfbklQemNsTlE?oc=5
+   Grez-Doiceau : des gens du voyage s'installent sans autorisation à Gastuche L'Avenir
 
-10. **L’édito de Baptiste Bize, directeur de la rédaction : « Les coutures de la com » - Nice-Matin** — Nice-Matin [fr]
-   https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUxwMXRTR2JpNVpiaUVBOHVhT2hSTUoxclBGNUZiUHIxZkJ1Q0YySGVoY2FVMzIwMnFTZzJkdXlYbWQ5b3NJVzNNMVNUSjNjNzZsaU02eW1yRmlpa0FKU1BXZmFTOGNtRDE2WkJUVWNpNTQxQUNneXExQXNGVlhTanc3Y0Z0c0liTFlHYkV2RklyLTRKQW5UNDl0YzlXNGFFWjdsdEYtb1R2N1pBNTFsVUdhLVhZMjF4SVpFMGgyb0NUbV9NdEpN?oc=5
-   L’édito de Baptiste Bize, directeur de la rédaction : « Les coutures de la com » Nice-Matin
+10. **Courses hippiques : à 89 ans, Roger fait vivre une passion familiale pour les chevaux de course - Maville Nantes** — Maville Nantes [fr]
+   https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUWd2Z2h4SkN5NFhFS1ZLaEtQWV9LOWF0Y1lUSURyNDduU0JjUmJsZEdRdGdHVEMtdG9ISEFNRWlhLUt3dklia2JJd3NQSXVkczhraXF6UkxwWjhXMXJPeWpWalI2UUxvSEozODVYQUNjX1JkWE1WSFZBMGV4c2d1d0xDM0dzb3FRN0t2T05hcnJSVFByb2J5Q09FX0RmbHZHMWV5N0UtWUNpTlB4a3VRYzM0RDgxck9UYzZvbVZyU2dWQjhiekU1TGpHbEhsYzVSTkFUT3pMeWN3aUR0YkNlRVF6R1FweWRZQUE?oc=5
+   Courses hippiques : à 89 ans, Roger fait vivre une passion familiale pour les chevaux de course Maville Nantes
 
-11. **Orages : un incendie se déclenche dans une maison touchée par un impact de foudre en Aveyron, l'habitation s'embrase par le toit - Centre Presse Aveyron** — Centre Presse Aveyron [fr]
-   https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVGJBbjV3eWFucjBlTHFjY1hBSjV5ZDdiN3c1VjJBUUh5LVhIcUc5R2xCa1RraG14bEt6Q0gwQ0VYdThHOThzUXo3bnNWeUJFSDdJVlZPRGdSQmJCaXh3cTFZNmx6SGNyb3I0Y2dFRGlVZUM0YXNWREtxQlBTeGdUTzdjRDA0LVN4TXBPSUJobU12ekFoRE9NYUNTellBUjBIaU55c3Zvbzk3aWxOY3RGMnVKcXZDUzRYeGt3ekJOZl9Pd18zRXd6Zk5pUVUyRnI3Q1BZOEtISkNQUkZJNzR3a0tFa3hXbVJoeDFSQ2xqQ2lHeDRyZ1UwclNZTzZ1ZWM?oc=5
-   Orages : un incendie se déclenche dans une maison touchée par un impact de foudre en Aveyron, l'habitation s'embrase par le toit Centre Presse Aveyron
+11. **VIDÉO. Le pire feu de forêt de l’histoire de la Belgique brûle toujours en direction de l’Allemagne - Centre Presse Aveyron** — Centre Presse Aveyron [fr]
+   https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTXRMcVlfRmZ5dGxZWEo0UERzOFZFc3cxUS1CcHIyOVJGd243TXdMQ040dVllLVZIUVRUanpralRxdmJWVF9mNzdiQ0lkUE9HQnlFOVpmMzlTVFEwTEtqZktWTjFhWnZQSEZYYUlvOVJ6WFF3MjVTNHNjTDB3bF9ZR0VxenZUU3oxazVkMGNoUXJ0RlRJM1lCMWcwcGJBSVUtMVFEanVkcmJaMWdYR1d1bG1xTmgtQjhqdkoyYmljb0pzdjRGbnBJS0RjOWkzM29vZ2lFa0dwdlRuTERyYzB1VUd2SnJfU0tXZE93?oc=5
+   VIDÉO. Le pire feu de forêt de l’histoire de la Belgique brûle toujours en direction de l’Allemagne Centre Presse Aveyron
 
-12. **Saint-Père-en-Retz. Roger Robin et la passion des chevaux - labaule.maville.com** — labaule.maville.com [fr]
-   https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGlhdmNxWEpGTGZpNVI3N0VvUFhJWGFCS2dXeGNnT09IZzdWeU15NHhGZ0djV1p6SHBrTUVLYnBoNW9iZHVfaElWVzhaWHUxZHZBRjdMeW5oNE00ZVJWcHl5SjZkN3dXSUNWaGVZaG1qdUJOYmxBbzFqUkRQSzNacDM0VlllcUxVeXh4MUhLZjVOdFk2Q0hFTDl4TE5Cb2huQ1dEOWtCT243SlYwWTdHRUdvS0RLMVBsWGhR?oc=5
-   Saint-Père-en-Retz. Roger Robin et la passion des chevaux labaule.maville.com
+12. **Football amateur - Régional : Montauban s'impose sur le terrain d'un SU Agen encore en rodage, la rencontre interrompue avant son terme pour des propos blessants contre l'arbitre - PetitBleu.fr** — PetitBleu.fr [fr]
+   https://news.google.com/rss/articles/CBMingJBVV95cUxNaFZfN1VpZm5RenNlclJGeVFUamFSNl9MSllUZWRqOU9zeWtnR29EbzJTTEpRZ2xpV3RWT3ItVXR4UGhRLTNvdnR1Q18xeXo4a2prUUxBWG5lWXo0ek1fSldpMTE5ckN0SWZKWDFGaTJoaXpnYUlvYW5BQlR5ekdBTjJESlV5aHZQcVBZbDkwWjFacVRBc2hQR2hTVEJMdDJka3JUbVh6MHRPblN0UzNqVS1GbWZkbE02RmN0UVIydGlIVk9mQ08yV1NCZE90VGNTVHktbjBPM2FmSVF1cXhjU1Q2eTBGejF4eXh1ZTVaeDRpSnpPbWFPbXNZM2VYTWhmLWVwbExncTJjM0dKNzg5ZHItc1B3SXhCTi1YaFln?oc=5
+   Football amateur - Régional : Montauban s'impose sur le terrain d'un SU Agen encore en rodage, la rencontre interrompue avant son terme pour des propos blessants contre l'arbitre PetitBleu.fr
 
-13. **HyperOS 4 : Journal des modifications complet et toutes les nouvelles fonctionnalités (Liste des appareils compatibles et liens de téléchargement) - xiaomi-miui.gr** — xiaomi-miui.gr [fr]
-   https://news.google.com/rss/articles/CBMickFVX3lxTE9PSzdLSE45VFd5ZnVkby1ReHRGbzEwV1hDUkRieW1SVWllYVZEa3JwazNJQlI1WUhSd3BJV3JBSXR5cEUzOU1Ic1BfbXBWSVRLT1dwRl9VZklYNTlIaFNtd0JJekZ5WWZIRnJZYlJ2aFhDdw?oc=5
-   HyperOS 4 : Journal des modifications complet et toutes les nouvelles fonctionnalités (Liste des appareils compatibles et liens de téléchargement) xiaomi-miui.gr
+13. **Le propriétaire coupe le moteur à distance depuis son téléphone et alerte les gendarmes, les trois voleurs de sa voiture se font cueillir au péage d’autoroute - Centre Presse Aveyron** — Centre Presse Aveyron [fr]
+   https://news.google.com/rss/articles/CBMirAJBVV95cUxQTEliZ3V1ZmJveXRabko0WEhmMUtndEJTWEpXeENpSVFxN05uY0xuZ2M4d0YtUU5XTkJCMkE3ZGNCSlhiUDZpWnNtaEJCaWNoNmY1ZXFTWlJrUVB3ZzVCdXlOb1ZKWXRlbGNKbjVWVDZRQVlRSjRRd0J2bEg1dGhpc013REYyU2w5SnNOb3RISXV0RzNLX01JMHFvSnVRUy1xMGZmNHhRdFI1cHRyTW42OVc3TkxYNkEtdDJOSUxVNHpiSjRHZE1ra24xR2dSY1M2c0Npd0g5aWxIQXBVWmpkX0N0OUdCNXZBUDdtR0MweXp0WnRoN1ppRGtkZ0lJOVE5ZEtqNWRzbks3VGlLMWxEbG9ub19ucDJDWkxlbEwyTTRIaC1fMTJuczdHX2s?oc=5
+   Le propriétaire coupe le moteur à distance depuis son téléphone et alerte les gendarmes, les trois voleurs de sa voiture se font cueillir au péage d’autoroute Centre Presse Aveyron
 
-14. **Luc-la-Primaube. "Au fil du temps" reprend ses activités - Centre Presse Aveyron** — Centre Presse Aveyron [fr]
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHg3cXBlOXJ2Y1ZweG14cUpPb21TTkthelQ5T2NvbzhLQXBwdTZuYTlDXzdsVUd3d1lYc3lJUjBDcUhxNG15MWNtSlFfcU5sX1F5MHhNQlZMczU2UktJUXFJM1pueC0yQ2gwVzRQVTduNnZLallWZGdIRm1sUEU1YWdvZDh0NFEtVHBfUktvTVo0akRaVEVsZG83WDk?oc=5
-   Luc-la-Primaube. "Au fil du temps" reprend ses activités Centre Presse Aveyron
+14. **Österreich-Bild aus dem Landesstudio Burgenland (Doku) - tvheute.at** — tvheute.at [de]
+   https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXZKaGRIZWpwREZBM3VGYjFHd0xWU2pVRlJIMUFHaWc2YVJNajFUQmFXMEZ6eVRTc0QtREtsZ0dPNnBUY2xya0F6Ni1RY3Ffa1ZjbWJEaEdFYXJ1RW5Td281aU1pSnNENlhNRE41OFN4QVNrNlZHVUt6MVdyUUtqaHVpWGk1Q2NMMi10WGduNk1ibE1QbVhsTlJIMHhYcEo1YUtwTm94UnVqZw?oc=5
+   Österreich-Bild aus dem Landesstudio Burgenland (Doku) tvheute.at
 
-15. **Les Arjacois passent à table à la fraîche - Centre Presse Aveyron** — Centre Presse Aveyron [fr]
-   https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmhpZTVaMUt2dVF6NjVtbFp4QnFqWWd1VEI3eU9JQXhGMlN6Y2dXTzJYbzNoTEo4bVhVSEt4TWJjYjBUMGxEaGt4MnVOX1pZdGlWYldwVGktdnhxMUdGRmgwenZfZFhFY0JGS2tlLVRjeFhxdkNPa0h6OW52NVhqcjRtNmtxcDhoZnJhdXU1SkM3azdPUkNyenpIQVpGWlRMREE?oc=5
-   Les Arjacois passent à table à la fraîche Centre Presse Aveyron
+15. **"Кръв и чест" вилняха в погрома в Катуница срещу Цар Киро - marica.bg** — marica.bg [bg]
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVI5emQzUm4xd3U1N2JNZDNtOUVxYXZpQUNrOXNzdnk5SHdnSXJpNzUtWkp4ekd3U2ljb2pLaVpiblpBeFZZNm5NMjc5N0IteXhYQkduRWlrX0huOXc5UTRSamt2MXN3WFcyMjV5VVpNNTNaSHRPcDdNYndoQ05EemhqY2RpcFJBMHZPNGo0dnZVSkp0REFIdTBWaENSSnF10gGgAUFVX3lxTE9tUjl6ZDNSbjF3dTU3Yk1kM205RXFhdmlBQ2s5c3N2eTlId2dJcmk3NS1aSnh6R3dTaWNvaktpWmJuWkF4Vlk2bk0yNzk3Qi15eFhCR25FaWtfSG45dzlRNFJqa3Yxc3dYVzIyNXlVWk01M1pIdE9wN01id2hDTkR6aGpjZGlwUkEwdk80ajR2dlVKSnREQUh1MFZoQ1JKcXU?oc=5
+   "Кръв и чест" вилняха в погрома в Катуница срещу Цар Киро marica.bg
 
-16. **Sébazac-Concourès. Et si les retraités apprenaient à "bouger autrement !" - Centre Presse Aveyron** — Centre Presse Aveyron [fr]
-   https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUg3NWhfYU1SWE5rQkd4OU1BbDdnTWlfaUZrd3QtcHh1TjFzdEVJWHZBcllMNkc5TVRqZGlDbk9NLVNFVzJJRmt2cVpiQm1YdkplbnA0SS1LTHRSSUh0VjNqeS0zMm5CM0sxbDZHU2JIZ0h3WFR4QkdETVFJTXFydUlIS18zeExFOXBzVlpycnEzNzFmdHNWMWFDNnV6aGRYZThQUlZ0ZFFNUjhOTHc?oc=5
-   Sébazac-Concourès. Et si les retraités apprenaient à "bouger autrement !" Centre Presse Aveyron
+16. **Άγρια συμπλοκή Ρομά στον Ασπρόπυργο – Ένα άτομο στο νοσοκομείο με σφαίρα στην πλάτη - ΤΑ ΝΕΑ** — ΤΑ ΝΕΑ [el]
+   https://news.google.com/rss/articles/CBMivgFBVV95cUxPdkcyU3lrSktVQjVodUZuQjhJN3JIbTA2d1NPWndkNnJ1dWEwOXhwV2I5UmY5akh0WmR2N0Z2RmhLUnRpZy1kMnV6QlEyLXg0TE95SXdqeUpSYWpRMjhEa2E5QTJIWnJwam9RYTA1M3QzZmFqQU1JLThXamN2QWtmQ3VWdXBDYlB3QUJvYXJ1TTFVLTQzOV8zSG1yV3BRVExKVzg5eVJGSUtfZ0kwSW1TODdmM2hkX3F0Vk84VGNB0gHDAUFVX3lxTE0wczZNdnJIVEZYVDhqcGhmMVJoa2ltU2V4d3RSNURkVG94d2xLa3FXTGlJYTVUekVOWVdtTXVZUG1xQWh4UjkzaDFPaWxpTWxwRFJtT0hzejRnNWVvWXpkM2VZQ0ZQZXN4SG5XdEVBRDExcEQ0WFZJbzVmcjVkaE50Z1ZiV0tuVm5sWGtmb2J1M1hRMnItNTJaaEtGNFF1MVlsLWZQQUlzSVFJc1JMNEV5RnItdHJGUEFUNlNOajhjQlRrNA?oc=5
+   Άγρια συμπλοκή Ρομά στον Ασπρόπυργο – Ένα άτομο στο νοσοκομείο με σφαίρα στην πλάτη ΤΑ ΝΕΑ
 
-17. **Porté disparu - Pompiers : leur vie en direct le samedi 22 août à 18h55 sur NOVO19 - CesoirTV** — CesoirTV [fr]
-   https://news.google.com/rss/articles/CBMigwFBVV95cUxQRWtpOV9maVF5bUlTV0VxSHE1Q0NwWnRMRTZ3NTF1T2llTXQ3aXg5U284VWNsSlczVzR1cWNBQnNjVTBuUktDZnVlSl9pbTRzQl8waGVYQjVnYkpISXZXNHRQWjhJajRjOHNFNnowTDVySnZacTFQaDBwTEZ5R2xRbDlwbw?oc=5
-   Porté disparu - Pompiers : leur vie en direct le samedi 22 août à 18h55 sur NOVO19 CesoirTV
+17. **Επεισόδιο με πυροβολισμούς στον Ασπρόπυργο - Ένα άτομο στο νοσοκομείο με τραύμα από σφαίρα - Ethnos** — Ethnos [el]
+   https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1VRMUdLdEJjeVk3VmVjS2tEZ084Zm9Jc0RwTF9ERlVyMTl2X1lrN1JiWHlkdW5aczFLZDlUb0dTZlVJV0stNWlwOVR4c2pzdWE3NS1ibkRPZ0hiZDJxMHlzZUd1eDNBczVGS2VwN0lWaGFSb19HeXhNcEJCSkhHdGFUZFQtWTllcEFUbUMyM0ROQnpqNmh4WEJGemRyUzA0MnlMS2lDRHkxWWluTUxnN043WDNfU2fSAbcBQVVfeXFMT2tVUTFHS3RCY3lZN1ZlY0trRGdPOGZvSXNEcExfREZVcjE5dl9ZazdSYlh5ZHVuWnMxS2Q5VG9HU2ZVSVdLLTVpcDlUeHNqc3VhNzUtYm5ET2dIYmQycTB5c2VHdXgzQXM1RktlcDdJVmhhUm9fR3l4TXBCQkpIR3RhVGRULVk5ZXBBVG1DMjNETkJ6ajZoeFhCRnpkclMwNDJ5TEtpQ0R5MVlpbk1MZzdON1gzX1Nn?oc=5
+   Επεισόδιο με πυροβολισμούς στον Ασπρόπυργο - Ένα άτομο στο νοσοκομείο με τραύμα από σφαίρα Ethnos
 
-18. **Roma: Vergessene Flüchtlinge? Asts Stock (LVMMU9fsau) - Mshale** — Mshale [de]
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lczBOazBncm84NlY2VnBCakxmdnU5eGhndlBrd20xMDdHNlJnY3BGamQ5bmFiTDhRSFpBelR1c0JLX2VFWm5JdHd4YTM1T3F2X1V0ZTdjSHpfZFU?oc=5
-   Roma: Vergessene Flüchtlinge? Asts Stock (LVMMU9fsau) Mshale
+18. **Επεισόδιο με πυροβολισμούς και δύο τραυματίες σε γλέντι στον Ασπρόπυργο - Zougla** — Zougla [el]
+   https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmlvakVwWXJ6elRCM3JEYU9KZkQtcDYySEZaUExIcUoxa2syT3JrTU9uSmIzeEpVZy0xV0dGXy1BSXlXODNiOUFONEJLTHdvdUVyelFlcVpfbFBxZTdBYzV0cVRidERYTkh5cFNDek1ZeWF0MXJqdUx6Nk5objBrWnFNa0VGSDZGbTNnNnBLSVc3Q1pHRG9qRVpnMFUwN3M0VE0w0gGoAUFVX3lxTE5wSnp4a2Uzd0w5NEVkWS1wdlU0Y1p0MTZ2ZHlRNjBLVUM0MVBWQlJKclNTdUdFcDU1Y28wQ2tTVXM3Ujk5ajA5N0ZvdnNRSEgtOUdpbTBwcXgxLWtUV1pCVHh2Z0dwMWxpekdfZDVPWTBtY3p5NVhVYkNlTHN2aWpTdFlRaHFYazR4ajdGMGdnS01EVndpR3RLSkN6VWJUWFM2cmFpQ2tJUg?oc=5
+   Επεισόδιο με πυροβολισμούς και δύο τραυματίες σε γλέντι στον Ασπρόπυργο Zougla
 
-19. **Χαλκίδα: Ανήλικη Ρομά κατήγγειλε βιασμό από δύο άτομα -Ανήλικος ο ένας, αναζητείται το δεύτερο πρόσωπο - iefimerida.gr** — iefimerida.gr [el]
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFdBRTFmUlluenRCMXVLbHczVFFFdlBUODBCcTNtNExfYTF1RjN6WWJCVlFEZXRMUFFPRDVkX3FsTXhXR2lWTlJHbERpb1l6OHpVOHpIMkYwZzdud29tcDlHcDVtWU9JTWlsSUFWRXg2MnVHeFRqVkFqd1JhdlpqTDFCSURjVzFONHhQQXhB0gGTAUFVX3lxTFA4aHZoT20zSzdGVEo1WENZbnNuMXNQN2tCd3pLUGJjWUJHZkc4Vy1NZGNUNXlNdjFJWGtkQUNRZmN1Ny1iQW04UXBLYWFPNHRRNzZXMjFSNUlJMEd6T05TNExKVXF6cm1mOWpzeTd2VER3c2N1Z1dVeWJTNnFjVWN6LXRNZzZRLU0wc1djRUFQZnRSdw?oc=5
-   Χαλκίδα: Ανήλικη Ρομά κατήγγειλε βιασμό από δύο άτομα -Ανήλικος ο ένας, αναζητείται το δεύτερο πρόσωπο iefimerida.gr
+19. **16χρονη κατήγγειλε στη Θήβα τον βιασμό της από 15χρονο και άλλο ένα άτομο - ProtoThema** — ProtoThema [el]
+   https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ0h6M1JqTHN2Tk1UV2I4VzBGU3JneUJfYmw0NTV0UnhYZWNPMVNyOG1OU191Y3lyYlA1T19abjBBQjEzOVlPQ1ptdExBQnA1SG1Eakk3UFA0VFZDaFgxVlRzdDNFcTRFNHctdjlGVFNNTFJWc1p5TndmTDk0dHJldE5YWkdMa1VDVkpxNU9hYUN5MDNrYndYXzRfYU1NZnh4UzlldzNJeHRzV2ZWcW1vMUxyQmNuZkVaTVpSTU8yV2tSY0V1TlRz0gHHAUFVX3lxTE9DSHozUmpMc3ZOTVRXYjhXMEZTcmd5Ql9ibDQ1NXRSeFhlY08xU3I4bU5TX3VjeXJiUDVPX1puMEFCMTM5WU9DWm10TEFCcDVIbURqSTdQUDRUVkNoWDFWVHN0M0VxNEU0dy12OUZUU01MUlZzWnlOd2ZMOTR0cmV0TlhaR0xrVUNWSnE1T2FhQ3kwM2tid1hfNF9hTU1meHhTOWV3M0l4dHNXZlZxbW8xTHJCY25mRVpNWlJNTzJXa1JjRXVOVHM?oc=5
+   16χρονη κατήγγειλε στη Θήβα τον βιασμό της από 15χρονο και άλλο ένα άτομο ProtoThema
 
-20. **16χρονη κατήγγειλε στη Θήβα τον βιασμό της από 15χρονο και άλλο ένα άτομο - protothema.gr** — protothema.gr [el]
-   https://news.google.com/rss/articles/CBMi1gFBVV95cUxQakIwLV9KR0lETnlNS0NtYXlYUHVMY1JWZXBvTmZmTjJ2X204YlNaY1F3ZHR3cWx0RkVzUFR0UmJPMFJYZGN3Y3pRSXFIRkVfbXMzbGw1MEVqb2NaRVJ3eXItdmdxcTh3cG80dXUtQ3JBYkl4d29Od1o0b1R1enl0NXJ6M1JucUFhQW5FMDY2TWk3TkdUWkdxbDFLaWNCby1CQWVtMmlyS3ZKU0M1cUhGMzV0RldUWFAwQVFMaDFIYkJlaFIzUlVzemlMTmtCM1ZKQ1M4Rnd30gHHAUFVX3lxTE9DSHozUmpMc3ZOTVRXYjhXMEZTcmd5Ql9ibDQ1NXRSeFhlY08xU3I4bU5TX3VjeXJiUDVPX1puMEFCMTM5WU9DWm10TEFCcDVIbURqSTdQUDRUVkNoWDFWVHN0M0VxNEU0dy12OUZUU01MUlZzWnlOd2ZMOTR0cmV0TlhaR0xrVUNWSnE1T2FhQ3kwM2tid1hfNF9hTU1meHhTOWV3M0l4dHNXZlZxbW8xTHJCY25mRVpNWlJNTzJXa1JjRXVOVHM?oc=5
-   16χρονη κατήγγειλε στη Θήβα τον βιασμό της από 15χρονο και άλλο ένα άτομο protothema.gr
+20. **Ασπρόπυργος: Αιματηρό επεισόδιο με πυροβολισμούς - Στο νοσοκομείο ένας τραυματίας - Newsbomb** — Newsbomb [el]
+   https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2RpMzdBTVVHNEE3cE5NRE5hQlhIUWtSQ2l0eTROVkV4VUhublZqdnhrVDNCMTJxVDZmcDRwcjBxWnhBMGVRdGRtamxSX1p4TDhkeVNlUjJhOEpueUVDenhlNmcxb0dHZURfS3BrdDJodk9TU3U5Y0MxeGJQbVNfcWpGNFFVbXl1YmR5bzZNQk9wLXQ5N0dUYkdvTHd4N0FET25oZVRqSDAwandsdXo3MkVnMldDTnZ5Q3l5OG93alU?oc=5
+   Ασπρόπυργος: Αιματηρό επεισόδιο με πυροβολισμούς - Στο νοσοκομείο ένας τραυματίας Newsbomb
 
-21. **Προσλήψεις 469 ατόμων σε Δήμους και Περιφέρειες - Aftodioikisi.gr** — Aftodioikisi.gr [el]
-   https://news.google.com/rss/articles/CBMikwFBVV95cUxOTy1jME9vby1yUTdFTHVzZFRJemduVkZxeTF4RWNjYVFaM1JnU3NhYXlON1J4SDBQRU0xcDQ2aWZDQ2hSTVRvUllPTzFsUFBNWTlJSmR4SmV6eXM0THhNTVhVeVlzRjhGQkJESWc0Yk53MHdXLU9YQjJFNjQ0eVNaVjNmVFVicnZWT0VVaXozYTdQM2M?oc=5
-   Προσλήψεις 469 ατόμων σε Δήμους και Περιφέρειες Aftodioikisi.gr
+21. **Ασπρόπυργος: Άγρια συμπλοκή με πυροβολισμούς – Ένας τραυματίας από σφαίρα - topontiki.gr** — topontiki.gr [el]
+   https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeldWMzZsMWJZajZjcUFFTzh3RkNHV0FtY1JwWnlDUjNjVzFIZzhqbnZzWDF0OUdvRG1uYnFHTjZ1aDFzaTFkb0loamZ4QzlHc05hTXlJYWRJWDVfNVBaRVJpa1VVdHJwM2VoS1RwSFZueGZzYVFUYnhYckpMZWV3S2VuNU1Cclg5Z0poTmdtQXVseUlMZWhhdzF6d0tCRWE1QWxoNzY5THpGQQ?oc=5
+   Ασπρόπυργος: Άγρια συμπλοκή με πυροβολισμούς – Ένας τραυματίας από σφαίρα topontiki.gr
 
-22. **Πάτρα: Τρεις γυναίκες Ρομά «σήκωσαν» φαρμακείο – Τις ακολούθησε υπάλληλος και τις παρέδωσε στην ΕΛ.ΑΣ. - patratora.news** — patratora.news [el]
-   https://news.google.com/rss/articles/CBMia0FVX3lxTE9Sd0tQVDFjTW5lY1dmS3JmUkdwOXBPOEphRDlieFRsbnR3dkFXZHpLYzJVNGdhYkZaSk9VZ2RIUWlxRVdzVm1qT3A0V0UtazkzMXB5bkIzbXpiZ3poekJwUjNNbWNJclZHMXdj?oc=5
-   Πάτρα: Τρεις γυναίκες Ρομά «σήκωσαν» φαρμακείο – Τις ακολούθησε υπάλληλος και τις παρέδωσε στην ΕΛ.ΑΣ. patratora.news
+22. **Λειψοί: Στο πλαίσιο του αυτοφώρου συνελήφθη 46χρονη για δυνατή μουσική - Δημοκρατική της Ρόδου** — Δημοκρατική της Ρόδου [el]
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFVPUUlkdFBrMDZCZ2J0VnBodzhTXzdLYnRKNXo4SGwwY05DaFVQb1JVSUp4c3pNY1ZPX3MweHFLV29GazlmMmVJLUFEdHY1Z2hBM3Z4dFhTdXdVLThTSm1TVXRQYTE1eHU2NXF5SnlSMDZ5ajRSS1VOYlZoRUY0VG9scUcyZmpRWjJBaHFXcDN3bUFwYmZKVlRYajlhdUlFWjUtTEFCNVUwWF9q?oc=5
+   Λειψοί: Στο πλαίσιο του αυτοφώρου συνελήφθη 46χρονη για δυνατή μουσική Δημοκρατική της Ρόδου
 
-23. **Πάτρα: Η διπλή "πιάτσα" στα Βραχνέϊκα! Η νέα Πατρών Πύργου "κατήργησε" το "ροζ" πάρκινγκ στην πάνω πλευρά! Εχουν και... τιμοκατάλογο - flamis.gr** — flamis.gr [el]
-   https://news.google.com/rss/articles/CBMiekFVX3lxTFBGRUV2d3M3Qm0ycUp5WFkzallxZEo3LTNkMVpYSXdkd1Z6WVhUZ1ppX29QbHhHNmFVVVI5ekJ1SVdBYklQV0Uza3diZ0NHX3NFTkxPVElMQUlheGFjTXBGNzJRQ3VZVXRsalNwVm0xRWNpbDkxckw0VDRB?oc=5
-   Πάτρα: Η διπλή "πιάτσα" στα Βραχνέϊκα! Η νέα Πατρών Πύργου "κατήργησε" το "ροζ" πάρκινγκ στην πάνω πλευρά! Εχουν και... τιμοκατάλογο flamis.gr
+23. **Θήβα: 16χρονη καταγγέλλει ότι έπεσε θύμα βιασμού από 2 ανήλικους μέσα στο σπίτι της - ΤΑ ΝΕΑ** — ΤΑ ΝΕΑ [el]
+   https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTVDVXc3QWl2NkNKblhQR0FSa3kyaTFrRjkxVV9VQ1AyYmYxcU1lQ2VpUEVhTG9US1VSRF9PT05HMU85ZVRVdGtwZTVkRTNNM0hxcldUU1BIUWFWbmFlMlc1OFN5ZEp6VDZJX0hfN3YwZkVqTWZrMEU5VUVzWWlqaFBKRng1Y3ZWXzJwSndZTl9YbnEyS1VMX09Da2VQV043d2tZUFFOYXAtMjFlZDZHclU0TG1OWVgzaGQzWnJuQmtxdDFYbGlr0gHHAUFVX3lxTE5BNUNVdzdBaXY2Q0puWFBHQVJreTJpMWtGOTFVX1VDUDJiZjFxTWVDZWlQRWFMb1RLVVJEX09PTkcxTzllVFV0a3BlNWRFM00zSHFyV1RTUEhRYVZuYWUyVzU4U3lkSnpUNklfSF83djBmRWpNZmswRTlVRXNZaWpoUEpGeDVjdlZfMnBKd1lOX1hucTJLVUxfT0NrZVBXTjd3a1lQUU5hcC0yMWVkNkdyVTRMbU5ZWDNoZDNacm5Ca3F0MVhsaWs?oc=5
+   Θήβα: 16χρονη καταγγέλλει ότι έπεσε θύμα βιασμού από 2 ανήλικους μέσα στο σπίτι της ΤΑ ΝΕΑ
 
-24. **Święto 16 sierpnia 2026 r. — Narodowy Dzień Romów w Stanach Zjednoczonych - UA.NEWS** — UA.NEWS [pl]
-   https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ1FvOVhyQmd0aEtCTllIMVozbGt3Y0NOMDBfUWtMSE5Td3JFQVZ4NmtFcUc0WmNBREFsTjZOandQVDNQNXB4RFJTcjhkRHB5Mk5MZ1dXMGtvX19tUGV1dTdXbEROTEk2T0ZmOUoweVFxMWxNdGZtYy1vYUFqYV9zRHFXZ1lOVk95ejNv?oc=5
-   Święto 16 sierpnia 2026 r. — Narodowy Dzień Romów w Stanach Zjednoczonych UA.NEWS
+24. **Αιματηρό συμπλοκή με πυροβολισμούς μεταξύ Ρομά στον Ασπρόπυργο - Epoli.gr** — Epoli.gr [el]
+   https://news.google.com/rss/articles/CBMingFBVV95cUxPOXlDTHhvSDRKTWpmaFltSGJSdDhiS2Y0X3ZUSzVrMEdjLUlZRHFGT2lpdXhCT3FQM1AxWlVNY2JNcnZMR2JlZUV1UldGdXdYZ1hFS0s5VlhybENQYTZ2VVhtb1dBMGFDc3QyUm4ycWs0NGpxT2xQY2I4NU1KMm9oaS1uMEJDU3RKQzU2ejRGc1gtajdLSVUxclhOR2x5UQ?oc=5
+   Αιματηρό συμπλοκή με πυροβολισμούς μεταξύ Ρομά στον Ασπρόπυργο Epoli.gr
 
-25. **PSP deteve quatro mulheres na sequência de um assalto a uma loja em Guimarães, que envolveu também uma agressão a uma funcionária. Material furtado foi recuperado. - facebook.com** — facebook.com [pt]
-   https://news.google.com/rss/articles/CBMi7AFBVV95cUxORUtNVzJZaUQzRVJKZUFseU1PcThLREJydHlfUy1WZGQ0a21RTm84cmd0cVBYWHZiOE52LS01c25Eb2ZnQlczSEJNVW05ZDljWWM4WC1ydHR6Uk44VFo1UzF3X0pXamJ1cV9ZWldpY1dRWkJKSkEzejFpZl9fQ29nSWo0UWROV29jSGxPWXZRN1VIQjdzbUFQb3F5OW5uUjhQTVpNWTRRTUhCODgzWVlLa3Q4UVdHZHFtaG9LbHVPYjJQdHBaTVlzZmdOTUpENjN0akFubkZNQThLRjZ4V3hGMXZEcXBKWEJsMWQ2Qw?oc=5
-   PSP deteve quatro mulheres na sequência de um assalto a uma loja em Guimarães, que envolveu também uma agressão a uma funcionária. Material furtado foi recuperado. facebook.com
-
-26. **Vanhat kuvat: Romanien elämää Oulun seudulla – Arkea, juhlia ja taistelua yhdenvertaisuuden puolesta - Kaleva** — Kaleva [fi]
-   https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE53SDEyc3B5dy1uR2ZHakdWT0g4czhpRVlDU3pGalVhZE5UWWJMaWtoMzFzRHZScGIzVllmT3hfdC1NQkZlcW1ib2tBQnQzb3ZCdGZhNXFkQ2YxN2xjaUE4bE80MFdnaWNSZmJwSUxMZnppdkNTbjY5Tl9lYl8wQkJkWWxvWWd4N2lfMWxncElkanhk?oc=5
-   Vanhat kuvat: Romanien elämää Oulun seudulla – Arkea, juhlia ja taistelua yhdenvertaisuuden puolesta Kaleva
-
-27. **Por qué no se han podido encontrar los restos de García Lorca 90 años después de su ejecución en la Guerra Civil española** — prensalibre.com [Spanish]
-   https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-no-se-han-podido-encontrar-los-restos-de-garcia-lorca-90-anos-despues-de-su-ejecucion-en-la-guerra-civil-espanola/
-
-28. **Free united kingdom bus passes to officially end tomorrow** — heraldseries.co.uk [English]
-   https://www.heraldseries.co.uk/news/26466627.free-bus-passes-end-tomorrow---passengers-affected/
-
-29. **Lorca , un icono  queer  y un archivo censurado** — wedjfm.com [Spanish]
-   https://wedjfm.com/lorca-un-icono-queer-y-un-archivo-censurado/
-
-30. **García Lorca : la manipulación de un poeta** — larazon.es [Spanish]
-   https://www.larazon.es/cultura/garcia-lorca-manipulacion-poeta_202608166a8082b1a046ad6ebcb30940.html
-
-31. **Chân dung bị can Phạm Thị Ngọc Linh - vợ Huấn Hoa Hồng** — baomoi.com [Vietnamese]
-   https://baomoi.com/chan-dung-bi-can-pham-thi-ngoc-linh-vo-huan-hoa-hong-c55843659.epi
-
-32. **Do kina navždy zdarma : Františka ( 99 ) s rodinou využívá smlouvu z éry Rakousko - Uherska** — blesk.cz [Czech]
-   https://www.blesk.cz/clanek/regiony-brno-brnane/845979/do-kina-navzdy-zdarma-frantiska-99-s-rodinou-vyuziva-smlouvu-z-ery-rakousko-uherska.html
-
-33. **EL CAMBIO | La Opción de Chihuahua** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/la-fuente-movil/el-cambio-20260815-525190.html
-
-34. **Meme | La Opción de Chihuahua** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/meme-del-dia/meme-20260815-525197.html
-
-35. **Refuerza Policía Municipal atención ciudadana durante cruzada por La Paz** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/refuerza-policia-municipal-atencion-ciudadana-durante-cruzada-por-la-paz-20260815-525195.html
-
-36. **<i>The Sound of Music< / i> : North American Tour to play the Music Hall at Fair Park Sept . 8 - 20** — ntxe-news.com [English]
-   https://www.ntxe-news.com/artman/publish/article_146076.shtml
-
-37. **Todo dia 15 de agosto é ( quase ) a mesma coisa** — gazetadopovo.com.br [Portuguese]
-   https://www.gazetadopovo.com.br/vozes/polzonoff/15-de-agosto/
-
-38. **Romada Kuraklık Nero Köprüsü  nü Ortaya Çıkardı** — haberaktuel.com [Turkish]
-   https://www.haberaktuel.com/romada-kuraklik-nero-koprusunu-ortaya-cikardi-3474734
-
-39. **Bị phong tỏa hoàn toàn : EU lo Ukraine sẽ mất Odessa** — danviet.vn [Vietnamese]
-   https://danviet.vn/bi-phong-toa-hoan-toan-eu-lo-ukraine-se-mat-odessa-d1451801.html
-
-40. **太空垃圾 谁来清扫 -- 经济 · 科技 -- 人民网** — finance.people.com.cn [Chinese]
-   http://finance.people.com.cn/n1/2026/0816/c1004-40780346.html
-
-41. **Từ vụ Huấn Hoa Hồng bị khởi tố : Giang hồ mạng đầu độc , làm méo mó nhận thức của giới trẻ về thành công** — danviet.vn [Vietnamese]
-   https://danviet.vn/tu-vu-huan-hoa-hong-bi-khoi-to-giang-ho-mang-dau-doc-lam-meo-mo-nhan-thuc-cua-gioi-tre-ve-thanh-cong-d1451770.html
-
-42. **Huấn  Hoa Hồng  bị khởi tố 2 tội danh , khung hình phạt có thể đối mặt** — danviet.vn [Vietnamese]
-   https://danviet.vn/huan-hoa-hong-bi-khoi-to-2-toi-danh-khung-hinh-phat-co-the-doi-mat-d1451766.html
-
-43. **Bị cáo buộc lừa đảo , vi phạm kế toán , Huấn Hoa Hồng đối mặt án nào ? ** — kienthuc.net.vn [Vietnamese]
-   https://kienthuc.net.vn/bi-cao-buoc-lua-dao-vi-pham-ke-toan-huan-hoa-hong-doi-mat-an-nao-post1628692.html
-
-44. **Huấn Hoa Hồng từ  giang hồ mạng  đến vòng tố tụng** — kienthuc.net.vn [Vietnamese]
-   https://kienthuc.net.vn/huan-hoa-hong-tu-giang-ho-mang-den-vong-to-tung-post1628700.html
-
-45. **Tvrdý boj o vajdovskú stoličku ! Padali facky aj kopance** — noviny.sk [Slovak]
-   https://www.noviny.sk/slovensko/113662-tvrdy-boj-o-vajdovsku-stolicku-padali-facky-aj-kopance
-
-46. **เช็กดวงประจำวันที่ 16 ส . ค . 69 ราศีที่ดาวศรีสถิต  กรกฎ  ราศีที่ดาวกาลีสถิต  กันย์** — dailynews.co.th [Thai]
-   https://www.dailynews.co.th/articles/6109243/
-
-47. **Artýk darbeler tanklarla deðil tokmaklarla yapýlýyor** — yenimesaj.com.tr [Turkish]
-   https://www.yenimesaj.com.tr/artik-darbeler-tanklarla-degil-tokmaklarla-yapiliyor-H1614302.htm
-
-48. **Приз кинофестиваля в Локарно получила драма о ксенофобии** — dw.com [Russian]
-   https://www.dw.com/ru/glavnyj-priz-kinofestivala-v-lokarno-polucil-film-rumynskogo-rezissera/a-78385786
-
-49. **Impulsan acciones para prevenir embarazo adolescente y violencia sexual** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/impulsan-acciones-para-prevenir-embarazo-adolescente-y-violencia-sexual-20260815-525178.html
-
-50. **Detienen a hombre con 39 dosis de presunta cocaína en piedra** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/detienen-a-hombre-con-39-dosis-de-presunta-cocaina-en-piedra-20260815-525186.html
-
-51. **Ofrecen servicio médico gratuito en centros comunitarios** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/ofrecen-servicio-medico-gratuito-en-centros-comunitarios-20260815-525174.html
-
-52. **Recuperan cableado eléctrico valuado en 112 mil pesos en la Morelos** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/recuperan-cableado-electrico-valuado-en-112-mil-pesos-en-la-morelos-20260815-525187.html
-
-53. **Detienen a dos personas con droga en la Luis Olague | La Opción de Chihuahua** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/detienen-a-dos-personas-con-droga-en-la-luis-olague-20260815-525184.html
-
-54. **Realizan festival Cruzarte con actividades culturales y servicios de salud** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/realizan-festival-cruzarte-con-actividades-culturales-y-servicios-de-salud-20260815-525176.html
-
-55. **Oakey Creek 2026 : full results , top price , average , clearance | The Land** — theland.com.au [English]
-   https://www.theland.com.au/story/9330969/oakey-creek-2026-full-results-top-price-average-clearance/
-
-56. **Arkansas volleyball has final tune - up before 2026 season with Red - White scrimmage | Northwest Arkansas Democrat - Gazette** — nwaonline.com [English]
-   https://www.nwaonline.com/news/2026/aug/15/white-claims-two-set-win-in-arkansas-volleyball-red-white-game/
-
-57. **Las colectividades llenaron de música , danza y tradición la Fiesta de la Nieve** — barilocheopina.com [Spanish]
-   https://www.barilocheopina.com/noticias/2026/08/15/92650-las-colectividades-llenaron-de-musica-danza-y-tradicion-la-fiesta-de-la-nieve
-
-58. **Borussia Dortmund and Roma share spoils in entertaining friendly** — bundesliga.com [English]
-   https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-roma-pre-season-friendly-match-report-live-blog-37664
-
-59. **Harta României imobiliare s - a rupt în două : 5 . 600 euro / mp într - un cartier și sub 1 . 400 euro / mp în altul** — adevarul.ro [Romanian]
-   https://adevarul.ro/economie/harta-romaniei-imobiliare-s-a-rupt-in-doua-5600-2549595.html
-
-60. **Trekking en La Rioja : una fértil costa sin mar y sin playas** — weekend.perfil.com [Spanish]
-   https://weekend.perfil.com/noticias/aventura/trekking-en-la-rioja-una-fertil-costa-sin-mar-y-sin-playas.phtml
-
-61. **Концерт группы « Звери »: последние новости** — iz.ru [Russian]
-   https://iz.ru/2149779/2026-08-16/gruppa-zveri-obiavila-o-zavershenii-vypuska-novykh-pesen
-
-62. **Ukraine and Poland Need to Reconcile Their Looming Histories** — fairobserver.com [English]
-   https://www.fairobserver.com/region/europe/ukraine-and-poland-need-to-reconcile-their-looming-histories/
-
-63. **Группа Звери приостанавливает деятельность : последний концерт , заявление** — ura.news [Russian]
-   https://ura.news/news/1053118654
-
-64. **Последний концерт Зверей в Лужниках : группа уходит в творческий отпуск , что было , заявления Зверя** — ura.news [Russian]
-   https://ura.news/articles/1053118658
-
-65. **Прощальный концерт группы Звери в Лужниках** — ura.news [Russian]
-   https://ura.news/news/1053118657
-
-66. **Enrique Andrés Ruiz y el amigo de Lorca** — elcorreo.com [Spanish]
-   https://www.elcorreo.com/culturas/territorios/enrique-andres-ruiz-amigo-lorca-20260815163659-nt.html
-
-67. **Звери больше не будут выпускать песни** — 5-tv.ru [Russian]
-   https://www.5-tv.ru/news/5082682/doskoroj-vstreci-gruppa-zveri-bolse-nebudet-vypuskat-pesni/
-
-68. **Лидер группы « Звери » заявил , что коллектив больше не будет выпускать новые песни** — news.mail.ru [Russian]
-   https://news.mail.ru/society/72006319/
-
-69. **Ростовский архитектор о проблемах исторического центра улицы Станиславского - 15 августа 2026** — 161.ru [Russian]
-   https://161.ru/text/gorod/2026/08/15/76590918/
-
-70. **Рома Зверь объявил об уходе группы « Звери » в творческий отпуск :: Новости дня / ВЗГЛЯД** — vz.ru [Russian]
-   https://vz.ru/news/2026/8/15/1443133.html
-
-71. **Kompozitori Çesk Zadeja , figura më e madhe krijuese e muzikës shqiptare** — 24-ore.com [Albanian]
-   https://24-ore.com/kompozitori-cesk-zadeja-figura-me-e-madhe-krijuese-e-muzikes-shqiptare/
-
-72. **Лидер  Зверей  сообщил , когда коллектив планирует вернуться из отпуска** — ria.ru [Russian]
-   https://ria.ru/20260815/shoubiz-2111142741.html
-
-73. **Группа  Звери  обещала вернуться на сцену через два года** — vesti.ru [Russian]
-   https://www.vesti.ru/ns/gruppa-zveri-obeshchala-vernutsya-na-scenu-cherez-dva-goda
-
-74. **Romada kuraklık nedeniyle sular çekildi , 2 bin yıllık tarih gün yüzü** — kibrispostasi.com [Turkish]
-   https://www.kibrispostasi.com/c37-DUNYA/n610941-romada-kuraklik-nedeniyle-sular-cekildi-2-bin-yillik-tarih-gun-yuzune-cikti
-
-75. **Ćerka Šabana Bajramovića uručila nagradu grupi Boney M na Nišvilu** — blic.rs [Serbian]
-   https://www.blic.rs/kultura/cerka-sabana-bajramovica-urucila-nagradu-grupi-boney-m-na-nisvilu/z2b40sd
-
-76. **En vigor : los trabajadores en España tienen derecho a un día de permiso pagado cada vez que cambien su domicilio habitual** — mundodeportivo.com [Spanish]
-   https://www.mundodeportivo.com/actualidad/20260815/1004216391/vigor-trabajadores-espana-derecho-dia-permiso-pagado-vez-cambien-domicilio-habitual-dct.html
-
-77. **Ф  юрі Джошуа - бій можуть скасувати - промоутер зробив заяву** — fight.24tv.ua [Ukrainian]
-   https://fight.24tv.ua/fyuri-dzhoshua-biy-mozhut-skasuvati-promouter-zrobiv-zayavu_n3123984
-
-78. **Vợ Huấn Hoa Hồng Phạm Thị Ngọc Linh : Cuộc đời và sự nghiệp của hot girl kinh doanh online** — afamily.vn [Vietnamese]
-   https://afamily.vn/vo-huan-hoa-hong-la-ai-23626081521265282.chn
-
-79. **shtja shqiptare në Maqedoni – retrospektiva e një dështimi – StrugaLajm** — strugalajm.com [Albanian]
-   http://strugalajm.com/ceshtja-shqiptare-ne-maqedoni-retrospektiva-e-nje-deshtimi/
-
-80. **Ισόπαλοι Καρέτσας και Κουλιεράκης στον φιλικό αγώνα μεταξύ Ντόρτμουντ και Ρόμα** — inewsgr.com [Greek]
-   https://www.inewsgr.com/182/isopaloi-karetsas-kai-koulierakis-ston-filiko-agona-metaxy-ntortmount-kai-roma.htm
-
-81. **Nga çizmet e zeza te kostumet pastel , gardëroba e kryeministres italiane evoluon bashkë me politikën e saj** — rtsh.al [Albanian]
-   https://rtsh.al/nga-cizmet-e-zeza-te-kostumet-pastel-garderoba-e-kryeministres-italiane-evoluon-bashke-me-politiken-e-saj/
-
-82. **Отвлякоха , отрязаха косата и ограбиха жена край Велико Търново** — vesti.bg [Bulgarian]
-   https://www.vesti.bg/bulgaria/otvliakoha-otriazaha-kosata-i-ograbiha-zhena-kraj-veliko-tyrnovo-6267644
-
-83. **Atacuri israeliene în sudul Libanului : nouă persoane , inclusiv copii , au fost ucise** — zdg.md [Romanian]
-   https://www.zdg.md/stiri/stiri-externe/atacuri-israeliene-in-sudul-libanului-noua-persoane-inclusiv-copii-au-fost-ucise/
-
-84. **戏说  每一个成功男人的背后 ， 都有一个伟大的女人  - 浮世文心发表于 几曾回首 - 论坛** — bbs.wenxuecity.com [Chinese]
-   https://bbs.wenxuecity.com/memory/1921410.html
-
-85. **  Звери  больше не будут выпускать новые песни , заявил лидер коллектива** — ria.ru [Russian]
-   https://ria.ru/20260815/shoubiz-2111139150.html
-
-86. **Yesenia La Gitana cumbia y su debut como compositora** — elmanana.com [Spanish]
-   http://www.elmanana.com/escena/famosos/yesenia-la-gitana-cumbia-y-su-debut-como-compositora/6173614
-
-87. ** « Звери » больше не будут выпускать новые песни , заявил лидер коллектива** — news.mail.ru [Russian]
-   https://news.mail.ru/society/72005849/
-
-88. **Rota da Cerveja : SP mapeia 107 cervejarias e amplia turismo** — gazetadopovo.com.br [Portuguese]
-   https://www.gazetadopovo.com.br/sao-paulo/rota-da-cerveja-impulsiona-turismo-paulista/
-
-89. **Lorca y los hombres de la Residencia : el búnker donde aprendió a camuflar su deseo bajo reglas masculinas** — elperiodico.com [Spanish]
-   https://www.elperiodico.com/es/ocio-y-cultura/20260815/lorca-hombres-residencia-bunker-estudiantes-madrid-133335452
-
-90. **Les Musicales dans les vignes  : un concert de jazz manouche au Château de Fonscolombe au Puy - Sainte - Réparade** — laprovence.com [French]
-   https://www.laprovence.com/article/culture-loisirs/1408702566127514/les-musicales-dans-les-vignes-un-concert-de-jazz-manouche-au-chateau-de-fonscolombe-au-puy-sainte-reparade
-
-91. **Locarno .  You dont belong here  vence Leopardo de Ouro – Observador** — observador.pt [Portuguese]
-   https://observador.pt/2026/08/15/locarno-you-dont-belong-here-de-florin-serban-vence-leopardo-de-ouro/
-
-92. **Na odru z družino hierarhija odpade** — slovenskenovice.delo.si [Slovenian]
-   https://slovenskenovice.delo.si/novice/nedeljske-novice/na-odru-z-druzino-hierarhija-odpade
-
-93. **Florin Șerban a câștigat Leopardul de Aur la Festivalul de Film de la Locarno cu filmul „ Nu e locul tău aici / You dont belong here  ** — romaniatv.net [Romanian]
-   https://www.romaniatv.net/florin-serban-a-castigat-leopardul-de-aur-la-festivalul-de-film-de-la-locarno-cu-filmul-nu-e-locul-tau-aici-you-dont-belong-here_9753223.html
-
-94. **Kitili je roleksima i zlatom , a sad se vozi gradskom linijom  77  u Beogradu : Ljudi u šoku zbog njenog izgleda** — telegraf.rs [Serbian]
-   https://www.telegraf.rs/jetset/vesti-jetset/4378891-kitili-je-roleksima-i-zlatom-a-sad-se-vozi-gradskom-linijom-77-u-beogradu-ljudi-u-soku-zbog-njenog-izgleda
-
-95. **Seniorii cuceresc lumea . „ Sunt mai plini de energie decât cei de 30 de ani  ** — mediafax.ro [Romanian]
-   https://www.mediafax.ro/turism/seniorii-cuceresc-lumea-sunt-mai-plini-de-energie-decat-cei-de-30-de-ani-23791108
-
-96. **Un film românesc a câștigat Leopardul de Aur** — cotidianul.ro [Romanian]
-   https://www.cotidianul.ro/un-film-romanesc-a-castigat-leopardul-de-aur/
-
-97. **Romería de cine con María Barranco para inaugurar la Feria de Málaga** — diariosur.es [Spanish]
-   https://www.diariosur.es/feria/romeria-cine-maria-barranco-inaugurar-feria-malaga-sabado-20260815172448-nt.html
-
-98. **ROMË – Turistët i shpëtojnë vapës me vizitat magjike të natës në Koloseum** — 24-ore.com [Albanian]
-   https://24-ore.com/rome-turistet-i-shpetojne-vapes-me-vizitat-magjike-te-nates-ne-koloseum/
-
-99. **Lừa đảo và vi phạm quy định về kế toán , Huấn Hoa Hồng khai gì ? ** — kienthuc.net.vn [Vietnamese]
-   https://kienthuc.net.vn/lua-dao-va-vi-pham-quy-dinh-ve-ke-toan-huan-hoa-hong-khai-gi-post1628687.html
-
-100. **Huấn Hoa Hồng huy động từ thiện hàng chục tỷ , có dấu hiệu sử dụng sai mục đích** — cafebiz.vn [Vietnamese]
-   https://cafebiz.vn/huan-hoa-hong-huy-dong-tu-thien-hang-chuc-ty-co-dau-hieu-su-dung-sai-muc-dich-176260815210447934.chn
-
-101. **Florin Serban triunfa en el Festival de Locarno con un drama sobre el racismo en la Rumanía actual** — infobae.com [Spanish]
-   https://www.infobae.com/cultura/2026/08/15/florin-serban-triunfa-en-el-festival-de-locarno-con-un-drama-sobre-el-racismo-en-la-rumania-actual/
-
-102. **Κι άλλο βιβλίο για την Παλαιστίνη ;* - The Press Project - Ειδήσεις , Αναλύσεις , Ραδιόφωνο , Τηλεόραση** — thepressproject.gr [Greek]
-   https://thepressproject.gr/ki-allo-vivlio-gia-tin-palaistini/
-
-103. **In libreria  Espressionisti contro nazisti  di Malini e Gamero , un libro - scudo contro il potere che nega i diritti** — imgpress.it [Italian]
-   https://www.imgpress.it/culture/in-libreria-espressionisti-contro-nazisti-di-malini-e-gamero-un-libro-scudo-contro-il-potere-che-nega-i-diritti/
-
-104. **戏说  每一个成功男人的背后 ， 都有一个伟大的女人  - 博客** — blog.wenxuecity.com [Chinese]
-   https://blog.wenxuecity.com/myblog/82609/202608/10951.html
-
-105. **Belecsapnak a vadpörköltezésbe : 600 - an főznek egyszerre a vidéki fesztiválon , jön a Halott Pénz is** — penzcentrum.hu [Hungarian]
-   https://www.penzcentrum.hu/hellovidek/20260815/belecsapnak-a-vadporkoltezesbe-600-an-foznek-egyszerre-a-videki-fesztivalon-jon-a-halott-penz-is-1203966
-
-106. **Семейство Стораро разкри : Емрах не се е женил , това беше къна геджеси** — burgas24.bg [Bulgarian]
-   https://www.burgas24.bg/novini/interesno/Semeistvo-Storaro-razkri-Emrah-ne-se-e-zhenil-tova-beshe-kuna-gedzhesi-3010395
-
-107. **KDM bukan parti komponen GRS - Armizan** — astroawani.com [Malay]
-   https://www.astroawani.com/berita-politik/kdm-bukan-parti-komponen-grs-armizan
-
-108. **Vợ Huấn Hoa Hồng là ai ? Hé lộ tin đời tư ít ai biết ? Cô giữ vai trò gì trong hệ sinh thái của chồng** — techz.vn [Vietnamese]
-   https://www.techz.vn/196-826-5-vo-huan-hoa-hong-la-ai-he-lo-tin-gay-sot-ve-doi-tu-it-ai-biet-co-giu-vai-tro-gi-trong-he-sinh-thai-cua-chong-ylt705386.html
-
-109. **Milani dhe Roma përfitojnë nga vendimi i brazilianit** — botasot.info [Albanian]
-   https://www.botasot.info/futboll-sporti/2517360/milani-dhe-roma-perfitojne-nga-vendimi-i-brazilianit/
-
-110. **Βασικός ο Καρέτσας , στον πάγκο ο Κουλιεράκης για το Ντόρτμουντ – Ρόμα ! ** — inewsgr.com [Greek]
-   https://www.inewsgr.com/430/vasikos-o-karetsas-ston-pagko-o-koulierakis-gia-to-ntortmount--roma.htm
-
-111. **Валери Найденов : Разделението на русофили и русофоби е политически инженеринг** — novinite.bg [Bulgarian]
-   https://www.novinite.bg/articles/288994/Valeri-Najdenov-Razdelenieto-na-rusofili-i-rusofobi-e-politicheski-injenering
-
-112. **Festival du film de Locarno : le Léopard dor décerné au film de Florin Șerban** — telerama.fr [French]
-   https://www.telerama.fr/cinema/festival-du-film-de-locarno-le-leopard-d-or-decerne-au-film-de-florin-erban-7032444.php
-
-113. ** „ Felszabadultan élem meg , hogy a Jóisten által számomra kijelölt helyen vagyok  – Felvidék . ma** — felvidek.ma [Hungarian]
-   https://felvidek.ma/2026/08/15/felszabadultan-elem-meg-hogy-a-joisten-altal-szamomra-kijelolt-helyen-vagyok/
-
-114. **أقصى اليمين الأوروبى والعرب - إبراهيم عوض - بوابة الشروق** — shorouknews.com [Arabic]
-   https://www.shorouknews.com/columns/view.aspx?cdate=15082026&id=0f530821-07d9-4fff-8669-c6cd45ff0e79
-
-115. **Roma in Serbia** — https://rroma.org/feed/ [en]
-   https://rroma.org/roma-in-serbia-7/?utm_source=rss&utm_medium=rss&utm_campaign=roma-in-serbia-7
-   The Roma community in Serbia is advocating for better living conditions and proposed two methods to improve their situation alongside […]
-
-116. **Culture** — https://rroma.org/feed/ [en]
-   https://rroma.org/culture/?utm_source=rss&utm_medium=rss&utm_campaign=culture
-   Young Roma from Brezje and Jedinščica explored radio and Roma culture in Prekmurje, Slovenia, visiting various cultural centers and participating […]
-
-117. **Action Plan for Minorities** — https://rroma.org/feed/ [en]
-   https://rroma.org/action-plan-for-minorities/?utm_source=rss&utm_medium=rss&utm_campaign=action-plan-for-minorities
-   The inaugural meeting of the Coordination Body for Monitoring the Implementation of the Serbian Action Plan for Minority Rights (2026-2029) […]
-
-118. **JUG SRBIJE NESTAJE: Crna Trava izgubila skoro 60%, Vlasotince više od trećine stanovništva** — https://rominfomedia.rs/feed/ [sr]
-   https://rominfomedia.rs/2026/08/15/jug-srbije-nestaje-crna-trava-izgubila-skoro-60-vlasotince-vise-od-trecine-stanovnistva/
-   Crna Trava je opština u Srbiji sa najvećim procentualnim padom broja stanovnika u periodu od 2002. do 2025. godine. Prema podacima Republičkog zavoda za statistiku, broj stanovnika u ovoj opštini sman
-
-119. **Dráma pri zásahu v Žiline. Postup policajtov voči Rómom preveria - romatv.sk** — romatv.sk [sk]
-   https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDZkUTBFMlhJS2Z2MmJJcWdXVlZvTm4xY1p2SFNoQXl5RDZSb1M2MDZJSEdCU1dzRmdoYTMydWp3a3pkZzRrb0RCVmQ5cFZyMkFpeUYzWHRvejh1cVNEMm5UVXd0Q2ZVdVBiZXIzUEl6YWoxUDMtNUx5bkJiZGdRZmwzcTVSWEZSMHRPajZQa3h1ZTFnOFExWW5pNWJabHRCUU9yaGdCU05MWF9zOEVldnViSGhRSjlFTFpaZjA3aUFmUQ?oc=5
-   Dráma pri zásahu v Žiline. Postup policajtov voči Rómom preveria romatv.sk
+25. **Θήβα: 16χρονη κατήγγειλε βιασμό από δύο Ρομά. Οι Αρχές ερευνούν την υπόθεση - briefingnews.gr** — briefingnews.gr [el]
+   https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjg2NTJONE5PMDJfYVdRNzRHajZ5RFlSelFhaXg0ajFnNzJuZ0UzU00zX1pNLWZ0Y2tIaG4yN0MybkxXTHJfS0xwMTlTRl80Ymd4WHVvT2JGcDlJaTVDZmVmd3dLYXpzU1lIdnlhMTA5S3dRMW9CbTFXUDZmZTlPdHBhSWM3UG9MZTFsaVJqSWVhV3FucGZhRVFWT1plMDNUOElVQlA0M3lqUkw5V19R?oc=5
+   Θήβα: 16χρονη κατήγγειλε βιασμό από δύο Ρομά. Οι Αρχές ερευνούν την υπόθεση briefingnews.gr
+
+26. **SVT Romano thaj SR Radio Romano ande jekh historikani koperacija anglal o alosaribe 2026 - Sveriges Radio** — Sveriges Radio [sv]
+   https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnhmOXo0R3hOeUZfZmkwX3M0YmNzQjFtU0NNdk4yMWdGLW5Ld3htU0l5eFNPOUUyRDNodXBSc0NFLU5YNUdqRWlIdC1uazZBVG5mSEQtWGRsV3h2OXozeE1qMW5DM1BoNVhHbWNqYkRsWDNkeGxGZXhZSWx2Y2dKdS14NXo2eFZIZkJaclJOU1N0UE1DenNFX0FOdVAxNDFTbFNsZVZBd240UThKY2JER18ydmxTX2xEX2lNZGc4ZDI5U28?oc=5
+   SVT Romano thaj SR Radio Romano ande jekh historikani koperacija anglal o alosaribe 2026 Sveriges Radio
+
+27. **Demo Beriša: Zajedničkim radom do boljeg ostvarivanja prava nacionalnih manjina** — https://romaworld.rs/feed/ [sr]
+   https://romaworld.rs/demo-berisa-zajednickim-radom-do-boljeg-ostvarivanja-prava-nacionalnih-manjina/
+   Konstitutivna sednica Koordinacionog tela za praćenje sprovođenja Akcionog plana za ostvarivanje prava nacionalnih manjina za period 2026–2029. godine održana je danas u Palati Srbija, uz učešće preds
+
+28. **Usame Zukorlić: Jedinstvo Islamske zajednice istorijski korak ka prevazilaženju podela** — https://romaworld.rs/feed/ [sr]
+   https://romaworld.rs/usame-zukorlic-jedinstvo-islamske-zajednice-istorijski-korak-ka-prevazilazenju-podela/
+   Ministar za pomirenje, regionalnu saradnju i društvenu stabilnost Usame Zukorlić pozdravio je potpisivanje Povelje o vraćanju jedinstva Islamske zajednice u Novom Pazaru, ocenjujući da ovaj sporazum p
+
+29. **YUROM Centar: Izmene ZOSOV-a prilika da podrška romskoj deci postane deo sistema** — https://romaworld.rs/feed/ [sr]
+   https://romaworld.rs/yurom-centar-izmene-zosov-a-prilika-da-podrska-romskoj-deci-postane-deo-sistema/
+   Dok traje javna rasprava o izmenama Zakona o osnovama sistema obrazovanja i vaspitanja (ZOSOV), predložene promene otvaraju važno pitanje za romsku zajednicu: kako obezbediti da podrška obrazovanju ro
+
+30. **Útok mačetou v Trebišove. Pätnásťročný mladík utrpel vážne zranenia - Roma Television** — Roma Television [sk]
+   https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd2xkTmtyQzJ6bGctcWlFeF9KZmcyVHdmZExMUkw2bXhTUHB4Q2Y3dEN6dXBGNkxmbjE4ZkNYNFAzR2YtYkJhQUFTT25RVDJrbVhUU2RQb1RzeWdobE5BZVNFRTBTeV93U1NBNnJRSl9rNFVJZ0F4VjhVeklJN1BxNXJZY0huaVlxTm5HTzZ2Ymc1dzdibTVDdVNyZmN1NlZpU1Nva1ZEN0l2dlhPQURzamt1WXlnbXNITEN4TllySVBUZ3BmRDVnNjV4bXgtM0JtRXp2Z080MzJKRkFxWjhpNjFSWFE4cGpl?oc=5
+   Útok mačetou v Trebišove. Pätnásťročný mladík utrpel vážne zranenia Roma Television
+
+31. **Požiar vo Vysokých Tatrách sa nerozšíril. Hasiči stále zasahujú - Roma Television** — Roma Television [sk]
+   https://news.google.com/rss/articles/CBMizwFBVV95cUxQejNVTnpHV3FLdUh4TmN0b1NUUnY0Q0JtMXJ1UVd5UUR0TXowOHptdmpFLVVTQkhWSWYyaWRxeEl4dGhTeHloTGNaRWxQdnNmNWg1dGljR1pEVDBoSnJuMjFMdjlNMUJoMFRaYlpiY0ZwUkkxb3lNVWxMSFJnZ090U0tPdUpMSHRNM2NPenZjaFllcldPcmtjUV9lcUwzSE9nSGZZRzhYdE5ZOTFLQ2FxZmJreUd2YVdkakxHZlhnaEtWM2xROFo4UTFPNGtWMXM?oc=5
+   Požiar vo Vysokých Tatrách sa nerozšíril. Hasiči stále zasahujú Roma Television
+
+32. **Tragédia v Maďarsku. Poľský autobus havaroval, zahynulo 12 ľudí - Roma Television** — Roma Television [sk]
+   https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDBJYzloX1RkNnZXTXM1bENWc1JmSjQxNDRZMGlINVdzX3JXY25fVUtOV3FndFdJN0kwWWw5QkNEclFlNGVLOTZTNXUyUm9qcmJmc215S2FxdmRnZnNIamlHX1VpVW1vQnVINHlCVkRRcnVvNnRmOHQzaFdxUGNGSUxLVU1jN0ZSSGZtbDQtZFVJTWJ3V3JQMS00bDU3R0VVREJEZE1rTUVHYk5XYlhVLXlxUWdDcEZLaGJkNVZQeFY?oc=5
+   Tragédia v Maďarsku. Poľský autobus havaroval, zahynulo 12 ľudí Roma Television
