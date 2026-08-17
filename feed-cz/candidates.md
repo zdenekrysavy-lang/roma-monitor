@@ -1,19 +1,23 @@
-# Kandidáti — 2026-08-16T15:55:16+00:00 (4 položek)
+# Kandidáti — 2026-08-17T07:40:06+00:00 (5 položek)
 
-_Zdroje: Google News 43 · GDELT 0 (disabled) · feedy 0 · watch 0_
+_Zdroje: Google News 43 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **Do restaurace se chodilo ústy černošské karikatury. A Američané ji milovali - Hrot24.cz** — Hrot24.cz [cs]
-   https://news.google.com/rss/articles/CBMikwFBVV95cUxQN1F5Y0lCNmp5M1M5R2VzMFlEX01CWWtMM0xNbWVRMnBlWjROUG5uU3ZOWXE0MUdPREFTTW4ySlduOV9rX2JaUU9RcEUwRE52Z3huenpWbE13LTFrVHB5YmpvWlJLeG9QejQzVnJJd0tFS29hbW5Wc0lfU0luMnlrRGpkVXNsRC1PcnY2SXl3UExKUzg?oc=5
-   Do restaurace se chodilo ústy černošské karikatury. A Američané ji milovali Hrot24.cz
+1. **Komunitní koordinátor*ka** — https://amnesty.cz/feed/ [cs]
+   https://amnesty.cz/komunitni-koordinatorka/
+   Hledáme nadšeného, energického a organizačně zdatného člověka, který se chce stát součástí týmu Amnesty International v České republice. Nabízíme práci v prostředí, kde můžete přímo přispět k obraně l
 
-2. **85 příspěvků, 8 trestných činů. Policie rozebrala Turkův Facebook status po statusu a jeho obhajoba padla - Tiscali.cz** — Tiscali.cz [cs]
-   https://news.google.com/rss/articles/CBMizgFBVV95cUxOS21oZXZDSVlUWFFmbGVoTWFVWUVXTS13dkJKS0QtVll5WXRER2hwMG9nRHdoMjhJVGthbGI1LUpXQ1NUeVNRQlRNNXFKRnhWRXRkRnE3aWMwWEwxY1BvREZNVEt6eUJpOTkyNkxVNENrbFRQOUNkdXlUVDZjRzh3WTFqRGUzMDkzcDZjRWxnbmowZ3JNSG5pZmNXWG5Yd1JiQlZ0TUxsQ3ZUaDZrOHdqMkdxQnRMQ25iSnJ0MEV2SURfWEpDdnA5UlltbEptZw?oc=5
-   85 příspěvků, 8 trestných činů. Policie rozebrala Turkův Facebook status po statusu a jeho obhajoba padla Tiscali.cz
+2. **Kdo získá skalp Měsíce ve 21. století? Dnes prozradí Tomáš Přibyl - Noviny kraje** — Noviny kraje [cs]
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVliQzFCZ0pKQUMteHZTWTlkdlZLYXVXRGNSQ1JRSU5nS3NkVG5tZlhNTHBRUFJ5NUpnM1dtUnRoWjJrUldWckk2SVhDSWlNMnN0YjRiM29FQ0F0SnNDcnFCTk5ac1ZhXzRNTS10RHFqZlFnbERGaVpYYTZsTDU5eElBZ01WdGtMQ1drOUxCa0FuWXlxejlZOXR1aDgzdndsbzRsY1BFazlnUjlq?oc=5
+   Kdo získá skalp Měsíce ve 21. století? Dnes prozradí Tomáš Přibyl Noviny kraje
 
-3. **Železná Ruda staví nájemní byty, ve městě je po nich velká poptávka - Plzeňská Drbna** — Plzeňská Drbna [cs]
-   https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2hsOW5BZHNCNWJ6WjVybXZNb2p2T3d2R0VXTWNFZjE4Ung0S08tZlFndFloZzB5NklRZ2t0ZW0tS2JDRFlfcXZ4U3k5VHJKV3h1c3g0R1llejJkMVV0VTNBWHFaNTdtTHVoek5PbEMtVWxfMTVuZ29Wa1luYngzVWhBbGluNzRMWEpXbzlHVlRKQl94dGNxOE1IaWE5ejlhT1FkZ3JqVmg1TmJYUUdrM1hXV0t1QQ?oc=5
-   Železná Ruda staví nájemní byty, ve městě je po nich velká poptávka Plzeňská Drbna
+3. **Kam ďábel nemůže, nastrčí X. Muskova síť slouží krajní pravici k podněcování nepokojů a násilí - Newstream** — Newstream [cs]
+   https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXhtYVducWxzMmVoQl83VkZvbjBaVlhncWxKSFhaa1IwZmMtbmpHUGpuUzhBV2MwelVPbGUwRXpKSnN2RmpRVTQxZDVTRkpnazk1dE9yOWpzOTN3MFhIcGxocTBGdEc5VDIwXzJ3Yk04bVlHNkcyMU9VRXNUd3dXU19OSWk2b1NFTlp2bGNUaEdfMlBnMnhXWk41VVlQZFhEd2JwWGJuWmlzZFBDOEw1M3NoU2dwd2cwSjEyMURIWS1fZw?oc=5
+   Kam ďábel nemůže, nastrčí X. Muskova síť slouží krajní pravici k podněcování nepokojů a násilí Newstream
 
-4. **Návštěva, která se neuskutečnila. Děti, které se nenarodily. Jak moc ublížily Romům nucené sterilizace - Lidovky.cz** — Lidovky.cz [cs]
-   https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHhRdWZ3WUxpZGdJdVZYOVdzdnlDUHpXa3JHTThXc0RyM2I0Y2NhazVGOU9GS3I3OHhoVWh5YjJudDJOT0xiTVhkOUFEemhTYUVqSUF0N1NIRmRVcE1RTkZ0Wlc1TnBELXdtVEZfMmFXajZEdm1rN2Q0Z1EzMjZjUldJMGF2LWdkbjR1Qy1YeDRmLXJ3LTFTX0hsNzBKZEpIS3JYQlkxbDd2WjRMQm4zUGJCbXA3dVpoWloxQk9HZHF2MjVrejdj?oc=5
-   Návštěva, která se neuskutečnila. Děti, které se nenarodily. Jak moc ublížily Romům nucené sterilizace Lidovky.cz
+4. **Křižany investují do bydlení, památek i kulturního života - iDNES.cz** — iDNES.cz [cs]
+   https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFp6c01feFlSRDEwcUVwc0lVb0ZKM3J2SE15eTVXZjFkMXFPai1LTFRJLVRKQlEzcU94aHlDLWRHaDlJMXFScDZaM3VpeXFQMUtGV0xkZVBBYU9TNzB1ZUdjR25HSXBYQVVrdmJ1TkJBTmpIRG8xN0JsTDFBbmg5eW0wQ2NtLUV3NzdjNUFDNy1QRnpsZEpvR19UUlFMNGh4U2hWaXZDSmc4bTN2em9rU1YzN0tvOW1fVkZ6elZ3YjZzTGM?oc=5
+   Křižany investují do bydlení, památek i kulturního života iDNES.cz
+
+5. **Nepříjemné zjištění! Věková diskriminace začíná už ve čtyřiceti - ahaonline.cz** — ahaonline.cz [cs]
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmhpUEdqZTV3WFBuMnlMNTRpUVBXdUw0S1hfYnJ2c0JaRW9lU0Jucld2TWV4VGZXd2ZXNW4xN1RhZHNPNVVqSGxmS3ZMWWpDUThiRVZLdVJYZ2tjd0lzOExsT1VzSWh0Yk5RbUMycm9MNWNla05ESk1TQ1NXOFRVMjd0emxDVUM1YkpuOXdkQTRDbjh6NEY0MDhnTFR4ZU1CZkpwTFU2ZTBhVzJMUHJyMDUyQnpaUHVRdmpF?oc=5
+   Nepříjemné zjištění! Věková diskriminace začíná už ve čtyřiceti ahaonline.cz
