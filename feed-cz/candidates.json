@@ -1,194 +1,122 @@
 {
-  "generated_utc": "2026-08-18T07:25:40+00:00",
-  "count": 22,
+  "generated_utc": "2026-08-19T07:26:32+00:00",
+  "count": 13,
   "sources": {
     "profile": "cz",
-    "google_news": 60,
+    "google_news": 70,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 2,
+    "feeds": 4,
     "watch": 0,
-    "before_dedup": 39,
-    "total": 32,
-    "skipped_seen": 10
+    "before_dedup": 40,
+    "total": 34,
+    "skipped_seen": 21
   },
   "candidates": [
     {
-      "title": "Irák musí skoncovat s beztrestností a začít skutečně chránit lidská práva",
-      "url": "https://amnesty.cz/irak-musi-skoncovat-s-beztrestnosti-a-zacit-skutecne-chranit-lidska-prava/",
+      "title": "Dobrá zpráva: Ujgurský hudebník Yashar byl propuštěn z vězení",
+      "url": "https://amnesty.cz/dobra-zprava-ujgursky-hudebnik-yashar-byl-propusten-z-vezeni/",
       "source": "https://amnesty.cz/feed/",
-      "snippet": "Irácká vláda slíbila posílit ochranu lidských práv, zatím ale udělala jen malý pokrok. Ženy a dívky dál čelí násilí a diskriminaci, zatímco aktivisté a novináři jsou terčem útoků a zastrašování. Tisícům vězňů navíc hrozí poprava. Amnesty International proto vyzývá vládu, aby své závazky konečně zača",
-      "published": "Mon, 17 Aug 2026 12:03:13 +0000",
+      "snippet": "Ujgurský zpěvák a skladatel Yashar byl 10. srpna 2026 propuštěn z vězení poté, co si odpykal tříletý trest. Do vězení se dostal kvůli své hudební tvorbě v ujgurštině a držení ujgurských knih, které čínské úřady označily za „extremistické“. Za jeho propuštění a respektování jeho práv se zasazovali li",
+      "published": "Tue, 18 Aug 2026 11:36:33 +0000",
       "lang": "cs"
     },
     {
-      "title": "Bezpečí na sítích: Jak Romové v Česku mohou čelit nenávisti a bránit se efektivně - Radiožurnál",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUdvOEJISlc2NGJvZDVvZVItWUQzQkQ1bHNWc0t0X1R1cDhzMG0wckJUNjlEN3Bpdk9LTm5WdGtpMmRqb1dCbFFrbGhLYmFIWU82cmhUeTVPUWdiM0JISndqVm5GU1pFcGd0Z0FrV3lTTXhpNzhUZzdzRHNEcXZhaFpsX3B4ckF1VlZ5ZlVUbTU5UVROQ0pJbUlhYnREckdUYWRrVmtTU0hycHhJS0JXS0V3ZXcySjA3T3Rj?oc=5",
-      "source": "Radiožurnál",
-      "snippet": "Bezpečí na sítích: Jak Romové v Česku mohou čelit nenávisti a bránit se efektivně Radiožurnál",
-      "published": "Mon, 17 Aug 2026 08:36:15 GMT",
+      "title": "Rusko: Protiválečný politik Lev Šlosberg dostal 11 let vězení",
+      "url": "https://amnesty.cz/rusko-protivalecny-politik-lev-slosberg-dostal-11-let-vezeni/",
+      "source": "https://amnesty.cz/feed/",
+      "snippet": "Ruský opoziční politik a místopředseda strany Jabloko Lev Šlosberg byl odsouzen k 11 letům a jednomu měsíci vězení. Trest dostal za účast v protiválečné debatě a za sdílení příspěvku na sociálních sítích. Jeho případ je dalším příkladem tvrdých represí, kterým v Rusku čelí lidé kritizující válku pro",
+      "published": "Tue, 18 Aug 2026 10:42:35 +0000",
       "lang": "cs"
     },
     {
-      "title": "Halgato vyjadřuje úctu, lásku, smutek i bolest. Vzniká film o mizejícím žánru - Headliner CZ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3RFQUQ2MWlSVXNWTlg1bmUyckRIUVZab3doczhyeGIwb0hSU28tcmkxSmJjTnp4YU8weWdEVmZfQzl0cUlBWk9ZaWJrZ2NQUTZ2eHA2am5lZ0pwSnIwR1luTGVocUVBMWpsOEZlNDhLSUFzYl80T0xRbjhLenk2Q2FNZVB2V19Mcm5xS0NLc1pGX2lNYnFRenRLX0NBSEdiS2xYSVNkbkt4MDZa?oc=5",
-      "source": "Headliner CZ",
-      "snippet": "Halgato vyjadřuje úctu, lásku, smutek i bolest. Vzniká film o mizejícím žánru Headliner CZ",
-      "published": "Tue, 18 Aug 2026 07:07:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Romský filmový festival IROFF se vrací do Prahy: Nabídne pět premiér i otevření české pobočky IRU - Blesk",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNT2VKOXd5ZWV5Y1Z3ODBzQXhNNkxHLTVPekdkT25pVk4yQ1lVc3pwNXdTSDFManRBLUIyYlZVR3BJZVBCc2JNR2huZFBPUUVhOXczWTc5N0w1YUUycktVajFqSGM1MEEwanVwMDJNRGdFakJYTzlhQ2xzR0pCVEtoVDBOUkdMSE5OcnRCR1BUelBwRnNXTWdSakZoTkE3UVZuaWlLOHVQbWdVWXhUd2lYay1ncjBxc084dlVLdnJPUmRObG9CN0c5eVA5dU1aVWRfS3ZWbmlfV0JJclVaTmR4N2FBTnlsSWxmY3NPVkluc2dDS25QQmlvTEsycFRyTGNMNURtSQ?oc=5",
-      "source": "Blesk",
-      "snippet": "Romský filmový festival IROFF se vrací do Prahy: Nabídne pět premiér i otevření české pobočky IRU Blesk",
-      "published": "Mon, 17 Aug 2026 15:17:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Ministerstvo hledá zástupce Romů do rady vlády. Polovina členů rezignovala kvůli obavám - iDNES.cz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkZOemo0TmZJYVRyRnB4ZFdYSTZjQi1yZVJPdnN6RGJtUDBiU3FiZzN0dS02bWI1WVllaDh4REh4LUhsd09MV3NHX0h3MGhLdGtIQlhqTjJJVU1tVEFaZWdiU25ZcnVBVDRlUVQyOGtoa1dGbzV6X0lFWnVPMHllbXNlYXhNc2RWMzZnLW52R0t1TGZIWHJhNWQ2T19EYktxaWs5MjZtU0ZUWEtvQUtz?oc=5",
+      "title": "Vítězný nástup, živelné fandění i hádky. Romský fotbalový klub je zpět na scéně - iDNES.cz",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjBHY25uWEhScnhzNnl2d082dzNZdllsOERHb1dJaHozMGpUbnlFcGptNzZBVG91ak5sZ25fekJBd3JZektwZU9NcFcyQU02ajlrRFNnV3phR2luMDNSOHBwc1BCdHkyNVNyN2VrQnhhUTExaUNTUHJybW4tS3pZQmhVRTBuNXBiS3ZDbDZtczNIemJneXZhSy1heXZNQjJjNURaSEwxTVFPS3VIOWpUMVRCVW4?oc=5",
       "source": "iDNES.cz",
-      "snippet": "Ministerstvo hledá zástupce Romů do rady vlády. Polovina členů rezignovala kvůli obavám iDNES.cz",
-      "published": "Mon, 17 Aug 2026 10:14:00 GMT",
+      "snippet": "Vítězný nástup, živelné fandění i hádky. Romský fotbalový klub je zpět na scéně iDNES.cz",
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Romský filmový festival IROFF se vrací do Prahy: Nabídne pět premiér i otevření české pobočky romské unie - www.prahanadlani.cz",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMF9IaWQzZTZHdDhpNVAwZDk3SjlfbTNOYUR3R3M2amFubnJaOFV2X3BTOEZEcGJEUDVHTXJhR0tNdG9RSExhai13V05xTDRsalpBVFJIaG9GM3JHQ3pVMkR5ZVJmdXJpM1NqZFBjVzhzZXBYSThiOXJIeVJPc012YXJMSWJTSEJWQVprX25jWkZiZDdPenhyRFJkbWJod3dkU1RDT3B3UmF0dWJ0OEpWNGxNaVI2OG1wR182WmhxZ0xvODcwb0VjeXM5QndRbnV5eXk5X2RwZ0s5VEdKSE95YTZQY2FKRHFDX05zVWNlTzRLdzVOQXfSAfYBQVVfeXFMTzBfSGlkM2U2R3Q4aTVQMGQ5N0o5X20zTmFEd0dzNmphbm5yWjhVdl9wUzhGRHBiRFA1R01yYUdLTXRvUUhMYWotd1dOcUw0bGpaQVRSSGhvRjNyR0N6VTJEeWVSZnVyaTNTamRQY1c4c2VwWEk4YjlySHlST3NNdmFyTEliU0hCVkFaa19uY1pGYmQ3T3p4ckRSZG1iaHd3ZFNUQ09wd1JhdHVidDhKVjRsTWlSNjhtcEdfNlpocWdMbzg3MG9FY3lzOUJ3UW51eXl5OV9kcGdLOVRHSkhPeWE2UGNhSkRxQ19Oc1VjZU80S3c1TkF3?oc=5",
-      "source": "www.prahanadlani.cz",
-      "snippet": "Romský filmový festival IROFF se vrací do Prahy: Nabídne pět premiér i otevření české pobočky romské unie www.prahanadlani.cz",
-      "published": "Mon, 17 Aug 2026 16:44:23 GMT",
+      "title": "Po Glastonbury film. Oto Bunda zachytí mizející žánr romské hudby plný lásky, smutku i bolesti - Headliner CZ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFAzcDZYRXdwUHVFRGpYSmFaM0VCOGVMOTFMX1BOVUNFR3IxZ2JrTHJYVkhSU0JhVE5zSEd6RDh4NnkzQVMxbTFYZ2VTTlgxTVZMUU1jcnE5Tk1ZOGJrV2VVRDlQc2tQS0VkRXZMODhGMVJCTkV4NWJYc0Zfd0JFWDIxSkI2dTBKdzR2c2J5Z1NibFliQW9UeTNNZmtrOTZybHFadDhqV0Nkbzg?oc=5",
+      "source": "Headliner CZ",
+      "snippet": "Po Glastonbury film. Oto Bunda zachytí mizející žánr romské hudby plný lásky, smutku i bolesti Headliner CZ",
+      "published": "Tue, 18 Aug 2026 07:11:41 GMT",
       "lang": "cs"
     },
     {
-      "title": "Od září budou státní muzea a galerie první neděli v měsíci zdarma - Finance.cz",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd29pSzh4eEtzQzBvZkdteUxRQW1fZzRpc18zWjdWV2tSUkJqUXp6MWtoRXNfNURtS0g5OHVVVGQtNVItTi1OTlVVMTZNVi1oaTNYcEF4b2VHekhBRGhmMUZucElVNVBsREhUV21UQnVBdzl2WkpSZldXTk5HU0tQbm9pY09HWXdnOUdXeC03NnZEc2taTXZTaC1yd2ZlVTRH?oc=5",
-      "source": "Finance.cz",
-      "snippet": "Od září budou státní muzea a galerie první neděli v měsíci zdarma Finance.cz",
-      "published": "Mon, 17 Aug 2026 17:25:56 GMT",
+      "title": "Jak krajní pravice posiluje svůj vliv v EU – zevnitř | 18. 8. 2026 - Britské listy",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEVOR1dUdFduNG5Nc3hhc2tFOXZxMmlraVJpRl80TUsxczlxbXR0MzBwMHhDYlZodTctai1vQXprUTZLY2h6S0dFcmZvcmFqaGFZT2M0VXpTNlhMRTJrcjdpdU5weVQyV2hTdktsVHI0OFluaThuSno2OTZhUWhkVTl1WlctazFIblZBYw?oc=5",
+      "source": "Britské listy",
+      "snippet": "Jak krajní pravice posiluje svůj vliv v EU – zevnitř | 18. 8. 2026 Britské listy",
+      "published": "Tue, 18 Aug 2026 10:53:58 GMT",
       "lang": "cs"
     },
     {
-      "title": "Kultura podle Muska: Rasistický Občan mstitel je tak špatný, že se ho zřekl i herec nařčený z kanibalismu - Reflex.cz",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nNjJ4azFGdVhCaG1IQlRtNVpOTHpjNjBuSWZoXzdqRFdSTTU2WWZlSTF5VkR3LWxQYTNyQ2swQWF0RW9NRklBOE5BZ3NrbUh4?oc=5",
-      "source": "Reflex.cz",
-      "snippet": "Kultura podle Muska: Rasistický Občan mstitel je tak špatný, že se ho zřekl i herec nařčený z kanibalismu Reflex.cz",
-      "published": "Mon, 17 Aug 2026 14:11:13 GMT",
+      "title": "Vražda s hákovým křížem a hajlování. Bulharsko šokovaly případy neonacistického násilí i ruské vzory - Deník N",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZW50Mno2bDlHaWNia0tWNW9jYjNaSm9XYktiZENjN09jNHZ5X3RLeVA3Y3JTbXFMUUFHb0VVN2ZReEdfRS1wdEFNSGxEWDRCU002a3pPYVkySGtVaW4tUndPUUJiS2xXbDFZUjYtN3gtRDQ2cWVsbkpGZHZMU1paNmYzcGlWVVZna3dFdG8xaUo0bUhxb1hSblcwVmhjeW9ITTYyLVNUcTZoelpTTEd6U05BMnlKLUk4ODQyVm1rWTB3OFhK?oc=5",
+      "source": "Deník N",
+      "snippet": "Vražda s hákovým křížem a hajlování. Bulharsko šokovaly případy neonacistického násilí i ruské vzory Deník N",
+      "published": "Tue, 18 Aug 2026 09:12:32 GMT",
       "lang": "cs"
     },
     {
-      "title": "Německá vláda plánuje reformu tajných služeb. Více pravomocí budí obavy z nového Gestapa a Stasi - Echo24",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaUZLN3hkWlYxZkQwS19NZnFsaEgzSXpZNWNuOTJ5MDJvbVZONzZFY3VONmRpSFdabk1JYWlaSXFSY2JKZjdYVFZqSV83Wl81cXhBalhUdHFseEJFd0JGcjkyRmIwZ1UwQkZEUE1WaFRHSVVXMnRlVV9RUFMzeVZFZE9tNXQ0ZHowaGpjMGVoTFBJbEEta2tUaGo1RHdyOUtycWhuTGczLU9JbGN4X00w?oc=5",
-      "source": "Echo24",
-      "snippet": "Německá vláda plánuje reformu tajných služeb. Více pravomocí budí obavy z nového Gestapa a Stasi Echo24",
-      "published": "Mon, 17 Aug 2026 22:03:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Vítězí ve Francii fašismus? 3. část - Anarchistická federace",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VlhMeTExLXlrWXBraEJFdzFUampUV2x5SG5PbGVkX3E4TTM0WlZHNzlXakpxVURUOGM0STJQUnZuV0pfZEgzb3JyMzB2UW5vbmp4YllpcG1DNzFVMmNxXzR4dVI3ZFN3LWVvVExjaFA?oc=5",
-      "source": "Anarchistická federace",
-      "snippet": "Vítězí ve Francii fašismus? 3. část Anarchistická federace",
-      "published": "Mon, 17 Aug 2026 14:57:34 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Belfast, nepokoje, krajní pravice - foto 2 - Newstream",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQeERZYThGNDRtUlNsQnJDWWVhaU1fS0xUYk9fdnh5RVVkbjRUVENCZHMtSHpBWERCZ2VWSk1pd0pKR0FwV0RZQlFGNEo5azhpRlJaSllsWWhIdEFJMnlaTGhvelp3eS16N1I3U1RiTkUtX3Fwa1pWTFhzVzRxMTVSREwyUU1ZUFIxV1BnX2JOSzItSUJ6bWk5WmZtQTZfdnZRblRSYllDZTB4OTlrZjBjdDJseUJCTnFNVy1Id1BqcEp4ZXZjSTRvRGdUQTVwUUFKZVdrTnhacURkWjg2Ny00TldMZlh3ay1NRXJxOWRydk1mSzJoek9XbGpoMVkwbkZvbXNBZmZ0aF8tckZBZDMxT3I5UWdib0tubVkwNnR5X2JvT2pGalc2dGZLMFk2empReHh6dmhYWUIyMTNuWjNzM3JtTUlMOXNMZnZkYU56WTk4Zw?oc=5",
+      "title": "Belfast, nepokoje, krajní pravice - foto 1 - Newstream",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jYUZVb0ZFMWpXZjJKd0ZDUHBFZ3FFQngyTi1sT2dqeEEweDg3bGhsd2Y1eEtyWVJhVERiTUNrRTRaZUo1VFdFRFBvZlFReTFXem0zclZBZS1lSkhfODBVczBhWHJLb3l0OTVYeDBhOGktdw?oc=5",
       "source": "Newstream",
-      "snippet": "Belfast, nepokoje, krajní pravice - foto 2 Newstream",
-      "published": "Mon, 17 Aug 2026 06:37:57 GMT",
+      "snippet": "Belfast, nepokoje, krajní pravice - foto 1 Newstream",
+      "published": "Tue, 18 Aug 2026 09:52:15 GMT",
       "lang": "cs"
     },
     {
-      "title": "Prezident podepsal změny v superdávce. Podpora na bydlení se nově spočítá podle okresů - E15.cz",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0sxMGR4SnBlM29JdDJVMkJMcGpxZGZMZHNXelBwZVR1d3BSSmdod3haMmlsVXhGbS13WElXM2FIeXE2UU41aENyMVZiRWR6Vlk0REVZaFQ0MmgxT0FXV0VWWHNBNHFseW15dTFiOVdpOEJ1aEo5MzFYa0lCdFZjbWkxTEpiQ2VFWG5xZW01N3NLY3pBbnFJay13bWhQOHVjZkZBSUVlNEk2SnVjZHd3VHQxLVZIUG9qT1kzM3BGaU8wcDU5RW9HYmw5ZmZpZzlVdHVOZ2dzSQ?oc=5",
-      "source": "E15.cz",
-      "snippet": "Prezident podepsal změny v superdávce. Podpora na bydlení se nově spočítá podle okresů E15.cz",
-      "published": "Tue, 18 Aug 2026 06:20:00 GMT",
+      "title": "Ubytovna, kam se podíváš. Co ukazuje plzeňský obchod s chudobou - RESPEKT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXkzZ2lXWjlWWTZ1M0Etb3ZObnRXNExGYldBeno0SGZHd0FQVDEzWUM0aTV5LTJtTFZZaUd1MW1iblVFSGp2S1dTbXlkcGVlc0M4NGxpaXA5VXlaaWdMUml4QjZuVEFoNjFKcnVTaU1CWEE1ckVPanNieVRKV1EyNVVuYzVwb29zOXVBWldZcmFFQVQyd2ROS2J3OA?oc=5",
+      "source": "RESPEKT",
+      "snippet": "Ubytovna, kam se podíváš. Co ukazuje plzeňský obchod s chudobou RESPEKT",
+      "published": "Wed, 19 Aug 2026 07:04:59 GMT",
       "lang": "cs"
     },
     {
-      "title": "Slabá superdávka akceleruje dávku MOP. Ta je na rekordu - ZdraveZpravy.cz",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQREdLOUh2N0NLVElmR0xQQnphWVBsaktYanVuWndPLUV0TTQ5SW50UDlIZFJUaVBtOFhLdzdnYmdYTFdUVVdrVGdDOFVJZ2RFZkZHWmpQSG5NcGxINWI4cGRhZ19EMmMzbGZpZ244cWFlR1JEa1h3cVo4SFNSa1BfTndUUmxEdUZxbUp2dDd1akRxM3NwVjlmdFp3?oc=5",
-      "source": "ZdraveZpravy.cz",
-      "snippet": "Slabá superdávka akceleruje dávku MOP. Ta je na rekordu ZdraveZpravy.cz",
-      "published": "Tue, 18 Aug 2026 07:00:34 GMT",
+      "title": "Krvavá spirála. Po masakru v letovisku se Španělsko bojí odvety romských klanů - Aktuálně.cz",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnFudGJIY2dkRlN2MkN4ZzU0emc4YUJFbmZDRWVsdmZOOGMxRVBTaEVQaXcwWmJTQjdFbkhzZ0hBR0VJYjEyYTJvdmllbUhQdy1kWldmd1hQSTJKck9vVTIweVpObDBZU1o5THFkZjNVVWF2cTFzY2pWenA1REFueUhYbXJOYTF2WS1RUUtyLVQ0TnpTZ19kVVVxMnFXMmZqdEpBNGpEVDlpN09JNWNoOHZ3VEtwbThBZzA1N2pHa3B3d0VjaUYtYThKdHF3emtZ?oc=5",
+      "source": "Aktuálně.cz",
+      "snippet": "Krvavá spirála. Po masakru v letovisku se Španělsko bojí odvety romských klanů Aktuálně.cz",
+      "published": "Tue, 18 Aug 2026 10:55:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Pavel podepsal růst rodičovské a podporu na bydlení v superdávce - seznamzpravy.cz",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDIybGtJZmc3MUZKUDVyTmZQSk9MUzEyUk1sUm1yaGdYSE5XbWZpTEh4YmtmOExOWmxUTWRVWjZ6UGU4Sl9kVGdiLTZvdGhsOHVvb1Q1aVl0djdrY1Zxa25CX0FPT0ZRNExkMDNIOFVEN1V4XzZsUDRFZGNVQldUYWY3ZW0yUEZEMWdBY1U0Zlc3c1NJNkJZX3FrdVhFYnl4a1BPN09YSlltelRjeU1leHJKT1RCLXE0Tm5ZaHRlenZ4U0IyYUE?oc=5",
-      "source": "seznamzpravy.cz",
-      "snippet": "Pavel podepsal růst rodičovské a podporu na bydlení v superdávce seznamzpravy.cz",
-      "published": "Mon, 17 Aug 2026 15:17:20 GMT",
+      "title": "Prezident podepsal stanovování podpory na bydlení v superdávce podle okresů - Advokátní deník",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWU2bzRNRncxV1g5TnRMMjBCamhjSnljUXhUMTcwZG8wUHdlcXliNVZBelJZNG55bF9NYnQ2ZGdiVzI4UjBJLTZScDNiOTNRTUpaZVg3cXFORkpFTnFtcTBWLUs3bk8za1RLaFR2cFFtbmNGX3JDRGJzSWJrbVBRNS10T1UxUG1FV3AyNGVWTlA2R0VhaGpGbTlkbTc5OTRMMzI2bjRWQ255eC15Nm1lTkFiSQ?oc=5",
+      "source": "Advokátní deník",
+      "snippet": "Prezident podepsal stanovování podpory na bydlení v superdávce podle okresů Advokátní deník",
+      "published": "Tue, 18 Aug 2026 08:27:37 GMT",
       "lang": "cs"
     },
     {
-      "title": "Změní se rodičovská i systém podpory v superdávce. Prezident podepsal zákony - Novinky",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3ZLeEF6dlNPVGVoQVBUTC1wX2s3NlFmQjNzNzlfaXloMU5kLTlZSUg0Q0NwWFhqUVplaFlQRDdSdDd2V2JZYWZPcVZaSEdFa3BaTXJVWEJ1V0I4alhzOFVjaXFBaVQ1RTdzYnNKSzJpamhrbXVaMnBfa19NaVNtaFo1VmdjZGNaUjlWMWhYYWlSOTBwVEFjMEV3enB0elBpU2pudXJpS0EtLVRkenJzeEdqa2FZelRxQzcxZkh3?oc=5",
-      "source": "Novinky",
-      "snippet": "Změní se rodičovská i systém podpory v superdávce. Prezident podepsal zákony Novinky",
-      "published": "Mon, 17 Aug 2026 15:47:35 GMT",
+      "title": "Pavel podepsal změny sociálních dávek. O kolik vzroste rodičovská? - REFRESHER.cz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRnprYy1YY20xMUExeHoxREhqcmx6bXV2YmY1WVY4WmJmai1LcXNyWUV2WndlbkpHT1hoU2VYdlNRd3JrdVpySll2akU4d1BrNS1rQXQ3amw1MTdscFBXdGR2WXBQZnhyM3o2a2xUamlDb2twWm1WQ2NtTnNVTENiQ0h5MDFIVHRrbjlrdWNsSW1zYklSemlEVVQ4aXNFejhjRlE?oc=5",
+      "source": "REFRESHER.cz",
+      "snippet": "Pavel podepsal změny sociálních dávek. O kolik vzroste rodičovská? REFRESHER.cz",
+      "published": "Wed, 19 Aug 2026 05:16:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Superdávka změní parametry. Pocítí to samoživitelé, ale nejen ti - ZdraveZpravy.cz",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTYwbHFJVjRhaHNubjZVUGpJMDJJRlpwTGVmOVJueXRTMVd1LXlVZ1lxMFIzdzhBV0l1dTJOOG1JMWxGTGR0RmF2UTVIMVZDaFo2Z3V2RGRGMVRUU09TakNlY1o0SkU2SzJpS3VPcFpoUTFQd18wR29zQ01HR0N6cUJzWXI1VEx3SGI4aWRuU1g2Y0tOc29QdmlaN1dDMklCY2xJVFVMSUpQcW0zS1E?oc=5",
-      "source": "ZdraveZpravy.cz",
-      "snippet": "Superdávka změní parametry. Pocítí to samoživitelé, ale nejen ti ZdraveZpravy.cz",
-      "published": "Mon, 17 Aug 2026 16:13:45 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Spočítali jsme, kolik dostane od státu 4členná rodina, kde ani jeden z rodičů nikdy nechodil do práce - EnergoZrouti.cz",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVRMN3lmWW8tYVB1WXo1TWc2VloxREhVSVRfS3NkUnlZSEYyR3JidGRhOUVYNFBHdXdtbHNPZmE0a1FKOG9Bcl9tREtER0xULS0ycGxDbkY4bW9iRGU5c3BiUU9iTG1rLVZjVmRnN2czU0o1WEE3bGI3RGQ1NjlPeGFkZWc1MnRuTU5jNW94UVVqakpSaUZja3ozdXVZLThLeGNv?oc=5",
-      "source": "EnergoZrouti.cz",
-      "snippet": "Spočítali jsme, kolik dostane od státu 4členná rodina, kde ani jeden z rodičů nikdy nechodil do práce EnergoZrouti.cz",
-      "published": "Tue, 18 Aug 2026 04:43:01 GMT",
+      "title": "For Arch 2026 představí osm oblastí stavebnictví. Zaměří se i na dostupné bydlení - Dřevostavitel",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsU3NiT2h2RG5SZ3hxZ0dvdWdwOGpCUnR1OE5BamZ1Z1VoT0VBcnVNaUl4bVh6czI1RTdtOUdZN3pieGQyQVFYVXJjQjMyVnE2ODFDRnhmMDhzZmlxRmc?oc=5",
+      "source": "Dřevostavitel",
+      "snippet": "For Arch 2026 představí osm oblastí stavebnictví. Zaměří se i na dostupné bydlení Dřevostavitel",
+      "published": "Tue, 18 Aug 2026 11:15:00 GMT",
       "lang": "cs"
     },
     {
       "title": "Děti chceme, jen si netroufáme je mít. Co se stalo s naší představou o rodině? - Flowee - Flowee",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1BuRnZFczh6RzhvYW8zemttZEtNS0swZkctU1dhc1k0WUswbHFWRXRNR0N2ZW96YlBuTFZ0ZDV0bEFIaVp3a3R6c0JTazhSSVNqS1Zka0NmRDhsQlZYVkNhYzl4YlR5MkYzTDg2d3BSQm1xM0pobmZiZjF1dmtsb1pRd1V3YUsyY2dKN2JneGxCajM4S29LZEM0aFZSOE05UV9mazZzcW5RNUVjTTJrdU5jRUzSAbQBQVVfeXFMTndQbkZ2RXM4ekc4b2FvM3prbWRLTUtLMGZHLVNXYXNZNFlLMGxxVkV0TUdDdmVvemJQbkxWdGQ1dGxBSGlad2t0enNCU2s4UklTaktWZGtDZkQ4bEJWWFZDYWM5eGJUeTJGM0w4NndwUkJtcTNKaG5mYmYxdXZrbG9aUXdVd2FLMmNnSjdiZ3hsQmozOEtvS2RDNGhWUjhNOVFfZms2c3FuUTVFY00ya3VOY0VM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRnVfN2NWRGo2VW85bEF2U3RLS1p3RkZsaXdFaG1rUWVULUJYSVJwaFFKMm51X3BWb1Rudk9XN1I5WW5xTEUwQlJwdzc5MlZ1YkhWbFNsa3ZRWGxCTU5GTlY0a0t2OE42OEtiSkNib0ZNa2l2Mk14ZFVzT0ZQa29xX3lRRklxN3NBc2VGRTFtWU1aQzlPblFzYkk0dkJpcnJuY2lPOTFEdmdNX21uSEZJ0gG0AUFVX3lxTE53UG5GdkVzOHpHOG9hbzN6a21kS01LSzBmRy1TV2FzWTRZSzBscVZFdE1HQ3Zlb3piUG5MVnRkNXRsQUhpWndrdHpzQlNrOFJJU2pLVmRrQ2ZEOGxCVlhWQ2FjOXhiVHkyRjNMODZ3cFJCbXEzSmhuZmJmMXV2a2xvWlF3VXdhSzJjZ0o3Ymd4bEJqMzhLb0tkQzRoVlI4TTlRX2ZrNnNxblE1RWNNMmt1TmNFTA?oc=5",
       "source": "Flowee",
       "snippet": "Děti chceme, jen si netroufáme je mít. Co se stalo s naší představou o rodině? - Flowee Flowee",
-      "published": "Mon, 17 Aug 2026 15:13:57 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Známe vesnici roku 2026 Pardubického kraje - Náš REGION",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kSVg3dmZuYnhNWmRiNldNY1BYS0ZITnoxMHJVelUtZEdyQzJsU1pkb3JTb1F3NDlBbkZ6bkItTUhOVkdrTnVLelhYcktPQVhac2lZaFgwR194ZVBiU0JMTzhVbmN0QnNFektmYzVFV3ZQcl9rczlLZTk5dw?oc=5",
-      "source": "Náš REGION",
-      "snippet": "Známe vesnici roku 2026 Pardubického kraje Náš REGION",
-      "published": "Mon, 17 Aug 2026 08:16:19 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Ombudsman: Věková diskriminace na trhu práce - ParlamentniListy.cz",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXdaa3dzS0lTREc0TkxPdnQtOFZmRFRacUxQWWVYOW5laVZDaWVWVjdlYWdZZGw5aTdXZlF1ZE92akhMR0g1QlQtSUZXQ190eURGX3dUM2d0akV0MlZvcU50cXYzdjF2V0NRbU9icXdXSXdEVkNyaWR6R3A1V0FsOE04QUtsS1NOelpQV3VKeW9XMFpCNEFfS0lZZWFYTFlxNkliQVFR?oc=5",
-      "source": "ParlamentniListy.cz",
-      "snippet": "Ombudsman: Věková diskriminace na trhu práce ParlamentniListy.cz",
-      "published": "Tue, 18 Aug 2026 05:27:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Věková diskriminace na trhu práce: Začíná už od 40 let! Rozeslali do firem 4000 životopisů - Blesk",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUHh2NXN1STJpNmFMOVh5Y3g1QlV1ZXZRRU9iT1NoaWxCOEJ1ZzluN01WeVFtR0tuSkljWDhsUWoteGdmWFJTQ1FkUEZQZ1ZPTUpIc1U0a1VSTEVtaXIwWlhPSTZjSThXTy1WNUdQOTZpNHVPWFByUUduNmkwYkpJN0o1U3F5Ny02MkY4clpsYWFjSE9pN0RhRE5FTlVIaE1HVUdYMHZ3ejNYZFFaWm9mNDZJMTRCSTYxeWY5SWpnMm9pQ1ZEdW1fV1N1Wm9sS1FVel9DNzg1NTBrUFFy?oc=5",
-      "source": "Blesk",
-      "snippet": "Věková diskriminace na trhu práce: Začíná už od 40 let! Rozeslali do firem 4000 životopisů Blesk",
-      "published": "Tue, 18 Aug 2026 03:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Výzkum odhalil diskriminaci na trhu práce už po čtyřicítce. Roli může hrát i jméno uchazeče - Finance.cz",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWS1XSE1iVEVQb2xUU2owODcyd3cwdFVhNUdXbjNtQzJ1WmZKRW1oTlJFeldNaHJlamJJMFZ0b3ZWZlAzTTlIT3BGbFFNaEYwbHVYZ0laQk5LSjZFWUl3Vk40NWI4cHBGal8zUzVsTW92Wkx4TF9kNGVUT2g3aXN2NDJ1R1lJdWdMZndxVGd0aWJEQjJUMk5GMDlTa0VJTmNudnhMTk1pUjRKaWRvd2d6X1pjcFNEaTdVZzdtc0pFaTI2QQ?oc=5",
-      "source": "Finance.cz",
-      "snippet": "Výzkum odhalil diskriminaci na trhu práce už po čtyřicítce. Roli může hrát i jméno uchazeče Finance.cz",
-      "published": "Mon, 17 Aug 2026 10:41:08 GMT",
+      "published": "Mon, 17 Aug 2026 15:00:52 GMT",
       "lang": "cs"
     }
   ]
