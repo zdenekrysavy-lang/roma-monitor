@@ -1,335 +1,263 @@
-# Kandidáti — 2026-08-19T09:25:29+00:00 (83 položek)
+# Kandidáti — 2026-08-20T07:30:46+00:00 (65 položek)
 
-_Zdroje: Google News 158 · GDELT 0 (rate_limited) · feedy 25 · watch 4_
+_Zdroje: Google News 170 · GDELT 0 (rate_limited) · feedy 28 · watch 3_
 
-1. **Roma Film Festival IROFF** — https://rroma.org/feed/ [en]
-   https://rroma.org/roma-film-festival-iroff/?utm_source=rss&utm_medium=rss&utm_campaign=roma-film-festival-iroff
-   The IROFF International Romani Film Festival will return to Prague from September 10 to 13. After last year’s zero year, […]
+1. **Roma TV** — https://rroma.org/feed/ [en]
+   https://rroma.org/roma-tv-2/?utm_source=rss&utm_medium=rss&utm_campaign=roma-tv-2
+   The article discusses the fate of Roma TV in the Czech Republic, which aimed to provide a platform for Romani […]
 
-2. **Neo-Nazis in Bulgaria** — https://rroma.org/feed/ [en]
-   https://rroma.org/neo-nazis-in-bulgaria/?utm_source=rss&utm_medium=rss&utm_campaign=neo-nazis-in-bulgaria
-   The rise of neo-Nazi groups in Bulgaria, particularly the ‘Blood and Honor’ club, and their connections to a broader culture […]
+2. **Corruption?** — https://rroma.org/feed/ [en]
+   https://rroma.org/corruption/?utm_source=rss&utm_medium=rss&utm_campaign=corruption
+   The article discusses the alleged corruption and mismanagement within the Romani Party in Vaslui, Romania, highlighting the lack of progress […]
 
-3. **Really???** — https://rroma.org/feed/ [en]
-   https://rroma.org/really-34/?utm_source=rss&utm_medium=rss&utm_campaign=really-34
-   A Roma settlement in Braća, Serbia, is being evicted. Instead of being offered alternative lodgings, the legal team of Initiative […]
+3. **Relocation – Slovak View** — https://rroma.org/feed/ [en]
+   https://rroma.org/relocation-slovak-view/?utm_source=rss&utm_medium=rss&utm_campaign=relocation-slovak-view
+   The relocation of several Roma families from an illegal settlement in Košice to Hungary has sparked political support for local […]
 
-4. **Travellers in Switzerland** — https://rroma.org/feed/ [en]
-   https://rroma.org/travellers-in-switzerland-11/?utm_source=rss&utm_medium=rss&utm_campaign=travellers-in-switzerland-11
-   The municipality of Wädenswil in the canton of Zurich has opened a stopping place for Jenische and Sinti travelers, following […]
+4. **Relocation – Hungarian Reporting** — https://rroma.org/feed/ [en]
+   https://rroma.org/relocation-hungarian-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=relocation-hungarian-reporting
+   Lenka Kovačevičová, Mayor of the Košice-Lázně District, claims there are 15 illegal settlements in Košice, housing around 2600 people in […]
 
-5. **Indicted for Racism** — https://rroma.org/feed/ [en]
-   https://rroma.org/indicted-for-racism/?utm_source=rss&utm_medium=rss&utm_campaign=indicted-for-racism
-   Rui Cristina, the mayor of Albufeira, faces charges of discrimination and incitement to hatred after controversial remarks about the local […]
+5. **Clashes in Greece** — https://rroma.org/feed/ [en]
+   https://rroma.org/clashes-in-greece/?utm_source=rss&utm_medium=rss&utm_campaign=clashes-in-greece
+   Two police officers were slightly injured during a clash with a group of young individuals attempting to free an 18-year-old […]
 
-6. **You Don’t Belong Here** — https://rroma.org/feed/ [en]
-   https://rroma.org/you-dont-belong-here/?utm_source=rss&utm_medium=rss&utm_campaign=you-dont-belong-here
-   “You Don’t Belong Here” won the Golden Leopard for Best Film at the Locarno Film Festival, presenting a moral drama […]
+6. **Neo-Nazis in Bulgaria** — https://rroma.org/feed/ [en]
+   https://rroma.org/neo-nazis-in-bulgaria-2/?utm_source=rss&utm_medium=rss&utm_campaign=neo-nazis-in-bulgaria-2
+   The Bulgarian police raides a private club associated with the international neo-Nazi organization “Blood and Honour” in Plovdiv, Bulgaria. The […]
 
-7. **Roland Farkas Selected for the ERIAC – Villa Romana Artist Residency 2026** — https://eriac.org/feed/ [en]
-   https://eriac.org/roland-farkas-selected-for-the-eriac-villa-romana-artist-residency-2026/
-   International Guest Artist 2026: Roland Farkas A cooperation between the European Roma Institute for Arts and Culture, ERIAC, and Villa Romana, Florence. Villa Romana and ERIAC are pleased to announce
+7. **Montenegro – Equal Opportunity** — https://rroma.org/feed/ [en]
+   https://rroma.org/montenegro-equal-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=montenegro-equal-opportunity
+   The NGO for the support of Roma and Egyptians emphasizes that educational inclusion must be measured by tangible opportunities for […]
 
-8. **Capacity Building Trainings ERIACNET4EU September 2026** — https://eriac.org/feed/ [en]
-   https://eriac.org/capacity-building-trainings-eriacnet4eu-september-2026/
-   In the frame of the ERIACNET4EU project, financed by the European Commission, the European Roma Institute for Arts and Culture (ERIAC) is excited to announce a new series of capacity-building training
+8. **Z osady radšej ušiel do detského domova. Pred 65 rokmi vyšiel román o dobovej prevýchove rómskych detí** — https://romanoforum.dennikn.sk/feed/ [sk]
+   https://romanoforum.dennikn.sk/z-osady-radsej-usiel-do-detskeho-domova-pred-65-rokmi-vysiel-roman-o-dobovej-prevychove-romskych-deti/
+   Kniha naoko rozpráva príbeh dvanásťročného rómskeho chlapca, v ňom sa však skrýva ideologický pohľad samotného autora, píše etnograf.
 
-9. **A cigány főzőversenyek jelentősége és hatásai - DIKH Média** — DIKH Média [hu]
-   https://news.google.com/rss/articles/CBMifkFVX3lxTE5jdVNycS11UWFGTWpucnBrMExEUG83Tjc2S1EyTmhLbFUwck5xY2IxTFE0UEFUdWd2dmlLMzRmUGp0OUdmWDhvSG11TzJENjlYa2NEVFgwaTFaZjNBWldUWThDMFQyUF9GRFRGRTlqS2liOUI1Q0lxdFRNdzhGQQ?oc=5
-   A cigány főzőversenyek jelentősége és hatásai DIKH Média
+9. **How Germany Encoded Anti-Roma Exclusion into its Welfare Law - European Roma Rights Centre** — European Roma Rights Centre [en]
+   https://news.google.com/rss/articles/CBMijwFBVV95cUxPak1PaGk3MVBLWGxncHliX2RtdURYdlhua2JEcnhLc1YyV2ozd0FlZ2lmVTdFZS1FQldjZ1RFMVJSdU81dF8xX1plX3VFRmkzQmhkODlxMG5zcU5QYzdGdnhoN1ozOHY3cW5MRVUzdWItNmtWUldsc0RVVzRpZG1DcEFubHY4dk5tZUdBOHFnVQ?oc=5
+   How Germany Encoded Anti-Roma Exclusion into its Welfare Law European Roma Rights Centre
 
-10. **SaS chce, aby zdravotná poisťovňa našla pacientovi lekára - Roma Television** — Roma Television [sk]
-   https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjdCVWNLVHBXRFhieHlHSUhYWWpoV2ZVWTBPaXlKUTh2S0ZDSGdWaDRDakM1ZDhPb3h6U0ZsTGRIcG13alJBZFNrQ3ZjSWg2cFFRMlV3WVVfYXh2WnRET3pWTnZJNklhWDhFZm5LSzI5bm1ORWM0bmxPTnF4QTdZaF9JZW9jazdNNnNJcC11X091Ti03UVdtd1lwa2pkMTVlejdKVjVTRG8yTHZWNTQzZmMwVTlUUXRR?oc=5
-   SaS chce, aby zdravotná poisťovňa našla pacientovi lekára Roma Television
+10. **Fort Smith man, 19, pleads not guilty to having video phone sex on Sebastian County jail system with minor - Northwest Arkansas Democrat-Gazette** — Northwest Arkansas Democrat-Gazette [en]
+   https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFlRMExjaGl0SDVQc0t0NXdhXzBEekx2elJnejFGeklqQlhlRHpoRWJEMFFvcnltNUwydU01RllEb09TcThOcFo5aGpycVA1MnFHNlNVc0JiaWZqMmo0OFE1VjV2SkNnYm8wakJweWg4Y1ZISEVPbnZONlBoRm44X0VWQTFzV18xdnpxYk80X29PaUE?oc=5
+   Fort Smith man, 19, pleads not guilty to having video phone sex on Sebastian County jail system with minor Northwest Arkansas Democrat-Gazette
 
-11. **JBS makes new bid for full control, delisting of Pilgrim’s Pride - The Mighty 790 KFGO** — The Mighty 790 KFGO [en]
-   https://news.google.com/rss/articles/CBMieEFVX3lxTE5rNHJ2UTl0M3lYTlUyX3hnMzhTVFhtWG92RzIwamRhOXRkZ1dHRnVERlQ4NmFIX3BpZWNKZU1hbDhWUmhGNlczR2t1a0VUdlQ4YlVscTkySjBHbzhvODV6TDZYV3pEMmZtYW55Yi0ydzhMT2tRcHlZMQ?oc=5
-   JBS makes new bid for full control, delisting of Pilgrim’s Pride The Mighty 790 KFGO
+11. **Unaccompanied minors at risk of sexual assault in Ceuta - DW.com** — DW.com [en]
+   https://news.google.com/rss/articles/CBMikwFBVV95cUxOWF9wRG5IQVphLTQtd2R4TWlBT2lQSFNVQVRQVHlWY1B6c3VMWlJoVU1hR2o0OUtFbGM0LU5DQ0VuMVBwMXBldDRPVThJX0ZKdVppUmFoWjVhQTVKWUtDMGpoTmx0cFZoSE9yTkhVcVFwWFdSeEFrc2xDdXVxcU1hNmt6N051MFV5eUhPVldzMVBnMUE?oc=5
+   Unaccompanied minors at risk of sexual assault in Ceuta DW.com
 
-12. **A word on words and strained logic - nwaonline.com** — nwaonline.com [en]
-   https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1cwWnl4eUx1VmFpamdvaGVxMnFQZHEzOUFXdkdfWHp0d3hWdmpWdHVxdnFESEVCb29vSTc3ejVPazQ0V1hYcnBwa3dRdzR0Q3RfV2s0OUxRNkdlUDk5Y0FhTmlBNjFBS2NlWm05TmJFU2VHVGh2R0lta29xOEV4dW9rT28?oc=5
-   A word on words and strained logic nwaonline.com
+12. **Locarno 2026: You Don't Belong Here, Who Is Still Alive, Sixteen Moments of My Life, Letter From My Village - Roger Ebert** — Roger Ebert [en]
+   https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHk1Tmc2Qk85eS1XT1pocUU1cVBUaWhBcXpFdlNWUGVobE9TQ040MEJ0OHBPMGUzN09VTXdVNUNMT3pJNUdoSkxDVTJVaHNnX2lncUJXWmJYSDdJeW9Pd0NFYTJzR09VX1pJRm9pQjRndTlZUUs4a2taY3FkSkNQS3QtNFgtS28wR3BuSXMzeG9DWXptQngwd2Rja296UGNNMGN2TFJvTUZvZjdhTFd3SF85V2RCZm5GbkxoYk1Od1hGVzYxR0lPX1l3YS16bllrRGhLRw?oc=5
+   Locarno 2026: You Don't Belong Here, Who Is Still Alive, Sixteen Moments of My Life, Letter From My Village Roger Ebert
 
-13. **OpenAI lays groundwork to compete in Brazil - Valor International** — Valor International [en]
-   https://news.google.com/rss/articles/CBMivwFBVV95cUxONXBVSF80eEhmVWYzeDB0UFppU0t0Q1lEV0pmcnk5TFgxXy1BMzBWSE9taXlKUGI5ZzRGMjV6aGlOblR6R3ZKU1B4Vkx4a0NxTHdmeTQ1dDMtMS1hSVdSaExNV1dtUGdaLVlFWmFWMDRvekhIT1dqUXNTQkJWUERreTNCa0FIRTdPQjNGS3pvX3pNdjRBbUtYSjFKenM0VTFEUnpZNW9qd1NpM2JhYV9HcGNqVWlRQjhuNWlKeUVzSdIBvwFBVV95cUxONXBVSF80eEhmVWYzeDB0UFppU0t0Q1lEV0pmcnk5TFgxXy1BMzBWSE9taXlKUGI5ZzRGMjV6aGlOblR6R3ZKU1B4Vkx4a0NxTHdmeTQ1dDMtMS1hSVdSaExNV1dtUGdaLVlFWmFWMDRvekhIT1dqUXNTQkJWUERreTNCa0FIRTdPQjNGS3pvX3pNdjRBbUtYSjFKenM0VTFEUnpZNW9qd1NpM2JhYV9HcGNqVWlRQjhuNWlKeUVzSQ?oc=5
-   OpenAI lays groundwork to compete in Brazil Valor International
+13. **Albufeira Mayor charged over Roma comments - The Portugal News** — The Portugal News [en]
+   https://news.google.com/rss/articles/CBMinwFBVV95cUxQUWEza3ZxdW00amprYXlWYUNZVXphODBoZmY5WGFweFcwRkQ2VFNLSENBYzBuNExZcWlKWDNyVDNmRnhOUElNS2pfUlRuRjVoeXVhVEtjMkJxczc4QjJKbjNsS1M4bzJYVWp1THVvRl9YNHdiYjk5cjVIZHVGbzdfQlVfbnMzQzNwX2tkRTVKQ3J4TEJCczVxODJyRXJVTVk?oc=5
+   Albufeira Mayor charged over Roma comments The Portugal News
 
-14. **Velvet Blues: Czech and Slovak Romany story collection set for Frankfurt Book Fair - Radio Prague International** — Radio Prague International [en]
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tWUlkSWxINEpUaDc3S21PZnh1VDdLUU1wWlh2SmV3aElZWXppTlVfNWhuVnNZTDBPUDZfdTA3cnRKSkpsY3FRNUJqWDVNZHF1Z2ZpSjd5TXZoUQ?oc=5
-   Velvet Blues: Czech and Slovak Romany story collection set for Frankfurt Book Fair Radio Prague International
+14. **Rengeteg adomány gyűlt össze a civilek tanszerosztására - hodpress.hu** — hodpress.hu [hu]
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1p5eXIyM3Z2QzM3RDhCRll6cTVoeEJRSHVWN1JycDMteC02SDR3bnN1eTlESmJ4QmxUelRISnVEVlVxeGdmb1J5MDJ5UnRiZnFYMVk1YUxoSDJ0amI4MS1rZDc2Vi1FRXJ6eXVfcnAwd2xRdVl6U1lrMDZwWnVDRTk3WjNIOUnSAYwBQVVfeXFMTTVxeEQwaU15dFVWSHczWkJva0pVUVlVb0RIUHRzaGRtQnZsQWFvM1JpNEk4MHBlMTVhZUppb1RjbHI3a1IyQ2dhbGVzVFBPODBfTjltRXhKenExRUt2Ujl2ZU93ajM4aVAwS0tRS1hQMmpwQXVaRXoySmc4VTRLQkV5ZlVyN1MzNzJxSGs?oc=5
+   Rengeteg adomány gyűlt össze a civilek tanszerosztására hodpress.hu
 
-15. **NGO: Investing in the education of Roma and Egyptians is an investment in the future of the country, support is visible in practice - vijesti.me** — vijesti.me [en]
-   https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFZkUG5xb1RjMmIyVDdSZ2pGVTRWZnJ5T2tNR01KcXI0S2luRWx6Nk1HRjR2R3VSWjZnVlM4dnhsSEpOZ0UyNmhOSGVUMFlObmpKaUhvOHdWZ3lzNDhBN3M0aHBPWHVlQmJtdVF6bWpaZmo1UVlyNVl3NHkwWGxyVzlIWUFKUmlBME83enJxZFFuell4Mm9ZemdlYWZxVHRpVjRuemlFT2NmeHJvRTFVZzZKQkpJYzVYdTQtNTd1VC1tSEpjb1JOSEFpb3VIRi1oSkJSdkRKVDNSYjlBQXdsM25mcl9fMmNXOUlEOdIB7AFBVV95cUxPbFZkUG5xb1RjMmIyVDdSZ2pGVTRWZnJ5T2tNR01KcXI0S2luRWx6Nk1HRjR2R3VSWjZnVlM4dnhsSEpOZ0UyNmhOSGVUMFlObmpKaUhvOHdWZ3lzNDhBN3M0aHBPWHVlQmJtdVF6bWpaZmo1UVlyNVl3NHkwWGxyVzlIWUFKUmlBME83enJxZFFuell4Mm9ZemdlYWZxVHRpVjRuemlFT2NmeHJvRTFVZzZKQkpJYzVYdTQtNTd1VC1tSEpjb1JOSEFpb3VIRi1oSkJSdkRKVDNSYjlBQXdsM25mcl9fMmNXOUlEOQ?oc=5
-   NGO: Investing in the education of Roma and Egyptians is an investment in the future of the country, support is visible in practice vijesti.me
+15. **Pesovár 100 ünnepi folklórgála az AGORA-MSH-ban - Vaskarika** — Vaskarika [hu]
+   https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXByWWhmQUtTckNiSEI3dXVISmVVaGJpQzBzZUt6VjZrYmtvS2RVT1ZnbjA0RWd2bXpxTVA3MDIwRGdpR3gtZXVqcEcxN0VtZ2RxcnVQeGVEaTd4M3NDdFA3WEVLU2U3VlVWZDBweTBGeGFfaXBjUDB2SjY1Ym52U001bHdzTzE2TTZtcEhmQi1qcFdjTWc?oc=5
+   Pesovár 100 ünnepi folklórgála az AGORA-MSH-ban Vaskarika
 
-16. **How America’s Racism Has Evolved With New Technology - Medium** — Medium [en]
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1RJQWpyLTUtaTYwNmZ6RXVMSlpIYWE5M2FUNE5YLUVuS3BBQkM1YXFqTktGeW5ZYUhwdnNPaWw5YmZ4WXc0SG40Z0VUZnpqdGpJRUVETXZkT09qV0JmbHhpN1h5c0tzN1dvdG5nRlRzelI4NDd5RzZLajYya2g5TFYtdE5qejhVNnl4SUViQzA4bzdOdkNaSmdrcVI?oc=5
-   How America’s Racism Has Evolved With New Technology Medium
+16. **4 zile, Piaţa Sfatului e despre romi - Buna ziua Brasov** — Buna ziua Brasov [ro]
+   https://news.google.com/rss/articles/CBMickFVX3lxTE9kanVXUnR3OGFnMDk1VnN6VFNOcHlyU1d4a20zNXZWbmtyTmhpSFdSalJKV2gyTm01ZVpQWlpndVVva2tPa0ZaSWFkSnE1WUhUMEltazlZV216NmN0VGUzWGhoMjdLS0VCLXhfV3pyZzFWZw?oc=5
+   4 zile, Piaţa Sfatului e despre romi Buna ziua Brasov
 
-17. **What Does Home Mean for People With No Single Territory Connecting Them? - The Good Men Project** — The Good Men Project [en]
-   https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmxUYXJwdV8wSUFmVkJ4UG5INUZ6bjNpU3ltR0EwWnY4Z1Vrc0hNaHhyODBBWjJhei0wOXVXa2g2dVlLOFhrX0pocWVpblExTFZGSXc4YkZzbDhkcGtjQXFZVTRpWHJLWFliX2l2SEw2a3ByVjZRbEpBaUJOTFBDRFlEN3pJbVhmRkJiOVBYdGNIWW9nNk9scjMtNWgtUW5xWFBNU05EM0hkUm1Gd0NNNGoybGZkUFE?oc=5
-   What Does Home Mean for People With No Single Territory Connecting Them? The Good Men Project
+17. **Teatrul Muzical Ambasadorii lansează un program - pilot pentru promovarea culturii rome, susţinut de Ministerul Culturii - news.ro** — news.ro [ro]
+   https://news.google.com/rss/articles/CBMijAJBVV95cUxPanVmeHR1STBONU1wSUtDd3NqdGIybVRTQjZDakthakJtN2hGYW11bFBFS1hiNHl6aUl0QU1SOG8yRWNxRVlxWXdJN0NDV1ZKZHd3cDVvTmw2U1JnbjZWU2JJTmhRcFpWcXFmeTFTMWNCbEw0SE1mQmc2alRDdmF0ckQyblptWXB6STlzanZPZkNaRGdIVW92d2ZGN0wzX2R3TkFXOVE5ODIxSkxXQWhJNkZkTm01VDVTTTIzb05UQ2V1U0tVUWF3WlRsYkNOUWswemV6QXJOVlRPUE9rUjlSWDJvWDJmdWFSbklxTVBHblJlX3I2MzcyV2xwMUlia0U5QTBVOVctM2Y5ZC1y?oc=5
+   Teatrul Muzical Ambasadorii lansează un program - pilot pentru promovarea culturii rome, susţinut de Ministerul Culturii news.ro
 
-18. **Culture minister announces pilot-programme aimed at supporting and promoting Roma culture - Agerpres** — Agerpres [en]
-   https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcU53T3NPSzgzZi1wZGpsWmIzbEZhNDRXN3ZLb3hTQVhjTUFwVTJiODlJWFc4cTZiZ1lJOS1WT25wYVd3aDFjVHAxQzZJa1VLR0lvLUdOaHM0czJ4TjZHWTBKRzJLNDZTMl9tMUdZMnA3UG9EN3piRDdYTHBvYVByVmhUX1pWVXROU1dIcHF0RDNPbEw5TnN1d1VyQW01MEx1dDVUaGVsWTQ0aHhiNk5BeWxQUnJwemVBR2gxTW0taTN3aDdNN0g1WW9JbDUxckxfQnJR?oc=5
-   Culture minister announces pilot-programme aimed at supporting and promoting Roma culture Agerpres
+18. **Codul administrativ, schimbat pentru a-i ajuta pe primari la alegerile din 2028. O pomană electorală, acoperită de documente - Jurnalul** — Jurnalul [ro]
+   https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXVCVE45ZHF6aDlOWjlPWFEtS255cGVBTUVFZW5fb3hDV0pEeHNhN0FaaEpGUV84SWR3bnprLWg1TDZDcExMeW01XzU5UVZZRFpaYVBHeUlHOUFsYVZJd2R1blU0LXJ1WWhFcXA5b3pOSmlmSVJUdTZXalhvM0VBQ3ZsSklLTzM0dUZrdGdrbU9nVXVlaGtRZnBaazRnbUtDSHUtNExicDdnZGc20gGsAUFVX3lxTE1ZdUJUTjlkcXpoOU5aOU9YUS1LbnlwZUFNRUVlbl9veENXSkR4c2E3QVpoSkZRXzhJZHduemstaDVMNkNwTEx5bTVfNTlRVllEWlphUEd5SUc5QWxhVkl3ZHVuVTQtcnVZaEVxcDlvek5KaWZJUlR1NldqWG8zRUFDdmxKSUtPMzR1Rmt0Z2ttT2dVdWVoa1FmcFprNGdtS0NIdS00TGJwN2dkZzY?oc=5
+   Codul administrativ, schimbat pentru a-i ajuta pe primari la alegerile din 2028. O pomană electorală, acoperită de documente Jurnalul
 
-19. **Orvinio: 43rd Polenta Festival on 22–23 August 2026 - inItaly** — inItaly [en]
-   https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2d6REdSa19jeWR0T3NzWU4wTndfVXFTTHVsTm9oN2V5ZkVYMVQ5blZ6QlJSVGdhb2d5MHctay1LOVhvU0FDZjZseHF0cHBkNWhseXdOWnJLd2RoM0stY2VHd05GTHgweE1aZWktQVFvVGdWWFNMRkRiR3FZakh1RHE3b05mZm5vVTJaWHNLbDllNkZrangxOWJR?oc=5
-   Orvinio: 43rd Polenta Festival on 22–23 August 2026 inItaly
+19. **AJPIS Braşov: De astăzi intră în conturi banii de indemnizaţii - Buna ziua Brasov** — Buna ziua Brasov [ro]
+   https://news.google.com/rss/articles/CBMilAFBVV95cUxPQnh2aEpJU01HaTBZcFQyeVlmRmV6ckl6YTA4dHkwd1RzV2pOOG5neUtoNWhDZ25zZ1diYlhIWkV0aDJmeVpxRUdFeFBOMW5IUm5FdktWeDN5ekZlMG1KMHNxNXdKNkxzSVliTGtXeWxuRjRObU9USHdsdlk2aUhYXzljU0d0NTlHUVY3OVB5WmdkSnQ1?oc=5
+   AJPIS Braşov: De astăzi intră în conturi banii de indemnizaţii Buna ziua Brasov
 
-20. **Pesovár 100: ünnepi folklórgála a magyar és a nemzetközi néptáncmozgalom emblematikus egyéniségének tiszteletére (szept. 5.) - Vaskarika** — Vaskarika [hu]
-   https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDJCX1ZIMDR4d1JQM2xJcUJDSlJjeEtlY2s3YXlfTGx6QWtmWHd1aW5CVDRlQzFkcWZJMmdmby1JYnhJTlNoTXFFRmgwZmtPcmltZ3paNWNfX3hLd0k0NlYxQ0lVc0NOY0dOYUVQUkFVVlFEQU1RN3paU0wyN216WEJSUTJEOWtMUWlIajBiYkVwcGhESjJjS2V5YV92RVA1cDR2SmtYeFFzVV9m?oc=5
-   Pesovár 100: ünnepi folklórgála a magyar és a nemzetközi néptáncmozgalom emblematikus egyéniségének tiszteletére (szept. 5.) Vaskarika
+20. **Ministerul Culturii lansează un program-pilot pentru un viitor teatru dedicat - dailybusiness.ro** — dailybusiness.ro [ro]
+   https://news.google.com/rss/articles/CBMixAFBVV95cUxQalNreXd1VVBaVHFwVGdXX2p2S204bzhyckMzaDJZdzdJc3pfa2M4TXRkcUxWa3IxWkh4N25DVjNvd2dyUGxwV3lCOUNlSnpKaVF1dkRFbXRwUmwyUENjbHIwZS1FV1VDc3pjdHZsTWJZWEJ6cEFwQ2YxSFRudXlvaDJZQUNhWVFzQnJRbWhUNk10YlNRaXhZVmtGeTJXRUNGVnJNYkNtWFV0X1MtNk1TNTViVzZRbVBsWWI3MHVJaXNQRk5v?oc=5
+   Ministerul Culturii lansează un program-pilot pentru un viitor teatru dedicat dailybusiness.ro
 
-21. **Európa szívében jártunk – különleges néptáncest kápráztatta el a közönséget (galéria, videó) - FEOL** — FEOL [hu]
-   https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXZxYjc3NFhjY2xhbnlHSHNDZ1M2MkxIcTI0SXVuczdUQ2pjeDFFWmVNd1dwQmVVUnA4T3QyOWlaUDlsc21NanpUWFRGVVJkSHdSWGh1ZG1hZ2ttZDBSMUxXRGN0SExmV1luRl9YaklBcXZZMW1mN2lIQVNvcmdpWTRIckNnNmFjdnUtNkptM2cxRVo4eVE?oc=5
-   Európa szívében jártunk – különleges néptáncest kápráztatta el a közönséget (galéria, videó) FEOL
+21. **A inceput sezonul nuntilor imparatesti! Cele mai bogate clanuri de romi din Timisoara si-au unit averile - kanald.ro** — kanald.ro [ro]
+   https://news.google.com/rss/articles/CBMizwFBVV95cUxPWG1ZaExZVFNmZEViVnAxNElnWEVVZzdFbFFaTWNGU1N1TFVPQTZWZUM1cmYzT1JIbElfTVRVMV9GVUUwMmF2NGtuY0VJenVyeU11VzJPYTgydnZUdUNhQkJCV2l2ajdOMWsycmtSMFduM3ZCWFpwdy11NUM0UnU1WWt4V1RnOXNrd3NxMlRKZmJtYVlycTFFZUZSRE54TUFCVjNCRlRrRHROdTlqVXZ4dzg3RFBVUjNqWXZWYzBLc25kNENxTW9Qak1vRFhCR2c?oc=5
+   A inceput sezonul nuntilor imparatesti! Cele mai bogate clanuri de romi din Timisoara si-au unit averile kanald.ro
 
-22. **Ministrul Culturii a anunțat lansarea unui program-pilot destinat susținerii și promovării culturii rome - Agerpres** — Agerpres [ro]
-   https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOUtyZmM0OXlTaXU3WEYwazdyNWdnTHdLVllYTkFRYnVzN2cyeUUxYnRSc1hUdnJOenVORFR5WWVWVkZWWTVlRW93ZWFXNG0waThCcXQ4RnZwTHRQMmQtZ0xpZVplX0RPTlc4S2VKNXlxVWIyT1RVNlRUQ1FDMlUzdlo4Y0k2WWhxTnM0NUtTQnlrVENSbzRzRGIwcnhFbC01QXdmR2NYRUItN1JVSHpxSGVON1lTNnVLeXRIVjNIQmdGTWpfajdHZXBSeFZQc1ZjSTJvOEE0eXBMbFpzV1hrNW5mN1lON1lLSXc?oc=5
-   Ministrul Culturii a anunțat lansarea unui program-pilot destinat susținerii și promovării culturii rome Agerpres
+22. **Atacatorii ambulanței de la Recea-Cristur vor libertate după ce au ajuns în arest preventiv - Gazeta de Cluj** — Gazeta de Cluj [ro]
+   https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzltUWZnU0JDZ05RdmtJOGlZVGxjTTJ6MmptOHFDbDV1eWQwRFQ3b29LblZYQV91RGZOTHF4bVpzLWM1OU1OWm9sQ0x2empRTDRrN0xfUXdBRHcyRTBpZ2lVYVgzSEVTS1dnWlF6Um1wYk9NU3hqYzRlWkc3QWRNQmFlbjdmQ21HWnNoanQ4RGZrN1ppQ2NocnAyZHRHSW45OS1yc3FYQ2Z6T3pFY2pJWkxINV9lZTDSAbwBQVVfeXFMUFJ4UHQ0UTk2bnNjX0ZfV2VLanhtOVc1RHMyVkNfekpqTHdOYTNPbVM2X0tXbGdUdVdNNFBkbnY5TlNGOUthMXE1R0Z6NGEtdF9jU2NySkRaaDcyX3VlOWd0UVQ5ZjBIX3duZTYtZkFvRVJiNWc5N3lUQ3NlTmhVYWx6Q1U4R1phUlZBUTFHREIzSGRydlBmdXNQWkV6RlpRSjd6Z0JWRmE3M2JmdGFtUU5sWnRuQnk1d1pQOE8?oc=5
+   Atacatorii ambulanței de la Recea-Cristur vor libertate după ce au ajuns în arest preventiv Gazeta de Cluj
 
-23. **Romi lăpușeni, la cerșit pe Valea Izei - Graiul Maramuresului** — Graiul Maramuresului [ro]
-   https://news.google.com/rss/articles/CBMie0FVX3lxTFBYZkI0dnBiY2pIa2VHaVFod2QwRzQ1d3U1ZDFqdWNONG5GcjZtX3E2YUV0NVdCT3VBNExhVXNxeGpUc1pIRDlwNlRzUFRJc2F5R3BkWWkwMFhPZ3VwdlhxS3BldHpScFFNSVVmWko0TFllTVNERVNWZzNXVQ?oc=5
-   Romi lăpușeni, la cerșit pe Valea Izei Graiul Maramuresului
+23. **UD. Un recorrido por el Pueblo Gitano. 2º Primaria - Conselleria de Educación, Cultura y Universidades** — Conselleria de Educación, Cultura y Universidades [es]
+   https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWDY2SUtaeU94Y044TDlzckJKTGNWSlBKQ2N5eUI0OHUyaVotLVdVOXRVNmw1MVVfcFEyV1lhSEJPaDB0Vk9DSXZzX0lBcDhuZDhiNV9PQkRvQjZUdkNOdURYNzNHR1NaYzZkWGxHVnp6UDNLVnlreTQwRG1lbmd4aWROak9aMG9oUWRWODFPbW5SdjBLc2tWUzVyQXY4c0RteTJiaE1lZ0FQY3pzVS1XLVlGMlVEN1Z4bkhZLUcwLVRXWlBBN2VSS1BmOTdjUlh3dVMyV1hoM1JlZjRodGRGQ1NHc2FRa2xVcE1Xd1JTRngxYUV2OFFNYmJrcUhITlQwZkRQQ1BQRHhJVDlDUEVBZ1pDMEpHaThkLUpoT2xRV3lfNWJ6aTNFVQ?oc=5
+   UD. Un recorrido por el Pueblo Gitano. 2º Primaria Conselleria de Educación, Cultura y Universidades
 
-24. **Polițist din Timișoara, vizat într-o anchetă ce vizează spărgători de locuințe - Digi24** — Digi24 [ro]
-   https://news.google.com/rss/articles/CBMiswFBVV95cUxPc01xeUl3c1hJcGxfeEtscEVNZGJtYnVqOC1OTmZPOXdVajBUYU5EUXoyMjNMMnpUT0Z6R2s1OHgyTV9iV3NUa0w1ODZ6T2NOYVFjWkpvYVU2NkduQjRXWVlKMHIzT2dETWdTQlpQelB1aTh1enR4dzBSamx6VEx4RVpKX1FxTFhCWjdRS0Rrd3lYZDZKRXhnOVFZUnlsblltYkE3RVU3aFFidkF0a2RCcmVsa9IBvgFBVV95cUxPQ2YtVWRGb1p6ZmhFTEJaOEFKakVhM0JXSHZZQ3lqaVpzWFczenNrbjlfVXBkUk12amxsVEZBV1gtVVd0R1B1TFAyRThpcnVkTk9YalB2U3ZnRzF5eVlyTTc3Y2ZZYlJxTTRPMFNyVFlVUXU3azhNaV95WmVDTlhGNVM2a2Y0YnlfTzAxMHd2YXpKQjgzY1o2TkEzaS1XRUxqMjc0a1E1dDdJUGxqc1ZPbVVTVlhienF3TjZsYnZn?oc=5
-   Polițist din Timișoara, vizat într-o anchetă ce vizează spărgători de locuințe Digi24
+24. **Las patatas fritas del mercado de Pino Montano que saben a la Sevilla de antes - Diario de Sevilla** — Diario de Sevilla [es]
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxOczhkcmJ4UVZaRXZJSXp2UEVmeDl1c2FWOUh2aGJoQmVQXzk1ckVjVFhDQTNvWFdXcGdDbmhTRDQ3QU40YmNCRVRlYnBZTWtSOXJsVnowWmo5QkNSQXVBV0JpVWc1Y1Rzc2F4MWNhQjdjSnZlclZNQVFOc3RpWG1VSV84d0xkTmZTUGFuSVU3MmJseVJmNVZDSTlTT1VmVmJB0gGmAUFVX3lxTE1ZakhUbEZSaFpjYkJlUGgySW1XMnMxSUlldF9rVVpnZXpObm1ReWxld1V4dVpUWGF4YUZJRUg1anMzS3B5WDB6UWFmNG83c0d1dGZQME1CWjFVTWE4VWo1dy0yRVFDOXE0aU9odHY3V0llZU9lejE3UEZkSzlHNTVLWVhmdlZEMmVWRUlNRGxxb1dRUG5vYU9RS3FKcGxKazIzR3ZGYlE?oc=5
+   Las patatas fritas del mercado de Pino Montano que saben a la Sevilla de antes Diario de Sevilla
 
-25. **Publicitate - Stirile ProTV - Stirile ProTV** — Stirile ProTV [ro]
-   https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVE5TUNzWHMxWTVVQ09tUG81MlAxQ19tbjhVamQ1ZzhnYWNFdUFtQXhuenZlSVJjT1M0UmZ2NFJXb3M2dEpYaHVtZ0NtemFaczI2YmR3NUhjeGt4ZjRmaUhnV3E4bzhGZnpGeUR3TlpYTjRVM0VwbTBQMm95cHdLYTJMeFV2NU05TmR3Z3hhaHZMbWU5YU8xcG1MeFIzX3lRTzYta0wxUFVVRzd2RFowMGlTUVhpTzVlWTN0WXQ0dU45UUk?oc=5
-   Publicitate - Stirile ProTV Stirile ProTV
-
-26. **Peste 10 milioane de euro date de la UE pentru integrarea romilor din județul Vaslui, iar rezultatele sunt… „but nalačhe” - Vremea noua** — Vremea noua [ro]
-   https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSTgwUlhYRlc4TmtqZ2pBZFl3d093dWtwbjZwQVNDTnhsY0dYVVZBbHQta3VKQ2ItdFRPU3pNQ05HNkprby1WeE4taGlYRVZCSzZzcklEOEE3SmZsTGpONFZKR2dEQ2xUTHY4ZjNnWlJmbGpWZXJXUUMwNGg3TXExWThobnZDTE9MX2hGZF95dmdvYjNRUmQ3QUpjWUMxUWEyWmR4SW1DX0RFc25YWENBS1JSTjlJWlhwbHdyMS1oWHhqd0laVTBTY0d4dXFjV01mLVhxc1hJSQ?oc=5
-   Peste 10 milioane de euro date de la UE pentru integrarea romilor din județul Vaslui, iar rezultatele sunt… „but nalačhe” Vremea noua
-
-27. **Elena Sîrbu, vocea femeilor rome: Lupta pentru o educație fără frică și fără bariere - EA.md** — EA.md [ro]
-   https://news.google.com/rss/articles/CBMingFBVV95cUxPWExDV25ycWFITlFqbHJXNmFYaHN4YXdTbWx4NnhSZGg3WXdBN0t5c1FvWDIzazFBZi13bGJsSWlTNER2a055bFFSVHZ6UjhNaWtoUlpNamF0OGdpdkZOR1ptUmNIX0pJRFVXNXVBYW80QnpTdWxNQ004cHA1VTQ2WHVjbkdweHlmcWlKcjFTSXdWaVNJV0JZZGkycVctUQ?oc=5
-   Elena Sîrbu, vocea femeilor rome: Lupta pentru o educație fără frică și fără bariere EA.md
-
-28. **Ministrul Culturii, Andras Demeter, a anunţat lansarea unui program-pilot destinat susţinerii şi promovării culturii rome - Stiripesurse** — Stiripesurse [ro]
-   https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVms1TEhTREhBMmhPYXluU29zLUNSdDJrNm1RM3dhYlNLazNzUklGVEZfdE9zTGQ4SGxfVlE2dVdoMXRfNjNNLUlyMncwODVJRS1TcVJ6bHdsYjB4c0g3VWdXLW9iamNRYVFab0FEbzJzN29pU0Jtek83T2NPQ0VGdUVublhEb2pLLXdzeFAxVFNZcHZ2VFdwN2haWGJVUFA5SU9RZ0tDMkp4TlFUX2VxcDdHQmhKQ1FRVzF2dzZrRmxSUXdYcUZ2NUEzOHFqYXNMa1BfXzA1UWF3a3RPN2tYcnhWT0RvbElJR2FB?oc=5
-   Ministrul Culturii, Andras Demeter, a anunţat lansarea unui program-pilot destinat susţinerii şi promovării culturii rome Stiripesurse
-
-29. **Sandu, despre plățile de la MoldATSA: „Câteva sute de persoane ar fi putut primi acești bani” - EA.md** — EA.md [ro]
-   https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnBiSHpaOG1RTXVqaHdjYmhrOS1xSXZJLUQ0ZU1zcHB2RXBxeEwxcDJwekhzTHo2U2dFT3hIUWhoUDItVzdxUWtyRnRHR0ptWEZ4LWhpX25KYW1lQVVheEJUYUVUUWVNaGZ0SHNYR1ZLeGxiWUlxd3hkWEk0VDQySVNMaGhDUEtkX3pjUGdZS09kaWtyQlpZeG5MeW5qay1POE9LMW5HOA?oc=5
-   Sandu, despre plățile de la MoldATSA: „Câteva sute de persoane ar fi putut primi acești bani” EA.md
-
-30. **CTP Cluj se pregătește de o nouă tranșă de autobuze electrice după o investiție de peste 33 de milioane de lei - Gazeta de Cluj** — Gazeta de Cluj [ro]
-   https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlMwcnRRQlNGSDN6dDYwLVZVMGtvU0JZQkxrdWVnRUlFdE1Bc29nZER4NHhvSVJnMG1hdURrdXlOc1BubTBxV05EU3R2cGx1dTJMMlNwWV95NkdaZEgxbHA4UlZqM3J3M054c2kzMngwWVN1NGJNTWZWcHNPMzg3NTZBeTBFSFBicWJkSFY0NnBEV2NadkRsVWJPbUNfWVd5LWtCR3VyVW5lTjZiQU9iOER4SjVQREhwSElXaWU0ZGtqUnRoZHJnRTZSQV9TZVNw0gHWAUFVX3lxTE9JcXVXendKenF2X2dSVnJoR0hRR2I1Q0ZqOEVzclBzREQyWlc1aDBudWI2RFowS3VCTVhnYVI3eFpCSTVIUi1WZ1RpVUotX0tYaEEzdWc2RlhlaUlHMXUxSE0yRU5IcjVFNjdFVlV3ZHR0M3ZjaFUwb0dRUU9QR0gzUVdYY2JNYUlZcGhZX2xUamtLQS1UZEl3QU1hbmUyaXZqWFJnMDhCS3ZwRUlncXJ0WVMyUjRBdUVwRWItVW5qU19ZQ2NhTWs2Wk5WQTRsNHFFakNRNEE?oc=5
-   CTP Cluj se pregătește de o nouă tranșă de autobuze electrice după o investiție de peste 33 de milioane de lei Gazeta de Cluj
-
-31. **Și-a construit singur un limitator de viteză pe o stradă din Cluj și acum este căutat de autorități - Gazeta de Cluj** — Gazeta de Cluj [ro]
-   https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTTYzSmhuaF9Pbno4NmJLLVBGRDFqZlAtc3Q0ZHd2TDJoZDljajNPWE9rSDJpWm9iM0NfSzJIaVVJRUpleVN2LWJoUUpNQmpKd1RVdFVyMjBDUVQzUnBJNkhOQjdQNnZGRDRJblExSXgtZHdqMnJKblBibEFMSGtqUmlVOS1qbi1sZ2lfT29ZbTAyN25uY1hzOWFlMEZkSENKX2hySnBTQ0czOFVpenZwS0pqeWpjSU12VmY0ZFcyQ3lDQdIBxwFBVV95cUxNQjdLa0J6RDV5bXgtQk5XMjRzRC1UVjBWSVRHSlFtVlNwWkRUb3lBSll6bjRtSnMxcFprLVpKMWZSbTRhNFh5Qk9VTnFlWG1vdlVWb2RjOEplakJCT0dSSGg0a1pza0txT1hHal9aZ2g5Q3o4RTBsMzU1Q3VLNFZwR1B2VWVTT2NtSldqdjRLZEFmWDYzNUl3YmE0WVhwSWdLZnc5d012alA3TTdyYU51WFVnNmJoS2l5WWVKNktrbTU5MzRvR1Jr?oc=5
-   Și-a construit singur un limitator de viteză pe o stradă din Cluj și acum este căutat de autorități Gazeta de Cluj
-
-32. **Consiliul Județean finanțează cu 810.700 de lei modernizarea Centrului de Fertilizare in Vitro de la Cluj - Gazeta de Cluj** — Gazeta de Cluj [ro]
-   https://news.google.com/rss/articles/CBMizwFBVV95cUxQRm5zdEFmRWJ5MWZHRGhIaTB5dV9odXRQWEEtOUFkWlZrWnNpOEpRd3dKVGFqek00Q1BPeV9JUzVJYl9kcHg3OEJEa3owbE9yVkVsN25UcFRYdzc4bkhWU0VaRnFYSjZFY2NhU1B2LW1XdEN1YWY5N1R3RmFrdWVNZGduMDItcVBVMm9TR01DSTlkV0hqWkQ3YUxEX2xkR1VlbWJPWmlFU1BIZXQ1RUk0ek5FNEFNNWNvY0dYMnFxVVV0Z1BSeVZtMVRjNVNyYmPSAc8BQVVfeXFMUEZuc3RBZkVieTFmR0RoSGkweXVfaHV0UFhBLTlBZFpWa1pzaThKUXd3SlRhanpNNENQT3lfSVM1SWJfZHB4NzhCRGt6MGxPclZFbDduVHBUWHc3OG5IVlNFWkZxWEo2RWNjYVNQdi1tV3RDdWFmOTdUd0Zha3VlTWRnbjAyLXFQVTJvU0dNQ0k5ZFdIalpEN2FMRF9sZEdVZW1iT1ppRVNQSGV0NUVJNHpORTRBTTVjb2NHWDJxcVVVdGdQUnlWbTFUYzVTcmJj?oc=5
-   Consiliul Județean finanțează cu 810.700 de lei modernizarea Centrului de Fertilizare in Vitro de la Cluj Gazeta de Cluj
-
-33. **Acuzații de rasism după derby-ul Rapid-Dinamo. S-au depus plângeri penale și sesizări la CNCD - Gândul** — Gândul [ro]
-   https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXFIbXR0a0J0ZUJRYWlLSkRoTzRIc3B6RHNJWmY5cXkzdldlSnFrZTdwclZWRVFhT05nQ2tmLTVVUTM0LWh5aC1nblZaNDFyNGJ6clhBbFRjZ2pvQ1dkV3JRU1RsYkljVFluRHNIa2dzSDF3UEFXNEhEdmU2Z3pYenFiLTItUXdEU21vY9IBkgFBVV95cUxNekdVa0gzbFBjOVFtUUdTeDdBLU42SWpYall5LVBpcHRlVFU5TDZ2andYU1lXUG9yRXp1ME9qYzJLbmdRYlY5SWk4UHVyZFNQRjJVa3JkU19XLTJmX3Azd3VqcS16QndXMlNYaWlCdWliWnpITHFETTh1ZXFhdVdjc3ZzWXhERnhTcC1JczZKYXI3UQ?oc=5
-   Acuzații de rasism după derby-ul Rapid-Dinamo. S-au depus plângeri penale și sesizări la CNCD Gândul
-
-34. **La Fiscalía portuguesa acusa a un alcalde de incitar al odio por sus declaraciones sobre los gitanos - Libertad Digital** — Libertad Digital [es]
-   https://news.google.com/rss/articles/CBMigAJBVV95cUxNU3N0QzF2OVZmTERWVGNzVnE5d0Ntd3NwQUVCMUwzbVpNRUNvSjVlVzhHYTN5MVlnVFc0ZWJ6bUtDOU00UFE0bjlCd2p4ODMtYmdqeDAxaERPOHBBcThOTDFwcWQ2R3A0c3JhZUdYTzRmQk1JRXNyTUltaEFVMUZQODEyTFlhTzdUOHNfWFE4VkFtLUVhbUhQSDRMMVlPYU1Bb3ZsNFRjb0RudzhfRUtQcXZlUlNvRlEtT2RyaGpQZ1FaYk1RRzhGUjZhVVhscllIQW1EUjlNZE5LUXA3UkZuN0ZfRGNCMFQxbzNrbGU2M2tBMGhXSDdkYUdBUmhha0tp0gGLAkFVX3lxTE5UYWNoc1VsODJCN2kyQW5DdXhMb1VZWTFPdkhFNWZrTDVZbjBrQV9GVy04NXVhMXZUejhHd2RTVVlPR2ZuVnN2blNFaEduWnk4ZTNrWXJFSUZPcy11SVdVRFpUU3ZlRGJCOUtPX05IR3ltZ19Ecy1QMS0wbm5vbnJlMm5BVkQtRV9IelBZYXNKZXdFOTFhLVB4elljQUFhZVdJOVFCeW9IdnRFVnVRVTZGeEZlX3BxNkVEVWFDXzFKNW52a2JRWVJZWUl1UzFSUnVUMkNIWU5fUHJPNEdXOTFyWHIxTXNrc2pEQXlpWFdST0hCeUUyQWhtVlJwRnZfRnBjMXlnd3MwR1dCSQ?oc=5
-   La Fiscalía portuguesa acusa a un alcalde de incitar al odio por sus declaraciones sobre los gitanos Libertad Digital
-
-35. **Guardia Civil, gitanos y payos disputarán en Pruna un triangular por la convivencia - El Pespunte** — El Pespunte [es]
-   https://news.google.com/rss/articles/CBMizwFBVV95cUxOdnMtMFN1RXd0REt1dWNYaU50dlZyVEQwTmJ6a0pSZ3o1amZWU1RXU0p2YVBybVRLVnlWZ21nZzIwczJYd2wwQmZKRW5MTnRzMkVoT0V4MDN1bzFEaWk4X2t1NU0tbUhzSGRnREdvSHU5MFM1dHZZMFR2c0I4MkdaQ1hjYmlQb09teEM2LW9XcTFWTEZRbFd3QThoUk9SMXEtTUpOaGxZVVROdzRZU1VXYWUzaDJUNUI0RUlINXVkcUNsQ2hNcm5mMjFHcm82aVk?oc=5
-   Guardia Civil, gitanos y payos disputarán en Pruna un triangular por la convivencia El Pespunte
-
-36. **La Fiscalía de Portugal presenta cargos contra un alcalde ultraderechista al proponer la retirada de las ayudas públicas a los gitanos - LaSexta** — LaSexta [es]
-   https://news.google.com/rss/articles/CBMipgJBVV95cUxOa05LRmFuNC1lQ0dXNDFQa2JYazJBOWwtaDV0b3NGNTdBZXZHeGRqODRULVJRWF9GOW83QkRUTkZrQlBrNDR0ajVkTG1KV19JZG1sbmJab3FiSHZpRFN4MzQ2U2tDNzA2eDhPaUdST0ZvMklCOXVxZjhMVXI4c2xuS3hvMGg1al9EMk50VGlyLVRoZXh6RWpzbFBIWGhNdFRzRlpVVjBjSElQMDR3WmdOYlRaNnNOZEpZTU5pSTN3bDQ4WW90OUZTLUZaS181LXB3dXROMWliak10cGJ6SGVZeUVLbTFBOXVqTkRDWm1uT0tYSmVkOTg1MzFnQUMtdlFhVVpDNnNqWDVpTHMweEF6cHB4Y0pvMXV2RUgyemN2TWxaYWZ0bGfSAaYCQVVfeXFMUC16aHV6RjJncnllal95ZXFJc0RDanhUMy11RmpHOUxsdzJSbnlpZm5CcGRjQVZ5WHhhNzc1ZUZlbjhaUEYxQ1B2ajJwUWFPWm9rQTItV2dDSW9EVmtpVWpySGo4amVpaGNTNExHak9fNENyMkktTmVUZmdaR2VhcDFpTk54cE1jTEVKdmY1SVpKYlQtUWZuN3Jhd2hXU0JacEpycVVHNXNLUmxZa1A4bmZURnRRc1UxcnFIUTJZRFRBWlFGUC1BbGlNWUhleC1lSUVDTGZKQWcxRF92dnNfaDdYT3IzVndwUFZDZXV2em1VenpXdENPMlBEME1YV0xuVWJmcVFQVXZ5ZzZMRHhhZ0NLUU9PVVhhM25WS2hPSkprbktITnRn?oc=5
-   La Fiscalía de Portugal presenta cargos contra un alcalde ultraderechista al proponer la retirada de las ayudas públicas a los gitanos LaSexta
-
-37. **Un alcalde portugués sugirió excluir a los gitanos del acceso a ayudas públicas, ahora se enfrenta a una acusación por incitar al odio: "No gastaré dinero en esa etnia" - La Razón** — La Razón [es]
-   https://news.google.com/rss/articles/CBMiwAJBVV95cUxPb1Bvd0xGNV9aU1ZCUnZqcnhQT202a1A0b3Q2Q3FubndHa240R2VKTHotVWdQY0lFbXcwbWxZN1A4RHNXcDZhTjhCRGpjZVI5b19HQ3lrS0hqbG9hZXJ4QjN4YnVmWVFfYUh6QjhycWFSRDhOOG9qdGVVQmxXOUFLckFGcDU2ZEl3Y0dQcGNOTmVYaFNWWWtWLVdEazJTUE1IR1FuZS1IaS15cFZzZ2dqTkRYTHVxZGtWUmwyR0VyYTRFX0p4OGk4a05ZeW5ZdnM2TWVHcHlFcW1qUERsU1d3N205OTB2OExvSWE5UkxHd0lJbm52YTh4S3JEa0R1LXBiTzZoU1pxaHh3WlNtVGoxM3ZaaFpEVFpTX0tnVmZ3ZGxaU3ZXc0lPTFRfRWxuZkRXRkU5dWpWQkp4VW5hTEs1SNIBwAJBVV95cUxPb1Bvd0xGNV9aU1ZCUnZqcnhQT202a1A0b3Q2Q3FubndHa240R2VKTHotVWdQY0lFbXcwbWxZN1A4RHNXcDZhTjhCRGpjZVI5b19HQ3lrS0hqbG9hZXJ4QjN4YnVmWVFfYUh6QjhycWFSRDhOOG9qdGVVQmxXOUFLckFGcDU2ZEl3Y0dQcGNOTmVYaFNWWWtWLVdEazJTUE1IR1FuZS1IaS15cFZzZ2dqTkRYTHVxZGtWUmwyR0VyYTRFX0p4OGk4a05ZeW5ZdnM2TWVHcHlFcW1qUERsU1d3N205OTB2OExvSWE5UkxHd0lJbm52YTh4S3JEa0R1LXBiTzZoU1pxaHh3WlNtVGoxM3ZaaFpEVFpTX0tnVmZ3ZGxaU3ZXc0lPTFRfRWxuZkRXRkU5dWpWQkp4VW5hTEs1SA?oc=5
+25. **Un alcalde portugués sugirió excluir a los gitanos del acceso a ayudas públicas, ahora se enfrenta a una acusación por incitar al odio: "No gastaré dinero en esa etnia" - La Razón** — La Razón [es]
+   https://news.google.com/rss/articles/CBMirAJBVV95cUxNYjlZV2k4NGd6QXZGMVV0NXgzVHFSWGdOLXVNVENaejlMb05fUk1TSDNyLWNtaXZJUnpXS1NmWHFkTkloVmtkbG84VU1QM2pjUGRpWG1TcTYtVXBwYXR4ZUxwcmstWW9YTUNpdTF2T1o1UHExWkRfcU1jXzFnTW4yYkVDd2hFRk1CcTc5enhwT3dvTnpzd1Z4MHlWaE5ZZ3BRc2xDekVRT21pWndndTlQREVwaXYyblh4NFlRVnRhOE5EX0N2UzhQRnVva2xJTFVLVzI0aGtGdC10ZFBiN2dYdm5EVW9Nb2N6d1REZjN5bk5tNkRQVHFqdE50eldZSWdTMHlKR0tacFJHQnl4dldGTEZLODVIb3Z3bjIzRmh6TkpPbm5lNG5mYmRIRUzSAcACQVVfeXFMT29Qb3dMRjVfWlNWQlJ2anJ4UE9tNmtQNG90NkNxbm53R2tuNEdlSkx6LVVnUGNJRW13MG1sWTdQOERzV3A2YU44QkRqY2VSOW9fR0N5a0tIamxvYWVyeEIzeGJ1ZllRX2FIekI4cnFhUkQ4TjhvanRlVUJsVzlBS3JBRnA1NmRJd2NHUHBjTk5lWGhTVllrVi1XRGsyU1BNSEdRbmUtSGkteXBWc2dnak5EWEx1cWRrVlJsMkdFcmE0RV9KeDhpOGtOWXluWXZzNk1lR3B5RXFtalBEbFNXdzdtOTkwdjhMb0lhOVJMR3dJSW5udmE4eEtyRGtEdS1wYk82aFNacWh4d1pTbVRqMTN2WmhaRFRaU19LZ1Zmd2RsWlN2V3NJT0xUX0VsbmZEV0ZFOXVqVkJKeFVuYUxLNUg?oc=5
    Un alcalde portugués sugirió excluir a los gitanos del acceso a ayudas públicas, ahora se enfrenta a una acusación por incitar al odio: "No gastaré dinero en esa etnia" La Razón
 
-38. **Quién fue Chorrojumo, el primer 'influencer' de Granada que ahora regresa en Instagram - Ideal** — Ideal [es]
-   https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTB2d185eDRPejBYamE1dEdodGwzUEtCZWdJWWdESGVxZUd0aGw0cDBCYUdOS0pLc21mS3M3ZDMzdVNOUDJsaXFvSDlkYVZGbm9aOGhVNEpDTS0xMG9FTVRuWGt5UVA5eGZVTlN0MDVXd3pDcXpWWjFyRExDQm92S1N3R0hyZXpqa0wyR0tFWS1mcWxmLUxUY1cyamNWa245bkQ0bV85bHZ1UjVqV3hZ0gGvAUFVX3lxTE5ZMHZ3Xzl4NE96MFhqYTV0R2h0bDNQS0JlZ0lZZ0RIZXFlR3RobDRwMEJhR05LSktzbWZLczdkMzN1U05QMmxpcW9IOWRhVkZub1o4aFU0SkNNLTEwb0VNVG5Ya3lRUDl4ZlVOU3QwNVd3ekNxelZaMXJETENCb3ZLU3dHSHJlemprTDJHS0VZLWZxbGYtTFRjVzJqY1ZrbjluRDRtXzlsdnVSNWpXeFk?oc=5
-   Quién fue Chorrojumo, el primer 'influencer' de Granada que ahora regresa en Instagram Ideal
+26. **Finaliza la Escuela de Verano para la comunidad gitana - La Voz de Almería** — La Voz de Almería [es]
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDZJd1d1Zko3Q3dLWldDcnMyZzBCYkg5TU5iUUpOZDVHNG5OQ0dDWGtPUUhKM0RpUEhOc2ZOMkgybTVzMmcyNkl1S1lyazVZNVpOM0xpTFhSX1AwNXJ3LVZYQUlSdUloNjBXZW9UNzlpTC1oTWtubkV6VnF5d1ZubmY3ZGs4aWdiOU9vbVdudHpFMG9HbURNYzRfQ3p6M2Zj?oc=5
+   Finaliza la Escuela de Verano para la comunidad gitana La Voz de Almería
 
-39. **Los gitanos portugueses “se preparan para entrar en el parlamento”. - Portugal Resident** — Portugal Resident [es]
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWJkdG9uRjJhUmhtd3hyRlJaSHQyUHcyaHctTUh0a1hjLUFuUG1PdXBqWjU5UkR3U2U0MXJab09OSU5weERvMmk1a09FT29hX2E2cGdLWm5PT2Y5YzhfNHNaWU83TklVWV9wcmVXOVpySktiTVd1RjBsTjJZalNrY2JYMTg1S3h6V0RMQjZSQ0h1dWE1a2t1bUU3RG9PX0pRX3FnLQ?oc=5
-   Los gitanos portugueses “se preparan para entrar en el parlamento”. Portugal Resident
+27. **Las patatas fritas hechas en el perol en el mercado de Pino Montano - Diario de Sevilla** — Diario de Sevilla [es]
+   https://news.google.com/rss/articles/CBMingFBVV95cUxOQlV3Xy1fOXpZbzhLS0NQZUxHdG91MjhYcVNNUHgzYVlBR3loNnZUNm1Md3FsTTUxUHFQY3FLbTZ2dUxvVUNDcFQ3TVNPZzJTbFE5bU93OG5URnFIeFNzZnVldzF2VUJ4QnR0RV9KMU1SeVpvamdweEgtbXVFS25xdmRtNGFLU3VoeGFrekt3VE56U3IxRkF5c0NZRkhGQdIBowFBVV95cUxNWlhseGg2cnNCaVZOelIzTFNSZmJCT29rUG5oR2lFeTBhRFlEQzcxYmpnZ090emFzU0tPZ2RoZmZXaFpnQnYyRmppb2VPOVhBR2w0Ry10ZWNnaEZsazJuM3dUeVJLMDZIODdfSzJRNlpjQWNIUDhmc1RqRE40QXpzM2VtNjNTWFJlb29zUi1OZ2xydFlKUkMtSkRYbTdSWFlDQTJJ?oc=5
+   Las patatas fritas hechas en el perol en el mercado de Pino Montano Diario de Sevilla
 
-40. **Matan a tiros en plena calle de Isla Cristina a una mujer, su hija embarazada y un menor - Canal Sur** — Canal Sur [es]
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWJ5aUduZWFiaXhTMkxhbHJ5My1idllRaExvWERBWTRiNGJKWjhrczJsLXJWV21pcHpXQi1ZMU96X0ZDQzQyQUxTWUswNU1SNnRpRF9CQVhfcF8wbVBVVjNRa3JFMndyTW9MM3lvaEVTN0pEZTEzM2VjQ2VXbG5Qb2RtVWIzOW5MY3lycnpBS2RJdWdfVlFsNVUzZUE?oc=5
-   Matan a tiros en plena calle de Isla Cristina a una mujer, su hija embarazada y un menor Canal Sur
-
-41. **La guerra entre los Moriña y los Salazar deja tres muertos y desata la alarma por las armas de asalto en Huelva - El Correo de Andalucía** — El Correo de Andalucía [es]
-   https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1M0aTBWdFgwaHlnNXlRczNXOVZNbU5qZHBoUHUybFpiNXJRbmpRRHZnT3M0dHhLNl9NNWY5Q21ET1g1Ymo2SlVEQUZyLXo4d2tIWkZSZUIyaUJQaWZfRC1SQVBOMVdxX1QzdTFLZzllT056VGVjVV9YRldLX04wRlptSHY1Zm45YzVGVWZXalIwY2dnNzlvREVB?oc=5
-   La guerra entre los Moriña y los Salazar deja tres muertos y desata la alarma por las armas de asalto en Huelva El Correo de Andalucía
-
-42. **Coordinació DG Fons - 17/08/2026 El Govern subvenciona un proyecto de la Fundación Secretariado Gitano para la integración de este colectivo en el marco del programa del Fondo Social Europeo Plus (FSE+) - caib.es** — caib.es [es]
-   https://news.google.com/rss/articles/CBMivAJBVV95cUxOQ2tSeThrU1NURXNBWEpNNldGM2dnQVFjVEswZXpUZlJycXFSSFpVOVR5c1RBWEZTVGRqWk1XOUhYN04yenZ5R3k5NjV0SHIxUlhvSlVqYmVfVjlvSzBwNHhCNEpXSHc2OXZ0UW5yTjlDUVRkdXI1X0U2V1doLTE5VzhUWEpxV1BJb0lybHlGNVh2bFR4d3duQXkwbzdnVEdhUVZsNHYyS0Q3TENfS0swRnFDS3ZzTV9zZ3NBbjE1cS1IRTNsNVdWM243VHdqMTd3WVdDU3FWYlJVQkRQMFdiZ1N6eV9DdTMyZVpDODJPMURhTzZCb2lrWkpxRWNUZ3NZZ0drbFhMd0RELXY5Nk9qcTVnQnNNcW50bWhSM1hlX1dSWlI0aXJheHNUbGZ5Rkp6VThZYklFM1RRZEd1?oc=5
-   Coordinació DG Fons - 17/08/2026 El Govern subvenciona un proyecto de la Fundación Secretariado Gitano para la integración de este colectivo en el marco del programa del Fondo Social Europeo Plus (FSE
-
-43. **Las claves del triple crimen de Huelva: "El Baba", una embarazada de ocho meses y un menor de 16 años - Onda Cero Radio** — Onda Cero Radio [es]
-   https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUsyVXJQb2t0M3hUNWh1dEY1eG5QNW9qYkFhOXk1VTN1dldsczlZNDY1NkUwRXdIODR0VU1HWFkxSUVtR1RRejNxMldvTGIzbklvcjJYdTF4TGxpTkZnemc2VW14SDk5WHhHTmxRaDdPZVh3UTl1eWVyZ1FtRlhRVlotOEZCYWR4WE52MHJQZ1FsMklFSFhCbGJBS1FnRFgtNVpkRnRPcFhiX09XOHVaejZnS1UyVnNGdXBucl9jWVI1cVJtSkNtaE8xdUJYZk1vSC1waU4xLVo4ZlRnMlZ3YWtB0gHiAUFVX3lxTFBJSzJVclBva3QzeFQ1aHV0RjV4blA1b2piQWE5eTVVM3V2V2xzOVk0NjU2RTBFd0g4NHRVTUdYWTFJRW1HVFF6M3EyV29MYjNuSW9yMlh1MXhMbGlORmd6ZzZVbXhIOTlYeEdObFFoN09lWHdROXV5ZXJnUW1GWFFWWi04RkJhZHhYTnYwclBnUWwySUVIWEJsYkFLUWdEWC01WmRGdE9wWGJfT1c4dVp6NmdLVTJWc0Z1cG5yX2NZUjVxUm1KQ21oTzF1QlhmTW9ILXBpTjEtWjhmVGcyVndha0E?oc=5
-   Las claves del triple crimen de Huelva: "El Baba", una embarazada de ocho meses y un menor de 16 años Onda Cero Radio
-
-44. **Muere Delfín Amaya, miembro de "Los Amaya", a los 74 años en Barcelona - antena3.com** — antena3.com [es]
-   https://news.google.com/rss/articles/CBMiygFBVV95cUxQNl9nNHNJUDhQd3lMdzBYUTBkRU5jTm1QSHhid202T29ubF9PV0lvOUJrZWg3eU1yQnM4Q1BjTTAtM3dkRjlfd3lOWGFKZWR3TmVRazBLU1MybjdBR2JrNkZldHU0VkFScDcxVkNId1lVWl83SHFvaS1IMUpaa2N0LW83aG9MY1BicTI4Q3puRU5qT3ZFNmpWeUlYVnRpRjdYNFFveVl4UnpOWVBUN0R6UHBDbGlLa2NlZHBXVVFTZDJtTGd6Wmd5ZVhB0gHKAUFVX3lxTE9lWmZSSnpXaWNFWE43clBnZmtGeXd5X3NmemNHcmV5dlRLVTZmakFjaVVrSGIwQm1YQmFfQmZQMjhkSWg3SXlmbXA2TThBRzhDcUtpdDBNX1l4SjQtUGt4WTFjN2ZNZzlrMDRlMnBBNWlrODR0UEpRZmkwTzlmSTRpeGxqZ3NHTy00d2RfYWZpamFYU0toOW5mV1BTR2xLc3BSamk2ek9GLTdwa1JaX1B2MWZpOEZUV3NEZUZCdF9UajAyaU94UXlieVE?oc=5
-   Muere Delfín Amaya, miembro de "Los Amaya", a los 74 años en Barcelona antena3.com
-
-45. **Lorca, Natalia Castro y Antonio Begíjar - Alma de Pueblos** — Alma de Pueblos [es]
-   https://news.google.com/rss/articles/CBMickFVX3lxTE9fSzVWUVZ5QXo0SGtnYV9MRlZGc0FZSEhYaXNXLW43bkpWQ3RidS1ULWFVNGlBOHdWc0JlTmpMbDMwWE9vSXdZTFBDclhoQ3JhRWEzTzBmdjYzbTdaMnNwVHFIX3NLNjg4dEl5eWo0S3pGUQ?oc=5
-   Lorca, Natalia Castro y Antonio Begíjar Alma de Pueblos
-
-46. **Muere Delfín Amaya, mitad del dúo rumbero Los Amaya - EL PAÍS** — EL PAÍS [es]
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXMxODhOalh2MGhPZng4ell1aV9MRWFyazhtM05lYTVwM3NlT1FaVmprbFNhNXJZcEtHSTczUk52NzViOEgxRE5OM0ZadVNRQzFQSGJTMXNySWg1SmcwbV9KdUtkc09EZWM4enNVQjVfQkpGVDFXX1NudnN6NTNBS19fdzRIeTNFMkd2YkxNeU5DTGdhZzFDaFVzM1JJbFVIT25rMtIBuAFBVV95cUxQU3N2Um1WYm9Ud0lOLXRWQW53eXdySGZFTlJRRVFTLTFIVER4aFVzTTkyWEpWSkVhUWNqOGlFaVJHNGkwVDFYRnRNaENoTGZTckl6ZXV3am1TSXItQjhCWWNmNTFqdFhvSUp1ZjBsVVZCUEQxVk1EQlh1My1BRVkzWnRoRFpZRlVOcXpjTzN1ZFpLaTFsZzBjbTdYOVpkTHlURFgweTVabTZSNmVGd2NydFN0TnR2bG5B?oc=5
+28. **Muere Delfín Amaya, mitad del dúo rumbero Los Amaya - EL PAÍS** — EL PAÍS [es]
+   https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3N2Um1WYm9Ud0lOLXRWQW53eXdySGZFTlJRRVFTLTFIVER4aFVzTTkyWEpWSkVhUWNqOGlFaVJHNGkwVDFYRnRNaENoTGZTckl6ZXV3am1TSXItQjhCWWNmNTFqdFhvSUp1ZjBsVVZCUEQxVk1EQlh1My1BRVkzWnRoRFpZRlVOcXpjTzN1ZFpLaTFsZzBjbTdYOVpkTHlURFgweTVabTZSNmVGd2NydFN0TnR2bG5B0gG4AUFVX3lxTFBTc3ZSbVZib1R3SU4tdFZBbnd5d3JIZkVOUlFFUVMtMUhURHhoVXNNOTJYSlZKRWFRY2o4aUVpUkc0aTBUMVhGdE1oQ2hMZlNySXpldXdqbVNJci1COEJZY2Y1MWp0WG9JSnVmMGxVVkJQRDFWTURCWHUzLUFFWTNadGhEWllGVU5xemNPM3VkWktpMWxnMGNtN1g5WmRMeVREWDB5NVptNlI2ZUZ3Y3J0U3ROdHZsbkE?oc=5
    Muere Delfín Amaya, mitad del dúo rumbero Los Amaya EL PAÍS
 
-47. **La guerra de los Moriña y los Salazar se extiende de Huelva a Isla Cristina con un balance de cinco muertos - La Razón** — La Razón [es]
-   https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSUUzQXVfYUZseGM2aTdmcnVsX0ZnT0dHNFFDUVpXalBlNTdvWURxc29FTENKcGNrQ01ocy0yYkNVR0UxY2g4TWlDZ1N4VlVEdWItNFBxb3pLMFcySGF0X2laazVXRDlBS1hrUUNSZEhLMGRUVVdERVgwSmtWSWh0WG45MlBSaFJJVEE1UFRKLTJnOUFaaE1FcmZNckZiVU1DSXotVTRIclBfZ1l2VHFLZC12MU4zSG1VQlZlNGEwUjBJZ2FSQkl0bHo2Y1dJaWNZVlhkLXpTYldjVGdhNUFaY3Ixd3JqZ9IB-gFBVV95cUxQVEdxTkFHaFFpMkRSUWZ6Q2s0bFJRX0U1QlE2eVZxTGNkeDdQWnJSdFU4bmFhTTBhRlhXZkdPVUlJZUc2QzJocHcwYmJYX0NUMklGeFFYeTJzS05wc3dvY0xUQ1NpeXdhQWYyUUdmN3hvZDJpbk84bHJlVWlFSHJHODZLQzg1STNCX2pmcHZSQ2xhNVFHTG1jOGZvQTBDZng5c2ZSSGowTzIwNHZWeXF3aXVLWjkxVWRjNmRWcGNwam15UFNxQVFzMmNHaE15bDFJeXMwbkQ3Mnh1UnNaWDIycnYxRTFuRGlsUFZUUkprMWRkZ2F0dlEycURB?oc=5
-   La guerra de los Moriña y los Salazar se extiende de Huelva a Isla Cristina con un balance de cinco muertos La Razón
+29. **Carta a Lorca de lecturas compartidas alrededor de la intimidad de una mesa - El Faro de Melilla - El Faro de Melilla** — El Faro de Melilla [es]
+   https://news.google.com/rss/articles/CBMipgFBVV95cUxPcHdrbWFSS29JS2hXSE5LR2JTV0QzaDFlU2RHakZDR19WVF8wVWNyWV9ET2RPNUNVSjJnUmxTTUUzN0xERVFNcXRyS1lzeEpTcl9kazVWSW0xNHdfUWJBSEZub29fQlF3UU5zS1ExejFnUWlLclhQbmY4Yk9ZakFpLXNfM05kS3hyeksxS3Q5LVV4d1V1UkdJVWs1OWNOWXM4eTViNHlR0gGrAUFVX3lxTE9ScXljc1dhUnUzNTlsOGo5Yk1QdkxDS0ZFdnNVZHZ3M2x0bFE3NmFHWVhUTWZKa0lCMFBYdVZwRmlaN2t3b19iT3gtSXdfMTBDTjFFemE5N1dINW9vQWJlbWRCUExMUUUxcnJ4eHN4YXVHNEZWNE5Nd3JqNHlaZTk1VFlHNWpLamtWVk1VWjYyMXpQaTdZWVpOOXgtNkl5ZEYwX0ZJZU9ZbENRaw?oc=5
+   Carta a Lorca de lecturas compartidas alrededor de la intimidad de una mesa - El Faro de Melilla El Faro de Melilla
 
-48. **90 años del asesinato de Lorca: Seis poemas esenciales de uno de los grandes genios de la Literatura en España - Diario de Sevilla** — Diario de Sevilla [es]
-   https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXQwZ2g1Vmt4SVdlZTZuUWNvWWVuWWZCUWN1NzhXbzZwQ3UycEtsWDF5ZUcyakRVakYwckVaeUtXS2N6ZVN2TXc3LUFLOXJPYV9yYUJUNG1ZQldteGtYR2l0cjFJZ3pTdG93WGtPeGtiOVRBdUZKSzNuMzFtWDQybDNTckc1Tzhaa3NFa1JMdm40blhTTnExdXAyRW5hVkVEcmY3U3RnRVZidVI00gGsAUFVX3lxTE9ZdDBnaDVWa3hJV2VlNm5RY29ZZW5ZZkJRY3U3OFdvNnBDdTJwS2xYMXllRzJqRFVqRjByRVp5S1dLY3plU3ZNdzctQUs5ck9hX3JhQlQ0bVlCV214a1hHaXRyMUlnelN0b3dYa094a2I5VEF1RkpLM24zMW1YNDJsM1NyRzVPOFprc0VrUkx2bjRuWFNOcTF1cDJFbmFWRURyZjdTdGdFVmJ1UjQ?oc=5
-   90 años del asesinato de Lorca: Seis poemas esenciales de uno de los grandes genios de la Literatura en España Diario de Sevilla
+30. **Muere el productor Ricardo Pachón, artífice de los discos más influyentes del nuevo flamenco - El Periódico de Aragón** — El Periódico de Aragón [es]
+   https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmtKS3JJeEp3R0laMlBycjNjRkswYk4tSFhtSmVwNHdySURDMzJybmhsM3l5eHRRRXVvSndndFgwbmtuMWp4TXkyMm1DSHNwcXVDRkZoandudjhUWFU1NXNZSHlLZUNwYTZOdl9RMElheWlXOG53S3ZURkV0cng1NlVSR0tMcW1pTnNadVZ5X05MMFlIMlM2WC1JYkxNRWtRX3ZVSUdqYlVJeHBmNS1lbW1WRlRRdndDckpF0gG7AUFVX3lxTE1Wa0pLckl4SndHSVoyUHJyM2NGSzBiTi1IWG1KZXA0d3JJREMzMnJuaGwzeXl4dFFFdW9Kd2d0WDBua24xanhNeTIybUNIc3BxdUNGRmhqd252OFRYVTU1c1lIeUtlQ3BhNk52X1EwSWF5aVc4bndLdlRGRXRyeDU2VVJHS0xxbWlOc1p1VnlfTkwwWUgyUzZYLUliTE1Fa1FfdlVJR2piVUl4cGY1LWVtbVZGVFF2d0NySkU?oc=5
+   Muere el productor Ricardo Pachón, artífice de los discos más influyentes del nuevo flamenco El Periódico de Aragón
 
-49. **« Ça dure depuis vingt ans ! » : Deux bidonvilles vidés à Nantes, des familles Roms sur la route - Ouest-France** — Ouest-France [fr]
-   https://news.google.com/rss/articles/CBMijwJBVV95cUxPWXlTc1VKX3Q0NmJIbHZpNkxhbFJlWlEtcGNxdkppWlhqYjQ5dnlZRlBWQlJTMy1OV2RqZ0JmS3dwbTZDQUdyU1AweE91QXo0bktPbHhSNHVmLUl6NzducTV3ak82R3FaemNJLW80Z3ZRbWlabmlZZnBCRmVxTE9kVmJsWHZIT1ZoX3gzakJORFVpdV9VQldrSGh6eHFuQ0VwcG9KUXMzdUFDYXBDeDUxQkNtSzR4RjAtZk9oY1hGSmJWNTJSTFFvcW9VSC15aERhZ2xiMktEV0xDTkVpWWtib19NZFpxQ2xoanpRcEtHQk02M2g5RFYxYnZ2SC1zVU0zWm1KVDZWaXc0RVZVa3pZ?oc=5
-   « Ça dure depuis vingt ans ! » : Deux bidonvilles vidés à Nantes, des familles Roms sur la route Ouest-France
+31. **Muere el sevillano Ricardo Pachón, productor clave del nuevo flamenco - Diario de Sevilla** — Diario de Sevilla [es]
+   https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2tDVkpmbDBIOGdEOXQ1Slc2c21aczhrOTYtQzVIMUtCdVI3aTN4bmR3UGd5ajhELU1vMHVqdjZZZUNVY3M1MVhWVXlxbF9uYy10UlQ4NEExRkpwTTN1bTd6VTJreGhhcTBTcDlOcWR6ZF9jVTdCN0ktcHFuS1ljc3hlNjVodWFDMFZrUENpR3pGLVkxNHZldFF30gGfAUFVX3lxTFBhUE1qNlhZUjlRdWl5Rm11TzVQbXhjWHpMU01TdWtQc2FvMFRtcDZZaUlERkVRa2dZZzBqSzlWSGRpMDAzMGR4RFZVdnNoYmJkOUZJWWQySmdPU2Y0QWpzanhfU0RQczEwTldVbDQzclNUOGNUVHR0aFNDZ20zbGRmSkl0R0FWMHczUTBKdndIRWtxUktlZmcxVUF1UlVpVQ?oc=5
+   Muere el sevillano Ricardo Pachón, productor clave del nuevo flamenco Diario de Sevilla
 
-50. **Trois familles de gens du voyage s'installent sans autorisation à Biot : la mairie porte plainte - ici.fr** — ici.fr [fr]
-   https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT0pmX0pQYlpZWG8tZGNOLXNwTWlTQ1M3OXlEcjFYRzhIVnRBbzc3TUktZUMxY0NqWGhOb3cxNWExMHRERllEVC1tc1NJelo5MEJMTlJBOW43MHNBUThseDRkNlNLSVNjcVJZamQydHVRdUc1amlEVTJVVllLVXlPQkNsa0RYclNPMDdPakl3am9XTEg3MzRvOHpHdEhDSV82dWktUS1uajVsR2pYdU5iTF83V3A4Zk5pTFJzazBWNFRHSi1HeWtaSEhWRWllY25VNmw2UTZmN2VPdktCZTJmVi1QT1B3el9Y?oc=5
-   Trois familles de gens du voyage s'installent sans autorisation à Biot : la mairie porte plainte ici.fr
+32. **Gens du voyage : une trentaine de caravanes s'installe sur un terrain privé à Salles-sur-Mer, bras de fer avec la mairie - ici.fr** — ici.fr [fr]
+   https://news.google.com/rss/articles/CBMipgJBVV95cUxPVFJKR3RXLV9tQllYZHJkd1VtdW05REJzVkl2LTFxUDRmSDgwbmxiWGVLdEQxaTJuNlNMX0xjYlRxQ3pQeWM4X2RTa1M0djJKeEFNa0dTQmE3WEd4LWdVdVBYal9ucW5NX21nUEhrTVJUVDNDYTVfWGduVll0ZHpsNWZQUkhqbk54dENMSjlrVHdyZ1NjWS0tVl9pSXpOT1hDZnFnRDJmSVF6QzdyZEJxVkZkZFR3TG1aLVRSUjBOTEU1cEJFUmhPQU83LTFNVlNPMHJnemlaSkZ3TG5oYURMamZjbFdwZG56cS1XUWNJTjBtc1hVZUN2ZkVLWWxSdmVrMVhFYzZaSk5val9OSHpkQ3lqZUlaQldqUndpRDM4TWFKZUVuX2c?oc=5
+   Gens du voyage : une trentaine de caravanes s'installe sur un terrain privé à Salles-sur-Mer, bras de fer avec la mairie ici.fr
 
-51. **À Mèze, le maire bloque les accès au lac du Sesquier pour éviter une potentielle installation de gens du voyage - Midi Libre** — Midi Libre [fr]
-   https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYTI4RTNTUHlMUHdSMlVDYWk2WE1KYngyMHBjSWZ1eUJZWUFkQkRSSzNYRUJScUcxV3B3SHMwVjFYcEp0MExkQTFhMHJoNEJydHpPamVDVnN2RHU0b1JhcFpyOThsV0FSUkFSRjRhVGpLZ18yNUZpeklxYmR4ekItWmd1S0llazdPTXlUQm5sYmh0Q2lzdElWcGxQMDFsSGFyMnlkMHVzcTEyaTNYRkFpMklsb282eXhPdUl2RW9fU1RBUWNSbXFvOHR1M3VkYXM2Z2VKNUdTYXd4OFhrY1hfdkFsU0FWOEQyamxVTlU3VUY?oc=5
-   À Mèze, le maire bloque les accès au lac du Sesquier pour éviter une potentielle installation de gens du voyage Midi Libre
+33. **Démantèlement de deux bidonvilles roms à Nantes : la droite et LFI unis contre la stratégie socialiste - Le Figaro** — Le Figaro [fr]
+   https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdjVicUg5QUFoN2pPRHVydGJKUllFdS1iM2hqWEFaVzRfTXNzOVo5QXJRTFJQTk5BTWhKaENBZHd4ZlBYRU1qSUE5N0oxeUtLOGRCOXZDWGg5UDJ2Ry1zYXpFeDY5emdjOEVNcEJ6X3BDd0k4UE1qSHhuejY0VEhoMjVLTy1rOFRuV2FxUzgxRVROaE9ibUF6dXJ4OFFHS1JPVnhrSFBDZHRxRlFTUXdWNXJxYnFpY25wVU1iMlVWQTMxUmdxOFcyZmRNQ1Y4MlVfY1k4MmpBdw?oc=5
+   Démantèlement de deux bidonvilles roms à Nantes : la droite et LFI unis contre la stratégie socialiste Le Figaro
 
-52. **Le grand retour des expulsions sans solution pour les Roms - www.lamarseillaise.fr** — www.lamarseillaise.fr [fr]
-   https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUhtU1ZWTEpiUlAxY2k1SnhDMHo4Mi1FMTdrVkMzTkdvVUFMUS1EcmFQTWhGT05CdUhyN1NTc0VRRWRTMy1DTmpTekhQU1hYWDNXakNveEROd3dLYTVoQ2RLc3ZKaEJpZWhYVXd0Mm93a2kxd01pTS05U0NBMDNhSEJyQVpOaThheUlydXFxWTRtbmdSWTJDNzdHVXRTNW0yaFpiaTVpOF9qc00?oc=5
-   Le grand retour des expulsions sans solution pour les Roms www.lamarseillaise.fr
+34. **"On est devant une situation schizophrénique." L'expulsion de deux camps de Roms se poursuit à Nantes - France 3 Régions** — France 3 Régions [fr]
+   https://news.google.com/rss/articles/CBMimgJBVV95cUxNb2pYSWdxblNZaEYxSG9pWHcwNGg3djZva3BBR29qQWZZLWVHbjRlVlFTd2Zfdk4tV0NjY3hXQ0lNNmd4REFoLWQzZXFMU2RwVTh0NTNCcmVlSG1DT2NvWUlPLU5PSzduTGNnZkdfOFRsc2Rsd05aWDRFVjYzMzRLM2ZOV0Zhd0RtaEVpOXRRdEZBajBYRHlWcmFnN3FyTm1RYks0bUtPMlAzUW9kenlGeWNJUGM2SXRNSW9Pb2lyRE14Q2dOVFZVLXFQYVpxZkk0Zmo1dFljclppLTQzZzh0VmNiU2p1R2N0eVotTjVGWmY0N09fVTJmcTh1YmJTeU5QWDJBTzFsOURUVkZ2S2ZVNHVYWGhHLXFBZ3c?oc=5
+   "On est devant une situation schizophrénique." L'expulsion de deux camps de Roms se poursuit à Nantes France 3 Régions
 
-53. **«A Rezé, 80 % des familles roms ont trouvé un logement et sont intégrées» se félicite un élu - Maville Nantes** — Maville Nantes [fr]
-   https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRmh2ZElmMVdFWEg4UG1LRS0xX1Z1U3JoVXQtUDFRU1JOcGZMU2piYV94aWYyNHdSZW1tdGE0RmNUQ0xnbkg1NjkxX1BMSVpQdVA2WUdlZXBqbEMtdHNwR3MtNEU3cFhqa1Y0NW9uV0RSSXV5VlBmaDQzSDI2QU1fb0swMl95R2w0ZDQ3emhWLXYtREJRQnhYWTJSOTVSSWEybFYwQ3lMV2ZsOUlCU1FYVEhJMjVtRjRDRkt3d19Iem82dWVBX1I1U0RsUGE4bHJQRGppbFd2MmFHQXRHdFpj?oc=5
-   «A Rezé, 80 % des familles roms ont trouvé un logement et sont intégrées» se félicite un élu Maville Nantes
+35. **« Le maire veut nous chasser » : près de Cherbourg, les gens du voyage refusent de partir malgré l’ultimatum - Actu.fr** — Actu.fr [fr]
+   https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVk5VZXJkeDJPMEFIaHlFNHhSVDY2ZzZ4bE55REFSSFNQRzEtVDk3dUR4WFdQTXpLT2Z5SDdvcHNEbk81TUF0UFdsWmEtQ29sc3JPOEpkUV90azVFQmVLTEMxb09YbndMLUlVcDJiQ3lYakJHYVYzajNUTFMwS3BBVUJUMEtDcDZVMTVpUUNpSms1X2R6c2FkRnNsMmY5OG5BLWs5VjlOX0NrN0FnZWJuU1lLX251YjhNc1dsbjNPWVZ0eEJWVFF6YWl0RWRNWDhJOVFVbzFneDR0ajMzQnQzQ2JtQll3Z3NFZk45a0dB?oc=5
+   « Le maire veut nous chasser » : près de Cherbourg, les gens du voyage refusent de partir malgré l’ultimatum Actu.fr
 
-54. **Des familles roms demandent un sursis pour rester dans leur camp de la Belle-de-Mai à Marseille - laprovence.com** — laprovence.com [fr]
-   https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQnZTeV9ZOHdPaW1OUUk0MmtpZ2FVZGRNbC04cm5MTXBmdkhjM01mQkkzSWlhcDdvOW5UckVqaFI4cHIxcHg1ck9kck5KeVpRSjUtVUdUZ0hVem42THFBT1pDai02S2VuUXpKcjVzRHN6NkRPWHhXU3V2eWZMcmxIZTFUVkFoeXNvOWVMdnF5bnYteUdUVjhBVXJkb0xTZlc3d1JnWHpVSVN3V1Byb25xX19aMllibTBMZU5TMlVQSG15TXV6bDNUNGFMWVVZb3JiX0I2dEZ4ZWJVX1JJbF9lemVrcVgzX3p1a2c?oc=5
-   Des familles roms demandent un sursis pour rester dans leur camp de la Belle-de-Mai à Marseille laprovence.com
+36. **Des Roms toujours en errance près de 36 heures après l’évacuation de deux camps à l’est de Nantes - Ouest-France** — Ouest-France [fr]
+   https://news.google.com/rss/articles/CBMimgJBVV95cUxQbTNKMkFFaEdIOEJBMkFCLXRBSXRtMEttbHlrTTU0YWw5czNBQW5hbE14aTk5V3pKY3A1LVJxNkRFRTVqSmVFUGJUejdkYjM1MXl0d251NGlHczlCcFVZZ2VGRnVqd3JhSHB1V1pJZnE5Uk9FUTQxRkZmQUZTZEI5c05Vd0tfSUJERlRXS1NOdElsNzl6bi02dkFiYXExM1ZCeUQ5ZVRDLWVObUlNZDVBQ3ptRUk4TmUyc1kwNXk0R0ZCcUNlZEFZYlBFVHF4UVo4dW1wQ2kxS1pUSko4bEtpem5vSG9KdXdLVHUyZ25CUXlpRk9JRUlCaXl6d1NnM1Q0MkVtTEhqN1Q5RlhrdHFNdEc5cXhaeW1VbWc?oc=5
+   Des Roms toujours en errance près de 36 heures après l’évacuation de deux camps à l’est de Nantes Ouest-France
 
-55. **«J’ai déposé plainte en gendarmerie pour le compte de la ville» : l'installation illégale de gens du voyage agace la mairie de Biot - CNews** — CNews [fr]
-   https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnp0MlRaNnRjd3FMWHNkT2NOYjlUOGdGLWp6anJCZVJ2NExtdUFuVDE1Rml0cGhnZDFSa1NVdk5JZzV1azZxT18xdks5dTVfTWF6VlRDMlRubS1qQnZJaThWZy1jRXZqbjJTNmkzZzhSZWVfTUt3ajgtaE14bHJVdnZOUWxiVUZSWHdPZDFTeXVpQnZ0RTROUnVfSU5RUUV4VkVWaldmZk5Zb1Y2SExja3BzeG9sM0xWUGctMNIBwgFBVV95cUxOcVNPeWozRGFtTS1kUkdCT2pKdk9iOU1tRHRxRzdhUjVoSVZkTWdDR3Q1N01zZnBCWGI5NE4wRmNFcXcxRmk0MXRTZ29Ld190LW1RRzJBdWZiQXpPV1pnRGlJRUJPaFdtOXdRZ1kwUXdXeEFtY3RMcUF1TF9YOHotTGhqNExpVWhmanhPd3R4bVpaLU40b0MycmtBNjhWSDFicnF6c1ZDSnVhUXZMd1dZVUhBRC1CZTFSblRlaEdiX3Y3dw?oc=5
-   «J’ai déposé plainte en gendarmerie pour le compte de la ville» : l'installation illégale de gens du voyage agace la mairie de Biot CNews
+37. **Faute de "solution", un camp de gens du voyage s’est installé sur l’exploitation d’un agriculteur d’Éguilles - La Provence** — La Provence [fr]
+   https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDBMVXdKdklYNFVfMzk4ZlQ1QW5ZZ0lMQ1E3UmNGX2k4b3lwdzAyY2RuNHRudy1haUxkdzJTdmpCb21XR3YydlVuYkJxNDNqMGVoU3Ayb3lJVUtPWGJaOVlRLWVnczlqRElORFNPMkhFMTRPOElxMWRkSkhESC04TDF5UXFhLTFDTURCWXlLeTE0NXI5RGJqRFVzb0hnUTFfTVB6c3dCaUNPd3JNd2FsMm9hOVBDTEFPUnM4NHJCay1iV0xQWS1KQi1Oa2JLRWlUR2NYSTBpRTlJYi1OWEJ5cTJKdGR5TjlSaUZwRlhSdTVpSUVnQXAyVQ?oc=5
+   Faute de "solution", un camp de gens du voyage s’est installé sur l’exploitation d’un agriculteur d’Éguilles La Provence
 
-56. **Montceau-les-Mines. Gens du voyage au Magny : « On n’a pas trop envie d’être là, on n’a pas le choix » - Le JSL** — Le JSL [fr]
-   https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDk2RUlPVHNIekhudlN3UjBVTFZuVHpnNi0xbmNfSl9iYXFiYWNYRUhLWWZOanBMbzRyb2l6RnRQYW1GSjBvX01IV2lkdkEtWXE1cS1WWFVIUVlBY3dka2hKN3lNMEtSYURZeXprQzVwRWRmY3lFT1lScU9SdDVJTnRCODVXeENQLV9fZzR3emduRkdPRDQ2UFVfcWdHMEswUEl6QkdjM2JEWmZYaTJ6WkFwVUl3VHc?oc=5
-   Montceau-les-Mines. Gens du voyage au Magny : « On n’a pas trop envie d’être là, on n’a pas le choix » Le JSL
+38. **L'installation de gens du voyage sur un site protégé de l'Yonne entraîne des échanges houleux avec des élus locaux - L'Yonne Républicaine** — L'Yonne Républicaine [fr]
+   https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQnNldlBMYWhYdUNsU2I0aXJCN0pIZTdyZ3ZzMWZlb1dhOHRva1BEb3dQTUJuTU9QdC1HYmNfaHhOZHpoSTZ2b2toN1ctbkN5STJaOEU3MGtPc0o5OXF1MWZneF9zcDR5aHNGVGxfelpIaWxDQzFTOWRNSzJNLWtUWmxxd0lCTWxpMW93X3BQOC1wSTNfVERhU0RIUk9RdmpibmhhTVZkekhSUHBtc3M5cWJVOU1NLURQRnpPM0EwZEQ1dnQ2UHBKOVZIZTd0X3JPd1pIVXdsdE5wZGh2SnlFQmx5MlFDSGNoV1JUSl9uM282ZjVUdC1VaEtFTDRlY2c?oc=5
+   L'installation de gens du voyage sur un site protégé de l'Yonne entraîne des échanges houleux avec des élus locaux L'Yonne Républicaine
 
-57. **Entrelacs. Une quarantaine de caravanes de gens du voyage s’installe sur un terrain agricole - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
-   https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnQ3UDZWSmlzUU9RSWhqbkRhVVdpaWJleklRLURNSVl2d25wNG13YnJfLUpmRmlvcUhReDlaVjhwM3c4UnJDS2dIaWE3NTNTSmlyS1VwdkZ0dDVEZ2d2ek0ycl9DQ2xHUlIwdEJrUFFFVEpiU2xUNTFOT3dhZTMwa0hOQ1E5U0JEQUdpdVFFOEdIa1Fabks0TmI1ZmtQejU5dGlXWWtVOFBYaGRwd05keWdyRTFxcGdOWkNGNnJHMjlpRzhidEFRZHYyc1dVeGJYTFJEQnNvMA?oc=5
-   Entrelacs. Une quarantaine de caravanes de gens du voyage s’installe sur un terrain agricole Le Dauphiné Libéré
+39. **Gratentour près de Toulouse lance un projet inédit : un espace permanent pour les gens du voyage sédentarisés - horticulture-abadie-pyrenees.com** — horticulture-abadie-pyrenees.com [fr]
+   https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQmtqLXhRVW1wbllROFFHZGhWZFh0WVh4ZjNKWlFmdWtPX3ZMbnpuNWF5bUY0dmtCVU13U3dqLWdkYXNBQ21YbGdVTFd1ZWhxTWpxSFZCaU5UUzlpWWJVelhSSWd5Rm1NQkYw?oc=5
+   Gratentour près de Toulouse lance un projet inédit : un espace permanent pour les gens du voyage sédentarisés horticulture-abadie-pyrenees.com
 
-58. **« Une nuée de caravanes » de gens du voyage débarque en plein entraînement sur leurs terrains - Actu.fr** — Actu.fr [fr]
-   https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUnRvZi1tY0pXVzBaYUs4QjVmYjU2N0VOckM5M0ctR1JnMVNkR0NjdEZIVG9uWWMtTFFYdzdGNGhwQk02RzdkSzRiTDFTajJFejR4REhON244d2hRU0doZm51VUQwRktGem9iMkhXdkF0cTM1c3FCcTRQd2h5MGt6cnJhY1RmQlE1MHBXVUtpbGNUVGMwc2M4TzRpQVJDa1VQbXM5U0loX0M4TFdhMzhvLUpsNzBOX1VvY0VqaG5taWtIZDZOWVpleWlFNVAtLUhHdnlnaXplTjdORUE?oc=5
-   « Une nuée de caravanes » de gens du voyage débarque en plein entraînement sur leurs terrains Actu.fr
+40. **Des Roms toujours en errance près de 36 heures après l’évacuation de deux camps à l’est de - Maville Nantes** — Maville Nantes [fr]
+   https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNE8tUTlISFpvSzNybXB5Unl6d2NtTnF5NlZzWFpCYTJYZlNwU0d0RTZlTXlfRTVoRjZ2UExtVk9FX0tieFFxSGhGNjBmakJaZUJPTmxfc2RjNXNRRmlCYkZETVpwcDV0bHdOeUQ3T0ZxcDB6eXlNa09pTzY5My1WdklMLTRVWlg3Wm5ETGJQNXViZWU1cnJhWWdzaHZpTHhqSDFrQXpPZl8wbDRBV1RsenhwcnBoOWZaUzNFWGlkMHEyc01YWHBBQlFIUHM5bzVnbHRzQmNiLW1qbGhITHVhTVo4SDdIc3ZFYnhuNVlqQ0I?oc=5
+   Des Roms toujours en errance près de 36 heures après l’évacuation de deux camps à l’est de Maville Nantes
 
-59. **Bras de fer dans ce bois de Vence : après s’être réinstallées, les caravanes des gens du voyage s’en vont sous haute tension - Nice-Matin** — Nice-Matin [fr]
-   https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWxnVnFpdE95LUwtVkd0OFQySDh0NlV2Sk5pTDFyVFVnMER5N005SWdNM1MyRlloeVRZLXNDeUlxRlAxbUFhRjFGT3dXRFdGZFN0cHFFRkttNGxlSTN1VFJuQW1nWWp5cThtMS1pSGJPTl96MHNSUk5SLUVWRVRtMk9rNUxCMGNSMzBYT1g0UXVuUVlxTlljWjh6dmhRUjVJVVFfeVZ5dHdDUE16OWc3dG5TaEp3bExYY1hPNGk2ZDNaeWJxYjVqSFZpRFg?oc=5
-   Bras de fer dans ce bois de Vence : après s’être réinstallées, les caravanes des gens du voyage s’en vont sous haute tension Nice-Matin
+41. **Chevigny-Saint-Sauveur. L’aire de gens du voyage est fermée jusqu’à lundi 24 août - Le Bien Public** — Le Bien Public [fr]
+   https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHV5ZVdnTU9HbUNlM1QtQkU5WDdoSmI3cGJKYXRXYk4tY0ZfRDRObGxjcVhGaHZuWkhwaXBtWEstUnhRcTlvTF9RLUNPQlNxbEtvSnZyUjBXTE1VVjA0VlJONnp4YjMyR3ZpMU1EcWlaYVVVRVlTbFpsTWkzbm9QMXlpTm5UWkl0dWhTLXl5S1JIc01Tc1Z0cDJ3UjFhSGRsTXE1N2N5aw?oc=5
+   Chevigny-Saint-Sauveur. L’aire de gens du voyage est fermée jusqu’à lundi 24 août Le Bien Public
 
-60. **Au lendemain de l’évacuation de deux bidonvilles, des familles roms sont toujours présentes au bord de la route à Nantes - Ouest-France** — Ouest-France [fr]
-   https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaXVRZV8yQ1JJcUo2N1poTmNwN0NTdXg4MVpObEpSOUVfRzFWc09TVWEzaGU3ckFaUGtrekFTcnp0QzlUUzN4TmZEbk9xcFZFcnU3dFdOcjdEVzM5Z0xCMlFaXzZwSS05MHNFcWh4RUtzR2RkYjJnYkZXcTBGM1d2M0ctelZxQ1NqaDI5bHNVbGZweWlHVzdYVVlzSGpuZnZMV3BKTTl4VGNvQ1VMb2xSR1dmQ2dOMFRjY2FhQzkxV3AweEJJb3dfSUFpRDVDQmNYQkpsVGRBUHpieEY4U2FoTFE2QXdmWlk4eG1fMWp6MHFCc1kwblVNaVN1aDRmVF9xMHhPdDM5Ykg0VjlNeUV4VzZnRW44OWJKbWkzUlhGcXFJTUhLTnpHOFdjb1RHblMtU3JvOEtRVUM?oc=5
-   Au lendemain de l’évacuation de deux bidonvilles, des familles roms sont toujours présentes au bord de la route à Nantes Ouest-France
+42. **"Au risque de se prendre un ballon dans la caravane", des gens du voyage envahissent un stade de football pendant l’entraînement des joueurs - Midi Libre** — Midi Libre [fr]
+   https://news.google.com/rss/articles/CBMikwJBVV95cUxNZHFoVExlWTBjaC1Xai0yc0tnSFJxLWRpQTM0QnpsWFMxcGpTN3kzX2d0QVgxQmdrVkV4UzVya0lmcUhleDRPbVQ3bFBxUjVrOVVzdWJUdjRhTm5xZlFrS3UxQTNMUlZEb1ZHb252MG1zS0tZSmRQYWh3NkJpcDY0RXA0NHFyN29ZcVNvTjFnQzhxUDZ4cmhscWVBbHJ1M0wxZGJyd21uX1VONkdkMXQ1VTgxdWd3SlNjSGhXZzMzTFpDYXBZSmgzRElnQTR6QzR0dTNpcXlkT3Q5RU52UWNzRVFvc0hfUVMwVmwtUG9DYlRVR0JFbzhLLWZXbjhjSVZ0em1vQThoeXdiNTdobTE5X0FXcw?oc=5
+   "Au risque de se prendre un ballon dans la caravane", des gens du voyage envahissent un stade de football pendant l’entraînement des joueurs Midi Libre
 
-61. **"C'est une expulsion inhumaine" : deux camps de Roms évacués à l'est de Nantes, les associations scandalisées - ici.fr** — ici.fr [fr]
-   https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdy10T25HY0ZwRWVnSTE1SGE4Ykg5X2c2ZERncXZqUjM1QTJ5aHBxV1RFcmZ6ZTlTUVdYVDR5ZXFjWkZQZ21IUzI4ZFBiNTJIekhrd0RocUR4NmNlckpDMFhCM3FjMnVwWmlObWlPaGFsMmhSMmotczJyNVhONkRlbGFxZzJHc3dpY2FjY09wZGUxa0w2R3FQWFM5X25Ea2V5VlkyMFA0TzJHUkFJUERnZ2RWMDUzSGVkNmlyTmpGSnFWM0tzWGt5cQ?oc=5
-   "C'est une expulsion inhumaine" : deux camps de Roms évacués à l'est de Nantes, les associations scandalisées ici.fr
+43. **Gens du voyage : après une installation illégale sur le stade municipal, les occupants laissent une cagnotte de plusieurs centaines d'euros à la ville - ladepeche.fr** — ladepeche.fr [fr]
+   https://news.google.com/rss/articles/CBMioAJBVV95cUxPSEprb0VLX1dGME93MlFwSzgtbEtsY3hpQnhOakZvM3JWMkdRQnctcXdaaG5abW9ETFlrT04zRXFidTgyMHRGRE1UMFB0NlN3di1EYkt1ZTVDcDRjZG9WaVZnWDcyQmkwQlhKbUZ3MkJ2U3ZRSHE0cUFEU1VTSDRBMVQ2SS1ubURQaGJ6TWU0Rlk2Ym40a2J4alhuRnprVWVFYUFONEVkZk9kVTZCXy1MaU1ZX3lNd1FfM3VHRFNCWG1LcElNeGVqNHczdVlwVkNrWTkyc2NhdE4yTXFMNTZTcEJXM1lWMER4QW0xNXpNaFVlbkRUOUZLRTRnbDFOZE9DY0NRa05xV1Z2WHZ5QUFZbm1Rd3A2TEdFNmZOY2JGVUI?oc=5
+   Gens du voyage : après une installation illégale sur le stade municipal, les occupants laissent une cagnotte de plusieurs centaines d'euros à la ville ladepeche.fr
 
-62. **Malgré l'aire de grand passage, des gens du voyage s'installent sur un terrain privé à Disgoville - ici.fr** — ici.fr [fr]
-   https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOG5OWFpaY3FKdmlMMjFnTTgzd0ZRam5oV1g2aDNTNXBScm9MeFFQUVlIYU9YU2FZaGtXeVlRMWxNbVp3NDZvUzF0eXhmVy1kMTlNWlVGSTg3TEdLbnNrR3prS3k0TmJLN0hpNGwwZ3IyUlFpR1prc19fZWQ1MlpaTlFkSnpja1NHRXpOQ0pzdGhUT0RiYzNqSVJjSXdoTXY1Z0VHa0QwU1c3OE5heWJobGJmRVpOX2NCUkwxMXJKYXRON3AzUmhmVWRGQ2RRcnZTenhDWFE0QUVhVmRuSEx0eTN1aXE1aGk2WEE?oc=5
-   Malgré l'aire de grand passage, des gens du voyage s'installent sur un terrain privé à Disgoville ici.fr
+44. **« Nos élus s’assureront que les engagements sont tenus » : après l’installation de gens du voyage près de Dinan, la mise au point de la mairie - Le Télégramme** — Le Télégramme [fr]
+   https://news.google.com/rss/articles/CBMipgJBVV95cUxPVkRHMHhwNFM4aXktZDBiNWRWTWhBMkk1TWJnbmRfUWRIRDVCS21hSE1VY0dLVlczWUVKRGtqd3NGa01KNlNhd0Z4eG80TUEzLWdlUDhFZDNBQnpkRWZNM05EczYyRVR3NGVIeUYyTEJ0ZUNGdFdNX05jc1pHek9pR3FFUFZybkhmajYxTEJGa2JBLXl4Z2lmUm94YVVHZ0R3SHNDc1ZoQWhNeUItQWVDYm5keVRXUFFveDJJd0VXQ2Y4emQ0d3FQellWc0Z0US0zdGx0ZmNuRC1zTDlkSWpneGZIbjhmZ2FfTFAyYkFVU050OUZDZE9lZ0VINEZwN0NRbWZBWHlrNnIza2tyUTdaX2UyNk54RTMxQmJHOG5BVW5rU1A1eEE?oc=5
+   « Nos élus s’assureront que les engagements sont tenus » : après l’installation de gens du voyage près de Dinan, la mise au point de la mairie Le Télégramme
 
-63. **Des dizaines de familles Roms se préparent à passer la nuit au bord de la route à l’est de Nantes - Ouest-France** — Ouest-France [fr]
-   https://news.google.com/rss/articles/CBMiigJBVV95cUxQUVdhWXEwZElaZ3NobUVQNEtNcUs0ZmN6djgyNzZHanhPQy1wQVhvMDdNQWlTTEpTdmVVcjY2cXVYbFJzYzdQdWdNT09XTnNyUE9pOHp2V3IxWVRTRXFQTHNiZ0JuT2hUM0kzWHpsX1h5WEM5d0UwWFk2S1ZMVEt0S3duUWhCWjFlT2xjbnZ0YnFQRGNqR0NJdU50ZW5EWmNkSHlxN2lwRFBZSlJIY0NKSFVhWEdNc3E5REtqWllwSjBTdjU4Ny1GWi1pR2xobmY1M0Jfa2otelFkSTd1UGd2Z1BkdER6MVlQN1hNMFNGakJqOXVrbmZPOGF0MUoxb2hFUE9GdmdqUlhvZw?oc=5
-   Des dizaines de familles Roms se préparent à passer la nuit au bord de la route à l’est de Nantes Ouest-France
+45. **Les familles roms expulsées du quartier Doulon, à Nantes, toujours sans solutions - Ouest-France** — Ouest-France [fr]
+   https://news.google.com/rss/articles/CBMihAJBVV95cUxNdWhLYXRURVBicnA5em90cVpoUkZzVlVSdGhtUUFYSHB3ektnMVVPeVEwbW1QNlRSNEludkhCdlVQTHpaYlBpY1N3LWdMWlFNVzRFbFZqdmZCMGpyd052S3VpdEpQYnhRZjc3N0N4TGRiVmcwZzFlX3JwdThDRUM0SE5HRHVvN1ktbWRuOXBNU1dzMTJjRFJBS19RekpjS3hxUG5mRWY5RWZOTVFhRnJFZnpkUEVCTGFfQTRFUFV4WjhPTmxWU1pWZHpBdU5pNFZmN3ZTUkk2R28yVGFwRDJpT25LSExRY2VIcS1tNFYzdlloWnNTYzMyMWpKQVNLNUhyQlF2UQ?oc=5
+   Les familles roms expulsées du quartier Doulon, à Nantes, toujours sans solutions Ouest-France
 
-64. **Gens du voyage à Saint-Molf. Le sous-préfet répond à la critique du maire - Ouest-France** — Ouest-France [fr]
-   https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ2luX01aNWpVZFJFYVJhZmRwVDBqQ3hQMjloQWREVmtobUFoeUtXR19RbmltQktvMXI2Qk1xbFNzMnlQYlJNQ2VHQ0ZtTjgzOEVvSjVpSlo2QVlwVkZqUkJPWTdFVm91bG9nUmhOcFJRRzFfXzlOWElMNDZyUzRyNzJvS2hWS1QwUGJTVFc1MEFWQXF2UFZqSktVMkpnd3ExZkJ3Q3dIWFNqNW9TQ1RXVS1xWHZENkR3UnV1bE5SbEpmbU5kTlF0Z2UxWkFOU1N1ejRvWE1sYXoxUHpSckN1cU1BQUg4TnFZUHdNZ1hBc1NCMjlWQmViUGdOcHdUYWlf?oc=5
-   Gens du voyage à Saint-Molf. Le sous-préfet répond à la critique du maire Ouest-France
+46. **Les familles roms, évacuées mardi à Nantes, sont toujours sans solution - Ouest-France** — Ouest-France [fr]
+   https://news.google.com/rss/articles/CBMi9wFBVV95cUxONHNmQzBrVTE1MjI2a0VKU3daMVM2amVybFQyQnVNejlaUXdpalhPdzY4VUtVQXBUUVA1elc1bXFLR2RvWXl1UDBiYS1nNEp0djZrb3pubEV3bVlVV21xQ0JENVRpWHFFY3RRYWRvWWNsaUp1eG11TVNiVlN5WHZKZnVVMWlmMlZBNjdILTBzME5CNkQwUWVKMzUtaDgxZzNfb3IzNUM5dVhCekZadFpCdlZxR2dNTnYyWVVpZHltTFNucXdMeF93bVZMalVjYUNKTGhySGtYQlZyNnd6R0R6MzFyYVYxRUFEMWNYNjM1aFlsS0ZmUEJZ?oc=5
+   Les familles roms, évacuées mardi à Nantes, sont toujours sans solution Ouest-France
 
-65. **« La population a doublé » : l’installation d’une mission de gens du voyage à Douville-en-Auge et Heuland fait réagir - Ouest-France** — Ouest-France [fr]
-   https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMG5iSmEtYkVvWWZFZklCbzZCbDZaSFVtYmxfUzFjUGN0SHVzMTRuY01Xa000dEg2eWlhaFNTY0ZIZ1hGZEpGcVg4bmt2UXpOS1VGTHlxQzZabFFRRGZHNmdHQ0paVi1Sd2FoNVo1T0hSSHMyS0NlQWZhZXhNZFAzMTZqOTNSaDM3WURIWUp0X2RVWjk0WlZMQ2x2LU9YQ2hpNXhidTZIMUljdnFmN0J2c3liUzczTXY4a1A4LWJaQ1ZtWHlkR250QnljRnR6N1VuUjZUODVjM2VWUkpObGdKRWN3VEdpM05FZ0tPYUxuM29aY3paM2dRMGppUENmZzlpRXA1S1E1YkwtNGE0VFlTN3o2enRGZEw0U2hYVThTMXo0WmpYdlp3YVZR?oc=5
-   « La population a doublé » : l’installation d’une mission de gens du voyage à Douville-en-Auge et Heuland fait réagir Ouest-France
+47. **Bürgerrechtler und Kämpfer für die Sinti und Roma in Deutschland - Romani Rose feiert 80. Geburtstag - SWR** — SWR [de]
+   https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMm9WWU5KblZQUHdUZUFmNzl4OE5ERTVLamcxR0lSQmhqVldHUTZITFo2XzFOa3hQSlVRdXNBS0hqOGUzRFlrVkpBbFZjcmh5dEFlSEZFVE1XSTZlbmRoMzNld2RJdWpVQUpXUURzaUE4UmNFaXlRdjRPalFIQmI4dnRlLXZRbnVFclF5aE0xNXM5VnI5MWhsUzgxdThrU0FOeW5hcGtTeWQxNEhNazFUdXFleG4yY3dFYlFOc2sxQlFxTUczSW9ZdjdnVzl3M2lLV0U4THpNQkc?oc=5
+   Bürgerrechtler und Kämpfer für die Sinti und Roma in Deutschland - Romani Rose feiert 80. Geburtstag SWR
 
-66. **Une procédure d'expulsion engagée à l'encontre des gens du voyage installés sur l'ancien terrain de foot de Gastuche - DHnet** — DHnet [fr]
-   https://news.google.com/rss/articles/CBMimAJBVV95cUxOMlZ3b2pRMTN2RktjTUd5UFZxcVNLejBCWG1lTkNKVVpZQmd5MmdmeGV1X1VlT054eVRyLVhISWVSM3N6N2l4cjB4UjUxS3pvdEk0VmtHVFpxTldFLUdLMkItYUpwc05BQ0xBM0xscXdQeTgzNTJCcVBYZlpYLWFEeHRTNUwySDJoOWtqVGNUSDFzSGFZdWRha0VNSTFpUmMxMnpTUXl2aGZoeFd0VFF0TzYyLUphT1g3cUxUNC01YkdkRE9Ed0ZZWW1taEJSUXAzNnZIQlZmMG1DYmdNRlFZRmRCaXBSWnFKZFBXUjh6Rnp4MFIxXzF0MFhwM21OTThrbDFKVWw0MldBcnRJdGlWMFRabXZoM1ZH?oc=5
-   Une procédure d'expulsion engagée à l'encontre des gens du voyage installés sur l'ancien terrain de foot de Gastuche DHnet
+48. **Verdeckte Identität zwischen Roma, Judentum und Familiengeschichte - MiGAZIN** — MiGAZIN [de]
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE9qOEQ2ZUFBY0I4SnZiRjdEbUhTQk5penkwMFdZcHlXVkR0cTEtaUxzQVM0ZkNOZVl0VDBaZi1fOHY2SDYtNVpPcjZyUlQ2TE9wRzI2TGVJWWtqdmpuMEpGUWI4T2tpVVNaQXc?oc=5
+   Verdeckte Identität zwischen Roma, Judentum und Familiengeschichte MiGAZIN
 
-67. **Българските неонацисти: какво изповядват и как се родиха - dw.com** — dw.com [bg]
-   https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUQ5RkYwN0pGa21mZWNvY2daRWVud1N2RVUxajM1VUZObHFnRkhpZU5hWDFGM3FxMDVaVk14VW9ybjZmNzJoQVdLQlZLbHdaclRsanc3RVJmTnJoSm5qbnNUR1BOaTdJcmFRRjVpWXlHZjVGaDhzeGhoV042QlBPTTFkQ2k2Ym13N3ZkeHZmLWfSAZABQVVfeXFMTzdlenZXcUFvU3hoNC1GS3dINGlRemRHT1VrSVE4SmFxclZWU1c2dHQzSkxFT3BuY1htZ0JNZ1BWZDNrNGJpZlBjZTlDTV9hRW1jRTVHM3c1aDZ6eDhmT2lxUkZrdTJYZlloTm9Lc3hrZ3pLbllkTHNJTDNqdEpiSGRYUFRHQS1sZXVHSmVEMkM1?oc=5
-   Българските неонацисти: какво изповядват и как се родиха dw.com
+49. **Kalenderblatt: Was geschah am 20. August? - Neue Presse Coburg** — Neue Presse Coburg [de]
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxONXZINlVRYWdNRVNVMnpVbW9Hbk1XWU1NdzRlT2ZtMFB4SHRCdVlzaFRRbi1yMmFvYWcybUFNSFFRNGJwRjZ2UTBfSXNheHZQc0RhWko0ZFpXZHV2WXpJVGtPUldDQW5TZ0J5NldtX05ickxMNXlRcDFWSGdjblIzYUNxTlAwUjEtc0I1Q1pXVnJLTTU0N0xrbEV5ZlpDR19KeXdpUGhwbUtYc2Y4ZWJRY2hn?oc=5
+   Kalenderblatt: Was geschah am 20. August? Neue Presse Coburg
 
-68. **Азис: Хората свикнаха с гейовете, но с ромите – не - bgdnes.bg** — bgdnes.bg [bg]
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0THlySFE4OE9EbDR0bzVsMlJnbTJRR3RWZ2I5RFRzekZYTzNfQ0NiUnNrbVZMT01tT0dyQWZGQTVaT1pSNGNMYXc2eXd4VVphMF90d0MxR0NOV3J1MEVPeFVwVQ?oc=5
-   Азис: Хората свикнаха с гейовете, но с ромите – не bgdnes.bg
+50. **Christoph erzählt von der Deportationsgeschichte seines Vaters und wie sie ihn bis heute prägt - SWR** — SWR [de]
+   https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2JSRXdBMnlZWGROaXJ6RmRsVjlzNXMtdmFOYld5clJ1V0k4ZGZzeGN4Q3ZwM2RHRVR1ZTVYMHRuNzNaVERVZXhCQ21tTVd4djVaeU80RmFfNnF3UXZ4OVdXSGlxWDRmUi1wdDlWY3k3UV82VUdodHNzd3d5aWpzRVJES3E2MHhpZTlJ?oc=5
+   Christoph erzählt von der Deportationsgeschichte seines Vaters und wie sie ihn bis heute prägt SWR
 
-69. **Όταν η αστυνομία δεν διώκει αλλά εξευτελίζεται - Athens Voice** — Athens Voice [el]
-   https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHYwckVPQ1Jna2RtOXZBZEp6SVIxT2UxQ2NoZXhDZ3pJOXJaME56b2RoMUc0TVJHc09uS20yWmR4R1BBdnM3TXFaUEJRdjNSZEFIVU5VMWM4eW8yUHJZWXk2TkRERHZ5azB4djVkREtBUnBmTUQ4Sm9lS250aWdZWVJON0lPN1Y3QjVCRFVGV0VDMFIzenZEeC0xN0sycHh3T1Fr0gGoAUFVX3lxTE10TElHM1lmWUd3SnF1VFpXOUdVYVNEWEQwOHJmMkhpd1phZC1tenBIVHlKS096d2FNTHpiTlhfSEdjSmkwRE4ybFFVRzJLdExwRDZCdTRXdEhUVkZfaGM2bE1feUpyQjIydGtLbjRYeTJ6dWxSRllqUzlmTldBOWJwMFVGMEhhZnVEUDJ0eUNvc19Wd1loQ0RVcktDaUZJb2NzT2c5ZmJmZg?oc=5
-   Όταν η αστυνομία δεν διώκει αλλά εξευτελίζεται Athens Voice
+51. **Il sindaco di Albufeira indagato per alcune dichiarazioni sui rom - The Portugal News** — The Portugal News [it]
+   https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFBWWnVONEF4SmlMVGZXcUdfeEwyZ1kxeHgxOXJxS1RjeFotRldYd3hNaDFtYXVHOEdCc1lzajN6eHZaa05PaURJcF9yUmk2dVNxRTNaSWVpMU9iQTFEeTZXYTlPM1RQUGw2TkpKTklDa3hrQXF1TUxDS3F4WEk4cm45RmJSOEc5c21Sb3Q1cEt3b1VOb19WWFFjSklYNjZzY0VJZFpqZ0pLejZIaTRfdmNXQ2x4bXI5bmE5SGlfRFY0c0xub2R1VGd4Q3ZPSUlYZlkyTw?oc=5
+   Il sindaco di Albufeira indagato per alcune dichiarazioni sui rom The Portugal News
 
-70. **Δήμαρχος έβαλε «μπρος» κάμερες παρακολούθησης για Ρομά - Aftodioikisi.gr** — Aftodioikisi.gr [el]
-   https://news.google.com/rss/articles/CBMimAFBVV95cUxORFdaZk56TGtQUTY5S192aElWQk5ub0c3X2ZzZzZCck5NakZmblc3a29OOWo3bjJtaGNiS2dOLWZudlY5SVVISFU0dXpjalpXb2F0d0VCQlBlYWtwaWxvZmFSMDlJdEFDWnVSaTNGaXIwdlgyeThaVTViYTBINEI3Ti1ZVXdrS3VnekRGZzl0V2NXUmFqOV9zTg?oc=5
-   Δήμαρχος έβαλε «μπρος» κάμερες παρακολούθησης για Ρομά Aftodioikisi.gr
+52. **В Москва пак няма бензин и дизел, въведоха ограничения - Haskovo.Net** — Haskovo.Net [bg]
+   https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2ZscGNxQ3kwR0piYmU4OUxnbG83VFJlZDBXb2ZLZVhWNXVTdWRreDhGa0I0UmU2WlpSZlBTTDR6Q09xYkNzNU1EallDRXd1bmNsTlNxUUxZelM4NU9BT21fLVVTMVBCQS15Y28zSkY0bE4yZVZyVkRNN1U4ck04WnlrRmVSOEg5R2pHWU9Idk1veE83b19N?oc=5
+   В Москва пак няма бензин и дизел, въведоха ограничения Haskovo.Net
 
-71. **Χειροπέδες σε 18χρονο Ρομά για σερί διαρρήξεων σε επιχειρήσεις της Νότιας Ρόδου - Δημοκρατική της Ρόδου** — Δημοκρατική της Ρόδου [el]
-   https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXlCUzhOU2NjUVJ2V0ZIN0dJR3JmM21NUFRyQWRpY21Dc1pXcGxLYmZjYUhEdk5yTlBDS1J6a043NFlhWW9XNGtHWXhONy03VkN1QThoZnFoakpyQXctN2g1bEhwT0JGUW1jTHZlU0FtSG5LUVVEb1JzaTlUUTN5LVJqcHVGVE5uMkI5MDd6T3E0U0xyMjFNMzE4ekFyaGpJeVQtOE9PT1dIT3dhVWdoQzhydUVJOEI0dUE?oc=5
-   Χειροπέδες σε 18χρονο Ρομά για σερί διαρρήξεων σε επιχειρήσεις της Νότιας Ρόδου Δημοκρατική της Ρόδου
+53. **Сръбски хакери: Откраднахме данните на 105 000 хървати - Novini.bg** — Novini.bg [bg]
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTE00NXdsbVdKVkh2c2o0dm1lbUFQcXpfLU9CY2M3VThULWNyWF8yaWJoQVRaS203RmU0Q3RERWMtYzlYTHVHV3Y1VHY1SmM3REVTMlhRTGliQmw?oc=5
+   Сръбски хакери: Откраднахме данните на 105 000 хървати Novini.bg
 
-72. **Αστυνομική επιχείρηση σε καταυλισμούς Ρομά στην Αργολίδα - Αργολικές Ειδήσεις** — Αργολικές Ειδήσεις [el]
-   https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbkNBbG96eHVJLTFKQmptb3F2cGpGZW13SHpZVmlDbXZoS3h6MWc5LWVULWJUVlNkTTdFc21ycTZraWxKZWQ3TUcxXzRoSGRXUXJlcTUzM0swU0JyV0VrbHZFckVxdTJONXc?oc=5
-   Αστυνομική επιχείρηση σε καταυλισμούς Ρομά στην Αργολίδα Αργολικές Ειδήσεις
+54. **Честит рожден ден на Пепа Секса - bgdnes.bg** — bgdnes.bg [bg]
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZVW9Fc19YZ1RhQlRyUEZ2YVMzaEJXekIwNXF3Q3dVTW5Pb19uT3l1MFNQNXZLczlNcDY0VzdzQ0l0OVNmY0hBbHFkMnZZTkZJYWRvdV9n?oc=5
+   Честит рожден ден на Пепа Секса bgdnes.bg
 
-73. **Έφοδος της Αστυνομίας σε καταυλισμούς Ρομά – Συνελήφθησαν πέντε άτομα - tharrosnews.gr** — tharrosnews.gr [el]
-   https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUd4bFZNTzAtVmJ5Y0J4SVFreURLck5MaWFOVE92YnA5ZkhfMTlIQU9pREhSamhmbVdKbDhsaDBBVjl6U21ab29hUmlGZGRNVURuTVRJX0ZTeGlBRVRfUnBCUE50cjI0a3o0ZF9uQmVWWmFiUmpjdVhRMWRBYXp6bmdpeXhRV1JNQm5FTXJuZ25tU0hxcmhvcVlGLUdGdE5aQjhUaTVKdw?oc=5
-   Έφοδος της Αστυνομίας σε καταυλισμούς Ρομά – Συνελήφθησαν πέντε άτομα tharrosnews.gr
+55. **Πατρινοί και Ρομά πιάστηκαν στα χέρια σε πανηγύρι: Πέταξαν τραπέζια και καρέκλες – Δείτε βίντεο - Newsbeast** — Newsbeast [el]
+   https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVTd4dWR6ZFFyODJ2dFlWZ3Z1WDEzSnBqRHBQekxEcWFIOFIyNnZ2TWF4NE5tWUVCdkQ5RDRrczc3R2VzOTlDRHNWYTdvLTBRNFo2ZWtnVnpzUDlrUHJRaFI2ZFVrMkFhc2hWdFUxZW9pb1pLTjBpTzEyMVg5V3ZySUVaa0pFcm8xUzZVeGtSLUxWMi11YmVBQU01eDF3d3JjbmFaZ0I3ZUt6OUwxY2NUVE9BTlhIa2t1UTZTOEttcERLZzVQSW5iNzdCUmxBa1BJX0x0WTNxanM?oc=5
+   Πατρινοί και Ρομά πιάστηκαν στα χέρια σε πανηγύρι: Πέταξαν τραπέζια και καρέκλες – Δείτε βίντεο Newsbeast
 
-74. **Επίθεση Ρομά έξω από το ΑΤ στη Γαστούνη: Τραυμάτισαν δύο αστυνομικούς, ταυτοποιήθηκαν 4 δράστες - iefimerida.gr** — iefimerida.gr [el]
-   https://news.google.com/rss/articles/CBMid0FVX3lxTE5ueWV0ckhsNmZFSTRENE1JNVEtdm91VkxuMURtRzRRZ3lRTWJvVjM0Z1E1YVZKV3Z0SW1iYU45RDB1eDVJZUM2b05QOG44dHR4RW0zWXE4Wi1qR1BsNFUwd2JiNS1ndzktbFpiQ0NoTXBKXzF0SldZ0gF8QVVfeXFMUGJkOENNM1hZMjBDX0FtSVV4TXUtVWtRVGVlbVg2R3ZQRXhmWFlKNmxaMmZYUXRzYTJ3UTFQSEh3T0VfVnJNOWdXSXVrRFVUX1NPWHJwY2xrc1h5NGIzWnVDLVk5ZkpKRXNxUi1vcjhqSXd1MndiQ1J1cjZpdw?oc=5
-   Επίθεση Ρομά έξω από το ΑΤ στη Γαστούνη: Τραυμάτισαν δύο αστυνομικούς, ταυτοποιήθηκαν 4 δράστες iefimerida.gr
+56. **Παιδιά Ρομά και μεταναστών έγιναν μια παρέα στη Δημοτική Βιβλιοθήκη Κατερίνης - Pieria24** — Pieria24 [el]
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXczZmY5QUJHV1B5cFh4R1I0VEIta1RjT2JpYkdkTEVfS0ZKYzBxUnE3TEJXNXBwQnBIRDFzMjE0NE5CZ0I5RExYOXZmSDJXSjNvVmE1RHdiNlRRYXpsVHdBYl8wWlFYaThrYi1aRFl6XzhQMkRRamZjbWZpQm1vOXE0M0tWR2JVNDdsY1hwTUFRby1Iei04WmZ4dDI1bWFP?oc=5
+   Παιδιά Ρομά και μεταναστών έγιναν μια παρέα στη Δημοτική Βιβλιοθήκη Κατερίνης Pieria24
 
-75. **Ρομά τα έκαναν γυαλιά καρφιά στο Αστυνομικό Τμήμα Πηνειού για να απελευθερώσουν φίλο τους - ProtoThema** — ProtoThema [el]
-   https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjRpUzAtX2xzdk5CNlV0aGluVWVDTG1fS3lGRzRYaXVQRFNWT0dweWRLV2wyOVJQejk5aGl3aDE0dUFraEVqTGlmZEpIeF9NYjViODZsOFFTeWlNMEMzdUwtd2tSY3VaX25MUHNHdXJNdnhzNDM0Ujh5NVVBVnduTjl2M0tSU0ZWeUZabVd6dk90YWl3NXBHM2Fyb0cta244dllLVE1fblZlZU51UGJ1b3FSbk5iN3hCdThCMzNQNWNfVnRUWG5Ebmh6Wm9PdUg3VlZhcmRwMHfSAd4BQVVfeXFMT0tHbHlUVlVuOXhpaVFweDdpbUR6NTZaT3gxa3lueXNuZW84NzNFYTk3U0JDbWMzZVd0eXpubE5lV3UyU1MwY3g4a3ZFUGtJZzNLR2VGY1V3VXFUTUtxa3BTRGx3MldfQ3hzd2g5Q0RyUW1QLWwwaEtuZjg3YmEzNV94bmFyR0V6MUhiZWNLM1ZtYTUxZkZGSU1BQklZeGJ5eXN4MkoxMVVQVmM4SkhLNmt6RDNBbklIWk1TNHZLWi1EdmNZQy1XY1o4TlRNR1BQUTNvMkNRV0NELXRKOGpR?oc=5
-   Ρομά τα έκαναν γυαλιά καρφιά στο Αστυνομικό Τμήμα Πηνειού για να απελευθερώσουν φίλο τους ProtoThema
+57. **Ηλεία: Εισβολή ατόμων σε αστυνομικό τμήμα - Επιχείρησαν να πάρουν κρατούμενο - Προκάλεσαν ζημιές - CNN.gr** — CNN.gr [el]
+   https://news.google.com/rss/articles/CBMiygFBVV95cUxORUJFSkVYSTZyR2tpWG11YmNMcFp0aERIMzhFLURSMWh1YVVpU2Zza0F1NmtXYXJLams3VElTZmVYcHhUNEJLQUFYLXVGcklkSWFuOXY5T1NWVVVkU1BwXzhNenJIX3hRMVE3clhWLTkwVmhQNnk1SHpqc2VHN01EbEdhSEFDSmE5WllPX3BkOU5DX1BhTlpwNy1iZmUycWloWGdxdWN6MHk1UXUwT3NhV3hreTNlLUJSbGxaa2hsVXdvOTdOelBHNVNn?oc=5
+   Ηλεία: Εισβολή ατόμων σε αστυνομικό τμήμα - Επιχείρησαν να πάρουν κρατούμενο - Προκάλεσαν ζημιές CNN.gr
 
-76. **Πρωινή Ενημέρωση - 18/08/2026 - Skai.gr** — Skai.gr [el]
-   https://news.google.com/rss/articles/CBMiekFVX3lxTE1ySDFUVjVzVS1pNFl3d2tIZ3M0THhraVpJYVkwLUtaT3ducVczdlNUeHFoQ0sybzljLXZWOGk3NDRWeXRhT3N1WGxhbmUyS200b3NrS1JjRWpzS2NzRjRFNUN6SExlSkhUWXVaNnRLd0lyQjRzZW5HQVZ3?oc=5
-   Πρωινή Ενημέρωση - 18/08/2026 Skai.gr
+58. **Pulsometr – Dożynki w Osięcinach – Koncert Skolima - Telewizja Kujawy Włocławek** — Telewizja Kujawy Włocławek [pl]
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmlONzZ1X05RWWlTWUpaeTNHSHV5aTcxOXBOSkE1TUlaYkRoMVZoYWU0SHNDS2x1NXZfMEU1Uy1mcEVvcGl0bzZVa05RbVFHd3ljQ1FudlU5UU12Q0tXMVY2UW44M1ZCNmRibDRGdndoS0JUempUX3dPSVFVcEVMT1o2aGNHZmQxWUNwdFd3?oc=5
+   Pulsometr – Dożynki w Osięcinach – Koncert Skolima Telewizja Kujawy Włocławek
 
-77. **Γαστούνη: Επίθεση Ρομά σε αστυνομικούς για 18χρονο - eleftheria.gr** — eleftheria.gr [el]
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxNejNWeTluQlZPRjZEOW9KNmdhSUgtcmpiXzRmaE90WVEtNUtWd1VSNW9SMWtfMEdqeGFKdm5QT25DRjhtRTg1ZFdhWGpRUTh5dEJlV19pUl8zVm44Y1FXVUJTQVYwYWJCSzh4YXZwY1FCa3d6X2d4V3JyWk5RX3czcm95MjFlYmNEZHZINVpB?oc=5
-   Γαστούνη: Επίθεση Ρομά σε αστυνομικούς για 18χρονο eleftheria.gr
+59. **Krwawa awantura w sklepie. Próbował zatrzymać złodzieja, został brutalnie zaatakowany - foto - Bielsko - Biała. Najpopularniejszy portal regionalny.** — Bielsko - Biała. Najpopularniejszy portal regionalny. [pl]
+   https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWxjY09CZFdQU2dJVUdsbno3SFRxWDdVNjNBNWhMX0tRX2E0Z0VDUkc5ZFJaUGFrd3pta0pFcHF1TUdtcGVqZjFlakVrcy0tRUdMMHhlZWtsczFyY2hYT2RFVHIyOXRsUGNDUm1Xb0E3SjFQY3hBZ2FCb05WdENDaUFPTU5XdlZlSHowV3ltRnJRb1JlZDA5V1RfaUdIOS1BVVBqRWNUeDc0aDNkUk00UGFXN0pIRUJWV1ctUnN4amRkQUJUOTh5NEVBbw?oc=5
+   Krwawa awantura w sklepie. Próbował zatrzymać złodzieja, został brutalnie zaatakowany - foto Bielsko - Biała. Najpopularniejszy portal regionalny.
 
-78. **Historia osiedla Pekin w Bogucicach dobiega końca. Ostatni mieszkańcy wyprowadzili się stąd rok temu - Dziennik Zachodni** — Dziennik Zachodni [pl]
-   https://news.google.com/rss/articles/CBMihgJBVV95cUxOTlpvT29oa2NJVEd0WXlObzJZVEU3a3NNeFRHUXM0LVFZS0hlSXp0SURBdFM3N240TC1jN0E4MWxlWVBrc1YxYXZUTDRwMWYxLXRYdWg1bGFqSDFaZ1F2VGZJZXV4VkYxRUE1SmVDZTVGQU1ZenlwUFdmb0dwOS14bnZ6Z3R6MTRfcG5jZWgtdVczWklXR2RnRE5ZMXR4Q2p0d240R3ZCWHVCSW5GTFhMMlFlQnFEZEI0aWEtU0JVUW9zZEZtbkpiRzBReEYxMlc0SFFmZmdGRW1JZkRSMzNFSm5RMEw5dW85aDl0Mks3bllFZWJuNEROSVlOLUo3UjZwbC10S0dn?oc=5
-   Historia osiedla Pekin w Bogucicach dobiega końca. Ostatni mieszkańcy wyprowadzili się stąd rok temu Dziennik Zachodni
+60. **OAB/RS promove evento on-line em memória do Holocausto Cigano e em defesa dos direitos humanos - oabrs.org.br** — oabrs.org.br [pt]
+   https://news.google.com/rss/articles/CBMizwFBVV95cUxPOHp5Wkh1X3dzU1lHdU1nazg0UllNUm9vVzd5U3VabEtuVzItYjU5Y1gxM0VCSlk5Qmk4MmlMd0lFTDBVQnBMNVoxekRnRnNvSXZKV25YLUN3VTIyOFU0WmFEdXNIYTlyLXdjRTNjRWE1QlB1WmJrMDE4a1MwUnZvWi01NWhBWlZHVjc5UXJOdXc1SlBoSFRIVHZPNDI2dWRpYTZ0YjVxaVB0Z0JwUnhvQ0NEV2dDVmdiNkU4WVQtZi1EelU2b0c1TGFOMmd2T3c?oc=5
+   OAB/RS promove evento on-line em memória do Holocausto Cigano e em defesa dos direitos humanos oabrs.org.br
 
-79. **De moderado a "xenófobo": o milagre de Albufeira - Observador** — Observador [pt]
-   https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2w1U05vTWV0YngxRjdYdF9mMjB4eTAwWmhwbURSbThkRzVhaGFtd2JYYUx5czBHWGlmeXFUZk5GeVBBS1gtZ3EwSzlIMTFOTmRxcW42YlR2eWRkb3RjYmluZVZKUG52ODBiZ2c0TWJkaTk1UmdveEloOU9Lalo4eEtVTlFGeXFWcDZ1TjhxLWo1Ni1lZ3JYYQ?oc=5
-   De moderado a "xenófobo": o milagre de Albufeira Observador
+61. **Ciganos instalados em Capinzal teriam passagens por estelionato em Xanxerê - nativacapinzal.net** — nativacapinzal.net [pt]
+   https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHhUTjBiMTNMeTU0ZncyUGVyWElFMzNEWVlLMWpXbTVKZjVPZW1LMm54YmY5UmJmal94RTVDd3BvTXlvLXNla0NoNmFXdjNNbWlhem9Ub0NQSndEMG5YaExUcGJYM01LZTkxRENsUS1MMlJ3QmMwLTBDV0o2dTVVT05KejdTMHhSbVpxVHFpZ3dFRHVpeVlVbzh6MjMwV0o3NzUyNzVLa0tZajhEblo4?oc=5
+   Ciganos instalados em Capinzal teriam passagens por estelionato em Xanxerê nativacapinzal.net
 
-80. **Autora da denúncia contra Rui Cristina preocupada com "precedente" para eventual Governo do Chega - TSF** — TSF [pt]
-   https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2preVNLUzlCdXJHX1NwWGFFWHkwSExZd1lzVEZvVzMydE1HUFBydV84aTRCSUl0UGp2RUs4NjZFLVhJT0RBak1mSjUwYmJMcEhtb1N0UUtrTE95aUcxS00xeHdOalE2QkZkR21BLVRLTTdyZEVENGhkNlBHZG9DZ0lzUDB0VjR3MG9aQ3VidmJVODFUOUU3NDQ2QWlPaFd5cWpBUnlwekVzN1hvNkdTVWI1T0xqaWhMTVFQSXVyY0NjbGhPMjlkTlg5OHhDMXFPZXFmTzlB0gHGAUFVX3lxTFBUUk5sb0xUbVVQM2plOV9nUEZQNVJxYkhZOUtMNnlZUnlndzFSSklsczI1VjJZV3d3cGJYNjByTEpPd2JoRWUtRmViMVZzZjJ1aW1WblJRWnQ5aU5fcnpOcGM1SmR2MkpSQ05WLWJlaWlQa2xlaG5xankyNEozTXFNcVFCRWFLaUJOelRxQXlZUTJ1MEVrY0tNY3NKSzNtVzV3RVdGRUY1VjlBT2pfR0RGUmZuekpPbk4yYUF5bDNPalVOMjRiZw?oc=5
-   Autora da denúncia contra Rui Cristina preocupada com "precedente" para eventual Governo do Chega TSF
+62. **”Heder till våra busskollegor i Skaraborg” - Arbetaren** — Arbetaren [sv]
+   https://news.google.com/rss/articles/CBMigwFBVV95cUxNdF94YjVkdFpjYUpGWjI3NDQ5VHp1azNfaGJLbE1HbHJzektjVkJCNWxRSkNBM1B0MFZFR2pySThPWnk4cHJSajBsUUh2ejIwU3Vsd254TC1QRG1VdVhLcUh5RFFQT2Z6S1B6NGxzTjdrSkszQ0F4TEk0dHRQZlVyNEFOQQ?oc=5
+   ”Heder till våra busskollegor i Skaraborg” Arbetaren
 
-81. **Clóvis Abreu, que cumpre seis anos de prisão por agressões, processa Ventura por declarações “estigmatizantes” sobre comunidade cigana - Folha Nacional** — Folha Nacional [pt]
-   https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMDBHSl9wdk9NRkpWWjJ3bWRDU1dVS2hlbWJCTE9ESUhQd3VOWnZmeDdaeTZDMjk1eVp6UXJTUGpocHBLem5aQnBXRnNaRW9EM1o5UFVPZDVjNFJxSVRIT3NFNkVnLWhiMFlDbHdQa3M4bDh0R0tGeHdLM3BLeWp5QzRQQ2oxdlVwWDV1aE9yRE82TWpzbVl1eHFFaHhhTmFuUTBRNXAtRXIydWNFU19EdG15X0xWdE5RY2hRcDhRaEdrRlpzcnlLc3BZT29WcGJxY0FfeXFFVElFOEhvUTdseHRLT0RVUWY0aktyZmxESThtNmJTRWlVWUU3QQ?oc=5
-   Clóvis Abreu, que cumpre seis anos de prisão por agressões, processa Ventura por declarações “estigmatizantes” sobre comunidade cigana Folha Nacional
+63. **Nu måste Ask ta tag i polisens romregister - Aftonbladet** — Aftonbladet [sv]
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxObWpLaFhVeEVVQ01QWFh6ODlMeGJNakZFN00wNmJ5WFJXcHNPdVdlMjdEMXY0ejZTcmZPXzJtWkJjdTd0Q1A2N3g3eHVUcVJUTVdtWjVWZGtwV0pacWxzQU9WTUxmSmpXajhRQ1p6SUVhaTlxbXZQbG1xY0tDVHVNLUJWV1ZaOGVGVklQV2d3?oc=5
+   Nu måste Ask ta tag i polisens romregister Aftonbladet
 
-82. **Nevimata - nyheter från Radio Romano | Nevimata - nyheter för romer - Sveriges Radio** — Sveriges Radio [sv]
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HNkcwNkI2dmc3SGhnNG5LektLai1XMG16dTdxaTVsanl3TFB3ODVDYkQ4MGRIbkx4cXVIOFhWMF94Rk9UYXZGVVMxTTdaZGRvaEduSnZIVQ?oc=5
-   Nevimata - nyheter från Radio Romano | Nevimata - nyheter för romer Sveriges Radio
+64. **Partiengo debato nahklas konfliktosa - Sveriges Radio** — Sveriges Radio [sv]
+   https://news.google.com/rss/articles/CBMifkFVX3lxTE9GQ0xqSlctVFVfbXNETUE4Tm9sa0tnQk5GRnRpUXNoLVFiYmcwamZONjl0OUVyS2gyV2QzTnhHbmVwZmRORWhSclM2NFI2VWNkd0dyT0MyLUhNNV9CdlJjUTRtM29yYTJlLWlZZ1lyRVYzUzBDYlZhWDBOcng4QQ?oc=5
+   Partiengo debato nahklas konfliktosa Sveriges Radio
 
-83. **Digitalne alosaripaske kartice bichalde e manushenge – akala itane o regulia - Sveriges Radio** — Sveriges Radio [sv]
-   https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFJpNHdGcFRkZ3Nia1JMRVlKY1NYdzB4YURTODVJQm90M2hOeHA4ZEoxQ1dzUUFDNFJRdnA0eHpUeVpvb3FoLWQxTUx1b3VacnFEeVpXNlZiOXdXb0tvcWpDM1hITlZUQk9QYngzTDZjNmNtWG9jd3VCNEtkRWh2SXVrd25CQmhOUjFyZERiV1NuM0VIeFB1cEEtdER6cG84S1Q1dm8tWWJiTnZfX2cwMg?oc=5
-   Digitalne alosaripaske kartice bichalde e manushenge – akala itane o regulia Sveriges Radio
+65. **Nuri Selim: Svarta Safirer lena i scena ko Lisaberg - Sveriges Radio** — Sveriges Radio [sv]
+   https://news.google.com/rss/articles/CBMikAFBVV95cUxPZzNNTG5vbWFqMmZRRHpueGh3ZWtfMnF2dzZkX1c3Qkd6d1VXOG8zQk9BbmFaV0UtRlA0bDYxRm5KbTlZRXBBZFY2bVdlaGM5b1huaG1mblp0V3hMS1kzOUtmc0lsQUVEUlNzOHZ1SG9OV1huVVZYeHFBLUVQSmpWZDhTNUtRSVZ0M2dsWDl6S3o?oc=5
+   Nuri Selim: Svarta Safirer lena i scena ko Lisaberg Sveriges Radio
