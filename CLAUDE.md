@@ -42,6 +42,13 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
   `gdelt_note` (co GDELT reálně vrátil).
 - **Google News rate-limit:** 25 dotazů jede s pauzou GN_PAUSE=2 s, browser
   UA, retry na 429/503; do feedu jde `google_news_status`.
+- **Rozbalení adres Google News:** RSS vrací jen wrapper
+  `news.google.com/rss/articles/CBMi…`, který se z EU neotevře (Google
+  přesměruje na souhlasovou zeď) – agent na VPS z něj nic nedostal. Řeší se
+  cookie `SOCS` + endpoint `batchexecute` (ověřeno 8/2026, 100 % úspěšnost).
+  Běží až nad NOVÝMI položkami po seen filtru, ať se neplýtvá požadavky; po
+  rozbalení se filtry a dedup pouštějí ZNOVU, protože teprve se skutečnou
+  doménou jde poznat galerie deníku, romea.cz nebo agregátor.
 - **seen.json (`state/seen.json`):** perzistentní dedup mezi běhy (TTL 14
   dní), commituje ho workflow. Feed obsahuje jen NOVÉ položky. Ukládá se až
   PO úspěšném zápisu feedu (jinak by se články ztratily).

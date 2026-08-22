@@ -87,6 +87,15 @@ EXCLUDE_SOURCES = []
 # Google News rate-limituje rychlé série dotazů (15 jazyků + 10 watch webů
 # = 25 požadavků). Pauza mezi dotazy + retry na 429/5xx tomu předchází.
 GN_PAUSE   = float(os.getenv("GN_PAUSE", "2"))   # s mezi dotazy
+
+# Rozbalení zabalených adres Google News (news.google.com/rss/articles/CBMi…).
+# Bez toho dostane agent jen wrapper, který si z VPS neotevře – Google ho
+# v EU přesměruje na souhlasovou zeď. Řeší se cookie SOCS + endpoint
+# batchexecute (ověřeno 8/2026, 100% úspěšnost). Bonus: teprve se skutečnou
+# adresou jde spolehlivě filtrovat podle domény (romea.cz, galerie deníku…).
+RESOLVE_GN_URLS   = os.getenv("RESOLVE_GN_URLS", "1") != "0"
+GN_RESOLVE_PAUSE  = float(os.getenv("GN_RESOLVE_PAUSE", "0.6"))  # s mezi rozbaleními
+GN_RESOLVE_MAX    = int(os.getenv("GN_RESOLVE_MAX", "200"))      # strop na běh
 GN_RETRIES = int(os.getenv("GN_RETRIES", "3"))   # pokusy na jeden dotaz
 
 # --- GDELT (globální, vícejazyčný; bez klíče) ---

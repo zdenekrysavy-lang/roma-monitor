@@ -266,6 +266,27 @@ def run() -> None:
     items, skipped = filter_unseen(items, seen)
     stats["skipped_seen"] = skipped
 
+    # Rozbalení wrapperů Google News na skutečné adresy. Děje se až TADY,
+    # tedy jen u nových položek – rozbalovat i to, co agent už dostal, by
+    # znamenalo stovky zbytečných požadavků.
+    res = fetch.resolve_google_urls(items)
+    stats["gn_resolved"] = res["ok"]
+    stats["gn_resolve_tried"] = res["tried"]
+
+    # Teprve se skutečnou adresou jde spolehlivě poznat doména – projedeme
+    # filtry znovu, ať vypadnou galerie deníku, romea.cz i agregátory, které
+    # se přes zabalenou adresu poznat nedaly.
+    before = len(items)
+    items = fetch.dedupe(fetch.drop_excluded(items))
+    stats["dropped_after_resolve"] = before - len(items)
+    if before != len(items):
+        print(f"  Po rozbalení adres odpadlo dalších {before - len(items)}")
+    # Skutečné adresy zapíšeme do seen, ať se týž článek nevrátí zítra
+    # pod jiným wrapperem.
+    now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    for it in items:
+        seen.setdefault(fetch._norm_url(it.get("url", "")), now)
+
     print(f"Kandidátů: {len(items)} nových ({skipped} už viděno dřív)  "
           f"(Google News {stats.get('google_news', 0)}, "
           f"GDELT {stats.get('gdelt', 0)}/{stats.get('gdelt_status', '?')}, "

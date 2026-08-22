@@ -21,6 +21,9 @@ přílohu otevírat nemusíš. Kdyby rozbor v těle chyběl, otevři přílohu
 `dokument_CTK.html`. Pokud táž dávka ČTK dorazí dvakrát (jednou s rozborem,
 jednou jako holé přeposlání), použij tu s rozborem a druhou ignoruj.
 
+Pole `url` obsahuje PŘÍMOU adresu článku (wrappery Google News se rozbalují
+už při sběru), takže odkaz jde rovnou otevřít.
+
 Obě pole `candidates` obsahují zprávy (title, url, source, lang, snippet,
 published) a pole `sources` se statistikou sběru. Jde o SUROVÝ sběr —
 obsahuje šum, který musíš odfiltrovat.

@@ -1,5 +1,6 @@
 """Sběr kandidátských článků z více zdrojů + deduplikace."""
 import re
+import json
 import html
 import time
 import random
@@ -259,6 +260,89 @@ def _is_aggregation_page(title: str) -> bool:
     if " - " not in title:
         return False
     return len(_strip_source_suffix(title)) < 26
+
+
+# ── Rozbalení adres Google News ─────────────────────────────────────
+# RSS vrací jen wrapper news.google.com/rss/articles/CBMi… Ten se z EU nedá
+# otevřít (Google přesměruje na souhlasovou zeď) a agent tak dostane odkaz,
+# který mu je k ničemu. Cookie SOCS zeď obejde a endpoint batchexecute vrátí
+# skutečnou adresu článku. Ověřeno 8/2026.
+_GN_SOCS = "CAESEwgDEgk0ODE3Nzk3MjQaAmVuIAEaBgiA_LyaBg"
+_SG_RE = re.compile(r'data-n-a-sg="([^"]+)"')
+_TS_RE = re.compile(r'data-n-a-ts="([^"]+)"')
+_RES_RE = re.compile(r'\[\\"garturlres\\",\\"(.*?)\\"')
+
+
+def _gn_session():
+    s = requests.Session()
+    s.headers.update(GN_UA)
+    s.cookies.set("SOCS", _GN_SOCS, domain=".google.com")
+    return s
+
+
+def _resolve_one(gurl: str, s) -> str:
+    """Vrátí skutečnou adresu článku, nebo prázdný řetězec při neúspěchu."""
+    try:
+        art = gurl.split("/articles/")[1].split("?")[0]
+    except IndexError:
+        return ""
+    try:
+        r = s.get(f"https://news.google.com/rss/articles/{art}", timeout=25)
+        sg, ts = _SG_RE.search(r.text), _TS_RE.search(r.text)
+        if not (sg and ts):
+            return ""
+        inner = ["garturlreq",
+                 [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1,
+                   None, None, None, None, None, 0, 1],
+                  "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+                 art, int(ts.group(1)), sg.group(1)]
+        rr = s.post("https://news.google.com/_/DotsSplashUi/data/batchexecute",
+                    data={"f.req": json.dumps([[["Fbv4je", json.dumps(inner),
+                                                 None, "generic"]]])},
+                    headers={"Content-Type":
+                             "application/x-www-form-urlencoded;charset=UTF-8"},
+                    timeout=25)
+        if rr.status_code != 200:
+            return ""
+        m = _RES_RE.search(rr.text)
+        return _unescape_gn_url(m.group(1)) if m else ""
+    except Exception:
+        return ""
+
+
+def _unescape_gn_url(u: str) -> str:
+    """Odpaří dvojité JSON escapování (\u003d -> =, \u0026 -> &)."""
+    u = u.replace("\\\\", "\\")
+    try:
+        u = u.encode("utf-8").decode("unicode_escape")
+    except Exception:
+        pass
+    return u.split("\\")[0].strip()
+
+
+def resolve_google_urls(items: list) -> dict:
+    """Přepíše wrappery Google News na skutečné adresy. Vrací statistiku.
+
+    Kdo se rozbalit nedá, zůstane s původní adresou – přijít o položku by
+    bylo horší než dát agentovi wrapper.
+    """
+    if not getattr(config, "RESOLVE_GN_URLS", True):
+        return {"tried": 0, "ok": 0}
+    targets = [it for it in items if "news.google.com" in it.get("url", "")]
+    if not targets:
+        return {"tried": 0, "ok": 0}
+    s = _gn_session()
+    ok = 0
+    for i, it in enumerate(targets[:config.GN_RESOLVE_MAX]):
+        if i:
+            time.sleep(config.GN_RESOLVE_PAUSE)
+        real = _resolve_one(it["url"], s)
+        if real:
+            it["url"] = real
+            ok += 1
+    tried = min(len(targets), config.GN_RESOLVE_MAX)
+    print(f"  Rozbaleno adres Google News: {ok}/{tried}")
+    return {"tried": tried, "ok": ok}
 
 
 def drop_excluded(items: list) -> list:
