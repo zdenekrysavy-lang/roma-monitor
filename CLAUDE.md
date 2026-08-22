@@ -1,7 +1,7 @@
 # CLAUDE.md — kontext projektu pro Claude Code
 
 ## Co to je
-Automatický pipeline, který **1× denně (Po–Pá)** projde zpravodajské zdroje napříč
+Automatický pipeline, který **1× denně** projde zpravodajské zdroje napříč
 jazyky a publikuje kandidátské zprávy o Romech ve světě. Třídění, česká
 shrnutí a e-mail pak dělá naplánovaný agent v ChatGPT (režim B, NASAZENO)
 nebo Claude přes API (režim A, připraveno, vypnuto). Plánování řeší GitHub
@@ -15,7 +15,7 @@ Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
 
 ## Dva režimy
 - **B (feed pro ChatGPT) — AKTIVNÍ:** `gather.py` → sběr + publikace
-  `feed/candidates.json` (workflow `gather.yml`, cron 1× denně Po–Pá). Bez API klíčů.
+  `feed/candidates.json` (workflow `gather.yml`, cron 1× denně). Bez API klíčů.
   Veřejná URL feedu **pro agenta** (jsDelivr CDN — `raw.githubusercontent.com`
   vrací automatům 403, viz níže):
   `https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json`
@@ -26,7 +26,7 @@ Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
 
 ## Architektura sběru (fetch.py)
 ```
-Google News RSS (15 jazyků, when:3d, strop 20/dotaz) ┐
+Google News RSS (15 jazyků, when:2d, strop 20/dotaz) ┐
 GDELT (globální translingual, okno 72h)              ├─► dedup ─► seen.json filtr ─► feed
 RSS_FEEDS (13 romských feedů, okno 72h)              │
 WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
@@ -52,9 +52,9 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
 - **seen.json (`state/seen.json`):** perzistentní dedup mezi běhy (TTL 14
   dní), commituje ho workflow. Feed obsahuje jen NOVÉ položky. Ukládá se až
   PO úspěšném zápisu feedu (jinak by se články ztratily).
-- **Okna:** vše je široké kvůli denní kadenci Po–Pá – Google News 74h
-  (LOOKBACK_HOURS, aby PONDĚLÍ pokrylo víkend), GDELT 72h, feedy/weby 72h.
-  Že se nic nezopakuje, hlídá seen.json.
+- **Okna:** Google News 50h (LOOKBACK_HOURS – dvojnásobek denní kadence,
+  rezerva na vynechaný běh), GDELT 72h, feedy/weby 72h, profil cz 72h
+  (českých zpráv je málo). Že se nic nezopakuje, hlídá seen.json.
 - **Pořadí zdrojů při slučování** (fetch.collect) je záměrné: feedy + watch,
   pak Google News, nakonec GDELT. Dedup nechává první výskyt a ořez na
   MAX_CANDIDATES usekává od konce, takže při přetečení padá nejdřív šum.
@@ -66,15 +66,17 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
 - `gather.py`  — režim B: feed + seen.json (JSON i lidsky čitelný MD)
 - `analyze.py` — režim A: třídění/shrnutí přes Claude; prompt `SYSTEM`
 - `render.py` / `notify.py` / `main.py` — režim A: HTML, SMTP, orchestrace
-- `.github/workflows/gather.yml` — svět, cron 6:45 UTC **Po–Pá** (~8:45 Praha)
-- `.github/workflows/gather-cz.yml` — Česko, cron 6:50 UTC **Po–Pá** (~8:50 Praha)
+- `.github/workflows/gather.yml` — svět, cron 6:45 UTC denně (~8:45 Praha)
+- `.github/workflows/gather-cz.yml` — Česko, cron 6:50 UTC denně (~8:50 Praha)
 - `.github/workflows/digest.yml` — režim A, cron VYPNUTÝ
 - `PROMPT_AMANPOUR.md` — hotové zadání pro agenta (svět + Česko + ČTK, dva e-maily)
 
-Agent čte **1× denně v 9:15** Praha, jen Po–Pá (8/2026 zredukováno z 2×/den –
-třídění stálo příliš tokenů). Sběr má ~25 min náskok a stihne i ranní ČTK (8:55).
-Okna jsou proto široká (LOOKBACK_HOURS=74, when:3d), aby PONDĚLÍ pokrylo
-celý víkend; opakování hlídá seen.json.
+Agent čte **1× denně v 9:15** Praha, každý den. Sběr má ~25 min náskok
+a stihne i ranní ČTK (8:55). Okna mají rezervu (LOOKBACK_HOURS=50, when:2d),
+aby se nic neztratilo ani při vynechaném běhu; opakování hlídá seen.json.
+
+Historie kadence: 2×/den → 8/2026 dočasně 1×/den jen Po–Pá kvůli limitům
+agenta → po přechodu na vyšší plán zpět na 1×/den každý den.
 
 ## Jak spustit / testovat
 ```bash

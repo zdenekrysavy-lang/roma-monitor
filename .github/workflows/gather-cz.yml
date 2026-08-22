@@ -6,9 +6,9 @@ name: roma-feed-gather-cz
 
 on:
   schedule:
-    # Jednou denně, půl hodiny před čtením agentem (9:15 Praha). Posunuto
-    # o 5 min proti světovému profilu, ať oba běhy nekolidují na push.
-    - cron: "50 6 * * 1-5"  # Po–Pá ~08:50 Praha (léto) / 07:50 (zima)
+    # Jednou denně, KAŽDÝ den, půl hodiny před čtením agentem (9:15 Praha).
+    # Posunuto o 5 min proti světovému profilu, ať oba běhy nekolidují na push.
+    - cron: "50 6 * * *"    # ~08:50 Praha (léto) / 07:50 (zima)
   workflow_dispatch: {}
 
 permissions:

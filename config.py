@@ -15,11 +15,10 @@ import os
 MONITOR_PROFILE = os.getenv("MONITOR_PROFILE", "world")
 
 # --- Obecné nastavení ---
-# Okno pro Google News. Sběr běží 1× denně a jen Po–Pá (8/2026 – dvakrát
-# denně stálo agenta příliš tokenů), takže PONDĚLÍ musí pokrýt celý víkend:
-# 74 h = pátek ráno až pondělí ráno + rezerva. Že se v úterý až pátek nic
-# nezopakuje, hlídá state/seen.json.
-LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "74"))
+# Okno pro Google News. Sběr běží 1× denně, každý den. 50 h = dvojnásobek
+# kadence, takže se nic neztratí, ani když jeden běh vypadne (GitHub měl
+# 8/2026 výpadek Actions). Že se nic nezopakuje, hlídá state/seen.json.
+LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "50"))
 MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "300"))  # strop kandidátů poslaných k analýze
 MAX_PER_FEED   = int(os.getenv("MAX_PER_FEED", "40"))
 # Strop na jeden Google News dotaz, ať jeden jazyk (např. FR) nezaplaví feed.
@@ -75,7 +74,7 @@ GOOGLE_NEWS_QUERIES = [
 
 # Operátor Google News „when:" – vrátí jen čerstvé články za zadané období.
 # Bez něj Google řadí podle relevance a aktuální zprávy propadnou oknem 13 h.
-GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "3d")   # kvůli víkendu, viz LOOKBACK_HOURS
+GOOGLE_NEWS_WHEN = os.getenv("GOOGLE_NEWS_WHEN", "2d")   # rezerva na vynechaný běh, viz LOOKBACK_HOURS
 
 # Zdroje, které se z výsledků zahodí (porovnává se s polem `source`, bez ohledu
 # na velikost písmen). POZOR: nedělat to operátorem „-site:" v dotazu – Google

@@ -42,8 +42,8 @@ piš vlastní shrnutí.
 
 ## 4. Kadence
 
-**Jednou denně, pondělí až pátek, 9:15.** Sběr běží v 8:45 a 8:50, takže máš
-data připravená. Pondělní běh pokrývá celý víkend, bude proto delší.
+**Jednou denně, každý den včetně víkendu, 9:15.** Sběr běží v 8:45 a 8:50,
+takže máš data připravená.
 
 ## 5. Na co si dát pozor
 

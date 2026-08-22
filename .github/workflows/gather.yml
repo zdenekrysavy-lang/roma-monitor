@@ -6,10 +6,11 @@ name: roma-feed-gather
 
 on:
   schedule:
-    # Jednou denně, půl hodiny PŘED probuzením ChatGPT agenta (čte v 9:15 Praha).
-    # Odpolední běh zrušen 8/2026 – agentovo třídění spotřebovávalo příliš
-    # tokenů. Okna sběru jsou proto rozšířena na 24h kadenci (LOOKBACK_HOURS).
-    - cron: "45 6 * * 1-5"  # Po–Pá ~08:45 Praha (léto) / 07:45 (zima)
+    # Jednou denně, KAŽDÝ den, půl hodiny před čtením agentem (9:15 Praha).
+    # Historie: 8/2026 dočasně jen Po–Pá kvůli limitům agenta, po přechodu
+    # na vyšší plán vráceno na 7 dní – víkendové útoky a demonstrace jsou
+    # přesně to, co nesmí čekat do pondělí.
+    - cron: "45 6 * * *"    # ~08:45 Praha (léto) / 07:45 (zima)
   workflow_dispatch: {}
 
 permissions:
