@@ -66,13 +66,14 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
 - `gather.py`  — režim B: feed + seen.json (JSON i lidsky čitelný MD)
 - `analyze.py` — režim A: třídění/shrnutí přes Claude; prompt `SYSTEM`
 - `render.py` / `notify.py` / `main.py` — režim A: HTML, SMTP, orchestrace
-- `.github/workflows/gather.yml` — svět, cron 6:45 UTC denně (~8:45 Praha)
-- `.github/workflows/gather-cz.yml` — Česko, cron 6:50 UTC denně (~8:50 Praha)
+- `.github/workflows/gather.yml` — svět, cron 6:00 UTC denně (~8:00 Praha)
+- `.github/workflows/gather-cz.yml` — Česko, cron 6:05 UTC denně (~8:05 Praha)
 - `.github/workflows/digest.yml` — režim A, cron VYPNUTÝ
 - `PROMPT_AMANPOUR.md` — hotové zadání pro agenta (svět + Česko + ČTK, dva e-maily)
 
-Agent čte **1× denně v 9:15** Praha, každý den. Sběr má ~25 min náskok
-a stihne i ranní ČTK (8:55). Okna mají rezervu (LOOKBACK_HOURS=50, when:2d),
+Agent čte **1× denně v 9:15** Praha, každý den. Sběr běží v 8:00/8:05
+(trvá 1,5–5 min), takže má bohatý náskok. Čas 9:15 je dán ČTK: ranní dávka
+vychází v 8:55 a přeposlaná dorazí kolem 9:04 – dřívější čtení by ji minulo. Okna mají rezervu (LOOKBACK_HOURS=50, when:2d),
 aby se nic neztratilo ani při vynechaném běhu; opakování hlídá seen.json.
 
 Historie kadence: 2×/den → 8/2026 dočasně 1×/den jen Po–Pá kvůli limitům
@@ -108,8 +109,9 @@ vlastní).
 ## Známé limity / kam to posunout
 1. **GDELT je zdegradovaný upstream** (7/2026: i týdenní okno vrací málo) —
    sledovat `gdelt_note` ve feedu; hlavní zátěž nesou Google News + feedy.
-2. Souběh dvou runů může kolidovat na push (řeší `git pull --rebase`,
-   vzácně může selhat rebase konfliktem na feed souborech).
+2. Souběh dvou runů může kolidovat na push (řeší `git pull --rebase`).
+   Profily zapisují do různých souborů, takže rebase projde čistě; 5min
+   odstup crony je pojistka proti závodu při samotném pushi.
 3. Spící feedy (roma-news.com, romatimes.news, tvroma.sk, kalisara.hr)
    publikují na Facebooku místo webu — FB monitorovat nejde (Meta blokuje);
    nechány napojené, ožijí samy.
