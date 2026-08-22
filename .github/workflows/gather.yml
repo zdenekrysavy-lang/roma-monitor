@@ -10,7 +10,7 @@ on:
     # Historie: 8/2026 dočasně jen Po–Pá kvůli limitům agenta, po přechodu
     # na vyšší plán vráceno na 7 dní – víkendové útoky a demonstrace jsou
     # přesně to, co nesmí čekat do pondělí.
-    - cron: "0 6 * * *"     # ~08:00 Praha (léto) / 07:00 (zima)
+    - cron: "45 6 * * *"    # ~08:45 Praha (léto) / 07:45 (zima)
   workflow_dispatch: {}
 
 permissions:
