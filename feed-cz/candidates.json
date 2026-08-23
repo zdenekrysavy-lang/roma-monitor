@@ -1,118 +1,21 @@
 {
-  "generated_utc": "2026-08-22T22:00:46+00:00",
-  "count": 12,
+  "generated_utc": "2026-08-23T07:24:03+00:00",
+  "count": 0,
   "sources": {
     "profile": "cz",
-    "google_news": 55,
+    "google_news": 47,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 0,
     "watch": 1,
-    "before_dedup": 27,
-    "total": 25,
-    "skipped_seen": 12,
-    "gn_resolved": 13,
-    "gn_resolve_tried": 13,
-    "dropped_after_resolve": 1
+    "before_dedup": 23,
+    "total": 22,
+    "skipped_seen": 22,
+    "gn_resolved": 0,
+    "gn_resolve_tried": 0,
+    "dropped_after_resolve": 0
   },
-  "candidates": [
-    {
-      "title": "ROZSUDEK J M É N E M R E P U B L I K Y - Nejvyšší správní soud",
-      "url": "https://www.nssoud.cz/modalni-obsah/rozhodovaci-cinnost/rozhodnuti-426756?cHash=78ba6575b8f21e4e601bca75b6e28ec5",
-      "source": "Nejvyšší správní soud",
-      "snippet": "ROZSUDEK J M É N E M R E P U B L I K Y Nejvyšší správní soud",
-      "published": "Fri, 21 Aug 2026 07:39:59 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "V Broumově se postavili Romové proti Romům - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/v-broumove-se-postavili-romove-proti-romum-243578",
-      "source": "ČT24",
-      "snippet": "V Broumově se postavili Romové proti Romům ČT24",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Turek tvrdil, že je ambasador romské asociace. Ta už rok nevykazuje činnost - iDNES.tv",
-      "url": "https://tv.idnes.cz/domaci/turek-godla-zapadoceska-asociace-romskych-podnikatelu.V260819_112010_idnestv_krr",
-      "source": "iDNES.tv",
-      "snippet": "Turek tvrdil, že je ambasador romské asociace. Ta už rok nevykazuje činnost iDNES.tv",
-      "published": "Fri, 21 Aug 2026 18:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Západočeská asociace romských podnikatelů: V sídle je nikdo nezná, Macinka jim fandí - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/zapadoceska-asociace-romskych-podnikatelu-filip-turek-petr-macinka-motoriste-sobe.A260820_095246_domaci_vank",
-      "source": "iDNES.cz",
-      "snippet": "Západočeská asociace romských podnikatelů: V sídle je nikdo nezná, Macinka jim fandí iDNES.cz",
-      "published": "Fri, 21 Aug 2026 18:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Nakoupili jsme míče“. Pavel navštívil zápas fotbalistů, kteří čelili rasismu - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/petr-pavel-fotbaliste-rasismus-urazky-prezident-podpora-mongagua-napric-ulici.A260821_173208_domaci_svm",
-      "source": "iDNES.cz",
-      "snippet": "„Nakoupili jsme míče“. Pavel navštívil zápas fotbalistů, kteří čelili rasismu iDNES.cz",
-      "published": "Fri, 21 Aug 2026 15:47:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Británie: Rasismus a sexismus se v Británii staly běžnou součástí života, varuje ministryně pro rovnost - Britské listy",
-      "url": "https://blisty.cz/art/135517-britanie-rasismus-a-sexismus-se-v-britanii-staly-beznou-soucasti-zivota-varuje-ministryne-pro-rovnost",
-      "source": "Britské listy",
-      "snippet": "Británie: Rasismus a sexismus se v Británii staly běžnou součástí života, varuje ministryně pro rovnost Britské listy",
-      "published": "Thu, 20 Aug 2026 23:50:30 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Pavel na Strahově podpořil fotbalisty, kteří ve vlaku čelili rasistickým urážkám - Deník N",
-      "url": "https://denikn.cz/minuta/2161738/",
-      "source": "Deník N",
-      "snippet": "Pavel na Strahově podpořil fotbalisty, kteří ve vlaku čelili rasistickým urážkám Deník N",
-      "published": "Fri, 21 Aug 2026 14:47:16 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Akademik, který Jasona Ardaye obvinil z plagiátorství, byl suspendován - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1638419-akademik-ktery-jasona-ardaye-obvinil-z%C2%A0plagiatorstvi-byl-suspendovan.html",
-      "source": "www.prahanadlani.cz",
-      "snippet": "Akademik, který Jasona Ardaye obvinil z plagiátorství, byl suspendován www.prahanadlani.cz",
-      "published": "Fri, 21 Aug 2026 08:59:49 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Aktuální události, historie, výzbroj a technika - ArmádníZpravodaj.cz",
-      "url": "https://armadnizpravodaj.cz/diskuze/slabe-rusko-naverbovalo-vojaky-v-ghane-ta-mu-ted-predlozila-ucet/",
-      "source": "ArmádníZpravodaj.cz",
-      "snippet": "Aktuální události, historie, výzbroj a technika ArmádníZpravodaj.cz",
-      "published": "Fri, 21 Aug 2026 14:29:11 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Ženy vpravo. Krajní pravice přestává být v Evropě pouze výsadou mužů - Radio Wave",
-      "url": "https://wave.rozhlas.cz/zeny-vpravo-krajni-pravice-prestava-byt-v-evrope-pouze-vysadou-muzu-9638099",
-      "source": "Radio Wave",
-      "snippet": "Ženy vpravo. Krajní pravice přestává být v Evropě pouze výsadou mužů Radio Wave",
-      "published": "Fri, 21 Aug 2026 14:13:10 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Toto není izolovaný případ.“ Británie čelí rostoucímu antisemitismu - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/toto-neni-izolovany-pripad-britanie-celi-rostoucimu-antisemitismu-372993",
-      "source": "ČT24",
-      "snippet": "„Toto není izolovaný případ.“ Británie čelí rostoucímu antisemitismu ČT24",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Superdávka? Nedostanou ji pracující penzisté nebo některé samoživitelky - Deník.cz",
-      "url": "https://www.denik.cz/ekonomika/cesko-ekonomika-superdavka-kdo-ma-narok/",
-      "source": "Deník.cz",
-      "snippet": "Superdávka? Nedostanou ji pracující penzisté nebo některé samoživitelky Deník.cz",
-      "published": "Sat, 22 Aug 2026 17:00:31 GMT",
-      "lang": "cs"
-    }
-  ]
+  "candidates": []
 }
