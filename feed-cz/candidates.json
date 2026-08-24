@@ -1,21 +1,110 @@
 {
-  "generated_utc": "2026-08-23T07:24:03+00:00",
-  "count": 0,
+  "generated_utc": "2026-08-24T07:45:52+00:00",
+  "count": 11,
   "sources": {
     "profile": "cz",
-    "google_news": 47,
+    "google_news": 45,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 0,
     "watch": 1,
-    "before_dedup": 23,
-    "total": 22,
-    "skipped_seen": 22,
-    "gn_resolved": 0,
-    "gn_resolve_tried": 0,
+    "before_dedup": 22,
+    "total": 21,
+    "skipped_seen": 10,
+    "gn_resolved": 11,
+    "gn_resolve_tried": 11,
     "dropped_after_resolve": 0
   },
-  "candidates": []
+  "candidates": [
+    {
+      "title": "SONDA DO „SHADY“ REALITY PRVNÍCH BRIGÁD MLADÉ GENERACE - Člověk v tísni",
+      "url": "https://www.clovekvtisni.cz/media/publications/2863/file/sonda_do_shady_reality-analyza.pdf",
+      "source": "Člověk v tísni",
+      "snippet": "SONDA DO „SHADY“ REALITY PRVNÍCH BRIGÁD MLADÉ GENERACE Člověk v tísni",
+      "published": "Fri, 21 Aug 2026 16:32:21 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "O Roma vakeren - 22. 8. 2026 - mujRozhlas",
+      "url": "https://www.mujrozhlas.cz/o-roma-vakeren/o-roma-vakeren-22-8-2026",
+      "source": "mujRozhlas",
+      "snippet": "O Roma vakeren - 22. 8. 2026 mujRozhlas",
+      "published": "Sun, 23 Aug 2026 06:48:17 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Zákaz Vinnetoua a slzy na place: Skandály, které měly zůstat pohřbeny v prérii - KINOTIP2.cz",
+      "url": "https://www.kinotip2.cz/clanky/zakaz-vinnetoua-a-slzy-na-place-skandaly-ktere-mely-zustat-pohrbeny-v-prerii-20260823-17727.html",
+      "source": "KINOTIP2.cz",
+      "snippet": "Zákaz Vinnetoua a slzy na place: Skandály, které měly zůstat pohřbeny v prérii KINOTIP2.cz",
+      "published": "Sun, 23 Aug 2026 11:30:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Občanská válka v MAGA: Antisemité, fašisté, izolacionisté a blázni proti Trumpovým věrným, část 1. - Armádní noviny",
+      "url": "https://www.armadninoviny.cz/obcanska-valka-v-maga-antisemite-fasiste-izolacioniste-a-blazni-proti-trumpovym-vernym.html",
+      "source": "Armádní noviny",
+      "snippet": "Občanská válka v MAGA: Antisemité, fašisté, izolacionisté a blázni proti Trumpovým věrným, část 1. Armádní noviny",
+      "published": "Mon, 24 Aug 2026 07:39:09 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Meloniová a Farage už nejsou nejradikálnější. Stávají se mainsteamem - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-meloniova-a-farage-uz-nejsou-nejradikalnejsi-stavaji-se-mainsteamem-313477",
+      "source": "Seznam Zprávy",
+      "snippet": "Meloniová a Farage už nejsou nejradikálnější. Stávají se mainsteamem Seznam Zprávy",
+      "published": "Mon, 24 Aug 2026 04:40:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Co je hate speech? Pozor na šíření zpráv prostřednictvím sociálních sítí - Kladenské listy",
+      "url": "https://kladenskelisty.cz/326562/co-je-hate-speech-pozor-na-sireni-zprav-prostrednictvim-socialnich-siti/",
+      "source": "Kladenské listy",
+      "snippet": "Co je hate speech? Pozor na šíření zpráv prostřednictvím sociálních sítí Kladenské listy",
+      "published": "Mon, 24 Aug 2026 07:12:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka se od října změní i seniorům, většinou půjde jen o stokoruny - Finance.cz",
+      "url": "https://www.finance.cz/clanky/superdavka-se-od-rijna-zmeni-i-seniorum-vetsinou-pujde-jen-o-stokoruny/",
+      "source": "Finance.cz",
+      "snippet": "Superdávka se od října změní i seniorům, většinou půjde jen o stokoruny Finance.cz",
+      "published": "Sun, 23 Aug 2026 22:05:07 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Podpora na bydlení je jako loterie, říká analýza. Nepomůže ani změna výpočtu - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/super-davka-prispevek-na-bydleni-samuel-galan-paq-research-ales-juchelka.A260821_121834_domaci_tty",
+      "source": "iDNES.cz",
+      "snippet": "Podpora na bydlení je jako loterie, říká analýza. Nepomůže ani změna výpočtu iDNES.cz",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nová kalkulačka superdávky: Zjistěte si, na jaký příspěvek máte nárok od 1. října 2026 - EnergoZrouti.cz",
+      "url": "https://energozrouti.cz/clanek/kalkulacka-superdavky-zjistete-na-co-mate-narok",
+      "source": "EnergoZrouti.cz",
+      "snippet": "Nová kalkulačka superdávky: Zjistěte si, na jaký příspěvek máte nárok od 1. října 2026 EnergoZrouti.cz",
+      "published": "Sun, 23 Aug 2026 14:31:01 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Babiš mluví o tvrdším postupu proti prodejnám s kratomem. „Nejsem Karel IV., jinak by byly už dávno zavřené“ - Echo24",
+      "url": "https://www.echo24.cz/a/H6e6y/zpravy-domov-babis-slibil-zasah-proti-prodejnam-a-automatum-s-drogami",
+      "source": "Echo24",
+      "snippet": "Babiš mluví o tvrdším postupu proti prodejnám s kratomem. „Nejsem Karel IV., jinak by byly už dávno zavřené“ Echo24",
+      "published": "Sun, 23 Aug 2026 10:40:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "MUDr. Ivan Poustka: Zdravé město začíná podporou rodin - zpravykarlovarsko.cz",
+      "url": "https://zpravykarlovarsko.cz/mudr-ivan-poustka-zdrave-mesto-zacina-podporou-rodin/",
+      "source": "zpravykarlovarsko.cz",
+      "snippet": "MUDr. Ivan Poustka: Zdravé město začíná podporou rodin zpravykarlovarsko.cz",
+      "published": "Mon, 24 Aug 2026 05:27:00 GMT",
+      "lang": "cs"
+    }
+  ]
 }
