@@ -1,276 +1,235 @@
-# Kandidáti — 2026-08-23T07:23:34+00:00 (78 položek)
+# Kandidáti — 2026-08-24T07:49:48+00:00 (58 položek)
 
-_Zdroje: Google News 99 · GDELT 250 (ok) · feedy 34 · watch 4_
+_Zdroje: Google News 88 · GDELT 0 (rate_limited) · feedy 26 · watch 3_
 
-1. **Kokava nad Rimavicou ožije rómskou hudbou. Balvalfest oslavuje 25 rokov - Roma Television** — Roma Television [sk]
-   https://romatv.sk/kultura/kokava-nad-rimavicou-o%C5%BEije-r%C3%B3mskou-hudbou-balvalfest-oslavuje-25-rokov/1401001
-   Kokava nad Rimavicou ožije rómskou hudbou. Balvalfest oslavuje 25 rokov Roma Television
+1. **DELEGACIJA IZ SRBIJE U ŠUTO ORIZARIJU: MODEL ROMSKOG ZAJEDNIŠTVA KOJI ZASLUŽUJE REGIONALNU PAŽNJU** — https://romaworld.rs/feed/ [sr]
+   https://romaworld.rs/delegacija-iz-srbije-u-suto-orizariju-model-romskog-zajednistva-koji-zasluzuje-regionalnu-paznju/
+   Poseta Šuto Orizariju nije bila samo obilazak jedne opštine, već susret sa živim dokazom da romska zajednica, kada je organizovana, politički artikulisana i okrenuta zajedničkom interesu, može da izgr
 
-2. **August 1968 nám pripomína cenu slobody, odkázal Pellegrini - Roma Television** — Roma Television [sk]
-   https://romatv.sk/slovensko/august-1968-n%C3%A1m-pripom%C3%ADna-cenu-slobody-odk%C3%A1zal-pellegrini/1400998
-   August 1968 nám pripomína cenu slobody, odkázal Pellegrini Roma Television
+2. **Usame Zukorlić započeo predstavljanje izbornog programa u Sjenici: Prioritet razvoj infrastrukture i prava Bošnjaka** — https://romaworld.rs/feed/ [sr]
+   https://romaworld.rs/usame-zukorlic-zapoceo-predstavljanje-izbornog-programa-u-sjenici-prioritet-razvoj-infrastrukture-i-prava-bosnjaka/
+   Zukorlić iz Sjenice započeo predstavljanje izbornog programa za predsjednika SPP Predsednik Stranke pravde i pomirenja Usame Zukorlić započeo je predstavljanje svog izbornog programa u okviru kandidat
 
-3. **Za problémy s financiami Rómovia nemôžu, dokazuje analýza - fotogaléria [object Object] - Aktuality** — Aktuality [sk]
-   https://www.aktuality.sk/fotogaleria/264061/za-problemy-s-financiami-romovia-nemozu-ukazal-prieskum/prehlad/
-   Za problémy s financiami Rómovia nemôžu, dokazuje analýza - fotogaléria [object Object] Aktuality
+3. **Prvú gitaru si musel požičať, hrať ho učil dedo. Hudba mi pomáha vyjadriť, čo prežívam, hovorí spevák Honza Hron** — https://romanoforum.dennikn.sk/feed/ [sk]
+   https://romanoforum.dennikn.sk/prvu-gitaru-si-musel-pozicat-hrat-ho-ucil-dedo-hudba-mi-pomaha-vyjadrit-co-prezivam-hovori-spevak-honza-hron/
+   Prajem si, aby môj debutový album bol čo najpravdivejší, vraví devätnásťročný gitarista.
 
-4. **Kulináris élvezeteknek is hódolt a Borfesztivál közönsége - hodpress.hu** — hodpress.hu [hu]
-   https://www.hodpress.hu/kulinaris-elvezeteknek-is-hodolt-a-borfesztival-kozonsege/
+4. **Zelenskyj odmieta voľby počas vojny. Podľa neho by rozdelili Ukrajinu - Roma Television** — Roma Television [sk]
+   https://romatv.sk/zahrani%C4%8Die/zelenskyj-odmieta-vo%C4%BEby-po%C4%8Das-vojny-pod%C4%BEa-neho-by-rozdelili-ukrajinu/1401002
+   Zelenskyj odmieta voľby počas vojny. Podľa neho by rozdelili Ukrajinu Roma Television
+
+5. **Rómovia môžu pomôcť s nedostatkom pracovných síl: V jednej firme v Poprade tvoria tretinu zamestnancov - Správy STVR** — Správy STVR [sk]
+   https://spravy.stvr.sk/2026/08/romovia-mozu-pomoct-s-nedostatkom-pracovnych-sil-v-jednej-firme-v-poprade-tvoria-tretinu-zamestnancov/
+   Rómovia môžu pomôcť s nedostatkom pracovných síl: V jednej firme v Poprade tvoria tretinu zamestnancov Správy STVR
+
+6. **Splnomocnenec pre rómske komunity chce vyčleniť balík peňazí na odpratávanie odpadu v problémových oblastiach - Správy STVR** — Správy STVR [sk]
+   https://spravy.stvr.sk/2026/08/splnomocnenec-pre-romske-komunity-chce-vyclenit-balik-penazi-na-odpratavanie-odpadu-v-problemovych-oblastiach/
+   Splnomocnenec pre rómske komunity chce vyčleniť balík peňazí na odpratávanie odpadu v problémových oblastiach Správy STVR
+
+7. **Batériové úložisko plní dôležitú úlohu pri nedostatku energie, najväčšie vzniklo v Novákoch - Správy STVR** — Správy STVR [sk]
+   https://spravy.stvr.sk/2026/08/bateriove-ulozisko-plni-dolezitu-ulohu-pri-nedostatku-energie-najvacsie-vzniklo-v-novakoch/
+   Batériové úložisko plní dôležitú úlohu pri nedostatku energie, najväčšie vzniklo v Novákoch Správy STVR
+
+8. **Vysoké školy úspešne absolvuje výrazne viac žien ako mužov. Ich prevaha je viditeľná vo väčšine odborov - Správy STVR** — Správy STVR [sk]
+   https://spravy.stvr.sk/2026/08/vysoke-skoly-uspesne-absolvuje-vyrazne-viac-zien-ako-muzov-ich-prevaha-je-viditelna-vo-vacsine-odborov/
+   Vysoké školy úspešne absolvuje výrazne viac žien ako mužov. Ich prevaha je viditeľná vo väčšine odborov Správy STVR
+
+9. **“A Trojan horse for communism!” More big batteries head for review as familiar long distance ob... - Renew Economy** — Renew Economy [en]
+   https://reneweconomy.com.au/a-trojan-horse-for-communism-more-big-batteries-head-for-review-as-familiar-long-distance-objectors-pile-in-again/amp/
+   “A Trojan horse for communism!” More big batteries head for review as familiar long distance ob... Renew Economy
+
+10. **The Blogs: Guenter Lewy’s Damaging Legacy Cannot Be Ignored - The Times of Israel** — The Times of Israel [en]
+   https://blogs.timesofisrael.com/guenter-lewys-damaging-legacy-cannot-be-ignored/
+   The Blogs: Guenter Lewy’s Damaging Legacy Cannot Be Ignored The Times of Israel
+
+11. **Robert Cerari, chosen as the baron of the Roma in the Republic of Moldova - ipn.md** — ipn.md [en]
+   https://ipn.md/en/robert-cerari-chosen-as-the-baron-of-the-roma-in-the-republic-of-moldova/
+   Robert Cerari, chosen as the baron of the Roma in the Republic of Moldova ipn.md
+
+12. **Kulináris élvezeteknek is hódolt a Borfesztivál közönsége - hodpress.hu** — hodpress.hu [hu]
+   https://www.hodpress.hu/amp/kulinaris-elvezeteknek-is-hodolt-a-borfesztival-kozonsege/
    Kulináris élvezeteknek is hódolt a Borfesztivál közönsége hodpress.hu
 
-5. **Vicc: Két cigány gyalogol a nádasban és szúrja a lábukat a sok kavics… - Bikuci.hu** — Bikuci.hu [hu]
-   https://www.bikuci.hu/vicc-ket-cigany-gyalogol-a-nadasban-es-szurja-a-labukat-a-sok-kavics/
-   Vicc: Két cigány gyalogol a nádasban és szúrja a lábukat a sok kavics… Bikuci.hu
+13. **Fakanál, finom falatok, jókedv és hajnalig tartó bál a zalai falu ünnepén (galéria) - ZAOL** — ZAOL [hu]
+   https://www.zaol.hu/helyi-kozelet/2026/08/falunap-fozoverseny-programok-egervar
+   Fakanál, finom falatok, jókedv és hajnalig tartó bál a zalai falu ünnepén (galéria) ZAOL
 
-6. **228.427 de lei, din bani publici, pentru cursuri la hoteluri de lux pentru angajații Primăriei Baciu - Gazeta de Cluj** — Gazeta de Cluj [ro]
-   https://gazetadecluj.ro/228-427-de-lei-din-bani-publici-pentru-cursuri-la-hoteluri-de-lux-pentru-angajatii-primariei-baciu/
-   228.427 de lei, din bani publici, pentru cursuri la hoteluri de lux pentru angajații Primăriei Baciu Gazeta de Cluj
+14. **Robert Cerari, ales baron al romilor din Republica Moldova - Radio Chișinău** — Radio Chișinău [ro]
+   https://m.radiochisinau.md/robert-cerari-ales-baron-al-romilor-din-republica-moldova---228031.html
+   Robert Cerari, ales baron al romilor din Republica Moldova Radio Chișinău
 
-7. **VIDEO FOTO. Nuntă fastuoasă de romi în Gilău. Mirii, Petra și Cipri, plimbați cu o trăsură trasă de doi cai Frizieni - Romania24.ro** — Romania24.ro [ro]
-   https://romania24.ro/video-foto-nunta-fastuoasa-de-romi-in-gilau-mirii-petra-si-cipri-plimbati-cu-o-trasura-trasa-de-doi-cai-frizieni-770830.html
-   VIDEO FOTO. Nuntă fastuoasă de romi în Gilău. Mirii, Petra și Cipri, plimbați cu o trăsură trasă de doi cai Frizieni Romania24.ro
+15. **Școlarii, următoarele victime ale mașinii de tocat „Ilie Bolojan” - Evenimentul Zilei** — Evenimentul Zilei [ro]
+   https://evz.ro/scolarii-urmatoarele-victime-ale-masinii-de-tocat-ilie-bolojan.html
+   Școlarii, următoarele victime ale mașinii de tocat „Ilie Bolojan” Evenimentul Zilei
 
-8. **Romii din Republica Moldova și-au ales baronul: Robert Cerari este noul lider al comunității / VIDEO - Observatorul de Nord** — Observatorul de Nord [ro]
-   https://observatorul.md/robert-cerari-baron-romi-soroca/
-   Romii din Republica Moldova și-au ales baronul: Robert Cerari este noul lider al comunității / VIDEO Observatorul de Nord
+16. **Alertă la Mărișel după ce un incendiu a cuprins aproximativ trei hectare de vegetație și pădure - Gazeta de Cluj** — Gazeta de Cluj [ro]
+   https://gazetadecluj.ro/alerta-la-marisel-dupa-ce-un-incendiu-a-cuprins-aproximativ-trei-hectare-de-vegetatie-si-padure/
+   Alertă la Mărișel după ce un incendiu a cuprins aproximativ trei hectare de vegetație și pădure Gazeta de Cluj
 
-9. **Prețurile la carburanți au explodat în România și ajung să aibă cea mai mare creștere din UE - Gazeta de Cluj** — Gazeta de Cluj [ro]
-   https://gazetadecluj.ro/preturile-la-carburanti-au-explodat-in-romania-si-ajung-sa-aiba-cea-mai-mare-crestere-din-ue/
-   Prețurile la carburanți au explodat în România și ajung să aibă cea mai mare creștere din UE Gazeta de Cluj
+17. **Comunitatea romă din Moldova are un nou baron: Cine este Robert Cerari - Stiri.md** — Stiri.md [ro]
+   https://stiri.md/article/social/comunitatea-roma-din-moldova-are-un-nou-baron-cine-este-robert-cerari
+   Comunitatea romă din Moldova are un nou baron: Cine este Robert Cerari Stiri.md
 
-10. **Boc vrea să scape proiectele publice de blocajul din instanțe și cere flexibilizarea licitațiilor - Gazeta de Cluj** — Gazeta de Cluj [ro]
-   https://gazetadecluj.ro/boc-vrea-sa-scape-proiectele-publice-de-blocajul-din-instante-si-cere-flexibilizarea-licitatiilor/
-   Boc vrea să scape proiectele publice de blocajul din instanțe și cere flexibilizarea licitațiilor Gazeta de Cluj
+18. **Boc anunță redeschiderea străzii Emil Isac și pune presiune pentru finalizarea lucrărilor de pe Șincai - Gazeta de Cluj** — Gazeta de Cluj [ro]
+   https://gazetadecluj.ro/boc-anunta-redeschiderea-strazii-emil-isac-si-pune-presiune-pentru-finalizarea-lucrarilor-de-pe-sincai/
+   Boc anunță redeschiderea străzii Emil Isac și pune presiune pentru finalizarea lucrărilor de pe Șincai Gazeta de Cluj
 
-11. **Captură uriașă la Aeroportul Cluj cu 25.500 de țigări și aproape 25 de kilograme de tutun - Gazeta de Cluj** — Gazeta de Cluj [ro]
-   https://gazetadecluj.ro/captura-uriasa-la-aeroportul-cluj-cu-25-500-de-tigari-si-aproape-25-de-kilograme-de-tutun/
-   Captură uriașă la Aeroportul Cluj cu 25.500 de țigări și aproape 25 de kilograme de tutun Gazeta de Cluj
+19. **Scenariu de film pe străzile Clujului după ce doi bărbați au urmărit un șofer, l-au bătut și i-au furat mașina - Gazeta de Cluj** — Gazeta de Cluj [ro]
+   https://gazetadecluj.ro/scenariu-de-film-pe-strazile-clujului-dupa-ce-doi-barbati-au-urmarit-un-sofer-l-au-batut-si-i-au-furat-masina/
+   Scenariu de film pe străzile Clujului după ce doi bărbați au urmărit un șofer, l-au bătut și i-au furat mașina Gazeta de Cluj
 
-12. **Cuando el poder empieza a señalar - El Pespunte** — El Pespunte [es]
-   https://www.elpespunte.es/opinion/jose-torres-andrades/cuando-poder-empieza-senalar/20260821131539146773.html
-   Cuando el poder empieza a señalar El Pespunte
+20. **UD El Pueblo Gitano en la Edad Moderna: entre la marginación y el exterminio - Conselleria de Educación, Cultura y Universidades** — Conselleria de Educación, Cultura y Universidades [es]
+   https://ceice.gva.es/es/web/innovacion-calidad/-/ud-el-pueblo-gitano-en-la-edad-moderna-entre-la-marginacion-y-el-exterminio?redirect=%2Fca%2Fweb%2Finnovacion-calidad%2Fvideos
+   UD El Pueblo Gitano en la Edad Moderna: entre la marginación y el exterminio Conselleria de Educación, Cultura y Universidades
 
-13. **Pourquoi chaque été l’accueil des gens du voyage est-il un casse-tête dans le Boulonnais ? - La Voix du Nord** — La Voix du Nord [fr]
-   https://www.lavoixdunord.fr/1731019/article/2026-08-23/pourquoi-chaque-ete-l-accueil-des-gens-du-voyage-est-il-un-casse-tete-dans-le
-   Pourquoi chaque été l’accueil des gens du voyage est-il un casse-tête dans le Boulonnais ? La Voix du Nord
+21. **Tenemos que hablar de las paguitas - La Razón** — La Razón [es]
+   https://www.larazon.es/opinion/tenemos-que-hablar-paguitas_202608236a8a22fa71b42a0b5dff7543.html?outputType=amp
+   Tenemos que hablar de las paguitas La Razón
 
-14. **La municipalité de Talant installe des blocs de béton devant deux stades pour éviter l'installation des gens du voyage - ici.fr** — ici.fr [fr]
-   https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/talant/la-municipalite-de-talant-installe-des-blocs-de-beton-devant-deux-stades-pour-eviter-l-installation-des-gens-du-voyage-9832355
-   La municipalité de Talant installe des blocs de béton devant deux stades pour éviter l'installation des gens du voyage ici.fr
+22. **El Superior Tribunal de Justicia falló a favor de un padre que hace ocho años no puede ver a su hijo - examedia.com.ar** — examedia.com.ar [es]
+   https://www.examedia.com.ar/portada/post/87731005
+   El Superior Tribunal de Justicia falló a favor de un padre que hace ocho años no puede ver a su hijo examedia.com.ar
 
-15. **« Ce n’est vraiment pas agréable » : des gens du voyage qui font les vendanges se plaignent du terrain d’occupation qu’ils jugent inhospitalier - L'Union** — L'Union [fr]
-   https://www.lunion.fr/id823732/article/2026-08-23/ce-nest-vraiment-pas-agreable-des-gens-du-voyage-qui-font-les-vendanges-se
-   « Ce n’est vraiment pas agréable » : des gens du voyage qui font les vendanges se plaignent du terrain d’occupation qu’ils jugent inhospitalier L'Union
+23. **Culmina la Escuela de Verano para la comunidad gitana en Vícar - noticiasdealmeria.com** — noticiasdealmeria.com [es]
+   https://www.noticiasdealmeria.com/noticia/239147/capital/culmina-la-escuela-de-verano-para-la-comunidad-gitana-en-vicar.html
+   Culmina la Escuela de Verano para la comunidad gitana en Vícar noticiasdealmeria.com
 
-16. **Loire-Atlantique : nouvel incendie dans un camp de Roms à l'est de Nantes - Alouette** — Alouette [fr]
-   https://www.alouette.fr/loire-atlantique-nouvel-incendie-camp-roms-nantes-bidonville-evacuation
-   Loire-Atlantique : nouvel incendie dans un camp de Roms à l'est de Nantes Alouette
+24. **‘Macondo en clave de danza’ llevará el universo de García Márquez a nuevos escenarios - Diario La Libertad** — Diario La Libertad [es]
+   https://diariolalibertad.com/2026/08/23/macondo-en-clave-de-danza-llevara-el-universo-de-garcia-marquez-a-nuevos-escenarios/
+   ‘Macondo en clave de danza’ llevará el universo de García Márquez a nuevos escenarios Diario La Libertad
 
-17. **Des caravanes de Roms s'installent devant son restaurant : il bloque leur route avec une chaise - Actu.fr** — Actu.fr [fr]
-   https://actu.fr/pays-de-la-loire/saint-herblain_44162/des-caravanes-de-roms-sinstallent-devant-son-restaurant-il-bloque-leur-route-avec-une-chaise_64691103.html
-   Des caravanes de Roms s'installent devant son restaurant : il bloque leur route avec une chaise Actu.fr
+25. **À Nantes, l’opération d’évacuation de bidonvilles roms vire à la pétaudière politique - Ouest-France** — Ouest-France [fr]
+   https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/a-nantes-loperation-devacuation-de-bidonvilles-roms-vire-a-la-petaudiere-politique-cd499bec-9d39-11f1-a8ad-3219df531147
+   À Nantes, l’opération d’évacuation de bidonvilles roms vire à la pétaudière politique Ouest-France
 
-18. **"Il y avait de la saleté partout" : cette commune installe des plots en béton pour empêcher le retour des gens du voyage - melty.fr** — melty.fr [fr]
-   https://www.melty.fr/societe/il-y-avait-de-la-salete-partout-cette-commune-installe-des-plots-en-beton-pour-empecher-le-retour-des-gens-du-voyage-2341493.html
-   "Il y avait de la saleté partout" : cette commune installe des plots en béton pour empêcher le retour des gens du voyage melty.fr
+26. **Franche-Comté : quatre associations de gens du voyage portent plainte - Plein Air** — Plein Air [fr]
+   https://www.pleinair.net/actualites/item/20971-franche-comte-quatre-associations-de-gens-du-voyage-portent-plainte
+   Franche-Comté : quatre associations de gens du voyage portent plainte Plein Air
 
-19. **Route de Witry à Reims, le champ s’enflamme, le camp des gens du voyage a eu chaud - L'Union** — L'Union [fr]
-   https://www.lunion.fr/id823733/article/2026-08-23/route-de-witry-reims-le-champ-senflamme-le-campement-des-gens-du-voyage-eu-chaud
-   Route de Witry à Reims, le champ s’enflamme, le camp des gens du voyage a eu chaud L'Union
+27. **Une trentaine de caravanes de gens du voyage s’installe sur un terrain sportif, près de Nantes - Maville Nantes** — Maville Nantes [fr]
+   https://nantes.maville.com/actu/actudet_-une-trentaine-de-caravanes-de-gens-du-voyage-s-installe-sur-un-terrain-sportif-pres-de-nantes_8-7448971_actu.Htm
+   Une trentaine de caravanes de gens du voyage s’installe sur un terrain sportif, près de Nantes Maville Nantes
 
-20. **Expulsion des bidonvilles à Nantes : quand associations de soutien aux Roms et riverains se font face - Ouest-France** — Ouest-France [fr]
-   https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/expulsion-des-bidonvilles-a-nantes-quand-associations-de-soutien-aux-roms-et-riverains-se-font-face-3e274344-9d5f-11f1-a8ad-3219df531147
-   Expulsion des bidonvilles à Nantes : quand associations de soutien aux Roms et riverains se font face Ouest-France
+28. **Distroff. Installation de gens du voyage : des démarches engagées - Le Republicain-Lorrain** — Le Republicain-Lorrain [fr]
+   https://www.republicain-lorrain.fr/insolite/2026/08/23/installation-de-gens-du-voyage-des-demarches-engagees
+   Distroff. Installation de gens du voyage : des démarches engagées Le Republicain-Lorrain
 
-21. **Kardinal Nemet: Ein christliches Europa braucht ein gemeinsames Haus - Kathpress** — Kathpress [de]
-   https://www.kathpress.at/goto/meldung/2605872/kardinal-nemet-ein-christliches-europa-braucht-ein-gemeinsames-haus
-   Kardinal Nemet: Ein christliches Europa braucht ein gemeinsames Haus Kathpress
+29. **Les gens du voyage s'installent, sans autorisation, au FC Walhain : "ils ont dit que de toute façon on aurait refusé de les autoriser à s'installer" - DHnet** — DHnet [fr]
+   https://www.dhnet.be/regions/brabant/2026/08/24/les-gens-du-voyage-sinstallent-sans-autorisation-au-fc-walhain-ils-ont-dit-que-de-toute-facon-on-aurait-refuse-de-les-autoriser-a-sinstaller-4DOJAR7BUVFETHTIM3JRI6LVAQ/
+   Les gens du voyage s'installent, sans autorisation, au FC Walhain : "ils ont dit que de toute façon on aurait refusé de les autoriser à s'installer" DHnet
 
-22. **Запис в телефоните тийнейджърите убийци показва нови жертви - mignews.info** — mignews.info [bg]
-   https://www.mignews.info/zapis-v-telefonite-tijnejdzharite-ubijtsi-pokazva-novi-zhertvi/
-   Запис в телефоните тийнейджърите убийци показва нови жертви mignews.info
+30. **Compiègne : les gens du voyage en colère après l'autopsie de Paul Devert, mort dans la course poursuite - Oise Hebdo** — Oise Hebdo [fr]
+   https://www.oisehebdo.fr/2026/08/23/compiegne-gens-voyage-colere-apres-autopsie-paul-devert/
+   Compiègne : les gens du voyage en colère après l'autopsie de Paul Devert, mort dans la course poursuite Oise Hebdo
 
-23. **Η Τσέλσι απέρριψε πρόταση της Ρόμα για τον Γκίτενς - Skai.gr** — Skai.gr [el]
-   https://www.skai.gr/news/sports/tselsi-aperripse-protasi-tis-roma-gia-ton-gkitens
-   Η Τσέλσι απέρριψε πρόταση της Ρόμα για τον Γκίτενς Skai.gr
+31. **Isère. Tatiana Winterstein : « L'objectif des gens du voyage, c’est le vivre-ensemble, pas la confrontation » - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
+   https://www.ledauphine.com/politique/2026/08/23/tatiana-winterstein-l-objectif-des-gens-du-voyage-c-est-le-vivre-ensemble-pas-la-confrontation
+   Isère. Tatiana Winterstein : « L'objectif des gens du voyage, c’est le vivre-ensemble, pas la confrontation » Le Dauphiné Libéré
 
-24. **Δ. Σπάρτης: Συγκεντρώνει σχολικά είδη για ευάλωτες οικογένειες - Aftodioikisi.gr** — Aftodioikisi.gr [el]
-   https://www.aftodioikisi.gr/ota/dimoi/d-spartis-sygkentronei-scholika-eidi-gia-eyalotes-oikogeneies/
-   Δ. Σπάρτης: Συγκεντρώνει σχολικά είδη για ευάλωτες οικογένειες Aftodioikisi.gr
+32. **100 caravanes de gens du voyage s’installent dans le champ d’un agriculteur près de Nantes - Ouest-France** — Ouest-France [fr]
+   https://www.ouest-france.fr/societe/faits-divers/pres-de-nantes-100-caravanes-de-gens-du-voyage-sinstallent-dans-le-champ-dun-agriculteur-bdd77a50-9f0d-11f1-b6b2-5710555c207e
+   100 caravanes de gens du voyage s’installent dans le champ d’un agriculteur près de Nantes Ouest-France
 
-25. **Ρευματοκλοπές: Καθαρά από τύχη δεν έχει σκοτωθεί κάποιος πατώντας τα καλώδια – Όλοι το γνωρίζουν εδώ και χρόνια, αλλά δεν αλλάζει κάτι - εφημεριδα θαρρος** — εφημεριδα θαρρος [el]
-   https://www.tharrosnews.gr/2026/08/revmatoklopes-kathara-apo-tychi-den-echei-skotothei-kapoios-patontas-ta-kalodia-oloi-to-gnorizoun-edo-kai-chronia-alla-den-allazei-kati/
-   Ρευματοκλοπές: Καθαρά από τύχη δεν έχει σκοτωθεί κάποιος πατώντας τα καλώδια – Όλοι το γνωρίζουν εδώ και χρόνια, αλλά δεν αλλάζει κάτι εφημεριδα θαρρος
+33. **« Beaucoup se nourrissent de haine à chaque nouvelle installation » : pourquoi les gens du voyage suscitent-ils autant de tensions ? - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
+   https://www.ledauphine.com/politique/2026/08/23/gens-du-voyage-pourquoi-leurs-installations-suscitent-elles-autant-de-tensions
+   « Beaucoup se nourrissent de haine à chaque nouvelle installation » : pourquoi les gens du voyage suscitent-ils autant de tensions ? Le Dauphiné Libéré
 
-26. **Θανατηφόρο τροχαίο στον κόμβο Αρφαρών – Νεκρή 46χρονη Ολλανδή, αναζητείται ο οδηγός του δεύτερου οχήματος - BEST TV Καλαμάτα** — BEST TV Καλαμάτα [el]
-   https://best-tv.gr/thanatiforo-trochaio-ston-komvo-arfaron-nekri-46chroni-ollandi-anaziteitai-o-odigos-toy-deyteroy-ochimatos/
-   Θανατηφόρο τροχαίο στον κόμβο Αρφαρών – Νεκρή 46χρονη Ολλανδή, αναζητείται ο οδηγός του δεύτερου οχήματος BEST TV Καλαμάτα
+34. **Les Sorinières. Trente caravanes s’installent sur un terrain - Ouest-France** — Ouest-France [fr]
+   https://www.ouest-france.fr/pays-de-la-loire/les-sorinieres-44840/les-sorinieres-trente-caravanes-sinstallent-sur-un-terrain-7e52831e-441d-449d-b260-3ef43ea3a0f0
+   Les Sorinières. Trente caravanes s’installent sur un terrain Ouest-France
 
-27. **Πάτρα: Μια ακόμα φωτιά δίπλα από καταυλισμό Ρομά - dete.gr** — dete.gr [el]
-   https://dete.gr/patra-mia-akoma-fotia-dipla-apo-katavlismo-roma/
-   Πάτρα: Μια ακόμα φωτιά δίπλα από καταυλισμό Ρομά dete.gr
+35. **100 caravanes de gens du voyage s’installent dans le champ d’un agriculteur près de Nantes - - La Baule.maville.com** — - La Baule.maville.com [fr]
+   https://labaule.maville.com/actu/actudet_-100-caravanes-de-gens-du-voyage-s-installent-dans-le-champ-d-un-agriculteur-pres-de-nantes_fil-7448886_actu.Htm
+   100 caravanes de gens du voyage s’installent dans le champ d’un agriculteur près de Nantes - La Baule.maville.com
 
-28. **Γαστούνη: «Ελληνική Ρομά» - Προκλητικές αναρτήσεις στα social media μετά την επίθεση στους Αστυνομικούς - Tempo24** — Tempo24 [el]
-   https://tempo24.news/gastouni-elliniki-roma-proklitikes-anartiseis-sta-social-media-meta-tin-epithesi-stous-astynomikous/
-   Γαστούνη: «Ελληνική Ρομά» - Προκλητικές αναρτήσεις στα social media μετά την επίθεση στους Αστυνομικούς Tempo24
+36. **Le camp de reconstitution militaire de Sévigny a pris fin vers midi après l’installation de gens du voyage à proximité - Ouest-France** — Ouest-France [fr]
+   https://www.ouest-france.fr/normandie/argentan-61200/le-camp-de-reconstitution-militaire-de-sevigny-a-pris-fin-vers-midi-apres-linstallation-de-gens-du-voyage-a-proximite-12e0ebca-9f05-11f1-b6b2-5710555c207e
+   Le camp de reconstitution militaire de Sévigny a pris fin vers midi après l’installation de gens du voyage à proximité Ouest-France
 
-29. **Επιχειρήσεις της ΕΛ.ΑΣ. σε καταυλισμούς Ρομά στον Ασπρόπυργο – 16 συλλήψεις - KontraNews** — KontraNews [el]
-   https://www.kontranews.gr/koinonia/epicheiriseis-tis-el-as-se-katavlismous-roma-ston-aspropyrgo-16-syllipseis/
-   Επιχειρήσεις της ΕΛ.ΑΣ. σε καταυλισμούς Ρομά στον Ασπρόπυργο – 16 συλλήψεις KontraNews
+37. **Le camp de reconstitution militaire de Sévigny a pris fin vers midi après l’installation de gens - - Alençon.maville.com** — - Alençon.maville.com [fr]
+   https://alencon.maville.com/actu/actudet_-le-camp-de-reconstitution-militaire-de-sevigny-a-pris-fin-vers-midi-apres-l-installation-de-gens-du-voyage-a-proximite_fil-7448860_actu.Htm
+   Le camp de reconstitution militaire de Sévigny a pris fin vers midi après l’installation de gens - Alençon.maville.com
 
-30. **Ασπρόπυργος: 16 συλλήψεις για ρευματοκλοπές σε οικισμούς Ρομά - δεδομενο** — δεδομενο [el]
-   https://www.dedomeno.gr/video/784679/aspropyrgos-16-syllipseis-gia-reymatoklopes-se-oikismoys-roma/
-   Ασπρόπυργος: 16 συλλήψεις για ρευματοκλοπές σε οικισμούς Ρομά δεδομενο
+38. **« C’est insupportable » : ce maire gronde contre l’installation illicite d’une centaine de caravanes, près de Nantes - Ouest-France** — Ouest-France [fr]
+   https://www.ouest-france.fr/pays-de-la-loire/orvault-44700/cest-insupportable-ce-maire-gronde-contre-linstallation-illicite-dune-centaine-de-caravanes-pres-de-nantes-4985a638-9f10-11f1-a8ad-3219df531147
+   « C’est insupportable » : ce maire gronde contre l’installation illicite d’une centaine de caravanes, près de Nantes Ouest-France
 
-31. **Καλοκαιρινά μαθήματα Δημοτικής Εκπαίδευσης σε παιδιά Ρομά του Γέρακα από Κέντρο Κοινότητας του Δήμου - Anattica.gr** — Anattica.gr [el]
-   https://anattica.gr/kalokairina-mathimata-dimotikis-ekpaideysis-se-paidia-roma-toy/
-   Καλοκαιρινά μαθήματα Δημοτικής Εκπαίδευσης σε παιδιά Ρομά του Γέρακα από Κέντρο Κοινότητας του Δήμου Anattica.gr
+39. **Ein Ort der Erinnerung, Würde und Verantwortung: Feierliche Einweihung des sanierten Sinti-Mausoleums in Halle-Osendorf - Du bist Halle** — Du bist Halle [de]
+   https://dubisthalle.de/ein-ort-der-erinnerung-wuerde-und-verantwortung-feierliche-einweihung-des-sanierten-sinti-mausoleums-in-halle-osendorf/
+   Ein Ort der Erinnerung, Würde und Verantwortung: Feierliche Einweihung des sanierten Sinti-Mausoleums in Halle-Osendorf Du bist Halle
 
-32. **Πάτρα: Ομάδα ανηλίκων Ρομά “άνοιξε” Ι.Χ. στην Μαρίνα – Άμεση επέμβαση της ΔΙΑΣ - dete.gr** — dete.gr [el]
-   https://dete.gr/patra-tora-katadioxi-stin-marina-pente-anilikoi-dierrixan-i-ch/
-   Πάτρα: Ομάδα ανηλίκων Ρομά “άνοιξε” Ι.Χ. στην Μαρίνα – Άμεση επέμβαση της ΔΙΑΣ dete.gr
+40. **Почина млад мъж, паднал с електрическа тротинетка в Пловдив - marica.bg** — marica.bg [bg]
+   https://www.marica.bg/plovdiv/krimi/pochina-mlad-maj-padnal-s-elektricheska-trotinetka-v-plovdiv/amp
+   Почина млад мъж, паднал с електрическа тротинетка в Пловдив marica.bg
 
-33. **Η OPERA στη Ρόδο: Το εντυπωσιακό mega yacht των 450 εκατ. δολαρίων μέσα από αεροφωτογραφίες - proodos.com.gr** — proodos.com.gr [el]
-   https://proodos.com.gr/rodos-news/i-opera-sti-rodo-to-entyposiako-mega-yacht-ton-450-ekat-dolarion-mesa-apo-aerofotografies/
-   Η OPERA στη Ρόδο: Το εντυπωσιακό mega yacht των 450 εκατ. δολαρίων μέσα από αεροφωτογραφίες proodos.com.gr
+41. **Εισβολή στο ΑΤ Γαστούνης: «Εβγαλαν γλώσσα» οι Ρομά αλλά τελευταίος θα γελάσει ο υπουργός - pelop.gr** — pelop.gr [el]
+   https://pelop.gr/eisvoli-sto-at-gastounis-evgalan-glossa-oi-roma-alla-teleftaios-tha-gelasei-o-ypourgos/
+   Εισβολή στο ΑΤ Γαστούνης: «Εβγαλαν γλώσσα» οι Ρομά αλλά τελευταίος θα γελάσει ο υπουργός pelop.gr
 
-34. **Γαστούνη: Συνεχίζεται η ένταση μετά την επίθεση στο Αστυνομικό Τμήμα Πηνειού από Ρομά - dete.gr** — dete.gr [el]
-   https://dete.gr/gastouni-synechizetai-i-entasi-meta-tin-epithesi-sto-astynomiko-tmima-pineiou-apo-roma/
-   Γαστούνη: Συνεχίζεται η ένταση μετά την επίθεση στο Αστυνομικό Τμήμα Πηνειού από Ρομά dete.gr
+42. **Δήμος Μαρωνείας – Σαπών: Δράση αλληλεγγύης για τη συλλογή σχολικών ειδών - Rodopi Press** — Rodopi Press [el]
+   https://rodopipress.gr/dimos-maroneias-sapon-syllogi-sxolikon-eidon-kentro-koinotitas/
+   Δήμος Μαρωνείας – Σαπών: Δράση αλληλεγγύης για τη συλλογή σχολικών ειδών Rodopi Press
 
-35. **Ρόδος: Στη φυλακή 18χρονος και 15χρονος για έξι κλοπές - Η ΡΟΔΙΑΚΗ** — Η ΡΟΔΙΑΚΗ [el]
-   https://www.rodiaki.gr/article/552211/rodos-sth-fylakh-18xronos-kai-15xronos-gia-exi-klopes
-   Ρόδος: Στη φυλακή 18χρονος και 15χρονος για έξι κλοπές Η ΡΟΔΙΑΚΗ
+43. **Ανακοίνωση του Σωματείου Συνταξιούχων ΙΚΑ - ΕΦΚΑ Αργολίδας για την διαμαρτυρία στην Θεσσαλονίκη - Αργολικές Ειδήσεις** — Αργολικές Ειδήσεις [el]
+   https://www.argolikeseidhseis.gr/2026/08/blog-post_24.html
+   Ανακοίνωση του Σωματείου Συνταξιούχων ΙΚΑ - ΕΦΚΑ Αργολίδας για την διαμαρτυρία στην Θεσσαλονίκη Αργολικές Ειδήσεις
 
-36. **Cinema Paraíso exibe ‘Ange’, filme dedicado à comunidade cigana de Famalicão - O Vilaverdense** — O Vilaverdense [pt]
-   https://ovilaverdense.pt/cinema-paraiso-exibe-ange-filme-dedicado-a-comunidade-cigana-de-famalicao/
-   Cinema Paraíso exibe ‘Ange’, filme dedicado à comunidade cigana de Famalicão O Vilaverdense
+44. **Επίθεση με μαχαίρι σε συρμό του Τραμ – Περισσότερη αστυνόμευση ζητούν οι εργαζόμενοι - Athens Transport** — Athens Transport [el]
+   https://www.athenstransport.com/2026/08/tram-epithesi-maxairi/
+   Επίθεση με μαχαίρι σε συρμό του Τραμ – Περισσότερη αστυνόμευση ζητούν οι εργαζόμενοι Athens Transport
 
-37. **"Quero que outros ciganos tenham a mesma oportunidade que eu tive de vencer" - O POVO** — O POVO [pt]
-   https://mais.opovo.com.br/jornal/aguanambi-282/2026/08/23/quero-que-outros-ciganos-tenham-a-mesma-oportunidade-que-eu-tive-de-vencer.html
+45. **Πρωτοσέλιδο - Εφημερίδα Αχαϊκή Πολιτεία 24/8/2026 - frontpages.gr** — frontpages.gr [el]
+   https://www.frontpages.gr/protoselida/20260824/592/%CE%91%CF%87%CE%B1%CF%8A%CE%BA%CE%AE-%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%B5%CE%AF%CE%B1
+   Πρωτοσέλιδο - Εφημερίδα Αχαϊκή Πολιτεία 24/8/2026 frontpages.gr
+
+46. **Διακοπή ρεύματος την Τετάρτη 26/8 σε περιοχές του Δήμου Ναυπλιέων - Αργολικές Ειδήσεις** — Αργολικές Ειδήσεις [el]
+   https://www.argolikeseidhseis.gr/2026/08/268.html
+   Διακοπή ρεύματος την Τετάρτη 26/8 σε περιοχές του Δήμου Ναυπλιέων Αργολικές Ειδήσεις
+
+47. **Αυξημένος Κίνδυνος Πυρκαγιάς και στην Αργολίδα την Κυριακή 23/8 - Αργολικές Ειδήσεις** — Αργολικές Ειδήσεις [el]
+   https://www.argolikeseidhseis.gr/2026/08/238.html
+   Αυξημένος Κίνδυνος Πυρκαγιάς και στην Αργολίδα την Κυριακή 23/8 Αργολικές Ειδήσεις
+
+48. **Συνεδρίαση στις 25 Αυγούστου του Δημοτικού Συμβουλίου στο Άργος με 5 θέματα - Αργολικές Ειδήσεις** — Αργολικές Ειδήσεις [el]
+   https://www.argolikeseidhseis.gr/2026/08/25-5.html?m=1
+   Συνεδρίαση στις 25 Αυγούστου του Δημοτικού Συμβουλίου στο Άργος με 5 θέματα Αργολικές Ειδήσεις
+
+49. **Πάτρα: Συνεχίζεται η “εγκατάσταση” ρομά κοντά στην Παναχαϊκή - achaianews.gr** — achaianews.gr [el]
+   https://www.achaianews.gr/index.php/%CF%8C%CE%BB%CE%B1-%CF%84%CE%B1-%CE%BD%CE%AD%CE%B1-h/%CF%80%CE%AC%CF%84%CF%81%CE%B1-%CE%B4%CF%85%CF%84-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/231178-7f63376e
+   Πάτρα: Συνεχίζεται η “εγκατάσταση” ρομά κοντά στην Παναχαϊκή achaianews.gr
+
+50. **ΦΑΙΔΡΑ ΠΟΡΤΟΚΑΛΕΑ #062: Η ενδεκάδα της ΔΕΘ, η ταμπέλα της ντροπής, ο Τρανός χορός, το ποδήλατο, χρυσό χωρίς πατρίδα, ο δημαρχιακός θώκος, οι Ρομά και η Πλατεία Άθωνος - The Opinion** — The Opinion [el]
+   https://www.theopinion.gr/faidra-portokalea/faidra-portokalea-062-i-endekada-tis-deth-i-tampela-tis-ntropis-o-tranos-choros-to-podilato-chryso-choris-patrida-o-dimarchiakos-thokos-oi-roma-kai-i-plateia-athonos/
+   ΦΑΙΔΡΑ ΠΟΡΤΟΚΑΛΕΑ #062: Η ενδεκάδα της ΔΕΘ, η ταμπέλα της ντροπής, ο Τρανός χορός, το ποδήλατο, χρυσό χωρίς πατρίδα, ο δημαρχιακός θώκος, οι Ρομά και η Πλατεία Άθωνος The Opinion
+
+51. **Ρομά, κοινωνική συνοχή και ασφάλεια: Σχετικά με τα γεγονότα στον Δήμο Πηνειού - Tribune.gr** — Tribune.gr [el]
+   https://m.tribune.gr/blog/news/article/954133/roma-koinoniki-synochi-kai-asfaleia-schetika-me-ta-gegonota-ston-dimo-pineioy.html
+   Ρομά, κοινωνική συνοχή και ασφάλεια: Σχετικά με τα γεγονότα στον Δήμο Πηνειού Tribune.gr
+
+52. **ΕΛΑΣ: 8 συλλήψεις σε οικισμούς Ρομά σε Αργολίδα και Αρκαδία - ArgolidaPortal** — ArgolidaPortal [el]
+   https://www.argolidaportal.gr/news/116667/elas-8-syllipseis-se-oikismoys-roma-se-argolida-kai-arkadia
+   ΕΛΑΣ: 8 συλλήψεις σε οικισμούς Ρομά σε Αργολίδα και Αρκαδία ArgolidaPortal
+
+53. **Κατέγραφε παράνομα δίκη και συνελήφθη. Στοχευμένες αστυνομικές επιχειρήσεις και 8 συλλήψεις στην Αργολίδα και στην Αρκαδία - Ημερησία Κορίνθου** — Ημερησία Κορίνθου [el]
+   https://hmerisiakorinthou.gr/%CE%BA%CE%B1%CF%84%CE%AD%CE%B3%CF%81%CE%B1%CF%86%CE%B5-%CF%80%CE%B1%CF%81%CE%AC%CE%BD%CE%BF%CE%BC%CE%B1-%CE%B4%CE%AF%CE%BA%CE%B7-%CE%BA%CE%B1%CE%B9-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8/
+   Κατέγραφε παράνομα δίκη και συνελήφθη. Στοχευμένες αστυνομικές επιχειρήσεις και 8 συλλήψεις στην Αργολίδα και στην Αρκαδία Ημερησία Κορίνθου
+
+54. **ΟΑΚ Μεσσηνίας: Απόλυτα θετική η έως τώρα αποτίμηση της αντιπυρικής περιόδου (βίντεο) - ΕΛΕΥΘΕΡΙΑ Online** — ΕΛΕΥΘΕΡΙΑ Online [el]
+   https://eleftheriaonline.gr/local/koinonia/item/359039-oak-messinias-apolyta-thetiki-i-eos-tora-apotimisi-tis-antipyrikis-periodou-vinteo
+   ΟΑΚ Μεσσηνίας: Απόλυτα θετική η έως τώρα αποτίμηση της αντιπυρικής περιόδου (βίντεο) ΕΛΕΥΘΕΡΙΑ Online
+
+55. **"Quero que outros ciganos tenham a mesma oportunidade que eu tive de vencer" - O POVO** — O POVO [pt]
+   https://www.opovo.com.br/noticias/ceara/2026/08/23/quero-que-outros-ciganos-tenham-a-mesma-oportunidade-que-eu-tive-de-vencer.html
    "Quero que outros ciganos tenham a mesma oportunidade que eu tive de vencer" O POVO
 
-38. **Grande ABC adere ao Sinapir — Ministério da Igualdade Racial - www.gov.br** — www.gov.br [pt]
-   https://www.gov.br/igualdaderacial/pt-br/assuntos/noticias/grande-abc-adere-ao-sinapir-1
-   Grande ABC adere ao Sinapir — Ministério da Igualdade Racial www.gov.br
+56. **"Albufeira está a funcionar como tubo de ensaio do Chega a nível nacional" - SÁBADO** — SÁBADO [pt]
+   https://www.sabado.pt/portugal/detalhe/albufeira-esta-a-funcionar-como-tubo-de-ensaio-do-chega-a-nivel-nacional
+   "Albufeira está a funcionar como tubo de ensaio do Chega a nível nacional" SÁBADO
 
-39. **Uneb Juazeiro lançará especialização em Comunicação, Marketing e Mídias - Blog do Carlos Britto** — Blog do Carlos Britto [pt]
-   https://www.carlosbritto.com/uneb-juazeiro-lancara-especializacao-em-comunicacao-marketing-e-midias/
-   Uneb Juazeiro lançará especialização em Comunicação, Marketing e Mídias Blog do Carlos Britto
+57. **Polícia Civil de MS institui protocolo para atendimento de grupos étnico-raciais vulnerabilizados - Rádio Caçula** — Rádio Caçula [pt]
+   https://www.radiocacula.com.br/policia-civil-de-ms-institui-protocolo-para-atendimento-de-grupos-etnico-raciais-vulnerabilizados/
+   Polícia Civil de MS institui protocolo para atendimento de grupos étnico-raciais vulnerabilizados Rádio Caçula
 
-40. **Stará Ľubovňa : Detaily v případu zavražděné Míši († 17 ) ** — blesk.cz [Czech]
-   https://www.blesk.cz/clanek/zpravy-krimi/846605/mrazive-detaily-vrazdy-misi-17-jozef-zabijel-ze-zarlivost-na-internetu-si-hledal-navod.html
-
-41. **90 años del asesinato de García Lorca , el poeta celebrado por las nuevas generaciones** — elcolombiano.com [Spanish]
-   https://www.elcolombiano.com/cultura/federico-garcia-lorca-obra-influencia-JG40205491
-
-42. **La Ley de Memoria Histórica y las calles** — diariodeleon.es [Spanish]
-   https://www.diariodeleon.es/opinion/tribunas/260823/2095003/ley-memoria-historica-calles.html
-
-43. **Loạt nữ chính lép vế trước nữ phụ : Địch Lệ Nhiệt Ba lấn át đàn chị nhưng lại thua Triệu Lộ Tư** — kenh14.vn [Vietnamese]
-   https://kenh14.vn/loat-nu-chinh-lep-ve-truoc-nu-phu-dich-le-nhiet-ba-lan-at-dan-chi-nhung-lai-thua-trieu-lo-tu-215260820165812162.chn
-
-44. **10 años de un crimen que España no olvida | Noticias La Tribuna de Albacete** — latribunadealbacete.es [Spanish]
-   https://www.latribunadealbacete.es/noticia/z93b88742-9d98-40e4-8fa81803a8e66648/202608/10-anos-de-un-crimen-que-espana-no-olvida
-
-45. **Что известно о новом бароне ромов Молдовы Роберте Чераре** — kp.md [Russian]
-   https://kp.md/kultura/kto-stal-novym-baronom-romov-moldovy-i-chto-izvestno-o-roberte-cherare/
-
-46. ** „ Autogol spectaculos  pentru Giorgia Meloni : Italia primește înapoi mii de migranți din alte țări europene după criza din Ceuta** — antena3.ro [Romanian]
-   https://www.antena3.ro/externe/autogol-spectaculos-pentru-giorgia-meloni-italia-primeste-inapoi-mii-de-migranti-din-alte-tari-europene-dupa-criza-din-ceuta-800433.html
-
-47. **Momentaufnahmen aus Istanbul in Sonderburg zu sehen : 13 Jahre Freundschaft in Fotografien** — nordschleswiger.dk [German]
-   https://www.nordschleswiger.dk/sonderburg/momentaufnahmen-aus-istanbul-in-sonderburg-zu-sehen-13-jahre-freundschaft-in-fotografien/3458516
-
-48. **19 Merseyside deaths , tributes and funeral notices from the Liverpool ECHO this week** — liverpoolecho.co.uk [English]
-   https://www.liverpoolecho.co.uk/news/liverpool-news/19-merseyside-deaths-tributes-funeral-34494445
-
-49. **10 años de un crimen que España no olvida | Todas las noticias de Palencia** — diariopalentino.es [Spanish]
-   https://www.diariopalentino.es/noticia/z93b88742-9d98-40e4-8fa81803a8e66648/202608/10-anos-de-un-crimen-que-espana-no-olvida
-
-50. **ศึกหุ่นยนต์ฮิวแมนนอยด์โลกครั้งที่ 2 เปิดฉากที่จีน โรบอต 2 , 056 ตัวจาก 16 ชาติร่วมชิงชัย** — dailynews.co.th [Thai]
-   https://www.dailynews.co.th/news/6131606/
-
-51. **Rapper liên quan vụ  đàn em  Khá Bảnh là ai ? ** — tienphong.vn [Vietnamese]
-   https://tienphong.vn/rapper-lien-quan-vu-dan-em-kha-banh-la-ai-post1870063.tpo
-
-52. **  Tabaktaki Yaratıcılık Rastlantısal Değildir : Cristina Bowerman ile Buono . Italiano ve Mutfaktaki Geleceğin Dili** — gercekgundem.com [Turkish]
-   https://www.gercekgundem.com/yazarlar/reha-tartici/tabaktaki-yaraticilik-rastlantisal-degildir-cristina-bowerman-ile-buonoitaliano-ve-mutfaktaki-gelecegin-dili-577103
-
-53. **Секрет кроется в сырном соусе : рассказываем , как правильно готовить салат цезарь с самодельной заправкой** — klops.ru [Russian]
-   https://klops.ru/recipes/2026-08-23/389581-sekret-kroetsya-v-syrnom-souse-rasskazyvaem-kak-pravilno-gotovit-salat-tsezar-s-samodelnoy-zapravkoy
-
-54. **No Frills Ontario : PC Instant Coffee $2 . 29 With Points Offer Until August 26th** — smartcanucks.ca [English]
-   https://smartcanucks.ca/no-frills-ontario-pc-instant-coffee-2-29-with-points-offer-until-august-26th/
-
-55. **Rapper bị khởi tố cùng  đàn em  Khá Bảnh là ai ? ** — baomoi.com [Vietnamese]
-   https://baomoi.com/rapper-bi-khoi-to-cung-dan-em-kha-banh-la-ai-c55893238.epi
-
-56. **Dilema UMNO / BN di kawasan bandar** — utusan.com.my [Malay]
-   https://www.utusan.com.my/rencana/2026/08/dilema-umno-bn-di-kawasan-bandar/
-
-57. **Detienen a hombre en posesión de marihuana en Águilas de Zaragoza** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/detienen-a-hombre-en-posesion-de-marihuana-en-guilas-de-zaragoza-20260822-525699.html
-
-58. **Gana policía municipal el primer lugar en carrera de Bomberos** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/gana-policia-municipal-el-primer-lugar-en-carrera-de-bomberos-20260822-525706.html
-
-59. **Arrestan a dos hombres buscados por delitos contra la salud** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/arrestan-a-dos-hombres-buscados-por-delitos-contra-la-salud-20260822-525711.html
-
-60. **Inicia taller de encuadernación artesanal y escritura creativa** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/inicia-taller-de-encuadernacion-artesanal-y-escritura-creativa-20260822-525709.html
-
-61. **Regresa compaa de danza con espectáculo sobre Chihuahua** — laopcion.com.mx [Spanish]
-   https://laopcion.com.mx/juarez/regresa-compania-de-danza-con-espectaculo-sobre-chihuahua-20260822-525713.html
-
-62. **Tesis : Exposición  El Romancero Gitano  de Lorca** — canalsur.es [Spanish]
-   https://www.canalsur.es/television/tesis/exposicion-romancero-gitano-lorca_1_1398722.html
-
-63. **अध्यात्म और मानवीय संवेदना का समन्वय - dainiktribuneonline . com** — dainiktribuneonline.com [Hindi]
-   https://www.dainiktribuneonline.com/news/sahitya/integration-of-spirituality-and-human-sensitivity/
-
-64. **Nữ diễn viên bị Trấn Thành chê như ma cây gầy trơ xương : Giờ là cực phẩm visual , body nét căng không tì vết - Hậu trường phim** — vietgiaitri.com [Vietnamese]
-   https://vietgiaitri.com/nu-dien-vien-bi-tran-thanh-che-nhu-ma-cay-gay-tro-xuong-gio-la-cuc-pham-visual-body-net-cang-khong-ti-vet-20260823i7757912/
-
-65. **Tiếc đứt ruột phim Trung Quốc tuyệt đỉnh mà chỉ dài 12 tập : Thẩm mỹ nghệ cả củ , nữ chính nổi tiếng toàn cầu - Phim châu á** — vietgiaitri.com [Vietnamese]
-   https://vietgiaitri.com/tiec-dut-ruot-phim-trung-quoc-tuyet-dinh-ma-chi-dai-12-tap-tham-my-nghe-ca-cu-nu-chinh-noi-tieng-toan-cau-20260823i7757908/
-
-66. **Oosterwolde için Roma geliþmesi : Anlaþmanýn detaylarý belli oldu - Son Dakika Haberleri Canlý Skorlar** — sporx.com [Turkish]
-   https://www.sporx.com/www.sporx.com/oosterwolde-de-anlasmanin-detaylari-belli-oldu-SXHBQ1173376SXQ
-
-67. **Știați ? În 1980 România avea și barajul Porțile de Cupru , dar s - a furat** — timesnewroman.ro [Romanian]
-   https://www.timesnewroman.ro/politic/stiati-in-1980-romania-avea-si-barajul-portile-de-cupru-dar-s-a-furat/
-
-68. **El milagro del sol** — abc.es [Spanish]
-   https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/milagro-sol-20260823003558-nts.html
-
-69. **Amina Dehhaoui Wins Morocco First Medal at Taranto 2026** — moroccoworldnews.com [English]
-   https://www.moroccoworldnews.com/2026/08/335727/2026-mediterranean-games-amina-dehhaoui-wins-moroccos-first-medal/
-
-70. **Dillom House of Vans CDMX : Free Show , Registration Only** — riotimesonline.com [English]
-   https://www.riotimesonline.com/dillom-house-of-vans-cdmx-free-show-2026/
-
-71. **ANSA 404 on Spain leaves Ceuta story unavailable** — el-balad.com [English]
-   https://www.el-balad.com/17044078
-
-72. **บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันเสาร์ที่ 22 ส . ค . 69** — posttoday.com [Thai]
-   https://www.posttoday.com/lifestyle/747381
-
-73. **Romadan Fenerbahçeye Oosterwolde teklifi : İşte detaylar** — t24.com.tr [Turkish]
-   https://t24.com.tr/spor/romadan-fenerbahceye-oosterwolde-teklifi,1343309
-
-74. **Romadan Jayden Oosterwolde için resmi teklif geldi** — ensonhaber.com [Turkish]
-   https://www.ensonhaber.com/romadan-jayden-oosterwolde-icin-resmi-teklif-geldi-h1559494
-
-75. **Riserva dello Zingaro , il soccorso alpino salva una turista colta da malore** — trapani.gds.it [Italian]
-   https://trapani.gds.it/articoli/cronaca/2026/08/21/riserva-dello-zingaro-il-soccorso-alpino-salva-una-turista-colta-da-malore-119d1d1c-779b-460a-a623-a0ff01b3a30a/
-
-76. **Board of Directors Archive** — wqsv.org [English]
-   https://www.wqsv.org/about/board-archive/
-
-77. **С новыми подходами к диагностике и лечению расстройств сна познакомили врачей Омска » Информационное агентство МАНГАЗЕЯ** — mngz.ru [Russian]
-   https://www.mngz.ru/medicine/371694-s-novymi-podhodami-k-diagnostike-i-lecheniyu-rasstroystv-sna-poznakomili-vrachey-omska.html
-
-78. **Do You Have a Spiritual Detour Guide ? ** — relevantmagazine.com [English]
-   https://relevantmagazine.com/faith/do-you-have-a-detour-guide/
+58. **Agenda intensa: deputada Brena Dianná prestigia atividades culturais, esportivas e de economia criativa - Portal Regional AM** — Portal Regional AM [pt]
+   https://portalregionalam.com.br/agenda-intensa-deputada-brena-dianna-prestigia-atividades-culturais-esportivas-e-de-economia-criativa/
+   Agenda intensa: deputada Brena Dianná prestigia atividades culturais, esportivas e de economia criativa Portal Regional AM
