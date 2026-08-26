@@ -1,69 +1,93 @@
 {
-  "generated_utc": "2026-08-25T07:32:06+00:00",
-  "count": 6,
+  "generated_utc": "2026-08-26T07:36:03+00:00",
+  "count": 9,
   "sources": {
     "profile": "cz",
-    "google_news": 42,
+    "google_news": 51,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 0,
+    "feeds": 1,
     "watch": 0,
-    "before_dedup": 18,
-    "total": 17,
-    "skipped_seen": 11,
-    "gn_resolved": 6,
-    "gn_resolve_tried": 6,
-    "dropped_after_resolve": 0
+    "before_dedup": 26,
+    "total": 24,
+    "skipped_seen": 14,
+    "gn_resolved": 9,
+    "gn_resolve_tried": 9,
+    "dropped_after_resolve": 1
   },
   "candidates": [
     {
-      "title": "‚Apartheid na koupališti.‘ Berlín čelí kritice krajní pravice, akci pro černošské děti nakonec zrušil - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/apartheid-na-koupalisti-berlin-celi-kritice-krajni-pravice-akci-pro_2608241133_elev",
-      "source": "iROZHLAS",
-      "snippet": "‚Apartheid na koupališti.‘ Berlín čelí kritice krajní pravice, akci pro černošské děti nakonec zrušil iROZHLAS",
-      "published": "Mon, 24 Aug 2026 09:33:00 GMT",
+      "title": "Skvělá zpráva: Somálská aktivistka je na svobodě. Pomohla i výzva Amnesty",
+      "url": "https://amnesty.cz/skvela-zprava-somalska-aktivistka-je-na-svobode-pomohla-i-vyzva-amnesty/",
+      "source": "https://amnesty.cz/feed/",
+      "snippet": "Somálská aktivistka a řidička rikši Sadia Moalim Ali byla 12. srpna 2026 propuštěna z vězení, kde strávila 123 dní. Odvolací soud v Banádiru zrušil její odsouzení i tříletý trest za údajné „urážení vládních institucí“. Amnesty International vyzývala k jejímu okamžitému propuštění.",
+      "published": "Tue, 25 Aug 2026 08:48:10 +0000",
       "lang": "cs"
     },
     {
-      "title": "Průzkum Francii předpovídá prezidentské klání mezi Le Penovou a Mélenchonem - Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-pruzkum-francii-predpovida-prezidentske-klani-mezi-le-penovou-a-melenchonem-40594170",
-      "source": "Novinky",
-      "snippet": "Průzkum Francii předpovídá prezidentské klání mezi Le Penovou a Mélenchonem Novinky",
-      "published": "Mon, 24 Aug 2026 12:40:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Minimální mzda v roce 2027 vzroste na 24900 Kč, shodla se tripartita - Finance.cz",
-      "url": "https://www.finance.cz/aktuality/minimalni-mzda-v-roce-2027-vzroste-na-24900-kc-shodla-se-tripartita/",
-      "source": "Finance.cz",
-      "snippet": "Minimální mzda v roce 2027 vzroste na 24900 Kč, shodla se tripartita Finance.cz",
-      "published": "Mon, 24 Aug 2026 12:56:18 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Na úřadu práce nepůjde od středy najít zaměstnání online: odstávka bude dlouhá, kdy skončí? - Finance.cz",
-      "url": "https://www.finance.cz/aktuality/na-uradu-prace-nepujde-od-stredy-najit-zamestnani-online-odstavka-bude-dlouha-kdy-skonci/",
-      "source": "Finance.cz",
-      "snippet": "Na úřadu práce nepůjde od středy najít zaměstnání online: odstávka bude dlouhá, kdy skončí? Finance.cz",
-      "published": "Mon, 24 Aug 2026 14:51:56 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Nedostupné bydlení a nižší reálné mzdy jsou slabou stránkou Prahy, kvalitní je MHD - iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/bydleni-praha-mzda-nedostupnost-metropole-mhd-nezamestnanost.A260804_957232_domaci_hock",
+      "title": "Austrálie vyřazuje z hitparád skladby vytvořené AI. Umělci musí její použití hlásit - iDNES.cz",
+      "url": "https://www.idnes.cz/kultura/hudba/madonna-umela-inteligence-hitparady-australie-ai.A260825_115715_hudba_jgo",
       "source": "iDNES.cz",
-      "snippet": "Nedostupné bydlení a nižší reálné mzdy jsou slabou stránkou Prahy, kvalitní je MHD iDNES.cz",
-      "published": "Sun, 23 Aug 2026 08:10:00 GMT",
+      "snippet": "Austrálie vyřazuje z hitparád skladby vytvořené AI. Umělci musí její použití hlásit iDNES.cz",
+      "published": "Tue, 25 Aug 2026 11:03:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "ČSSD - ČESKÁ SUVERENITA SOCIÁLNÍ DEMOKRACIE - NovinyVM",
-      "url": "https://www.novinyvm.cz/29170-cssd-ceska-suverenita-socialni-demokracie.html",
-      "source": "NovinyVM",
-      "snippet": "ČSSD - ČESKÁ SUVERENITA SOCIÁLNÍ DEMOKRACIE NovinyVM",
-      "published": "Sun, 23 Aug 2026 22:00:00 GMT",
+      "title": "Na romský fotbal v Jihlavě chodily stovky lidí, přijela i kapela z Prahy - Jihlavské listy",
+      "url": "https://www.jihlavske-listy.cz/clanek/57457-na-romsky-fotbal-v-jihlave-chodily-stovky-lidi-prijela-i-kapela-z-prahy",
+      "source": "Jihlavské listy",
+      "snippet": "Na romský fotbal v Jihlavě chodily stovky lidí, přijela i kapela z Prahy Jihlavské listy",
+      "published": "Tue, 25 Aug 2026 06:18:41 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Žižkov, který zmizel pod paneláky. Film z roku 1987 ukrývá unikátní záběry - Metro.cz",
+      "url": "https://www.metro.cz/praha/ondrej-vetchy-jako-zizkovsky-rom-film-paratko-z-roku-1987-zachytil-ctvrt-behem-demolice.A260821_100424_metro-praha_mhrab",
+      "source": "Metro.cz",
+      "snippet": "Žižkov, který zmizel pod paneláky. Film z roku 1987 ukrývá unikátní záběry Metro.cz",
+      "published": "Sun, 23 Aug 2026 10:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Špatná nálada Němců žene AfD vzhůru. Blíží se možná zlomové volby - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-krajni-pravice-poprve-saha-po-moci-byl-by-to-zlom-rika-z-nemecka-novinar-313846",
+      "source": "Seznam Zprávy",
+      "snippet": "Špatná nálada Němců žene AfD vzhůru. Blíží se možná zlomové volby Seznam Zprávy",
+      "published": "Wed, 26 Aug 2026 03:59:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Giorgia Meloni ukazuje evropské krajní pravici, jak se dostat k moci - RESPEKT",
+      "url": "https://www.respekt.cz/zahranici/giorgia-meloni-ukazuje-evropske-krajni-pravici-jak-se-dostat-k-moci",
+      "source": "RESPEKT",
+      "snippet": "Giorgia Meloni ukazuje evropské krajní pravici, jak se dostat k moci RESPEKT",
+      "published": "Tue, 25 Aug 2026 15:05:17 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Francouzská levice hledá cestu k moci - Argument",
+      "url": "https://casopisargument.cz/72144",
+      "source": "Argument",
+      "snippet": "Francouzská levice hledá cestu k moci Argument",
+      "published": "Tue, 25 Aug 2026 07:10:53 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "SYNER slaví 35 let. Český stavební lídr realizuje projekty za téměř 40 miliard korun - Konstrukce.cz",
+      "url": "https://konstrukce.cz/lide/syner-slavi-35-let-cesky-stavebni-lidr-realizuje-projekty-za-temer-40-miliard-korun-1816",
+      "source": "Konstrukce.cz",
+      "snippet": "SYNER slaví 35 let. Český stavební lídr realizuje projekty za téměř 40 miliard korun Konstrukce.cz",
+      "published": "Mon, 24 Aug 2026 18:02:34 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Ivan Vyskočil ukázal po dlouhé době dceru a nečekaně promluvil o své rozrostlé rodině - Aplausin.cz",
+      "url": "https://www.aplausin.cz/ivan-vyskocil-ukazal-po-dlouhe-dobe-dceru-necekane-promluvil-o-sve-rozrostle-rodine",
+      "source": "Aplausin.cz",
+      "snippet": "Ivan Vyskočil ukázal po dlouhé době dceru a nečekaně promluvil o své rozrostlé rodině Aplausin.cz",
+      "published": "Sun, 23 Aug 2026 13:30:00 GMT",
       "lang": "cs"
     }
   ]
