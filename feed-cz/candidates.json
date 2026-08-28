@@ -1,221 +1,133 @@
 {
-  "generated_utc": "2026-08-27T17:55:45+00:00",
-  "count": 25,
+  "generated_utc": "2026-08-28T19:02:05+00:00",
+  "count": 14,
   "sources": {
     "profile": "cz",
-    "google_news": 53,
+    "google_news": 64,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 4,
+    "feeds": 3,
     "watch": 0,
-    "before_dedup": 33,
+    "before_dedup": 34,
     "total": 32,
-    "skipped_seen": 7,
-    "gn_resolved": 22,
-    "gn_resolve_tried": 22,
-    "dropped_after_resolve": 0
+    "skipped_seen": 17,
+    "gn_resolved": 15,
+    "gn_resolve_tried": 15,
+    "dropped_after_resolve": 1
   },
   "candidates": [
     {
-      "title": "Kuvajt: Nový protiteroristický zákon ohrožuje základní práva a rozšiřuje trest smrti",
-      "url": "https://amnesty.cz/kuvajt-novy-protiteroristicky-zakon-ohrozuje-zakladni-prava-a-rozsiruje-trest-smrti/",
-      "source": "https://amnesty.cz/feed/",
-      "snippet": "Nová protiteroristická opatření přijatá v Kuvajtu v souvislosti s válkou s Íránem dávají úřadům rozsáhlé pravomoci, které mohou být zneužity proti pokojným protestům i svobodě projevu. Zákon zároveň výrazně rozšiřuje používání trestu smrti. Amnesty vyzývá kuvajtské úřady k jeho urychlené změně. Kuva",
-      "published": "Wed, 26 Aug 2026 15:26:21 +0000",
+      "title": "Den národnostních menšin: Sokolov nabídne hudbu i gastronomii z celého světa - Karlovarská Drbna",
+      "url": "https://karlovarska.drbna.cz/spolecnost/898610-den-narodnostnich-mensin-sokolov-nabidne-hudbu-i-gastronomii-z-celeho-sveta.html",
+      "source": "Karlovarská Drbna",
+      "snippet": "Den národnostních menšin: Sokolov nabídne hudbu i gastronomii z celého světa Karlovarská Drbna",
+      "published": "Fri, 28 Aug 2026 05:01:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Egyptská právnička Hoda Abdelmoniemová zůstává ve vězení. Její zdravotní stav se výrazně zhoršil",
-      "url": "https://amnesty.cz/egyptska-pravnicka-hoda-abdelmoniemova-zustava-ve-vezeni-jeji-zdravotni-stav-se-vyrazne-zhorsil/",
-      "source": "https://amnesty.cz/feed/",
-      "snippet": "Hoda Abdelmoniemová je už více než sedm let svévolně vězněna kvůli své lidskoprávní práci. Přestože si v říjnu 2023 odpykala nespravedlivý pětiletý trest, na svobodu se nedostala. Nyní čelí ve dvou oddělených procesech vykonstruovaným obviněním souvisejícím s terorismem. Její zdravotní stav se mezit",
-      "published": "Wed, 26 Aug 2026 10:50:25 +0000",
+      "title": "Fanoušek Varnsdorfu po pohárovém zápase rasisticky úrážel hráče. Ústecký klub ho sdílel na sítích a čelí kritice - Tiscali.cz",
+      "url": "https://www.tiscali.cz/fanousek-varnsdorfu-po-poharovem-zapase-rasisticky-urazel-hrace-ustecky-klub-ho-sdilel-na-sitich-a-celi-kritice-743504",
+      "source": "Tiscali.cz",
+      "snippet": "Fanoušek Varnsdorfu po pohárovém zápase rasisticky úrážel hráče. Ústecký klub ho sdílel na sítích a čelí kritice Tiscali.cz",
+      "published": "Thu, 27 Aug 2026 16:51:02 GMT",
       "lang": "cs"
     },
     {
-      "title": "Chcete pracovat v Nadaci OSF? Hledáme finančního manažera*ku",
-      "url": "https://osf.cz/2026/08/27/chcete-pracovat-v-nadaci-osf-hledame-financniho-manazeraku/",
-      "source": "https://osf.cz/feed/",
-      "snippet": "Baví vás čísla, finanční plánování a přejete si, aby vaše práce měla reálný pozitivní dopad? V Nadaci OSF již více než 30 let pečujeme o rozvoj demokracie a občanské společnosti v Česku. Podpořili jsme přes 10 000 projektů ... Celý článek",
-      "published": "Thu, 27 Aug 2026 09:37:21 +0000",
+      "title": "Komunistka Konečná odhalila potravinový rasismus. Němec dostal maso, Čech náhražku. Lenin tentokrát zůstal doma - Centrum.cz",
+      "url": "https://www.centrum.cz/clanek/komunistka-konecna-odhalila-potravinovy-rasismus-nemec-dostal-maso-cech-nahrazku-lenin-tentokrat-zustal-doma-277846",
+      "source": "Centrum.cz",
+      "snippet": "Komunistka Konečná odhalila potravinový rasismus. Němec dostal maso, Čech náhražku. Lenin tentokrát zůstal doma Centrum.cz",
+      "published": "Wed, 26 Aug 2026 07:31:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Startuje literární festival Inverze - 25. srpna - Události v regionech (Ostrava) - Česká televize",
-      "url": "https://www.ceskatelevize.cz/porady/10122978233-udalosti-v-regionech-ostrava/426231100030825/cast/1204238/",
-      "source": "Česká televize",
-      "snippet": "Startuje literární festival Inverze - 25. srpna - Události v regionech (Ostrava) Česká televize",
-      "published": "Tue, 25 Aug 2026 17:32:06 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Černý nemám rád.“ Pobuřující video s fanouškem hájí Ústí bojem proti rasismu - Rádio Impuls",
-      "url": "https://www.impuls.cz/zpravy/fotbal/cerny-nemam-rad-usti-videem-upozornilo-na-rasismus/",
-      "source": "Rádio Impuls",
-      "snippet": "„Černý nemám rád.“ Pobuřující video s fanouškem hájí Ústí bojem proti rasismu Rádio Impuls",
-      "published": "Thu, 27 Aug 2026 16:02:02 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Černý nemám rád.“ Video s fanouškem pobouřilo, Ústí ho hájí bojem proti rasismu - iDNES.cz",
-      "url": "https://www.idnes.cz/fotbal/domaci-souteze/cerny-nemam-rad-usti-videem-upozornilo-na-rasismus.A260827_163510_fot_dsouteze_pbi",
-      "source": "iDNES.cz",
-      "snippet": "„Černý nemám rád.“ Video s fanouškem pobouřilo, Ústí ho hájí bojem proti rasismu iDNES.cz",
-      "published": "Thu, 27 Aug 2026 15:08:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Bojuje Ústí proti rasismu rasismem? Kontroverzní video hájí s denním zpožděním - TN.cz",
-      "url": "https://tn.nova.cz/sport/clanek/655563-bojuje-usti-proti-rasismu-rasismem-kontroverzni-video-haji-s-dennim-zpozdenim",
-      "source": "TN.cz",
-      "snippet": "Bojuje Ústí proti rasismu rasismem? Kontroverzní video hájí s denním zpožděním TN.cz",
-      "published": "Thu, 27 Aug 2026 15:06:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Fanoušek Varnsdorfu nahrál rasistické video po poháru. Ústecký klub ho pustil na sítě a schytal sodu - SportyŽivě",
-      "url": "https://sportyzive.cz/fotbal/fanousek-varnsdorfu-rasisticky-urazel-hrace-usti-celi-kritice/",
-      "source": "SportyŽivě",
-      "snippet": "Fanoušek Varnsdorfu nahrál rasistické video po poháru. Ústecký klub ho pustil na sítě a schytal sodu SportyŽivě",
-      "published": "Thu, 27 Aug 2026 15:55:46 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Kopaná proti rasismu v Ostravě - Anarchistická federace",
-      "url": "https://afed.cz/text/8755/kopana-proti-rasismu-v-ostrave",
-      "source": "Anarchistická federace",
-      "snippet": "Kopaná proti rasismu v Ostravě Anarchistická federace",
-      "published": "Wed, 26 Aug 2026 12:53:29 GMT",
+      "title": "Soudy ukazují nesoulad definice extremismu a zařazování do zpráv. Proto je SPD úspěšná, říká Michal - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-domov/soudy-ukazuji-nesoulad-definice-extremismu-a-zarazovani-do-zprav-proto-je-spd_2608272346_elev",
+      "source": "iROZHLAS",
+      "snippet": "Soudy ukazují nesoulad definice extremismu a zařazování do zpráv. Proto je SPD úspěšná, říká Michal iROZHLAS",
+      "published": "Thu, 27 Aug 2026 21:46:00 GMT",
       "lang": "cs"
     },
     {
       "title": "Bauhaus znovu budí vášně. Na odkaz slavné školy útočí německá krajní pravice - Deník.cz",
-      "url": "https://www.denik.cz/evropa/bauhaus-nemecko-vlastenecka-politika-volby",
+      "url": "https://www.denik.cz/evropa/bauhaus-nemecko-vlastenecka-politika-volby/",
       "source": "Deník.cz",
       "snippet": "Bauhaus znovu budí vášně. Na odkaz slavné školy útočí německá krajní pravice Deník.cz",
       "published": "Thu, 27 Aug 2026 14:25:43 GMT",
       "lang": "cs"
     },
     {
-      "title": "Ministerstvo porušilo práva SPD zařazením do zprávy o extremismu, rozhodl soud - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-porusilo-prava-spd-zarazenim-do-zpravy-o-extremismu-rozhodl-soud-376970",
-      "source": "ČT24",
-      "snippet": "Ministerstvo porušilo práva SPD zařazením do zprávy o extremismu, rozhodl soud ČT24",
-      "published": "Wed, 26 Aug 2026 09:51:37 GMT",
+      "title": "Hitler nebyl levičák, v Itálii fašismus rezonuje dodnes. Hrozí Německu vláda s neonacisty? - Reflex.cz",
+      "url": "https://www.reflex.cz/clanek/padni-komu-padni/137875/hitler-nebyl-levicak-v-italii-fasismus-rezonuje-dodnes-hrozi-nemecku-vlada-s-neonacisty.html",
+      "source": "Reflex.cz",
+      "snippet": "Hitler nebyl levičák, v Itálii fašismus rezonuje dodnes. Hrozí Německu vláda s neonacisty? Reflex.cz",
+      "published": "Fri, 28 Aug 2026 16:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Ministerstvo porušilo práva SPD, když ji zařadilo do jedné ze zpráv o extremismu, rozhodl soud - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-domov/ministerstvo-porusilo-prava-spd-kdyz-ji-zaradilo-do-jedne-ze-zprav-o-extremismu_2608261109_ako",
-      "source": "iROZHLAS",
-      "snippet": "Ministerstvo porušilo práva SPD, když ji zařadilo do jedné ze zpráv o extremismu, rozhodl soud iROZHLAS",
-      "published": "Wed, 26 Aug 2026 09:09:00 GMT",
+      "title": "Soud se zastal SPD kvůli zprávě o extremismu. Omluvy se ale Okamurovo hnutí nedočká - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ministerstvo-vnitra-porusilo-prava-hnuti-spd-zarazenim-do-zpravy-o-extremismu.A260826_163731_domaci_jira",
+      "source": "iDNES.cz",
+      "snippet": "Soud se zastal SPD kvůli zprávě o extremismu. Omluvy se ale Okamurovo hnutí nedočká iDNES.cz",
+      "published": "Wed, 26 Aug 2026 14:54:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Jen dva výroky. Soud řekl, proč SPD do zprávy o extremismu nepatřilo - Česká justice",
-      "url": "https://www.ceska-justice.cz/2026/08/spd-zprava-extremismus-soud/",
-      "source": "Česká justice",
-      "snippet": "Jen dva výroky. Soud řekl, proč SPD do zprávy o extremismu nepatřilo Česká justice",
-      "published": "Wed, 26 Aug 2026 10:02:21 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Vnitro porušilo práva SPD, když hnutí zařadilo do jedné ze zpráv o extremismu - Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-vnitro-porusilo-prava-spd-kdyz-hnuti-zaradilo-do-jedne-ze-zprav-o-extremismu-40594514",
-      "source": "Novinky",
-      "snippet": "Vnitro porušilo práva SPD, když hnutí zařadilo do jedné ze zpráv o extremismu Novinky",
-      "published": "Wed, 26 Aug 2026 09:39:15 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "POLITICKÁ SCÉNA: Levice vyhrála slovník - Neviditelný pes",
-      "url": "https://neviditelnypes.lidovky.cz/politika/politicka-scena-levice-vyhrala-slovnik.A260826_172935_p_politika_nef",
-      "source": "Neviditelný pes",
-      "snippet": "POLITICKÁ SCÉNA: Levice vyhrála slovník Neviditelný pes",
-      "published": "Wed, 26 Aug 2026 22:01:57 GMT",
+      "title": "Rozdává-li stát nálepky, musí mít důkazy. SPD vyhrála soudní spor s ministerstvem vnitra právem - Lidovky.cz",
+      "url": "https://www.lidovky.cz/nazory/spd-soudni-spor-ministerstvo-vnitra-zprava-o-extremismu.A260827_120847_ln_nazory_lvot",
+      "source": "Lidovky.cz",
+      "snippet": "Rozdává-li stát nálepky, musí mít důkazy. SPD vyhrála soudní spor s ministerstvem vnitra právem Lidovky.cz",
+      "published": "Thu, 27 Aug 2026 13:00:00 GMT",
       "lang": "cs"
     },
     {
       "title": "Okamura si asi nic nepamatuje. SPD byla ve zprávách o extremismu už za Babišovy vlády - forum 24",
-      "url": "https://www.forum24.cz/nahled/1217704",
+      "url": "https://www.forum24.cz/okamura-si-asi-nic-nepamatuje-spd-byla-ve-zpravach-o-extremismu-uz-za-babisovy-vlady",
       "source": "forum 24",
       "snippet": "Okamura si asi nic nepamatuje. SPD byla ve zprávách o extremismu už za Babišovy vlády forum 24",
-      "published": "Thu, 27 Aug 2026 15:09:22 GMT",
+      "published": "Fri, 28 Aug 2026 03:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Ukrinform - zprávy z Ukrajiny - České noviny",
-      "url": "https://www.ceskenoviny.cz/ukrinform/cesky/zprava.php?id=1443694",
-      "source": "České noviny",
-      "snippet": "Ukrinform - zprávy z Ukrajiny České noviny",
-      "published": "Thu, 27 Aug 2026 03:40:00 GMT",
+      "title": "Superdávka na bydlení se přepočítá podle okresů, experti mají výhrady - Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-superdavka-na-bydleni-se-prepocita-podle-okresu-experti-maji-vyhrady-40594412",
+      "source": "Novinky",
+      "snippet": "Superdávka na bydlení se přepočítá podle okresů, experti mají výhrady Novinky",
+      "published": "Fri, 28 Aug 2026 08:13:22 GMT",
       "lang": "cs"
     },
     {
-      "title": "Obce se obávají rozpadu Agentury pro sociální začleňování, poslaly dopis Babišovi - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/obce-se-obavaji-rozpadu-agentury-pro-socialni-zaclenovani-poslaly-dopis-babisovi-375190",
-      "source": "ČT24",
-      "snippet": "Obce se obávají rozpadu Agentury pro sociální začleňování, poslaly dopis Babišovi ČT24",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "title": "Mění se superdávka pro seniory. Většina zatím vůbec neví, jak se jich to dotkne - Tiscali.cz",
+      "url": "https://www.tiscali.cz/meni-se-superdavka-pro-seniory-vetsina-zatim-vubec-nevi-jak-se-jich-to-dotkne-743751",
+      "source": "Tiscali.cz",
+      "snippet": "Mění se superdávka pro seniory. Většina zatím vůbec neví, jak se jich to dotkne Tiscali.cz",
+      "published": "Fri, 28 Aug 2026 17:19:04 GMT",
       "lang": "cs"
     },
     {
-      "title": "Senioři mohou od října dostávat každý měsíc více peněz. O výši podpory rozhodne hlavně to, kde bydlí - EnergoZrouti.cz",
-      "url": "https://energozrouti.cz/clanek/seniori-od-rijna-vyssi-podpora-podle-mista-bydliste",
-      "source": "EnergoZrouti.cz",
-      "snippet": "Senioři mohou od října dostávat každý měsíc více peněz. O výši podpory rozhodne hlavně to, kde bydlí EnergoZrouti.cz",
-      "published": "Thu, 27 Aug 2026 10:59:01 GMT",
+      "title": "Podpory v nezaměstnanosti mají od ledna 2027 klesnout, stát chce ušetřit miliardy - E15.cz",
+      "url": "https://www.e15.cz/finexpert/prispevky-a-davky/podpory-v-nezamestnanosti-maji-od-ledna-2027-klesnout-stat-chce-usetrit-miliardy-1435312",
+      "source": "E15.cz",
+      "snippet": "Podpory v nezaměstnanosti mají od ledna 2027 klesnout, stát chce ušetřit miliardy E15.cz",
+      "published": "Fri, 28 Aug 2026 12:48:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Red Bull má stále nejlepší motor. FIA uveřejnila nové výsledky ADUO - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/red-bull-ma-stale-nejlepsi-motor-fia-uverejnila-nove-vysledky-aduo",
-      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Red Bull má stále nejlepší motor. FIA uveřejnila nové výsledky ADUO F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Wed, 26 Aug 2026 15:46:00 GMT",
+      "title": "Jak Fialova vláda roztleskala boom dávek. Finální účet je enormní - Echo24",
+      "url": "https://www.echo24.cz/a/HF6hb/zpravy-domaci-prispevek-na-bydleni-finalni-ucet-je-enormni-ods-vlada-petr-fiala-destnik-proti-drahote-vydaje-statni-rozpocet",
+      "source": "Echo24",
+      "snippet": "Jak Fialova vláda roztleskala boom dávek. Finální účet je enormní Echo24",
+      "published": "Thu, 27 Aug 2026 22:02:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Studující rodiče mohou od září získat hlídačkovné: Co to je, kdo má nárok - Deník.cz",
-      "url": "https://www.denik.cz/skolstvi-a-vzdelavani/ekonomika-davka-na-deti-hlidackovne-co-to-je-kdo-ma-narok/",
-      "source": "Deník.cz",
-      "snippet": "Studující rodiče mohou od září získat hlídačkovné: Co to je, kdo má nárok Deník.cz",
-      "published": "Wed, 26 Aug 2026 10:07:40 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Ferrari přiveze do Monzy nový motor i speciální zbarvení - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/ferrari-priveze-do-monzy-novy-motor-i-specialni-zbarveni",
-      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Ferrari přiveze do Monzy nový motor i speciální zbarvení F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Wed, 26 Aug 2026 18:05:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Kvíz: Kimi Antonelli slaví dvacáté narozeniny. Co o něm a jeho kariéře víte? - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/kviz-kimi-antonelli-slavi-dvacate-narozeniny-co-o-nem-a-jeho-kariere-vite",
-      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Kvíz: Kimi Antonelli slaví dvacáté narozeniny. Co o něm a jeho kariéře víte? F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Tue, 25 Aug 2026 08:33:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Plzeň staví centrum pro ženy bez domova a poradnu pro cizince - Metro.cz",
-      "url": "https://www.metro.cz/kraje/plzensky-kraj/plzen-stavi-centrum-pro-zeny-bez-domova-a-poradnu-pro-cizince.A260826_134530_metro-plzen-zpravy_air",
-      "source": "Metro.cz",
-      "snippet": "Plzeň staví centrum pro ženy bez domova a poradnu pro cizince Metro.cz",
-      "published": "Wed, 26 Aug 2026 10:11:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Hlavními volebními tématy ANO v Jablonci n.N. je bezpečnost či daň z nemovitosti - Metro.cz",
-      "url": "https://www.metro.cz/kraje/liberecky-kraj/hlavnimi-volebnimi-tematy-ano-v-jablonci-n-n-je-bezpecnost-ci-dan-z-nemovitosti.A260826_183034_metro-liberec-zpravy_air",
-      "source": "Metro.cz",
-      "snippet": "Hlavními volebními tématy ANO v Jablonci n.N. je bezpečnost či daň z nemovitosti Metro.cz",
-      "published": "Wed, 26 Aug 2026 14:51:00 GMT",
+      "title": "Hlavními volebními tématy hnutí ANO v Jablonci je bezpečnost či daň z nemovitosti - genus.cz",
+      "url": "https://genus.cz/regiony/jablonecko/hlavnimi-volebnimi-tematy-hnuti-ano-v-jablonci-je-bezpecnost-ci-dan-z-nemovitosti-n741668.htm",
+      "source": "genus.cz",
+      "snippet": "Hlavními volebními tématy hnutí ANO v Jablonci je bezpečnost či daň z nemovitosti genus.cz",
+      "published": "Wed, 26 Aug 2026 17:36:00 GMT",
       "lang": "cs"
     }
   ]
