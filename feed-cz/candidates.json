@@ -1,133 +1,53 @@
 {
-  "generated_utc": "2026-08-28T19:02:05+00:00",
-  "count": 14,
+  "generated_utc": "2026-08-29T12:51:02+00:00",
+  "count": 4,
   "sources": {
     "profile": "cz",
-    "google_news": 64,
+    "google_news": 58,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 3,
-    "watch": 0,
-    "before_dedup": 34,
-    "total": 32,
-    "skipped_seen": 17,
-    "gn_resolved": 15,
-    "gn_resolve_tried": 15,
-    "dropped_after_resolve": 1
+    "feeds": 2,
+    "watch": 1,
+    "before_dedup": 27,
+    "total": 26,
+    "skipped_seen": 22,
+    "gn_resolved": 4,
+    "gn_resolve_tried": 4,
+    "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Den národnostních menšin: Sokolov nabídne hudbu i gastronomii z celého světa - Karlovarská Drbna",
-      "url": "https://karlovarska.drbna.cz/spolecnost/898610-den-narodnostnich-mensin-sokolov-nabidne-hudbu-i-gastronomii-z-celeho-sveta.html",
-      "source": "Karlovarská Drbna",
-      "snippet": "Den národnostních menšin: Sokolov nabídne hudbu i gastronomii z celého světa Karlovarská Drbna",
-      "published": "Fri, 28 Aug 2026 05:01:00 GMT",
+      "title": "Veřejný ochránce práv | Ombudsman - Veřejný ochránce práv",
+      "url": "https://www.ochrance.cz/",
+      "source": "Veřejný ochránce práv",
+      "snippet": "Veřejný ochránce práv | Ombudsman Veřejný ochránce práv",
+      "published": "Thu, 27 Aug 2026 10:44:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Fanoušek Varnsdorfu po pohárovém zápase rasisticky úrážel hráče. Ústecký klub ho sdílel na sítích a čelí kritice - Tiscali.cz",
-      "url": "https://www.tiscali.cz/fanousek-varnsdorfu-po-poharovem-zapase-rasisticky-urazel-hrace-ustecky-klub-ho-sdilel-na-sitich-a-celi-kritice-743504",
-      "source": "Tiscali.cz",
-      "snippet": "Fanoušek Varnsdorfu po pohárovém zápase rasisticky úrážel hráče. Ústecký klub ho sdílel na sítích a čelí kritice Tiscali.cz",
-      "published": "Thu, 27 Aug 2026 16:51:02 GMT",
+      "title": "Skandál na fotbalové tribuně: Fanoušek šokoval rasismem, trenér Varnsdorfu se distancuje a vyhlíží Slavii - iSport.cz",
+      "url": "https://isport.blesk.cz/clanek/fotbal-domaci-souteze-pohar-facr/479206/jsme-becko-kyjeva-cerny-nemam-rad-kouc-reagoval-na-skandalniho-fanouska-a-ted-slavia.html",
+      "source": "iSport.cz",
+      "snippet": "Skandál na fotbalové tribuně: Fanoušek šokoval rasismem, trenér Varnsdorfu se distancuje a vyhlíží Slavii iSport.cz",
+      "published": "Sat, 29 Aug 2026 05:30:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Komunistka Konečná odhalila potravinový rasismus. Němec dostal maso, Čech náhražku. Lenin tentokrát zůstal doma - Centrum.cz",
-      "url": "https://www.centrum.cz/clanek/komunistka-konecna-odhalila-potravinovy-rasismus-nemec-dostal-maso-cech-nahrazku-lenin-tentokrat-zustal-doma-277846",
+      "title": "BIS ve své výroční zprávě odhaluje, jak Rusko mění taktiku a Čína posiluje zpravodajský tlak - CZDEFENCE.cz",
+      "url": "https://www.czdefence.cz/clanek/bis-ve-sve-vyrocni-zprave-odhaluje-jak-rusko-meni-taktiku-a-cina-posiluje-zpravodajsky-tlak",
+      "source": "CZDEFENCE.cz",
+      "snippet": "BIS ve své výroční zprávě odhaluje, jak Rusko mění taktiku a Čína posiluje zpravodajský tlak CZDEFENCE.cz",
+      "published": "Sat, 29 Aug 2026 05:11:31 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Až 3 ze 4 domácností s nárokem nežádají o příspěvek na bydlení. Zbytečně přicházejí o tisíce - Centrum.cz",
+      "url": "https://www.centrum.cz/clanek/az-3-ze-4-domacnosti-s-narokem-nezadaji-o-prispevek-na-bydleni-zbytecne-prichazeji-o-tisice-279604",
       "source": "Centrum.cz",
-      "snippet": "Komunistka Konečná odhalila potravinový rasismus. Němec dostal maso, Čech náhražku. Lenin tentokrát zůstal doma Centrum.cz",
-      "published": "Wed, 26 Aug 2026 07:31:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Soudy ukazují nesoulad definice extremismu a zařazování do zpráv. Proto je SPD úspěšná, říká Michal - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-domov/soudy-ukazuji-nesoulad-definice-extremismu-a-zarazovani-do-zprav-proto-je-spd_2608272346_elev",
-      "source": "iROZHLAS",
-      "snippet": "Soudy ukazují nesoulad definice extremismu a zařazování do zpráv. Proto je SPD úspěšná, říká Michal iROZHLAS",
-      "published": "Thu, 27 Aug 2026 21:46:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Bauhaus znovu budí vášně. Na odkaz slavné školy útočí německá krajní pravice - Deník.cz",
-      "url": "https://www.denik.cz/evropa/bauhaus-nemecko-vlastenecka-politika-volby/",
-      "source": "Deník.cz",
-      "snippet": "Bauhaus znovu budí vášně. Na odkaz slavné školy útočí německá krajní pravice Deník.cz",
-      "published": "Thu, 27 Aug 2026 14:25:43 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Hitler nebyl levičák, v Itálii fašismus rezonuje dodnes. Hrozí Německu vláda s neonacisty? - Reflex.cz",
-      "url": "https://www.reflex.cz/clanek/padni-komu-padni/137875/hitler-nebyl-levicak-v-italii-fasismus-rezonuje-dodnes-hrozi-nemecku-vlada-s-neonacisty.html",
-      "source": "Reflex.cz",
-      "snippet": "Hitler nebyl levičák, v Itálii fašismus rezonuje dodnes. Hrozí Německu vláda s neonacisty? Reflex.cz",
-      "published": "Fri, 28 Aug 2026 16:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Soud se zastal SPD kvůli zprávě o extremismu. Omluvy se ale Okamurovo hnutí nedočká - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/ministerstvo-vnitra-porusilo-prava-hnuti-spd-zarazenim-do-zpravy-o-extremismu.A260826_163731_domaci_jira",
-      "source": "iDNES.cz",
-      "snippet": "Soud se zastal SPD kvůli zprávě o extremismu. Omluvy se ale Okamurovo hnutí nedočká iDNES.cz",
-      "published": "Wed, 26 Aug 2026 14:54:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Rozdává-li stát nálepky, musí mít důkazy. SPD vyhrála soudní spor s ministerstvem vnitra právem - Lidovky.cz",
-      "url": "https://www.lidovky.cz/nazory/spd-soudni-spor-ministerstvo-vnitra-zprava-o-extremismu.A260827_120847_ln_nazory_lvot",
-      "source": "Lidovky.cz",
-      "snippet": "Rozdává-li stát nálepky, musí mít důkazy. SPD vyhrála soudní spor s ministerstvem vnitra právem Lidovky.cz",
-      "published": "Thu, 27 Aug 2026 13:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Okamura si asi nic nepamatuje. SPD byla ve zprávách o extremismu už za Babišovy vlády - forum 24",
-      "url": "https://www.forum24.cz/okamura-si-asi-nic-nepamatuje-spd-byla-ve-zpravach-o-extremismu-uz-za-babisovy-vlady",
-      "source": "forum 24",
-      "snippet": "Okamura si asi nic nepamatuje. SPD byla ve zprávách o extremismu už za Babišovy vlády forum 24",
-      "published": "Fri, 28 Aug 2026 03:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Superdávka na bydlení se přepočítá podle okresů, experti mají výhrady - Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-superdavka-na-bydleni-se-prepocita-podle-okresu-experti-maji-vyhrady-40594412",
-      "source": "Novinky",
-      "snippet": "Superdávka na bydlení se přepočítá podle okresů, experti mají výhrady Novinky",
-      "published": "Fri, 28 Aug 2026 08:13:22 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Mění se superdávka pro seniory. Většina zatím vůbec neví, jak se jich to dotkne - Tiscali.cz",
-      "url": "https://www.tiscali.cz/meni-se-superdavka-pro-seniory-vetsina-zatim-vubec-nevi-jak-se-jich-to-dotkne-743751",
-      "source": "Tiscali.cz",
-      "snippet": "Mění se superdávka pro seniory. Většina zatím vůbec neví, jak se jich to dotkne Tiscali.cz",
-      "published": "Fri, 28 Aug 2026 17:19:04 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Podpory v nezaměstnanosti mají od ledna 2027 klesnout, stát chce ušetřit miliardy - E15.cz",
-      "url": "https://www.e15.cz/finexpert/prispevky-a-davky/podpory-v-nezamestnanosti-maji-od-ledna-2027-klesnout-stat-chce-usetrit-miliardy-1435312",
-      "source": "E15.cz",
-      "snippet": "Podpory v nezaměstnanosti mají od ledna 2027 klesnout, stát chce ušetřit miliardy E15.cz",
-      "published": "Fri, 28 Aug 2026 12:48:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Jak Fialova vláda roztleskala boom dávek. Finální účet je enormní - Echo24",
-      "url": "https://www.echo24.cz/a/HF6hb/zpravy-domaci-prispevek-na-bydleni-finalni-ucet-je-enormni-ods-vlada-petr-fiala-destnik-proti-drahote-vydaje-statni-rozpocet",
-      "source": "Echo24",
-      "snippet": "Jak Fialova vláda roztleskala boom dávek. Finální účet je enormní Echo24",
-      "published": "Thu, 27 Aug 2026 22:02:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Hlavními volebními tématy hnutí ANO v Jablonci je bezpečnost či daň z nemovitosti - genus.cz",
-      "url": "https://genus.cz/regiony/jablonecko/hlavnimi-volebnimi-tematy-hnuti-ano-v-jablonci-je-bezpecnost-ci-dan-z-nemovitosti-n741668.htm",
-      "source": "genus.cz",
-      "snippet": "Hlavními volebními tématy hnutí ANO v Jablonci je bezpečnost či daň z nemovitosti genus.cz",
-      "published": "Wed, 26 Aug 2026 17:36:00 GMT",
+      "snippet": "Až 3 ze 4 domácností s nárokem nežádají o příspěvek na bydlení. Zbytečně přicházejí o tisíce Centrum.cz",
+      "published": "Sat, 29 Aug 2026 01:13:00 GMT",
       "lang": "cs"
     }
   ]
