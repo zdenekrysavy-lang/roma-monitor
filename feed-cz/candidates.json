@@ -1,109 +1,205 @@
 {
-  "generated_utc": "2026-08-31T14:27:59+00:00",
-  "count": 11,
+  "generated_utc": "2026-09-01T12:03:51+00:00",
+  "count": 23,
   "sources": {
     "profile": "cz",
-    "google_news": 37,
+    "google_news": 60,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 0,
     "watch": 0,
-    "before_dedup": 25,
-    "total": 21,
-    "skipped_seen": 10,
-    "gn_resolved": 11,
-    "gn_resolve_tried": 11,
+    "before_dedup": 42,
+    "total": 36,
+    "skipped_seen": 13,
+    "gn_resolved": 23,
+    "gn_resolve_tried": 23,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Jana Horváthová rezignovala na funkci ředitelky Muzea romské kultury. - Deník N",
-      "url": "https://denikn.cz/minuta/2170365/",
-      "source": "Deník N",
-      "snippet": "Jana Horváthová rezignovala na funkci ředitelky Muzea romské kultury. Deník N",
-      "published": "Mon, 31 Aug 2026 14:10:27 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "O Roma vakeren - 29. 8. 2026 - mujRozhlas",
-      "url": "https://www.mujrozhlas.cz/o-roma-vakeren/o-roma-vakeren-29-8-2026",
-      "source": "mujRozhlas",
-      "snippet": "O Roma vakeren - 29. 8. 2026 mujRozhlas",
-      "published": "Sat, 29 Aug 2026 22:09:23 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Blackout? Rasový komplot! Ale což když vše vedou černoši? Absurdita výpadku proudu v USA - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/indiana-gary-blackout-environmentalni-rasismus-diskriminace-konspirace.A260828_193922_zahranicni_krou",
-      "source": "iDNES.cz",
-      "snippet": "Blackout? Rasový komplot! Ale což když vše vedou černoši? Absurdita výpadku proudu v USA iDNES.cz",
-      "published": "Sun, 30 Aug 2026 12:17:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Předvolební Německo: co je národ? Smí národ ještě spojovat společný původ a etnicita? - Echo24",
-      "url": "https://www.echo24.cz/a/HLYjn/komentar-viry-predvolebni-nemecko-co-je-narod-smi-narod-jeste-spojovat-spolecny-puvod-a-etnicita",
-      "source": "Echo24",
-      "snippet": "Předvolební Německo: co je národ? Smí národ ještě spojovat společný původ a etnicita? Echo24",
-      "published": "Sun, 30 Aug 2026 22:05:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Baxová, Jedlička: Zářijové volby v Německu: AfD může vyhrát hned ve třech spolkových zemích - Deník Referendum",
-      "url": "https://denikreferendum.cz/clanek/239281-zarijove-volby-v-nemecku-afd-muze-vyhrat-hned-ve-trech-spolkovych-zemich",
-      "source": "Deník Referendum",
-      "snippet": "Baxová, Jedlička: Zářijové volby v Německu: AfD může vyhrát hned ve třech spolkových zemích Deník Referendum",
-      "published": "Sun, 30 Aug 2026 05:01:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Vyzýval k deportaci milionů, nyní britského komentátora z USA vyhostili - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vyzyval-k-deportaci-milionu-nyni-britskeho-komentatora-z-usa-vyhostili-377089",
-      "source": "ČT24",
-      "snippet": "Vyzýval k deportaci milionů, nyní britského komentátora z USA vyhostili ČT24",
-      "published": "Sat, 29 Aug 2026 20:07:44 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Druhý rodič neplatí výživné? Superdávka trestá některé samoživitelky - Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-druhy-rodic-neplati-vyzivne-superdavka-tresta-nektere-samozivitelky-313883",
+      "title": "Jana Horváthová rezignovala na funkci ředitelky Muzea romské kultury - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-jana-horvathova-rezignovala-na-funkci-reditelky-muzea-romske-kultury-314300",
       "source": "Seznam Zprávy",
-      "snippet": "Druhý rodič neplatí výživné? Superdávka trestá některé samoživitelky Seznam Zprávy",
-      "published": "Mon, 31 Aug 2026 06:40:00 GMT",
+      "snippet": "Jana Horváthová rezignovala na funkci ředitelky Muzea romské kultury Seznam Zprávy",
+      "published": "Mon, 31 Aug 2026 14:56:36 GMT",
       "lang": "cs"
     },
     {
-      "title": "Superdávka trestá některé samoživitelky - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1651713-superdavka-tresta-nektere-samozivitelky.html",
+      "title": "Horváthová skončila jako ředitelka Muzea romské kultury. Nahradí ji dosavadní zástupkyně - www.prahanadlani.cz",
+      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1652197-horvathova-skoncila-jako-reditelka-muzea-romske-kultury-nahradi-ji-dosavadni-zastupkyne.html",
       "source": "www.prahanadlani.cz",
-      "snippet": "Superdávka trestá některé samoživitelky www.prahanadlani.cz",
-      "published": "Mon, 31 Aug 2026 09:29:49 GMT",
+      "snippet": "Horváthová skončila jako ředitelka Muzea romské kultury. Nahradí ji dosavadní zástupkyně www.prahanadlani.cz",
+      "published": "Mon, 31 Aug 2026 15:57:49 GMT",
       "lang": "cs"
     },
     {
-      "title": "Psychologika 33: Srdce operovat neumíme, jinak rozumíme všemu. Co je Dunningův-Krugerův efekt? - Mojepsychologie.cz",
-      "url": "https://mojepsychologie.zeny.cz/diskuse/1047265/1",
-      "source": "Mojepsychologie.cz",
-      "snippet": "Psychologika 33: Srdce operovat neumíme, jinak rozumíme všemu. Co je Dunningův-Krugerův efekt? Mojepsychologie.cz",
-      "published": "Mon, 31 Aug 2026 07:43:30 GMT",
+      "title": "Odvolací soud se zastal SPD. Osvobodil Okamurovo vládní hnutí v kauze plakátů ‚chirurgů z dovozu‘ - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-domov/spd-plakaty-volby-chirurgove-z-dovozu-soud_2609011027_ako",
+      "source": "iROZHLAS",
+      "snippet": "Odvolací soud se zastal SPD. Osvobodil Okamurovo vládní hnutí v kauze plakátů ‚chirurgů z dovozu‘ iROZHLAS",
+      "published": "Tue, 01 Sep 2026 08:27:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "31. srpna - Události v kultuře - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/video/porad/udalosti-v-kulture-1097206490",
+      "source": "ČT24",
+      "snippet": "31. srpna - Události v kultuře ČT24",
+      "published": "Mon, 31 Aug 2026 19:51:11 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "O Roma vakeren s Kamilou Schusterovou - Český rozhlas Sever",
+      "url": "https://sever.rozhlas.cz/o-roma-vakeren-s-kamilou-schusterovou-9639684",
+      "source": "Český rozhlas Sever",
+      "snippet": "O Roma vakeren s Kamilou Schusterovou Český rozhlas Sever",
+      "published": "Sun, 30 Aug 2026 10:20:11 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Vládní SPD nespáchalo trestný čin podněcování k nenávisti, rozhodl soud - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-vladni-spd-nespachalo-trestny-cin-podnecovani-k-nenavisti-rozhodl-soud-314336",
+      "source": "Seznam Zprávy",
+      "snippet": "Vládní SPD nespáchalo trestný čin podněcování k nenávisti, rozhodl soud Seznam Zprávy",
+      "published": "Tue, 01 Sep 2026 08:39:07 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Soud zprostil SPD obžaloby z podněcování k nenávisti - Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-soud-zprostil-spd-obzaloby-z-podnecovani-k-nenavisti-40595365",
+      "source": "Novinky",
+      "snippet": "Soud zprostil SPD obžaloby z podněcování k nenávisti Novinky",
+      "published": "Tue, 01 Sep 2026 08:17:27 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Hnutí SPD nespáchalo trestný čin podněcování k nenávisti, rozhodl odvolací soud - iDNES.tv",
+      "url": "https://tv.idnes.cz/krimi/spd-volby-plakaty-nenavist-migranti-romove-soud-odvolani.V260901_110143_idnestv_iri",
+      "source": "iDNES.tv",
+      "snippet": "Hnutí SPD nespáchalo trestný čin podněcování k nenávisti, rozhodl odvolací soud iDNES.tv",
+      "published": "Tue, 01 Sep 2026 09:20:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Policie obvinila šéfa české pobočky hnutí AllatRa za podněcování k nenávisti - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-policie-obvinila-sefa-ceske-pobocky-hnuti-allatra-za-podnecovani-k-nenavisti-314043",
+      "source": "Seznam Zprávy",
+      "snippet": "Policie obvinila šéfa české pobočky hnutí AllatRa za podněcování k nenávisti Seznam Zprávy",
+      "published": "Tue, 01 Sep 2026 10:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Soud zprostil SPD obžaloby z podněcování k nenávis... - forum 24",
+      "url": "https://www.forum24.cz/soud-zprostil-spd-obzaloby-z-podnecovani-k-nenavisti-kvuli-predvolebnim-plakatum",
+      "source": "forum 24",
+      "snippet": "Soud zprostil SPD obžaloby z podněcování k nenávis... forum 24",
+      "published": "Tue, 01 Sep 2026 08:56:27 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Soud projedná odvolání SPD proti třímilionovému trestu za předvolební plakáty - České noviny",
+      "url": "https://www.ceskenoviny.cz/zpravy/soud-projedna-odvolani-spd-proti-trimilionovemu-trestu-za-predvolebni-plakaty/2868331",
+      "source": "České noviny",
+      "snippet": "Soud projedná odvolání SPD proti třímilionovému trestu za předvolební plakáty České noviny",
+      "published": "Mon, 31 Aug 2026 22:09:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nenávistné plakáty SPD jsou na hraně vkusu. Okamurovo hnutí se trestného činu nedopustilo, rozhodl soud - Reflex.cz",
+      "url": "https://www.reflex.cz/clanek/zpravy/137926/nenavistne-plakaty-spd-jsou-na-hrane-vkusu-okamurovo-hnuti-se-trestneho-cinu-nedopustilo-rozhodl-soud.html",
+      "source": "Reflex.cz",
+      "snippet": "Nenávistné plakáty SPD jsou na hraně vkusu. Okamurovo hnutí se trestného činu nedopustilo, rozhodl soud Reflex.cz",
+      "published": "Tue, 01 Sep 2026 08:40:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Trefa Miroslava Kalouska: Špatné dluhy v dobrých časech - Novinky",
+      "url": "https://www.novinky.cz/clanek/komentare-trefy-trefa-miroslava-kalouska-spatne-dluhy-v-dobrych-casech-40595366",
+      "source": "Novinky",
+      "snippet": "Trefa Miroslava Kalouska: Špatné dluhy v dobrých časech Novinky",
+      "published": "Tue, 01 Sep 2026 08:32:13 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Muž ve vlaku z Mnichova do Prahy masturboval před cestujícími i malou vnučkou - Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-muz-ve-vlaku-z-mnichova-do-prahy-masturboval-pred-cestujicimi-i-malou-vnuckou-40595187",
+      "source": "Novinky",
+      "snippet": "Muž ve vlaku z Mnichova do Prahy masturboval před cestujícími i malou vnučkou Novinky",
+      "published": "Mon, 31 Aug 2026 08:14:40 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Polské stíhačky nad Baltem zahnaly ruský průzkumný letoun - Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-polske-stihacky-nad-baltem-zahnaly-rusky-pruzkumny-letoun-40595304",
+      "source": "Novinky",
+      "snippet": "Polské stíhačky nad Baltem zahnaly ruský průzkumný letoun Novinky",
+      "published": "Mon, 31 Aug 2026 14:27:12 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Slovák přivezl taxíkem na policii dělostřeleckou minu - Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-slovak-privezl-taxikem-na-policii-delostreleckou-minu-40594747",
+      "source": "Novinky",
+      "snippet": "Slovák přivezl taxíkem na policii dělostřeleckou minu Novinky",
+      "published": "Mon, 31 Aug 2026 09:42:31 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Kvíz: Carlos Sainz dnes slaví 32. narozeniny. Co víte o jeho kariéře? - F1sport.cz – podrobné zpravodajství ze světa F1",
+      "url": "https://f1sport.auto.cz/clanek/kviz-carlos-sainz-dnes-slavi-32-narozeniny-co-vite-o-jeho-kariere",
+      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
+      "snippet": "Kvíz: Carlos Sainz dnes slaví 32. narozeniny. Co víte o jeho kariéře? F1sport.cz – podrobné zpravodajství ze světa F1",
+      "published": "Tue, 01 Sep 2026 10:30:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "newsimg-storage-Prispevek-5.JPG - Finance.cz",
+      "url": "https://www.finance.cz/obrazek/1254066/",
+      "source": "Finance.cz",
+      "snippet": "newsimg-storage-Prispevek-5.JPG Finance.cz",
+      "published": "Mon, 31 Aug 2026 23:52:28 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "PŘEHLEDNĚ: Studenti s malými dětmi budou mít nárok na novou dávku. Jak ji získají - Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-prehledne-studenti-s-malymi-detmi-budou-mit-narok-na-novou-davku-jak-ji-ziskaji-40593690",
+      "source": "Novinky",
+      "snippet": "PŘEHLEDNĚ: Studenti s malými dětmi budou mít nárok na novou dávku. Jak ji získají Novinky",
+      "published": "Mon, 31 Aug 2026 03:53:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "newsimg-storage-Prispevek-na-bydleni-2.JPG - Finance.cz",
+      "url": "https://www.finance.cz/obrazek/1254060/",
+      "source": "Finance.cz",
+      "snippet": "newsimg-storage-Prispevek-na-bydleni-2.JPG Finance.cz",
+      "published": "Mon, 31 Aug 2026 23:12:26 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "For Arch 2026 představí osm oblastí stavebnictví. Zaměří se i na dostupné bydlení - Tiscali.cz",
+      "url": "https://www.tiscali.cz/for-arch-2026-predstavi-osm-oblasti-stavebnictvi-zameri-se-i-na-dostupne-bydleni-747578",
+      "source": "Tiscali.cz",
+      "snippet": "For Arch 2026 představí osm oblastí stavebnictví. Zaměří se i na dostupné bydlení Tiscali.cz",
+      "published": "Tue, 01 Sep 2026 11:19:34 GMT",
       "lang": "cs"
     },
     {
       "title": "Stroj místo pěti zedníků. K renesanci cihly by mohla přispět robotická výstavba, míní ředitel Wienbergeru - iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/kamil-jerabek-wienerberger-vystavba-cihla-beton-robotika-byty.A260830_183904_ekoakcie_krou",
+      "url": "https://www.idnes.cz/ekonomika/domaci/kamil-jerabek-wienerberger-vystavba-cihla-beton-robotika-byty.A260830_183904_ekoakcie_krou?zdroj=sph_hp",
       "source": "iDNES.cz",
       "snippet": "Stroj místo pěti zedníků. K renesanci cihly by mohla přispět robotická výstavba, míní ředitel Wienbergeru iDNES.cz",
       "published": "Sun, 30 Aug 2026 22:00:25 GMT",
       "lang": "cs"
     },
     {
-      "title": "Vláda schválila rovné mzdy: Zaměstnanci si budou moci vyžádat přehled o odměnách - Týden.cz",
-      "url": "https://www.tyden.cz/vlada-schvalila-rovne-mzdy-zamestnanci-si-budou-moci-vyzadat-prehled-o-odmenach",
-      "source": "Týden.cz",
-      "snippet": "Vláda schválila rovné mzdy: Zaměstnanci si budou moci vyžádat přehled o odměnách Týden.cz",
-      "published": "Mon, 31 Aug 2026 09:59:00 GMT",
+      "title": "Věková diskriminace při hledání práce začíná v Česku už po čtyřicítce, ukázal překvapivě výzkum - Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-vekova-diskriminace-pri-hledani-prace-zacina-v-cesku-uz-po-ctyricitce-ukazal-prekvapive-vyzkum-40593822",
+      "source": "Novinky",
+      "snippet": "Věková diskriminace při hledání práce začíná v Česku už po čtyřicítce, ukázal překvapivě výzkum Novinky",
+      "published": "Tue, 01 Sep 2026 07:20:35 GMT",
       "lang": "cs"
     }
   ]
