@@ -1,205 +1,205 @@
 {
-  "generated_utc": "2026-09-01T12:03:51+00:00",
+  "generated_utc": "2026-09-02T11:47:55+00:00",
   "count": 23,
   "sources": {
     "profile": "cz",
-    "google_news": 60,
+    "google_news": 68,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 0,
     "watch": 0,
-    "before_dedup": 42,
-    "total": 36,
-    "skipped_seen": 13,
+    "before_dedup": 49,
+    "total": 41,
+    "skipped_seen": 18,
     "gn_resolved": 23,
     "gn_resolve_tried": 23,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Jana Horváthová rezignovala na funkci ředitelky Muzea romské kultury - Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-jana-horvathova-rezignovala-na-funkci-reditelky-muzea-romske-kultury-314300",
-      "source": "Seznam Zprávy",
-      "snippet": "Jana Horváthová rezignovala na funkci ředitelky Muzea romské kultury Seznam Zprávy",
-      "published": "Mon, 31 Aug 2026 14:56:36 GMT",
+      "title": "Zpěv i nářek. Olašští Romové se loučí se svým králem - iDNES.tv",
+      "url": "https://tv.idnes.cz/video-olassti-romove-z-ostravy-se-louci-s-kralem-janem-lipou.A121018_121734_ln-video_jkz/foto",
+      "source": "iDNES.tv",
+      "snippet": "Zpěv i nářek. Olašští Romové se loučí se svým králem iDNES.tv",
+      "published": "Tue, 01 Sep 2026 10:42:18 GMT",
       "lang": "cs"
     },
     {
-      "title": "Horváthová skončila jako ředitelka Muzea romské kultury. Nahradí ji dosavadní zástupkyně - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1652197-horvathova-skoncila-jako-reditelka-muzea-romske-kultury-nahradi-ji-dosavadni-zastupkyne.html",
-      "source": "www.prahanadlani.cz",
-      "snippet": "Horváthová skončila jako ředitelka Muzea romské kultury. Nahradí ji dosavadní zástupkyně www.prahanadlani.cz",
-      "published": "Mon, 31 Aug 2026 15:57:49 GMT",
+      "title": "Děláte nám ostudu, zlobí se Romové na G MMA: Jste Indové, opičáci a negramoti, včetně Jíry - Top-Fight.cz",
+      "url": "https://www.top-fight.cz/delate-nam-ostudu-zlobi-se-romove-na-g-mma-jste-indove-opicaci-a-negramoti-vcetne-jiry/",
+      "source": "Top-Fight.cz",
+      "snippet": "Děláte nám ostudu, zlobí se Romové na G MMA: Jste Indové, opičáci a negramoti, včetně Jíry Top-Fight.cz",
+      "published": "Tue, 01 Sep 2026 14:50:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Odvolací soud se zastal SPD. Osvobodil Okamurovo vládní hnutí v kauze plakátů ‚chirurgů z dovozu‘ - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-domov/spd-plakaty-volby-chirurgove-z-dovozu-soud_2609011027_ako",
-      "source": "iROZHLAS",
-      "snippet": "Odvolací soud se zastal SPD. Osvobodil Okamurovo vládní hnutí v kauze plakátů ‚chirurgů z dovozu‘ iROZHLAS",
-      "published": "Tue, 01 Sep 2026 08:27:00 GMT",
+      "title": "Teror ve slovenských Rokycanech: Maskovaní ninjové běhají po střechách a házejí kamení - CNN Prima NEWS",
+      "url": "https://cnn.iprima.cz/teror-v-rokycanech-maskovani-ninjove-ohrozuji-obyvatele-520715",
+      "source": "CNN Prima NEWS",
+      "snippet": "Teror ve slovenských Rokycanech: Maskovaní ninjové běhají po střechách a házejí kamení CNN Prima NEWS",
+      "published": "Tue, 01 Sep 2026 14:50:26 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Ponížení u Krause! Studená sprcha pro partnerku známého komika - Ahaonline.cz",
+      "url": "https://www.ahaonline.cz/clanek/zhave-drby/237203/ponizeni-u-krause-studena-sprcha-pro-partnerku-znameho-komika.html",
+      "source": "Ahaonline.cz",
+      "snippet": "Ponížení u Krause! Studená sprcha pro partnerku známého komika Ahaonline.cz",
+      "published": "Wed, 02 Sep 2026 08:16:00 GMT",
       "lang": "cs"
     },
     {
       "title": "31. srpna - Události v kultuře - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/video/porad/udalosti-v-kulture-1097206490",
+      "url": "https://ct24.ceskatelevize.cz/video/katalog/udalosti-v-kulture-udalosti-v-kulture-831-68b9927f2685ac16550b774e?list=playlist/udalosti-v-kulture-17",
       "source": "ČT24",
       "snippet": "31. srpna - Události v kultuře ČT24",
-      "published": "Mon, 31 Aug 2026 19:51:11 GMT",
+      "published": "Mon, 31 Aug 2026 18:01:48 GMT",
       "lang": "cs"
     },
     {
-      "title": "O Roma vakeren s Kamilou Schusterovou - Český rozhlas Sever",
-      "url": "https://sever.rozhlas.cz/o-roma-vakeren-s-kamilou-schusterovou-9639684",
-      "source": "Český rozhlas Sever",
-      "snippet": "O Roma vakeren s Kamilou Schusterovou Český rozhlas Sever",
-      "published": "Sun, 30 Aug 2026 10:20:11 GMT",
+      "title": "Shavit o „doktorech z dovozu“: Je dobře, že to soud neodsoudil. Zákon neřeší obsah volební kampaně - mujRozhlas",
+      "url": "https://www.mujrozhlas.cz/ranni-plus/shavit-o-doktorech-z-dovozu-je-dobre-ze-soud-neodsoudil-zakon-neresi-obsah-volebni",
+      "source": "mujRozhlas",
+      "snippet": "Shavit o „doktorech z dovozu“: Je dobře, že to soud neodsoudil. Zákon neřeší obsah volební kampaně mujRozhlas",
+      "published": "Wed, 02 Sep 2026 10:47:52 GMT",
       "lang": "cs"
     },
     {
-      "title": "Vládní SPD nespáchalo trestný čin podněcování k nenávisti, rozhodl soud - Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-vladni-spd-nespachalo-trestny-cin-podnecovani-k-nenavisti-rozhodl-soud-314336",
+      "title": "Soud projedná odvolání SPD proti třímilionovému trestu za předvolební plakáty - RESPEKT",
+      "url": "https://www.respekt.cz/informacni-servis/soud-projedna-odvolani-spd-proti-trimilionovemu-trestu-za-predvolebni-plakaty-2026-09-01-00-16",
+      "source": "RESPEKT",
+      "snippet": "Soud projedná odvolání SPD proti třímilionovému trestu za předvolební plakáty RESPEKT",
+      "published": "Tue, 01 Sep 2026 12:42:23 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Okamura míní, že osvobození SPD předznamenává ukončení jeho trestního stíhání - Týden.cz",
+      "url": "https://www.tyden.cz/okamura-mini-ze-osvobozeni-spd-predznamenava-ukonceni-jeho-trestniho-stihani",
+      "source": "Týden.cz",
+      "snippet": "Okamura míní, že osvobození SPD předznamenává ukončení jeho trestního stíhání Týden.cz",
+      "published": "Tue, 01 Sep 2026 20:53:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Další ponížení u Jana Krause: Urážka partnerky Štěpána Kozuba - Extra.cz",
+      "url": "https://www.extra.cz/dalsi-ponizeni-u-jana-krause-urazka-partnerky-stepana-kozuba-41923",
+      "source": "Extra.cz",
+      "snippet": "Další ponížení u Jana Krause: Urážka partnerky Štěpána Kozuba Extra.cz",
+      "published": "Wed, 02 Sep 2026 03:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Bizarní obhajoba Miroslava Sládka: Tvrdí, že není rasista. Minulost ho ale dohání - Extra.cz",
+      "url": "https://www.extra.cz/bizarni-obhajoba-miroslava-sladka-tvrdi-ze-neni-rasista-minulost-ho-ale-dohani-4543a",
+      "source": "Extra.cz",
+      "snippet": "Bizarní obhajoba Miroslava Sládka: Tvrdí, že není rasista. Minulost ho ale dohání Extra.cz",
+      "published": "Tue, 01 Sep 2026 18:01:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Skandál v Polském poháru. Na autora gólu dělali fanoušci opičí skřeky - Sport.cz",
+      "url": "https://www.sport.cz/clanek/fotbal-skandal-v-polskem-poharu-na-autora-golu-delali-fanousci-opici-skreky-5524910",
+      "source": "Sport.cz",
+      "snippet": "Skandál v Polském poháru. Na autora gólu dělali fanoušci opičí skřeky Sport.cz",
+      "published": "Wed, 02 Sep 2026 10:42:44 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Klobásy, rodiny a popstar Siegmund. Tak AfD normalizuje radikální politiku - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-klobasy-rodiny-a-popstar-siegmund-tak-afd-normalizuje-radikalni-politiku-314376",
       "source": "Seznam Zprávy",
-      "snippet": "Vládní SPD nespáchalo trestný čin podněcování k nenávisti, rozhodl soud Seznam Zprávy",
-      "published": "Tue, 01 Sep 2026 08:39:07 GMT",
+      "snippet": "Klobásy, rodiny a popstar Siegmund. Tak AfD normalizuje radikální politiku Seznam Zprávy",
+      "published": "Wed, 02 Sep 2026 09:52:45 GMT",
       "lang": "cs"
     },
     {
-      "title": "Soud zprostil SPD obžaloby z podněcování k nenávisti - Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-soud-zprostil-spd-obzaloby-z-podnecovani-k-nenavisti-40595365",
-      "source": "Novinky",
-      "snippet": "Soud zprostil SPD obžaloby z podněcování k nenávisti Novinky",
-      "published": "Tue, 01 Sep 2026 08:17:27 GMT",
+      "title": "V souvislosti s odpalem pyrotechniky v davu fanoušků Baníku Ostrava stíhají kriminalisté čtyři lidi - Týdeník Policie",
+      "url": "https://tydenikpolicie.cz/v-souvislosti-s-odpalem-pyrotechniky-v-davu-fanousku-baniku-ostrava-stihaji-kriminaliste-ctyri-lidi/",
+      "source": "Týdeník Policie",
+      "snippet": "V souvislosti s odpalem pyrotechniky v davu fanoušků Baníku Ostrava stíhají kriminalisté čtyři lidi Týdeník Policie",
+      "published": "Wed, 02 Sep 2026 09:11:52 GMT",
       "lang": "cs"
     },
     {
-      "title": "Hnutí SPD nespáchalo trestný čin podněcování k nenávisti, rozhodl odvolací soud - iDNES.tv",
-      "url": "https://tv.idnes.cz/krimi/spd-volby-plakaty-nenavist-migranti-romove-soud-odvolani.V260901_110143_idnestv_iri",
-      "source": "iDNES.tv",
-      "snippet": "Hnutí SPD nespáchalo trestný čin podněcování k nenávisti, rozhodl odvolací soud iDNES.tv",
-      "published": "Tue, 01 Sep 2026 09:20:00 GMT",
+      "title": "Méně Hitlera, více Bismarcka. Proč nejen na východě Německa vede v průzkumech AfD - RESPEKT",
+      "url": "https://www.respekt.cz/zeitgeist/mene-hitlera-vice-bismarcka-proc-nejen-na-vychode-nemecka-vede-v-pruzkumech-af-d",
+      "source": "RESPEKT",
+      "snippet": "Méně Hitlera, více Bismarcka. Proč nejen na východě Německa vede v průzkumech AfD RESPEKT",
+      "published": "Tue, 01 Sep 2026 14:38:13 GMT",
       "lang": "cs"
     },
     {
-      "title": "Policie obvinila šéfa české pobočky hnutí AllatRa za podněcování k nenávisti - Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-policie-obvinila-sefa-ceske-pobocky-hnuti-allatra-za-podnecovani-k-nenavisti-314043",
-      "source": "Seznam Zprávy",
-      "snippet": "Policie obvinila šéfa české pobočky hnutí AllatRa za podněcování k nenávisti Seznam Zprávy",
-      "published": "Tue, 01 Sep 2026 10:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Soud zprostil SPD obžaloby z podněcování k nenávis... - forum 24",
-      "url": "https://www.forum24.cz/soud-zprostil-spd-obzaloby-z-podnecovani-k-nenavisti-kvuli-predvolebnim-plakatum",
+      "title": "Diskuze: Soud zprostil SPD obžaloby z podněcování k nenávisti kvůli předvolebním plakátům - forum 24",
+      "url": "https://www.forum24.cz/soud-zprostil-spd-obzaloby-z-podnecovani-k-nenavisti-kvuli-predvolebnim-plakatum/diskuze",
       "source": "forum 24",
-      "snippet": "Soud zprostil SPD obžaloby z podněcování k nenávis... forum 24",
-      "published": "Tue, 01 Sep 2026 08:56:27 GMT",
+      "snippet": "Diskuze: Soud zprostil SPD obžaloby z podněcování k nenávisti kvůli předvolebním plakátům forum 24",
+      "published": "Tue, 01 Sep 2026 09:07:16 GMT",
       "lang": "cs"
     },
     {
-      "title": "Soud projedná odvolání SPD proti třímilionovému trestu za předvolební plakáty - České noviny",
-      "url": "https://www.ceskenoviny.cz/zpravy/soud-projedna-odvolani-spd-proti-trimilionovemu-trestu-za-predvolebni-plakaty/2868331",
-      "source": "České noviny",
-      "snippet": "Soud projedná odvolání SPD proti třímilionovému trestu za předvolební plakáty České noviny",
-      "published": "Mon, 31 Aug 2026 22:09:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Nenávistné plakáty SPD jsou na hraně vkusu. Okamurovo hnutí se trestného činu nedopustilo, rozhodl soud - Reflex.cz",
-      "url": "https://www.reflex.cz/clanek/zpravy/137926/nenavistne-plakaty-spd-jsou-na-hrane-vkusu-okamurovo-hnuti-se-trestneho-cinu-nedopustilo-rozhodl-soud.html",
-      "source": "Reflex.cz",
-      "snippet": "Nenávistné plakáty SPD jsou na hraně vkusu. Okamurovo hnutí se trestného činu nedopustilo, rozhodl soud Reflex.cz",
-      "published": "Tue, 01 Sep 2026 08:40:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Trefa Miroslava Kalouska: Špatné dluhy v dobrých časech - Novinky",
-      "url": "https://www.novinky.cz/clanek/komentare-trefy-trefa-miroslava-kalouska-spatne-dluhy-v-dobrych-casech-40595366",
-      "source": "Novinky",
-      "snippet": "Trefa Miroslava Kalouska: Špatné dluhy v dobrých časech Novinky",
-      "published": "Tue, 01 Sep 2026 08:32:13 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Muž ve vlaku z Mnichova do Prahy masturboval před cestujícími i malou vnučkou - Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-muz-ve-vlaku-z-mnichova-do-prahy-masturboval-pred-cestujicimi-i-malou-vnuckou-40595187",
-      "source": "Novinky",
-      "snippet": "Muž ve vlaku z Mnichova do Prahy masturboval před cestujícími i malou vnučkou Novinky",
-      "published": "Mon, 31 Aug 2026 08:14:40 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Polské stíhačky nad Baltem zahnaly ruský průzkumný letoun - Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-polske-stihacky-nad-baltem-zahnaly-rusky-pruzkumny-letoun-40595304",
-      "source": "Novinky",
-      "snippet": "Polské stíhačky nad Baltem zahnaly ruský průzkumný letoun Novinky",
-      "published": "Mon, 31 Aug 2026 14:27:12 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Slovák přivezl taxíkem na policii dělostřeleckou minu - Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-slovak-privezl-taxikem-na-policii-delostreleckou-minu-40594747",
-      "source": "Novinky",
-      "snippet": "Slovák přivezl taxíkem na policii dělostřeleckou minu Novinky",
-      "published": "Mon, 31 Aug 2026 09:42:31 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Kvíz: Carlos Sainz dnes slaví 32. narozeniny. Co víte o jeho kariéře? - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/kviz-carlos-sainz-dnes-slavi-32-narozeniny-co-vite-o-jeho-kariere",
-      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Kvíz: Carlos Sainz dnes slaví 32. narozeniny. Co víte o jeho kariéře? F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Tue, 01 Sep 2026 10:30:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "newsimg-storage-Prispevek-5.JPG - Finance.cz",
-      "url": "https://www.finance.cz/obrazek/1254066/",
-      "source": "Finance.cz",
-      "snippet": "newsimg-storage-Prispevek-5.JPG Finance.cz",
-      "published": "Mon, 31 Aug 2026 23:52:28 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "PŘEHLEDNĚ: Studenti s malými dětmi budou mít nárok na novou dávku. Jak ji získají - Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-prehledne-studenti-s-malymi-detmi-budou-mit-narok-na-novou-davku-jak-ji-ziskaji-40593690",
-      "source": "Novinky",
-      "snippet": "PŘEHLEDNĚ: Studenti s malými dětmi budou mít nárok na novou dávku. Jak ji získají Novinky",
-      "published": "Mon, 31 Aug 2026 03:53:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "newsimg-storage-Prispevek-na-bydleni-2.JPG - Finance.cz",
-      "url": "https://www.finance.cz/obrazek/1254060/",
-      "source": "Finance.cz",
-      "snippet": "newsimg-storage-Prispevek-na-bydleni-2.JPG Finance.cz",
-      "published": "Mon, 31 Aug 2026 23:12:26 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "For Arch 2026 představí osm oblastí stavebnictví. Zaměří se i na dostupné bydlení - Tiscali.cz",
-      "url": "https://www.tiscali.cz/for-arch-2026-predstavi-osm-oblasti-stavebnictvi-zameri-se-i-na-dostupne-bydleni-747578",
-      "source": "Tiscali.cz",
-      "snippet": "For Arch 2026 představí osm oblastí stavebnictví. Zaměří se i na dostupné bydlení Tiscali.cz",
-      "published": "Tue, 01 Sep 2026 11:19:34 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Stroj místo pěti zedníků. K renesanci cihly by mohla přispět robotická výstavba, míní ředitel Wienbergeru - iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/kamil-jerabek-wienerberger-vystavba-cihla-beton-robotika-byty.A260830_183904_ekoakcie_krou?zdroj=sph_hp",
+      "title": "„Chirurgové z dovozu“ nejsou trestným činem. Odvolací soud osvobodil SPD - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/odvolaci-soud-spd-osvobozeni-predvolebni-plakaty.A260901_101629_domaci_aoc",
       "source": "iDNES.cz",
-      "snippet": "Stroj místo pěti zedníků. K renesanci cihly by mohla přispět robotická výstavba, míní ředitel Wienbergeru iDNES.cz",
-      "published": "Sun, 30 Aug 2026 22:00:25 GMT",
+      "snippet": "„Chirurgové z dovozu“ nejsou trestným činem. Odvolací soud osvobodil SPD iDNES.cz",
+      "published": "Tue, 01 Sep 2026 08:17:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Věková diskriminace při hledání práce začíná v Česku už po čtyřicítce, ukázal překvapivě výzkum - Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-vekova-diskriminace-pri-hledani-prace-zacina-v-cesku-uz-po-ctyricitce-ukazal-prekvapive-vyzkum-40593822",
-      "source": "Novinky",
-      "snippet": "Věková diskriminace při hledání práce začíná v Česku už po čtyřicítce, ukázal překvapivě výzkum Novinky",
-      "published": "Tue, 01 Sep 2026 07:20:35 GMT",
+      "title": "Red Bull potvrdil příchod Toma McCullougha. K týmu se připojí příští rok - F1sport.cz – podrobné zpravodajství ze světa F1",
+      "url": "https://f1sport.auto.cz/clanek/red-bull-potvrdil-prichod-toma-mccullougha-k-tymu-se-pripoji-pristi-rok",
+      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
+      "snippet": "Red Bull potvrdil příchod Toma McCullougha. K týmu se připojí příští rok F1sport.cz – podrobné zpravodajství ze světa F1",
+      "published": "Tue, 01 Sep 2026 17:39:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Speciální zbarvení pro Monzu představil také McLaren - F1sport.cz – podrobné zpravodajství ze světa F1",
+      "url": "https://f1sport.auto.cz/clanek/specialni-zbarveni-pro-monzu-predstavil-take-mclaren",
+      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
+      "snippet": "Speciální zbarvení pro Monzu představil také McLaren F1sport.cz – podrobné zpravodajství ze světa F1",
+      "published": "Tue, 01 Sep 2026 15:54:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "newsimg-storage-Prispevek-4.JPG - Finance.cz",
+      "url": "https://www.finance.cz/obrazek/1254063/",
+      "source": "Finance.cz",
+      "snippet": "newsimg-storage-Prispevek-4.JPG Finance.cz",
+      "published": "Mon, 31 Aug 2026 23:50:04 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "newsimg-storage-Prispevek-6.JPG - Finance.cz",
+      "url": "https://www.finance.cz/obrazek/1254069/",
+      "source": "Finance.cz",
+      "snippet": "newsimg-storage-Prispevek-6.JPG Finance.cz",
+      "published": "Mon, 31 Aug 2026 22:57:32 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Strategie Pirátů cílí na zrychlení ekonomického růstu o procentní bod ročně - České noviny",
+      "url": "https://www.ceskenoviny.cz/zpravy/2869012",
+      "source": "České noviny",
+      "snippet": "Strategie Pirátů cílí na zrychlení ekonomického růstu o procentní bod ročně České noviny",
+      "published": "Wed, 02 Sep 2026 09:40:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "SPD se chce v Brně zaměřit na bezpečnost či řešení bezdomovectví - Metro.cz",
+      "url": "https://www.metro.cz/kraje/jihomoravsky-kraj/spd-se-chce-v-brne-zamerit-na-bezpecnost-ci-reseni-bezdomovectvi.A260831_181618_metro-brno-zpravy_air",
+      "source": "Metro.cz",
+      "snippet": "SPD se chce v Brně zaměřit na bezpečnost či řešení bezdomovectví Metro.cz",
+      "published": "Mon, 31 Aug 2026 14:42:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Byty jako rychlá skládačka - pressreader.com",
+      "url": "https://www.pressreader.com/czech-republic/dnes-prague-edition/20260831/281741276281629",
+      "source": "pressreader.com",
+      "snippet": "Byty jako rychlá skládačka pressreader.com",
+      "published": "Sun, 30 Aug 2026 23:46:10 GMT",
       "lang": "cs"
     }
   ]
