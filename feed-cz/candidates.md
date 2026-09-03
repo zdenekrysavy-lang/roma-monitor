@@ -1,95 +1,51 @@
-# Kandidáti — 2026-09-02T11:47:55+00:00 (23 položek)
+# Kandidáti — 2026-09-03T11:44:49+00:00 (12 položek)
 
-_Zdroje: Google News 68 · GDELT 0 (disabled) · feedy 0 · watch 0_
+_Zdroje: Google News 44 · GDELT 0 (disabled) · feedy 2 · watch 0_
 
-1. **Zpěv i nářek. Olašští Romové se loučí se svým králem - iDNES.tv** — iDNES.tv [cs]
-   https://tv.idnes.cz/video-olassti-romove-z-ostravy-se-louci-s-kralem-janem-lipou.A121018_121734_ln-video_jkz/foto
-   Zpěv i nářek. Olašští Romové se loučí se svým králem iDNES.tv
+1. **Brazílie: Facebook schválil více než polovinu testovacích reklam s volebními dezinformacemi** — https://amnesty.cz/feed/ [cs]
+   https://amnesty.cz/brazilie-facebook-schvalil-vice-nez-polovinu-testovacich-reklam-s-volebnimi-dezinformacemi/
+   Před prezidentskými volbami v Brazílii Amnesty International otestovala, jak Facebook zachází s placenými reklamami obsahujícími volební dezinformace. Z 14 dezinformačních reklam jich systém společnos
 
-2. **Děláte nám ostudu, zlobí se Romové na G MMA: Jste Indové, opičáci a negramoti, včetně Jíry - Top-Fight.cz** — Top-Fight.cz [cs]
-   https://www.top-fight.cz/delate-nam-ostudu-zlobi-se-romove-na-g-mma-jste-indove-opicaci-a-negramoti-vcetne-jiry/
-   Děláte nám ostudu, zlobí se Romové na G MMA: Jste Indové, opičáci a negramoti, včetně Jíry Top-Fight.cz
+2. **Lucka si vybrala práci v laboratoři. Teď nastupuje na své vysněné místo.** — https://iqrs.cz/feed/ [cs]
+   https://iqrs.cz/lucka-si-vybrala-praci-v-laboratori-ted-nastupuje-na-sve-vysnene-misto/
+   Když jsme si s Lucií Lazokovou povídali poprvé, byla studentkou zdravotnické školy, měla před maturitou a přemýšlela, co bude dál. Už tehdy věděla, že chce zůstat ve zdravotnictví a jednou pracovat v 
 
-3. **Teror ve slovenských Rokycanech: Maskovaní ninjové běhají po střechách a házejí kamení - CNN Prima NEWS** — CNN Prima NEWS [cs]
-   https://cnn.iprima.cz/teror-v-rokycanech-maskovani-ninjove-ohrozuji-obyvatele-520715
-   Teror ve slovenských Rokycanech: Maskovaní ninjové běhají po střechách a házejí kamení CNN Prima NEWS
+3. **Horváthová skončila jako ředitelka Muzea romské kultury. Nahradí ji dosavadní zástupkyně - Aktuálně.cz** — Aktuálně.cz [cs]
+   https://zpravy.aktualne.cz/domaci/horvathova-skoncila-jako-reditelka-muzea-romske-kultury-nahradi-ji-dosavadni-zastupkyne/r~aaa29d209cd5365ab0767bfb7878d318/
+   Horváthová skončila jako ředitelka Muzea romské kultury. Nahradí ji dosavadní zástupkyně Aktuálně.cz
 
-4. **Ponížení u Krause! Studená sprcha pro partnerku známého komika - Ahaonline.cz** — Ahaonline.cz [cs]
-   https://www.ahaonline.cz/clanek/zhave-drby/237203/ponizeni-u-krause-studena-sprcha-pro-partnerku-znameho-komika.html
-   Ponížení u Krause! Studená sprcha pro partnerku známého komika Ahaonline.cz
+4. **Expertka o ‚doktorech z dovozu‘: Je dobře, že to soud neodsoudil. Zákon neřeší obsah volební kampaně - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-domov/expertka-o-doktorech-z-dovozu-je-dobre-ze-soud-neodsoudil-zakon-neresi-obsah_2609021554_elev
+   Expertka o ‚doktorech z dovozu‘: Je dobře, že to soud neodsoudil. Zákon neřeší obsah volební kampaně iROZHLAS
 
-5. **31. srpna - Události v kultuře - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/video/katalog/udalosti-v-kulture-udalosti-v-kulture-831-68b9927f2685ac16550b774e?list=playlist/udalosti-v-kulture-17
-   31. srpna - Události v kultuře ČT24
+5. **Veronika Lefrancois: Sport, migrace a italská pravice - mujRozhlas** — mujRozhlas [cs]
+   https://www.mujrozhlas.cz/nazory-argumenty/veronika-lefrancois-sport-migrace-italska-pravice
+   Veronika Lefrancois: Sport, migrace a italská pravice mujRozhlas
 
-6. **Shavit o „doktorech z dovozu“: Je dobře, že to soud neodsoudil. Zákon neřeší obsah volební kampaně - mujRozhlas** — mujRozhlas [cs]
-   https://www.mujrozhlas.cz/ranni-plus/shavit-o-doktorech-z-dovozu-je-dobre-ze-soud-neodsoudil-zakon-neresi-obsah-volebni
-   Shavit o „doktorech z dovozu“: Je dobře, že to soud neodsoudil. Zákon neřeší obsah volební kampaně mujRozhlas
+6. **AfD by v Sasku-Anhaltsku mohla vyhrát až s 43 procenty, uvádí nový průzkum - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/afd-v-sasku-anhaltsku-mohla-vyhrat-az-s-43-procenty-uvadi-novy-pruzkum_2609021535_med
+   AfD by v Sasku-Anhaltsku mohla vyhrát až s 43 procenty, uvádí nový průzkum iROZHLAS
 
-7. **Soud projedná odvolání SPD proti třímilionovému trestu za předvolební plakáty - RESPEKT** — RESPEKT [cs]
-   https://www.respekt.cz/informacni-servis/soud-projedna-odvolani-spd-proti-trimilionovemu-trestu-za-predvolebni-plakaty-2026-09-01-00-16
-   Soud projedná odvolání SPD proti třímilionovému trestu za předvolební plakáty RESPEKT
+7. **Pražský soud zprostil SPD obžaloby z podněcování k nenávisti kvůli předvolebním plakátům - Echo24** — Echo24 [cs]
+   https://www.echo24.cz/a/HVZ8z/zpravy-domov-soud-zprostil-spd-obzaloby-kvuli-kauze-chirurgove-z-dovozu
+   Pražský soud zprostil SPD obžaloby z podněcování k nenávisti kvůli předvolebním plakátům Echo24
 
-8. **Okamura míní, že osvobození SPD předznamenává ukončení jeho trestního stíhání - Týden.cz** — Týden.cz [cs]
-   https://www.tyden.cz/okamura-mini-ze-osvobozeni-spd-predznamenava-ukonceni-jeho-trestniho-stihani
-   Okamura míní, že osvobození SPD předznamenává ukončení jeho trestního stíhání Týden.cz
+8. **Dávky na bydlení končily v jedné z nejdražších ulic Česka. „Platili jsme třeba byty v Pařížské,“ přiznává Aleš Juchelka - TVGURU.cz** — TVGURU.cz [cs]
+   https://www.tvguru.cz/davky-na-bydleni-koncily-v-jedne-z-nejdrazsich-ulic-ceska/
+   Dávky na bydlení končily v jedné z nejdražších ulic Česka. „Platili jsme třeba byty v Pařížské,“ přiznává Aleš Juchelka TVGURU.cz
 
-9. **Další ponížení u Jana Krause: Urážka partnerky Štěpána Kozuba - Extra.cz** — Extra.cz [cs]
-   https://www.extra.cz/dalsi-ponizeni-u-jana-krause-urazka-partnerky-stepana-kozuba-41923
-   Další ponížení u Jana Krause: Urážka partnerky Štěpána Kozuba Extra.cz
+9. **Hadjar vynechá i GP Itálie. Lawson a Cunoda budou roli náhradníků plnit i v Monze - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/hadjar-vynecha-i-gp-italie-lawson-a-cunoda-budou-roli-nahradniku-plnit-i-v-monze
+   Hadjar vynechá i GP Itálie. Lawson a Cunoda budou roli náhradníků plnit i v Monze F1sport.cz – podrobné zpravodajství ze světa F1
 
-10. **Bizarní obhajoba Miroslava Sládka: Tvrdí, že není rasista. Minulost ho ale dohání - Extra.cz** — Extra.cz [cs]
-   https://www.extra.cz/bizarni-obhajoba-miroslava-sladka-tvrdi-ze-neni-rasista-minulost-ho-ale-dohani-4543a
-   Bizarní obhajoba Miroslava Sládka: Tvrdí, že není rasista. Minulost ho ale dohání Extra.cz
+10. **ANO chce v Pardubicích obhájit výsledek, prioritou je dostupné bydlení - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/pardubicky-kraj/ano-chce-v-pardubicich-obhajit-vysledek-prioritou-je-dostupne-bydleni.A260902_183129_metro-pardubice-zpravy_air
+   ANO chce v Pardubicích obhájit výsledek, prioritou je dostupné bydlení Metro.cz
 
-11. **Skandál v Polském poháru. Na autora gólu dělali fanoušci opičí skřeky - Sport.cz** — Sport.cz [cs]
-   https://www.sport.cz/clanek/fotbal-skandal-v-polskem-poharu-na-autora-golu-delali-fanousci-opici-skreky-5524910
-   Skandál v Polském poháru. Na autora gólu dělali fanoušci opičí skřeky Sport.cz
+11. **Kampaň před komunálními volbami v Brně dnes zahájila ODS s TOP 09 i koalice TU! - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihomoravsky-kraj/kampan-pred-komunalnimi-volbami-v-brne-dnes-zahajila-ods-s-top-09-i-koalice-tu.A260902_194605_metro-brno-zpravy_air
+   Kampaň před komunálními volbami v Brně dnes zahájila ODS s TOP 09 i koalice TU! Metro.cz
 
-12. **Klobásy, rodiny a popstar Siegmund. Tak AfD normalizuje radikální politiku - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-klobasy-rodiny-a-popstar-siegmund-tak-afd-normalizuje-radikalni-politiku-314376
-   Klobásy, rodiny a popstar Siegmund. Tak AfD normalizuje radikální politiku Seznam Zprávy
-
-13. **V souvislosti s odpalem pyrotechniky v davu fanoušků Baníku Ostrava stíhají kriminalisté čtyři lidi - Týdeník Policie** — Týdeník Policie [cs]
-   https://tydenikpolicie.cz/v-souvislosti-s-odpalem-pyrotechniky-v-davu-fanousku-baniku-ostrava-stihaji-kriminaliste-ctyri-lidi/
-   V souvislosti s odpalem pyrotechniky v davu fanoušků Baníku Ostrava stíhají kriminalisté čtyři lidi Týdeník Policie
-
-14. **Méně Hitlera, více Bismarcka. Proč nejen na východě Německa vede v průzkumech AfD - RESPEKT** — RESPEKT [cs]
-   https://www.respekt.cz/zeitgeist/mene-hitlera-vice-bismarcka-proc-nejen-na-vychode-nemecka-vede-v-pruzkumech-af-d
-   Méně Hitlera, více Bismarcka. Proč nejen na východě Německa vede v průzkumech AfD RESPEKT
-
-15. **Diskuze: Soud zprostil SPD obžaloby z podněcování k nenávisti kvůli předvolebním plakátům - forum 24** — forum 24 [cs]
-   https://www.forum24.cz/soud-zprostil-spd-obzaloby-z-podnecovani-k-nenavisti-kvuli-predvolebnim-plakatum/diskuze
-   Diskuze: Soud zprostil SPD obžaloby z podněcování k nenávisti kvůli předvolebním plakátům forum 24
-
-16. **„Chirurgové z dovozu“ nejsou trestným činem. Odvolací soud osvobodil SPD - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/domaci/odvolaci-soud-spd-osvobozeni-predvolebni-plakaty.A260901_101629_domaci_aoc
-   „Chirurgové z dovozu“ nejsou trestným činem. Odvolací soud osvobodil SPD iDNES.cz
-
-17. **Red Bull potvrdil příchod Toma McCullougha. K týmu se připojí příští rok - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
-   https://f1sport.auto.cz/clanek/red-bull-potvrdil-prichod-toma-mccullougha-k-tymu-se-pripoji-pristi-rok
-   Red Bull potvrdil příchod Toma McCullougha. K týmu se připojí příští rok F1sport.cz – podrobné zpravodajství ze světa F1
-
-18. **Speciální zbarvení pro Monzu představil také McLaren - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
-   https://f1sport.auto.cz/clanek/specialni-zbarveni-pro-monzu-predstavil-take-mclaren
-   Speciální zbarvení pro Monzu představil také McLaren F1sport.cz – podrobné zpravodajství ze světa F1
-
-19. **newsimg-storage-Prispevek-4.JPG - Finance.cz** — Finance.cz [cs]
-   https://www.finance.cz/obrazek/1254063/
-   newsimg-storage-Prispevek-4.JPG Finance.cz
-
-20. **newsimg-storage-Prispevek-6.JPG - Finance.cz** — Finance.cz [cs]
-   https://www.finance.cz/obrazek/1254069/
-   newsimg-storage-Prispevek-6.JPG Finance.cz
-
-21. **Strategie Pirátů cílí na zrychlení ekonomického růstu o procentní bod ročně - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/zpravy/2869012
-   Strategie Pirátů cílí na zrychlení ekonomického růstu o procentní bod ročně České noviny
-
-22. **SPD se chce v Brně zaměřit na bezpečnost či řešení bezdomovectví - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/jihomoravsky-kraj/spd-se-chce-v-brne-zamerit-na-bezpecnost-ci-reseni-bezdomovectvi.A260831_181618_metro-brno-zpravy_air
-   SPD se chce v Brně zaměřit na bezpečnost či řešení bezdomovectví Metro.cz
-
-23. **Byty jako rychlá skládačka - pressreader.com** — pressreader.com [cs]
-   https://www.pressreader.com/czech-republic/dnes-prague-edition/20260831/281741276281629
-   Byty jako rychlá skládačka pressreader.com
+12. **Hnutí ANO v Brně zahájilo kampaň před říjnovými volbami, chce bezpečné město - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihomoravsky-kraj/hnuti-ano-v-brne-zahajilo-kampan-pred-rijnovymi-volbami-chce-bezpecne-mesto.A260901_184603_metro-brno-zpravy_air
+   Hnutí ANO v Brně zahájilo kampaň před říjnovými volbami, chce bezpečné město Metro.cz
