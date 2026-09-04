@@ -1,117 +1,205 @@
 {
-  "generated_utc": "2026-09-03T11:44:49+00:00",
-  "count": 12,
+  "generated_utc": "2026-09-04T11:46:25+00:00",
+  "count": 23,
   "sources": {
     "profile": "cz",
-    "google_news": 44,
+    "google_news": 69,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 2,
+    "feeds": 1,
     "watch": 0,
-    "before_dedup": 28,
-    "total": 26,
-    "skipped_seen": 14,
-    "gn_resolved": 10,
-    "gn_resolve_tried": 10,
+    "before_dedup": 45,
+    "total": 39,
+    "skipped_seen": 16,
+    "gn_resolved": 23,
+    "gn_resolve_tried": 23,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Brazílie: Facebook schválil více než polovinu testovacích reklam s volebními dezinformacemi",
-      "url": "https://amnesty.cz/brazilie-facebook-schvalil-vice-nez-polovinu-testovacich-reklam-s-volebnimi-dezinformacemi/",
-      "source": "https://amnesty.cz/feed/",
-      "snippet": "Před prezidentskými volbami v Brazílii Amnesty International otestovala, jak Facebook zachází s placenými reklamami obsahujícími volební dezinformace. Z 14 dezinformačních reklam jich systém společnosti Meta schválil osm. Výsledky vyvolávají vážné otázky nad tím, zda platforma dokáže před volbami úč",
-      "published": "Wed, 02 Sep 2026 10:59:02 +0000",
-      "lang": "cs"
-    },
-    {
-      "title": "Lucka si vybrala práci v laboratoři. Teď nastupuje na své vysněné místo.",
-      "url": "https://iqrs.cz/lucka-si-vybrala-praci-v-laboratori-ted-nastupuje-na-sve-vysnene-misto/",
-      "source": "https://iqrs.cz/feed/",
-      "snippet": "Když jsme si s Lucií Lazokovou povídali poprvé, byla studentkou zdravotnické školy, měla před maturitou a přemýšlela, co bude dál. Už tehdy věděla, že chce zůstat ve zdravotnictví a jednou pracovat v laboratoři. Od té doby ušla pořádný kus cesty. Úspěšně odmaturovala, dokončila vyšší odbornou školu ",
-      "published": "Wed, 02 Sep 2026 12:14:24 +0000",
-      "lang": "cs"
-    },
-    {
-      "title": "Horváthová skončila jako ředitelka Muzea romské kultury. Nahradí ji dosavadní zástupkyně - Aktuálně.cz",
-      "url": "https://zpravy.aktualne.cz/domaci/horvathova-skoncila-jako-reditelka-muzea-romske-kultury-nahradi-ji-dosavadni-zastupkyne/r~aaa29d209cd5365ab0767bfb7878d318/",
+      "title": "Reportáž z britské školy, kde excelují čeští Romové - Aktuálně.cz",
+      "url": "https://www.aktualne.cz/r~i:gallery:30629/r~i:photo:548594/?cid=799218",
       "source": "Aktuálně.cz",
-      "snippet": "Horváthová skončila jako ředitelka Muzea romské kultury. Nahradí ji dosavadní zástupkyně Aktuálně.cz",
-      "published": "Mon, 31 Aug 2026 15:33:00 GMT",
+      "snippet": "Reportáž z britské školy, kde excelují čeští Romové Aktuálně.cz",
+      "published": "Thu, 03 Sep 2026 16:18:29 GMT",
       "lang": "cs"
     },
     {
-      "title": "Expertka o ‚doktorech z dovozu‘: Je dobře, že to soud neodsoudil. Zákon neřeší obsah volební kampaně - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-domov/expertka-o-doktorech-z-dovozu-je-dobre-ze-soud-neodsoudil-zakon-neresi-obsah_2609021554_elev",
+      "title": "Podcast: Proč Praha nevyužívá slunce? Linka M o fotovoltaice na střechách, úsporách i budoucnosti města - iDNES.cz",
+      "url": "https://www.idnes.cz/podcasty/linka-m/co-brani-praze-vyrabet-elektrinu-ze-slunce-odpoved-vas-mozna-prekvapi.V260826_132819_podcast_krr",
+      "source": "iDNES.cz",
+      "snippet": "Podcast: Proč Praha nevyužívá slunce? Linka M o fotovoltaice na střechách, úsporách i budoucnosti města iDNES.cz",
+      "published": "Thu, 03 Sep 2026 13:16:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Organická bioelektronika mě totálně bere, říká romský stipendista. S ostatními teď čelil nenávisti - Deník N",
+      "url": "https://denikn.cz/2166905/organicka-bioelektronika-me-totalne-bere-rika-romsky-stipendista-s-ostatnimi-ted-celil-nenavisti/",
+      "source": "Deník N",
+      "snippet": "Organická bioelektronika mě totálně bere, říká romský stipendista. S ostatními teď čelil nenávisti Deník N",
+      "published": "Wed, 02 Sep 2026 14:45:32 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Tanec, který spojí sídliště Šumava: rozhovor s kurátorem Ondřejem Horákem - Budějcká Drbna",
+      "url": "https://budejcka.drbna.cz/kultura/898649-tanec-ktery-spoji-sidliste-sumava-rozhovor-s-kuratorem-ondrejem-horakem.html",
+      "source": "Budějcká Drbna",
+      "snippet": "Tanec, který spojí sídliště Šumava: rozhovor s kurátorem Ondřejem Horákem Budějcká Drbna",
+      "published": "Fri, 04 Sep 2026 07:33:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Ministr kultury odvolal z funkce ředitele MUSEum+ Industriálního muzea v Ostravě - Tiscali.cz",
+      "url": "https://zpravy.tiscali.cz/ministr-kultury-odvolal-z-funkce-reditele-museum-industrialniho-muzea-v-ostrave-748643",
+      "source": "Tiscali.cz",
+      "snippet": "Ministr kultury odvolal z funkce ředitele MUSEum+ Industriálního muzea v Ostravě Tiscali.cz",
+      "published": "Thu, 03 Sep 2026 07:11:03 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "V polském poháru došlo k rasismu. Hráč po vstřelené vítězné brance musel čelit opičím skřekům - iDNES.cz",
+      "url": "https://www.idnes.cz/sport/trendy/rasismus-v-polskem-fotbale-fanousci-delali-na-slaviciho-utocnika-opici-skreky.A260903_124643_trendy_kucu",
+      "source": "iDNES.cz",
+      "snippet": "V polském poháru došlo k rasismu. Hráč po vstřelené vítězné brance musel čelit opičím skřekům iDNES.cz",
+      "published": "Thu, 03 Sep 2026 14:15:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Sport, migrace a italská pravice - iROZHLAS",
+      "url": "https://www.irozhlas.cz/komentare/sport-rasismus-italie-krajni-pravice-migrace_2609030630_elev",
       "source": "iROZHLAS",
-      "snippet": "Expertka o ‚doktorech z dovozu‘: Je dobře, že to soud neodsoudil. Zákon neřeší obsah volební kampaně iROZHLAS",
-      "published": "Wed, 02 Sep 2026 13:54:00 GMT",
+      "snippet": "Sport, migrace a italská pravice iROZHLAS",
+      "published": "Thu, 03 Sep 2026 04:30:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Veronika Lefrancois: Sport, migrace a italská pravice - mujRozhlas",
-      "url": "https://www.mujrozhlas.cz/nazory-argumenty/veronika-lefrancois-sport-migrace-italska-pravice",
-      "source": "mujRozhlas",
-      "snippet": "Veronika Lefrancois: Sport, migrace a italská pravice mujRozhlas",
-      "published": "Wed, 02 Sep 2026 12:41:50 GMT",
+      "title": "Rakouské dívky už ve škole nesmějí nosit šátek. Mladí socialisté se bouří - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/v-rakousku-zacne-platit-zakaz-noseni-satku-ve-skolach-pro-divky-do-14-let.A260904_123408_zahranicni_kha",
+      "source": "iDNES.cz",
+      "snippet": "Rakouské dívky už ve škole nesmějí nosit šátek. Mladí socialisté se bouří iDNES.cz",
+      "published": "Fri, 04 Sep 2026 11:06:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "AfD by v Sasku-Anhaltsku mohla vyhrát až s 43 procenty, uvádí nový průzkum - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/afd-v-sasku-anhaltsku-mohla-vyhrat-az-s-43-procenty-uvadi-novy-pruzkum_2609021535_med",
-      "source": "iROZHLAS",
-      "snippet": "AfD by v Sasku-Anhaltsku mohla vyhrát až s 43 procenty, uvádí nový průzkum iROZHLAS",
-      "published": "Wed, 02 Sep 2026 13:35:00 GMT",
+      "title": "Kdo vypadl se Survivoru 2026 - Extra.cz",
+      "url": "https://www.extra.cz/reality-show/survivor-2026/kdo-vypadl",
+      "source": "Extra.cz",
+      "snippet": "Kdo vypadl se Survivoru 2026 Extra.cz",
+      "published": "Thu, 03 Sep 2026 17:45:55 GMT",
       "lang": "cs"
     },
     {
-      "title": "Pražský soud zprostil SPD obžaloby z podněcování k nenávisti kvůli předvolebním plakátům - Echo24",
-      "url": "https://www.echo24.cz/a/HVZ8z/zpravy-domov-soud-zprostil-spd-obzaloby-kvuli-kauze-chirurgove-z-dovozu",
+      "title": "Izraelský ministr z krajní pravice představil plán na vyhnání všech Palestinců z Gazy - Britské listy",
+      "url": "https://blisty.cz/art/135814-izraelsky-ministr-z-krajni-pravice-predstavil-plan-na-vyhnani-vsech-palestincu-z-gazy",
+      "source": "Britské listy",
+      "snippet": "Izraelský ministr z krajní pravice představil plán na vyhnání všech Palestinců z Gazy Britské listy",
+      "published": "Thu, 03 Sep 2026 23:08:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Okamurova SPD do zprávy o extremismu nepatří, řekl soud. Důkaz, že nejsme xenofobové, vzkázal advokát hnutí - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/vnitro-prava-spd-zprava-o-extremismu-soud-2023.A260903_114147_domaci_aoc",
+      "source": "iDNES.cz",
+      "snippet": "Okamurova SPD do zprávy o extremismu nepatří, řekl soud. Důkaz, že nejsme xenofobové, vzkázal advokát hnutí iDNES.cz",
+      "published": "Thu, 03 Sep 2026 09:54:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Le Penová by v prezidentském finále porazila kohokoliv, ukazují průzkumy - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/le-penova-by-v-prezidentskem-finale-porazila-kohokoliv-ukazuji-pruzkumy-377172",
+      "source": "ČT24",
+      "snippet": "Le Penová by v prezidentském finále porazila kohokoliv, ukazují průzkumy ČT24",
+      "published": "Wed, 02 Sep 2026 05:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "„A tvému kamarádovi Urválkovi jsi to říkala taky, Helenko?“ Válková hájila Okamuru, dostala čočku - forum 24",
+      "url": "https://www.forum24.cz/a-tvemu-kamaradovi-urvalkovi-jsi-to-rikala-taky-helenko-valkova-hajila-okamuru-dostala-cocku",
+      "source": "forum 24",
+      "snippet": "„A tvému kamarádovi Urválkovi jsi to říkala taky, Helenko?“ Válková hájila Okamuru, dostala čočku forum 24",
+      "published": "Thu, 03 Sep 2026 11:50:41 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "„Úplně se v tom plácají.“ Superdávka má problém i s výplatou doplatků - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-radi-bychom-penize-poslali-ale-nas-system-nefunguje-stat-dluzi-matce-tisice-314566",
+      "source": "Seznam Zprávy",
+      "snippet": "„Úplně se v tom plácají.“ Superdávka má problém i s výplatou doplatků Seznam Zprávy",
+      "published": "Fri, 04 Sep 2026 04:46:01 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Dávky na bydlení se změní. Mezi okresy jsou výrazné rozdíly, varují experti - TN.cz",
+      "url": "https://tn.nova.cz/zpravodajstvi/clanek/656085-podpora-na-bydleni-nektere-okresy-ji-maji-nizsi-nez-jine-vadi-odbornikum",
+      "source": "TN.cz",
+      "snippet": "Dávky na bydlení se změní. Mezi okresy jsou výrazné rozdíly, varují experti TN.cz",
+      "published": "Fri, 04 Sep 2026 09:24:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Stovky tisíc lidí si se superdávkou pohoršily. Nejvíc dopadá na singles a matky s dětmi - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/stovky-tisic-lidi-prisly-kvuli-nove-superdavce-o-penize.A260902_171720_domaci_bury",
+      "source": "iDNES.cz",
+      "snippet": "Stovky tisíc lidí si se superdávkou pohoršily. Nejvíc dopadá na singles a matky s dětmi iDNES.cz",
+      "published": "Wed, 02 Sep 2026 22:00:10 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka může zbrzdit miliardový účet. Rozpočet ale počítá s výdaji na úrovni dávkového boomu - Echo24",
+      "url": "https://www.echo24.cz/a/HcuDY/zpravy-domaci-socialni-davky-nova-superdavka-vydaje-navrh-statni-rozpocet-na-urovni-davkoveho-boomu",
       "source": "Echo24",
-      "snippet": "Pražský soud zprostil SPD obžaloby z podněcování k nenávisti kvůli předvolebním plakátům Echo24",
-      "published": "Tue, 01 Sep 2026 08:25:00 GMT",
+      "snippet": "Superdávka může zbrzdit miliardový účet. Rozpočet ale počítá s výdaji na úrovni dávkového boomu Echo24",
+      "published": "Thu, 03 Sep 2026 04:54:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Dávky na bydlení končily v jedné z nejdražších ulic Česka. „Platili jsme třeba byty v Pařížské,“ přiznává Aleš Juchelka - TVGURU.cz",
-      "url": "https://www.tvguru.cz/davky-na-bydleni-koncily-v-jedne-z-nejdrazsich-ulic-ceska/",
-      "source": "TVGURU.cz",
-      "snippet": "Dávky na bydlení končily v jedné z nejdražších ulic Česka. „Platili jsme třeba byty v Pařížské,“ přiznává Aleš Juchelka TVGURU.cz",
-      "published": "Wed, 02 Sep 2026 19:19:01 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Hadjar vynechá i GP Itálie. Lawson a Cunoda budou roli náhradníků plnit i v Monze - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/hadjar-vynecha-i-gp-italie-lawson-a-cunoda-budou-roli-nahradniku-plnit-i-v-monze",
+      "title": "Online: První trénink na Grand Prix Itálie 2026 - F1sport.cz – podrobné zpravodajství ze světa F1",
+      "url": "https://f1sport.auto.cz/clanek/gp-italie-2026-prvni-trenink",
       "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Hadjar vynechá i GP Itálie. Lawson a Cunoda budou roli náhradníků plnit i v Monze F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Wed, 02 Sep 2026 14:03:00 GMT",
+      "snippet": "Online: První trénink na Grand Prix Itálie 2026 F1sport.cz – podrobné zpravodajství ze světa F1",
+      "published": "Fri, 04 Sep 2026 10:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "ANO chce v Pardubicích obhájit výsledek, prioritou je dostupné bydlení - Metro.cz",
-      "url": "https://www.metro.cz/kraje/pardubicky-kraj/ano-chce-v-pardubicich-obhajit-vysledek-prioritou-je-dostupne-bydleni.A260902_183129_metro-pardubice-zpravy_air",
-      "source": "Metro.cz",
-      "snippet": "ANO chce v Pardubicích obhájit výsledek, prioritou je dostupné bydlení Metro.cz",
-      "published": "Wed, 02 Sep 2026 14:49:00 GMT",
+      "title": "Od 1. října čeká seniory změna, která jim může přinést více peněz. U některých půjde o tisíce korun ročně - TVGURU.cz",
+      "url": "https://www.tvguru.cz/od-1-rijna-ceka-seniory-zmena-ktera-jim-muze-prinest-vice-penez/",
+      "source": "TVGURU.cz",
+      "snippet": "Od 1. října čeká seniory změna, která jim může přinést více peněz. U některých půjde o tisíce korun ročně TVGURU.cz",
+      "published": "Thu, 03 Sep 2026 19:15:17 GMT",
       "lang": "cs"
     },
     {
-      "title": "Kampaň před komunálními volbami v Brně dnes zahájila ODS s TOP 09 i koalice TU! - Metro.cz",
-      "url": "https://www.metro.cz/kraje/jihomoravsky-kraj/kampan-pred-komunalnimi-volbami-v-brne-dnes-zahajila-ods-s-top-09-i-koalice-tu.A260902_194605_metro-brno-zpravy_air",
-      "source": "Metro.cz",
-      "snippet": "Kampaň před komunálními volbami v Brně dnes zahájila ODS s TOP 09 i koalice TU! Metro.cz",
-      "published": "Wed, 02 Sep 2026 16:14:00 GMT",
+      "title": "V Monze se objeví legenda. Na trať vyrazí Blesk McQueen - F1sport.cz – podrobné zpravodajství ze světa F1",
+      "url": "https://f1sport.auto.cz/clanek/v-monze-se-objevi-legenda-na-trat-vyrazi-blesk-mcqueen",
+      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
+      "snippet": "V Monze se objeví legenda. Na trať vyrazí Blesk McQueen F1sport.cz – podrobné zpravodajství ze světa F1",
+      "published": "Thu, 03 Sep 2026 11:49:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Hnutí ANO v Brně zahájilo kampaň před říjnovými volbami, chce bezpečné město - Metro.cz",
-      "url": "https://www.metro.cz/kraje/jihomoravsky-kraj/hnuti-ano-v-brne-zahajilo-kampan-pred-rijnovymi-volbami-chce-bezpecne-mesto.A260901_184603_metro-brno-zpravy_air",
+      "title": "Dostupné bydlení a stavební rozvoj: krajská konference Brno - Vysoké učení technické v Brně",
+      "url": "https://www.vut.cz/udrzitelnost/kalendar-akci-f163598/dostupne-bydleni-a-stavebni-rozvoj-krajska-konference-brno-d360504",
+      "source": "Vysoké učení technické v Brně",
+      "snippet": "Dostupné bydlení a stavební rozvoj: krajská konference Brno Vysoké učení technické v Brně",
+      "published": "Thu, 03 Sep 2026 08:25:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Hnutí ANO jde do komunálních voleb v Liberci s cílem vyhrát je - Metro.cz",
+      "url": "https://www.metro.cz/kraje/liberecky-kraj/hnuti-ano-jde-do-komunalnich-voleb-v-liberci-s-cilem-vyhrat-je.A260903_181631_metro-liberec-zpravy_air",
       "source": "Metro.cz",
-      "snippet": "Hnutí ANO v Brně zahájilo kampaň před říjnovými volbami, chce bezpečné město Metro.cz",
-      "published": "Tue, 01 Sep 2026 15:10:00 GMT",
+      "snippet": "Hnutí ANO jde do komunálních voleb v Liberci s cílem vyhrát je Metro.cz",
+      "published": "Thu, 03 Sep 2026 14:30:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "ANKETA: Inkluze má v českém školství své místo, shodují se odborníci. Potřebuje ale podle nich zásadní revizi - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-domov/anketa-inkluze-ma-v-ceskem-skolstvi-sve-misto-shoduji-se-odbornici-potrebuje-ale_2609030620_kvr",
+      "source": "iROZHLAS",
+      "snippet": "ANKETA: Inkluze má v českém školství své místo, shodují se odborníci. Potřebuje ale podle nich zásadní revizi iROZHLAS",
+      "published": "Thu, 03 Sep 2026 04:20:00 GMT",
       "lang": "cs"
     }
   ]
