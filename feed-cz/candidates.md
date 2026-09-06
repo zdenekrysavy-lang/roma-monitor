@@ -1,95 +1,63 @@
-# Kandidáti — 2026-09-05T10:57:13+00:00 (23 položek)
+# Kandidáti — 2026-09-06T11:23:10+00:00 (15 položek)
 
-_Zdroje: Google News 68 · GDELT 0 (disabled) · feedy 2 · watch 0_
+_Zdroje: Google News 64 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **Rusko: Zadržení vedoucí charitativní organizace Lidy Moniava za protiválečné příspěvky na sociálních sítích je bezostyšným útokem na svobodu projevu.** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/rusko-zadrzeni-vedouci-charitativni-organizace-lidy-moniava-za-protivalecne-prispevky-na-socialnich-sitich-je-bezostysnym-utokem-na-svobodu-projevu/
-   V reakci na zadržení Lidy Moniavy, ruské aktivistky občanské společnosti a významné vedoucí charitativní organizace, za údajné „šíření nepravdivých informací” o ruských ozbrojených silách, uvádí ředit
+1. **Krhut u Krause vystřelil vtip o Kozubově partnerce a její romské rodině. „To je debil," reagoval Kozub okamžitě - Tiscali.cz** — Tiscali.cz [cs]
+   https://www.tiscali.cz/krhut-u-krause-vystrelil-vtip-o-kozubove-partnerce-a-jeji-romske-rodine-to-je-debil-reagoval-kozub-okamzite-751440
+   Krhut u Krause vystřelil vtip o Kozubově partnerce a její romské rodině. „To je debil," reagoval Kozub okamžitě Tiscali.cz
 
-2. **Organická bioelektronika mě totálně bere, říká romský stipendista. S ostatními teď čelil nenávisti - Deník N** — Deník N [cs]
-   https://denikn.cz/minuta/2174830/
-   Organická bioelektronika mě totálně bere, říká romský stipendista. S ostatními teď čelil nenávisti Deník N
+2. **Nádherný nález: V opuštěné stodole se našlo šest sběratelských aut. mezi nimi i Lamborghini s V12 - AutoŽivě.cz** — AutoŽivě.cz [cs]
+   https://www.autozive.cz/sest-sberatelskych-aut-roky-chatralo-v-otevrene-stodole/
+   Nádherný nález: V opuštěné stodole se našlo šest sběratelských aut. mezi nimi i Lamborghini s V12 AutoŽivě.cz
 
-3. **Dagmar Havlová terčem odporného útoku: Vulgární slova Sládka a adresu bývalé první dámy - Extra.cz** — Extra.cz [cs]
-   https://www.extra.cz/dagmar-havlova-tercem-odporneho-utoku-vulgarni-slova-sladka-a-adresu-byvale-prvni-damy-d6249
-   Dagmar Havlová terčem odporného útoku: Vulgární slova Sládka a adresu bývalé první dámy Extra.cz
+3. **Volné vstupy startují: v neděli zdarma do 15 muzeí a galerií. Bez registrace - Týden.cz** — Týden.cz [cs]
+   https://www.tyden.cz/volne-vstupy-startuji-v-nedeli-zdarma-do-15-muzei-a-galerii-bez-registrace
+   Volné vstupy startují: v neděli zdarma do 15 muzeí a galerií. Bez registrace Týden.cz
 
-4. **Hlasy za klobásy? Magyar osočil Fidesz z přípravy volebního podvodu a zveřejnil nahrávku - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/volby-hlasy-za-klobasy-magyar-osocil-fidesz-z-pripravy-volebniho-podvodu-a-zverejnil-nahravku-40572230
-   Hlasy za klobásy? Magyar osočil Fidesz z přípravy volebního podvodu a zveřejnil nahrávku Novinky
+4. **Arsenal prodal Martinelliho za 1,7 miliardy do Saúdské Arábie. Předchozí rekord klubu překonal skoro dvojnásobně - SportyŽivě** — SportyŽivě [cs]
+   https://sportyzive.cz/fotbal/arsenal-prodal-martinelliho-za-17-miliardy-do-saudske-arabie/
+   Arsenal prodal Martinelliho za 1,7 miliardy do Saúdské Arábie. Předchozí rekord klubu překonal skoro dvojnásobně SportyŽivě
 
-5. **Jan Bendig má pro Michaelu Noskovou velký respekt: Sám zažil manipulaci a psychické týrání - life4you.cz** — life4you.cz [cs]
-   https://life4you.cz/kultura/knihy/jan-bendig-ma-pro-michaelu-noskovou-velky-respekt-sam-zazil-manipulaci-a-psychicke-tyrani/
-   Jan Bendig má pro Michaelu Noskovou velký respekt: Sám zažil manipulaci a psychické týrání life4you.cz
+5. **Stačilo ujet pár set metrů a bylo jasno: Malý elektromobil od Cupry jezdí lépe než většina dražších konkurentů - AutoŽivě.cz** — AutoŽivě.cz [cs]
+   https://www.autozive.cz/maly-elektromobil-od-cupry-jezdi-naprosto-skvele/
+   Stačilo ujet pár set metrů a bylo jasno: Malý elektromobil od Cupry jezdí lépe než většina dražších konkurentů AutoŽivě.cz
 
-6. **V neděli otevře zdarma stálé expozice 15 muzeí a galerií, vesměs bez registrace - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/zpravy/2870123
-   V neděli otevře zdarma stálé expozice 15 muzeí a galerií, vesměs bez registrace České noviny
+6. **Státní muzea a galerie otevírají každou první neděli v měsíci zdarma - Náš REGION** — Náš REGION [cs]
+   https://nasregion.cz/statni-muzea-a-galerie-oteviraji-kazdou-prvni-nedeli-v-mesici-zdarma-446624/
+   Státní muzea a galerie otevírají každou první neděli v měsíci zdarma Náš REGION
 
-7. **Konflikt přímo před naší kamerou: Politik Sládek musel čelit muži kvůli svým rasistickým výrokům proti Romům - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1658169-konflikt-primo-pred-nasi-kamerou-politik-sladek-musel-celit-muzi-kvuli-svym-rasistickym-vyrokum-proti-romum.html
-   Konflikt přímo před naší kamerou: Politik Sládek musel čelit muži kvůli svým rasistickým výrokům proti Romům www.prahanadlani.cz
+7. **Skrytá bolest Calina ze StarDance: V Česku si prošel peklem, za úspěchem stojí roky trápení - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1660421-skryta-bolest-calina-ze-stardance-v-cesku-si-prosel-peklem-za-uspechem-stoji-roky-trapeni.html
+   Skrytá bolest Calina ze StarDance: V Česku si prošel peklem, za úspěchem stojí roky trápení www.prahanadlani.cz
 
-8. **Nového Harryho Pottera zastiňuje válka autorky proti menšinám i rasistická bouře kolem castingu - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1656649-noveho-harryho-pottera-zastinuje-valka-autorky-proti-mensinam-i-rasisticka-boure-kolem-castingu.html
-   Nového Harryho Pottera zastiňuje válka autorky proti menšinám i rasistická bouře kolem castingu www.prahanadlani.cz
+8. **Feministky s ovcí a popelnicí chtěly zrušit Miss America. Co se stalo 7. září 1968? - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/onadnes/moda/miss-america-protest-1968-feministky-rasismus-feminismus.A260902_111504_modni-trendy_syk
+   Feministky s ovcí a popelnicí chtěly zrušit Miss America. Co se stalo 7. září 1968? iDNES.cz
 
-9. **Jan-Werner Müller: Proč bychom neměli přehlížet tažení krajní pravice proti moderní architektuře - Deník Referendum** — Deník Referendum [cs]
-   https://denikreferendum.cz/clanek/239313-proc-bychom-nemeli-prehlizet-tazeni-krajni-pravice-proti-moderni-architekture
-   Jan-Werner Müller: Proč bychom neměli přehlížet tažení krajní pravice proti moderní architektuře Deník Referendum
+9. **Skrytá bolest Calina ze SuperStar: V Česku si prošel peklem, za úspěchem stojí roky trápení - Extra.cz** — Extra.cz [cs]
+   https://www.extra.cz/skryta-bolest-calina-ze-stardance-v-cesku-si-prosel-peklem-za-uspechem-stoji-roky-trapeni-98697
+   Skrytá bolest Calina ze SuperStar: V Česku si prošel peklem, za úspěchem stojí roky trápení Extra.cz
 
-10. **Segregace migrantů, výlety do někdejších částí Říše. Lídrovi AfD radí neonacisté - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/nemecko-ulrich-siegmund-afd-sasko-anhaltsko-poradci-hdj-neonacismus.A260901_134034_zahranicni_kha
-   Segregace migrantů, výlety do někdejších částí Říše. Lídrovi AfD radí neonacisté iDNES.cz
+10. **Německo sleduje volby v Sasku-Anhaltsku. Výsledky ukážou sílu AfD i dopad na kancléře Merze - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/nemecko-sleduje-volby-v-sasku-anhaltsku-vysledky-ukazou-silu-afd-i-dopad-na_2609061121_ape
+   Německo sleduje volby v Sasku-Anhaltsku. Výsledky ukážou sílu AfD i dopad na kancléře Merze iROZHLAS
 
-11. **Výbušniny, útoky na elektrické stanice a dopisy úřadům. Německo pátrá po podezřelém klimatickém aktivistovi - aktu.news** — aktu.news [cs]
-   https://www.aktu.news/vybusniny-utoky-na-elektricke-stanice-a-dopisy-uradum-nemecko-patra-po-podezrelem-klimatickem-aktivistovi
-   Výbušniny, útoky na elektrické stanice a dopisy úřadům. Německo pátrá po podezřelém klimatickém aktivistovi aktu.news
+11. **Volby v Německu: V Sasku-Anhaltsku má nakročeno k moci krajní pravice - TN.cz** — TN.cz [cs]
+   https://tn.nova.cz/zpravodajstvi/clanek/656272-volby-v-nemecku-v-sasku-anhaltsku-ma-nakroceno-k-moci-krajni-pravice
+   Volby v Německu: V Sasku-Anhaltsku má nakročeno k moci krajní pravice TN.cz
 
-12. **Soud v dalším ze sporů potvrdil, že vnitro porušilo práva SPD - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/domaci-soud-v-dalsim-ze-sporu-potvrdil-ze-vnitro-porusilo-prava-spd-40595839
-   Soud v dalším ze sporů potvrdil, že vnitro porušilo práva SPD Novinky
+12. **„To my rozhodneme, co je rozumné.“ Německé školy jsou nervózní z triumfu AfD - Seznam Zprávy** — Seznam Zprávy [cs]
+   https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-to-my-rozhodneme-co-je-rozumne-nemecke-skoly-jsou-nervozni-z-triumfu-afd-314487
+   „To my rozhodneme, co je rozumné.“ Německé školy jsou nervózní z triumfu AfD Seznam Zprávy
 
-13. **Hnědnoucí východní Německo - Deník.cz** — Deník.cz [cs]
-   https://www.denik.cz/serialy/hnednouci-vychodni-nemecko-sasko-extremismus/
-   Hnědnoucí východní Německo Deník.cz
+13. **Izraelský ministr z krajní pravice představil plán na vyhnání všech Palestinců z Gazy - Britské listy** — Britské listy [cs]
+   https://blisty.cz/art/135814-izraelsky-ministr-z-krajni-pravice-predstavil-plan-na-vyhnani-vsech-palestincu-z-gazy.html
+   Izraelský ministr z krajní pravice představil plán na vyhnání všech Palestinců z Gazy Britské listy
 
-14. **Proruská AfD má nakročeno k moci. Německo se už br... - forum 24** — forum 24 [cs]
-   https://www.forum24.cz/proruska-afd-ma-nakroceno-k-moci-nemecko-se-uz-brzy-muze-stat-laboratori-extremismu
-   Proruská AfD má nakročeno k moci. Německo se už br... forum 24
+14. **Televizní noviny – sobota 5. září - TN.cz** — TN.cz [cs]
+   https://tn.nova.cz/zpravodajstvi/clanek/655713-televizni-noviny-sobota-5-zari
+   Televizní noviny – sobota 5. září TN.cz
 
-15. **Podezřelý ze sabotáže v Německu je klimatický extrémista, uvedl tamní ministr vnitra - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/656199-podezrely-ze-sabotaze-v-nemecku-je-klimaticky-aktivita-uvedl-tamni-ministr-vnitra
-   Podezřelý ze sabotáže v Německu je klimatický extrémista, uvedl tamní ministr vnitra TN.cz
-
-16. **‚Nejnebezpečnější muž Německa‘ s úsměvem na tváři. Siegmund vede AfD do voleb v Sasku-Anhaltsku - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/nejnebezpecnejsi-muz-nemecka-s-usmevem-na-tvari-siegmund-vede-afd-do-voleb-v_2609040906_zko
-   ‚Nejnebezpečnější muž Německa‘ s úsměvem na tváři. Siegmund vede AfD do voleb v Sasku-Anhaltsku iROZHLAS
-
-17. **Rusové zařadili Česko mezi bašty neonacismu - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/zahranicni-evropa-rusove-zaradili-cesko-mezi-basty-neonacismu-40595927
-   Rusové zařadili Česko mezi bašty neonacismu Novinky
-
-18. **Diskuze: Martin Konvička z Bloku proti islámu byl obviněn z podněcování k nenávisti - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/diskuse/484652/
-   Diskuze: Martin Konvička z Bloku proti islámu byl obviněn z podněcování k nenávisti Reflex.cz
-
-19. **SPD před soudem uspěla. Jinde v Evropě politické strany narazily - Deník TO** — Deník TO [cs]
-   https://denik.to/spd-pred-soudem-uspela-jinde-v-evrope-politicke-strany-narazily/
-   SPD před soudem uspěla. Jinde v Evropě politické strany narazily Deník TO
-
-20. **Po zaplacení všeho vám z důchodu skoro nic nezbývá: Nově můžete požádat o státní dávku navíc - České důchody** — České důchody [cs]
-   https://ceskeduchody.cz/zpravy/superdavka-seniori-nizky-duchod
-   Po zaplacení všeho vám z důchodu skoro nic nezbývá: Nově můžete požádat o státní dávku navíc České důchody
-
-21. **Velká banka chystá v neděli odstávku. Omezí mobilní bankovnictví i platby na internetu - E15.cz** — E15.cz [cs]
-   https://www.e15.cz/finexpert/banky-a-ucty/velka-banka-chysta-v-nedeli-odstavku-omezi-mobilni-bankovnictvi-i-platby-na-internetu-1435575
-   Velká banka chystá v neděli odstávku. Omezí mobilní bankovnictví i platby na internetu E15.cz
-
-22. **Lídři chtějí zastavit odliv mladých lidí z města, mluví i o bezpečnosti - eHutník** — eHutník [cs]
-   https://ehutnik.cz/zpravy/lidri-chteji-zastavit-odliv-mladych-lidi-z-mesta-mluvi-i-o-bezpecnosti
-   Lídři chtějí zastavit odliv mladých lidí z města, mluví i o bezpečnosti eHutník
-
-23. **Strany a hnutí v Libereckém kraji se před volbami vracejí k letákům a novinám - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/liberecky-kraj/strany-a-hnuti-v-libereckem-kraji-se-pred-volbami-vraceji-k-letakum-a-novinam.A260905_073057_metro-liberec-zpravy_air
-   Strany a hnutí v Libereckém kraji se před volbami vracejí k letákům a novinám Metro.cz
+15. **Obchod s chudobou vyžaduje systémové řešení. Charita dlouhodobě upozorňuje na problémy v bydlení - Charita Česká republika** — Charita Česká republika [cs]
+   https://www.charita.cz/jak-pomahame/advokacni-cinnost/socialni-oblast/obchod-s-chudobou-vyzaduje-systemove-reseni-charita-dlouhodobe-upozornuje-na-problemy-v-bydleni/
+   Obchod s chudobou vyžaduje systémové řešení. Charita dlouhodobě upozorňuje na problémy v bydlení Charita Česká republika
