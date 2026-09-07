@@ -1,63 +1,59 @@
-# Kandidáti — 2026-09-06T11:23:10+00:00 (15 položek)
+# Kandidáti — 2026-09-07T13:03:23+00:00 (14 položek)
 
-_Zdroje: Google News 64 · GDELT 0 (disabled) · feedy 1 · watch 0_
+_Zdroje: Google News 53 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Krhut u Krause vystřelil vtip o Kozubově partnerce a její romské rodině. „To je debil," reagoval Kozub okamžitě - Tiscali.cz** — Tiscali.cz [cs]
-   https://www.tiscali.cz/krhut-u-krause-vystrelil-vtip-o-kozubove-partnerce-a-jeji-romske-rodine-to-je-debil-reagoval-kozub-okamzite-751440
-   Krhut u Krause vystřelil vtip o Kozubově partnerce a její romské rodině. „To je debil," reagoval Kozub okamžitě Tiscali.cz
+1. **Čím míň Romka, tím líp. Film Pramen o nucených sterilizacích selhává - VOXPOT** — VOXPOT [cs]
+   https://www.voxpot.cz/clanky/cim-min-romka-tim-lip-film-pramen-o-nucenych-sterilizacich-selhava
+   Čím míň Romka, tím líp. Film Pramen o nucených sterilizacích selhává VOXPOT
 
-2. **Nádherný nález: V opuštěné stodole se našlo šest sběratelských aut. mezi nimi i Lamborghini s V12 - AutoŽivě.cz** — AutoŽivě.cz [cs]
-   https://www.autozive.cz/sest-sberatelskych-aut-roky-chatralo-v-otevrene-stodole/
-   Nádherný nález: V opuštěné stodole se našlo šest sběratelských aut. mezi nimi i Lamborghini s V12 AutoŽivě.cz
+2. **Ale ef. Dermaku z Bujanovace byl jmenován muftím Romů v Srbsku a diaspoře. - KoSSev** — KoSSev [cs]
+   https://kossev.info/cs/ali-ef-dermaku-muftija-romskog-naroda/
+   Ale ef. Dermaku z Bujanovace byl jmenován muftím Romů v Srbsku a diaspoře. KoSSev
 
-3. **Volné vstupy startují: v neděli zdarma do 15 muzeí a galerií. Bez registrace - Týden.cz** — Týden.cz [cs]
-   https://www.tyden.cz/volne-vstupy-startuji-v-nedeli-zdarma-do-15-muzei-a-galerii-bez-registrace
-   Volné vstupy startují: v neděli zdarma do 15 muzeí a galerií. Bez registrace Týden.cz
+3. **Atentát na Hendrika Verwoerda apartheid nezastavil. Rasistický režim svého architekta přežil o skoro 30 let - Reflex.cz** — Reflex.cz [cs]
+   https://www.reflex.cz/clanek/historie/138025/atentat-na-hendrika-verwoerda-apartheid-nezastavil-rasisticky-rezim-sveho-architekta-prezil-o-skoro-30-let.html
+   Atentát na Hendrika Verwoerda apartheid nezastavil. Rasistický režim svého architekta přežil o skoro 30 let Reflex.cz
 
-4. **Arsenal prodal Martinelliho za 1,7 miliardy do Saúdské Arábie. Předchozí rekord klubu překonal skoro dvojnásobně - SportyŽivě** — SportyŽivě [cs]
-   https://sportyzive.cz/fotbal/arsenal-prodal-martinelliho-za-17-miliardy-do-saudske-arabie/
-   Arsenal prodal Martinelliho za 1,7 miliardy do Saúdské Arábie. Předchozí rekord klubu překonal skoro dvojnásobně SportyŽivě
+4. **33 kroků ke smrti. A zpět. Může se film stát terapií? Z příběhu Milana mrazí - Deník.cz** — Deník.cz [cs]
+   https://www.denik.cz/kultura/film-33-kroku-milan-daniel-kino-premiera-utok-rasismus
+   33 kroků ke smrti. A zpět. Může se film stát terapií? Z příběhu Milana mrazí Deník.cz
 
-5. **Stačilo ujet pár set metrů a bylo jasno: Malý elektromobil od Cupry jezdí lépe než většina dražších konkurentů - AutoŽivě.cz** — AutoŽivě.cz [cs]
-   https://www.autozive.cz/maly-elektromobil-od-cupry-jezdi-naprosto-skvele/
-   Stačilo ujet pár set metrů a bylo jasno: Malý elektromobil od Cupry jezdí lépe než většina dražších konkurentů AutoŽivě.cz
+5. **Rusko, EU, migranti. Expertka vysvětluje, na čem může německá krajní pravice postavit vládu s krajní levicí - Deník N** — Deník N [cs]
+   https://denikn.cz/2176567/rusko-eu-migranti-expertka-vysvetluje-na-cem-muze-krajni-pravice-postavit-vladu-s-krajni-levici/
+   Rusko, EU, migranti. Expertka vysvětluje, na čem může německá krajní pravice postavit vládu s krajní levicí Deník N
 
-6. **Státní muzea a galerie otevírají každou první neděli v měsíci zdarma - Náš REGION** — Náš REGION [cs]
-   https://nasregion.cz/statni-muzea-a-galerie-oteviraji-kazdou-prvni-nedeli-v-mesici-zdarma-446624/
-   Státní muzea a galerie otevírají každou první neděli v měsíci zdarma Náš REGION
+6. **Našla AfD řešení pro Německo? - VOXPOT** — VOXPOT [cs]
+   https://www.voxpot.cz/clanky/nasla-afd-reseni-pro-nemecko
+   Našla AfD řešení pro Německo? VOXPOT
 
-7. **Skrytá bolest Calina ze StarDance: V Česku si prošel peklem, za úspěchem stojí roky trápení - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1660421-skryta-bolest-calina-ze-stardance-v-cesku-si-prosel-peklem-za-uspechem-stoji-roky-trapeni.html
-   Skrytá bolest Calina ze StarDance: V Česku si prošel peklem, za úspěchem stojí roky trápení www.prahanadlani.cz
+7. **O čem svědčí rozsudek osvobozující SPD? - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/komentare/o-cem-svedci-rozsudek-osvobozujici-spd_2609070630_zko
+   O čem svědčí rozsudek osvobozující SPD? iROZHLAS
 
-8. **Feministky s ovcí a popelnicí chtěly zrušit Miss America. Co se stalo 7. září 1968? - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/onadnes/moda/miss-america-protest-1968-feministky-rasismus-feminismus.A260902_111504_modni-trendy_syk
-   Feministky s ovcí a popelnicí chtěly zrušit Miss America. Co se stalo 7. září 1968? iDNES.cz
+8. **AfD podle odhadů vyhrála volby v Sasku-Anhaltsku. Většinu v zemském sněmu jí ale prognózy nepřisuzují - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/afd-podle-odhadu-vyhraje-volby-v-sasku-anhaltsku-vetsinu-v-zemskem-snemu-ji-ale_2609061915_zko
+   AfD podle odhadů vyhrála volby v Sasku-Anhaltsku. Většinu v zemském sněmu jí ale prognózy nepřisuzují iROZHLAS
 
-9. **Skrytá bolest Calina ze SuperStar: V Česku si prošel peklem, za úspěchem stojí roky trápení - Extra.cz** — Extra.cz [cs]
-   https://www.extra.cz/skryta-bolest-calina-ze-stardance-v-cesku-si-prosel-peklem-za-uspechem-stoji-roky-trapeni-98697
-   Skrytá bolest Calina ze SuperStar: V Česku si prošel peklem, za úspěchem stojí roky trápení Extra.cz
+9. **Jan Vávra: O čem svědčí rozsudek osvobozující SPD? - mujRozhlas** — mujRozhlas [cs]
+   https://www.mujrozhlas.cz/nazory-argumenty/jan-vavra-o-cem-svedci-rozsudek-osvobozujici-spd
+   Jan Vávra: O čem svědčí rozsudek osvobozující SPD? mujRozhlas
 
-10. **Německo sleduje volby v Sasku-Anhaltsku. Výsledky ukážou sílu AfD i dopad na kancléře Merze - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/nemecko-sleduje-volby-v-sasku-anhaltsku-vysledky-ukazou-silu-afd-i-dopad-na_2609061121_ape
-   Německo sleduje volby v Sasku-Anhaltsku. Výsledky ukážou sílu AfD i dopad na kancléře Merze iROZHLAS
+10. **Ústecký kraj pošle 60 milionů na proměnu šluknovského sídliště - Náš REGION** — Náš REGION [cs]
+   https://nasregion.cz/ustecky-kraj-posle-60-milionu-na-promenu-sluknovskeho-sidliste-447357/
+   Ústecký kraj pošle 60 milionů na proměnu šluknovského sídliště Náš REGION
 
-11. **Volby v Německu: V Sasku-Anhaltsku má nakročeno k moci krajní pravice - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/656272-volby-v-nemecku-v-sasku-anhaltsku-ma-nakroceno-k-moci-krajni-pravice
-   Volby v Německu: V Sasku-Anhaltsku má nakročeno k moci krajní pravice TN.cz
+11. **Vláda se chystá výrazně změnit dávky na bydlení, někteří by si mohli výrazně přilepšit - Tiscali.cz** — Tiscali.cz [cs]
+   https://www.tiscali.cz/vlada-se-chysta-vyrazne-zmenit-davky-na-bydleni-nekteri-by-si-mohli-vyrazne-prilepsit-752276
+   Vláda se chystá výrazně změnit dávky na bydlení, někteří by si mohli výrazně přilepšit Tiscali.cz
 
-12. **„To my rozhodneme, co je rozumné.“ Německé školy jsou nervózní z triumfu AfD - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-to-my-rozhodneme-co-je-rozumne-nemecke-skoly-jsou-nervozni-z-triumfu-afd-314487
-   „To my rozhodneme, co je rozumné.“ Německé školy jsou nervózní z triumfu AfD Seznam Zprávy
+12. **„Vzali mi celou superdávku, protože máme tři auta.“ Češi narážejí na majetkový test, který dříve neřešili - TVGURU.cz** — TVGURU.cz [cs]
+   https://www.tvguru.cz/cesi-narazeji-na-majetkovy-test-ktery-drive-neresili/
+   „Vzali mi celou superdávku, protože máme tři auta.“ Češi narážejí na majetkový test, který dříve neřešili TVGURU.cz
 
-13. **Izraelský ministr z krajní pravice představil plán na vyhnání všech Palestinců z Gazy - Britské listy** — Britské listy [cs]
-   https://blisty.cz/art/135814-izraelsky-ministr-z-krajni-pravice-predstavil-plan-na-vyhnani-vsech-palestincu-z-gazy.html
-   Izraelský ministr z krajní pravice představil plán na vyhnání všech Palestinců z Gazy Britské listy
+13. **Živě: Summit dostupného bydlení a stavebního rozvoje - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/tiskove/zpravy/zive-summit-dostupneho-bydleni-a-stavebniho-rozvoje/2869199
+   Živě: Summit dostupného bydlení a stavebního rozvoje České noviny
 
-14. **Televizní noviny – sobota 5. září - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/655713-televizni-noviny-sobota-5-zari
-   Televizní noviny – sobota 5. září TN.cz
-
-15. **Obchod s chudobou vyžaduje systémové řešení. Charita dlouhodobě upozorňuje na problémy v bydlení - Charita Česká republika** — Charita Česká republika [cs]
-   https://www.charita.cz/jak-pomahame/advokacni-cinnost/socialni-oblast/obchod-s-chudobou-vyzaduje-systemove-reseni-charita-dlouhodobe-upozornuje-na-problemy-v-bydleni/
-   Obchod s chudobou vyžaduje systémové řešení. Charita dlouhodobě upozorňuje na problémy v bydlení Charita Česká republika
+14. **Živě: Předvolební debata kandidátů na primátora Prahy na Summitu dostupného bydlení a stavebního rozvoje - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/tiskove/zpravy/zive-predvolebni-debata-kandidatu-na-primatora-prahy-na-summitu-dostupneho-bydleni-a-stavebniho-rozvoje/2869399
+   Živě: Předvolební debata kandidátů na primátora Prahy na Summitu dostupného bydlení a stavebního rozvoje České noviny
