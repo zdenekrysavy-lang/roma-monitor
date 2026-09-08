@@ -1,59 +1,71 @@
-# Kandidáti — 2026-09-07T13:03:23+00:00 (14 položek)
+# Kandidáti — 2026-09-08T11:46:17+00:00 (17 položek)
 
-_Zdroje: Google News 53 · GDELT 0 (disabled) · feedy 0 · watch 0_
+_Zdroje: Google News 62 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Čím míň Romka, tím líp. Film Pramen o nucených sterilizacích selhává - VOXPOT** — VOXPOT [cs]
-   https://www.voxpot.cz/clanky/cim-min-romka-tim-lip-film-pramen-o-nucenych-sterilizacich-selhava
-   Čím míň Romka, tím líp. Film Pramen o nucených sterilizacích selhává VOXPOT
+1. **Festival romského filmu Tukino v Brně poprvé udělí cenu za citlivé zobrazování menšin / Zprávy - Jihomoravský kraj - regionbrno.cz** — regionbrno.cz [cs]
+   https://www.regionbrno.cz/zpravodajstvi/festival-romskeho-filmu-tukino-v-brne-po-306406/
+   Festival romského filmu Tukino v Brně poprvé udělí cenu za citlivé zobrazování menšin / Zprávy - Jihomoravský kraj regionbrno.cz
 
-2. **Ale ef. Dermaku z Bujanovace byl jmenován muftím Romů v Srbsku a diaspoře. - KoSSev** — KoSSev [cs]
-   https://kossev.info/cs/ali-ef-dermaku-muftija-romskog-naroda/
-   Ale ef. Dermaku z Bujanovace byl jmenován muftím Romů v Srbsku a diaspoře. KoSSev
+2. **Festival romského filmu Tukino poprvé udělí cenu za citlivé zobrazování menšin - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihomoravsky-kraj/festival-romskeho-filmu-tukino-poprve-udeli-cenu-za-citlive-zobrazovani-mensin.A260907_154533_metro-brno-zpravy_air
+   Festival romského filmu Tukino poprvé udělí cenu za citlivé zobrazování menšin Metro.cz
 
-3. **Atentát na Hendrika Verwoerda apartheid nezastavil. Rasistický režim svého architekta přežil o skoro 30 let - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/clanek/historie/138025/atentat-na-hendrika-verwoerda-apartheid-nezastavil-rasisticky-rezim-sveho-architekta-prezil-o-skoro-30-let.html
-   Atentát na Hendrika Verwoerda apartheid nezastavil. Rasistický režim svého architekta přežil o skoro 30 let Reflex.cz
+3. **Severočeský politik Petr Benda podněcoval rasismus. Z dávek na bydlení přitom profituje jeho byznys - Page Not Found** — Page Not Found [cs]
+   https://pagenotfound.cz/clanek/severocesky-podnikatel-benda-stavel-politiku-na-podnecovani-rasismu-v-jeho-budove-vsak-ziji-romove-jejichz-bydleni-pomahaji-hradit-statni-davky
+   Severočeský politik Petr Benda podněcoval rasismus. Z dávek na bydlení přitom profituje jeho byznys Page Not Found
 
-4. **33 kroků ke smrti. A zpět. Může se film stát terapií? Z příběhu Milana mrazí - Deník.cz** — Deník.cz [cs]
-   https://www.denik.cz/kultura/film-33-kroku-milan-daniel-kino-premiera-utok-rasismus
-   33 kroků ke smrti. A zpět. Může se film stát terapií? Z příběhu Milana mrazí Deník.cz
+4. **Matěj Pomahač: Volby v Sasku-Anhaltsku: drtivé vítězství krajní pravice i světlo naděje zelené politiky - Ekolist.cz** — Ekolist.cz [cs]
+   https://ekolist.cz/cz/publicistika/nazory-a-komentare/matej-pomahac-volby-v-sasku-anhaltsku-drtive-vitezstvi-krajni-pravice-i-svetlo-nadeje-zelene-politiky
+   Matěj Pomahač: Volby v Sasku-Anhaltsku: drtivé vítězství krajní pravice i světlo naděje zelené politiky Ekolist.cz
 
-5. **Rusko, EU, migranti. Expertka vysvětluje, na čem může německá krajní pravice postavit vládu s krajní levicí - Deník N** — Deník N [cs]
-   https://denikn.cz/2176567/rusko-eu-migranti-expertka-vysvetluje-na-cem-muze-krajni-pravice-postavit-vladu-s-krajni-levici/
-   Rusko, EU, migranti. Expertka vysvětluje, na čem může německá krajní pravice postavit vládu s krajní levicí Deník N
+5. **Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus - HlídacíPes.org** — HlídacíPes.org [cs]
+   https://hlidacipes.org/proc-afd-neni-jen-opozicni-strana-a-proc-ceska-media-zlehcuji-jeji-extremismus/
+   Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus HlídacíPes.org
 
-6. **Našla AfD řešení pro Německo? - VOXPOT** — VOXPOT [cs]
-   https://www.voxpot.cz/clanky/nasla-afd-reseni-pro-nemecko
-   Našla AfD řešení pro Německo? VOXPOT
+6. **Víc emocí, méně žvanění a evropské Německo. Jaké tři lekce vyplývají z výhry krajní pravice v Sasku-Anhaltsku i pro české demokraty? - Hospodářské noviny** — Hospodářské noviny [cs]
+   https://archiv.hn.cz/c1-67926650-vic-emoci-mene-zvaneni-a-evropske-nemecko-jake-tri-lekce-vyplyvaji-z-vyhry-krajni-pravice-v-sasku-anhaltsku-i-pro-ceske-demokraty
+   Víc emocí, méně žvanění a evropské Německo. Jaké tři lekce vyplývají z výhry krajní pravice v Sasku-Anhaltsku i pro české demokraty? Hospodářské noviny
 
-7. **O čem svědčí rozsudek osvobozující SPD? - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/komentare/o-cem-svedci-rozsudek-osvobozujici-spd_2609070630_zko
-   O čem svědčí rozsudek osvobozující SPD? iROZHLAS
+7. **Úspěch německé krajní pravice - 7. září - Události - Česká televize** — Česká televize [cs]
+   https://www.ceskatelevize.cz/porady/1097181328-udalosti/226411000100907/cast/1206694/
+   Úspěch německé krajní pravice - 7. září - Události Česká televize
 
-8. **AfD podle odhadů vyhrála volby v Sasku-Anhaltsku. Většinu v zemském sněmu jí ale prognózy nepřisuzují - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/afd-podle-odhadu-vyhraje-volby-v-sasku-anhaltsku-vetsinu-v-zemskem-snemu-ji-ale_2609061915_zko
-   AfD podle odhadů vyhrála volby v Sasku-Anhaltsku. Většinu v zemském sněmu jí ale prognózy nepřisuzují iROZHLAS
+8. **Posiluje extrémismus přísné trestní stíhání nenávistných projevů, nebo zpochybňování historie? - echo24.cz** — echo24.cz [cs]
+   https://www.echo24.cz/a/HEXUL/podcast-minulost-posiluje-extremismus-prisne-trestni-stihani-nenavistnych-projevu-nebo-zpochybnovani-historie-short
+   Posiluje extrémismus přísné trestní stíhání nenávistných projevů, nebo zpochybňování historie? echo24.cz
 
-9. **Jan Vávra: O čem svědčí rozsudek osvobozující SPD? - mujRozhlas** — mujRozhlas [cs]
-   https://www.mujrozhlas.cz/nazory-argumenty/jan-vavra-o-cem-svedci-rozsudek-osvobozujici-spd
-   Jan Vávra: O čem svědčí rozsudek osvobozující SPD? mujRozhlas
+9. **Diskuze: Musk gratuloval, AfD nabídla spolupráci. Vítězství krajní pravice slaví nacionalisté z celé Evropy - forum 24** — forum 24 [cs]
+   https://www.forum24.cz/musk-gratuloval-afd-nabidla-spolupraci-vitezstvi-krajni-pravice-slavi-nacionaliste-z-cele-evropy/diskuze
+   Diskuze: Musk gratuloval, AfD nabídla spolupráci. Vítězství krajní pravice slaví nacionalisté z celé Evropy forum 24
 
-10. **Ústecký kraj pošle 60 milionů na proměnu šluknovského sídliště - Náš REGION** — Náš REGION [cs]
-   https://nasregion.cz/ustecky-kraj-posle-60-milionu-na-promenu-sluknovskeho-sidliste-447357/
-   Ústecký kraj pošle 60 milionů na proměnu šluknovského sídliště Náš REGION
+10. **ANALÝZA: Úspěch krajní pravice v Německu je signál pro celou Evropu. Klíčový bude příští rok - CNN Prima NEWS** — CNN Prima NEWS [cs]
+   https://cnn.iprima.cz/analyza-uspech-krajni-pravice-v-nemecku-je-signal-pro-celou-evropu-klicovy-bude-pristi-rok-521110
+   ANALÝZA: Úspěch krajní pravice v Německu je signál pro celou Evropu. Klíčový bude příští rok CNN Prima NEWS
 
-11. **Vláda se chystá výrazně změnit dávky na bydlení, někteří by si mohli výrazně přilepšit - Tiscali.cz** — Tiscali.cz [cs]
-   https://www.tiscali.cz/vlada-se-chysta-vyrazne-zmenit-davky-na-bydleni-nekteri-by-si-mohli-vyrazne-prilepsit-752276
-   Vláda se chystá výrazně změnit dávky na bydlení, někteří by si mohli výrazně přilepšit Tiscali.cz
+11. **Anticikanismus jako daň z existence v české společnosti. Nová studie řeší předsudky vůči Romům - Radiožurnál** — Radiožurnál [cs]
+   https://radiozurnal.rozhlas.cz/anticikanismus-jako-dan-z-existence-v-ceske-spolecnosti-nova-studie-resi-9641540
+   Anticikanismus jako daň z existence v české společnosti. Nová studie řeší předsudky vůči Romům Radiožurnál
 
-12. **„Vzali mi celou superdávku, protože máme tři auta.“ Češi narážejí na majetkový test, který dříve neřešili - TVGURU.cz** — TVGURU.cz [cs]
-   https://www.tvguru.cz/cesi-narazeji-na-majetkovy-test-ktery-drive-neresili/
-   „Vzali mi celou superdávku, protože máme tři auta.“ Češi narážejí na majetkový test, který dříve neřešili TVGURU.cz
+12. **7. září - Události v regionech (sever a východ) - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/video/katalog/udalosti-v-regionech-udalosti-v-regionech-907-68b98b3e80750bba450b24d9?list=playlist%2Fudalosti-v-regionech-10
+   7. září - Události v regionech (sever a východ) ČT24
 
-13. **Živě: Summit dostupného bydlení a stavebního rozvoje - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/tiskove/zpravy/zive-summit-dostupneho-bydleni-a-stavebniho-rozvoje/2869199
-   Živě: Summit dostupného bydlení a stavebního rozvoje České noviny
+13. **7. září - Události v regionech (Ostrava) - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/video/katalog/udalosti-v-regionech-udalosti-v-regionech-172-6908898daa748bd65e0b09bf?list=playlist/udalosti-v-regionech-10
+   7. září - Události v regionech (Ostrava) ČT24
 
-14. **Živě: Předvolební debata kandidátů na primátora Prahy na Summitu dostupného bydlení a stavebního rozvoje - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/tiskove/zpravy/zive-predvolebni-debata-kandidatu-na-primatora-prahy-na-summitu-dostupneho-bydleni-a-stavebniho-rozvoje/2869399
-   Živě: Předvolební debata kandidátů na primátora Prahy na Summitu dostupného bydlení a stavebního rozvoje České noviny
+14. **Matěj Pomahač: Andrej Babiš vládne asociálně a nekompetentně - Deník Referendum** — Deník Referendum [cs]
+   https://denikreferendum.cz/clanek/239325-andrej-babis-vladne-asocialne-a-nekompetentne
+   Matěj Pomahač: Andrej Babiš vládne asociálně a nekompetentně Deník Referendum
+
+15. **Ecclestona zadržela policie. Na letiště přišel s brokovnicí - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/ecclestona-zadrzela-policie-na-letiste-prisel-s-brokovnici
+   Ecclestona zadržela policie. Na letiště přišel s brokovnicí F1sport.cz – podrobné zpravodajství ze světa F1
+
+16. **Lázně chtěly 14 tisíc za asistenčního psa. Pacientka s ním nesměla ani do jídelny, ombudsman zasáhl - České důchody** — České důchody [cs]
+   https://ceskeduchody.cz/zpravy/ombudsman-lazne-chtely-14-tisic-za-asistencniho-psa
+   Lázně chtěly 14 tisíc za asistenčního psa. Pacientka s ním nesměla ani do jídelny, ombudsman zasáhl České důchody
+
+17. **Šluknov přemění problémové sídliště. Zastupitelé Ústeckého kraje schválili příspěvek 60 milionů - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-domov/sluknov-premeni-problemove-sidliste-zastupitele-usteckeho-kraje-schvalili_2609071759_tez
+   Šluknov přemění problémové sídliště. Zastupitelé Ústeckého kraje schválili příspěvek 60 milionů iROZHLAS
