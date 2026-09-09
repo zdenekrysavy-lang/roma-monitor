@@ -1,157 +1,229 @@
 {
-  "generated_utc": "2026-09-08T11:46:17+00:00",
-  "count": 17,
+  "generated_utc": "2026-09-09T11:55:03+00:00",
+  "count": 26,
   "sources": {
     "profile": "cz",
-    "google_news": 62,
+    "google_news": 72,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 0,
+    "feeds": 2,
     "watch": 0,
-    "before_dedup": 38,
-    "total": 34,
-    "skipped_seen": 17,
-    "gn_resolved": 17,
-    "gn_resolve_tried": 17,
+    "before_dedup": 53,
+    "total": 49,
+    "skipped_seen": 23,
+    "gn_resolved": 24,
+    "gn_resolve_tried": 24,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Festival romského filmu Tukino v Brně poprvé udělí cenu za citlivé zobrazování menšin / Zprávy - Jihomoravský kraj - regionbrno.cz",
-      "url": "https://www.regionbrno.cz/zpravodajstvi/festival-romskeho-filmu-tukino-v-brne-po-306406/",
-      "source": "regionbrno.cz",
-      "snippet": "Festival romského filmu Tukino v Brně poprvé udělí cenu za citlivé zobrazování menšin / Zprávy - Jihomoravský kraj regionbrno.cz",
-      "published": "Tue, 08 Sep 2026 05:03:00 GMT",
+      "title": "Osobní návštěvy našich kanceláří pouze po předchozí domluvě",
+      "url": "https://in-ius.cz/osobni-navstevy-nasich-kancelari-pouze-po-predchozi-domluve/",
+      "source": "https://in-ius.cz/feed/",
+      "snippet": "Potřebujete se na nás obrátit v souvislosti s předsudečným násilím nebo jinou situací, se kterou potřebujete pomoci? Před návštěvou naší kanceláře nás prosím nejprve kontaktujte. Naše poradny v Praze a Brně nejsou určeny pro návštěvy bez předchozí domluvy. Kontaktovat nás můžete telefonicky, e-maile",
+      "published": "Wed, 09 Sep 2026 11:15:04 +0000",
       "lang": "cs"
     },
     {
-      "title": "Festival romského filmu Tukino poprvé udělí cenu za citlivé zobrazování menšin - Metro.cz",
-      "url": "https://www.metro.cz/kraje/jihomoravsky-kraj/festival-romskeho-filmu-tukino-poprve-udeli-cenu-za-citlive-zobrazovani-mensin.A260907_154533_metro-brno-zpravy_air",
-      "source": "Metro.cz",
-      "snippet": "Festival romského filmu Tukino poprvé udělí cenu za citlivé zobrazování menšin Metro.cz",
-      "published": "Mon, 07 Sep 2026 12:03:00 GMT",
+      "title": "Knihovny jako pilíře svobody: Deset knihoven získalo ocenění Bibliotheca inspirans 2026 za posilování demokracie",
+      "url": "https://osf.cz/2026/09/08/knihovny-jako-pilire-svobody/",
+      "source": "https://osf.cz/feed/",
+      "snippet": "Zažít na vlastní kůži normalizaci, pochopit princip demokratických voleb, poslechnout si debaty zajímavých hostů nebo se zapojit do participativního plánování. Odborná porota vybrala deset knihoven z celé České republiky, které svým návštěvníkům tyto věci originálním způsobem ... Celý článek",
+      "published": "Tue, 08 Sep 2026 14:02:32 +0000",
       "lang": "cs"
     },
     {
-      "title": "Severočeský politik Petr Benda podněcoval rasismus. Z dávek na bydlení přitom profituje jeho byznys - Page Not Found",
-      "url": "https://pagenotfound.cz/clanek/severocesky-podnikatel-benda-stavel-politiku-na-podnecovani-rasismu-v-jeho-budove-vsak-ziji-romove-jejichz-bydleni-pomahaji-hradit-statni-davky",
-      "source": "Page Not Found",
-      "snippet": "Severočeský politik Petr Benda podněcoval rasismus. Z dávek na bydlení přitom profituje jeho byznys Page Not Found",
-      "published": "Tue, 08 Sep 2026 04:04:47 GMT",
+      "title": "Proč stát vzal Romkám možnost mít děti? - VOXPOT",
+      "url": "https://www.voxpot.cz/clanky/proc-stat-vzal-romkam-moznost-mit-deti",
+      "source": "VOXPOT",
+      "snippet": "Proč stát vzal Romkám možnost mít děti? VOXPOT",
+      "published": "Tue, 08 Sep 2026 13:28:15 GMT",
       "lang": "cs"
     },
     {
-      "title": "Matěj Pomahač: Volby v Sasku-Anhaltsku: drtivé vítězství krajní pravice i světlo naděje zelené politiky - Ekolist.cz",
-      "url": "https://ekolist.cz/cz/publicistika/nazory-a-komentare/matej-pomahac-volby-v-sasku-anhaltsku-drtive-vitezstvi-krajni-pravice-i-svetlo-nadeje-zelene-politiky",
-      "source": "Ekolist.cz",
-      "snippet": "Matěj Pomahač: Volby v Sasku-Anhaltsku: drtivé vítězství krajní pravice i světlo naděje zelené politiky Ekolist.cz",
-      "published": "Tue, 08 Sep 2026 02:11:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus - HlídacíPes.org",
-      "url": "https://hlidacipes.org/proc-afd-neni-jen-opozicni-strana-a-proc-ceska-media-zlehcuji-jeji-extremismus/",
-      "source": "HlídacíPes.org",
-      "snippet": "Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus HlídacíPes.org",
-      "published": "Tue, 08 Sep 2026 04:32:03 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Víc emocí, méně žvanění a evropské Německo. Jaké tři lekce vyplývají z výhry krajní pravice v Sasku-Anhaltsku i pro české demokraty? - Hospodářské noviny",
-      "url": "https://archiv.hn.cz/c1-67926650-vic-emoci-mene-zvaneni-a-evropske-nemecko-jake-tri-lekce-vyplyvaji-z-vyhry-krajni-pravice-v-sasku-anhaltsku-i-pro-ceske-demokraty",
-      "source": "Hospodářské noviny",
-      "snippet": "Víc emocí, méně žvanění a evropské Německo. Jaké tři lekce vyplývají z výhry krajní pravice v Sasku-Anhaltsku i pro české demokraty? Hospodářské noviny",
-      "published": "Mon, 07 Sep 2026 13:29:19 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Úspěch německé krajní pravice - 7. září - Události - Česká televize",
-      "url": "https://www.ceskatelevize.cz/porady/1097181328-udalosti/226411000100907/cast/1206694/",
-      "source": "Česká televize",
-      "snippet": "Úspěch německé krajní pravice - 7. září - Události Česká televize",
-      "published": "Mon, 07 Sep 2026 20:17:39 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Posiluje extrémismus přísné trestní stíhání nenávistných projevů, nebo zpochybňování historie? - echo24.cz",
-      "url": "https://www.echo24.cz/a/HEXUL/podcast-minulost-posiluje-extremismus-prisne-trestni-stihani-nenavistnych-projevu-nebo-zpochybnovani-historie-short",
-      "source": "echo24.cz",
-      "snippet": "Posiluje extrémismus přísné trestní stíhání nenávistných projevů, nebo zpochybňování historie? echo24.cz",
-      "published": "Mon, 07 Sep 2026 17:02:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Diskuze: Musk gratuloval, AfD nabídla spolupráci. Vítězství krajní pravice slaví nacionalisté z celé Evropy - forum 24",
-      "url": "https://www.forum24.cz/musk-gratuloval-afd-nabidla-spolupraci-vitezstvi-krajni-pravice-slavi-nacionaliste-z-cele-evropy/diskuze",
-      "source": "forum 24",
-      "snippet": "Diskuze: Musk gratuloval, AfD nabídla spolupráci. Vítězství krajní pravice slaví nacionalisté z celé Evropy forum 24",
-      "published": "Tue, 08 Sep 2026 03:10:31 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "ANALÝZA: Úspěch krajní pravice v Německu je signál pro celou Evropu. Klíčový bude příští rok - CNN Prima NEWS",
-      "url": "https://cnn.iprima.cz/analyza-uspech-krajni-pravice-v-nemecku-je-signal-pro-celou-evropu-klicovy-bude-pristi-rok-521110",
+      "title": "Romská osada lehla popelem. Tři desítky lidí na východě Slovenska teď nemají kde spát - CNN Prima NEWS",
+      "url": "https://cnn.iprima.cz/ohniva-zkaza-v-romske-osade-tri-desitky-lidi-na-vychode-slovenska-ted-nemaji-kde-spat-521183",
       "source": "CNN Prima NEWS",
-      "snippet": "ANALÝZA: Úspěch krajní pravice v Německu je signál pro celou Evropu. Klíčový bude příští rok CNN Prima NEWS",
-      "published": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "snippet": "Romská osada lehla popelem. Tři desítky lidí na východě Slovenska teď nemají kde spát CNN Prima NEWS",
+      "published": "Mon, 07 Sep 2026 15:49:37 GMT",
       "lang": "cs"
     },
     {
-      "title": "Anticikanismus jako daň z existence v české společnosti. Nová studie řeší předsudky vůči Romům - Radiožurnál",
-      "url": "https://radiozurnal.rozhlas.cz/anticikanismus-jako-dan-z-existence-v-ceske-spolecnosti-nova-studie-resi-9641540",
-      "source": "Radiožurnál",
-      "snippet": "Anticikanismus jako daň z existence v české společnosti. Nová studie řeší předsudky vůči Romům Radiožurnál",
-      "published": "Tue, 08 Sep 2026 02:08:41 GMT",
+      "title": "V Česku neměla obdoby, přesto se dlouho neohřála: Unikátní televizní stanice vysílala necelý rok, teď definitivně skončila - TVGURU.cz",
+      "url": "https://www.tvguru.cz/v-cesku-nemela-obdoby-presto-se-dlouho-neohrala/",
+      "source": "TVGURU.cz",
+      "snippet": "V Česku neměla obdoby, přesto se dlouho neohřála: Unikátní televizní stanice vysílala necelý rok, teď definitivně skončila TVGURU.cz",
+      "published": "Wed, 09 Sep 2026 06:57:57 GMT",
       "lang": "cs"
     },
     {
-      "title": "7. září - Události v regionech (sever a východ) - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/video/katalog/udalosti-v-regionech-udalosti-v-regionech-907-68b98b3e80750bba450b24d9?list=playlist%2Fudalosti-v-regionech-10",
+      "title": "Krhut u Krause vystřelil vtip o Kozubově partnerce a její romské rodině. „To je debil,\" reagoval Kozub okamžitě - Centrum.cz",
+      "url": "https://www.centrum.cz/clanek/krhut-u-krause-vystrelil-vtip-o-kozubove-partnerce-a-jeji-romske-rodine-to-je-debil-reagoval-kozub-okamzite-285861",
+      "source": "Centrum.cz",
+      "snippet": "Krhut u Krause vystřelil vtip o Kozubově partnerce a její romské rodině. „To je debil,\" reagoval Kozub okamžitě Centrum.cz",
+      "published": "Mon, 07 Sep 2026 18:18:29 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Slibují bizarní souboje za miliony. Co se děje okolo nové bojové organizace - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/g-mma-jiri-kajinek-miroslav-sladek-jiri-paroubek-zapasy-politici-influenceri-boj.A260907_140143_domaci_svm",
+      "source": "iDNES.cz",
+      "snippet": "Slibují bizarní souboje za miliony. Co se děje okolo nové bojové organizace iDNES.cz",
+      "published": "Wed, 09 Sep 2026 06:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Souboje za miliony. Bojová organizace slibuje bitky s Kajínkem či Paroubkem - Rádio Impuls",
+      "url": "https://www.impuls.cz/zpravy/domaci/g-mma-jiri-kajinek-miroslav-sladek-jiri-paroubek-zapasy-politici-influenceri-boj/",
+      "source": "Rádio Impuls",
+      "snippet": "Souboje za miliony. Bojová organizace slibuje bitky s Kajínkem či Paroubkem Rádio Impuls",
+      "published": "Wed, 09 Sep 2026 07:04:30 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "RECENZE: 33 kroků ke smrti i uzdravení traumatizované duše oběti rasistického útoku - www.prahanadlani.cz",
+      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1664902-recenze-33%C2%A0kroku-ke-smrti-i%C2%A0uzdraveni-traumatizovane-duse-obeti-rasistickeho-utoku.html",
+      "source": "www.prahanadlani.cz",
+      "snippet": "RECENZE: 33 kroků ke smrti i uzdravení traumatizované duše oběti rasistického útoku www.prahanadlani.cz",
+      "published": "Wed, 09 Sep 2026 10:09:57 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Fanouškovská scéna potřebuje proměnu. Méně násilí, nenávisti či rasismu. Jenže je něco takového možné? - Žongl",
+      "url": "https://zonglmagazin.com/fanouskovska-scena-potrebuje-promenu-mene-nasili-nenavisti-ci-rasismu-jenze-je-neco-takoveho-mozne/",
+      "source": "Žongl",
+      "snippet": "Fanouškovská scéna potřebuje proměnu. Méně násilí, nenávisti či rasismu. Jenže je něco takového možné? Žongl",
+      "published": "Tue, 08 Sep 2026 19:53:40 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Švédská krajní pravice může prolomit tabu a získat vládní křesla - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/svedska-krajni-pravice-muze-prolomit-tabu-a-ziskat-vladni-kresla-377269",
       "source": "ČT24",
-      "snippet": "7. září - Události v regionech (sever a východ) ČT24",
-      "published": "Mon, 07 Sep 2026 16:29:18 GMT",
+      "snippet": "Švédská krajní pravice může prolomit tabu a získat vládní křesla ČT24",
+      "published": "Tue, 08 Sep 2026 04:01:35 GMT",
       "lang": "cs"
     },
     {
-      "title": "7. září - Události v regionech (Ostrava) - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/video/katalog/udalosti-v-regionech-udalosti-v-regionech-172-6908898daa748bd65e0b09bf?list=playlist/udalosti-v-regionech-10",
-      "source": "ČT24",
-      "snippet": "7. září - Události v regionech (Ostrava) ČT24",
-      "published": "Mon, 07 Sep 2026 16:50:06 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Matěj Pomahač: Andrej Babiš vládne asociálně a nekompetentně - Deník Referendum",
-      "url": "https://denikreferendum.cz/clanek/239325-andrej-babis-vladne-asocialne-a-nekompetentne",
-      "source": "Deník Referendum",
-      "snippet": "Matěj Pomahač: Andrej Babiš vládne asociálně a nekompetentně Deník Referendum",
-      "published": "Tue, 08 Sep 2026 10:49:42 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Ecclestona zadržela policie. Na letiště přišel s brokovnicí - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/ecclestona-zadrzela-policie-na-letiste-prisel-s-brokovnici",
-      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Ecclestona zadržela policie. Na letiště přišel s brokovnicí F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Mon, 07 Sep 2026 16:14:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Lázně chtěly 14 tisíc za asistenčního psa. Pacientka s ním nesměla ani do jídelny, ombudsman zasáhl - České důchody",
-      "url": "https://ceskeduchody.cz/zpravy/ombudsman-lazne-chtely-14-tisic-za-asistencniho-psa",
-      "source": "České důchody",
-      "snippet": "Lázně chtěly 14 tisíc za asistenčního psa. Pacientka s ním nesměla ani do jídelny, ombudsman zasáhl České důchody",
-      "published": "Mon, 07 Sep 2026 06:59:15 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Šluknov přemění problémové sídliště. Zastupitelé Ústeckého kraje schválili příspěvek 60 milionů - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-domov/sluknov-premeni-problemove-sidliste-zastupitele-usteckeho-kraje-schvalili_2609071759_tez",
+      "title": "Doksanský: Němci volili AfD kvůli strachu z migrace. Lipavský: Pro radikály je ale i Čech cizinec - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-svet/afd-nemecko-volby-krajni-pravice-pro-a-proti_2609081925_elev",
       "source": "iROZHLAS",
-      "snippet": "Šluknov přemění problémové sídliště. Zastupitelé Ústeckého kraje schválili příspěvek 60 milionů iROZHLAS",
-      "published": "Mon, 07 Sep 2026 15:59:00 GMT",
+      "snippet": "Doksanský: Němci volili AfD kvůli strachu z migrace. Lipavský: Pro radikály je ale i Čech cizinec iROZHLAS",
+      "published": "Tue, 08 Sep 2026 17:25:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Jak krajní pravice objevila Krista. Dá se křesťanství ubránit před populisty? - Centrum.cz",
+      "url": "https://www.centrum.cz/clanek/jak-krajni-pravice-objevila-krista-da-se-krestanstvi-ubranit-pred-populisty-288263",
+      "source": "Centrum.cz",
+      "snippet": "Jak krajní pravice objevila Krista. Dá se křesťanství ubránit před populisty? Centrum.cz",
+      "published": "Tue, 08 Sep 2026 22:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Německem se šíří protesty proti AfD, zatímco krajní pravice se přibližuje k vítězství ve dvou dalších spolkových zemích - Britské listy",
+      "url": "https://blisty.cz/art/135931-nemeckem-se-siri-protesty-proti-afd-zatimco-krajni-pravice-se-priblizuje-k-vitezstvi-ve-dvou-dalsich-spolkovych-zemich.html",
+      "source": "Britské listy",
+      "snippet": "Německem se šíří protesty proti AfD, zatímco krajní pravice se přibližuje k vítězství ve dvou dalších spolkových zemích Britské listy",
+      "published": "Wed, 09 Sep 2026 00:57:12 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "AfD v Sasku-Anhaltsku překvapivě pomohla i vysoká účast - denikreferendum.cz",
+      "url": "https://denikreferendum.cz/clanek/239328-afd-vsaskuanhaltsku-prekvapive-pomohla-ivysoka-ucast",
+      "source": "denikreferendum.cz",
+      "snippet": "AfD v Sasku-Anhaltsku překvapivě pomohla i vysoká účast denikreferendum.cz",
+      "published": "Tue, 08 Sep 2026 22:03:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Pohoda s AfD, PPF a Vladimírem Mlynářem - Deník Alarm",
+      "url": "https://denikalarm.cz/2026/09/pohoda-s-afd-ppf-a-vladimirem-mlynarem/",
+      "source": "Deník Alarm",
+      "snippet": "Pohoda s AfD, PPF a Vladimírem Mlynářem Deník Alarm",
+      "published": "Tue, 08 Sep 2026 08:58:59 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Vítězství AfD v Německu je pro Evropu temným dnem. Čas na zastavení krajní pravice se krátí - Britské listy",
+      "url": "https://www.blisty.cz/art/135906-vitezstvi-afd-v-nemecku-je-pro-evropu-temnym-dnem-cas-na-zastaveni-krajni-pravice-se-krati.html",
+      "source": "Britské listy",
+      "snippet": "Vítězství AfD v Německu je pro Evropu temným dnem. Čas na zastavení krajní pravice se krátí Britské listy",
+      "published": "Mon, 07 Sep 2026 23:00:46 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "„Bůh šašek“ dál natáčel navzdory zákazu. Policie ho obvinila z maření rozhodnutí - iDNES.cz",
+      "url": "https://www.idnes.cz/plzen/zpravy/plasy-sekta-plzensko-lukas-stancik-soud-podminka-vysila-obvineni.A260908_100235_plzen-zpravy_vb",
+      "source": "iDNES.cz",
+      "snippet": "„Bůh šašek“ dál natáčel navzdory zákazu. Policie ho obvinila z maření rozhodnutí iDNES.cz",
+      "published": "Tue, 08 Sep 2026 11:50:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Největší zakázka v historii železnice - 7. září - Události v regionech (Praha) - Česká televize",
+      "url": "https://www.ceskatelevize.cz/porady/10118379000-udalosti-v-regionech-praha/226411000140907/cast/1206815/",
+      "source": "Česká televize",
+      "snippet": "Největší zakázka v historii železnice - 7. září - Události v regionech (Praha) Česká televize",
+      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Samoživitelce se dvěma dětmi přiznali superdávku 159 Kč. „Počítají mi příjem 35 tisíc, i když tolik nevydělávám.“ - TVGURU.cz",
+      "url": "https://www.tvguru.cz/samozivitelce-se-dvema-detmi-priznali-superdavku-159-kc/",
+      "source": "TVGURU.cz",
+      "snippet": "Samoživitelce se dvěma dětmi přiznali superdávku 159 Kč. „Počítají mi příjem 35 tisíc, i když tolik nevydělávám.“ TVGURU.cz",
+      "published": "Wed, 09 Sep 2026 09:03:27 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Alonso: Monza už není Chrámem rychlosti - F1sport.cz – podrobné zpravodajství ze světa F1",
+      "url": "https://f1sport.auto.cz/clanek/alonso-monza-uz-neni-chramem-rychlosti",
+      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
+      "snippet": "Alonso: Monza už není Chrámem rychlosti F1sport.cz – podrobné zpravodajství ze světa F1",
+      "published": "Wed, 09 Sep 2026 08:42:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Dostupné bydlení: Jen se vymlouváte, vyčetli politici Pirátům nesplněný slib - Pražský deník",
+      "url": "https://prazsky.denik.cz/zpravy-region/vetsina-prazanu-hodnoti-dostupnost-bydleni-jako-velmi-spatnou/",
+      "source": "Pražský deník",
+      "snippet": "Dostupné bydlení: Jen se vymlouváte, vyčetli politici Pirátům nesplněný slib Pražský deník",
+      "published": "Tue, 08 Sep 2026 11:03:27 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Živě: Předvolební debata kandidátů na primátora Prahy na Summitu dostupného bydlení a stavebního rozvoje - domaci.hn.cz",
+      "url": "https://domaci.hn.cz/c1-67927320-zive-predvolebni-debata-kandidatu-na-primatora-prahy-na-summitu-dostupneho-bydleni-a-stavebniho-rozvoje",
+      "source": "domaci.hn.cz",
+      "snippet": "Živě: Předvolební debata kandidátů na primátora Prahy na Summitu dostupného bydlení a stavebního rozvoje domaci.hn.cz",
+      "published": "Wed, 09 Sep 2026 11:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nový dům pro pečující seniory - 8. září - Události v regionech (Brno) - Česká televize",
+      "url": "https://www.ceskatelevize.cz/porady/10122427178-udalosti-v-regionech-brno/326281381990908/cast/1206886/",
+      "source": "Česká televize",
+      "snippet": "Nový dům pro pečující seniory - 8. září - Události v regionech (Brno) Česká televize",
+      "published": "Tue, 08 Sep 2026 19:23:36 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Živě: Summit dostupného bydlení a stavebního rozvoje - metro.cz",
+      "url": "https://www.metro.cz/protext/zive-summit-dostupneho-bydleni-a-stavebniho-rozvoje.A260909_060500_metro-protext_air",
+      "source": "metro.cz",
+      "snippet": "Živě: Summit dostupného bydlení a stavebního rozvoje metro.cz",
+      "published": "Wed, 09 Sep 2026 04:05:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Kdo bude kopat za Prahu? Jan Čižinský míří do Senátu s jasným cílem - metro.cz",
+      "url": "https://www.metro.cz/praha/jan-cizinsky-miri-do-senatu-praha-podle-nej-potrebuje-silnejsi-hlas-a-zastani.A260908_160830_metro-praha_hala",
+      "source": "metro.cz",
+      "snippet": "Kdo bude kopat za Prahu? Jan Čižinský míří do Senátu s jasným cílem metro.cz",
+      "published": "Wed, 09 Sep 2026 03:08:00 GMT",
       "lang": "cs"
     }
   ]
