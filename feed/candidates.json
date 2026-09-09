@@ -1,1454 +1,1638 @@
 {
-  "generated_utc": "2026-09-08T11:48:47+00:00",
-  "count": 179,
+  "generated_utc": "2026-09-09T11:57:28+00:00",
+  "count": 202,
   "sources": {
     "profile": "world",
-    "google_news": 95,
+    "google_news": 103,
     "google_news_status": "ok",
     "gdelt": 250,
     "gdelt_status": "ok",
     "gdelt_note": "",
-    "feeds": 36,
-    "watch": 3,
-    "before_dedup": 371,
+    "feeds": 39,
+    "watch": 5,
+    "before_dedup": 382,
     "total": 300,
-    "skipped_seen": 120,
-    "gn_resolved": 64,
-    "gn_resolve_tried": 64,
-    "dropped_after_resolve": 1
+    "skipped_seen": 98,
+    "gn_resolved": 55,
+    "gn_resolve_tried": 55,
+    "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Omacom and Omarchy",
-      "url": "https://rroma.org/omacom-and-omarchy/?utm_source=rss&utm_medium=rss&utm_campaign=omacom-and-omarchy",
+      "title": "AfD and Minorities",
+      "url": "https://rroma.org/afd-and-minorities/?utm_source=rss&utm_medium=rss&utm_campaign=afd-and-minorities",
       "source": "https://rroma.org/feed/",
-      "snippet": "Danish entrepreneur David Heinemeier Hansson (DHH), creator of Ruby on Rails, founder of Omarchy and CTO of 37Signals, faced backlash […]",
-      "published": "Mon, 07 Sep 2026 13:05:03 +0000",
+      "snippet": "The director of ERIAC, Anna Mirga-Kruszelnicka, warns that the recent election victory of the far-right AfD in Saxony-Anhalt signifies the […]",
+      "published": "Tue, 08 Sep 2026 14:27:31 +0000",
       "lang": "en"
     },
     {
-      "title": "Kindergarten Enrolment",
-      "url": "https://rroma.org/kindergarten-enrolment/?utm_source=rss&utm_medium=rss&utm_campaign=kindergarten-enrolment",
+      "title": "Alina Şerban",
+      "url": "https://rroma.org/alina-serban-5/?utm_source=rss&utm_medium=rss&utm_campaign=alina-serban-5",
       "source": "https://rroma.org/feed/",
-      "snippet": "In the Slovenian municipalities of Šentjernej, Škocjan, and Šmarješke Toplice, acceptance of Children in kindergartens is supposed to be easy […]",
-      "published": "Mon, 07 Sep 2026 13:04:05 +0000",
+      "snippet": "Alina Șerban, acclaimed for her role in ‘Housekeeping for Beginners’, returns to the Venice Film Festival as a director and […]",
+      "published": "Tue, 08 Sep 2026 14:26:06 +0000",
       "lang": "en"
     },
     {
-      "title": "Serbian Roma Mufti",
-      "url": "https://rroma.org/serbian-roma-mufti/?utm_source=rss&utm_medium=rss&utm_campaign=serbian-roma-mufti",
+      "title": "Thessaly and Roma",
+      "url": "https://rroma.org/thessaly-and-roma/?utm_source=rss&utm_medium=rss&utm_campaign=thessaly-and-roma",
       "source": "https://rroma.org/feed/",
-      "snippet": "The Islamic Community of Serbia has appointed Alija ef. Dermaku, an imam from Bujanovac, as the first mufti for the […]",
-      "published": "Mon, 07 Sep 2026 13:03:19 +0000",
+      "snippet": "The Meeting of the Roma Federation of Thessaly with the Deputy Regional Governor Andriana Komitsa focused on initiatives by the […]",
+      "published": "Tue, 08 Sep 2026 14:24:53 +0000",
       "lang": "en"
     },
     {
-      "title": "KONAČNO SE VRATILA: Jestira Ajdarević ponovo radi u leskovačkoj bolnici, posao dobila na konkursu",
-      "url": "https://rominfomedia.rs/2026/09/08/konacno-se-vratila-jestira-ajdarevic-ponovo-radi-u-leskovackoj-bolnici-posao-dobila-na-konkursu/",
+      "title": "Maškari Amende",
+      "url": "https://rroma.org/maskari-amende/?utm_source=rss&utm_medium=rss&utm_campaign=maskari-amende",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The “Maškari Amende” festival will take place on September 11-12 in Šuto Orizari, North Macedonia, celebrating 30 years since the […]",
+      "published": "Tue, 08 Sep 2026 13:58:44 +0000",
+      "lang": "en"
+    },
+    {
+      "title": "Suspicious?",
+      "url": "https://rroma.org/suspicious/?utm_source=rss&utm_medium=rss&utm_campaign=suspicious",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The article states that Roma from the Bujanovac municipality can seek assistance from the office of Vučić’s Roma team for […]",
+      "published": "Tue, 08 Sep 2026 13:57:07 +0000",
+      "lang": "en"
+    },
+    {
+      "title": "Serbian Elections",
+      "url": "https://rroma.org/serbian-elections-6/?utm_source=rss&utm_medium=rss&utm_campaign=serbian-elections-6",
+      "source": "https://rroma.org/feed/",
+      "snippet": "According to the articles, Roma in Serbia will have the opportunity to elect authentic political representatives in the upcoming parliamentary […]",
+      "published": "Tue, 08 Sep 2026 13:54:23 +0000",
+      "lang": "en"
+    },
+    {
+      "title": "Isplate iz budžeta Grada Leskovca",
+      "url": "https://rominfomedia.rs/2026/09/08/isplate-iz-budzeta-grada-leskovca-112/",
       "source": "https://rominfomedia.rs/feed/",
-      "snippet": "Posle nekoliko godina neizvesnosti, brojnih obraćanja javnosti i čekanja na priliku za ponovno zaposlenje, Jestira Ajdarević iz Leskovca ponovo je u Opštoj bolnici Leskovac. Ovoga puta, kako je i najavljivano, posao je dobila putem konkursa. Jestira Ajdarević, viša radiološka tehničarka, ponovo je d",
-      "published": "Tue, 08 Sep 2026 09:56:27 +0000",
+      "snippet": "Iz budžeta Grada Leskovca danas je isplaćeno 12.447.068 dinara. Od ovog iznosa preduzeću „Investgradnja“ isplaćen je iznos od 6.705.385 dinara, za izgradnju objekta za kontrolisano upravljanje i zbrinjavanje ostataka životinjskog porekla. Predškolskoj ustanovi „Vukica Mitrović“ danas su isplaćene tr",
+      "published": "Tue, 08 Sep 2026 13:59:47 +0000",
       "lang": "sr"
     },
     {
-      "title": "Spája rap aj tradíciu z Karpát. Ukrajinka Alina Pash bojuje hudbou",
-      "url": "https://romanoforum.dennikn.sk/spaja-rap-aj-tradiciu-z-karpat-ukrajinka-alina-pash-bojuje-hudbou/",
+      "title": "STUDENTI IZ LESKOVCA PONOVO NA ZLATIBORU: Otvorene prijave za sedmo „UMrežavanje“",
+      "url": "https://rominfomedia.rs/2026/09/08/studenti-iz-leskovca-ponovo-na-zlatiboru-otvorene-prijave-za-sedmo-umrezavanje/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "Leskovački studenti koji studiraju na fakultetima širom Srbije imaće i ove godine priliku da se upoznaju, razmene iskustva i ideje i razgovaraju o tome kako svojim znanjem mogu da doprinesu razvoju svog grada. Kancelarija za mlade Grada Leskovca otvorila je prijave za sedmo „UMrežavanje“, trodnevni ",
+      "published": "Tue, 08 Sep 2026 13:55:59 +0000",
+      "lang": "sr"
+    },
+    {
+      "title": "Najavljena provera sistema za uzbunjivanje u Leskovcu",
+      "url": "https://rominfomedia.rs/2026/09/08/najavljena-provera-sistema-za-uzbunjivanje-u-leskovcu/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "Policijska uprava Leskovac obaveštava građane da će u četvrtak, 10. avgusta u 12 časova, biti izvršena redovna provera sistema za uzbunjivanje putem sirena. Provera će se sprovesti u saradnji sa Civilnom zaštitom, društvenim i pravnim licima na čijim se objektima nalaze sirene za uzbunjivanje. Tokom",
+      "published": "Tue, 08 Sep 2026 13:39:19 +0000",
+      "lang": "sr"
+    },
+    {
+      "title": "Spoločnosť postupne strácala citlivosť. Hanebnému Židovskému kódexu predchádzali represie aj voči Rómom",
+      "url": "https://romanoforum.dennikn.sk/spolocnost-postupne-stracala-citlivost-hanebnemu-zidovskemu-kodexu-predchadzali-represie-aj-voci-romom/",
       "source": "https://romanoforum.dennikn.sk/feed/",
-      "snippet": "Speváčka zo Zakarpatia prepája folklór, rap a elektroniku. Na tohtoročnom festivale Pohoda predviedla hudobný rituál, ktorý vtiahol do varu tisíce ľudí.",
-      "published": "Tue, 08 Sep 2026 08:09:59 +0000",
+      "snippet": "Ak pristúpime na pragmatické spojenectvá s extrémizmom a začneme tolerovať novodobý rasizmus, riskujeme, že zopakujeme rovnaké chyby, píše etnografka Zuzana Kumanová.",
+      "published": "Tue, 08 Sep 2026 18:14:18 +0000",
       "lang": "sk"
     },
     {
-      "title": "Chcete vodičák? Táto nová podmienka vás môže zastaviť - romatv.sk",
-      "url": "https://romatv.sk/zaujimavosti/chcete-vodi%C4%8D%C3%A1k-t%C3%A1to-nov%C3%A1-podmienka-v%C3%A1s-m%C3%B4%C5%BEe-zastavi%C5%A5/1401040",
-      "source": "romatv.sk",
-      "snippet": "Chcete vodičák? Táto nová podmienka vás môže zastaviť romatv.sk",
-      "published": "Mon, 07 Sep 2026 14:35:09 GMT",
+      "title": "Po tragédii v Sheffielde prehovoril otec Andrey: Takto sa žiť nedá! - Roma Television",
+      "url": "https://romatv.sk/krimi/po-trag%C3%A9dii-v-sheffielde-prehovoril-otec-andrey-takto-sa-%C5%BEi%C5%A5-ned%C3%A1/1401045",
+      "source": "Roma Television",
+      "snippet": "Po tragédii v Sheffielde prehovoril otec Andrey: Takto sa žiť nedá! Roma Television",
+      "published": "Tue, 08 Sep 2026 22:04:27 GMT",
       "lang": "sk"
     },
     {
-      "title": "Bober o Rómoch: Život podľa neho mení úprimná, nie formálna viera - romatv.sk",
-      "url": "https://romatv.sk/slovensko/bober-o-r%C3%B3moch-%C5%BEivot-pod%C4%BEa-neho-men%C3%AD-%C3%BAprimn%C3%A1-nie-form%C3%A1lna-viera/1401042",
-      "source": "romatv.sk",
-      "snippet": "Bober o Rómoch: Život podľa neho mení úprimná, nie formálna viera romatv.sk",
-      "published": "Tue, 08 Sep 2026 03:55:00 GMT",
+      "title": "Martin z dua Mamuko Berci schudol 25 kíl. Čo stojí za jeho premenou? - Roma Television",
+      "url": "https://romatv.sk/kultura/martin-z-dua-mamuko-berci-schudol-25-k%C3%ADl-%C4%8Do-stoj%C3%AD-za-jeho-premenou/1401043",
+      "source": "Roma Television",
+      "snippet": "Martin z dua Mamuko Berci schudol 25 kíl. Čo stojí za jeho premenou? Roma Television",
+      "published": "Tue, 08 Sep 2026 08:47:00 GMT",
       "lang": "sk"
     },
     {
-      "title": "V Košiciach zrazilo auto dieťa priamo na chodníku - romatv.sk",
-      "url": "https://romatv.sk/krimi/v-ko%C5%A1iciach-zrazilo-auto-die%C5%A5a-priamo-na-chodn%C3%ADku/1401039",
-      "source": "romatv.sk",
-      "snippet": "V Košiciach zrazilo auto dieťa priamo na chodníku romatv.sk",
-      "published": "Sun, 06 Sep 2026 12:14:32 GMT",
+      "title": "Sulík sa spojil s Kollárom. Do volieb idú na jednej kandidátke - Roma Television",
+      "url": "https://romatv.sk/slovensko/sul%C3%ADk-sa-spojil-s-koll%C3%A1rom-do-volieb-id%C3%BA-na-jednej-kandid%C3%A1tke/1401044",
+      "source": "Roma Television",
+      "snippet": "Sulík sa spojil s Kollárom. Do volieb idú na jednej kandidátke Roma Television",
+      "published": "Tue, 08 Sep 2026 19:07:49 GMT",
       "lang": "sk"
     },
     {
-      "title": "‘It starts with us’: Roma rights defender warns AfD win normalises hatred of minorities - euobserver.com",
-      "url": "https://euobserver.com/235843/it-starts-with-us-roma-rights-defender-warns-afd-win-normalises-hatred-of-minorities/",
-      "source": "euobserver.com",
-      "snippet": "‘It starts with us’: Roma rights defender warns AfD win normalises hatred of minorities euobserver.com",
-      "published": "Mon, 07 Sep 2026 14:49:52 GMT",
+      "title": "Hanebnému Židovskému kódexu pred 85 rokmi predchádzali iné formy represie a spoločnosť postupne strácala citlivosť, píše etnografka Zuzana Kumanová - Denník N",
+      "url": "https://dennikn.sk/minuta/5549946/",
+      "source": "Denník N",
+      "snippet": "Hanebnému Židovskému kódexu pred 85 rokmi predchádzali iné formy represie a spoločnosť postupne strácala citlivosť, píše etnografka Zuzana Kumanová Denník N",
+      "published": "Wed, 09 Sep 2026 09:35:00 GMT",
+      "lang": "sk"
+    },
+    {
+      "title": "Takmer polovica rómskych obcí nemá chodník ani kanalizáciu, infraštruktúra však stále napreduje - SITA.sk",
+      "url": "https://sita.sk/takmer-polovica-romskych-obci-nema-chodnik-ani-kanalizaciu-infrastruktura-sa-vsak-stale-napreduje/",
+      "source": "SITA.sk",
+      "snippet": "Takmer polovica rómskych obcí nemá chodník ani kanalizáciu, infraštruktúra však stále napreduje SITA.sk",
+      "published": "Tue, 08 Sep 2026 18:22:41 GMT",
+      "lang": "sk"
+    },
+    {
+      "title": "‘I Matter’ Venice Review: A Romani Teen Faces Life Beyond the Orphanage - Micropsia",
+      "url": "https://www.micropsiacine.com/2026/09/i-matter-venice-review-a-romani-teen-faces-life-beyond-the-orphanage/",
+      "source": "Micropsia",
+      "snippet": "‘I Matter’ Venice Review: A Romani Teen Faces Life Beyond the Orphanage Micropsia",
+      "published": "Tue, 08 Sep 2026 19:05:18 GMT",
       "lang": "en"
     },
     {
-      "title": "\"The most important thing in life is peace of mind.\" Melinda Demeterová on her childhood in a Czech children's home, her return to studying, and her dream of becoming an author - Romea.cz",
-      "url": "https://romea.cz/en/romea-tv-en-2/the-most-important-thing-in-life-is-peace-of-mind-melinda-demeterova-on-her-childhood-in-a-czech-childrens-home-her-return-to-studying-and-her-dream-of-becoming-an-author/",
-      "source": "Romea.cz",
-      "snippet": "\"The most important thing in life is peace of mind.\" Melinda Demeterová on her childhood in a Czech children's home, her return to studying, and her dream of becoming an author Romea.cz",
-      "published": "Tue, 08 Sep 2026 08:14:22 GMT",
+      "title": "Avengers Doomsday Test Score Tops Endgame: Doom Diagnoses What Avengers Got Wrong - Tech Times",
+      "url": "https://www.techtimes.com/articles/326950/20260908/avengers-doomsday-test-score-tops-endgame-doom-diagnoses-what-avengers-got-wrong.htm",
+      "source": "Tech Times",
+      "snippet": "Avengers Doomsday Test Score Tops Endgame: Doom Diagnoses What Avengers Got Wrong Tech Times",
+      "published": "Tue, 08 Sep 2026 14:59:09 GMT",
       "lang": "en"
     },
     {
-      "title": "Cricket match squads | SRBW vs CRTW, 1st Match, Serbia Women's T20I Tri-Series 2026 - Cricbuzz",
-      "url": "https://www.cricbuzz.com/cricket-match-squads/170881/srbw-vs-crtw-1st-match-serbia-womens-t20i-tri-series-2026",
-      "source": "Cricbuzz",
-      "snippet": "Cricket match squads | SRBW vs CRTW, 1st Match, Serbia Women's T20I Tri-Series 2026 Cricbuzz",
-      "published": "Mon, 07 Sep 2026 23:30:54 GMT",
-      "lang": "en"
-    },
-    {
-      "title": "Bede community’s dream of a home comes true in Dhamrai - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://www.bssnews.net/others/422247",
-      "source": "Bangladesh Sangbad Sangstha (BSS)",
-      "snippet": "Bede community’s dream of a home comes true in Dhamrai Bangladesh Sangbad Sangstha (BSS)",
-      "published": "Tue, 08 Sep 2026 10:28:23 GMT",
-      "lang": "en"
-    },
-    {
-      "title": "Nem bokszol egymással Fury és Joshua - Magyar Hírlap",
-      "url": "https://magyarhirlap.hu/sport/20260907-nem-bokszol-egymassal-fury-es-joshua",
-      "source": "Magyar Hírlap",
-      "snippet": "Nem bokszol egymással Fury és Joshua Magyar Hírlap",
-      "published": "Mon, 07 Sep 2026 19:08:20 GMT",
+      "title": "Elképesztő felvételek: verekedésbe keveredett a cigány szövetség országos elnöke Barcson - Hirnavigator",
+      "url": "https://hirnavigator.hu/hir/10744875-elkepeszto-felvetelek-verekedesbe-keveredett-a-cigany-szovetseg-orszagos-elnoke-barcson",
+      "source": "Hirnavigator",
+      "snippet": "Elképesztő felvételek: verekedésbe keveredett a cigány szövetség országos elnöke Barcson Hirnavigator",
+      "published": "Wed, 09 Sep 2026 07:19:35 GMT",
       "lang": "hu"
     },
     {
-      "title": "Incident grav în parcarea McDonaldʼs din Păcurari! O femeie și un copil au fost atacați de un grup de romi: „Au încercat să intre cu forța în mașină” - BZI.ro",
-      "url": "https://www.bzi.ro/incident-grav-in-parcarea-mcdonald%CA%BCs-din-pacurari-o-femeie-si-un-copil-au-fost-atacati-de-un-grup-de-romi-au-incercat-sa-intre-cu-forta-in-masina-5599411",
-      "source": "BZI.ro",
-      "snippet": "Incident grav în parcarea McDonaldʼs din Păcurari! O femeie și un copil au fost atacați de un grup de romi: „Au încercat să intre cu forța în mașină” BZI.ro",
-      "published": "Mon, 07 Sep 2026 23:05:59 GMT",
+      "title": "UPDATE: Săbii, macete și un pistol, confiscate din casele unor romi din Timiș. Ce au descoperit procurorii în urma descinderilor - Libertatea",
+      "url": "https://www.libertatea.ro/galerie/update-sabii-macete-si-un-pistol-confiscate-din-casele-unor-romi-din-timis-ce-au-descoperit-procurorii-in-urma-descinderilor-2005724",
+      "source": "Libertatea",
+      "snippet": "UPDATE: Săbii, macete și un pistol, confiscate din casele unor romi din Timiș. Ce au descoperit procurorii în urma descinderilor Libertatea",
+      "published": "Wed, 09 Sep 2026 06:32:44 GMT",
       "lang": "ro"
     },
     {
-      "title": "Tradiția merge mai departe: Tinerii romi își spun povestea prin gastronomie în cadrul proiectului RomaFoodFest - Ziarul 21",
-      "url": "https://www.ziarul21.ro/actualitate/traditia-merge-mai-departe-tinerii-romi-isi-spun-povestea-prin-gastronomie-in-cadrul-proiectului-romafoodfest/",
-      "source": "Ziarul 21",
-      "snippet": "Tradiția merge mai departe: Tinerii romi își spun povestea prin gastronomie în cadrul proiectului RomaFoodFest Ziarul 21",
-      "published": "Mon, 07 Sep 2026 09:12:07 GMT",
+      "title": "Peste 2.000 de români trăiesc în acest oraș din Spania. „Ne simțim rău, ne pun… - Mediafax",
+      "url": "https://www.mediafax.ro/es/peste-2-000-de-romani-traiesc-in-acest-oras-din-spania-ne-simtim-rau-ne-pun-pe-toti-in-aceeasi-oala-4801/amp",
+      "source": "Mediafax",
+      "snippet": "Peste 2.000 de români trăiesc în acest oraș din Spania. „Ne simțim rău, ne pun… Mediafax",
+      "published": "Wed, 09 Sep 2026 09:14:28 GMT",
       "lang": "ro"
     },
     {
-      "title": "El Ayuntamiento de Sevilla dedica una calle al fundador de los Gitanos - ABC",
-      "url": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/ayuntamiento-sevilla-dedica-calle-fundador-gitanos-20260908123522-nts.html",
-      "source": "ABC",
-      "snippet": "El Ayuntamiento de Sevilla dedica una calle al fundador de los Gitanos ABC",
-      "published": "Tue, 08 Sep 2026 10:35:22 GMT",
+      "title": "DEZVOLTARE: Cinci zile de educație, tradiții și comunitate pentru tinerii romi din Satu Mare - Gazeta Nord-Vest",
+      "url": "https://www.gazetanord-vest.ro/2026/09/dezvoltare-cinci-zile-de-educatie-traditii-si-comunitate-pentru-tinerii-romi-din-satu-mare/",
+      "source": "Gazeta Nord-Vest",
+      "snippet": "DEZVOLTARE: Cinci zile de educație, tradiții și comunitate pentru tinerii romi din Satu Mare Gazeta Nord-Vest",
+      "published": "Wed, 09 Sep 2026 03:27:18 GMT",
+      "lang": "ro"
+    },
+    {
+      "title": "EXCLUSIV. Incendiul din Florești a izbucnit într-un… - clujenii.ro",
+      "url": "https://clujenii.ro/exclusiv.-incendiul-din-floresti-a-izbucnit-intr-un-apartament-cumparat-de-primaria-cluj-pentru-relocarea-unei-familii-video",
+      "source": "clujenii.ro",
+      "snippet": "EXCLUSIV. Incendiul din Florești a izbucnit într-un… clujenii.ro",
+      "published": "Wed, 09 Sep 2026 11:49:00 GMT",
+      "lang": "ro"
+    },
+    {
+      "title": "Intervenție contracronometru în zona Sterpu. Edilii din Valea Mare și pompierii au salvat mai multe case din calea flăcărilor - evenimentdeolt.ro",
+      "url": "https://evenimentdeolt.ro/2026/09/08/interventie-contracronometru-in-zona-sterpu-edilii-din-valea-mare-si-pompierii-au-salvat-mai-multe-case-din-calea-flacarilor/",
+      "source": "evenimentdeolt.ro",
+      "snippet": "Intervenție contracronometru în zona Sterpu. Edilii din Valea Mare și pompierii au salvat mai multe case din calea flăcărilor evenimentdeolt.ro",
+      "published": "Tue, 08 Sep 2026 06:43:20 GMT",
+      "lang": "ro"
+    },
+    {
+      "title": "El Ayuntamiento dedica una calle a Sebastián Miguel de Varas y Miranda, fundador de la Hermandad de los Gitanos y pieza clave en la defensa de esta comunidad en Sevilla en el siglo XVIII - Ayuntamiento de Sevilla",
+      "url": "https://www.sevilla.org/actualidad/noticias/2026/el-ayuntamiento-dedica-una-calle-a-sebastian-miguel-de-varas-y-miranda-fundador-de-la-hermandad-de-los-gitanos-y-pieza-clave-en-la-defensa-de-esta-comunidad-en-sevilla-en-el-siglo-xviii",
+      "source": "Ayuntamiento de Sevilla",
+      "snippet": "El Ayuntamiento dedica una calle a Sebastián Miguel de Varas y Miranda, fundador de la Hermandad de los Gitanos y pieza clave en la defensa de esta comunidad en Sevilla en el siglo XVIII Ayuntamiento de Sevilla",
+      "published": "Wed, 09 Sep 2026 08:30:44 GMT",
       "lang": "es"
     },
     {
-      "title": "José Ramón Cid Cebrián y el grupo Charros y Gitanos ponen de pie al público de El Casino de Salamanca para iniciar las fiestas - SALAMANCArtv AL DÍA",
-      "url": "https://salamancartvaldia.es/noticia/2026-09-08-jose-ramon-cid-cebrian-y-el-grupo-charros-y-gitanos-ponen-de-pie-al-publico-de-el-casino-de-salamanca-397102",
-      "source": "SALAMANCArtv AL DÍA",
-      "snippet": "José Ramón Cid Cebrián y el grupo Charros y Gitanos ponen de pie al público de El Casino de Salamanca para iniciar las fiestas SALAMANCArtv AL DÍA",
-      "published": "Tue, 08 Sep 2026 08:41:00 GMT",
+      "title": "Gitanos, el enemigo perfecto para legitimar la represión en Grecia - naiz:",
+      "url": "https://www.naiz.eus/info/noticia/20260909/gitanos-el-enemigo-perfecto-para-legitimar-la-represion-en-grecia",
+      "source": "naiz:",
+      "snippet": "Gitanos, el enemigo perfecto para legitimar la represión en Grecia naiz:",
+      "published": "Wed, 09 Sep 2026 03:00:00 GMT",
       "lang": "es"
     },
     {
-      "title": "La nueva sintonía de 'La Revuelta' de David Broncano es un canto a la diversidad cultural: \"Aquí no hemos cambiado, somos los de siempre\" - huffingtonpost.es",
-      "url": "https://www.huffingtonpost.es/sociedad/la-nueva-sintonia-la-revuelta-david-broncano-canto-diversidad-cultural-aqui-hemos-cambiado-siempre-f202609.html",
-      "source": "huffingtonpost.es",
-      "snippet": "La nueva sintonía de 'La Revuelta' de David Broncano es un canto a la diversidad cultural: \"Aquí no hemos cambiado, somos los de siempre\" huffingtonpost.es",
-      "published": "Tue, 08 Sep 2026 10:23:10 GMT",
+      "title": "Una veintena de estudiantes gitanos empezarán este año una carrera universitaria en Catalunya - El Periódico",
+      "url": "https://www.elperiodico.com/es/barcelona/20260909/veintena-estudiantes-gitanos-empezaran-este-curso-carrera-universitaria-134058693",
+      "source": "El Periódico",
+      "snippet": "Una veintena de estudiantes gitanos empezarán este año una carrera universitaria en Catalunya El Periódico",
+      "published": "Wed, 09 Sep 2026 02:00:49 GMT",
       "lang": "es"
     },
     {
-      "title": "Gómez pide posponer la audiencia preliminar: su asesora está de viaje y su abogado no puede - The Objective",
-      "url": "https://theobjective.com/espana/tribunales/2026-09-07/begona-gomez-posponer-audiencia-preliminar/?amp",
-      "source": "The Objective",
-      "snippet": "Gómez pide posponer la audiencia preliminar: su asesora está de viaje y su abogado no puede The Objective",
-      "published": "Mon, 07 Sep 2026 17:51:42 GMT",
+      "title": "La Cofradía de los Gitanos da a conocer el diseño del nuevo techo de palio de la Virgen de la O - Diario Sur",
+      "url": "https://www.diariosur.es/semana-santa/cofradia-gitanos-conocer-diseno-nuevo-techo-palio-20260909105842-nt.html",
+      "source": "Diario Sur",
+      "snippet": "La Cofradía de los Gitanos da a conocer el diseño del nuevo techo de palio de la Virgen de la O Diario Sur",
+      "published": "Wed, 09 Sep 2026 08:58:58 GMT",
       "lang": "es"
     },
     {
-      "title": "\"Compraron\" una niña de 13 años por $825.000, la obligaron a casarse con su hijo de 20 y la mandaron a mendigar - Tendencia de Noticias",
-      "url": "https://tendenciadenoticias.com.ar/tendencias/compraron-una-nina-de-13-anos-por-825000-la-obligaron-a-casarse-con-su-hijo-de-20-y-la-mandaron-a-mendigar",
-      "source": "Tendencia de Noticias",
-      "snippet": "\"Compraron\" una niña de 13 años por $825.000, la obligaron a casarse con su hijo de 20 y la mandaron a mendigar Tendencia de Noticias",
-      "published": "Tue, 08 Sep 2026 10:26:00 GMT",
+      "title": "Janira, la joven gitana que inicia la universidad con un sueño: \"Quiero trabajar en la UE\" - Infobae",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/09/janira-la-joven-gitana-que-inicia-la-universidad-con-un-sueno-quiero-trabajar-en-la-ue/?outputType=amp-type",
+      "source": "Infobae",
+      "snippet": "Janira, la joven gitana que inicia la universidad con un sueño: \"Quiero trabajar en la UE\" Infobae",
+      "published": "Wed, 09 Sep 2026 04:19:50 GMT",
       "lang": "es"
     },
     {
-      "title": "Diez años de prisión para una familia por obligar a casarse y explotar a una nena de 13 años - C5N",
-      "url": "https://www.c5n.com/sociedad/diez-anos-prision-una-familia-obligar-casarse-y-explotar-una-nena-13-anos-n248198",
-      "source": "C5N",
-      "snippet": "Diez años de prisión para una familia por obligar a casarse y explotar a una nena de 13 años C5N",
-      "published": "Mon, 07 Sep 2026 00:14:00 GMT",
+      "title": "Sevilla dedica una calle a Sebastián Miguel de Varas, fundador de Los Gitanos - Andalucía Información",
+      "url": "https://www.andaluciainformacion.es/articulo/la-pasion/sevilla-dedica-calle-sebastian-miguel-varas-fundador-gitanos/202609081739043471453.html",
+      "source": "Andalucía Información",
+      "snippet": "Sevilla dedica una calle a Sebastián Miguel de Varas, fundador de Los Gitanos Andalucía Información",
+      "published": "Tue, 08 Sep 2026 15:39:04 GMT",
       "lang": "es"
     },
     {
-      "title": "Mucho más que una corona: una iniciativa de inclusión y nuevas oportunidades - Diario de Sevilla",
-      "url": "https://www.diariodesevilla.es/videos/video-corona-iniciativa-inclusion-nuevas-oportunidades_8_2007893125.html",
-      "source": "Diario de Sevilla",
-      "snippet": "Mucho más que una corona: una iniciativa de inclusión y nuevas oportunidades Diario de Sevilla",
-      "published": "Mon, 07 Sep 2026 07:40:22 GMT",
+      "title": "El pueblo gitano realza el valor de la convivencia en su Día Internacional - Extra Jaén",
+      "url": "https://extrajaen.com/jaen/el-pueblo-gitano-realza-el-valor-de-la-convivencia-en-su-dia-internacional",
+      "source": "Extra Jaén",
+      "snippet": "El pueblo gitano realza el valor de la convivencia en su Día Internacional Extra Jaén",
+      "published": "Mon, 07 Sep 2026 15:58:17 GMT",
       "lang": "es"
     },
     {
-      "title": "Sevilla incorpora a su callejero a Sebastián Miguel de Varas y Miranda, fundador de la Hermandad de los Gitanos - Gente de Paz",
-      "url": "https://www.gentedepaz.es/sevilla-incorpora-a-su-callejero-a-sebastian-miguel-de-varas-y-miranda-fundador-de-la-hermandad-de-los-gitanos/",
-      "source": "Gente de Paz",
-      "snippet": "Sevilla incorpora a su callejero a Sebastián Miguel de Varas y Miranda, fundador de la Hermandad de los Gitanos Gente de Paz",
-      "published": "Tue, 08 Sep 2026 09:02:50 GMT",
+      "title": "Cambio Virgen del Valle 08-09-2026 (6) - Hermandad de los Gitanos",
+      "url": "https://www.hermandaddelosgitanos.com/la-virgen-del-valle-preparada-para-su-festividad/cambio-virgen-del-valle-08-09-2026-6/",
+      "source": "Hermandad de los Gitanos",
+      "snippet": "Cambio Virgen del Valle 08-09-2026 (6) Hermandad de los Gitanos",
+      "published": "Mon, 07 Sep 2026 20:47:19 GMT",
       "lang": "es"
     },
     {
-      "title": "Installations illicites de gens du voyage : trois sénateurs LR répondent aux critiques - lejdd.fr",
-      "url": "https://www.lejdd.fr/politique/installations-illicites-de-gens-du-voyage-trois-senateurs-lr-repondent-aux-critiques-182910",
-      "source": "lejdd.fr",
-      "snippet": "Installations illicites de gens du voyage : trois sénateurs LR répondent aux critiques lejdd.fr",
-      "published": "Tue, 08 Sep 2026 10:45:04 GMT",
+      "title": "Morteau - “Face aux gens du voyage, on se trouve complètement démunis” - La Presse du Doubs",
+      "url": "https://www.lapressedudoubs.fr/morteau-face-aux-gens-du-voyage-on-se-trouve-completement-demunis/",
+      "source": "La Presse du Doubs",
+      "snippet": "Morteau - “Face aux gens du voyage, on se trouve complètement démunis” La Presse du Doubs",
+      "published": "Wed, 09 Sep 2026 10:28:27 GMT",
       "lang": "fr"
     },
     {
-      "title": "Des gens du voyage s'installent illégalement dans une zone économique en plein aménagement, près de Toulouse - Actu.fr",
-      "url": "https://actu.fr/occitanie/balma_31044/des-gens-du-voyage-s-installent-illegalement-dans-une-zone-economique-en-plein-amenagement-pres-de-toulouse_64759594.html",
-      "source": "Actu.fr",
-      "snippet": "Des gens du voyage s'installent illégalement dans une zone économique en plein aménagement, près de Toulouse Actu.fr",
-      "published": "Tue, 08 Sep 2026 11:04:40 GMT",
+      "title": "Gens du voyage : « Leur présence ne doit plus passer par des aires d’accueil glauques », Philippe Buisson, le maire de Libourne, répond à Gabriel Attal - Sud Ouest",
+      "url": "https://www.sudouest.fr/societe/gens-du-voyage-leur-presence-ne-doit-plus-passer-par-des-aires-d-accueil-glauques-philippe-buisson-le-maire-de-libourne-repond-a-gabriel-attal-30191491.php",
+      "source": "Sud Ouest",
+      "snippet": "Gens du voyage : « Leur présence ne doit plus passer par des aires d’accueil glauques », Philippe Buisson, le maire de Libourne, répond à Gabriel Attal Sud Ouest",
+      "published": "Wed, 09 Sep 2026 04:44:47 GMT",
       "lang": "fr"
     },
     {
-      "title": "Launaguet. Installation de gens du voyage: dialogue et fermeté - ladepeche.fr",
-      "url": "https://www.ladepeche.fr/2026/09/08/installation-de-gens-du-voyage-dialogue-et-fermete-13540399.php",
-      "source": "ladepeche.fr",
-      "snippet": "Launaguet. Installation de gens du voyage: dialogue et fermeté ladepeche.fr",
-      "published": "Tue, 08 Sep 2026 03:14:00 GMT",
+      "title": "Bientôt expulsées ? Le point sur la situation des familles roms de la rue de la Bassée à Lille - La Voix du Nord",
+      "url": "https://www.lavoixdunord.fr/1735504/article/2026-09-09/bientot-expulsees-le-point-sur-la-situation-des-familles-roms-de-la-rue-de-la",
+      "source": "La Voix du Nord",
+      "snippet": "Bientôt expulsées ? Le point sur la situation des familles roms de la rue de la Bassée à Lille La Voix du Nord",
+      "published": "Wed, 09 Sep 2026 05:29:00 GMT",
       "lang": "fr"
     },
     {
-      "title": "Les caravanes des gens du voyage sont parties dans cette commune du sud de l’agglomération nantaise - Ouest-France",
-      "url": "https://www.ouest-france.fr/pays-de-la-loire/les-sorinieres-44840/les-caravanes-des-gens-du-voyage-sont-parties-dans-cette-commune-du-sud-de-lagglomeration-nantaise-7fa0c642-aade-11f1-a3f7-c4f38a0eaa1c",
-      "source": "Ouest-France",
-      "snippet": "Les caravanes des gens du voyage sont parties dans cette commune du sud de l’agglomération nantaise Ouest-France",
-      "published": "Mon, 07 Sep 2026 17:59:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Gens du voyage sur la zone commerciale : « La coupe est pleine ! », les commerçants de la galerie exaspérés - republicain-lorrain.fr",
-      "url": "https://www.republicain-lorrain.fr/economie/2026/09/07/gens-du-voyage-sur-la-zone-commerciale-des-tensions-et-un-casse-tete",
-      "source": "republicain-lorrain.fr",
-      "snippet": "Gens du voyage sur la zone commerciale : « La coupe est pleine ! », les commerçants de la galerie exaspérés republicain-lorrain.fr",
-      "published": "Mon, 07 Sep 2026 16:31:37 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Deux lecteurs dialoguent sur la perception des gens du voyage - lanouvellerepublique.fr",
-      "url": "https://www.lanouvellerepublique.fr/france-monde/deux-lecteurs-dialoguent-sur-la-perception-des-gens-du-voyage-1788785167",
+      "title": "Nouvelle arrivée de gens du voyage à Mignaloux-Beauvoir : les installations illicites sont en hausse dans la Vienne - lanouvellerepublique.fr",
+      "url": "https://www.lanouvellerepublique.fr/vienne/commune/mignaloux-beauvoir/nouvelle-arrivee-de-gens-du-voyage-a-mignaloux-beauvoir-les-installations-illicites-sont-en-hausse-dans-la-vienne-1788889951",
       "source": "lanouvellerepublique.fr",
-      "snippet": "Deux lecteurs dialoguent sur la perception des gens du voyage lanouvellerepublique.fr",
-      "published": "Mon, 07 Sep 2026 16:00:00 GMT",
+      "snippet": "Nouvelle arrivée de gens du voyage à Mignaloux-Beauvoir : les installations illicites sont en hausse dans la Vienne lanouvellerepublique.fr",
+      "published": "Tue, 08 Sep 2026 17:52:31 GMT",
       "lang": "fr"
     },
     {
-      "title": "Les caravanes des gens du voyage sont parties dans cette commune du sud de l’agglomération - MaVille.com",
-      "url": "https://nantes.maville.com/actu/actudet_-les-caravanes-des-gens-du-voyage-sont-parties-dans-cette-commune-du-sud-de-l-agglomeration-nantaise_dep-7468391_actu.Htm",
-      "source": "MaVille.com",
-      "snippet": "Les caravanes des gens du voyage sont parties dans cette commune du sud de l’agglomération MaVille.com",
-      "published": "Mon, 07 Sep 2026 17:59:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Lure. Les gens du voyage relogés provisoirement sur l’aire du Tertre - L'Est Républicain",
-      "url": "https://www.estrepublicain.fr/faits-divers-justice/2026/09/07/les-gens-du-voyage-reloges-provisoirement-sur-l-aire-du-tertre",
-      "source": "L'Est Républicain",
-      "snippet": "Lure. Les gens du voyage relogés provisoirement sur l’aire du Tertre L'Est Républicain",
-      "published": "Mon, 07 Sep 2026 16:16:40 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Le Pen cible les voilées, Attal les Roms, Philippe et Retailleau les migrants - blogs.mediapart.fr",
-      "url": "https://blogs.mediapart.fr/zeropertinence/blog/080926/le-pen-cible-les-voilees-attal-les-roms-philippe-et-retailleau-les-migrants",
-      "source": "blogs.mediapart.fr",
-      "snippet": "Le Pen cible les voilées, Attal les Roms, Philippe et Retailleau les migrants blogs.mediapart.fr",
-      "published": "Tue, 08 Sep 2026 05:07:32 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Il a été tué par la police » : libérés de leur garde à vue, des gens du voyage persistent et signent après la mort de Lapin - Le Parisien",
-      "url": "https://www.leparisien.fr/oise-60/il-a-ete-tue-par-la-police-liberes-de-leur-garde-a-vue-des-gens-du-voyage-persistent-et-signent-apres-la-mort-de-lapin-07-09-2026-2CC5LCI6FNBRHM376HT32PFWDI.php",
-      "source": "Le Parisien",
-      "snippet": "Il a été tué par la police » : libérés de leur garde à vue, des gens du voyage persistent et signent après la mort de Lapin Le Parisien",
-      "published": "Mon, 07 Sep 2026 17:20:31 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Feu à l’aire d’accueil des gens du voyage de Condom, trois cabanonssanitaires incendiés - hit-radio.fr",
-      "url": "https://hit-radio.fr/news/feu-a-l-aire-d-accueil-des-gens-du-voyage-de-condom-trois-cabanonssanitaires-incendies-5979",
-      "source": "hit-radio.fr",
-      "snippet": "Feu à l’aire d’accueil des gens du voyage de Condom, trois cabanonssanitaires incendiés hit-radio.fr",
-      "published": "Mon, 07 Sep 2026 08:11:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "\"Ce dossier n’est ni fait ni à faire\" : poursuivi pour plusieurs tentatives de vol dans des exploitations agricoles, ce ferrailleur de la communauté des gens du voyage est relaxé - ladepeche.fr",
-      "url": "https://www.ladepeche.fr/2026/09/08/ce-dossier-nest-ni-fait-ni-a-faire-poursuivi-pour-plusieurs-tentatives-de-vol-dans-des-exploitations-agricoles-ce-ferrailleur-de-la-communaute-des-13532745.php",
-      "source": "ladepeche.fr",
-      "snippet": "\"Ce dossier n’est ni fait ni à faire\" : poursuivi pour plusieurs tentatives de vol dans des exploitations agricoles, ce ferrailleur de la communauté des gens du voyage est relaxé ladepeche.fr",
-      "published": "Tue, 08 Sep 2026 04:42:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "« Les gens du voyage ont payé et rendu le terrain propre » : ce maire de la Manche répond aux critiques - Actu.fr",
-      "url": "https://actu.fr/normandie/port-bail-sur-mer_50412/les-gens-du-voyage-ont-paye-et-rendu-le-terrain-propre-ce-maire-de-la-manche-repond-aux-critiques_64759023.html",
+      "title": "Près de 50 caravanes des gens du voyage le long de la route entre Tours et Chinon : la procédure d'expulsion est lancée - Actu.fr",
+      "url": "https://actu.fr/centre-val-de-loire/azay-le-rideau_37014/pres-de-50-caravanes-des-gens-du-voyage-sur-la-route-entre-tours-et-chinon-la-procedure-dexpulsion-est-lancee_64763760.html",
       "source": "Actu.fr",
-      "snippet": "« Les gens du voyage ont payé et rendu le terrain propre » : ce maire de la Manche répond aux critiques Actu.fr",
-      "published": "Mon, 07 Sep 2026 16:10:51 GMT",
+      "snippet": "Près de 50 caravanes des gens du voyage le long de la route entre Tours et Chinon : la procédure d'expulsion est lancée Actu.fr",
+      "published": "Tue, 08 Sep 2026 15:40:05 GMT",
       "lang": "fr"
     },
     {
-      "title": "Après une altercation avec des gens du voyage près de Rouen, un homme arrêté en train de préparer des cocktails molotov - Actu.fr",
-      "url": "https://actu.fr/normandie/tourville-la-riviere_76705/apres-une-altercation-avec-des-gens-du-voyage-pres-de-rouen-un-homme-arrete-en-train-de-preparer-des-cocktails-molotov_64757993.html",
+      "title": "La police attaque un porte-parole des gens du voyage pour son discours à Margny-lès-Compiègne - EVASION",
+      "url": "https://www.evasionfm.com/la-police-attaque-un-porte-parole-des-gens-du-voyage-pour-son-discours-a-margny-les-compiegne",
+      "source": "EVASION",
+      "snippet": "La police attaque un porte-parole des gens du voyage pour son discours à Margny-lès-Compiègne EVASION",
+      "published": "Tue, 08 Sep 2026 14:51:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "\"Ma prairie est saccagée\" : la colère d’un agriculteur après l’installation illégale de gens du voyage à Azay-le-Rideau - lanouvellerepublique.fr",
+      "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/azay-le-rideau/ma-prairie-est-saccagee-la-colere-d-un-agriculteur-apres-l-installation-illegale-de-gens-du-voyage-a-azay-le-rideau-1788892054",
+      "source": "lanouvellerepublique.fr",
+      "snippet": "\"Ma prairie est saccagée\" : la colère d’un agriculteur après l’installation illégale de gens du voyage à Azay-le-Rideau lanouvellerepublique.fr",
+      "published": "Tue, 08 Sep 2026 18:27:34 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Commentez sur l'article \"Actu Tours - Près de 50 caravanes des gens du voyage le long de la route entre Tours et Chinon : la procédure d'expulsion est lancée\" - Actu.fr",
+      "url": "https://actu.fr/espace-debat/commentaires/64763760/",
       "source": "Actu.fr",
-      "snippet": "Après une altercation avec des gens du voyage près de Rouen, un homme arrêté en train de préparer des cocktails molotov Actu.fr",
-      "published": "Mon, 07 Sep 2026 15:46:24 GMT",
+      "snippet": "Commentez sur l'article \"Actu Tours - Près de 50 caravanes des gens du voyage le long de la route entre Tours et Chinon : la procédure d'expulsion est lancée\" Actu.fr",
+      "published": "Tue, 08 Sep 2026 17:40:08 GMT",
       "lang": "fr"
     },
     {
-      "title": "\"La police ne nous a pas respectés\" : après l'hommage des gens du voyage, Ritchy Thibault sorti de garde à vue - Actu.fr",
-      "url": "https://actu.fr/hauts-de-france/margny-les-compiegne_60382/la-police-ne-nous-a-pas-respectes-apres-l-hommage-des-gens-du-voyage-ritchy-thibault-sorti-de-garde-a-vue_64758192.html",
-      "source": "Actu.fr",
-      "snippet": "\"La police ne nous a pas respectés\" : après l'hommage des gens du voyage, Ritchy Thibault sorti de garde à vue Actu.fr",
-      "published": "Mon, 07 Sep 2026 15:29:39 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "\"Zäsur\", \"Beben\", \"Dammbruch\": So reagiert BW auf die Landtagswahl in Sachsen-Anhalt - SWR",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/landtagswahl-sachsen-anhalt-2026-reaktionen-afd-wahlsieg-wahlergebnisse-100.html",
-      "source": "SWR",
-      "snippet": "\"Zäsur\", \"Beben\", \"Dammbruch\": So reagiert BW auf die Landtagswahl in Sachsen-Anhalt SWR",
-      "published": "Sun, 06 Sep 2026 17:43:34 GMT",
+      "title": "Ausstellung: \"Aus Niedersachsen nach Auschwitz\" (Mi., 09.09.2026, 08:00 - 20:00 Uhr) - Stadt Melle",
+      "url": "https://www.melle.info/regional/veranstaltungen/ausstellung-aus-niedersachsen-nach-auschwitz-921379719-20301.html",
+      "source": "Stadt Melle",
+      "snippet": "Ausstellung: \"Aus Niedersachsen nach Auschwitz\" (Mi., 09.09.2026, 08:00 - 20:00 Uhr) Stadt Melle",
+      "published": "Tue, 08 Sep 2026 03:30:20 GMT",
       "lang": "de"
     },
     {
       "title": "Nach AfD-Wahlerfolg: Darum fordert die BW-SPD einen Kurswechsel in der Ukraine-Politik - SWR",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/nach-sachsen-anhalt-wahl-2026-spd-landeschefin-dringt-auf-neuausrichtung-der-ukraine-politik-ruestung-100.html",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/nach-sachsen-anhalt-wahl-spd-ruestung-100.html",
       "source": "SWR",
       "snippet": "Nach AfD-Wahlerfolg: Darum fordert die BW-SPD einen Kurswechsel in der Ukraine-Politik SWR",
-      "published": "Mon, 07 Sep 2026 11:47:59 GMT",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
       "lang": "de"
     },
     {
-      "title": "\"Eine Katastrophe\" - so reagieren Menschen aus BW auf den AfD-Wahlsieg in Sachsen-Anhalt - SWR",
-      "url": "https://www.swr.de/swraktuell/afd-wahlsieg-auswirkungen-aus-baden-wuerttemberg-staedtepartnerschaften-100.html",
-      "source": "SWR",
-      "snippet": "\"Eine Katastrophe\" - so reagieren Menschen aus BW auf den AfD-Wahlsieg in Sachsen-Anhalt SWR",
-      "published": "Mon, 07 Sep 2026 18:03:09 GMT",
+      "title": "Französischer Regisseur Tony Gatlif verstorben - VOL.AT",
+      "url": "https://www.vol.at/franzoesischer-regisseur-tony-gatlif-ist-tot/10442117",
+      "source": "VOL.AT",
+      "snippet": "Französischer Regisseur Tony Gatlif verstorben VOL.AT",
+      "published": "Mon, 07 Sep 2026 20:39:06 GMT",
       "lang": "de"
     },
     {
-      "title": "Почина певицата Джансевер Далипова - Bgonair",
-      "url": "https://www.bgonair.bg/a/4-world/426833-pochina-pevitsata-dzhansever-dalipova",
-      "source": "Bgonair",
-      "snippet": "Почина певицата Джансевер Далипова Bgonair",
-      "published": "Tue, 08 Sep 2026 04:04:00 GMT",
+      "title": "Съборът в Кривини набра над 67 хиляди евро за благотворителност при първото си издание - Утро Русе",
+      "url": "https://utroruse.com/amp/1316548/",
+      "source": "Утро Русе",
+      "snippet": "Съборът в Кривини набра над 67 хиляди евро за благотворителност при първото си издание Утро Русе",
+      "published": "Wed, 09 Sep 2026 07:34:29 GMT",
       "lang": "bg"
     },
     {
-      "title": "Този Див Северозапад! Роми се млатиха на сватба в Монтанско, полицията ги укроти - BulNews",
-      "url": "https://www.bulnews.bg/article/517289",
-      "source": "BulNews",
-      "snippet": "Този Див Северозапад! Роми се млатиха на сватба в Монтанско, полицията ги укроти BulNews",
-      "published": "Tue, 08 Sep 2026 09:54:00 GMT",
-      "lang": "bg"
-    },
-    {
-      "title": "От последните минути! Блъснаха пешеходка в Благоевград, полиция и Спешна помощ са на място - Струма",
-      "url": "https://www.struma.com/obshtestvo/ot-poslednite-minuti-blusnaha-peshehodka-v-blagoevgrad-policiya-i-speshna_249224/",
+      "title": "Общество - РЗИ: Водата в Струмяни, Микрево, Илинденци и Драката е годна за пиене - Струма",
+      "url": "https://www.struma.com/obshtestvo/rzi-vodata-v-strumyani-mikrevo-ilindenci-i-drakata-e-godna_249267/",
       "source": "Струма",
-      "snippet": "От последните минути! Блъснаха пешеходка в Благоевград, полиция и Спешна помощ са на място Струма",
-      "published": "Mon, 07 Sep 2026 15:55:00 GMT",
+      "snippet": "Общество - РЗИ: Водата в Струмяни, Микрево, Илинденци и Драката е годна за пиене Струма",
+      "published": "Tue, 08 Sep 2026 15:28:00 GMT",
       "lang": "bg"
     },
     {
-      "title": "Δράσεις στήριξης ευάλωτων ομάδων - eleftheria.gr",
-      "url": "https://www.eleftheria.gr/larisa/draseis-stirixis-evaloton-omadon/",
-      "source": "eleftheria.gr",
-      "snippet": "Δράσεις στήριξης ευάλωτων ομάδων eleftheria.gr",
-      "published": "Tue, 08 Sep 2026 07:20:34 GMT",
+      "title": "Див екшън! Непълнолетен врачанин преби мъж посред бял ден, МВР нищи случая - BulNews",
+      "url": "https://www.bulnews.bg/article/517342",
+      "source": "BulNews",
+      "snippet": "Див екшън! Непълнолетен врачанин преби мъж посред бял ден, МВР нищи случая BulNews",
+      "published": "Wed, 09 Sep 2026 07:52:00 GMT",
+      "lang": "bg"
+    },
+    {
+      "title": "Τρόμος στον περιφερειακό του Βόλου-Πιτσιρικάδες ρομά πετούσαν πέτρες σε διερχόμενα αυτοκίνητα!! - RadioVera.gr",
+      "url": "https://www.radiovera.gr/2026/09/08/tromos-ston-perifereiako-tou-volou-pitsirikades-roma-petousan-petres-se-dierchomena-aftokinita/",
+      "source": "RadioVera.gr",
+      "snippet": "Τρόμος στον περιφερειακό του Βόλου-Πιτσιρικάδες ρομά πετούσαν πέτρες σε διερχόμενα αυτοκίνητα!! RadioVera.gr",
+      "published": "Tue, 08 Sep 2026 18:55:13 GMT",
       "lang": "el"
     },
     {
-      "title": "Ο καιρός του Τσιγγάνου Τόνι Γκατλίφ - Documento - Documento",
-      "url": "https://www.documentonews.gr/article/o-kairos-tou-tsinganou-toni-gkatlif/amp/",
-      "source": "Documento",
-      "snippet": "Ο καιρός του Τσιγγάνου Τόνι Γκατλίφ - Documento Documento",
-      "published": "Mon, 07 Sep 2026 16:10:25 GMT",
+      "title": "Απόδραση 26χρονου κρατουμένου από το Εφετείο Αθηνών - ertnews.gr",
+      "url": "https://www.ertnews.gr/eidiseis/ellada/apodrasi-26xronou-kratoumenou-apo-to-efeteio-athinon/?amp",
+      "source": "ertnews.gr",
+      "snippet": "Απόδραση 26χρονου κρατουμένου από το Εφετείο Αθηνών ertnews.gr",
+      "published": "Wed, 09 Sep 2026 03:47:14 GMT",
       "lang": "el"
     },
     {
-      "title": "Θεσσαλία: Δράση 1,8 εκατ. ευρώ για παιδιά Ρομά - eleftheria.gr",
-      "url": "https://www.eleftheria.gr/thessalia/thessalia-drasi-18-ekat-evro-gia-paidia-roma/",
-      "source": "eleftheria.gr",
-      "snippet": "Θεσσαλία: Δράση 1,8 εκατ. ευρώ για παιδιά Ρομά eleftheria.gr",
-      "published": "Mon, 07 Sep 2026 14:30:02 GMT",
+      "title": "Λαμία: Του είπαν ότι τον «σκανάρει δορυφόρος της Εφορίας» – Ο 67χρονος τους έστειλε στο νεκροταφείο για… πέτρες και καλαμπόκια - NeaKriti",
+      "url": "https://www.neakriti.gr/koinonia/2198618_lamia-toy-eipan-oti-ton-skanarei-doryforos-tis-eforias-o-67hronos-toys-esteile-sto?amp",
+      "source": "NeaKriti",
+      "snippet": "Λαμία: Του είπαν ότι τον «σκανάρει δορυφόρος της Εφορίας» – Ο 67χρονος τους έστειλε στο νεκροταφείο για… πέτρες και καλαμπόκια NeaKriti",
+      "published": "Mon, 07 Sep 2026 17:52:36 GMT",
       "lang": "el"
     },
     {
-      "title": "Τραγωδία στον Πύργο: Νεκρός 17χρονος σε τροχαίο - typosthes.gr",
-      "url": "https://www.typosthes.gr/ellada/441337_tragodia-ston-pyrgo-nekros-17hronos-se-trohaio",
-      "source": "typosthes.gr",
-      "snippet": "Τραγωδία στον Πύργο: Νεκρός 17χρονος σε τροχαίο typosthes.gr",
-      "published": "Mon, 07 Sep 2026 18:35:00 GMT",
+      "title": "ΑΠΟΤΡΟΠΙΑΣΜΟΣ ΡΟΜΑ ΕΠΙΤΕΘΗΚΑΝ ΣΕ ΔΟΜΗ ΗΛΙΚΙΩΜΕΝΩΝ - tastv",
+      "url": "https://www.tastv.gr/article/apotropiasmos-roma-epitethikan-se-domi-ilikiomenon",
+      "source": "tastv",
+      "snippet": "ΑΠΟΤΡΟΠΙΑΣΜΟΣ ΡΟΜΑ ΕΠΙΤΕΘΗΚΑΝ ΣΕ ΔΟΜΗ ΗΛΙΚΙΩΜΕΝΩΝ tastv",
+      "published": "Mon, 07 Sep 2026 17:24:35 GMT",
       "lang": "el"
     },
     {
-      "title": "Τραγωδία στον Πύργο: 17χρονος επιβάτης αυτοκινήτου ο νεκρός στη σφοδρή καραμπόλα - 4 οι τραυματίες - Thestival",
-      "url": "https://www.thestival.gr/eidiseis/astynomika/tragodia-ston-pyrgo-17chronos-epivatis-a/",
-      "source": "Thestival",
-      "snippet": "Τραγωδία στον Πύργο: 17χρονος επιβάτης αυτοκινήτου ο νεκρός στη σφοδρή καραμπόλα - 4 οι τραυματίες Thestival",
-      "published": "Mon, 07 Sep 2026 18:40:00 GMT",
+      "title": "Δύο συλλήψεις σε καταυλισμούς Ρομά σε Καλαμάτα και Οιχαλία - ΕΛΕΥΘΕΡΙΑ Online",
+      "url": "https://eleftheriaonline.gr/local/koinonia/astynomika/item/359828-dyo-syllipseis-se-katavlismoys-roma-se-kalamata-kai-oixalia",
+      "source": "ΕΛΕΥΘΕΡΙΑ Online",
+      "snippet": "Δύο συλλήψεις σε καταυλισμούς Ρομά σε Καλαμάτα και Οιχαλία ΕΛΕΥΘΕΡΙΑ Online",
+      "published": "Wed, 09 Sep 2026 09:45:04 GMT",
       "lang": "el"
     },
     {
-      "title": "Πάτρα: Σοκ και οργή – Άγριος ξυλοδαρμός ηλικιωμένων στο σπίτι τους – Τους άφησαν αιμόφυρτους - PatraPress.gr",
-      "url": "https://patrapress.gr/patra-sok-kai-orgi-agrios-xylodarmos-ilikiomenon-sto-spiti-tous-tous-afisan-aimofyrtous/",
-      "source": "PatraPress.gr",
-      "snippet": "Πάτρα: Σοκ και οργή – Άγριος ξυλοδαρμός ηλικιωμένων στο σπίτι τους – Τους άφησαν αιμόφυρτους PatraPress.gr",
-      "published": "Sun, 06 Sep 2026 19:47:20 GMT",
+      "title": "Εξαφάνιση 39χρονης στη Λάρισα: Η γνωριμία της με Ρομά και οι φωτογραφίες στη Ρουμανία - kosmoslarissa.gr",
+      "url": "https://kosmoslarissa.gr/topika/%CE%B5%CE%BE%CE%B1%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7-39%CF%87%CF%81%CE%BF%CE%BD%CE%B7%CF%82-%CF%83%CF%84%CE%B7-%CE%BB%CE%AC%CF%81%CE%B9%CF%83%CE%B1-%CE%B7-%CE%B3%CE%BD%CF%89%CF%81%CE%B9%CE%BC%CE%AF/",
+      "source": "kosmoslarissa.gr",
+      "snippet": "Εξαφάνιση 39χρονης στη Λάρισα: Η γνωριμία της με Ρομά και οι φωτογραφίες στη Ρουμανία kosmoslarissa.gr",
+      "published": "Wed, 09 Sep 2026 06:10:24 GMT",
       "lang": "el"
     },
     {
-      "title": "Συνελήφθη 36χρονος Ρομά για τέσσερις κλοπές σε σπίτια χωριών της Ρόδου - Η ΡΟΔΙΑΚΗ",
-      "url": "https://www.rodiaki.gr/article/553225/synelhfthh-36xronos-roma-gia-tesseris-klopes-se-spitia-xwriwn-ths-rodoy",
-      "source": "Η ΡΟΔΙΑΚΗ",
-      "snippet": "Συνελήφθη 36χρονος Ρομά για τέσσερις κλοπές σε σπίτια χωριών της Ρόδου Η ΡΟΔΙΑΚΗ",
-      "published": "Tue, 08 Sep 2026 09:30:08 GMT",
+      "title": "Συναγερμός στο Εφετείο Αθηνών: Απέδρασε 26χρονος Ρομά – Ανθρωποκυνηγητό για τον εντοπισμό του - Η Βραδυνή",
+      "url": "https://www.vradini.gr/ellada/synagermos-sto-efeteio-athinon-apedrase-26xronos-roma-anthropokynigito-gia-ton-entopismo-toy/1669334/",
+      "source": "Η Βραδυνή",
+      "snippet": "Συναγερμός στο Εφετείο Αθηνών: Απέδρασε 26χρονος Ρομά – Ανθρωποκυνηγητό για τον εντοπισμό του Η Βραδυνή",
+      "published": "Tue, 08 Sep 2026 16:54:03 GMT",
       "lang": "el"
     },
     {
-      "title": "Λαμία: Ανήλικοι μπήκαν σε παιδικό σταθμό και άρπαξαν την τσάντα της Διευθύντριας - libre.gr",
-      "url": "https://www.libre.gr/2026/09/08/lamia-anilikoi-bikan-se-paidiko-stath/",
-      "source": "libre.gr",
-      "snippet": "Λαμία: Ανήλικοι μπήκαν σε παιδικό σταθμό και άρπαξαν την τσάντα της Διευθύντριας libre.gr",
-      "published": "Tue, 08 Sep 2026 09:22:00 GMT",
+      "title": "Κρατούμενος Ρομά απόδρασε από το Εφετείο Αθηνών, αναζητείται από τις Αρχές - difernews.gr",
+      "url": "https://difernews.gr/kratoumenos-apedrase-apo-to-efeteio-athinon-anaziteitai-apo-tis-arches/",
+      "source": "difernews.gr",
+      "snippet": "Κρατούμενος Ρομά απόδρασε από το Εφετείο Αθηνών, αναζητείται από τις Αρχές difernews.gr",
+      "published": "Wed, 09 Sep 2026 04:47:38 GMT",
       "lang": "el"
     },
     {
-      "title": "Αστυνομικές επιχειρήσεις σε οικισμούς Ρομά | 10 συλλήψεις σε Αργολίδα-Κορινθία-Μεσσηνία - ArgolidaPortal",
-      "url": "https://www.argolidaportal.gr/news/117056/astynomikes-epiheiriseis-se-oikismoys-roma-10-syllipseis-se-argolida-korinthia-messinia",
-      "source": "ArgolidaPortal",
-      "snippet": "Αστυνομικές επιχειρήσεις σε οικισμούς Ρομά | 10 συλλήψεις σε Αργολίδα-Κορινθία-Μεσσηνία ArgolidaPortal",
-      "published": "Tue, 08 Sep 2026 10:02:39 GMT",
+      "title": "Κλειστό για το κοινό το Κέντρο Κοινότητας Δήμου Αργοστολιού με παράρτημα Ρομά στις 10 και 11 Σεπτεμβρίου, λόγω εκδηλώσεων - kefaloniapress.gr",
+      "url": "https://www.kefaloniapress.gr/deltia-typoy/article/897086/kleisto-gia-to-koino-to-kentro-koinotitas-dimoy-ar-2/",
+      "source": "kefaloniapress.gr",
+      "snippet": "Κλειστό για το κοινό το Κέντρο Κοινότητας Δήμου Αργοστολιού με παράρτημα Ρομά στις 10 και 11 Σεπτεμβρίου, λόγω εκδηλώσεων kefaloniapress.gr",
+      "published": "Wed, 09 Sep 2026 09:00:15 GMT",
       "lang": "el"
     },
     {
-      "title": "Κιλκίς: Συνελήφθη Ρομά που προσποιήθηκε τον λογιστή για να αρπάξει χρήματα και κοσμήματα - lawandorder.gr",
-      "url": "https://lawandorder.gr/kilkis-synelifthi-roma-pou-prospoiithike-ton-logisti-gia-na-arpaxei-chrimata-kai-kosmimata/",
-      "source": "lawandorder.gr",
-      "snippet": "Κιλκίς: Συνελήφθη Ρομά που προσποιήθηκε τον λογιστή για να αρπάξει χρήματα και κοσμήματα lawandorder.gr",
-      "published": "Tue, 08 Sep 2026 11:08:48 GMT",
+      "title": "26χρονος Ρομά απέδρασε από το Εφετείο Αθηνών – Τεράστια κινητοποίηση της αστυνομίας για τον εντοπισμό του - Pronews.gr",
+      "url": "https://www.pronews.gr/amyna-asfaleia/esoteriki-asfaleia/26xronos-roma-apedrase-apo-to-efeteio-athinon-terastia-kinitopoiisi-tis-astynomias-gia-ton-entopismo-tou/",
+      "source": "Pronews.gr",
+      "snippet": "26χρονος Ρομά απέδρασε από το Εφετείο Αθηνών – Τεράστια κινητοποίηση της αστυνομίας για τον εντοπισμό του Pronews.gr",
+      "published": "Tue, 08 Sep 2026 13:10:14 GMT",
       "lang": "el"
     },
     {
-      "title": "Συνελήφθη 36χρονος Ρομά στη Ρόδο για τέσσερις κλοπές – Άρπαξε κοσμήματα και χρήματα άνω των 37.000 ευρώ - proodos.com.gr",
-      "url": "https://proodos.com.gr/police-news/synelifthi-36chronos-roma-sti-rodo-gia-tesseris-klopes-arpaxe-kosmimata-kai-chrimata-ano-ton-37-000-evro/",
-      "source": "proodos.com.gr",
-      "snippet": "Συνελήφθη 36χρονος Ρομά στη Ρόδο για τέσσερις κλοπές – Άρπαξε κοσμήματα και χρήματα άνω των 37.000 ευρώ proodos.com.gr",
-      "published": "Tue, 08 Sep 2026 07:43:48 GMT",
-      "lang": "el"
+      "title": "Romowie Seniorom i Osobom NIepełnosprawnym - UM Warszawa",
+      "url": "https://wlochy.um.warszawa.pl/waw/opswlochy/-/romowie-seniorom-i-osobom-niepelnosprawnym",
+      "source": "UM Warszawa",
+      "snippet": "Romowie Seniorom i Osobom NIepełnosprawnym UM Warszawa",
+      "published": "Tue, 08 Sep 2026 20:26:52 GMT",
+      "lang": "pl"
     },
     {
-      "title": "Θήβα: Δύο επιθέσεις από Ρομά με πέτρες σε γηροκομείο – Έσπασαν τζάμι δωματίου - happenednow.gr",
-      "url": "https://happenednow.gr/thiva-dyo-epitheseis-apo-roma-me-petres-se-girokomeio-espasan-tzami-domatiou/",
-      "source": "happenednow.gr",
-      "snippet": "Θήβα: Δύο επιθέσεις από Ρομά με πέτρες σε γηροκομείο – Έσπασαν τζάμι δωματίου happenednow.gr",
-      "published": "Mon, 07 Sep 2026 15:45:36 GMT",
-      "lang": "el"
-    },
-    {
-      "title": "Κρήτη: Οι Ρομά προσφεύγουν στη δικαιοσύνη μετά από κρούσμα λεπτοσπείρωσης σε 11χρονη: «Δεν γίνεται εν έτη 2026 να ζούμε με τα ποντίκια» - fonien.gr",
-      "url": "https://fonien.gr/kriti-oi-roma-prosfevgoun-sti-dikaiosyni-meta-apo-krousma-leptospeirosis-se-11chroni-den-ginetai-en-eti-2026-na-zoume-me-ta-pontikia/",
-      "source": "fonien.gr",
-      "snippet": "Κρήτη: Οι Ρομά προσφεύγουν στη δικαιοσύνη μετά από κρούσμα λεπτοσπείρωσης σε 11χρονη: «Δεν γίνεται εν έτη 2026 να ζούμε με τα ποντίκια» fonien.gr",
-      "published": "Sun, 06 Sep 2026 12:34:01 GMT",
-      "lang": "el"
-    },
-    {
-      "title": "Δίνονται 2.270.000€ σε έξι Δήμους όπου διαβιούν Ρομά - Fonografos.net",
-      "url": "https://fonografos.net/dinontai-2-270-000e-se-eksi-dimous-opou-diavioun-roma/",
-      "source": "Fonografos.net",
-      "snippet": "Δίνονται 2.270.000€ σε έξι Δήμους όπου διαβιούν Ρομά Fonografos.net",
-      "published": "Mon, 07 Sep 2026 06:48:21 GMT",
-      "lang": "el"
-    },
-    {
-      "title": "Papusza – romska poetka natury, pamięci i wolności. 6 niezwykłych wierszy, które poruszają do dziś - Zwierciadło",
-      "url": "https://zwierciadlo.pl/kultura/563076,1,papusza--romska-poetka-natury-pamieci-i-wolnosci-te-niezwykle-wiersze-poruszaja-do-dzis.read",
-      "source": "Zwierciadło",
-      "snippet": "Papusza – romska poetka natury, pamięci i wolności. 6 niezwykłych wierszy, które poruszają do dziś Zwierciadło",
-      "published": "Tue, 08 Sep 2026 08:38:44 GMT",
+      "title": "45 lat temu doszło w Koninie do pogromu Romów - Dzieje.pl",
+      "url": "https://dzieje.pl/wiadomosci/45-lat-temu-doszlo-w-koninie-do-pogromu-romow",
+      "source": "Dzieje.pl",
+      "snippet": "45 lat temu doszło w Koninie do pogromu Romów Dzieje.pl",
+      "published": "Wed, 09 Sep 2026 07:37:00 GMT",
       "lang": "pl"
     },
     {
       "title": "najstarsza rozśmieszająca strona w internecie - Joe Monster",
-      "url": "https://joemonster.org/p/2170012/album/",
+      "url": "https://joemonster.org/p/2170012",
       "source": "Joe Monster",
       "snippet": "najstarsza rozśmieszająca strona w internecie Joe Monster",
-      "published": "Mon, 07 Sep 2026 18:01:27 GMT",
+      "published": "Mon, 07 Sep 2026 17:46:21 GMT",
       "lang": "pl"
     },
     {
-      "title": "\"Entre nós, ciganos, e Mourinho não era preciso muito. Ele é como nós\" - Notícias ao Minuto",
-      "url": "https://www.noticiasaominuto.com/desporto/3048069/entre-nos-ciganos-e-mourinho-nao-era-preciso-muito-ele-e-como-nos",
-      "source": "Notícias ao Minuto",
-      "snippet": "\"Entre nós, ciganos, e Mourinho não era preciso muito. Ele é como nós\" Notícias ao Minuto",
-      "published": "Tue, 08 Sep 2026 11:19:25 GMT",
+      "title": "Płot twist: obydwaj to byli lokalni cyganie, którzy od lat \"dokuczali\"... (@PakaBaka) - Wykop",
+      "url": "https://wykop.pl/wpis/87552137/plot-twist-obydwaj-to-byli-lokalni-cyganie-ktorzy-",
+      "source": "Wykop",
+      "snippet": "Płot twist: obydwaj to byli lokalni cyganie, którzy od lat \"dokuczali\"... (@PakaBaka) Wykop",
+      "published": "Tue, 08 Sep 2026 11:22:54 GMT",
+      "lang": "pl"
+    },
+    {
+      "title": "Mostra de Dança Cigana da Casa Eliseu Voronkoff de Araucária está com inscrições abertas - Bem Paraná",
+      "url": "https://www.bemparana.com.br/cultura/mostra-de-danca-cigana-da-casa-eliseu-voronkoff-de-araucaria-esta-com-inscricoes-abertas/",
+      "source": "Bem Paraná",
+      "snippet": "Mostra de Dança Cigana da Casa Eliseu Voronkoff de Araucária está com inscrições abertas Bem Paraná",
+      "published": "Tue, 08 Sep 2026 18:10:00 GMT",
       "lang": "pt"
     },
     {
-      "title": "Criticado como cigano Igor, Ricardo Macchi conta quem o ajudou a virar o jogo em 'Explode Coração' - revistaquem.globo.com",
-      "url": "https://revistaquem.globo.com/google/amp/entretenimento/tv-e-novelas/noticia/2026/09/criticado-como-cigano-igor-ricardo-macchi-conta-quem-o-ajudou-a-virar-o-jogo-em-explode-coracao.ghtml",
-      "source": "revistaquem.globo.com",
-      "snippet": "Criticado como cigano Igor, Ricardo Macchi conta quem o ajudou a virar o jogo em 'Explode Coração' revistaquem.globo.com",
-      "published": "Mon, 07 Sep 2026 14:24:00 GMT",
+      "title": "Uneb abre mais de 5,5 mil vagas para Vestibular 2027 - Bahia Notícias",
+      "url": "https://www.bahianoticias.com.br/noticia/320866-uneb-abre-inscricoes-para-vestibular-2027-com-5497-vagas",
+      "source": "Bahia Notícias",
+      "snippet": "Uneb abre mais de 5,5 mil vagas para Vestibular 2027 Bahia Notícias",
+      "published": "Tue, 08 Sep 2026 15:40:00 GMT",
       "lang": "pt"
     },
     {
-      "title": "Ricardo Macchi, o eterno Cigano Igor, revela ajuda de Gracindo Jr durante fase difícil - NaTelinha",
-      "url": "https://natelinha.uol.com.br/amp/famosos/2026/09/07/ricardo-macchi-o-eterno-cigano-igor-revela-ajuda-de-gracindo-jr-durante-fase-dificil-247282.php",
-      "source": "NaTelinha",
-      "snippet": "Ricardo Macchi, o eterno Cigano Igor, revela ajuda de Gracindo Jr durante fase difícil NaTelinha",
-      "published": "Mon, 07 Sep 2026 16:49:48 GMT",
-      "lang": "pt"
-    },
-    {
-      "title": "Em busca da compreensão mundial (I) - O Regional",
-      "url": "https://www.oregional.com.br/noticias/em-busca-da-compreensao-mundial-i",
-      "source": "O Regional",
-      "snippet": "Em busca da compreensão mundial (I) O Regional",
-      "published": "Sun, 06 Sep 2026 19:00:09 GMT",
-      "lang": "pt"
-    },
-    {
-      "title": "Imprimir - Uneb lança edital com 5,4 mil vagas para vestibular de 2027 - Achei Sudoeste",
-      "url": "https://www.acheisudoeste.com.br/noticias/educacao/uneb-lanca-edital-com-5-4-mil-vagas-para-vestibular-de-2027/imprimir",
-      "source": "Achei Sudoeste",
-      "snippet": "Imprimir - Uneb lança edital com 5,4 mil vagas para vestibular de 2027 Achei Sudoeste",
-      "published": "Mon, 07 Sep 2026 15:30:00 GMT",
-      "lang": "pt"
-    },
-    {
-      "title": "Uneb abre edital do Vestibular 2027 com inscrições até 15 de setembro - Interior da Bahia",
-      "url": "https://interiordabahia.com.br/2026/09/07/uneb-abre-edital-do-vestibular-2027-com-inscricoes-ate-15-de-setembro/",
-      "source": "Interior da Bahia",
-      "snippet": "Uneb abre edital do Vestibular 2027 com inscrições até 15 de setembro Interior da Bahia",
-      "published": "Tue, 08 Sep 2026 01:22:16 GMT",
-      "lang": "pt"
-    },
-    {
-      "title": "Uneb lança edital com 5,4 mil vagas para vestibular de 2027; inscrições começam em 15 de setembro - SulBahiaNews",
-      "url": "https://www.sulbahianews.com.br/uneb-lanca-edital-com-54-mil-vagas-para-vestibular-de-2027-inscricoes-comecam-em-15-de-setembro/",
+      "title": "Uneb abre inscrições para Vestibular 2027 com 404 vagas em Teixeira de Freitas - SulBahiaNews",
+      "url": "https://www.sulbahianews.com.br/uneb-abre-inscricoes-para-vestibular-2027-com-404-vagas-em-teixeira-de-freitas/",
       "source": "SulBahiaNews",
-      "snippet": "Uneb lança edital com 5,4 mil vagas para vestibular de 2027; inscrições começam em 15 de setembro SulBahiaNews",
-      "published": "Sun, 06 Sep 2026 18:43:00 GMT",
+      "snippet": "Uneb abre inscrições para Vestibular 2027 com 404 vagas em Teixeira de Freitas SulBahiaNews",
+      "published": "Tue, 08 Sep 2026 13:43:00 GMT",
       "lang": "pt"
     },
     {
-      "title": "Uneb oferece 5,4 mil vagas no Vestibular 2027; inscrições começam em setembro - 97news.com.br",
-      "url": "https://www.97news.com.br/noticias/40622-2026/09/07/uneb-oferece-54-mil-vagas-no-vestibular-2027;-inscricoes-comecam-em-setembro",
-      "source": "97news.com.br",
-      "snippet": "Uneb oferece 5,4 mil vagas no Vestibular 2027; inscrições começam em setembro 97news.com.br",
-      "published": "Mon, 07 Sep 2026 09:00:00 GMT",
+      "title": "UNEB publica edital do Vestibular 2027 com 5.497 vagas e provas em 13 e 14 de dezembro - VestibulandoWeb",
+      "url": "https://www.vestibulandoweb.com.br/vestibular/edital-vestibular-uneb-2027/",
+      "source": "VestibulandoWeb",
+      "snippet": "UNEB publica edital do Vestibular 2027 com 5.497 vagas e provas em 13 e 14 de dezembro VestibulandoWeb",
+      "published": "Tue, 08 Sep 2026 12:19:00 GMT",
       "lang": "pt"
     },
     {
-      "title": "Malminkartanon tulitaistelu leimahti romanien pahoista puheista - mtvuutiset.fi",
-      "url": "https://www.mtvuutiset.fi/artikkeli/malminkartanon-tulitaistelu-leimahti-romanien-pahoista-puheista/3137918?gsid=5ef506f6-72af-4668-b537-ef5855ea7954",
-      "source": "mtvuutiset.fi",
-      "snippet": "Malminkartanon tulitaistelu leimahti romanien pahoista puheista mtvuutiset.fi",
-      "published": "Tue, 08 Sep 2026 02:00:00 GMT",
+      "title": "Valet 2026: Romer i Sverige mer engagerade än tidigare - Sveriges Radio",
+      "url": "https://www.sverigesradio.se/avsnitt/valet-2026-romer-i-sverige-mer-engagerade-an-tidigare",
+      "source": "Sveriges Radio",
+      "snippet": "Valet 2026: Romer i Sverige mer engagerade än tidigare Sveriges Radio",
+      "published": "Tue, 08 Sep 2026 12:31:59 GMT",
+      "lang": "sv"
+    },
+    {
+      "title": "Anna: Tangokuningatar Raija Mäntyniemi avoimena perheestään - Seiska.fi",
+      "url": "https://www.seiska.fi/kotimaa/anna-tangokuningatar-raija-mantyniemi-avoimena-perheestaan/2258176",
+      "source": "Seiska.fi",
+      "snippet": "Anna: Tangokuningatar Raija Mäntyniemi avoimena perheestään Seiska.fi",
+      "published": "Wed, 09 Sep 2026 09:00:00 GMT",
       "lang": "fi"
     },
     {
-      "title": "Ανήλικοι μπήκαν σε παιδικό σταθμό στη Λαμία και άρπαξαν την τσάντα της διευθύντριας",
-      "url": "https://www.inewsgr.com/97/anilikoi-bikan-se-paidiko-stathmo-sti-lamia-kai-arpaxan-tin-tsanta-tis-diefthyntrias.htm",
-      "source": "inewsgr.com",
+      "title": "Consulul general Florin Vasiloni în vizită la comunitățile d",
+      "url": "https://www.gazetanord-vest.ro/2026/09/consulul-general-florin-vasiloni-in-vizita-la-comunitatile-de-baiesi-din-jurul-orasului-nagykanisza-ungaria/",
+      "source": "gazetanord-vest.ro",
       "snippet": "",
-      "published": "20260908T093000Z",
-      "lang": "Greek"
+      "published": "20260909T113000Z",
+      "lang": "Romanian"
     },
     {
-      "title": "CEV Avrupa Erkekler Voleybol Şampiyonası yarın başlayacak",
-      "url": "https://www.aa.com.tr/tr/spor/cev-avrupa-erkekler-voleybol-sampiyonasi-yarin-baslayacak/4050270",
-      "source": "aa.com.tr",
+      "title": "  พิมพ์ใจ  เปิดผลงาน 90 วันแรก เดินหน้า 5I เชื่อม  นโยบายสู่การลงมือทำ  ดัน",
+      "url": "https://www.ryt9.com/s/prg/12842943",
+      "source": "ryt9.com",
       "snippet": "",
-      "published": "20260908T073000Z",
+      "published": "20260909T110000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Reţeaua rezerviştilor SIE şi SRI de la Viena . Noi dezvăluiri despre legăturile dubioase cu Călin Georgescu şi Ion Ceban",
+      "url": "https://www.romaniatv.net/reteaua-rezervistilor-sie-si-sri-de-la-viena-noi-dezvaluiri-despre-legaturile-dubioase-cu-calin-georgescu-si-ion-ceban_9793654.html",
+      "source": "romaniatv.net",
+      "snippet": "",
+      "published": "20260909T110000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Sistemul educațional românesc în oglinda evaluărilor naționale și internaționale : Focus PISA 2025 - ",
+      "url": "https://www.amosnews.ro/sistemul-educational-romanesc-in-oglinda-evaluarilor-nationale-si-internationale-focus-pisa-2025/",
+      "source": "amosnews.ro",
+      "snippet": "",
+      "published": "20260909T110000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "คิวบาประณามสหรัฐฯ ทำเศรษฐกิจพัง 8 . 08 พันล้านดอลล์",
+      "url": "https://www.ryt9.com/s/iq/12842930",
+      "source": "ryt9.com",
+      "snippet": "",
+      "published": "20260909T110000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Orsato non ferma Sozza , Marcenaro per Lazio - Milan : serie A , gli arbitri della 4ª giornata",
+      "url": "https://www.calciomercato.com/liste/orsato-non-ferma-sozza-marcenaro-per-lazio-milan-serie-a-gli-arbitri-della-4a-giornata/blt7661ec3d5d7b3d55",
+      "source": "calciomercato.com",
+      "snippet": "",
+      "published": "20260909T110000Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Daniel Libeskind es galardonado con el Praemium Imperiale de Arquitectura 2026",
+      "url": "https://www.archdaily.com/es/1184787/daniel-libeskind-es-galardonado-con-el-praemium-imperiale-de-arquitectura-2026",
+      "source": "archdaily.com",
+      "snippet": "",
+      "published": "20260909T110000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "  Roma storia festival , dal 24 al 27 settembre a Piazza di Pietra 16 lezioni magistrali sulla storia nella Capitale",
+      "url": "https://www.adnkronos.com/cronaca/roma-storia-festival-dal-24-al-27-settembre-a-piazza-di-pietra-16-lezioni-magistrali-sulla-storia-nella-capitale_N5WWyZ0pIwScAIlnUzTEM",
+      "source": "adnkronos.com",
+      "snippet": "",
+      "published": "20260909T110000Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Fenerbahçede Roma maçı öncesi 2 eksik ! ",
+      "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-roma-maci-oncesi-2-eksik-43301102",
+      "source": "hurriyet.com.tr",
+      "snippet": "",
+      "published": "20260909T104500Z",
       "lang": "Turkish"
     },
     {
-      "title": "马特拉齐 ： 皇马最大的威胁是姆巴佩 ； 迪马尔科缺阵国米损失大",
-      "url": "https://www.163.com/dy/article/L6AH6QLS0549BAP0.html",
-      "source": "163.com",
+      "title": "Seychelles signs cash transfer pact to boost climate preparedness",
+      "url": "https://nation.sc/articles/32242/seychelles-signs-cash-transfer-pact-to-boost-climate-preparedness",
+      "source": "nation.sc",
       "snippet": "",
-      "published": "20260908T073000Z",
-      "lang": "Chinese"
-    },
-    {
-      "title": "DOCUMENTAR : Naşterea Maicii Domnului – prima mare sărbătoare a anului bisericesc",
-      "url": "https://www.rador.ro/2026/09/08/documentar-nasterea-maicii-domnului-prima-mare-sarbatoare-a-anului-bisericesc-7/",
-      "source": "rador.ro",
-      "snippet": "",
-      "published": "20260908T073000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Liga Campionilor se întoarce : Chivu versus Mourinho , capul de afiș al serii .  Cine v - a spus că am o relație proastă cu el ? ",
-      "url": "https://ziare.com/liga-campionilor/real-madrid-inter-milano-cristi-chivu-jose-mourinh-2034158",
-      "source": "ziare.com",
-      "snippet": "",
-      "published": "20260908T073000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Champions League : Κάνει πρεμιέρα η league phase παρουσία της ΑΕΚ",
-      "url": "https://www.voria.gr/article/champions-league-kanei-premiera-i-league-phase-paroysia-tis-aek",
-      "source": "voria.gr",
-      "snippet": "",
-      "published": "20260908T064500Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Aeroportul Internațional „ Mihail Kogălniceanu  inaugurează zborurile directe Roma - Constanța",
-      "url": "https://www.radioconstanta.ro/2026/09/08/aeroportul-international-mihail-kogalniceanu-inaugureaza-zborurile-directe-roma-constanta/",
-      "source": "radioconstanta.ro",
-      "snippet": "",
-      "published": "20260908T064500Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Niño de Elche trae su flamenco más rompedor a Cádiz",
-      "url": "https://www.lavozdigital.es/provincia/cadiz/nino-elche-trae-flamenco-rompedor-cadiz-20260908080100-ntv.html",
-      "source": "lavozdigital.es",
-      "snippet": "",
-      "published": "20260908T064500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "ผู้ผลิตรถหรู  จากัวร์ แลนด์ โรเวอร์  ของอังกฤษ เตรียมเลิกจ้างพนักงาน 4 , 000 ตำแหน่ง",
-      "url": "https://www.dailynews.co.th/news/6172331/",
-      "source": "dailynews.co.th",
-      "snippet": "",
-      "published": "20260908T064500Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "Tyson Fury vs . Anthony Joshua on the Brink of Collapse : Venue Disputes , Corporate Intrusions , and Backup Rejections · PhilBoxing . com",
-      "url": "http://philboxing.com/story-177660",
-      "source": "philboxing.com",
-      "snippet": "",
-      "published": "20260908T064500Z",
+      "published": "20260909T104500Z",
       "lang": "English"
     },
     {
-      "title": "Τρία στα τρία οι « Αετοί » της Λάτσιο – BINTEO",
-      "url": "https://www.inewsgr.com/182/tria-sta-tria-oi-aetoi-tis-latsio--BINTEO.htm",
-      "source": "inewsgr.com",
+      "title": "Χρυσοχοΐδης : « Βραχιολάκι » σε όσους κατηγορούνται για ενδοοικογενειακή βία και έχουν περιοριστικούς όρους",
+      "url": "https://e-thessalia.gr/chrysocho-dis-vrachiolaki-se-osoys-katigoroyntai-gia-endooikogeneiaki-via-kai-echoyn-perioristikoys-oroys/",
+      "source": "e-thessalia.gr",
       "snippet": "",
-      "published": "20260908T060000Z",
+      "published": "20260909T104500Z",
       "lang": "Greek"
     },
     {
-      "title": "Chuyển động 12h : Ai chịu trách nhiệm khi chi sai chế độ 178 ? | 2 kịch bản mưa lớn ở miền Trung",
-      "url": "https://thanhnien.vn/chuyen-dong-12h-ai-chiu-trach-nhiem-khi-chi-sai-che-do-178-2-kich-ban-mua-lon-o-mien-trung-185260908103757423.htm",
-      "source": "thanhnien.vn",
+      "title": "Vittorio Reggianini , mjeshtri italian që pikturoi mëndafshin në përsosmëri – faxweb",
+      "url": "https://faxweb.al/vittorio-reggianini-mjeshtri-italian-qe-pikturoi-mendafshin-ne-persosmeri/",
+      "source": "faxweb.al",
       "snippet": "",
-      "published": "20260908T060000Z",
-      "lang": "Vietnamese"
+      "published": "20260909T103000Z",
+      "lang": "Albanian"
     },
     {
-      "title": "Fury claims Joshua bout is off , calls for Usyk trilogy - Blueprint Newspapers Limited",
-      "url": "https://blueprint.ng/fury-claims-joshua-bout-is-off-calls-for-usyk-trilogy/",
-      "source": "blueprint.ng",
+      "title": "V Humennom si pripomínajú obete holokaustu",
+      "url": "https://www.teraz.sk/regiony/v-humennom-si-pripominaju-obete-holoka/990971-clanok.html",
+      "source": "teraz.sk",
       "snippet": "",
-      "published": "20260908T060000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Nové informácie o pohrebe zavraždeného bábätka . Dievčatko pochovajú v tomto oblečení",
-      "url": "https://www.noviny.sk/krimi/1255991-nove-informacie-o-pohrebe-zavrazdeneho-babaetka-dievcatko-pochovaju-v-tomto-obleceni",
-      "source": "noviny.sk",
-      "snippet": "",
-      "published": "20260908T054500Z",
+      "published": "20260909T103000Z",
       "lang": "Slovak"
     },
     {
-      "title": "ตม . เร่งตามตัว  เควิน  หนุ่มฝรั่งเศส หลังถูกสั่งเนรเทศ พบโผล่สวนสัตว์ก่อนหายตัว",
-      "url": "https://www.dailynews.co.th/news/6172147/",
-      "source": "dailynews.co.th",
+      "title": "Mourinho names Inter Milan best team in Italy",
+      "url": "https://dailypost.ng/2026/09/09/mourinho-names-inter-milan-best-team-in-italy/",
+      "source": "dailypost.ng",
       "snippet": "",
-      "published": "20260908T053000Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "Netflix celebra 15 años en América Latina y destaca México",
-      "url": "https://www.lavozdemichoacan.com.mx/entretenimiento/streaming/netflix-15-anos-america-latina-mexico/",
-      "source": "lavozdemichoacan.com.mx",
-      "snippet": "",
-      "published": "20260908T040000Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "มูลนิธิแม่ฟ้าหลวงฯ บ่มเพาะ  ธุรกิจชุมชน  หนุนคนดูแลป่ามีรายได้และอาชีพที่มั่นคง ส่ง 5 ทีมสุดท้ายถ่ายทอดบทเรียนบนเวที MFLF Sustainability Forum 2026",
-      "url": "https://www.thaipr.net/business/3757832",
-      "source": "thaipr.net",
-      "snippet": "",
-      "published": "20260908T040000Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "ครึ่งปีผ่านไป แต่ล้าจนเกือบหมดไฟ ALive Powered by AIA ชวนรู้จัก Mid - Year Blues อาการเหนื่อยใจกลางปี พร้อมฟีเจอร์ Mood Diary ตัวช่วยจัดการใจได้ทุกวัน",
-      "url": "https://www.thaipr.net/health/3757835",
-      "source": "thaipr.net",
-      "snippet": "",
-      "published": "20260908T040000Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "40 năm Đổi mới - những tác phẩm đánh thức cả dân tộc : Kịch Lưu Quang Vũ - Lưỡi dao mổ quyết liệt vào ung nhọt ( Bài 9 ) ",
-      "url": "https://danviet.vn/40-nam-doi-moi--nhung-tac-pham-danh-thuc-ca-dan-toc-kich-luu-quang-vu-luoi-dao-mo-quyet-liet-vao-ung-nhot-bai-9-d1457345.html",
-      "source": "danviet.vn",
-      "snippet": "",
-      "published": "20260908T040000Z",
-      "lang": "Vietnamese"
-    },
-    {
-      "title": "San Luis Obispo County deals on dining , lodging , happy hours",
-      "url": "https://calcoastnews.com/2026/09/san-luis-obispo-county-deals-on-dining-lodging-happy-hours-25/",
-      "source": "calcoastnews.com",
-      "snippet": "",
-      "published": "20260908T031500Z",
+      "published": "20260909T103000Z",
       "lang": "English"
     },
     {
-      "title": "Được coi là cao thủ số 2 Lương Sơn Bạc , vì sao Lâm Xung lại thua một nữ tướng ? ",
-      "url": "https://baomoi.com/duoc-coi-la-cao-thu-so-2-luong-son-bac-vi-sao-lam-xung-lai-thua-mot-nu-tuong-c56000473.epi",
-      "source": "baomoi.com",
+      "title": "Fenerbahçede Roma ma öncesi iki eksik",
+      "url": "https://www.sporx.com/www.sporx.com/fenerbahce-de-roma-maci-oncesi-iki-eksik-SXHBQ1175348SXQ",
+      "source": "sporx.com",
       "snippet": "",
-      "published": "20260908T023000Z",
-      "lang": "Vietnamese"
+      "published": "20260909T103000Z",
+      "lang": "Turkish"
     },
     {
-      "title": "Serie A : Lazio Roma a întrecut luni seara , în deplasare , gruparea Udinese",
-      "url": "https://www.stiripesurse.ro/serie-a-lazio-roma-a-intrecut-luni-seara-in-deplasare-gruparea-udinese_3918123",
-      "source": "stiripesurse.ro",
+      "title": "Po kilusių klausimų dėl G . Nausėdos kortežo privilegijų – Vadovybės apsaugos tarnybos išaiškinimas",
+      "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2026/09/09/news/po-kilusiu-klausimu-del-g-nausedos-kortezo-privilegiju-vadovybes-apsaugos-tarnybos-isaiskinimas-43912988/",
+      "source": "lrytas.lt",
       "snippet": "",
-      "published": "20260908T020000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Khi  giang hồ mạng  thành thần tượng",
-      "url": "http://vov.vn/xa-hoi/khi-giang-ho-mang-thanh-than-tuong-nhung-gia-tri-nao-dang-bi-dao-lon-post1330368.vov",
-      "source": "vov.vn",
-      "snippet": "",
-      "published": "20260908T013000Z",
-      "lang": "Vietnamese"
-    },
-    {
-      "title": "LOS GRILLOTES | La Opción de Chihuahua",
-      "url": "https://laopcion.com.mx/la-fuente-movil/los-grillotes-20260907-526986.html",
-      "source": "laopcion.com.mx",
-      "snippet": "",
-      "published": "20260908T011500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Thợ hồ học võ Thiếu Lâm , kết hợp tuyệt kỹ Lý Tiểu Long thành cao thủ Trung Quốc",
-      "url": "https://baomoi.com/tho-ho-hoc-vo-thieu-lam-ket-hop-tuyet-ky-ly-tieu-long-thanh-cao-thu-trung-quoc-c55999625.epi",
-      "source": "baomoi.com",
-      "snippet": "",
-      "published": "20260908T003000Z",
-      "lang": "Vietnamese"
-    },
-    {
-      "title": "1 tài tử trượt dài vì nợ nần 1 . 665 tỷ đồng , cả vợ cũ  Thiên hậu  lẫn vợ mới Hoa hậu đều chạy mất dép ! ",
-      "url": "https://kenh14.vn/1-tai-tu-truot-dai-vi-no-nan-1665-ty-dong-ca-vo-cu-thien-hau-lan-vo-moi-hoa-hau-deu-chay-mat-dep-215260908063418024.chn",
-      "source": "kenh14.vn",
-      "snippet": "",
-      "published": "20260908T003000Z",
-      "lang": "Vietnamese"
-    },
-    {
-      "title": "A clue ? Falling chunk from ceiling of Kennedy Center foyer smashes red carpet",
-      "url": "https://worldtribune.com/a-clue-falling-chunk-from-ceiling-of-kennedy-center-foyer-smashes-red-carpet/",
-      "source": "worldtribune.com",
-      "snippet": "",
-      "published": "20260908T003000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Более 700 человек и 200 собак приняли участие в фестивале « Таксы Чехова » ",
-      "url": "https://www.mskagency.ru/materials/3565118",
-      "source": "mskagency.ru",
-      "snippet": "",
-      "published": "20260908T000000Z",
-      "lang": "Russian"
-    },
-    {
-      "title": "Netflix celebra 15 años en América Latina , un mercado sofisticado",
-      "url": "https://www.elcaribe.com.do/panorama/caribe-tecnologia/netflix-celebra-15-anos-en-america-latina-un-mercado-sofisticado/",
-      "source": "elcaribe.com.do",
-      "snippet": "",
-      "published": "20260907T234500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Família nega versão da PM e diz que Amanda não agrediu policial antes de morrer",
-      "url": "https://www.alagoas24horas.com.br/1760553/familia-nega-versao-da-pm-e-diz-que-amanda-nao-agrediu-policial-antes-de-morrer/",
-      "source": "alagoas24horas.com.br",
-      "snippet": "",
-      "published": "20260907T234500Z",
-      "lang": "Portuguese"
-    },
-    {
-      "title": "Cage The Elephant announce 2027  Dying In Reverse  united kingdom and European tour",
-      "url": "https://www.nme.com/news/music/cage-the-elephant-announce-2027-dying-in-reverse-uk-european-tour-tickets-3967411",
-      "source": "nme.com",
-      "snippet": "",
-      "published": "20260907T230000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Tyson Fury claims Anthony Joshua fight off , challenges Oleksandr Usyk",
-      "url": "http://www.arabherald.com/news/279292518/tyson-fury-claims-anthony-joshua-fight-off-challenges-oleksandr-usyk",
-      "source": "arabherald.com",
-      "snippet": "",
-      "published": "20260907T230000Z",
-      "lang": "English"
-    },
-    {
-      "title": "North Vancouver Italian restaurant serves up weekly free meals to first responders",
-      "url": "https://www.niagarafallsreview.ca/news/canada/north-vancouver-italian-restaurant-serves-up-weekly-free-meals-to-first-responders/article_b7cb4e8b-4665-5d7e-b2f6-276112b0d68d.html",
-      "source": "niagarafallsreview.ca",
-      "snippet": "",
-      "published": "20260907T230000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Usyk team send response to Tyson Fury calling for him to replace Anthony Joshua",
-      "url": "https://boxingnewsonline.net/news/usyk-team-responds-to-fury-call-out/",
-      "source": "boxingnewsonline.net",
-      "snippet": "",
-      "published": "20260907T224500Z",
-      "lang": "English"
-    },
-    {
-      "title": "Ευρωπαϊκά πρωταθλήματα : Η Λάτσιο νίκησε με ανατροπή την Ουντινέζε - Βασικός ξανά ο Μανδάς",
-      "url": "https://www.iefimerida.gr/spor/i-latsio-nikise-tin-oyntineze-me-basiko-manda",
-      "source": "iefimerida.gr",
-      "snippet": "",
-      "published": "20260907T221500Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Ars Sacra Fesztivál 2026 : helyszínek , programok és minden fontos tudnivaló egy helyen",
-      "url": "https://www.penzcentrum.hu/szorakozas/20260907/ars-sacra-fesztival-2026-helyszinek-programok-es-minden-fontos-tudnivalo-egy-helyen-1205085",
-      "source": "penzcentrum.hu",
-      "snippet": "",
-      "published": "20260907T221500Z",
-      "lang": "Hungarian"
-    },
-    {
-      "title": "Oleksandr Usyk camp hits back at Tyson Fury fight offer :  Not a back - up plan  ",
-      "url": "https://www.aol.co.uk/articles/oleksandr-usyk-camp-hits-back-210214000.html",
-      "source": "aol.co.uk",
-      "snippet": "",
-      "published": "20260907T220000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Detienen a 61 conductores ebrios el fin de semana | La Opción de Chihuahua",
-      "url": "https://laopcion.com.mx/juarez/detienen-a-61-conductores-ebrios-el-fin-de-semana-20260907-526967.html",
-      "source": "laopcion.com.mx",
-      "snippet": "",
-      "published": "20260907T214500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Meloni : Zona Schengen mund të ruhet vetëm duke mbrojtur kufijtë e BE - së",
-      "url": "https://24-ore.com/meloni-zona-schengen-mund-te-ruhet-vetem-duke-mbrojtur-kufijte-e-be-se/",
-      "source": "24-ore.com",
-      "snippet": "",
-      "published": "20260907T213000Z",
-      "lang": "Albanian"
-    },
-    {
-      "title": "Ça va swinguer à Bar - sur - Aube",
-      "url": "https://jhm.fr/ca-va-swinguer-a-bar-sur-aube/",
-      "source": "jhm.fr",
-      "snippet": "",
-      "published": "20260907T210000Z",
-      "lang": "French"
-    },
-    {
-      "title": "Tres detenidos tras un control policial en Rosario : secuestraron tusi , cocaína , marihuana y éxtasis",
-      "url": "https://sinmordaza.com/noticia/518156-tres-detenidos-tras-un-control-policial-en-rosario-secuestraron-tusi-cocaina-marihuana-y-extasis.html",
-      "source": "sinmordaza.com",
-      "snippet": "",
-      "published": "20260907T210000Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Mourinho Real Madrid European revival bid starts with Inter reunion - Sport",
-      "url": "https://www.namibian.com.na/mourinhos-real-madrid-european-revival-bid-starts-with-inter-reunion/",
-      "source": "namibian.com.na",
-      "snippet": "",
-      "published": "20260907T203000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Burla Verde reivindica desde Mazaricos un rural vivo « disposto a defenderse » ",
-      "url": "https://www.lavozdegalicia.es/noticia/barbanza/mazaricos/2026/09/08/burla-verde-reivindica-rural-vivo-disposto-defenderse/0003_202609C8C4993.htm",
-      "source": "lavozdegalicia.es",
-      "snippet": "",
-      "published": "20260907T203000Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Detuvieron a la hija del policía exonerado Juan Raffo con tusi y cocaína",
-      "url": "https://www.rosario3.com/policiales/detuvieron-a-la-hija-del-policia-exonerado-juan-raffo-con-tusi-y-cocaina-20260907-0052.html",
-      "source": "rosario3.com",
-      "snippet": "",
-      "published": "20260907T201500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Meloni : Zona Shengen mund të ruhet vetëm nëse kufijtë e jashtëm të BE - së mbrohen",
-      "url": "https://24-ore.com/meloni-zona-shengen-mund-te-ruhet-vetem-nese-kufijte-e-jashtem-te-be-se-mbrohen/",
-      "source": "24-ore.com",
-      "snippet": "",
-      "published": "20260907T200000Z",
-      "lang": "Albanian"
-    },
-    {
-      "title": "MPFVLÇ lanson udhëzuesin për vlerësimin dhe fuqizimin e familjeve në Skemën e Ndihmës Sociale",
-      "url": "https://24-ore.com/mpfvlc-lanson-udhezuesin-per-vleresimin-dhe-fuqizimin-e-familjeve-ne-skemen-e-ndihmes-sociale/",
-      "source": "24-ore.com",
-      "snippet": "",
-      "published": "20260907T200000Z",
-      "lang": "Albanian"
-    },
-    {
-      "title": "巴黎FC中场洛佩斯 ： 目标欧战 ， 梦想冲欧冠",
-      "url": "https://www.163.com/dy/article/L697RI4T0549BAP0.html",
-      "source": "163.com",
-      "snippet": "",
-      "published": "20260907T200000Z",
-      "lang": "Chinese"
-    },
-    {
-      "title": "67χρονος στη Λαμία έστησε διπλή παγίδα στη σπείρα των « λογιστών με τον δορυφόρο της εφορίας » ",
-      "url": "https://www.taxydromos.gr/ellada/1363616/67chronos-sti-lamia-estise-dipli-pagida-sti-speira-ton-logiston-me-ton-doryforo-tis-eforias/",
-      "source": "taxydromos.gr",
-      "snippet": "",
-      "published": "20260907T200000Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Unos vecinos consiguen echar a los okupas que habían asaltad ... ",
-      "url": "https://www.hispanidad.com/sociedad/unos-vecinos-consiguen-echar-okupas-habian-asaltado-casa-anciano-cuando-estaba-en-hospital_20000096_102.html",
-      "source": "hispanidad.com",
-      "snippet": "",
-      "published": "20260907T200000Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Λαμία : 67χρονος έπιασε ... κότσους τους απατεώνες - Η σακούλα αντί για λίρες ... ",
-      "url": "https://www.thetoc.gr/koinwnia/article/lamia-67xronos-epiase-kotsous-tous-apateones---i-sakoula-anti-gia-lires-kai-xrimata-eixe-mesa-petres-kai-kalampokia/",
-      "source": "thetoc.gr",
-      "snippet": "",
-      "published": "20260907T194500Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Radu Drăguşin are un nou antrenor . Cine va sta pe banca Fiorentinei",
-      "url": "https://www.stiripesurse.ro/radu-dragusin-are-un-nou-antrenor-cine-va-sta-pe-banca-fiorentinei_3918086",
-      "source": "stiripesurse.ro",
-      "snippet": "",
-      "published": "20260907T194500Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Andria : Siglato a Palazzo di Città il Protocollo dintesa tra Comune e AIGAE",
-      "url": "https://www.andriaviva.it/notizie/siglato-a-palazzo-di-citta-il-protocollo-d-intesa-tra-comune-e-aigae/",
-      "source": "andriaviva.it",
-      "snippet": "",
-      "published": "20260907T194500Z",
-      "lang": "Italian"
-    },
-    {
-      "title": "Expansión de Netflix en América Latina cumple 15 años",
-      "url": "https://pulsoslp.com.mx/camerino/expansion-de-netflix-en-america-latina-cumple-15-anos/2083546",
-      "source": "pulsoslp.com.mx",
-      "snippet": "",
-      "published": "20260907T194500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Fury mira a Usyk y carga contra Joshua :  Se ha cagado en los pantalones  ",
-      "url": "https://as.com/masdeporte/polideportivo/fury-mira-a-usyk-y-carga-contra-joshua-se-ha-cagado-en-los-pantalones-f202609-n/",
-      "source": "as.com",
-      "snippet": "",
-      "published": "20260907T194500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Δορυφόρος ... προσγείωσης για απατεώνες στη Λαμία , τους φόρτωσαν πέτρες και καλαμπόκια και τους έστειλαν φυλακή",
-      "url": "https://www.voria.gr/article/doryforos-prosgeiosis-gia-apateones-sti-lamia-toys-fortosan-petres-kai-kalampokia-kai-toys",
-      "source": "voria.gr",
-      "snippet": "",
-      "published": "20260907T193000Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Nova kolumna Nebojše Bakareca o osveti Haga nad Srbima",
-      "url": "https://informer.rs/politika/kolumne/1148653/nebojsa-bakarec-haski-tribunal-mladic-nepravda",
-      "source": "informer.rs",
-      "snippet": "",
-      "published": "20260907T193000Z",
-      "lang": "Serbian"
-    },
-    {
-      "title": "Chi phí sản xuất phim AI Trung Quốc giảm mạnh",
-      "url": "https://vnexpress.net/chi-phi-san-xuat-phim-ai-trung-quoc-giam-manh-5117482.html",
-      "source": "vnexpress.net",
-      "snippet": "",
-      "published": "20260907T193000Z",
-      "lang": "Vietnamese"
-    },
-    {
-      "title": "La verdadera historia de la  Ópera flamenca  ",
-      "url": "https://www.abc.es/opinion/sevilla/verdadera-historia-opera-flamenca-20260908203602-nts.html",
-      "source": "abc.es",
-      "snippet": "",
-      "published": "20260907T191500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Τραγωδία στον Πύργο : 17χρονος επιβάτης αυτοκινήτου ο νεκρός στη σφοδρή καραμπόλα – 4 οι τραυματίες",
-      "url": "https://www.inewsgr.com/362/tragodia-ston-pyrgo-17chronos-epivatis-aftokinitou-o-nekros-sti-sfodri-karabola--4-oi-travmaties.htm",
-      "source": "inewsgr.com",
-      "snippet": "",
-      "published": "20260907T191500Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Ανατροπή με το τροχαίο στον Πύργο : 17χρονος που επέβαινε στο ΙΧ που προκάλεσε την καραμπόλα ο νεκρός",
-      "url": "https://www.inewsgr.com/441/anatropi-me-to-trochaio-ston-pyrgo-17chronos-pou-epevaine-sto-ich-pou-prokalese-tin-karabola-o-nekros.htm",
-      "source": "inewsgr.com",
-      "snippet": "",
-      "published": "20260907T191500Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Hungary Right Regroups In Street Protest After Orbán Election Defeat",
-      "url": "https://www.worthynews.com/117303-hungarys-right-regroups-in-street-protest-after-orban-election-defeat",
-      "source": "worthynews.com",
-      "snippet": "",
-      "published": "20260907T191500Z",
-      "lang": "English"
-    },
-    {
-      "title": "Πύργος : 17 ετών το θύμα από τη σφοδρή σύγκρουση με άλλους 4 τραυματίες - Πώς έγινε το τροχαίο δυστύχημα",
-      "url": "https://www.iefimerida.gr/ellada/pyrgos-17-eton-thyma-pos-egine-dystyhima",
-      "source": "iefimerida.gr",
-      "snippet": "",
-      "published": "20260907T191500Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Las familias se movilizan contra el cierre inminente del colegio Virgen de la Puerta de Orihuela",
-      "url": "https://www.informacion.es/vega-baja/2026/09/07/familias-cierre-colegio-virgen-puerta-orihuela-134039337.html",
-      "source": "informacion.es",
-      "snippet": "",
-      "published": "20260907T191500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "S - au reluat cursele aeriene directe România - China .  Sistemul de vize ar trebui să fie mult mai bine pus la punct , avertizează un deputat român",
-      "url": "https://ziare.com/romania-china/zbor-direct-2034125",
-      "source": "ziare.com",
-      "snippet": "",
-      "published": "20260907T190000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Radu Drăgușin are un nou antrenor la Fiorentina . Șefii echipei viola au apelat la varianta de avarie",
-      "url": "https://ziare.com/radu-dragusin/fiorentina-antrenor-paolo-vanoli-2034129",
-      "source": "ziare.com",
-      "snippet": "",
-      "published": "20260907T190000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "​Italia përballet me verën më të nxehtë që nga viti 1950",
-      "url": "https://www.botasot.info/evrope-bota/2525387/italia-perballet-me-veren-me-te-nxehte-qe-nga-viti-1950/",
-      "source": "botasot.info",
-      "snippet": "",
-      "published": "20260907T190000Z",
-      "lang": "Albanian"
-    },
-    {
-      "title": "Bez referendumske atmosfere : Ko će sve u izbornu trku ? ",
-      "url": "https://www.danas.rs/vesti/politika/ko-ce-s-kim-partije-koalicije-izbori-izborna-trka/",
-      "source": "danas.rs",
-      "snippet": "",
-      "published": "20260907T184500Z",
-      "lang": "Serbian"
-    },
-    {
-      "title": "Ricardo Macchi , o eterno Cigano Igor , revela ajuda de Gracindo Jr durante fase difícil",
-      "url": "https://natelinha.uol.com.br/famosos/2026/09/07/ricardo-macchi-o-eterno-cigano-igor-revela-ajuda-de-gracindo-jr-durante-fase-dificil-247282.php",
-      "source": "natelinha.uol.com.br",
-      "snippet": "",
-      "published": "20260907T184500Z",
-      "lang": "Portuguese"
-    },
-    {
-      "title": "Λαμία : Αντί για λίρες και χρήματα στη σακούλα , έβαλε μέσα πέτρες και καλαμπόκια – Πώς παγίδεψε τους απατεώνες",
-      "url": "https://kosmoslarissa.gr/ellada/%CE%BB%CE%B1%CE%BC%CE%AF%CE%B1-%CE%B1%CE%BD%CF%84%CE%AF-%CE%B3%CE%B9%CE%B1-%CE%BB%CE%AF%CF%81%CE%B5%CF%82-%CE%BA%CE%B1%CE%B9-%CF%87%CF%81%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CF%83%CF%84%CE%B7-%CF%83%CE%B1/",
-      "source": "kosmoslarissa.gr",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Trump DC Building Projects Ranked by Size and Cost",
-      "url": "https://www.newsweek.com/trumps-dc-building-projects-ranked-by-size-and-cost-12411614",
-      "source": "newsweek.com",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Έμπρακτη στήριξη των ευάλωτων κοινωνικά ομάδων από την Περιφέρεια Θεσσαλίας",
-      "url": "https://kosmoslarissa.gr/thessalia/%CE%AD%CE%BC%CF%80%CF%81%CE%B1%CE%BA%CF%84%CE%B7-%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BE%CE%B7-%CF%84%CF%89%CE%BD-%CE%B5%CF%85%CE%AC%CE%BB%CF%89%CF%84%CF%89%CE%BD-%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD/",
-      "source": "kosmoslarissa.gr",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Olimpico identificati 14 ultras durante Roma - Atalanta | avevano fatto il saluto romano",
-      "url": "https://www.zazoom.it/2026-09-07/olimpico-identificati-14-ultras-durante-roma-atalanta-avevano-fatto-il-saluto-romano/19653521/",
-      "source": "zazoom.it",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "Italian"
-    },
-    {
-      "title": "Λαμία : Αντί για λίρες και χρήματα στη σακούλα , έβαλε μέσα πέτρες και καλαμπόκια",
-      "url": "https://www.newsit.gr/ellada/lamia-anti-gia-lires-kai-xrimata-sti-sakoula-evale-mesa-petres-kai-kalampokia-pos-pagidepse-tous-apateones/4768450/",
-      "source": "newsit.gr",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Turneul  Violoncellissimo , la a VIII - a ediţie , în mai multe oraşe din România - Radio Iaşi – Cel mai ascultat radio regional",
-      "url": "https://www.radioiasi.ro/fara-categorie/turneul-violoncellissimo-la-a-viii-a-editie-in-mai-multe-orase-din-romania/",
-      "source": "radioiasi.ro",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Përgjigje për Ben Blushin : Kinemaja shqiptare po hyn në  lule të rinisë  – 24 ore",
-      "url": "https://24-ore.com/pergjigje-per-ben-blushin-kinemaja-shqiptare-po-hyn-ne-lule-te-rinise/",
-      "source": "24-ore.com",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "Albanian"
-    },
-    {
-      "title": "Isle of Wight Jazz Weekend returns with star - studded line - up | Isle of Wight County Press",
-      "url": "https://www.countypress.co.uk/news/26527273.isle-wight-jazz-weekend-returns-star-studded-line-up/",
-      "source": "countypress.co.uk",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "English"
-    },
-    {
-      "title": "Recipe : Fish Are Friends Ceviche",
-      "url": "https://www.santacruzsentinel.com/2026/09/07/recipe-a-ceviche-recipe-for-folks-who-dont-eat-raw-fish/",
-      "source": "santacruzsentinel.com",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "English"
-    },
-    {
-      "title": "มูลนิธิแม่ฟ้าหลวงฯ บ่มเพาะ  ธุรกิจชุมชน  หนุนคนดูแลป่า - สร้างอาชีพที่มั่นคง",
-      "url": "https://thaipublica.org/2026/09/mflf-sustainability-forum-2026-nature-positive/",
-      "source": "thaipublica.org",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "Τραγωδία στον Πύργο : 17χρονος επιβάτης αυτοκινήτου ο νεκρός στη σφοδρή καραμπόλα",
-      "url": "https://www.newsit.gr/ellada/tragodia-ston-pyrgo-17xronos-epivatis-aytokinitou-o-nekros-sti-sfodri-karampola-4-oi-traymaties/4768465/",
-      "source": "newsit.gr",
-      "snippet": "",
-      "published": "20260907T183000Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Λαμία : 67χρονος παγίδεψε απατεώνες -« λογιστές » - Αντί για λίρες και μετρητά , τους έδωσε πέτρες και καλαμπόκια",
-      "url": "https://www.inewsgr.com/184/lamia-67chronos-pagidepse-apateones-logistes--anti-gia-lires-kai-metrita-tous-edose-petres-kai-kalabokia.htm",
-      "source": "inewsgr.com",
-      "snippet": "",
-      "published": "20260907T180000Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Marie Rötzer : Die se Last des Erbes an der Josefstadt",
-      "url": "https://www.news.at/menschen/josefstadt-marie-roetzer-interview-2026",
-      "source": "news.at",
-      "snippet": "",
-      "published": "20260907T180000Z",
-      "lang": "German"
-    },
-    {
-      "title": "Juventus dhe Milan barazojnë 1 - 1 në stadiumin  Allianz  ",
-      "url": "https://ngrihu.media/juventus-dhe-milan-barazojne-1-1-ne-stadiumin-allianz/",
-      "source": "ngrihu.media",
-      "snippet": "",
-      "published": "20260907T180000Z",
-      "lang": "Albanian"
-    },
-    {
-      "title": "EL ACORDEÓN | La Opción de Chihuahua",
-      "url": "https://laopcion.com.mx/la-fuente-movil/el-acorden-20260907-526908.html",
-      "source": "laopcion.com.mx",
-      "snippet": "",
-      "published": "20260907T174500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "LA CONFESIÓN | La Opción de Chihuahua",
-      "url": "https://laopcion.com.mx/la-fuente-movil/la-confesin-20260907-526926.html",
-      "source": "laopcion.com.mx",
-      "snippet": "",
-      "published": "20260907T174500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Nomeou a irmã para gabinete da Câmara : presidente de Albufeira enfrenta ao para perder o mandato",
-      "url": "https://executivedigest.sapo.pt/nomeou-a-irma-para-gabinete-da-camara-presidente-de-albufeira-enfrenta-acao-para-perder-o-mandato/",
-      "source": "executivedigest.sapo.pt",
-      "snippet": "",
-      "published": "20260907T174500Z",
-      "lang": "Portuguese"
-    },
-    {
-      "title": "Traveller site near M5 in Somerset may have to be torn down",
-      "url": "https://www.somersetlive.co.uk/news/somerset-news/travellers-site-near-m5-somerset-11146583",
-      "source": "somersetlive.co.uk",
-      "snippet": "",
-      "published": "20260907T174500Z",
-      "lang": "English"
-    },
-    {
-      "title": "REUNROM แบรนด์เครื่องหอมไทยรื่นรมย์ เจาะตลาด Ultra - Rich มหาเศรษฐีระดับโลก",
-      "url": "https://www.springnews.co.th/lifestyle/spring-life/864941",
-      "source": "springnews.co.th",
-      "snippet": "",
-      "published": "20260907T174500Z",
-      "lang": "Thai"
-    },
-    {
-      "title": "Conozca los artistas colombianos que estarán en el FEP 2025",
-      "url": "https://www.canalcapital.gov.co/actualidad/estos-son-los-artistas-colombianos-que-estaran-presentes-en-el-festival-estereo-picnic-2/",
-      "source": "canalcapital.gov.co",
-      "snippet": "",
-      "published": "20260907T174500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Martínez , Álvarez , López y Rebolledo brillaron en el Karting con caja de Rincón de los Sauces",
-      "url": "https://www.rionegro.com.ar/deportes/martinez-alvarez-lopez-y-rebolledo-brillaron-en-el-karting-con-caja-de-rincon-de-los-sauces-4712532/",
-      "source": "rionegro.com.ar",
-      "snippet": "",
-      "published": "20260907T174500Z",
-      "lang": "Spanish"
-    },
-    {
-      "title": "Rom e sinti : Migrantes , a Torino lincontro annuale degli operatori pastorali",
-      "url": "https://www.agensir.it/quotidiano/2026/9/7/rom-e-sinti-migrantes-a-torino-lincontro-annuale-degli-operatori-pastorali/",
-      "source": "agensir.it",
-      "snippet": "",
-      "published": "20260907T173000Z",
-      "lang": "Italian"
-    },
-    {
-      "title": "Λαμία : Πήγαν να εξαπατήσουν 67χρονο , αλλά έπεσαν στην παγίδα - Αντί για λίρες και χρήματα γέμισε τη σακούλα με ... πέτρες και καλαμπόκια",
-      "url": "https://www.enikos.gr/society/lamia-pigan-na-exapatisoun-67chrono-alla-epesan-stin-pagida-anti-gia-lires-kai-chrimata-gemise-ti-sakoula-me-petres-kai-kalabokia/2640346/",
-      "source": "enikos.gr",
-      "snippet": "",
-      "published": "20260907T173000Z",
-      "lang": "Greek"
-    },
-    {
-      "title": "Vacanze nel Sud Italia : Le destinazioni imperdibili",
-      "url": "https://www.buonenotizie.it/misc/viaggi/2026/08/27/vacanze-al-mare-nel-sud-italia-tra-relax-e-divertimento/majocchi/",
-      "source": "buonenotizie.it",
-      "snippet": "",
-      "published": "20260907T170000Z",
-      "lang": "Italian"
-    },
-    {
-      "title": "SheroTalk a ajuns la Constanța : „ Frica se moștenește . Și , de cele mai multe ori , nu are vânătăi . ",
-      "url": "https://jurnalul.ro/timp-liber/media/sherotalk-a-ajuns-la-constanta-frica-se-mosteneste-si-de-cele-mai-multe-ori-nu-are-vanatai-1043586.html",
-      "source": "jurnalul.ro",
-      "snippet": "",
-      "published": "20260907T170000Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Фильм « Мадемуазель знает ток »: история циркачки",
-      "url": "https://www.kommersant.ru/doc/8938257",
-      "source": "kommersant.ru",
-      "snippet": "",
-      "published": "20260907T164500Z",
-      "lang": "Russian"
-    },
-    {
-      "title": "Cante Novo leva tradio alentejana a festival internacional em Barcelona",
-      "url": "https://bomdia.lu/cante-novo-leva-tradicao-alentejana-a-festival-internacional-em-barcelona/",
-      "source": "bomdia.lu",
-      "snippet": "",
-      "published": "20260907T164500Z",
-      "lang": "Portuguese"
-    },
-    {
-      "title": "Первый тур общего этапа Лиги чемпионов стартует 8 сентября",
-      "url": "https://www.kommersant.ru/doc/8938373",
-      "source": "kommersant.ru",
-      "snippet": "",
-      "published": "20260907T164500Z",
-      "lang": "Russian"
-    },
-    {
-      "title": "Triệt phá hai chuyên án ma túy quy mô đặc biệt lớn , thu giữ hơn 1 , 2 tấn ma túy , bắt và khởi tố gần 750 đối tượng",
-      "url": "https://congan.com.vn/vu-an/phong-chong-ma-tuy/triet-pha-hai-chuyen-an-ma-tuy-quy-mo-dac-biet-lon-thu-giu-hon-12-tan-ma-tuy-bat-va-khoi-to-gan-750-doi-tuong_197424.html",
-      "source": "congan.com.vn",
-      "snippet": "",
-      "published": "20260907T164500Z",
-      "lang": "Vietnamese"
-    },
-    {
-      "title": "VIDEO Românca Alina Șerban este prima regizoare de etnie romă selecționată la Festivalul de la Veneția de - a lungul celor 83 de ediții . Vezi primele imagini din film . ",
-      "url": "http://www.romaniapozitiva.ro/cultura/romanca-alina-serban-este-prima-regizoare-de-etnie-roma-selectionata-la-festivalul-de-la-venetia-de-a-lungul-celor-83-de-editii-vezi-primele-imagini-din-film/",
-      "source": "romaniapozitiva.ro",
-      "snippet": "",
-      "published": "20260907T164500Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Nausėda apie rinkimus Vokietijoje : „ Nusivylimas  ",
-      "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3045266/nauseda-apie-rinkimus-vokietijoje-nusivylimas",
-      "source": "lrt.lt",
-      "snippet": "",
-      "published": "20260907T161500Z",
+      "published": "20260909T103000Z",
       "lang": "Lithuanian"
     },
     {
-      "title": "Linijski park stiže do Kule Nebojša : Dva nova mosta , obnova bedema , Vodene kapije ... ",
-      "url": "https://www.b92.net/lokal/beograd/ekonomija/265572/linijski-park-stize-do-kule-nebojsa-dva-nova-mosta-obnova-bedema-vodene-kapije/vest",
-      "source": "b92.net",
+      "title": "Vittorio Reggianini , mjeshtri italian që e pikturoi mëndafshin në përsosmëri",
+      "url": "https://www.zeri.info/kultura/636316/vittorio-reggianini-mjeshtri-italian-qe-e-pikturoi-mendafshin-ne-persosmeri/",
+      "source": "zeri.info",
       "snippet": "",
-      "published": "20260907T161500Z",
-      "lang": "Serbian"
+      "published": "20260909T103000Z",
+      "lang": "Albanian"
     },
     {
-      "title": "Τα χαμένα « εισαγγελικά παιδιά » ",
-      "url": "https://www.kathimerini.gr/society/564440173/ta-chamena-eisaggelika-paidia/",
-      "source": "kathimerini.gr",
+      "title": "Честитки по повод 8 Септември - Денот на македонската независност",
+      "url": "https://novamakedonija.com.mk/makedonija/politika/chestitki-po-povod-8-septemvri-denot-na-makedonskata-nezavisnost/",
+      "source": "novamakedonija.com.mk",
       "snippet": "",
-      "published": "20260907T154500Z",
-      "lang": "Greek"
+      "published": "20260909T103000Z",
+      "lang": "Macedonian"
     },
     {
-      "title": "மிஸ்டர் எம் . ஜி . ராமசந்திரன் என அழைத்த ஒரே ஹீரோயின் : அஷ்டவதானி பானுமதியின் 101வது பிறந்தநாள்",
-      "url": "https://cinema.dinamalar.com/news/kollywood/only-heroine-to-be-called-mr-mg-ramachandran-ashtavadani-ban/140735",
-      "source": "cinema.dinamalar.com",
+      "title": "Looking for winter sun ? These are the cheapest times to travel",
+      "url": "https://www.rte.ie/lifestyle/travel/2026/0907/1590591-looking-for-winter-sun-these-are-the-cheapest-times-to-travel/",
+      "source": "rte.ie",
       "snippet": "",
-      "published": "20260907T150000Z",
-      "lang": "Tamil"
-    },
-    {
-      "title": "Bộ Công an bắt tàu cá chở 1 , 1 tấn ma túy trên biển",
-      "url": "https://vnexpress.net/bo-cong-an-bat-tau-ca-cho-1-1-tan-ma-tuy-tren-bien-5117517.html",
-      "source": "vnexpress.net",
-      "snippet": "",
-      "published": "20260907T141500Z",
-      "lang": "Vietnamese"
-    },
-    {
-      "title": "Emily Ratajkowski și Romain Gavras s - au sărutat pe străzile din Roma . Cea mai lungă relație după divorț",
-      "url": "https://bravonet.ro/emily-ratajkowski-si-romain-gavras-s-au-sarutat-pe-strazile-din-roma/",
-      "source": "bravonet.ro",
-      "snippet": "",
-      "published": "20260907T124500Z",
-      "lang": "Romanian"
-    },
-    {
-      "title": "Fourth man ( 30s ) arrested over fatal Leopardstown brawl",
-      "url": "https://www.irishtimes.com/ireland/2026/09/07/fourth-man-30s-arrested-over-fatal-leopardstown-brawl/",
-      "source": "irishtimes.com",
-      "snippet": "",
-      "published": "20260907T124500Z",
+      "published": "20260909T103000Z",
       "lang": "English"
     },
     {
-      "title": "Dirijorii din Oradea și Debrețin pregătesc un repertoriu comun în cadrul CBC Fest",
-      "url": "https://www.bihon.ro/stirile-judetului-bihor/dirijorii-din-oradea-si-debretin-pregatesc-un-repertoriu-comun-in-cadrul-cbc-fest-5393607/",
-      "source": "bihon.ro",
+      "title": "БАЧКА ПАЛАНКА СТИПЕНДИРА СТУДЕНТЕ И УЧЕНИКЕ Конкурс отворен , стипендије за 95 студената и 65 ученика",
+      "url": "https://www.dnevnik.rs/vojvodina/backa/backa-palanka-stipendira-studente-ucenike-konkurs-otvoren-stipendije-za-95-studenata-65-ucenika-2026-09-09",
+      "source": "dnevnik.rs",
       "snippet": "",
-      "published": "20260907T124500Z",
+      "published": "20260909T101500Z",
+      "lang": "Serbian"
+    },
+    {
+      "title": "Fury Promoter Admits Joshua Fight Tempting",
+      "url": "http://silverbirdtv.com/furys-promoter-admits-joshua-fight-tempting/",
+      "source": "silverbirdtv.com",
+      "snippet": "",
+      "published": "20260909T101500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Fenerbahçe bu maçı bekliyor : Hedef Roma - Fenerbahçe Haberleri",
+      "url": "https://www.fotospor.com.tr/fenerbahce/fenerbahce-bu-maci-bekliyor-hedef-roma-712515",
+      "source": "fotospor.com.tr",
+      "snippet": "",
+      "published": "20260909T101500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Haus of Porsche : Cayenne Edition รวมพลังคอมมูนิตี้คาเยนน์ พร้อมเปิดบทใหม่ของยนตรกรรมสปอร์ตเอสยูวี",
+      "url": "https://www.newswit.com/th/iek6t9nf50ryv0bwjt9f5w45thhamy32",
+      "source": "newswit.com",
+      "snippet": "",
+      "published": "20260909T101500Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Intolerable  Annual Deaths Per Million Of Population  Expose West - Ignored Gaza Holocaust",
+      "url": "https://countercurrents.org/2026/09/intolerable-annual-deaths-per-million-of-population-expose-west-ignored-gaza-holocaust/",
+      "source": "countercurrents.org",
+      "snippet": "",
+      "published": "20260909T101500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Rimini tra Rinascimento , archeologia e grandi racconti della città : tutte le passeggiate culturali fino al 13 settembre",
+      "url": "https://www.chiamamicitta.it/rimini-tra-rinascimento-archeologia-e-grandi-racconti-della-citta-tutte-le-passeggiate-culturali-fino-al-13-settembre/",
+      "source": "chiamamicitta.it",
+      "snippet": "",
+      "published": "20260909T101500Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Cristian Volpato , amendat după ce a fost depistat pozitiv la cocaină",
+      "url": "https://www.ziarulprofit.ro/cristian-volpato-amendat-dupa-ce-a-fost-depistat-pozitiv-la-cocaina/",
+      "source": "ziarulprofit.ro",
+      "snippet": "",
+      "published": "20260909T094500Z",
       "lang": "Romanian"
     },
     {
-      "title": "ครั้งแรก AOT 3 ชาติ ลงพื้นที่ฐานสแกมเมอร์ชายแดนโอร์เสม็ด",
-      "url": "https://www.thaipbs.or.th/news/content/557565",
-      "source": "thaipbs.or.th",
+      "title": "Лига чемпионов 10 сентября 2026 : расписание матчей , время и трансляции",
+      "url": "https://life.ru/p/liga-chempionov-10-sentyabrya-2026-kto-igraet-raspisanie-matchey-i-gde-smotret",
+      "source": "life.ru",
       "snippet": "",
-      "published": "20260907T124500Z",
+      "published": "20260909T094500Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "INVESTIȚIE MAJESTUOASĂ ÎN ARGEȘ ! Podul de la Căteasca e MĂRUNȚIȘ : Conducerea CJ Argeș a tăiat panglica",
+      "url": "https://www.ziarulprofit.ro/investitie-majestuoasa-in-arges-podul-de-la-cateasca-e-maruntis-conducerea-cj-arges-a-taiat-panglica/",
+      "source": "ziarulprofit.ro",
+      "snippet": "",
+      "published": "20260909T094500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Μ . Χρυσοχοΐδης : « Βραχιολάκι » σε όλους τους υπόδικους για ενδοοικογενειακή βία που τίθενται υπό περιοριστικούς όρους",
+      "url": "https://www.newsbeast.gr/politiki/arthro/13344518/m-chrysochoidis-vrachiolaki-se-olous-tous-ypodikous-gia-endooikogeneiaki-via-pou-tithentai-ypo-perioristikous-orous",
+      "source": "newsbeast.gr",
+      "snippet": "",
+      "published": "20260909T094500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Реал Мадрид Интер 2 : 1 : результат матча ЛЧ 8 сентября 2026",
+      "url": "https://life.ru/p/real-madrid-inter-2-1-rezultat-matcha-ligi-chempionov-8-sentyabrya-2026-goda",
+      "source": "life.ru",
+      "snippet": "",
+      "published": "20260909T094500Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "ทำไม  เงินหยวน  จ่อโค่น  เงินเยน  ดาวเด่นตัวใหม่ของโลก Carry Trade ? ",
+      "url": "https://www.bangkokbiznews.com/world/economics/1251103",
+      "source": "bangkokbiznews.com",
+      "snippet": "",
+      "published": "20260909T094500Z",
       "lang": "Thai"
     },
     {
-      "title": "Tragedia alla Riserva dello Zingaro : escursionista inglese muore dopo un malore sul sentiero costiero",
-      "url": "https://www.strettoweb.com/2026/09/tragedia-alla-riserva-dello-zingaro-escursionista-inglese-muore-dopo-un-malore-sul-sentiero-costiero/2137687/",
-      "source": "strettoweb.com",
+      "title": "Deși ultimul sondaj CURS plasează USR la un scor cu o singură cifră , Dominic Fritz își dorește alegeri anticipate",
+      "url": "https://www.ziarulprofit.ro/desi-ultimul-sondaj-curs-plaseaza-usr-la-un-scor-cu-o-singura-cifra-dominic-fritz-isi-doreste-alegeri-anticipate/",
+      "source": "ziarulprofit.ro",
       "snippet": "",
-      "published": "20260907T124500Z",
+      "published": "20260909T094500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Μιχάλης Χρυσοχοΐδης : « Η υπόθεση της Κυριακής Γρίβα σημάδεψε την Αστυνομία - Βραχιολάκι στους παραβάτες ενδοοικογενειακής βίας » ",
+      "url": "https://www.newsit.gr/politikh/mixalis-xrysoxoidis-i-ypothesi-tis-kyriakis-griva-simadepse-tin-astynomia-vraxiolaki-stous-paravates-endooikogeneiakis-vias/4769721/",
+      "source": "newsit.gr",
+      "snippet": "",
+      "published": "20260909T094500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Semnal de alarmă de la BNS înainte de iarnă . Cere crearea unei Comisii parlamentare de anchetare a situaţiei din sectoarele de energie electrică şi gaze",
+      "url": "https://www.ziarulprofit.ro/semnal-de-alarma-de-la-bns-inainte-de-iarna-cere-crearea-unei-comisii-parlamentare-de-anchetare-a-situatiei-din-sectoarele-de-energie-electrica-si-gaze/",
+      "source": "ziarulprofit.ro",
+      "snippet": "",
+      "published": "20260909T094500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Χρυσοχοΐδης : Ηλεκτρονικό βραχιολάκι για όλους τους υπόδικους ενδοοικογενειακής βίας με περιοριστικούς όρους",
+      "url": "https://www.tanea.gr/2026/09/09/greece/xrysoxoidis-ilektroniko-vraxiolaki-gia-olous-tous-ypodikous-endooikogeneiakis-vias-me-perioristikous-orous/",
+      "source": "tanea.gr",
+      "snippet": "",
+      "published": "20260909T094500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Μ . Χρυσοχοΐδης :  Βραχιολάκι  σε όλους τους υπόδικους για ενδοοικογενειακή ... ",
+      "url": "https://www.capital.gr/epikairotita/4015498/m-xrusoxoidis-braxiolaki-se-olous-tous-upodikous-gia-endooikogeneiaki-bia-pou-tithentai-upo-perioristikous-orous/",
+      "source": "capital.gr",
+      "snippet": "",
+      "published": "20260909T090000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "İsmail Kartal  ın Roma kararı ortaya çıktı : Bu sezon ilk defa 11  de oynatacak",
+      "url": "https://www.turkiyegazetesi.com.tr/spor/ismail-kartalin-roma-karari-ortaya-cikti-bu-sezon-ilk-defa-11de-oynatacak-1814791",
+      "source": "turkiyegazetesi.com.tr",
+      "snippet": "",
+      "published": "20260909T090000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Усик і Ф  юрі знову зійшлися словами : трилогія вже не жарт",
+      "url": "https://rkm.kiev.ua/v-mire/250453/",
+      "source": "rkm.kiev.ua",
+      "snippet": "",
+      "published": "20260909T090000Z",
+      "lang": "Ukrainian"
+    },
+    {
+      "title": "Degli operai rimuovono le erbacce da un lago in India",
+      "url": "https://www.bresciaoggi.it/news/mondo/degli-operai-rimuovono-le-erbacce-da-un-lago-in-india-1.13119109",
+      "source": "bresciaoggi.it",
+      "snippet": "",
+      "published": "20260909T084500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Mission impossible ? La quête de pluralisme enflamme la rentrée de laudiovisuel public",
+      "url": "https://www.lalibre.be/dernieres-depeches/2026/09/09/mission-impossible-la-quete-de-pluralisme-enflamme-la-rentree-de-laudiovisuel-public-TDVIBVKNKZF3XI22RDJZEVW5WQ/",
+      "source": "lalibre.be",
+      "snippet": "",
+      "published": "20260909T084500Z",
+      "lang": "French"
+    },
+    {
+      "title": "O frescă reprezentând un oraș - port și un mozaic din Roma Antică , deschise publicului după trei decenii",
+      "url": "https://news.yam.md/ro/story/62480592",
+      "source": "news.yam.md",
+      "snippet": "",
+      "published": "20260909T084500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Tata AIA Life Insurance : Tata AIA Life Secures Major Office Space Lease in Thane , ETRealty",
+      "url": "https://realty.economictimes.indiatimes.com/news/commercial/tata-aia-life-leases-nearly-one-lakh-sq-ft-office-in-thanes-hiranandani-estate/133952089",
+      "source": "realty.economictimes.indiatimes.com",
+      "snippet": "",
+      "published": "20260909T083000Z",
+      "lang": "English"
+    },
+    {
+      "title": "Ο Χρυσοχοΐδης προανήγγειλε « βραχιολάκι » σε όσους έχουν περιοριστικά μέτρα για ενδοοικογενειακή βία",
+      "url": "https://www.voria.gr/article/hrysohoidis-yparhoyn-akoma-kai-megales-epiheiriseis-poy-kanoyn-terastia-reymatoklopi",
+      "source": "voria.gr",
+      "snippet": "",
+      "published": "20260909T083000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Αθήνα : Διπλό χτύπημα με χειροβομβίδες σε καταστήματα εστίασης – Στο μικροσκόπιο ο « βασιλιάς των φυλακών » ",
+      "url": "https://newpost.gr/eidiseis/athina-diplo-chtypima-me-cheirovomvides-se-katastimata-estiasis-sto-mikroskopio-o-vasilias-ton-fylakon/",
+      "source": "newpost.gr",
+      "snippet": "",
+      "published": "20260909T081500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Iva Zanicchi su Sanremo 2027 | Ho mandato un messaggio a De Martino",
+      "url": "https://www.zazoom.it/2026-09-09/iva-zanicchi-su-sanremo-2027-ho-mandato-un-messaggio-a-de-martino/19659267/",
+      "source": "zazoom.it",
+      "snippet": "",
+      "published": "20260909T081500Z",
       "lang": "Italian"
     },
     {
-      "title": "ก่อเหตุใหญ่ในสามจังหวัดใต้ ไขรหัสไม่ออก ? ",
-      "url": "https://www.thaipbs.or.th/decode/solve-peaceful-southern-border",
-      "source": "thaipbs.or.th",
+      "title": "Champions League : Σήμερα το « δεύτερο πιάτο » με σπουδαίες αναμετρήσεις",
+      "url": "https://newpost.gr/eidiseis/champions-league-simera-to-deytero-piato-me-spoydaies-anametriseis/",
+      "source": "newpost.gr",
       "snippet": "",
-      "published": "20260907T124500Z",
+      "published": "20260909T081500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Fenerbahçe , UEFA Şampiyonlar Liginde Romayı konuk edecek",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/09/09/fenerbahce-uefa-sampiyonlar-liginde-romayi-konuk-edecek",
+      "source": "sabah.com.tr",
+      "snippet": "",
+      "published": "20260909T081500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Ce ne face analfabeți funcțional ? Și cum ne afectează viața",
+      "url": "https://www.dw.com/ro/ce-ne-face-analfabe%C8%9Bi-func%C8%9Bional-%C8%99i-cum-ne-afecteaz%C4%83-via%C8%9Ba/a-79196608",
+      "source": "dw.com",
+      "snippet": "",
+      "published": "20260909T081500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Χρυσοχοϊδης : Εκατοντάδες οι ρευματοκλοπές - Βεβαίωση προστίμων από 6 κάμερες στους δρόμους",
+      "url": "https://www.bankingnews.gr/politiki/articles/898241/xrysoxoidis-ekatontades-oi-revmatoklopes-vevaiosi-prostimon-apo-6-kameres-stous-dromous",
+      "source": "bankingnews.gr",
+      "snippet": "",
+      "published": "20260909T080000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Χρυσοχοΐδης : Οργανωμένο έγκλημα οι ρευματοκλοπές από επιχειρήσεις , βραχιολάκι για όσους έχουν περιοριστικά μέτρα για ενδοοικογενειακή βία",
+      "url": "https://www.protothema.gr/politics/article/1876041/hrusohoidis-eglima-oi-reumatoklopes-apo-epiheiriseis-vrahiolaki-gia-osous-ehoun-perioristika-gia-endooikogeneiaki/",
+      "source": "protothema.gr",
+      "snippet": "",
+      "published": "20260909T080000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Champions League : Τα Λίβερπουλ - Ατλέτικο Μαδρίτης , Νάπολι - Άρσεναλ και οι « μάχες » των Μπαρτσελόνα και Παρί",
+      "url": "https://www.newsit.gr/athlitika/champions-league-ta-liverpoul-atletiko-madritis-napoli-arsenal-kai-oi-maxes-ton-mpartselona-kai-pari/4769680/",
+      "source": "newsit.gr",
+      "snippet": "",
+      "published": "20260909T080000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "White Rock Concerts marks 70th season | Peace Arch News",
+      "url": "https://peacearchnews.com/2026/09/08/white-rock-concerts-marks-70th-season/",
+      "source": "peacearchnews.com",
+      "snippet": "",
+      "published": "20260909T080000Z",
+      "lang": "English"
+    },
+    {
+      "title": " „ Museli jste útočit tři na chudáka , který se před vámi plazí ? Soud trestal brutální řež v Třebíči",
+      "url": "https://www.novinky.cz/clanek/krimi-museli-jste-utocit-tri-na-chudaka-ktery-se-pred-vami-plazi-soud-trestal-brutalni-rez-v-trebici-40596669",
+      "source": "novinky.cz",
+      "snippet": "",
+      "published": "20260909T074500Z",
+      "lang": "Czech"
+    },
+    {
+      "title": "České školství ? Za málo peněz hodně muziky . Jen nehraje pro všechny stejně , říká Karel Gargulák",
+      "url": "https://domaci.hn.cz/c1-67925320-ceske-skolstvi-za-malo-penez-hodne-muziky-jen-nehraje-pro-vsechny-stejne-rika-karel-gargulak",
+      "source": "domaci.hn.cz",
+      "snippet": "",
+      "published": "20260909T074500Z",
+      "lang": "Czech"
+    },
+    {
+      "title": "Χρυσοχοϊδης : Όσοι έχουν περιοριστικά μέτρα για ενδοοικογειακή βία θα φορούν βραχιολάκι",
+      "url": "https://www.newsbomb.gr/politikh/story/1762104/xrysoxoidis-osoi-exoun-perioristika-metra-gia-endooikogeiaki-via-tha-foroyn-vraxiolaki",
+      "source": "newsbomb.gr",
+      "snippet": "",
+      "published": "20260909T071500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Fenerbahçe , UEFA Şampiyonlar Liginde yarın Romayı konuk edecek",
+      "url": "https://www.haberler.com/spor/fenerbahce-uefa-sampiyonlar-ligi-nde-yarin-roma-yi-20220536-haberi/",
+      "source": "haberler.com",
+      "snippet": "",
+      "published": "20260909T071500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "18 yýl sonra Devler Liginde ilk randevu ! Fenerbahçenin rakibi Roma",
+      "url": "https://www.star.com.tr/spor/18-yil-sonra-devler-liginde-ilk-randevu-fenerbahcenin-rakibi-roma-haber-2039032/",
+      "source": "star.com.tr",
+      "snippet": "",
+      "published": "20260909T071500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Liverpool eyeing Manu Kone transfer says Ornstein",
+      "url": "https://www.caughtoffside.com/2026/09/09/liverpool-eyeing-manu-kone-transfer-says-ornstein/",
+      "source": "caughtoffside.com",
+      "snippet": "",
+      "published": "20260909T071500Z",
+      "lang": "English"
+    },
+    {
+      "title": " „ Orașul Pictat  și „ Marele Mozaic , descopeirte într - o galerie subterană . Cel mai mare complex de fresce din Roma antică",
+      "url": "https://stirileprotv.ro/orasul-pictat-si-marele-mozaic-descopeirte-intr-o-galerie-subterana-cel-mai-mare-complex-de-fresce-din-roma-antica.html",
+      "source": "stirileprotv.ro",
+      "snippet": "",
+      "published": "20260909T071500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "ส . อ . ท . เชื่อบอร์ดอีวียึดสมดุล ปรับโครงสร้างภาษีรถยนต์",
+      "url": "https://www.ryt9.com/s/iq/12842828",
+      "source": "ryt9.com",
+      "snippet": "",
+      "published": "20260909T070000Z",
       "lang": "Thai"
     },
     {
-      "title": "  Agrosfera  arriva ad Albenga : la mostra fotografica a Palazzo Oddo che racconta le storie della filiera agroalimentare  - Savonanews . it",
-      "url": "https://www.savonanews.it/2026/09/07/leggi-notizia/argomenti/albenganese/articolo/agrosfera-arriva-ad-albenga-la-mostra-fotografica-a-palazzo-oddo-che-racconta-le-storie-della.html",
-      "source": "savonanews.it",
+      "title": "Arranca la Bienal de Sevilla : esta es la programación completa",
+      "url": "https://www.larazon.es/andalucia/sevilla/arranca-bienal-sevilla-esta-programacion-completa_202609096aa0f9d38f91e12896d6fa11.html",
+      "source": "larazon.es",
       "snippet": "",
-      "published": "20260907T124500Z",
+      "published": "20260909T070000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Ovo je najbogatije romsko selo : Svaka kuća je palata , a od količine kiča zaboleće vas oči",
+      "url": "https://www.alo.rs/razonoda/zanimljivosti/16939771/ovo-je-najbogatije-romsko-selo-svaka-kuca-je-palata-a-od-kolicine-kica-zabolece-vas-oci.html",
+      "source": "alo.rs",
+      "snippet": "",
+      "published": "20260909T070000Z",
+      "lang": "Serbian"
+    },
+    {
+      "title": "西班牙游记 （ 12 ） 马德里之宏伟的王宫 | www . wenxuecity . com",
+      "url": "https://www.wenxuecity.com/blog/202609/57811/6084.html",
+      "source": "wenxuecity.com",
+      "snippet": "",
+      "published": "20260909T070000Z",
+      "lang": "Chinese"
+    },
+    {
+      "title": "ธนาคารไทยเครดิตเปิดบ้าน ต้อนรับกองทุนชั้นนำ เยี่ยมชมศูนย์ธุรกิจสินเชื่อ",
+      "url": "https://www.ryt9.com/s/prg/12842814",
+      "source": "ryt9.com",
+      "snippet": "",
+      "published": "20260909T070000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "法媒 ： 马赛中场纳迪暂不手术 ， 盼赶上对阵巴黎",
+      "url": "https://www.163.com/dy/article/L6D284DJ0549BAP0.html",
+      "source": "163.com",
+      "snippet": "",
+      "published": "20260909T070000Z",
+      "lang": "Chinese"
+    },
+    {
+      "title": "Muzeul Arheologic al Termelor lui Traian se deschide la Roma",
+      "url": "https://www.rador.ro/2026/09/09/muzeul-arheologic-al-termelor-lui-traian-se-deschide-la-roma/",
+      "source": "rador.ro",
+      "snippet": "",
+      "published": "20260909T070000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Calendarul evenimentelor , 9 septembrie – selecțiuni | Agenția de presă Rador",
+      "url": "https://www.rador.ro/2026/09/09/calendarul-evenimentelor-9-septembrie-selectiuni-11/",
+      "source": "rador.ro",
+      "snippet": "",
+      "published": "20260909T070000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Llandjango brings gypsy jazz to Narberth Jazz event",
+      "url": "https://www.westerntelegraph.co.uk/news/26527401.llandjango-brings-gypsy-jazz-narberth-jazz-event/",
+      "source": "westerntelegraph.co.uk",
+      "snippet": "",
+      "published": "20260909T070000Z",
+      "lang": "English"
+    },
+    {
+      "title": "Co se děje okolo nové bojové organizace , kam míří politici",
+      "url": "https://www.idnes.cz/zpravy/domaci/g-mma-jiri-kajinek-miroslav-sladek-jiri-paroubek-zapasy-politici-influenceri-boj.A260907_140143_domaci_svm",
+      "source": "idnes.cz",
+      "snippet": "",
+      "published": "20260909T064500Z",
+      "lang": "Czech"
+    },
+    {
+      "title": "ธนาคารไทยเครดิตเปิดบ้าน ต้อนรับกองทุนชั้นนำ เยี่ยมชมศูนย์ธุรกิจสินเชื่อ Micro SME ขอนแก่น ตอกย้ำศักยภาพการเติบโตของ SME ภูมิภาค",
+      "url": "https://www.newswit.com/th/iek6t9nkwnbc8f6w3gnv59ypgw5g2rth",
+      "source": "newswit.com",
+      "snippet": "",
+      "published": "20260909T063000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Είναι διάτρητο το πλαίσιο προστασίας",
+      "url": "https://www.kathimerini.gr/opinion/564446425/einai-diatrito-to-plaisio-prostasias/",
+      "source": "kathimerini.gr",
+      "snippet": "",
+      "published": "20260909T063000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Άφαντος ο δραπέτης που το « έσκασε » από το Εφετείο Αθηνών – Ερωτήματα για την απόδραση σε ένα από τα καλύτερα φυλασσόμενα κτίρια της πρωτεούουσας",
+      "url": "https://www.inewsgr.com/227/afantos-o-drapetis-pou-to-eskase-apo-to-efeteio-athinon--erotimata-gia-tin-apodrasi-se-ena-apo-ta-kalytera-fylassomena-ktiria-tis-proteouousas.htm",
+      "source": "inewsgr.com",
+      "snippet": "",
+      "published": "20260909T063000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Grullas , té gitano y convivencia",
+      "url": "http://www.laarena.com.ar/la-pampa/grullas-te-gitano-y-convivencia-202699040",
+      "source": "laarena.com.ar",
+      "snippet": "",
+      "published": "20260909T063000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Reus suma 63 centros de culto y las iglesias evangélicas ya rozan a las católicas : el islam completa el podio",
+      "url": "https://www.diaridetarragona.com/reus/269066/reus-suma-63-centros-culto-iglesias-evangelicas-rozan-catolicas.html",
+      "source": "diaridetarragona.com",
+      "snippet": "",
+      "published": "20260909T063000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Kimse bunun için para atmıyor ama milyonlar bakın nereye gidiyor",
+      "url": "https://www.sozcu.com.tr/kimse-bunun-icin-para-atmiyor-ama-milyonlar-bakin-nereye-gidiyor-p356552",
+      "source": "sozcu.com.tr",
+      "snippet": "",
+      "published": "20260909T061500Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Cádiz mira a 2027 con el PP volcado en retener las grandes alcaldías ante un PSOE en crisis interna",
+      "url": "https://www.lavozdigital.es/provincia/cadiz-inicia-nuevo-curso-politico-mirada-puesta-20260901104517-ntv.html",
+      "source": "lavozdigital.es",
+      "snippet": "",
+      "published": "20260909T061500Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Şimdi sıra geldi Filenin Efelerine - Spor Haberleri",
+      "url": "https://www.yeniasir.com.tr/spor/2026/09/09/simdi-sira-geldi-filenin-efelerine",
+      "source": "yeniasir.com.tr",
+      "snippet": "",
+      "published": "20260909T053000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Απόδραση από το Εφετείο Αθηνών : Κρατούμενος « έγινε καπνός » μέσα από τη Λουκάρεως – Ανθρωποκυνηγητό για τον εντοπισμό του",
+      "url": "https://www.naftemporiki.gr/society/2159128/apodrasi-apo-to-efeteio-athinon-kratoymenos-egine-kapnos-mesa-apo-ti-loykareos-anthropokynigito-gia-ton-entopismo-toy/",
+      "source": "naftemporiki.gr",
+      "snippet": "",
+      "published": "20260909T053000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "SET แกว่งไซด์เวย์อัพ ตลาดไร้ปัจจัยใหม่หนุน บอนด์ยีลด์ - น้ำมันพุ่งกดดัน",
+      "url": "https://www.posttoday.com/business/stockholder/748382",
+      "source": "posttoday.com",
+      "snippet": "",
+      "published": "20260909T050000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Stronger Mental Health Counseling Services brings care to area",
+      "url": "https://www.mountaineagle.com/news/stronger-mental-health-counseling-services-brings-care-to-area/article_76a0183b-2198-56a2-968c-d010bf201998.html",
+      "source": "mountaineagle.com",
+      "snippet": "",
+      "published": "20260909T050000Z",
+      "lang": "English"
+    },
+    {
+      "title": "Furto di canottiere e slip Arrestate e scarcerate due rom",
+      "url": "https://www.zazoom.it/2026-09-09/furto-di-canottiere-e-slip-arrestate-e-scarcerate-due-rom/19658490/",
+      "source": "zazoom.it",
+      "snippet": "",
+      "published": "20260909T050000Z",
       "lang": "Italian"
+    },
+    {
+      "title": "  Excursionismo en Mallorca : El Consell impulsa un programa de travesías guiadas de cuatro días por la Ruta de la Pedra en Sec",
+      "url": "https://www.diariodemallorca.es/part-forana/2026/09/09/consell-impulsa-programa-travesias-guiadas-134073345.html",
+      "source": "diariodemallorca.es",
+      "snippet": "",
+      "published": "20260909T044500Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Ксения Собчак появилась на кинофестивале в Венеции в « голом » платье АМУР . Инфо",
+      "url": "https://amur.info/2026/09/09/kseniya-sobchak-poyavilas-na-kinofestivale-v-venetsii-v-golom-plate/",
+      "source": "amur.info",
+      "snippet": "",
+      "published": "20260909T044500Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "Sederhana , tapi Mematikan , Markus Madjar Bikin Pieter Huistra Terpukau",
+      "url": "https://www.jpnn.com/news/sederhana-tapi-mematikan-markus-madjar-bikin-pieter-huistra-terpukau",
+      "source": "jpnn.com",
+      "snippet": "",
+      "published": "20260909T044500Z",
+      "lang": "Indonesian"
+    },
+    {
+      "title": "Una vintena de gitanos entra a la universitat aquest curs",
+      "url": "https://www.diaridegirona.cat/societat/2026/09/09/vintena-gitanos-entra-universitat-aquest-134089049.html",
+      "source": "diaridegirona.cat",
+      "snippet": "",
+      "published": "20260909T044500Z",
+      "lang": "Catalan"
+    },
+    {
+      "title": "Reportaj . Adunarea căldărarilor de la Costești : când „ neferoasele  se transformă în „ atelier de gastronomie  ",
+      "url": "https://jurnalul.ro/special-jurnalul/reportaje/reportaj-adunare-caldarari-costesti-neferoase-transformate-atelier-gastronomie-1043687.html",
+      "source": "jurnalul.ro",
+      "snippet": "",
+      "published": "20260909T044500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Netflix celebra sus 15 años en América Latina",
+      "url": "https://eldia.com.do/netflix-celebra-sus-15-anos-en-america-latina/",
+      "source": "eldia.com.do",
+      "snippet": "",
+      "published": "20260909T043000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "最近の体重⋈堕落 …。 | クロオフィシャルブログPowered by Ameba",
+      "url": "https://ameblo.jp/kurori1985/entry-12978101443.html",
+      "source": "ameblo.jp",
+      "snippet": "",
+      "published": "20260909T041500Z",
+      "lang": "Japanese"
+    },
+    {
+      "title": "Rare Dolly Parton Photos : Shop High - Quality Prints Online",
+      "url": "https://www.billboard.com/culture/product-recommendations/dolly-parton-rare-candid-photos-wall-art-shop-online-1236335694/",
+      "source": "billboard.com",
+      "snippet": "",
+      "published": "20260909T041500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Los Carmen Mola vuelven con una colección de criminales en Marbella :  Este es el epicentro del narco en España  ",
+      "url": "https://www.elconfidencial.com/cultura/2026-09-09/carmen-mola-marbella-mafia-narco_4420096/",
+      "source": "elconfidencial.com",
+      "snippet": "",
+      "published": "20260909T040000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": " « Платоши нет »: отец Жанны Фриске решил лишить внука наследства из - за конфликта с Шепелевым - БлокнотРУ - Новости шоу бизнеса . Новости шоу - бизнеса России сегодня . Новости шоу - бизнеса России . Новости шоу - бизнеса . Новости шоу . Новости шо...",
+      "url": "https://bloknot.ru/kul-tura/platoshi-net-otets-zhanny-friske-reshil-lishit-vnuka-nasledstva-iz-za-konflikta-s-shepelevym-1537341.html",
+      "source": "bloknot.ru",
+      "snippet": "",
+      "published": "20260909T040000Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "Stanley Whitney debuts new and recent paintings at Gagosian in Hong Kong",
+      "url": "https://artdaily.com/news/200023/Stanley-Whitney-debuts-new-and-recent-paintings-at-Gagosian-in-Hong-Kong",
+      "source": "artdaily.com",
+      "snippet": "",
+      "published": "20260909T034500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Poslední veřejná poprava mocnářství . Sledovaly ji tisíce lidí , hlídalo i vojsko",
+      "url": "https://www.denik.cz/historie/posledni-verejna-poprava-plzen-jan-janecek/",
+      "source": "denik.cz",
+      "snippet": "",
+      "published": "20260909T033000Z",
+      "lang": "Czech"
+    },
+    {
+      "title": "Carmen Mola destapa las rencillas del poder marbellí en su última novela",
+      "url": "https://www.larazon.es/cultura/literatura/libros/carmen-mola-destapa-rencillas-poder-marbelli-ultima-novela_202609096aa052568f91e12896d67f9a.html",
+      "source": "larazon.es",
+      "snippet": "",
+      "published": "20260909T030000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "В Ярославле наградили победителей « Семьи года » и отметили родителей пятерых детей",
+      "url": "https://progorod76.ru/news/113699",
+      "source": "progorod76.ru",
+      "snippet": "",
+      "published": "20260909T030000Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "Yunanistan , Ýtalyadan 2 FREMM tipi fýrkateyn alýmý için anlaþma imzaladý",
+      "url": "https://www.yenimesaj.com.tr/yunanistan-italyadan-2-fremm-tipi-firkateyn-alimi-icin-anlasma-imzaladi-H1616260.htm",
+      "source": "yenimesaj.com.tr",
+      "snippet": "",
+      "published": "20260909T030000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Cuántos años tiene Soledad Silveyra : la edad y la trayectoria de una de las grandes actrices argentinas",
+      "url": "https://www.canal26.com/espectaculos/2026/09/08/cuantos-anos-tiene-soledad-silveyra-la-edad-y-la-trayectoria-de-una-de-las-grandes-actrices-argentinas/",
+      "source": "canal26.com",
+      "snippet": "",
+      "published": "20260909T030000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Longines League of Nations™ 2026  Gassin : pourquoi ce rendez - vous promet - il du grand spectacle ? ",
+      "url": "https://www.nicematin.com/loisirs/longines-league-of-nations-2026-a-gassin-pourquoi-ce-rendez-vous-promet-il-du-grand-spectacle-10719974",
+      "source": "nicematin.com",
+      "snippet": "",
+      "published": "20260909T020000Z",
+      "lang": "French"
+    },
+    {
+      "title": "Giá trị của những KOL đích thực",
+      "url": "https://baomoi.com/gia-tri-cua-nhung-kol-dich-thuc-c56007832.epi",
+      "source": "baomoi.com",
+      "snippet": "",
+      "published": "20260909T020000Z",
+      "lang": "Vietnamese"
+    },
+    {
+      "title": "Mourinho îl învinge pe Chivu în Champions League : Real Madrid - Inter 2 - 1",
+      "url": "https://www.stiripesurse.ro/jose-mourinho-cristi-chivu-real-madrid-inter-champions-league_3918440",
+      "source": "stiripesurse.ro",
+      "snippet": "",
+      "published": "20260909T020000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Jose Mourinho i - a transmis un mesaj lui Cristi Chivu , după ce l - a învins în Champions League",
+      "url": "https://www.gsp.ro/international/liga-campionilor/jose-mourinho-cristi-chivu-real-madrid-inter-977586.html",
+      "source": "gsp.ro",
+      "snippet": "",
+      "published": "20260909T013000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Beyoncé y Maluma homenajean a Celia Cruz",
+      "url": "https://rumba100.iheart.com/content/2026-09-08-beyonc-y-maluma-homenajean-a-celia-cruz/",
+      "source": "rumba100.iheart.com",
+      "snippet": "",
+      "published": "20260909T013000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "ไทยปักธงลงทุน  เมดิคัล ฮับ   สาธารณสุข  ดึง 6 . 8 หมื่นล้าน - ดีลแรก  เอ็มเอสดี  ",
+      "url": "https://www.bangkokbiznews.com/health/public-health/1251027",
+      "source": "bangkokbiznews.com",
+      "snippet": "",
+      "published": "20260909T010000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Nopales in Park Slope : Apapachó is a Living Love Letter to Mexico City",
+      "url": "https://ediblebrooklyn.com/apapacho-park-slope-mexican-restaurant/",
+      "source": "ediblebrooklyn.com",
+      "snippet": "",
+      "published": "20260909T001500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Trei preparate născute din sărăcie , ajunse astăzi adevărate „ elixire  ale longevității",
+      "url": "https://adevarul.ro/stil-de-viata/bucatarie/trei-preparate-nascute-din-saracie-ajunse-astazi-2554413.html",
+      "source": "adevarul.ro",
+      "snippet": "",
+      "published": "20260909T000000Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Незадачливые грабители похитили картины на €9 млн",
+      "url": "https://haqqin.az/newsarchive/392686",
+      "source": "haqqin.az",
+      "snippet": "",
+      "published": "20260908T233000Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "İsrailden sonra adres İtalya : Yunanistan iki savaş gemisi için anlaşma imzaladı",
+      "url": "https://www.yenisafak.com/dunya/israilden-sonra-adres-italya-yunanistan-iki-savas-gemisi-icin-anlasma-imzaladi-4854236",
+      "source": "yenisafak.com",
+      "snippet": "",
+      "published": "20260908T233000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Yunanistan , İtalyadan 500 milyon avroya savaş gemisi alıyor",
+      "url": "https://www.evrensel.net/haber/5999747/yunanistan-italyadan-500-milyon-avroya-savas-gemisi-aliyor",
+      "source": "evrensel.net",
+      "snippet": "",
+      "published": "20260908T233000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Elegancia sobresaliente para un centenario en La Glorieta",
+      "url": "https://www.lagacetadesalamanca.es/toros/elegancia-sobresaliente-centenario-glorieta-20260908222104-nt.html",
+      "source": "lagacetadesalamanca.es",
+      "snippet": "",
+      "published": "20260908T233000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Hồng Đào và Steven Nguyễn hé lộ màn kết hợp mới trên màn ảnh",
+      "url": "https://baomoi.com/hong-dao-va-steven-nguyen-he-lo-man-ket-hop-moi-tren-man-anh-c56006932.epi",
+      "source": "baomoi.com",
+      "snippet": "",
+      "published": "20260908T231500Z",
+      "lang": "Vietnamese"
+    },
+    {
+      "title": "Beyoncé y Maluma homenajean a Celia Cruz | La Preciosa 98 . 7 FM y 1470 AM",
+      "url": "https://lapreciosa987.iheart.com/content/2026-09-08-beyonc-y-maluma-homenajean-a-celia-cruz/",
+      "source": "lapreciosa987.iheart.com",
+      "snippet": "",
+      "published": "20260908T230000Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Jose Mourinho on Vinicius Jr :  If he works for the team , he always has my support  ",
+      "url": "https://www.managingmadrid.com/real-madrid-cf-news/112638/jose-mourinho-on-vinicius-jr-if-he-works-for-the-team-he-always-has-my-support",
+      "source": "managingmadrid.com",
+      "snippet": "",
+      "published": "20260908T230000Z",
+      "lang": "English"
+    },
+    {
+      "title": "Champions League : Με το δεξί Ρεάλ , Σίτι και Ντόρτμουντ , διπλό με ανατροπή για την Μπέτις – Δείτε τα highlights",
+      "url": "https://www.inewsgr.com/227/Champions-League-me-to-dexi-real-siti-kai-ntortmount-diplo-me-anatropi-gia-tin-betis--deite-ta-highlights.htm",
+      "source": "inewsgr.com",
+      "snippet": "",
+      "published": "20260908T221500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Лига чемпионов 2026 : за какими российскими футболистами следить",
+      "url": "https://iz.ru/2163582/aleksei-mikhailov/safonov-khaikin-i-batrakov-vykhodiat-na-evropeiskuiu-stcenu",
+      "source": "iz.ru",
+      "snippet": "",
+      "published": "20260908T221500Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "Starr County school districts to receive $11 . 1 million in federal funds",
+      "url": "https://www.krgv.com/news/starr-county-school-districts-to-receive-11-1-million-in-federal-funds",
+      "source": "krgv.com",
+      "snippet": "",
+      "published": "20260908T221500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Old Navy Beauty Co . review : We tried the nostalgic body mists",
+      "url": "https://pagesix.com/2026/09/08/style/old-navy-beauty-co-review-we-tried-the-nostalgic-body-mists/",
+      "source": "pagesix.com",
+      "snippet": "",
+      "published": "20260908T221500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Kemal Tahir , Kâmil Beyi neden harcadı ? ",
+      "url": "https://www.haberturk.com/ozel-icerikler/muhsin-kizilkaya-2291/3911176-kemal-tahir-kmil-beyi-neden-harcadi",
+      "source": "haberturk.com",
+      "snippet": "",
+      "published": "20260908T220000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "9 Eylül 2026  Dan Önemli Gündem Baþlýklarý",
+      "url": "https://www.memurlar.net/haber/1177609/9-eylul-2026-dan-onemli-gundem-basliklari.html",
+      "source": "memurlar.net",
+      "snippet": "",
+      "published": "20260908T220000Z",
+      "lang": "Turkish"
+    },
+    {
+      "title": "Netflix New  Lord of the Rings Meets Tim Burton  Series Is What Fantasy Fans Have Been Waiting For",
+      "url": "https://movieweb.com/ravenloft-fantasy-netflix-dungeons-dragons/",
+      "source": "movieweb.com",
+      "snippet": "",
+      "published": "20260908T201500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Valentín Alsina cumple 151 años y lo festeja con música , feria y propuestas para toda la familia",
+      "url": "https://www.perspectivasur.com/3/1048364042-valentn-alsina-cumple-151-aos-y-lo-festeja-con-msica-feria-y-propuestas-para-toda-la-familia",
+      "source": "perspectivasur.com",
+      "snippet": "",
+      "published": "20260908T201500Z",
+      "lang": "Spanish"
+    },
+    {
+      "title": "Силовое сопровождение при задержании подозреваемой в мошенничестве обеспечили бойцы спецподразделения Росгвардии в Марий Эл",
+      "url": "https://re-port.ru:443/pressreleases/silovoe_soprovozhdenie_pri_zaderzhanii_podozrevaemoi_v_moshennichestve_obespechili_boicy_specpodrazdelenija_rosgvardii_v_marii_yel/",
+      "source": "re-port.ru",
+      "snippet": "",
+      "published": "20260908T201500Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "DURBAN CONFERENCE , 25 YEARS ON – Paul Divakar Namala :  Solidarity and Resistance Work in the Long Run  Global Issues",
+      "url": "https://www.globalissues.org/news/2026/09/08/43991",
+      "source": "globalissues.org",
+      "snippet": "",
+      "published": "20260908T184500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Fenerbahçe vs Roma Predictions , Picks & Odds",
+      "url": "https://www.toffeeweb.com/fenerbahce-vs-roma-predictions-picks-odds-10-09-2026/",
+      "source": "toffeeweb.com",
+      "snippet": "",
+      "published": "20260908T181500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Συναγερμός στο Εφετείο Αθηνών : 26χρονος κρατούμενος απέδρασε από το κτίριο",
+      "url": "https://www.madata.gr/epikairotita/social/977908-synagermos-sto-efeteio-athinon-26chronos-kratoymenos-apedrase-apo-to-ktirio.html",
+      "source": "madata.gr",
+      "snippet": "",
+      "published": "20260908T181500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Glaustai : kratos pas „ aušriečius , rusiškų grūdų tranzitas , penkiolikmečių pasiekimai",
+      "url": "https://m.kauno.diena.lt/naujienos/lietuva/salies-pulsas/glaustai-kratos-pas-ausriecius-rusisku-grudu-tranzitas-penkiolikmeciu-pasiekimai-1773841",
+      "source": "m.kauno.diena.lt",
+      "snippet": "",
+      "published": "20260908T181500Z",
+      "lang": "Lithuanian"
+    },
+    {
+      "title": "Ребёнок приносит обед нетронутым : способ превратить обычную еду в удобный пакет",
+      "url": "https://www.pravda.ru/news/recipes/2404275-school-lunch-meat-snacks-recipes/",
+      "source": "pravda.ru",
+      "snippet": "",
+      "published": "20260908T181500Z",
+      "lang": "Russian"
+    },
+    {
+      "title": "Tyson Fury praises Oleksandr Usyk for accepting trilogy call out",
+      "url": "https://boxingnewsonline.net/news/usyk-and-tyson-fury-send-new-messages/",
+      "source": "boxingnewsonline.net",
+      "snippet": "",
+      "published": "20260908T181500Z",
+      "lang": "English"
+    },
+    {
+      "title": "Kultūros instituto vadovė Julija Reklaitė : „ Nuolat bėgdami maratoną sprinto tempu , sudeginsime kultūros lauką  | Kultūra",
+      "url": "https://www.15min.lt/kultura/naujiena/asmenybe/kulturos-instituto-vadove-julija-reklaite-nuolat-begdami-maratona-sprinto-tempu-sudeginsime-kulturos-lauka-285-2758536",
+      "source": "15min.lt",
+      "snippet": "",
+      "published": "20260908T180000Z",
+      "lang": "Lithuanian"
+    },
+    {
+      "title": "Детектив на Волині : роми забрали чужу дитину",
+      "url": "https://www.volynnews.com/news/all/detektyv-na-volyni-romy-zabraly-chuzhu-dytynu/",
+      "source": "volynnews.com",
+      "snippet": "",
+      "published": "20260908T180000Z",
+      "lang": "Ukrainian"
+    },
+    {
+      "title": "Rusia intensifică războiul hibrid în Europa . Ce au în comun spionul capturat în România , dronele de la Leipzig și atacurile din Marea Britanie",
+      "url": "https://adevarul.ro/stiri-externe/europa/rusia-intensifica-razboiul-hibrid-in-europa-ce-au-2554949.html",
+      "source": "adevarul.ro",
+      "snippet": "",
+      "published": "20260908T174500Z",
+      "lang": "Romanian"
+    },
+    {
+      "title": "Αντί για λίρες τους έδωσε πέτρες και καλαμπόκια : 67χρονος στη Λαμία τους έστησε διπλή παγίδα",
+      "url": "https://www.patrasevents.gr/article/755901-anti-gia-lires-tous-edose-petres-ke-kalabokia-67xronos-sti-lamia-tous-estise-dipli-pagida",
+      "source": "patrasevents.gr",
+      "snippet": "",
+      "published": "20260908T173000Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Συναγερμός στο Εφετείο Αθηνών : Απέδρασε 26χρονος κρατούμενος , αναζητείται από τις Αρχές",
+      "url": "https://www.newsit.gr/ellada/synagermos-sto-efeteio-athinon-apedrase-26xronos-kratoumenos-anaziteitai-apo-tis-arxes/4769271/",
+      "source": "newsit.gr",
+      "snippet": "",
+      "published": "20260908T171500Z",
+      "lang": "Greek"
+    },
+    {
+      "title": "Galleria e esedra dei mercati di Traiano | uno scrigno prezioso dal Grande Mosaico alla Città Dipinta Dal 12 settembre nuovi percorsi e visite guidate",
+      "url": "https://www.zazoom.it/2026-09-08/galleria-e-esedra-dei-mercati-di-traiano-uno-scrigno-prezioso-dal-grande-mosaico-alla-citta-dipinta-dal-12-settembre-nuovi-percorsi-e-visite-guidate/19656782/",
+      "source": "zazoom.it",
+      "snippet": "",
+      "published": "20260908T143000Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "Marco Pusceddu , arrestati i presunti mandanti : sono lex fidanzata e lattuale compagno . « 15mila euro a due rom per ucciderlo » ",
+      "url": "https://www.leggo.it/italia/cronache/08_settembre_2026_marco_pusceddu_arrestati_mandanti_ex_fidanzata_15mila_euro_killer-9751090.html",
+      "source": "leggo.it",
+      "snippet": "",
+      "published": "20260908T143000Z",
+      "lang": "Italian"
+    },
+    {
+      "title": "7 ปีที่รอ คลอด  แผนพลังงานชาติ  ฉบับใหม่ ใช้พ . ย . นี้ ค่าไฟเฉลี่ย 3 . 88 บาท SMR 9 , 000 เมกะวัตต์",
+      "url": "https://www.dailynews.co.th/news/6173936/",
+      "source": "dailynews.co.th",
+      "snippet": "",
+      "published": "20260908T130000Z",
+      "lang": "Thai"
+    },
+    {
+      "title": "Našu folkerku majka htela da uda sa 14 ona pobegla od kuće spavala na stanici",
+      "url": "https://www.blic.rs/zabava/nasu-folkerku-majka-htela-da-uda-sa-14-ona-pobegla-od-kuce-spavala-na-stanici/zhwpcvc",
+      "source": "blic.rs",
+      "snippet": "",
+      "published": "20260908T130000Z",
+      "lang": "Serbian"
+    },
+    {
+      "title": "Усик Фьюри третий бой – в команде украинского боксера отреагировали на предложение британца",
+      "url": "https://fight.24tv.ua/ru/usik-fjuri-tretij-boj-komande-ukrainskogo-boksera-otreagirovali_n3137930",
+      "source": "fight.24tv.ua",
+      "snippet": "",
+      "published": "20260908T130000Z",
+      "lang": "Russian"
     }
   ]
 }
