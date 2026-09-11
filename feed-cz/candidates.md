@@ -1,79 +1,79 @@
-# Kandidáti — 2026-09-10T11:52:20+00:00 (19 položek)
+# Kandidáti — 2026-09-11T11:50:59+00:00 (19 položek)
 
-_Zdroje: Google News 72 · GDELT 0 (disabled) · feedy 3 · watch 0_
+_Zdroje: Google News 65 · GDELT 0 (disabled) · feedy 3 · watch 0_
 
-1. **David: „Poprvé jsem potkal tolik Romů, kteří studují vysokou školu, pracují na sobě a snaží se něco změnit.** — https://iqrs.cz/feed/ [cs]
-   https://iqrs.cz/david-gendalos/
-   David studuje na Mendelově univerzitě, pracuje jako průvodce v Muzeu romské kultury a získává zkušenosti ve světě financí. Účastní se také mezinárodních akcí pro mladé Romy a Romky. Právě díky mezinár
+1. **Známý fotograf Karel Cudlín vystavil snímky Václava Havla od roku 1989 - Aktuálně.cz** — Aktuálně.cz [cs]
+   https://magazin.aktualne.cz/kultura/umeni/znamy-fotograf-karel-cudlin-vystavil-snimky-vaclava-havla-od-roku-1989/r~aaa29d6acdae528d07613e19fd6d59f6/
+   Známý fotograf Karel Cudlín vystavil snímky Václava Havla od roku 1989 Aktuálně.cz
 
-2. **G MMA má problém. Romové se zlobí, že dělají ostudu vlastním lidem. A hlavní hvězda chce utéct ještě před zápasem - Sportwin.cz** — Sportwin.cz [cs]
-   https://sportwin.cz/clanek/60635-G-MMA-ma-problem-Romove-se-zlobi-ze-delaji-ostudu-vlastni-lidem-A-hlavni-hvezda-chce-utect-jeste-pred-zapasem.html
-   G MMA má problém. Romové se zlobí, že dělají ostudu vlastním lidem. A hlavní hvězda chce utéct ještě před zápasem Sportwin.cz
+2. **IROFF: Ange je završením kariéry režijního mistra, který si vytyčil za cíl přiblížit romskou kulturu v plné kráse - Totalfilm.cz** — Totalfilm.cz [cs]
+   https://www.totalfilm.cz/2026/09/iroff-ange-romsky-film-festival-tony-gatlif/
+   IROFF: Ange je završením kariéry režijního mistra, který si vytyčil za cíl přiblížit romskou kulturu v plné kráse Totalfilm.cz
 
-3. **IROFF začíná: Romský filmový festival nabídne české i světové premiéry, hudbu a setkání s tvůrci - Totalfilm.cz** — Totalfilm.cz [cs]
-   https://www.totalfilm.cz/2026/09/iroff-zacina-romsky-filmovy-festival/
-   IROFF začíná: Romský filmový festival nabídne české i světové premiéry, hudbu a setkání s tvůrci Totalfilm.cz
+3. **Schůzka premiérů zemí V4 - 10. září 05:59 - Studio 6 - Česká televize** — Česká televize [cs]
+   https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010100910/cast/1207350/
+   Schůzka premiérů zemí V4 - 10. září 05:59 - Studio 6 Česká televize
 
-4. **Ničivý požár v romské osadě v Mirkovcích na východě Slovenska - CNN Prima NEWS** — CNN Prima NEWS [cs]
-   https://cnn.iprima.cz/videa/nicivy-pozar-v-romske-osade-v-mirkovcich-na-vychode-slovenska
-   Ničivý požár v romské osadě v Mirkovcích na východě Slovenska CNN Prima NEWS
+4. **Festival IROFF vzdává poctu zesnulému režiséru Tonymu Gatlifovi - Radiožurnál** — Radiožurnál [cs]
+   https://radiozurnal.rozhlas.cz/festival-iroff-vzdava-poctu-zesnulemu-reziseru-tonymu-gatlifovi-9641880
+   Festival IROFF vzdává poctu zesnulému režiséru Tonymu Gatlifovi Radiožurnál
 
-5. **Proč by každx mělx číst romskou literaturu? - art2friends** — art2friends [cs]
-   https://www.art2friends.cz/clanek/proc-by-kazdx-melx-cist-romskou-literaturu
-   Proč by každx mělx číst romskou literaturu? art2friends
+5. **Boj o ostravskou Bedřišku nekončí. Lidé z kolonie kandidují proti radnici ve volbách - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/volby-komunalni-boj-o-ostravskou-bedrisku-nekonci-lide-z-kolonie-kandiduji-proti-radnici-ve-volbach-40597131
+   Boj o ostravskou Bedřišku nekončí. Lidé z kolonie kandidují proti radnici ve volbách Novinky
 
-6. **Slibují bizarní souboje za miliony. Co se děje okolo nové bojové organizace - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/domaci/g-mma-jiri-kajinek-miroslav-sladek-jiri-paroubek-zapasy-politici-influenceri-boj.A260907_140143_domaci_svm?zdroj=sph_hp
-   Slibují bizarní souboje za miliony. Co se děje okolo nové bojové organizace iDNES.cz
+6. **Židovský kodex z doby války je stinnou stránkou Slovenska, uvedli politici - Křesťan dnes** — Křesťan dnes [cs]
+   https://www.krestandnes.cz/zidovsky-kodex-z-doby-valky-je-stinnou-strankou-slovenska-uvedli-politici/
+   Židovský kodex z doby války je stinnou stránkou Slovenska, uvedli politici Křesťan dnes
 
-7. **Strana Le Penové vyloučí policistu vyšetřovaného kvůli rasistickým výrokům - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/clanek/zahranicni-strana-le-penove-vylouci-policistu-vysetrovaneho-kvuli-rasistickym-vyrokum-315010
-   Strana Le Penové vyloučí policistu vyšetřovaného kvůli rasistickým výrokům Seznam Zprávy
+7. **Terorismus je individualizovaný. Osamělí vlci mají ale širší zázemí na sociálních sítích, upozorňuje Charvát - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/terorismus-je-individualizovany-osameli-vlci-maji-ale-sirsi-zazemi-na-socialnich_2609111038_bva
+   Terorismus je individualizovaný. Osamělí vlci mají ale širší zázemí na sociálních sítích, upozorňuje Charvát iROZHLAS
 
-8. **RECENZE: 33 kroků ke smrti i uzdravení traumatizované duše oběti rasistického útoku - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/kultura-filmy-serialy-recenze-33-kroku-ke-smrti-i-uzdraveni-traumatizovane-duse-obeti-rasistickeho-utoku-40596666
-   RECENZE: 33 kroků ke smrti i uzdravení traumatizované duše oběti rasistického útoku Novinky
+8. **Politolog Miroslav Mareš: K extremismu se hlásí i dvanáctiletí. „Osamělí vlci“ přitom nejsou osamělí - Český rozhlas Dvojka** — Český rozhlas Dvojka [cs]
+   https://dvojka.rozhlas.cz/politolog-miroslav-mares-k-extremismu-se-hlasi-uz-i-dvanactileti-osameli-vlci-9642384
+   Politolog Miroslav Mareš: K extremismu se hlásí i dvanáctiletí. „Osamělí vlci“ přitom nejsou osamělí Český rozhlas Dvojka
 
-9. **„Všude Arabáci, neg...“ Policistu vyhodili ze strany Le Penové kvůli rasistickým výrokům - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/francie-policie-rasismus-le-penova-vysetrovani.A260910_115438_zahranicni_dtt
-   „Všude Arabáci, neg...“ Policistu vyhodili ze strany Le Penové kvůli rasistickým výrokům iDNES.cz
+9. **Spor o Falklandy přiživuje Izrael. Jde o ropu i volby - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/svet/spor-o-falklandy-prizivuje-izrael-jde-o-ropu-i-volby-377406
+   Spor o Falklandy přiživuje Izrael. Jde o ropu i volby ČT24
 
-10. **Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus - Britské listy** — Britské listy [cs]
-   https://blisty.cz/art/136001-proc-afd-neni-jen-opozicni-strana-a-proc-ceska-media-zlehcuji-jeji-extremismus.html
-   Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus Britské listy
+10. **Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus | 10. 9. 2026 - Britské listy** — Britské listy [cs]
+   https://www.blisty.cz/art/136001-proc-afd-neni-jen-opozicni-strana-a-proc-ceska-media-zlehcuji-jeji-extremismus.html
+   Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus | 10. 9. 2026 Britské listy
 
-11. **IKEA může krajní pravici zakázat používání svých ilustrací - VOXPOT** — VOXPOT [cs]
-   https://www.voxpot.cz/live-feed/36698/ikea-muze-krajni-pravici-zakazat-pouzivani-svych-ilustraci
-   IKEA může krajní pravici zakázat používání svých ilustrací VOXPOT
+11. **Jiří Pehe: Vítězství Alternativy pro Německo nelze vysvětlit jen sociálními problémy - RESPEKT** — RESPEKT [cs]
+   https://www.respekt.cz/ranni-postreh/jiri-pehe-vitezstvi-alternativy-pro-nemecko-nelze-vysvetlit-jen-socialnimi-problemy
+   Jiří Pehe: Vítězství Alternativy pro Německo nelze vysvětlit jen sociálními problémy RESPEKT
 
-12. **Jak čelit extremismu? Německo řeší ústavní limity radikálních stran - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/svet/jak-celit-extremismu-nemecko-resi-ustavni-limity-radikalnich-stran-377422
-   Jak čelit extremismu? Německo řeší ústavní limity radikálních stran ČT24
+12. **AfD nevyhrála proto, že má Německo problém s migrací. Hlavně šlo o ekonomiku, míní politolog Charvát - Český rozhlas Plus** — Český rozhlas Plus [cs]
+   https://plus.rozhlas.cz/afd-nevyhrala-proto-ze-ma-nemecko-problem-s-migraci-hlavne-slo-o-ekonomiku-mini-9642164
+   AfD nevyhrála proto, že má Německo problém s migrací. Hlavně šlo o ekonomiku, míní politolog Charvát Český rozhlas Plus
 
-13. **Německem se šíří protesty proti AfD, zatímco krajní pravice se přibližuje k vítězství ve dvou dalších spolkových zemích - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/135931-nemeckem-se-siri-protesty-proti-afd-zatimco-krajni-pravice-se-priblizuje-k-vitezstvi-ve-dvou-dalsich-spolkovych-zemich
-   Německem se šíří protesty proti AfD, zatímco krajní pravice se přibližuje k vítězství ve dvou dalších spolkových zemích Britské listy
+13. **Od kritiky eura k extrémismu. Kdo je kdo ve vítězící AfD - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/domaci-od-kritiky-eura-k-extremismu-kdo-je-kdo-ve-vitezici-afd-40596451
+   Od kritiky eura k extrémismu. Kdo je kdo ve vítězící AfD Novinky
 
-14. **7. září - Události v regionech (sever a východ) - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/video/katalog/udalosti-v-regionech-udalosti-v-regionech-907-68b98b3e80750bba450b24d9
-   7. září - Události v regionech (sever a východ) ČT24
+14. **Šídlo: Motoristé dělají z vlády frašku. Babiš bude řešit, jestli to už není příliš velký cirkus - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-domov/sidlo-motoriste-delaji-z-vlady-frasku-babis-bude-resit-jestli-uz-neni-prilis_2609102333_dci
+   Šídlo: Motoristé dělají z vlády frašku. Babiš bude řešit, jestli to už není příliš velký cirkus iROZHLAS
 
-15. **Moneta spouští založení a správu DIP kompletně přes mobilní aplikaci - E15.cz** — E15.cz [cs]
-   https://www.e15.cz/finexpert/banky-a-ucty/moneta-spousti-zalozeni-a-spravu-dip-kompletne-pres-mobilni-aplikaci-1435659
-   Moneta spouští založení a správu DIP kompletně přes mobilní aplikaci E15.cz
+15. **Online: První trénink na Grand Prix Španělska 2026 - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/gp-spanelska-2026-prvni-trenink
+   Online: První trénink na Grand Prix Španělska 2026 F1sport.cz – podrobné zpravodajství ze světa F1
 
-16. **Sociální bydlení - 8. září - Události v regionech (Brno) - ceskatelevize.cz** — ceskatelevize.cz [cs]
-   https://www.ceskatelevize.cz/porady/10122427178-udalosti-v-regionech-brno/326281381990908/cast/1206884/
-   Sociální bydlení - 8. září - Události v regionech (Brno) ceskatelevize.cz
+16. **Banka ohlásila velkou odstávku systémů. Omezí bankovnictví i identitu - E15.cz** — E15.cz [cs]
+   https://www.e15.cz/finexpert/banky-a-ucty/banka-ohlasila-velkou-odstavku-systemu-omezi-bankovnictvi-i-identitu-1435710
+   Banka ohlásila velkou odstávku systémů. Omezí bankovnictví i identitu E15.cz
 
-17. **EU chce dát městům oporu v boji s Airbnb, říká Opletal k chystanému nařízení o dostupném bydlení - irozhlas.cz** — irozhlas.cz [cs]
-   https://www.irozhlas.cz/zpravy-svet/eu-chce-dat-mestum-oporu-v-boji-s-airbnb-rika-opletal-k-chystanemu-narizeni-o_2609092026_elev
-   EU chce dát městům oporu v boji s Airbnb, říká Opletal k chystanému nařízení o dostupném bydlení irozhlas.cz
+17. **Nevím, jestli žije v reálném světě, říká Vémola o Lele. Nabízím jí 80 tisíc měsíčně, ale má to podmínku - Život v Česku** — Život v Česku [cs]
+   https://zivotvcesku.cz/nevim-jestli-zije-v-realnem-svete-rika-vemola-o-lele-nabizim-ji-80-tisic-mesicne-ale-ma-to-podminku/
+   Nevím, jestli žije v reálném světě, říká Vémola o Lele. Nabízím jí 80 tisíc měsíčně, ale má to podmínku Život v Česku
 
-18. **VOLÍM BYDLENÍ, AŤ TO TU ŽIJE! Piráti zahájili horkou fázi komunální kampaně. Chtějí vrátit bydlení lidem na dosah - pirati.cz** — pirati.cz [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/volim-bydleni-at-to-tu-zije-pirati-zahajili-horkou-fazi-komunalni-kampane-chteji-vratit-bydleni-lidem-na-dosah/
-   VOLÍM BYDLENÍ, AŤ TO TU ŽIJE! Piráti zahájili horkou fázi komunální kampaně. Chtějí vrátit bydlení lidem na dosah pirati.cz
+18. **Novu okruh Madring? Trať, která může ničit auta, tvrdí Vowles - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/novu-okruh-madring-trat-ktera-muze-nicit-auta-tvrdi-vowles
+   Novu okruh Madring? Trať, která může ničit auta, tvrdí Vowles F1sport.cz – podrobné zpravodajství ze světa F1
 
-19. **Naše Česko zahájilo v Ostravě kampaň, do koalice by nešlo s komunisty a SPD - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/moravskoslezsky-kraj/nase-cesko-zahajilo-v-ostrave-kampan-do-koalice-by-neslo-s-komunisty-a-spd.A260909_144536_metro-ostrava-zpravy_air
-   Naše Česko zahájilo v Ostravě kampaň, do koalice by nešlo s komunisty a SPD Metro.cz
+19. **Zajistit dostupné bydlení v Č. Budějovicích je jedna z priorit Pirátů - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihocesky-kraj/zajistit-dostupne-bydleni-v-c-budejovicich-je-jedna-z-priorit-piratu.A260910_153032_metro-budejovice-zpravy_air
+   Zajistit dostupné bydlení v Č. Budějovicích je jedna z priorit Pirátů Metro.cz
