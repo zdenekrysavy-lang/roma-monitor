@@ -1,79 +1,135 @@
-# Kandidáti — 2026-09-11T11:50:59+00:00 (19 položek)
+# Kandidáti — 2026-09-12T11:17:53+00:00 (33 položek)
 
-_Zdroje: Google News 65 · GDELT 0 (disabled) · feedy 3 · watch 0_
+_Zdroje: Google News 68 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **Známý fotograf Karel Cudlín vystavil snímky Václava Havla od roku 1989 - Aktuálně.cz** — Aktuálně.cz [cs]
-   https://magazin.aktualne.cz/kultura/umeni/znamy-fotograf-karel-cudlin-vystavil-snimky-vaclava-havla-od-roku-1989/r~aaa29d6acdae528d07613e19fd6d59f6/
-   Známý fotograf Karel Cudlín vystavil snímky Václava Havla od roku 1989 Aktuálně.cz
+1. **Ruská agrese na Ukrajině - 10. září 05:59 - Studio 6 - Česká televize** — Česká televize [cs]
+   https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010100910/cast/1207340/
+   Ruská agrese na Ukrajině - 10. září 05:59 - Studio 6 Česká televize
 
-2. **IROFF: Ange je završením kariéry režijního mistra, který si vytyčil za cíl přiblížit romskou kulturu v plné kráse - Totalfilm.cz** — Totalfilm.cz [cs]
-   https://www.totalfilm.cz/2026/09/iroff-ange-romsky-film-festival-tony-gatlif/
-   IROFF: Ange je završením kariéry režijního mistra, který si vytyčil za cíl přiblížit romskou kulturu v plné kráse Totalfilm.cz
+2. **Čtyři dny, kdy Praha patří romskému filmu. IROFF přnáši příběhy z Česka i světa - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/rem-obcanska-tiskova-agentura-ctyri-dny-kdy-praha-patri-romskemu-filmu-iroff-prnasi-pribehy-z-ceska-i-sveta-319299
+   Čtyři dny, kdy Praha patří romskému filmu. IROFF přnáši příběhy z Česka i světa medium.seznam.cz
 
-3. **Schůzka premiérů zemí V4 - 10. září 05:59 - Studio 6 - Česká televize** — Česká televize [cs]
-   https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010100910/cast/1207350/
-   Schůzka premiérů zemí V4 - 10. září 05:59 - Studio 6 Česká televize
+3. **Program má připravit Romy k vysokoškolskému studiu - Radio Prague International** — Radio Prague International [cs]
+   https://cesky.radio.cz/node/8532490/o-poradu
+   Program má připravit Romy k vysokoškolskému studiu Radio Prague International
 
-4. **Festival IROFF vzdává poctu zesnulému režiséru Tonymu Gatlifovi - Radiožurnál** — Radiožurnál [cs]
-   https://radiozurnal.rozhlas.cz/festival-iroff-vzdava-poctu-zesnulemu-reziseru-tonymu-gatlifovi-9641880
-   Festival IROFF vzdává poctu zesnulému režiséru Tonymu Gatlifovi Radiožurnál
+4. **Rodina z Vítkova si našla bydlení, chybí jí ale peníze - Radio Prague International** — Radio Prague International [cs]
+   https://cesky.radio.cz/node/8417537/o-poradu
+   Rodina z Vítkova si našla bydlení, chybí jí ale peníze Radio Prague International
 
-5. **Boj o ostravskou Bedřišku nekončí. Lidé z kolonie kandidují proti radnici ve volbách - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/volby-komunalni-boj-o-ostravskou-bedrisku-nekonci-lide-z-kolonie-kandiduji-proti-radnici-ve-volbach-40597131
-   Boj o ostravskou Bedřišku nekončí. Lidé z kolonie kandidují proti radnici ve volbách Novinky
+5. **Na Vánoce bude asi popálená Natálka s rodinou a v novém domku - Radio Prague International** — Radio Prague International [cs]
+   https://cesky.radio.cz/node/8409935/o-poradu
+   Na Vánoce bude asi popálená Natálka s rodinou a v novém domku Radio Prague International
 
-6. **Židovský kodex z doby války je stinnou stránkou Slovenska, uvedli politici - Křesťan dnes** — Křesťan dnes [cs]
-   https://www.krestandnes.cz/zidovsky-kodex-z-doby-valky-je-stinnou-strankou-slovenska-uvedli-politici/
-   Židovský kodex z doby války je stinnou stránkou Slovenska, uvedli politici Křesťan dnes
+6. **Nigerijští senátoři a poslanci na protest proti nárůstu xenofobie v Jihoafrické republice z posledních měsíců pozastavují s touto zemí vztahy - Deník N** — Deník N [cs]
+   https://denikn.cz/minuta/2182387/
+   Nigerijští senátoři a poslanci na protest proti nárůstu xenofobie v Jihoafrické republice z posledních měsíců pozastavují s touto zemí vztahy Deník N
 
-7. **Terorismus je individualizovaný. Osamělí vlci mají ale širší zázemí na sociálních sítích, upozorňuje Charvát - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/terorismus-je-individualizovany-osameli-vlci-maji-ale-sirsi-zazemi-na-socialnich_2609111038_bva
-   Terorismus je individualizovaný. Osamělí vlci mají ale širší zázemí na sociálních sítích, upozorňuje Charvát iROZHLAS
+7. **„Chybí generál s koulemi, malý puč by nevadil.“ Francie je v šoku z uniklé nahrávky - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1668381-chybi-general-s-koulemi-maly-puc-by-nevadil-francie-je-v-soku-z-unikle-nahravky.html
+   „Chybí generál s koulemi, malý puč by nevadil.“ Francie je v šoku z uniklé nahrávky www.prahanadlani.cz
 
-8. **Politolog Miroslav Mareš: K extremismu se hlásí i dvanáctiletí. „Osamělí vlci“ přitom nejsou osamělí - Český rozhlas Dvojka** — Český rozhlas Dvojka [cs]
-   https://dvojka.rozhlas.cz/politolog-miroslav-mares-k-extremismu-se-hlasi-uz-i-dvanactileti-osameli-vlci-9642384
-   Politolog Miroslav Mareš: K extremismu se hlásí i dvanáctiletí. „Osamělí vlci“ přitom nejsou osamělí Český rozhlas Dvojka
+8. **Trump je tak extrémní, že vedle něj i krajní pravice vypadá umírněná, říká politolog z Georgie - Deník N** — Deník N [cs]
+   https://denikn.cz/2181870/trump-je-tak-extremni-ze-vedle-nej-i-krajni-pravice-vypada-umirnena-rika-politolog-z-georgie/
+   Trump je tak extrémní, že vedle něj i krajní pravice vypadá umírněná, říká politolog z Georgie Deník N
 
-9. **Spor o Falklandy přiživuje Izrael. Jde o ropu i volby - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/svet/spor-o-falklandy-prizivuje-izrael-jde-o-ropu-i-volby-377406
-   Spor o Falklandy přiživuje Izrael. Jde o ropu i volby ČT24
+9. **Rajchl chce změnit ústavu. Není to extremismus, ale zdravý rozum, říká - TN.cz** — TN.cz [cs]
+   https://tn.nova.cz/zpravodajstvi/clanek/656747-rajchl-chce-zmenit-ustavu-neni-to-extremismus-ale-zdravy-rozum-rika
+   Rajchl chce změnit ústavu. Není to extremismus, ale zdravý rozum, říká TN.cz
 
-10. **Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus | 10. 9. 2026 - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/136001-proc-afd-neni-jen-opozicni-strana-a-proc-ceska-media-zlehcuji-jeji-extremismus.html
-   Proč AfD není jen „opoziční strana“. A proč česká média zlehčují její extremismus | 10. 9. 2026 Britské listy
+10. **AfD není jen protestní strana. Její extremismus má konkrétní podobu - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/jan-cemper-afd-neni-jen-protestni-strana-jeji-extremismus-ma-konkretni-podobu-319619
+   AfD není jen protestní strana. Její extremismus má konkrétní podobu medium.seznam.cz
 
-11. **Jiří Pehe: Vítězství Alternativy pro Německo nelze vysvětlit jen sociálními problémy - RESPEKT** — RESPEKT [cs]
-   https://www.respekt.cz/ranni-postreh/jiri-pehe-vitezstvi-alternativy-pro-nemecko-nelze-vysvetlit-jen-socialnimi-problemy
-   Jiří Pehe: Vítězství Alternativy pro Německo nelze vysvětlit jen sociálními problémy RESPEKT
+11. **Za válku na Ukrajině nese vinu Západ a lidé v Evropě to chápou, řekl Putin - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/2873487
+   Za válku na Ukrajině nese vinu Západ a lidé v Evropě to chápou, řekl Putin České noviny
 
-12. **AfD nevyhrála proto, že má Německo problém s migrací. Hlavně šlo o ekonomiku, míní politolog Charvát - Český rozhlas Plus** — Český rozhlas Plus [cs]
-   https://plus.rozhlas.cz/afd-nevyhrala-proto-ze-ma-nemecko-problem-s-migraci-hlavne-slo-o-ekonomiku-mini-9642164
-   AfD nevyhrála proto, že má Německo problém s migrací. Hlavně šlo o ekonomiku, míní politolog Charvát Český rozhlas Plus
+12. **Putin roky živil vlastní neonacisty, zatímco křičel o „nacistech“ na Ukrajině - ArmádníZpravodaj.cz** — ArmádníZpravodaj.cz [cs]
+   https://armadnizpravodaj.cz/udalosti/putin-roky-zivil-a-vyuzival-vlastni-neonacisty/
+   Putin roky živil vlastní neonacisty, zatímco křičel o „nacistech“ na Ukrajině ArmádníZpravodaj.cz
 
-13. **Od kritiky eura k extrémismu. Kdo je kdo ve vítězící AfD - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/domaci-od-kritiky-eura-k-extremismu-kdo-je-kdo-ve-vitezici-afd-40596451
-   Od kritiky eura k extrémismu. Kdo je kdo ve vítězící AfD Novinky
+13. **Události v Evropě, včetně vítězství krajní pravice v zemských volbách v Německu, jsou důsledkem systémových chyb, kterých se dopustili západní globalisté - Deník N** — Deník N [cs]
+   https://denikn.cz/minuta/2182471/
+   Události v Evropě, včetně vítězství krajní pravice v zemských volbách v Německu, jsou důsledkem systémových chyb, kterých se dopustili západní globalisté Deník N
 
-14. **Šídlo: Motoristé dělají z vlády frašku. Babiš bude řešit, jestli to už není příliš velký cirkus - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-domov/sidlo-motoriste-delaji-z-vlady-frasku-babis-bude-resit-jestli-uz-neni-prilis_2609102333_dci
-   Šídlo: Motoristé dělají z vlády frašku. Babiš bude řešit, jestli to už není příliš velký cirkus iROZHLAS
+14. **Politolog Miroslav Mareš: K extremismu se hlásí už i dvanáctiletí. „Osamělí vlci“ přitom nejsou osamělí - Portál Českého rozhlasu** — Portál Českého rozhlasu [cs]
+   http://www.rozhlas.cz/politolog-miroslav-mares-k-extremismu-se-hlasi-uz-i-dvanactileti-osameli-vlci-9642384
+   Politolog Miroslav Mareš: K extremismu se hlásí už i dvanáctiletí. „Osamělí vlci“ přitom nejsou osamělí Portál Českého rozhlasu
 
-15. **Online: První trénink na Grand Prix Španělska 2026 - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
-   https://f1sport.auto.cz/clanek/gp-spanelska-2026-prvni-trenink
-   Online: První trénink na Grand Prix Španělska 2026 F1sport.cz – podrobné zpravodajství ze světa F1
+15. **AfD už není protestní strana na okraji systému. Její úspěch může poškodit i Česko, upozorňuje Bříza - irozhlas.cz** — irozhlas.cz [cs]
+   https://www.irozhlas.cz/zpravy-svet/afd-uz-neni-protestni-strana-na-okraji-systemu-jeji-uspech-muze-poskodit-i-cesko_2609111621_elev
+   AfD už není protestní strana na okraji systému. Její úspěch může poškodit i Česko, upozorňuje Bříza irozhlas.cz
 
-16. **Banka ohlásila velkou odstávku systémů. Omezí bankovnictví i identitu - E15.cz** — E15.cz [cs]
-   https://www.e15.cz/finexpert/banky-a-ucty/banka-ohlasila-velkou-odstavku-systemu-omezi-bankovnictvi-i-identitu-1435710
-   Banka ohlásila velkou odstávku systémů. Omezí bankovnictví i identitu E15.cz
+16. **Děti si ve škole nechtějí dělat vazby, aby se zase nezranily, říká Renata Sochorová - Naše Broumovsko** — Naše Broumovsko [cs]
+   https://nase.broumovsko.cz/adresa-periferie/deti-si-ve-skole-nechteji-delat-vazby-aby-se-zase-nezranily-rika-renata-sochorova
+   Děti si ve škole nechtějí dělat vazby, aby se zase nezranily, říká Renata Sochorová Naše Broumovsko
 
-17. **Nevím, jestli žije v reálném světě, říká Vémola o Lele. Nabízím jí 80 tisíc měsíčně, ale má to podmínku - Život v Česku** — Život v Česku [cs]
-   https://zivotvcesku.cz/nevim-jestli-zije-v-realnem-svete-rika-vemola-o-lele-nabizim-ji-80-tisic-mesicne-ale-ma-to-podminku/
-   Nevím, jestli žije v reálném světě, říká Vémola o Lele. Nabízím jí 80 tisíc měsíčně, ale má to podmínku Život v Česku
+17. **Superdávka má od 1. října 2026 nové pravidlo: Tisíce Čechů budou dostávat na bydlení více peněz - EnergoZrouti.cz** — EnergoZrouti.cz [cs]
+   https://energozrouti.cz/clanek/superdavka-ma-od-1-rijna-2026-nove-pravidlo
+   Superdávka má od 1. října 2026 nové pravidlo: Tisíce Čechů budou dostávat na bydlení více peněz EnergoZrouti.cz
 
-18. **Novu okruh Madring? Trať, která může ničit auta, tvrdí Vowles - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
-   https://f1sport.auto.cz/clanek/novu-okruh-madring-trat-ktera-muze-nicit-auta-tvrdi-vowles
-   Novu okruh Madring? Trať, která může ničit auta, tvrdí Vowles F1sport.cz – podrobné zpravodajství ze světa F1
+18. **Vyděláváte kolem 30 tisíc? Pak možná máte nárok na superdávku - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/jeronym-ervin-vlazny-vydelavate-kolem-30-tisic-pak-mozna-mate-narok-na-superdavku-310944
+   Vyděláváte kolem 30 tisíc? Pak možná máte nárok na superdávku medium.seznam.cz
 
-19. **Zajistit dostupné bydlení v Č. Budějovicích je jedna z priorit Pirátů - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/jihocesky-kraj/zajistit-dostupne-bydleni-v-c-budejovicich-je-jedna-z-priorit-piratu.A260910_153032_metro-budejovice-zpravy_air
-   Zajistit dostupné bydlení v Č. Budějovicích je jedna z priorit Pirátů Metro.cz
+19. **„Kdyby pracovala načerno, dostala by více.“ 62leté ženě stát přiznal pracovní bonus pouhých 78 Kč - TVGURU.cz** — TVGURU.cz [cs]
+   https://www.tvguru.cz/62lete-zene-stat-priznal-pracovni-bonus-pouhych-78-kc/
+   „Kdyby pracovala načerno, dostala by více.“ 62leté ženě stát přiznal pracovní bonus pouhých 78 Kč TVGURU.cz
+
+20. **Odvrácená strana příspěvku na bydlení: Úředníci mohou kdykoliv zkontrolovat váš plat i majetek - EnergoZrouti.cz** — EnergoZrouti.cz [cs]
+   https://energozrouti.cz/clanek/kontrola-prijmu-a-majetku-u-superdavky
+   Odvrácená strana příspěvku na bydlení: Úředníci mohou kdykoliv zkontrolovat váš plat i majetek EnergoZrouti.cz
+
+21. **Kvalifikace bude hodně napínavá, řká Leclerc - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/kvalifikace-bude-hodne-napinava-rka-leclerc
+   Kvalifikace bude hodně napínavá, řká Leclerc F1sport.cz – podrobné zpravodajství ze světa F1
+
+22. **EU si chce posvítit na krátkodobé pronájmy. Krizi bydlení to nevyřeší, namítají odborníci - TN.cz** — TN.cz [cs]
+   https://tn.nova.cz/zpravodajstvi/clanek/656712-eu-si-chce-posvitit-na-kratkodobe-pronajmy-krizi-bydleni-to-nevyresi-namitaji-odbornici
+   EU si chce posvítit na krátkodobé pronájmy. Krizi bydlení to nevyřeší, namítají odborníci TN.cz
+
+23. **Vytáhnout z auta maximální výkon je těžké, říká Piastri. Norrise potrápily technické problémy - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/vytahnout-z-auta-maximalni-vykon-je-tezke-rika-piastri-norrise-potrapily-technicke-problemy
+   Vytáhnout z auta maximální výkon je těžké, říká Piastri. Norrise potrápily technické problémy F1sport.cz – podrobné zpravodajství ze světa F1
+
+24. **Moneta spouští založení a správu DIP kompletně přes mobilní aplikaci - E15.cz** — E15.cz [cs]
+   https://www.e15.cz/finexpert/banky-a-ucty/moneta-dlouhodoby-investicni-produkt-lze-nove-sjednat-online-v-mobilu-1435659
+   Moneta spouští založení a správu DIP kompletně přes mobilní aplikaci E15.cz
+
+25. **Nejsem fanouškem městských okruhů, říká Verstappen - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/nejsem-fanouskem-mestskych-okruhu-rika-verstappen
+   Nejsem fanouškem městských okruhů, říká Verstappen F1sport.cz – podrobné zpravodajství ze světa F1
+
+26. **Lídři stran chtějí zajistit dostupné bydlení, aby lidé z Ostravy neodcházeli - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/moravskoslezsky-kraj/lidri-stran-chteji-zajistit-dostupne-bydleni-aby-lide-z-ostravy-neodchazeli.A260912_073043_metro-ostrava-zpravy_air
+   Lídři stran chtějí zajistit dostupné bydlení, aby lidé z Ostravy neodcházeli Metro.cz
+
+27. **kruh podzim 2026: Dostupné bydlení - archiweb.cz** — archiweb.cz [cs]
+   https://www.archiweb.cz/n/prednasky/kruh-podzim-2026-dostupne-bydleni
+   kruh podzim 2026: Dostupné bydlení archiweb.cz
+
+28. **K hlavním tématům voleb v Jablonci nad Nisou patří bezpečnost a dostupné bydlení - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/liberecky-kraj/k-hlavnim-tematum-voleb-v-jablonci-nad-nisou-patri-bezpecnost-a-dostupne-bydleni.A260912_073054_metro-liberec-zpravy_air
+   K hlavním tématům voleb v Jablonci nad Nisou patří bezpečnost a dostupné bydlení Metro.cz
+
+29. **Prázdné byty a roky čekání na povolení. Jižní Morava utíká před bytovou krizí - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/brno/zpravy/vystavba-dostupne-bydleni-bytova-krize-projekty-konference.A260911_150418_brno-zpravy_azu
+   Prázdné byty a roky čekání na povolení. Jižní Morava utíká před bytovou krizí iDNES.cz
+
+30. **FOR ARCH 2026 vstupuje do nové éry. Nabídne osm odborných platforem a zaměří se i na dostupné bydlení - Cysnews** — Cysnews [cs]
+   https://www.cysnews.cz/top-clanky/for-arch-2026-vstupuje-do-nove-ery-nabidne-osm-odbornych-platforem-a-zameri-se-i-na-dostupne-bydleni/amp/
+   FOR ARCH 2026 vstupuje do nové éry. Nabídne osm odborných platforem a zaměří se i na dostupné bydlení Cysnews
+
+31. **Stát zveřejňuje čísla krizových linek, jejich provoz ale nechává na sbírkách. Piráti chtějí stabilní financování - pirati.cz** — pirati.cz [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/stat-zverejnuje-cisla-krizovych-linek-jejich-provoz-ale-nechava-na-sbirkach-pirati-chteji-stabilni-financovani/
+   Stát zveřejňuje čísla krizových linek, jejich provoz ale nechává na sbírkách. Piráti chtějí stabilní financování pirati.cz
+
+32. **EU chce zpřísnit pravidla pro Airbnb a krátkodobé pronájmy kvůli bytové krizi - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/svet/eu-chce-zprisnit-pravidla-pro-airbnb-a-kratkodobe-pronajmy-kvuli-bytove-krizi-377417
+   EU chce zpřísnit pravidla pro Airbnb a krátkodobé pronájmy kvůli bytové krizi ČT24
+
+33. **Zuzana Mrázová slibuje stavební povolení na dům do 60 dnů - Frekvence 1** — Frekvence 1 [cs]
+   https://www.frekvence1.cz/zpravy/zuzana-mrazova-pred-novelou-stavebniho-zakona-jsou-si-vsichni-rovni.shtml
+   Zuzana Mrázová slibuje stavební povolení na dům do 60 dnů Frekvence 1
