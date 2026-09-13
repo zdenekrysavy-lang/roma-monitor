@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-09-12T11:17:53+00:00",
-  "count": 33,
+  "generated_utc": "2026-09-13T12:19:43+00:00",
+  "count": 21,
   "sources": {
     "profile": "cz",
     "google_news": 68,
@@ -8,278 +8,182 @@
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 1,
+    "feeds": 0,
     "watch": 0,
-    "before_dedup": 56,
-    "total": 53,
-    "skipped_seen": 20,
-    "gn_resolved": 33,
-    "gn_resolve_tried": 33,
+    "before_dedup": 57,
+    "total": 50,
+    "skipped_seen": 29,
+    "gn_resolved": 21,
+    "gn_resolve_tried": 21,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Ruská agrese na Ukrajině - 10. září 05:59 - Studio 6 - Česká televize",
-      "url": "https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010100910/cast/1207340/",
-      "source": "Česká televize",
-      "snippet": "Ruská agrese na Ukrajině - 10. září 05:59 - Studio 6 Česká televize",
-      "published": "Fri, 11 Sep 2026 12:37:21 GMT",
+      "title": "Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle - Český rozhlas Brno",
+      "url": "https://brno.rozhlas.cz/andrej-gina-jak-rom-privedl-gadza-k-rozumu-a-jak-romove-hrali-v-pekle-9641999",
+      "source": "Český rozhlas Brno",
+      "snippet": "Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle Český rozhlas Brno",
+      "published": "Sun, 13 Sep 2026 05:49:07 GMT",
       "lang": "cs"
     },
     {
-      "title": "Čtyři dny, kdy Praha patří romskému filmu. IROFF přnáši příběhy z Česka i světa - medium.seznam.cz",
-      "url": "https://medium.seznam.cz/clanek/rem-obcanska-tiskova-agentura-ctyri-dny-kdy-praha-patri-romskemu-filmu-iroff-prnasi-pribehy-z-ceska-i-sveta-319299",
-      "source": "medium.seznam.cz",
-      "snippet": "Čtyři dny, kdy Praha patří romskému filmu. IROFF přnáši příběhy z Česka i světa medium.seznam.cz",
-      "published": "Thu, 10 Sep 2026 14:29:55 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Program má připravit Romy k vysokoškolskému studiu - Radio Prague International",
-      "url": "https://cesky.radio.cz/node/8532490/o-poradu",
-      "source": "Radio Prague International",
-      "snippet": "Program má připravit Romy k vysokoškolskému studiu Radio Prague International",
-      "published": "Thu, 10 Sep 2026 00:05:12 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Rodina z Vítkova si našla bydlení, chybí jí ale peníze - Radio Prague International",
-      "url": "https://cesky.radio.cz/node/8417537/o-poradu",
-      "source": "Radio Prague International",
-      "snippet": "Rodina z Vítkova si našla bydlení, chybí jí ale peníze Radio Prague International",
-      "published": "Fri, 11 Sep 2026 05:36:11 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Na Vánoce bude asi popálená Natálka s rodinou a v novém domku - Radio Prague International",
-      "url": "https://cesky.radio.cz/node/8409935/o-poradu",
-      "source": "Radio Prague International",
-      "snippet": "Na Vánoce bude asi popálená Natálka s rodinou a v novém domku Radio Prague International",
-      "published": "Thu, 10 Sep 2026 17:13:12 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Nigerijští senátoři a poslanci na protest proti nárůstu xenofobie v Jihoafrické republice z posledních měsíců pozastavují s touto zemí vztahy - Deník N",
-      "url": "https://denikn.cz/minuta/2182387/",
-      "source": "Deník N",
-      "snippet": "Nigerijští senátoři a poslanci na protest proti nárůstu xenofobie v Jihoafrické republice z posledních měsíců pozastavují s touto zemí vztahy Deník N",
-      "published": "Fri, 11 Sep 2026 19:46:02 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Chybí generál s koulemi, malý puč by nevadil.“ Francie je v šoku z uniklé nahrávky - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1668381-chybi-general-s-koulemi-maly-puc-by-nevadil-francie-je-v-soku-z-unikle-nahravky.html",
-      "source": "www.prahanadlani.cz",
-      "snippet": "„Chybí generál s koulemi, malý puč by nevadil.“ Francie je v šoku z uniklé nahrávky www.prahanadlani.cz",
-      "published": "Fri, 11 Sep 2026 16:21:06 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Trump je tak extrémní, že vedle něj i krajní pravice vypadá umírněná, říká politolog z Georgie - Deník N",
-      "url": "https://denikn.cz/2181870/trump-je-tak-extremni-ze-vedle-nej-i-krajni-pravice-vypada-umirnena-rika-politolog-z-georgie/",
-      "source": "Deník N",
-      "snippet": "Trump je tak extrémní, že vedle něj i krajní pravice vypadá umírněná, říká politolog z Georgie Deník N",
-      "published": "Sat, 12 Sep 2026 06:00:51 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Rajchl chce změnit ústavu. Není to extremismus, ale zdravý rozum, říká - TN.cz",
-      "url": "https://tn.nova.cz/zpravodajstvi/clanek/656747-rajchl-chce-zmenit-ustavu-neni-to-extremismus-ale-zdravy-rozum-rika",
-      "source": "TN.cz",
-      "snippet": "Rajchl chce změnit ústavu. Není to extremismus, ale zdravý rozum, říká TN.cz",
-      "published": "Sat, 12 Sep 2026 10:42:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "AfD není jen protestní strana. Její extremismus má konkrétní podobu - medium.seznam.cz",
-      "url": "https://medium.seznam.cz/clanek/jan-cemper-afd-neni-jen-protestni-strana-jeji-extremismus-ma-konkretni-podobu-319619",
-      "source": "medium.seznam.cz",
-      "snippet": "AfD není jen protestní strana. Její extremismus má konkrétní podobu medium.seznam.cz",
-      "published": "Fri, 11 Sep 2026 15:23:39 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Za válku na Ukrajině nese vinu Západ a lidé v Evropě to chápou, řekl Putin - České noviny",
-      "url": "https://www.ceskenoviny.cz/zpravy/2873487",
-      "source": "České noviny",
-      "snippet": "Za válku na Ukrajině nese vinu Západ a lidé v Evropě to chápou, řekl Putin České noviny",
-      "published": "Sat, 12 Sep 2026 01:03:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Putin roky živil vlastní neonacisty, zatímco křičel o „nacistech“ na Ukrajině - ArmádníZpravodaj.cz",
-      "url": "https://armadnizpravodaj.cz/udalosti/putin-roky-zivil-a-vyuzival-vlastni-neonacisty/",
-      "source": "ArmádníZpravodaj.cz",
-      "snippet": "Putin roky živil vlastní neonacisty, zatímco křičel o „nacistech“ na Ukrajině ArmádníZpravodaj.cz",
-      "published": "Sat, 12 Sep 2026 04:58:59 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Události v Evropě, včetně vítězství krajní pravice v zemských volbách v Německu, jsou důsledkem systémových chyb, kterých se dopustili západní globalisté - Deník N",
-      "url": "https://denikn.cz/minuta/2182471/",
-      "source": "Deník N",
-      "snippet": "Události v Evropě, včetně vítězství krajní pravice v zemských volbách v Německu, jsou důsledkem systémových chyb, kterých se dopustili západní globalisté Deník N",
-      "published": "Sat, 12 Sep 2026 05:30:37 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Politolog Miroslav Mareš: K extremismu se hlásí už i dvanáctiletí. „Osamělí vlci“ přitom nejsou osamělí - Portál Českého rozhlasu",
-      "url": "http://www.rozhlas.cz/politolog-miroslav-mares-k-extremismu-se-hlasi-uz-i-dvanactileti-osameli-vlci-9642384",
-      "source": "Portál Českého rozhlasu",
-      "snippet": "Politolog Miroslav Mareš: K extremismu se hlásí už i dvanáctiletí. „Osamělí vlci“ přitom nejsou osamělí Portál Českého rozhlasu",
-      "published": "Fri, 11 Sep 2026 09:03:10 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "AfD už není protestní strana na okraji systému. Její úspěch může poškodit i Česko, upozorňuje Bříza - irozhlas.cz",
-      "url": "https://www.irozhlas.cz/zpravy-svet/afd-uz-neni-protestni-strana-na-okraji-systemu-jeji-uspech-muze-poskodit-i-cesko_2609111621_elev",
-      "source": "irozhlas.cz",
-      "snippet": "AfD už není protestní strana na okraji systému. Její úspěch může poškodit i Česko, upozorňuje Bříza irozhlas.cz",
-      "published": "Fri, 11 Sep 2026 14:21:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Děti si ve škole nechtějí dělat vazby, aby se zase nezranily, říká Renata Sochorová - Naše Broumovsko",
-      "url": "https://nase.broumovsko.cz/adresa-periferie/deti-si-ve-skole-nechteji-delat-vazby-aby-se-zase-nezranily-rika-renata-sochorova",
-      "source": "Naše Broumovsko",
-      "snippet": "Děti si ve škole nechtějí dělat vazby, aby se zase nezranily, říká Renata Sochorová Naše Broumovsko",
-      "published": "Sat, 12 Sep 2026 03:00:42 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Superdávka má od 1. října 2026 nové pravidlo: Tisíce Čechů budou dostávat na bydlení více peněz - EnergoZrouti.cz",
-      "url": "https://energozrouti.cz/clanek/superdavka-ma-od-1-rijna-2026-nove-pravidlo",
-      "source": "EnergoZrouti.cz",
-      "snippet": "Superdávka má od 1. října 2026 nové pravidlo: Tisíce Čechů budou dostávat na bydlení více peněz EnergoZrouti.cz",
-      "published": "Fri, 11 Sep 2026 17:31:01 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Vyděláváte kolem 30 tisíc? Pak možná máte nárok na superdávku - medium.seznam.cz",
-      "url": "https://medium.seznam.cz/clanek/jeronym-ervin-vlazny-vydelavate-kolem-30-tisic-pak-mozna-mate-narok-na-superdavku-310944",
-      "source": "medium.seznam.cz",
-      "snippet": "Vyděláváte kolem 30 tisíc? Pak možná máte nárok na superdávku medium.seznam.cz",
-      "published": "Thu, 10 Sep 2026 05:16:13 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Kdyby pracovala načerno, dostala by více.“ 62leté ženě stát přiznal pracovní bonus pouhých 78 Kč - TVGURU.cz",
-      "url": "https://www.tvguru.cz/62lete-zene-stat-priznal-pracovni-bonus-pouhych-78-kc/",
-      "source": "TVGURU.cz",
-      "snippet": "„Kdyby pracovala načerno, dostala by více.“ 62leté ženě stát přiznal pracovní bonus pouhých 78 Kč TVGURU.cz",
-      "published": "Sat, 12 Sep 2026 04:51:07 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Odvrácená strana příspěvku na bydlení: Úředníci mohou kdykoliv zkontrolovat váš plat i majetek - EnergoZrouti.cz",
-      "url": "https://energozrouti.cz/clanek/kontrola-prijmu-a-majetku-u-superdavky",
-      "source": "EnergoZrouti.cz",
-      "snippet": "Odvrácená strana příspěvku na bydlení: Úředníci mohou kdykoliv zkontrolovat váš plat i majetek EnergoZrouti.cz",
-      "published": "Sat, 12 Sep 2026 02:24:01 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Kvalifikace bude hodně napínavá, řká Leclerc - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/kvalifikace-bude-hodne-napinava-rka-leclerc",
-      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Kvalifikace bude hodně napínavá, řká Leclerc F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Fri, 11 Sep 2026 19:07:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "EU si chce posvítit na krátkodobé pronájmy. Krizi bydlení to nevyřeší, namítají odborníci - TN.cz",
-      "url": "https://tn.nova.cz/zpravodajstvi/clanek/656712-eu-si-chce-posvitit-na-kratkodobe-pronajmy-krizi-bydleni-to-nevyresi-namitaji-odbornici",
-      "source": "TN.cz",
-      "snippet": "EU si chce posvítit na krátkodobé pronájmy. Krizi bydlení to nevyřeší, namítají odborníci TN.cz",
-      "published": "Fri, 11 Sep 2026 19:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Vytáhnout z auta maximální výkon je těžké, říká Piastri. Norrise potrápily technické problémy - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/vytahnout-z-auta-maximalni-vykon-je-tezke-rika-piastri-norrise-potrapily-technicke-problemy",
-      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Vytáhnout z auta maximální výkon je těžké, říká Piastri. Norrise potrápily technické problémy F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Fri, 11 Sep 2026 17:51:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Moneta spouští založení a správu DIP kompletně přes mobilní aplikaci - E15.cz",
-      "url": "https://www.e15.cz/finexpert/banky-a-ucty/moneta-dlouhodoby-investicni-produkt-lze-nove-sjednat-online-v-mobilu-1435659",
-      "source": "E15.cz",
-      "snippet": "Moneta spouští založení a správu DIP kompletně přes mobilní aplikaci E15.cz",
-      "published": "Wed, 09 Sep 2026 12:05:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Nejsem fanouškem městských okruhů, říká Verstappen - F1sport.cz – podrobné zpravodajství ze světa F1",
-      "url": "https://f1sport.auto.cz/clanek/nejsem-fanouskem-mestskych-okruhu-rika-verstappen",
-      "source": "F1sport.cz – podrobné zpravodajství ze světa F1",
-      "snippet": "Nejsem fanouškem městských okruhů, říká Verstappen F1sport.cz – podrobné zpravodajství ze světa F1",
-      "published": "Fri, 11 Sep 2026 17:39:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Lídři stran chtějí zajistit dostupné bydlení, aby lidé z Ostravy neodcházeli - Metro.cz",
-      "url": "https://www.metro.cz/kraje/moravskoslezsky-kraj/lidri-stran-chteji-zajistit-dostupne-bydleni-aby-lide-z-ostravy-neodchazeli.A260912_073043_metro-ostrava-zpravy_air",
+      "title": "Sošky na hrobech zdražily o sto procent. Jedna může stát přes 400 eur - Metro.cz",
+      "url": "https://www.metro.cz/praha/na-malvazinkach-pribyvaji-sosky-krista-a-panny-marie-kde-se-vsechny-berou.A260911_124520_metro-praha_mhrab",
       "source": "Metro.cz",
-      "snippet": "Lídři stran chtějí zajistit dostupné bydlení, aby lidé z Ostravy neodcházeli Metro.cz",
-      "published": "Sat, 12 Sep 2026 04:00:00 GMT",
+      "snippet": "Sošky na hrobech zdražily o sto procent. Jedna může stát přes 400 eur Metro.cz",
+      "published": "Sun, 13 Sep 2026 10:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "kruh podzim 2026: Dostupné bydlení - archiweb.cz",
-      "url": "https://www.archiweb.cz/n/prednasky/kruh-podzim-2026-dostupne-bydleni",
-      "source": "archiweb.cz",
-      "snippet": "kruh podzim 2026: Dostupné bydlení archiweb.cz",
-      "published": "Fri, 11 Sep 2026 11:15:00 GMT",
+      "title": "Kolínský městský společenský dům hostil romskou zábavu - kolinsky.denik.cz",
+      "url": "https://kolinsky.denik.cz/zpravy-z-ceska/kolinsky-mestsky-spolecensky-dum-hostil-romskou-zabavu/",
+      "source": "kolinsky.denik.cz",
+      "snippet": "Kolínský městský společenský dům hostil romskou zábavu kolinsky.denik.cz",
+      "published": "Sun, 13 Sep 2026 05:40:55 GMT",
       "lang": "cs"
     },
     {
-      "title": "K hlavním tématům voleb v Jablonci nad Nisou patří bezpečnost a dostupné bydlení - Metro.cz",
-      "url": "https://www.metro.cz/kraje/liberecky-kraj/k-hlavnim-tematum-voleb-v-jablonci-nad-nisou-patri-bezpecnost-a-dostupne-bydleni.A260912_073054_metro-liberec-zpravy_air",
+      "title": "Děti Romů budou mít přípravné třídy a děti azylantů své školy - Radio Prague International",
+      "url": "https://cesky.radio.cz/node/8536815/o-poradu",
+      "source": "Radio Prague International",
+      "snippet": "Děti Romů budou mít přípravné třídy a děti azylantů své školy Radio Prague International",
+      "published": "Fri, 11 Sep 2026 03:37:32 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Hřbitov jako galerie. Pozůstalí na Slovensku dávají za hroby i stovky tisíc - TN.cz",
+      "url": "https://tn.nova.cz/zpravodajstvi/clanek/656486-hrbitov-jako-galerie-pozustali-na-slovensku-davaji-za-hroby-i-stovky-tisic",
+      "source": "TN.cz",
+      "snippet": "Hřbitov jako galerie. Pozůstalí na Slovensku dávají za hroby i stovky tisíc TN.cz",
+      "published": "Sat, 12 Sep 2026 19:07:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nová cyklostezka za bezmála pět milionů korun propojila Opavu s Oldřišovem - Metro.cz",
+      "url": "https://www.metro.cz/kraje/moravskoslezsky-kraj/nova-cyklostezka-za-bezmala-pet-milionu-korun-propojila-opavu-s-oldrisovem.A260913_120031_metro-ostrava-zpravy_air",
       "source": "Metro.cz",
-      "snippet": "K hlavním tématům voleb v Jablonci nad Nisou patří bezpečnost a dostupné bydlení Metro.cz",
-      "published": "Sat, 12 Sep 2026 04:00:00 GMT",
+      "snippet": "Nová cyklostezka za bezmála pět milionů korun propojila Opavu s Oldřišovem Metro.cz",
+      "published": "Sun, 13 Sep 2026 08:21:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Prázdné byty a roky čekání na povolení. Jižní Morava utíká před bytovou krizí - iDNES.cz",
-      "url": "https://www.idnes.cz/brno/zpravy/vystavba-dostupne-bydleni-bytova-krize-projekty-konference.A260911_150418_brno-zpravy_azu",
+      "title": "Likvidace ostravských ubytoven odhaluje hlubinu bytové politiky. Nevíme si s ní rady - Lidovky.cz",
+      "url": "https://www.lidovky.cz/nazory/lidkivdace-ubytoven-ostrava-bytova-politika-hluk-starostove.A260907_121207_ln_nazory_rkj",
+      "source": "Lidovky.cz",
+      "snippet": "Likvidace ostravských ubytoven odhaluje hlubinu bytové politiky. Nevíme si s ní rady Lidovky.cz",
+      "published": "Sat, 12 Sep 2026 15:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "CELÝ DÍL VÝMĚNY MANŽELEK: Slzy, nevěra a strach dětí - TV Nova",
+      "url": "https://tv.nova.cz/porad/vymena-manzelek/video-epizoda/12792-10-dil",
+      "source": "TV Nova",
+      "snippet": "CELÝ DÍL VÝMĚNY MANŽELEK: Slzy, nevěra a strach dětí TV Nova",
+      "published": "Fri, 11 Sep 2026 13:35:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "V Brně se strhla hromadná bitka. Děje se to tady pořád, stěžují si místní - TN.cz",
+      "url": "https://tn.nova.cz/zpravodajstvi/clanek/656709-v-brne-se-strhla-hromadna-bitka-deje-se-to-tady-porad-stezuji-si-mistni",
+      "source": "TN.cz",
+      "snippet": "V Brně se strhla hromadná bitka. Děje se to tady pořád, stěžují si místní TN.cz",
+      "published": "Fri, 11 Sep 2026 18:58:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Švédi vybírají novou vládu, poprvé by v ní mohla zasednout krajní pravice - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/svedsko-volby-pravice-levice-parlament.A260913_083215_zahranicni_dtt",
       "source": "iDNES.cz",
-      "snippet": "Prázdné byty a roky čekání na povolení. Jižní Morava utíká před bytovou krizí iDNES.cz",
-      "published": "Fri, 11 Sep 2026 13:59:00 GMT",
+      "snippet": "Švédi vybírají novou vládu, poprvé by v ní mohla zasednout krajní pravice iDNES.cz",
+      "published": "Sun, 13 Sep 2026 06:49:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Co je radikální extremismus a kdo je to radikální extremista? - medium.seznam.cz",
+      "url": "https://medium.seznam.cz/clanek/kovarik-vaclav-co-je-radikalni-extremismus-a-kdo-je-to-radikalni-extremista-320304",
+      "source": "medium.seznam.cz",
+      "snippet": "Co je radikální extremismus a kdo je to radikální extremista? medium.seznam.cz",
+      "published": "Sat, 12 Sep 2026 22:04:18 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "V Německu lidé protestovali proti krajně pravicové straně AfD - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-nemecku-lide-protestovali-proti-krajne-pravicove-strane-afd-377525",
+      "source": "ČT24",
+      "snippet": "V Německu lidé protestovali proti krajně pravicové straně AfD ČT24",
+      "published": "Sat, 12 Sep 2026 20:30:37 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Volit se chystá i Švédsko, také tam řeší krajní pravici - Deník Referendum",
+      "url": "https://denikreferendum.cz/clanek/239344-volit-se-chysta-i-svedsko-take-tam-resi-krajni-pravici",
+      "source": "Deník Referendum",
+      "snippet": "Volit se chystá i Švédsko, také tam řeší krajní pravici Deník Referendum",
+      "published": "Sat, 12 Sep 2026 21:55:02 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Ve Švédsku začaly parlamentní volby. K moci se může dostat krajní pravice - CNN Prima NEWS",
+      "url": "https://cnn.iprima.cz/ve-svedsku-odstartovaly-parlamentni-volby-na-vlade-se-poprve-muze-podilet-krajni-pravice-521661",
+      "source": "CNN Prima NEWS",
+      "snippet": "Ve Švédsku začaly parlamentní volby. K moci se může dostat krajní pravice CNN Prima NEWS",
+      "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Studie: Lidé se s Evropou ztotožňují, ale pochybují o budoucnosti. Může to nahrávat krajní pravici - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/studie-lide-se-s-evropou-ztotoznuji-ale-pochybuji-o-budoucnosti-muze-nahravat_2609121652_elev",
+      "source": "iROZHLAS",
+      "snippet": "Studie: Lidé se s Evropou ztotožňují, ale pochybují o budoucnosti. Může to nahrávat krajní pravici iROZHLAS",
+      "published": "Sat, 12 Sep 2026 14:52:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Hamiltonovi v posledním pokusu chyběla přilnavost a rychlost - f1sport.auto.cz",
+      "url": "https://f1sport.auto.cz/clanek/hamiltonovi-v-poslednim-pokusu-chybela-prilnavost-a-rychlost",
+      "source": "f1sport.auto.cz",
+      "snippet": "Hamiltonovi v posledním pokusu chyběla přilnavost a rychlost f1sport.auto.cz",
+      "published": "Sat, 12 Sep 2026 17:13:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Verstappen je s třetím místem v kvalifikaci spokojen - f1sport.auto.cz",
+      "url": "https://f1sport.auto.cz/clanek/verstappen-je-s-tretim-mistem-v-kvalifikaci-spokojen",
+      "source": "f1sport.auto.cz",
+      "snippet": "Verstappen je s třetím místem v kvalifikaci spokojen f1sport.auto.cz",
+      "published": "Sat, 12 Sep 2026 16:13:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Russella také čekají penalizace. Termín se však zřejmě posune - f1sport.auto.cz",
+      "url": "https://f1sport.auto.cz/clanek/russella-take-cekaji-penalizace-termin-se-vsak-zrejme-posune",
+      "source": "f1sport.auto.cz",
+      "snippet": "Russella také čekají penalizace. Termín se však zřejmě posune f1sport.auto.cz",
+      "published": "Fri, 11 Sep 2026 14:22:00 GMT",
       "lang": "cs"
     },
     {
       "title": "FOR ARCH 2026 vstupuje do nové éry. Nabídne osm odborných platforem a zaměří se i na dostupné bydlení - Cysnews",
-      "url": "https://www.cysnews.cz/top-clanky/for-arch-2026-vstupuje-do-nove-ery-nabidne-osm-odbornych-platforem-a-zameri-se-i-na-dostupne-bydleni/amp/",
+      "url": "https://www.cysnews.cz/top-clanky/for-arch-2026-vstupuje-do-nove-ery-nabidne-osm-odbornych-platforem-a-zameri-se-i-na-dostupne-bydleni/",
       "source": "Cysnews",
       "snippet": "FOR ARCH 2026 vstupuje do nové éry. Nabídne osm odborných platforem a zaměří se i na dostupné bydlení Cysnews",
-      "published": "Sat, 12 Sep 2026 05:09:26 GMT",
+      "published": "Sat, 12 Sep 2026 05:13:08 GMT",
       "lang": "cs"
     },
     {
-      "title": "Stát zveřejňuje čísla krizových linek, jejich provoz ale nechává na sbírkách. Piráti chtějí stabilní financování - pirati.cz",
-      "url": "https://www.pirati.cz/jak-pirati-pracuji/stat-zverejnuje-cisla-krizovych-linek-jejich-provoz-ale-nechava-na-sbirkach-pirati-chteji-stabilni-financovani/",
-      "source": "pirati.cz",
-      "snippet": "Stát zveřejňuje čísla krizových linek, jejich provoz ale nechává na sbírkách. Piráti chtějí stabilní financování pirati.cz",
-      "published": "Thu, 10 Sep 2026 11:27:00 GMT",
+      "title": "Nájemní byt v Praze jako rychlá skládačka. Developeři reagují na vysokou poptávku - iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/najemni-byt-praha-developer-vystavba.A260831_091133_praha-zpravy_tmps",
+      "source": "iDNES.cz",
+      "snippet": "Nájemní byt v Praze jako rychlá skládačka. Developeři reagují na vysokou poptávku iDNES.cz",
+      "published": "Sun, 13 Sep 2026 08:04:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "EU chce zpřísnit pravidla pro Airbnb a krátkodobé pronájmy kvůli bytové krizi - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/eu-chce-zprisnit-pravidla-pro-airbnb-a-kratkodobe-pronajmy-kvuli-bytove-krizi-377417",
-      "source": "ČT24",
-      "snippet": "EU chce zpřísnit pravidla pro Airbnb a krátkodobé pronájmy kvůli bytové krizi ČT24",
-      "published": "Wed, 09 Sep 2026 15:21:02 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Zuzana Mrázová slibuje stavební povolení na dům do 60 dnů - Frekvence 1",
-      "url": "https://www.frekvence1.cz/zpravy/zuzana-mrazova-pred-novelou-stavebniho-zakona-jsou-si-vsichni-rovni.shtml",
-      "source": "Frekvence 1",
-      "snippet": "Zuzana Mrázová slibuje stavební povolení na dům do 60 dnů Frekvence 1",
-      "published": "Fri, 11 Sep 2026 12:53:15 GMT",
+      "title": "Hradec Králové: Družstevní bydlení dostává zelenou - ParlamentniListy.cz",
+      "url": "https://www.parlamentnilisty.cz/politika/obce-volicum/Hradec-Kralove-Druzstevni-bydleni-dostava-zelenou-796649",
+      "source": "ParlamentniListy.cz",
+      "snippet": "Hradec Králové: Družstevní bydlení dostává zelenou ParlamentniListy.cz",
+      "published": "Fri, 11 Sep 2026 08:23:00 GMT",
       "lang": "cs"
     }
   ]
