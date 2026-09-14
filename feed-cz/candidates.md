@@ -1,87 +1,75 @@
-# Kandidáti — 2026-09-13T12:19:43+00:00 (21 položek)
+# Kandidáti — 2026-09-14T13:23:32+00:00 (18 položek)
 
-_Zdroje: Google News 68 · GDELT 0 (disabled) · feedy 0 · watch 0_
+_Zdroje: Google News 62 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle - Český rozhlas Brno** — Český rozhlas Brno [cs]
-   https://brno.rozhlas.cz/andrej-gina-jak-rom-privedl-gadza-k-rozumu-a-jak-romove-hrali-v-pekle-9641999
-   Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle Český rozhlas Brno
+1. **Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle - Český rozhlas Olomouc** — Český rozhlas Olomouc [cs]
+   https://olomouc.rozhlas.cz/andrej-gina-jak-rom-privedl-gadza-k-rozumu-a-jak-romove-hrali-v-pekle-9641999
+   Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle Český rozhlas Olomouc
 
-2. **Sošky na hrobech zdražily o sto procent. Jedna může stát přes 400 eur - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/praha/na-malvazinkach-pribyvaji-sosky-krista-a-panny-marie-kde-se-vsechny-berou.A260911_124520_metro-praha_mhrab
-   Sošky na hrobech zdražily o sto procent. Jedna může stát přes 400 eur Metro.cz
+2. **Romské talenty odpadají už na školách. Brněnský festival řeší bariéry u filmu - Brněnská Drbna** — Brněnská Drbna [cs]
+   https://brnenska.drbna.cz/spolecnost/899443-romske-talenty-odpadaji-uz-na-skolach-brnensky-festival-resi-bariery-u-filmu.html
+   Romské talenty odpadají už na školách. Brněnský festival řeší bariéry u filmu Brněnská Drbna
 
-3. **Kolínský městský společenský dům hostil romskou zábavu - kolinsky.denik.cz** — kolinsky.denik.cz [cs]
-   https://kolinsky.denik.cz/zpravy-z-ceska/kolinsky-mestsky-spolecensky-dum-hostil-romskou-zabavu/
-   Kolínský městský společenský dům hostil romskou zábavu kolinsky.denik.cz
+3. **Chce mě za každou cenu dostat do vězení, tvrdí muž obžalovaný z útoku kyselinou - tv.idnes.cz** — tv.idnes.cz [cs]
+   https://tv.idnes.cz/krimi/chce-me-za-kazdou-cenu-dostat-do-vezeni-tvrdi-muz-obzalovany-z-utoku-kyselinou.V260914_135730_idnestv_jda
+   Chce mě za každou cenu dostat do vězení, tvrdí muž obžalovaný z útoku kyselinou tv.idnes.cz
 
-4. **Děti Romů budou mít přípravné třídy a děti azylantů své školy - Radio Prague International** — Radio Prague International [cs]
-   https://cesky.radio.cz/node/8536815/o-poradu
-   Děti Romů budou mít přípravné třídy a děti azylantů své školy Radio Prague International
+4. **Sexy OnlyFans modelka řádí ve vězení jako smyslů zbavená: Urážky, potyčky a rasismus! - Blesk** — Blesk [cs]
+   https://www.blesk.cz/clanek/zpravy-krimi/847912/sexy-onlyfans-modelka-radi-ve-vezeni-jako-smyslu-zbavena-urazky-potycky-a-rasismus.html
+   Sexy OnlyFans modelka řádí ve vězení jako smyslů zbavená: Urážky, potyčky a rasismus! Blesk
 
-5. **Hřbitov jako galerie. Pozůstalí na Slovensku dávají za hroby i stovky tisíc - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/656486-hrbitov-jako-galerie-pozustali-na-slovensku-davaji-za-hroby-i-stovky-tisic
-   Hřbitov jako galerie. Pozůstalí na Slovensku dávají za hroby i stovky tisíc TN.cz
+5. **Ve švédských volbách směřuje k výhře levicová opozice. Krajní pravice dopadla hůře, než se čekalo - Deník N** — Deník N [cs]
+   https://denikn.cz/2183406/ve-svedskych-volbach-smeruje-k-vyhre-levicova-opozice-krajni-pravice-dopadla-hure-nez-se-cekalo/
+   Ve švédských volbách směřuje k výhře levicová opozice. Krajní pravice dopadla hůře, než se čekalo Deník N
 
-6. **Nová cyklostezka za bezmála pět milionů korun propojila Opavu s Oldřišovem - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/moravskoslezsky-kraj/nova-cyklostezka-za-bezmala-pet-milionu-korun-propojila-opavu-s-oldrisovem.A260913_120031_metro-ostrava-zpravy_air
-   Nová cyklostezka za bezmála pět milionů korun propojila Opavu s Oldřišovem Metro.cz
+6. **Expertka na Balkán: Černá Hora v EU do roku 2028? Je to reálné, ale bránit tomu může krajní pravice v EU - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/expertka-na-balkan-cerna-hora-v-eu-do-roku-2028-je-realne-ale-branit-tomu-muze_2609140900_raf
+   Expertka na Balkán: Černá Hora v EU do roku 2028? Je to reálné, ale bránit tomu může krajní pravice v EU iROZHLAS
 
-7. **Likvidace ostravských ubytoven odhaluje hlubinu bytové politiky. Nevíme si s ní rady - Lidovky.cz** — Lidovky.cz [cs]
-   https://www.lidovky.cz/nazory/lidkivdace-ubytoven-ostrava-bytova-politika-hluk-starostove.A260907_121207_ln_nazory_rkj
-   Likvidace ostravských ubytoven odhaluje hlubinu bytové politiky. Nevíme si s ní rady Lidovky.cz
+7. **Expertka na Balkán Juzová: Černá Hora v EU do roku 2028? Je to reálné, ale bránit tomu může i krajní pravice v EU - mujRozhlas** — mujRozhlas [cs]
+   https://www.mujrozhlas.cz/bruselske-chlebicky/expertka-na-balkan-juzova-cerna-hora-v-eu-do-roku-2028-je-realne-ale-branit
+   Expertka na Balkán Juzová: Černá Hora v EU do roku 2028? Je to reálné, ale bránit tomu může i krajní pravice v EU mujRozhlas
 
-8. **CELÝ DÍL VÝMĚNY MANŽELEK: Slzy, nevěra a strach dětí - TV Nova** — TV Nova [cs]
-   https://tv.nova.cz/porad/vymena-manzelek/video-epizoda/12792-10-dil
-   CELÝ DÍL VÝMĚNY MANŽELEK: Slzy, nevěra a strach dětí TV Nova
+8. **Německý scénář se nekoná. Krajní pravice ve Švédsku propadla, o vítězství se pere Kristersson a Anderssonová - EuroZprávy.cz** — EuroZprávy.cz [cs]
+   https://eurozpravy.cz/zahranicni/nemecky-scenar-se-nekona-krajni-pravice-ve-svedsku-propadla-o-vitezstvi-se-pere-kristersson-a-anderssonova.k6gfcsmo
+   Německý scénář se nekoná. Krajní pravice ve Švédsku propadla, o vítězství se pere Kristersson a Anderssonová EuroZprávy.cz
 
-9. **V Brně se strhla hromadná bitka. Děje se to tady pořád, stěžují si místní - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/656709-v-brne-se-strhla-hromadna-bitka-deje-se-to-tady-porad-stezuji-si-mistni
-   V Brně se strhla hromadná bitka. Děje se to tady pořád, stěžují si místní TN.cz
+9. **Galerie | Německý scénář se nekoná. Krajní pravice ve Švédsku propadla, o vítězství se pere Kristersson a Anderssonová - EuroZprávy.cz** — EuroZprávy.cz [cs]
+   https://eurozpravy.cz/galerie/zahranicni/nemecky-scenar-se-nekona-krajni-pravice-ve-svedsku-propadla-o-vitezstvi-se-pere-kristersson-a-anderssonova.k6gfcsmo
+   Galerie | Německý scénář se nekoná. Krajní pravice ve Švédsku propadla, o vítězství se pere Kristersson a Anderssonová EuroZprávy.cz
 
-10. **Švédi vybírají novou vládu, poprvé by v ní mohla zasednout krajní pravice - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/svedsko-volby-pravice-levice-parlament.A260913_083215_zahranicni_dtt
-   Švédi vybírají novou vládu, poprvé by v ní mohla zasednout krajní pravice iDNES.cz
+10. **SOUTĚŽ: Hoří ti táta. Vyhrajte český román o rodinném neštěstí se společenským přesahem - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/kultura/literatura/knizni-soutez-hori-ti-tata-viktorie-hanisova-host_2609141318_kro
+   SOUTĚŽ: Hoří ti táta. Vyhrajte český román o rodinném neštěstí se společenským přesahem iROZHLAS
 
-11. **Co je radikální extremismus a kdo je to radikální extremista? - medium.seznam.cz** — medium.seznam.cz [cs]
-   https://medium.seznam.cz/clanek/kovarik-vaclav-co-je-radikalni-extremismus-a-kdo-je-to-radikalni-extremista-320304
-   Co je radikální extremismus a kdo je to radikální extremista? medium.seznam.cz
+11. **V boji o titul mezi jezdci už nejsem, říká Russell - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/v-boji-o-titul-mezi-jezdci-uz-nejsem-rika-russell
+   V boji o titul mezi jezdci už nejsem, říká Russell F1sport.cz – podrobné zpravodajství ze světa F1
 
-12. **V Německu lidé protestovali proti krajně pravicové straně AfD - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/svet/v-nemecku-lide-protestovali-proti-krajne-pravicove-strane-afd-377525
-   V Německu lidé protestovali proti krajně pravicové straně AfD ČT24
+12. **Norris dnes přesedne do hypercaru. V Portimau bude testovat nový McLaren MCL-HY - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/norris-dnes-presedne-do-hypercaru-v-portimau-bude-testovat-novy-mclaren-mcl-hy
+   Norris dnes přesedne do hypercaru. V Portimau bude testovat nový McLaren MCL-HY F1sport.cz – podrobné zpravodajství ze světa F1
 
-13. **Volit se chystá i Švédsko, také tam řeší krajní pravici - Deník Referendum** — Deník Referendum [cs]
-   https://denikreferendum.cz/clanek/239344-volit-se-chysta-i-svedsko-take-tam-resi-krajni-pravici
-   Volit se chystá i Švédsko, také tam řeší krajní pravici Deník Referendum
+13. **Verstappen hodnotí druhé místo jako neuvěřitelný výsledek - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/verstappen-hodnoti-druhe-misto-jako-neuveritelny-vysledek
+   Verstappen hodnotí druhé místo jako neuvěřitelný výsledek F1sport.cz – podrobné zpravodajství ze světa F1
 
-14. **Ve Švédsku začaly parlamentní volby. K moci se může dostat krajní pravice - CNN Prima NEWS** — CNN Prima NEWS [cs]
-   https://cnn.iprima.cz/ve-svedsku-odstartovaly-parlamentni-volby-na-vlade-se-poprve-muze-podilet-krajni-pravice-521661
-   Ve Švédsku začaly parlamentní volby. K moci se může dostat krajní pravice CNN Prima NEWS
+14. **Colapinto získal v Madridu další body - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
+   https://f1sport.auto.cz/clanek/colapinto-ziskal-v-madridu-dalsi-body
+   Colapinto získal v Madridu další body F1sport.cz – podrobné zpravodajství ze světa F1
 
-15. **Studie: Lidé se s Evropou ztotožňují, ale pochybují o budoucnosti. Může to nahrávat krajní pravici - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zivotni-styl/spolecnost/studie-lide-se-s-evropou-ztotoznuji-ale-pochybuji-o-budoucnosti-muze-nahravat_2609121652_elev
-   Studie: Lidé se s Evropou ztotožňují, ale pochybují o budoucnosti. Může to nahrávat krajní pravici iROZHLAS
+15. **Na dostupné bydlení už těžko dosáhne i střední třída, říká ředitel CEEC Research - Brněnský deník** — Brněnský deník [cs]
+   https://brnensky.denik.cz/podnikani/na-dostupne-bydleni-uz-tezko-dosahne-i-stredni-trida-rika-reditel-ceec-research/
+   Na dostupné bydlení už těžko dosáhne i střední třída, říká ředitel CEEC Research Brněnský deník
 
-16. **Hamiltonovi v posledním pokusu chyběla přilnavost a rychlost - f1sport.auto.cz** — f1sport.auto.cz [cs]
-   https://f1sport.auto.cz/clanek/hamiltonovi-v-poslednim-pokusu-chybela-prilnavost-a-rychlost
-   Hamiltonovi v posledním pokusu chyběla přilnavost a rychlost f1sport.auto.cz
+16. **Piráti k lex kratom: vláda přidává zákazy, ale data chybí. Na prevenci zapomněla úplně - pirati.cz** — pirati.cz [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/pirati-k-lex-kratom-vlada-pridava-zakazy-ale-data-chybi-na-prevenci-zapomnela-uplne/
+   Piráti k lex kratom: vláda přidává zákazy, ale data chybí. Na prevenci zapomněla úplně pirati.cz
 
-17. **Verstappen je s třetím místem v kvalifikaci spokojen - f1sport.auto.cz** — f1sport.auto.cz [cs]
-   https://f1sport.auto.cz/clanek/verstappen-je-s-tretim-mistem-v-kvalifikaci-spokojen
-   Verstappen je s třetím místem v kvalifikaci spokojen f1sport.auto.cz
+17. **Komentář pirátské poslankyně Andrey Hoffmannové k jednání vlády o možném škrtu podpory neveřejných škol - pirati.cz** — pirati.cz [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/komentar-piratske-poslankyne-andrey-hoffmannove-k-jednani-vlady-o-moznem-skrtu-podpory-neverejnych-skol/
+   Komentář pirátské poslankyně Andrey Hoffmannové k jednání vlády o možném škrtu podpory neveřejných škol pirati.cz
 
-18. **Russella také čekají penalizace. Termín se však zřejmě posune - f1sport.auto.cz** — f1sport.auto.cz [cs]
-   https://f1sport.auto.cz/clanek/russella-take-cekaji-penalizace-termin-se-vsak-zrejme-posune
-   Russella také čekají penalizace. Termín se však zřejmě posune f1sport.auto.cz
-
-19. **FOR ARCH 2026 vstupuje do nové éry. Nabídne osm odborných platforem a zaměří se i na dostupné bydlení - Cysnews** — Cysnews [cs]
-   https://www.cysnews.cz/top-clanky/for-arch-2026-vstupuje-do-nove-ery-nabidne-osm-odbornych-platforem-a-zameri-se-i-na-dostupne-bydleni/
-   FOR ARCH 2026 vstupuje do nové éry. Nabídne osm odborných platforem a zaměří se i na dostupné bydlení Cysnews
-
-20. **Nájemní byt v Praze jako rychlá skládačka. Developeři reagují na vysokou poptávku - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/praha/zpravy/najemni-byt-praha-developer-vystavba.A260831_091133_praha-zpravy_tmps
-   Nájemní byt v Praze jako rychlá skládačka. Developeři reagují na vysokou poptávku iDNES.cz
-
-21. **Hradec Králové: Družstevní bydlení dostává zelenou - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
-   https://www.parlamentnilisty.cz/politika/obce-volicum/Hradec-Kralove-Druzstevni-bydleni-dostava-zelenou-796649
-   Hradec Králové: Družstevní bydlení dostává zelenou ParlamentniListy.cz
+18. **Peníze, pozemky i dlouhé povolování. Výstavba bydlení naráží na řadu překážek - Brněnský deník** — Brněnský deník [cs]
+   https://brnensky.denik.cz/podnikani/penize-pozemky-i-dlouhe-povolovani-vystavba-bydleni-narazi-na-radu-prekazek/
+   Peníze, pozemky i dlouhé povolování. Výstavba bydlení naráží na řadu překážek Brněnský deník
