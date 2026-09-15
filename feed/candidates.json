@@ -1,566 +1,454 @@
 {
-  "generated_utc": "2026-09-14T13:26:54+00:00",
-  "count": 68,
+  "generated_utc": "2026-09-15T12:24:13+00:00",
+  "count": 54,
   "sources": {
     "profile": "world",
-    "google_news": 100,
+    "google_news": 102,
     "google_news_status": "ok",
-    "gdelt": 250,
+    "gdelt": 125,
     "gdelt_status": "ok",
     "gdelt_note": "",
-    "feeds": 30,
+    "feeds": 3,
     "watch": 5,
-    "before_dedup": 366,
-    "total": 300,
-    "skipped_seen": 232,
-    "gn_resolved": 63,
-    "gn_resolve_tried": 63,
+    "before_dedup": 227,
+    "total": 204,
+    "skipped_seen": 150,
+    "gn_resolved": 54,
+    "gn_resolve_tried": 54,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "French Chronicle …",
-      "url": "https://rroma.org/french-chronicle-375/?utm_source=rss&utm_medium=rss&utm_campaign=french-chronicle-375",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Not many news this week in France on Roma. Only two relevant articles, apart from the le Monde reportage. One […]",
-      "published": "Sun, 13 Sep 2026 13:17:45 +0000",
-      "lang": "en"
-    },
-    {
-      "title": "The Hamidović Clan",
-      "url": "https://rroma.org/the-hamidovic-clan/?utm_source=rss&utm_medium=rss&utm_campaign=the-hamidovic-clan",
-      "source": "https://rroma.org/feed/",
-      "snippet": "A reportage from le Monde on the Hamidović clan, Roma from Bosnia, mostly located in France, who engage in widespread […]",
-      "published": "Sun, 13 Sep 2026 13:17:10 +0000",
-      "lang": "en"
-    },
-    {
-      "title": "Gyár Acél",
-      "url": "https://rroma.org/gyar-acel/?utm_source=rss&utm_medium=rss&utm_campaign=gyar-acel",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Gyár Acél (meaning “Factory Steel”) is a civil community and association based in Salgótarján, Hungary, that fights against drug abuse and […]",
-      "published": "Sun, 13 Sep 2026 13:16:25 +0000",
-      "lang": "en"
-    },
-    {
-      "title": "Pisa Study and Slovakia",
-      "url": "https://rroma.org/pisa-study-and-slovakia/?utm_source=rss&utm_medium=rss&utm_campaign=pisa-study-and-slovakia",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Slovak Education Minister Tomáš Drucker acknowledges the negative impact of socio-economic backgrounds on student performance and is implementing reforms to […]",
-      "published": "Sun, 13 Sep 2026 13:15:32 +0000",
-      "lang": "en"
-    },
-    {
-      "title": "Túra, penová párty aj dôverné rozhovory. Letný tábor dáva deťom z vylúčených komunít priestor snívať",
-      "url": "https://romanoforum.dennikn.sk/tura-penova-party-aj-doverne-rozhovory-letny-tabor-dava-detom-z-vylucenych-komunit-priestor-snivat/",
-      "source": "https://romanoforum.dennikn.sk/feed/",
-      "snippet": "„V komunitách nie je bežné, že deti chodia niekam na výlety, lebo rodičia na to väčšinou nemajú peniaze,“ hovorí Zuzana Pavlínová z Cesty von.",
-      "published": "Mon, 14 Sep 2026 06:35:23 +0000",
-      "lang": "sk"
-    },
-    {
-      "title": "The Crumbling Cordon Sanitaire: Centre-Right Complicity and the EU Budget Threat to Roma Rights - European Roma Rights Centre",
-      "url": "https://www.errc.org/news/the-crumbling-cordon-sanitaire-centre-right-complicity-and-the-eu-budget-threat-to-roma-rights",
-      "source": "European Roma Rights Centre",
-      "snippet": "The Crumbling Cordon Sanitaire: Centre-Right Complicity and the EU Budget Threat to Roma Rights European Roma Rights Centre",
-      "published": "Mon, 14 Sep 2026 09:18:49 GMT",
-      "lang": "en"
-    },
-    {
-      "title": "Ostrovany pripravujú 44 parciel na nové domy. Ľudia si ich postavia sami - Roma Television",
-      "url": "https://romatv.sk/slovensko/ostrovany-pripravuj%C3%BA-44-parciel-na-nov%C3%A9-domy-%C4%BEudia-si-ich-postavia-sami/1401060",
+      "title": "Kristián z detského domova chce byť profesionál. Vzorom je mu Ronaldo - Roma Television",
+      "url": "https://romatv.sk/zaujimavosti/kristi%C3%A1n-z-detsk%C3%A9ho-domova-chce-by%C5%A5-profesion%C3%A1l-vzorom-je-mu-ronaldo/1401065",
       "source": "Roma Television",
-      "snippet": "Ostrovany pripravujú 44 parciel na nové domy. Ľudia si ich postavia sami Roma Television",
-      "published": "Sun, 13 Sep 2026 14:35:31 GMT",
+      "snippet": "Kristián z detského domova chce byť profesionál. Vzorom je mu Ronaldo Roma Television",
+      "published": "Mon, 14 Sep 2026 16:05:21 GMT",
       "lang": "sk"
     },
     {
-      "title": "Rómovia nechcú robiť? Ján má pre kritikov jasný odkaz - Roma Television",
-      "url": "https://romatv.sk/pr%C3%A9mium/r%C3%B3movia-nechc%C3%BA-robi%C5%A5-j%C3%A1n-m%C3%A1-pre-kritikov-jasn%C3%BD-odkaz/1401059",
+      "title": "EÚ predĺžila sankcie len o týždeň. SR a Francúzsko blokujú dohodu - Roma Television",
+      "url": "https://romatv.sk/zahrani%C4%8Die/e%C3%BA-pred%C4%BA%C5%BEila-sankcie-len-o-t%C3%BD%C5%BEde%C5%88-sr-a-franc%C3%BAzsko-blokuj%C3%BA-dohodu/1401066",
       "source": "Roma Television",
-      "snippet": "Rómovia nechcú robiť? Ján má pre kritikov jasný odkaz Roma Television",
-      "published": "Sat, 12 Sep 2026 23:31:34 GMT",
+      "snippet": "EÚ predĺžila sankcie len o týždeň. SR a Francúzsko blokujú dohodu Roma Television",
+      "published": "Mon, 14 Sep 2026 19:30:03 GMT",
       "lang": "sk"
     },
     {
-      "title": "Ruský dron zasiahol vlak do Varšavy, tesne pred ním išli politici - Roma Television",
-      "url": "https://romatv.sk/zahrani%C4%8Die/rusk%C3%BD-dron-zasiahol-vlak-do-var%C5%A1avy-tesne-pred-n%C3%ADm-i%C5%A1li-politici/1401061",
-      "source": "Roma Television",
-      "snippet": "Ruský dron zasiahol vlak do Varšavy, tesne pred ním išli politici Roma Television",
-      "published": "Sun, 13 Sep 2026 19:12:00 GMT",
-      "lang": "sk"
-    },
-    {
-      "title": "Dušan Kandráč: Roma in the Czech Republic must respect the rules, the majority society has to give them chances - Romea.cz",
-      "url": "https://romea.cz/en/opinion/dusan-kandrac-roma-in-the-czech-republic-must-respect-the-rules-the-majority-society-has-to-give-them-chances/",
-      "source": "Romea.cz",
-      "snippet": "Dušan Kandráč: Roma in the Czech Republic must respect the rules, the majority society has to give them chances Romea.cz",
-      "published": "Sun, 13 Sep 2026 10:41:19 GMT",
+      "title": "Brazilian Indigenous leader Chief Raoni diagnosed with cancer - wkzo.com",
+      "url": "https://wkzo.com/2026/09/14/brazilian-indigenous-leader-chief-raoni-diagnosed-with-cancer/",
+      "source": "wkzo.com",
+      "snippet": "Brazilian Indigenous leader Chief Raoni diagnosed with cancer wkzo.com",
+      "published": "Tue, 15 Sep 2026 02:20:58 GMT",
       "lang": "en"
     },
     {
-      "title": "VIDEO Alina Șerban's 'I Matter' won the 'Armani beauty' Audience Award at the Venice Film Festival - Agerpres",
-      "url": "https://agerpres.ro/english/2026/09/13/video-alina-serban-s-i-matter-won-the-armani-beauty-audience-award-at-the-venice-film-festival--1593130",
-      "source": "Agerpres",
-      "snippet": "VIDEO Alina Șerban's 'I Matter' won the 'Armani beauty' Audience Award at the Venice Film Festival Agerpres",
-      "published": "Sun, 13 Sep 2026 17:40:48 GMT",
+      "title": "Harvest 2026: unmissable grape festivals in Italian villages - inItaly",
+      "url": "https://www.initaly.it/en/articolo/vendemmia-2026-le-feste-delluva-nei-borghi-da-non-perdere-36414",
+      "source": "inItaly",
+      "snippet": "Harvest 2026: unmissable grape festivals in Italian villages inItaly",
+      "published": "Tue, 15 Sep 2026 06:29:05 GMT",
       "lang": "en"
     },
     {
-      "title": "A cigány kultúra sokszínű arcait idézi meg a Duna Művészegyüttes új előadása - FUNZINE",
-      "url": "https://funzine.hu/2026/09/14/kult/a-cigany-kultura-sokszinu-arcait-idezi-meg-a-duna-muveszegyuttes-uj-eloadasa/",
-      "source": "FUNZINE",
-      "snippet": "A cigány kultúra sokszínű arcait idézi meg a Duna Művészegyüttes új előadása FUNZINE",
-      "published": "Mon, 14 Sep 2026 03:27:40 GMT",
+      "title": "The Face Reality Clear Skin Method Empowers Licensed Skin Care Professionals and Their Clients - wwd.com",
+      "url": "https://wwd.com/business-news/business-features/face-reality-clear-skin-method-acne-treatment-1239035662/",
+      "source": "wwd.com",
+      "snippet": "The Face Reality Clear Skin Method Empowers Licensed Skin Care Professionals and Their Clients wwd.com",
+      "published": "Sun, 13 Sep 2026 21:36:05 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "Cricket match squads | BGRW vs CRTW, 2nd Match, Serbia Women's T20I Tri-Series 2026 - Cricbuzz",
+      "url": "https://www.cricbuzz.com/cricket-match-squads/170883/bgrw-vs-crtw-2nd-match-serbia-womens-t20i-tri-series-2026",
+      "source": "Cricbuzz",
+      "snippet": "Cricket match squads | BGRW vs CRTW, 2nd Match, Serbia Women's T20I Tri-Series 2026 Cricbuzz",
+      "published": "Sun, 13 Sep 2026 22:29:52 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "Two more charged over violent Dublin brawl among Roma squatters that ended in man's death - Sunday World",
+      "url": "https://www.crimeworld.com/courts/two-more-charged-over-violent-dublin-brawl-among-roma-squatters-that-ended-in-mans-death/a/161433079.html",
+      "source": "Sunday World",
+      "snippet": "Two more charged over violent Dublin brawl among Roma squatters that ended in man's death Sunday World",
+      "published": "Mon, 14 Sep 2026 15:30:00 GMT",
+      "lang": "en"
+    },
+    {
+      "title": "Téglafalakon túl – Oláh Norbert festőművész képei - | hvg.hu",
+      "url": "https://hvg.hu/360/20260914_olah-norbert-festomuvesz-aktivista-kiallitas-ciganysag-ciganybunozes-hvg",
+      "source": "| hvg.hu",
+      "snippet": "Téglafalakon túl – Oláh Norbert festőművész képei | hvg.hu",
+      "published": "Mon, 14 Sep 2026 17:30:00 GMT",
       "lang": "hu"
     },
     {
-      "title": "Szerelem, család, szabályok: Párválasztási szokások a cigány közösségekben - BEHIR",
-      "url": "https://behir.hu/szerelem-csalad-szabalyok-parvalasztasi-szokasok-a-cigany-kozossegekben",
-      "source": "BEHIR",
-      "snippet": "Szerelem, család, szabályok: Párválasztási szokások a cigány közösségekben BEHIR",
-      "published": "Sun, 13 Sep 2026 14:20:38 GMT",
+      "title": "A romák járhatnak a legrosszabbul Magyar Péter nem teljesített ígéretei miatt - Magyar Nemzet",
+      "url": "https://mno.hu/belfold/2026/09/magyar-peter-igeret-csaladi-potlek-minimalber-roma",
+      "source": "Magyar Nemzet",
+      "snippet": "A romák járhatnak a legrosszabbul Magyar Péter nem teljesített ígéretei miatt Magyar Nemzet",
+      "published": "Tue, 15 Sep 2026 03:44:00 GMT",
       "lang": "hu"
     },
     {
-      "title": "Közel 140 kézműves tölti meg élettel a Marosvásárhelyi Várat - jön az Erdélyi Mesterségek Ünnepe - Maszol",
-      "url": "https://maszol.ro/kultura/Kozel-140-kezmuves-tolti-meg-elettel-a-Marosvasarhelyi-Varat-jon-az-Erdelyi-Mestersegek-Unnepe",
-      "source": "Maszol",
-      "snippet": "Közel 140 kézműves tölti meg élettel a Marosvásárhelyi Várat - jön az Erdélyi Mesterségek Ünnepe Maszol",
-      "published": "Mon, 14 Sep 2026 06:09:00 GMT",
+      "title": "Miskolc. Egy cigány sráccal erősít a rendőrség - eszakhirnok.com",
+      "url": "https://www.eszakhirnok.com/2026/09/15/miskolc-egy-cigany-sraccal-erosit-a-rendorseg/",
+      "source": "eszakhirnok.com",
+      "snippet": "Miskolc. Egy cigány sráccal erősít a rendőrség eszakhirnok.com",
+      "published": "Tue, 15 Sep 2026 07:22:17 GMT",
       "lang": "hu"
     },
     {
-      "title": "ROMI PENTRU ROMÂNIA / 13 09. 2026 - B1TV",
-      "url": "https://www.b1tv.ro/record/romi-pentru-romania-254",
-      "source": "B1TV",
-      "snippet": "ROMI PENTRU ROMÂNIA / 13 09. 2026 B1TV",
-      "published": "Sun, 13 Sep 2026 07:59:50 GMT",
+      "title": "De la deportare la educație: mesajul transmis la Craiova - Jurnalul Olteniei",
+      "url": "https://jurnalulolteniei.ro/de-la-deportare-la-educatie-mesajul-transmis-la-craiova/",
+      "source": "Jurnalul Olteniei",
+      "snippet": "De la deportare la educație: mesajul transmis la Craiova Jurnalul Olteniei",
+      "published": "Tue, 15 Sep 2026 06:09:59 GMT",
       "lang": "ro"
     },
     {
-      "title": "„Republica Vulcăneşti”. Baronul de la Soroca a venit să facă pace în comunitate de romi din Nisporeni. Video - Evenimentul Zilei",
-      "url": "https://evz.ro/republica-vulcanesti-baronul-de-la-soroca-a-venit-sa-faca-pace-in-comunitate-de-romi-din-nisporeni-video.html",
-      "source": "Evenimentul Zilei",
-      "snippet": "„Republica Vulcăneşti”. Baronul de la Soroca a venit să facă pace în comunitate de romi din Nisporeni. Video Evenimentul Zilei",
-      "published": "Sun, 13 Sep 2026 12:27:54 GMT",
+      "title": "Piața rezidențială din Cluj încetinește puternic, chiar dacă prețurile rămân printre cele mai mari din România - Gazeta de Cluj",
+      "url": "https://gazetadecluj.ro/piata-rezidentiala-din-cluj-incetineste-puternic-chiar-daca-preturile-raman-printre-cele-mai-mari-din-romania/",
+      "source": "Gazeta de Cluj",
+      "snippet": "Piața rezidențială din Cluj încetinește puternic, chiar dacă prețurile rămân printre cele mai mari din România Gazeta de Cluj",
+      "published": "Tue, 15 Sep 2026 07:07:38 GMT",
       "lang": "ro"
     },
     {
-      "title": "Partida Romilor „Pro-Europa” își prezintă noua conducere pentru Vrancea și Buzău. Merlin Ivancea, actualul primar al comunei Slobozia Bradului numit președinte coordonator - Ziarul de Vrancea",
-      "url": "https://www.ziaruldevrancea.ro/special/politica/partida-romilor-pro-europa-isi-prezinta-noua-conducere-pentru-vrancea-si-buzau.-merlin-ivancea-actualul-primar-al-comunei-slobozia-bradului-numit-presedinte-coordonator",
-      "source": "Ziarul de Vrancea",
-      "snippet": "Partida Romilor „Pro-Europa” își prezintă noua conducere pentru Vrancea și Buzău. Merlin Ivancea, actualul primar al comunei Slobozia Bradului numit președinte coordonator Ziarul de Vrancea",
-      "published": "Mon, 14 Sep 2026 11:53:43 GMT",
+      "title": "Șapte ofertanți vor contractul pentru Centrul Regional de Conferințe și Congrese de 35.000 de mp de la Cluj - Gazeta de Cluj",
+      "url": "https://gazetadecluj.ro/sapte-ofertanti-vor-contractul-pentru-centrul-regional-de-conferinte-si-congrese-de-35-000-de-mp-de-la-cluj/",
+      "source": "Gazeta de Cluj",
+      "snippet": "Șapte ofertanți vor contractul pentru Centrul Regional de Conferințe și Congrese de 35.000 de mp de la Cluj Gazeta de Cluj",
+      "published": "Tue, 15 Sep 2026 06:42:19 GMT",
       "lang": "ro"
     },
     {
-      "title": "Mortalitatea maternă, în vizorul Ministerului Sănătății: ce își propune autoritatea - EA.md",
-      "url": "https://ea.md/mortalitatea-materna-in-vizorul-ministerului-sanatatii-ce-isi-propune-autoritatea/",
-      "source": "EA.md",
-      "snippet": "Mortalitatea maternă, în vizorul Ministerului Sănătății: ce își propune autoritatea EA.md",
-      "published": "Mon, 14 Sep 2026 04:02:38 GMT",
+      "title": "Alertă la graniță după ce radarele MApN au detectat trei ținte aeriene iar două F-16 au decolat de la Borcea - Gazeta de Cluj",
+      "url": "https://gazetadecluj.ro/alerta-la-granita-dupa-ce-radarele-mapn-au-detectat-trei-tinte-aeriene-iar-doua-f-16-au-decolat-de-la-borcea/",
+      "source": "Gazeta de Cluj",
+      "snippet": "Alertă la graniță după ce radarele MApN au detectat trei ținte aeriene iar două F-16 au decolat de la Borcea Gazeta de Cluj",
+      "published": "Tue, 15 Sep 2026 06:00:09 GMT",
       "lang": "ro"
     },
     {
-      "title": "Despedida de Tony Gatlif, la mirada de los gitanos en el cine - ExpoFlamenco",
-      "url": "https://expoflamenco.com/revista/despedida-de-tony-gatlif-la-mirada-de-los-gitanos-en-el-cine/",
-      "source": "ExpoFlamenco",
-      "snippet": "Despedida de Tony Gatlif, la mirada de los gitanos en el cine ExpoFlamenco",
-      "published": "Mon, 14 Sep 2026 07:33:43 GMT",
+      "title": "Clujenii, exasperați de traficul de dimineață, cer Primăriei să sincronizeze din nou semafoarele - Gazeta de Cluj",
+      "url": "https://gazetadecluj.ro/clujenii-exasperati-de-traficul-de-dimineata-cer-primariei-sa-sincronizeze-din-nou-semafoarele/",
+      "source": "Gazeta de Cluj",
+      "snippet": "Clujenii, exasperați de traficul de dimineață, cer Primăriei să sincronizeze din nou semafoarele Gazeta de Cluj",
+      "published": "Mon, 14 Sep 2026 11:11:08 GMT",
+      "lang": "ro"
+    },
+    {
+      "title": "Los Gigantes Moros de Tarragona: un arte irreproducible - La Ciutat",
+      "url": "https://laciutat.cat/es/laciutatdetarragona/gigantes-moros-tarragona-arte-irreproducible_900456_102_amp.html",
+      "source": "La Ciutat",
+      "snippet": "Los Gigantes Moros de Tarragona: un arte irreproducible La Ciutat",
+      "published": "Tue, 15 Sep 2026 06:00:00 GMT",
       "lang": "es"
     },
     {
-      "title": "Ignacio Osuna: el médico que apadrinaba niños gitanos - Alfa y Omega",
-      "url": "https://alfayomega.es/el-medico-que-apadrinaba-ninos-gitanos-y-llevaba-a-los-pobres-al-rocio/",
-      "source": "Alfa y Omega",
-      "snippet": "Ignacio Osuna: el médico que apadrinaba niños gitanos Alfa y Omega",
-      "published": "Mon, 14 Sep 2026 09:53:47 GMT",
+      "title": "Una vecina explica la razón por la que los inmigrantes irregulares no entran en este barrio de Ceuta: “El segundo día les echamos” - MARCA",
+      "url": "https://amp.marca.com/tiramillas/sociedad/2026/09/14/vecina-explica-razon-inmigrantes-irregulares-entran-barrio-ceuta-segundo-dia-les-echamos.html",
+      "source": "MARCA",
+      "snippet": "Una vecina explica la razón por la que los inmigrantes irregulares no entran en este barrio de Ceuta: “El segundo día les echamos” MARCA",
+      "published": "Mon, 14 Sep 2026 15:50:21 GMT",
       "lang": "es"
     },
     {
-      "title": "La Federación de Asociaciones Gitanas de Cataluña premia a la Fundació Puigvert por su sensibilidad con el Pueblo Gitano - fundaciopuigvert.org - Fundació Puigvert",
-      "url": "https://fundaciopuigvert.org/es/la-federacion-de-asociaciones-gitanas-de-cataluna-premia-a-la-fundacio-puigvert-por-su-sensibilidad-con-el-pueblo-gitano/",
-      "source": "Fundació Puigvert",
-      "snippet": "La Federación de Asociaciones Gitanas de Cataluña premia a la Fundació Puigvert por su sensibilidad con el Pueblo Gitano - fundaciopuigvert.org Fundació Puigvert",
-      "published": "Mon, 14 Sep 2026 01:29:48 GMT",
-      "lang": "es"
-    },
-    {
-      "title": "José Muñoz asume el mandato de la Hermandad de los Gitanos de Ronda con la mirada puesta en la juventud y el XXV aniversario - Diario Ronda",
-      "url": "https://www.diarioronda.es/2026/09/14/cofrade/jose-munoz-asume-el-mandato-de-la-hermandad-de-los-gitanos-de-ronda-con-la-mirada-puesta-en-la-juventud-y-el-xxv-aniversario",
-      "source": "Diario Ronda",
-      "snippet": "José Muñoz asume el mandato de la Hermandad de los Gitanos de Ronda con la mirada puesta en la juventud y el XXV aniversario Diario Ronda",
-      "published": "Mon, 14 Sep 2026 07:41:00 GMT",
-      "lang": "es"
-    },
-    {
-      "title": "“La homofobia es algo cultural, que está en toda la sociedad. Y el pueblo gitano no es una excepción” - El Salto",
-      "url": "https://www.elsaltodiario.com/lgtbifobia/una-red-estatal-personas-gitanas-lgtbiq-plantar-cara-homofobia-iglesias-evangelicas",
-      "source": "El Salto",
-      "snippet": "“La homofobia es algo cultural, que está en toda la sociedad. Y el pueblo gitano no es una excepción” El Salto",
-      "published": "Mon, 14 Sep 2026 06:07:00 GMT",
-      "lang": "es"
-    },
-    {
-      "title": "Historia en 4 tiempos | Denuncian la presencia de gitanos portugueses - La Región",
-      "url": "https://www.laregion.es/provincia/historia-4-tiempos-denuncian-presencia-gitanos-portugueses_1_20260914-4412000.html",
-      "source": "La Región",
-      "snippet": "Historia en 4 tiempos | Denuncian la presencia de gitanos portugueses La Región",
-      "published": "Mon, 14 Sep 2026 05:15:00 GMT",
-      "lang": "es"
-    },
-    {
-      "title": "Así es el único barrio de Ceuta al que no es atreven a entrar los inmigrantes irregulares - Cuatro",
-      "url": "https://www.cuatro.com/noticias/20260914/barrio-ceuta-no-atreven-entrar-inmigrantes_18_020161462.html",
-      "source": "Cuatro",
-      "snippet": "Así es el único barrio de Ceuta al que no es atreven a entrar los inmigrantes irregulares Cuatro",
-      "published": "Mon, 14 Sep 2026 12:40:49 GMT",
-      "lang": "es"
-    },
-    {
-      "title": "Enric Batista: «Tenemos que avanzar en la lucha contra el antigitanismo, una discriminación sistemática e histórica» - diarimes.com",
-      "url": "https://www.diarimes.com/es/tarragona/260914/enric-batista-avanzar-lucha-antigitanismo-discriminacion-sistematica-e-historica_234074.html",
-      "source": "diarimes.com",
-      "snippet": "Enric Batista: «Tenemos que avanzar en la lucha contra el antigitanismo, una discriminación sistemática e histórica» diarimes.com",
-      "published": "Mon, 14 Sep 2026 05:18:23 GMT",
-      "lang": "es"
-    },
-    {
-      "title": "La Lotería Nacional deja una lluvia de millones en Lebrija en plena Feria - ABC",
-      "url": "https://www.abc.es/sevilla/provincia/loteria-nacional-deja-lluvia-millones-lebrija-plena-20260912195728-nts.html",
+      "title": "Lebrija se abona a su número de la suerte con 16 millones en dos grandes premios - ABC",
+      "url": "https://www.abc.es/sevilla/provincia/lebrija-abona-numero-suerte-millones-dos-premios-20260915152307-nts_amp.html",
       "source": "ABC",
-      "snippet": "La Lotería Nacional deja una lluvia de millones en Lebrija en plena Feria ABC",
-      "published": "Sat, 12 Sep 2026 17:57:28 GMT",
+      "snippet": "Lebrija se abona a su número de la suerte con 16 millones en dos grandes premios ABC",
+      "published": "Tue, 15 Sep 2026 05:21:26 GMT",
       "lang": "es"
     },
     {
-      "title": "La Asociación Parroquial del Despojado expone hoy a veneración la Santa Cruz - Diario Ronda",
-      "url": "https://www.diarioronda.es/2026/09/14/cofrade/la-asociacion-parroquial-del-despojado-expone-hoy-veneracion-a-la-santa-cruz",
-      "source": "Diario Ronda",
-      "snippet": "La Asociación Parroquial del Despojado expone hoy a veneración la Santa Cruz Diario Ronda",
-      "published": "Mon, 14 Sep 2026 08:12:00 GMT",
+      "title": "Ilu Ros: entrevista sobre “Romancero gitano”, edición ilustrada - Revista Qué Leer",
+      "url": "https://www.que-leer.com/2026/09/15/ilu-ros-entrevista-sobre-romancero-gitano-edicion-ilustrada/",
+      "source": "Revista Qué Leer",
+      "snippet": "Ilu Ros: entrevista sobre “Romancero gitano”, edición ilustrada Revista Qué Leer",
+      "published": "Tue, 15 Sep 2026 05:59:01 GMT",
       "lang": "es"
     },
     {
-      "title": "“Vení, mirá las chorras”, una pareja de comerciantes chinos atrapó y redujo a dos “mecheras” gitanas - Diario 13 San Juan",
-      "url": "https://www.canal13sanjuan.com/policial/-veni--mira-las-chorras---una-pareja-de-comerciantes-chinos-atrapo-y-redujo-a-dos--mecheras--gitanas_a6aa7491039167f4a70a1cc24",
-      "source": "Diario 13 San Juan",
-      "snippet": "“Vení, mirá las chorras”, una pareja de comerciantes chinos atrapó y redujo a dos “mecheras” gitanas Diario 13 San Juan",
-      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "title": "Un señor latveriano y su etnia - brainstomping",
+      "url": "https://brainstomping.com/2026/09/15/un-senor-latveriano/",
+      "source": "brainstomping",
+      "snippet": "Un señor latveriano y su etnia brainstomping",
+      "published": "Tue, 15 Sep 2026 05:07:59 GMT",
       "lang": "es"
     },
     {
-      "title": "Des caravanes de gens du voyage s’installent illégalement sur un champ privé, voici le deal qu’ils ont passé avec l’agriculteur - midilibre.fr",
-      "url": "https://www.midilibre.fr/2026/09/14/des-caravanes-de-gens-du-voyage-sinstallent-illegalement-sur-un-champ-prive-voici-le-deal-quils-ont-passe-avec-lagriculteur-13550375.php",
-      "source": "midilibre.fr",
-      "snippet": "Des caravanes de gens du voyage s’installent illégalement sur un champ privé, voici le deal qu’ils ont passé avec l’agriculteur midilibre.fr",
-      "published": "Mon, 14 Sep 2026 08:32:00 GMT",
+      "title": "Fallece la bailaora Juana Loreto Peña, conocida artísticamente como Juana la Feonga - Utrera Digital",
+      "url": "https://www.utreradigital.com/web/fallece-la-bailaora-juana-loreto-pena-conocida-artisticamente-como-juana-la-feonga/",
+      "source": "Utrera Digital",
+      "snippet": "Fallece la bailaora Juana Loreto Peña, conocida artísticamente como Juana la Feonga Utrera Digital",
+      "published": "Tue, 15 Sep 2026 08:36:09 GMT",
+      "lang": "es"
+    },
+    {
+      "title": "Les gens du voyage qui squattaient une prairie de Reims sont partis avec deux jours d’avance - L'Union",
+      "url": "https://www.lunion.fr/id827943/article/2026-09-15/les-gens-du-voyage-qui-squattaient-une-prairie-de-reims-sont-partis-avec-deux",
+      "source": "L'Union",
+      "snippet": "Les gens du voyage qui squattaient une prairie de Reims sont partis avec deux jours d’avance L'Union",
+      "published": "Tue, 15 Sep 2026 09:00:07 GMT",
       "lang": "fr"
     },
     {
-      "title": "Où sont passés les Roms expulsés cet été autour de Nantes ? - Ouest-France",
-      "url": "https://www.ouest-france.fr/societe/pauvrete/ou-sont-les-roms-expulses-cet-ete-autour-de-nantes-f8fbf07c-a451-11f1-8465-547a0964275c",
+      "title": "Mont-Arance-Gouze-Lendresse : les gens du voyage ont investi le stade d’Arance - La République des Pyrénées",
+      "url": "https://www.larepubliquedespyrenees.fr/pyrenees-atlantiques/mont-gouze-arance-lendresse/mont-arance-gouze-lendresse-les-gens-du-voyage-ont-investi-le-stade-d-arance-30635180.php",
+      "source": "La République des Pyrénées",
+      "snippet": "Mont-Arance-Gouze-Lendresse : les gens du voyage ont investi le stade d’Arance La République des Pyrénées",
+      "published": "Tue, 15 Sep 2026 11:25:54 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "\"Un éternel recommencement\" : des gens du voyage scient la clôture et réoccupent un terrain de foot près de Toulouse - Actu.fr",
+      "url": "https://actu.fr/occitanie/fonbeauzard_31186/un-eternel-recommencement-des-gens-du-voyage-scient-la-cloture-et-reoccupent-un-terrain-de-foot-pres-de-toulouse_64789161.html",
+      "source": "Actu.fr",
+      "snippet": "\"Un éternel recommencement\" : des gens du voyage scient la clôture et réoccupent un terrain de foot près de Toulouse Actu.fr",
+      "published": "Tue, 15 Sep 2026 04:52:39 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Jeux, concert, stand-up : découvrez le programme de la journée d'anniversaire au terrain d'accueil des gens du voyage à Orléans - La République du Centre",
+      "url": "https://www.larep.fr/orleans-45000/loisirs/jeux-concert-stand-up-decouvrez-le-programme-de-la-journee-d-anniversaire-au-terrain-d-accueil-des-gens-du-voyage-a-orleans_15045830/",
+      "source": "La République du Centre",
+      "snippet": "Jeux, concert, stand-up : découvrez le programme de la journée d'anniversaire au terrain d'accueil des gens du voyage à Orléans La République du Centre",
+      "published": "Tue, 15 Sep 2026 04:03:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "« Les entreprises de construction n’ont plus confiance » : encore du retard pour le complexe pour les gens du voyage sédentarisés de Cagnes-sur-Mer - nicematin.com",
+      "url": "https://www.nicematin.com/societe/les-entreprises-de-construction-n-ont-plus-confiance-encore-du-retard-pour-le-complexe-pour-les-gens-du-voyage-sedentarises-de-cagnes-sur-mer-10723584",
+      "source": "nicematin.com",
+      "snippet": "« Les entreprises de construction n’ont plus confiance » : encore du retard pour le complexe pour les gens du voyage sédentarisés de Cagnes-sur-Mer nicematin.com",
+      "published": "Tue, 15 Sep 2026 06:23:02 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Mortagne-au-Perche. Le conseil communautaire veut avancer sur l’accueil des gens du voyage - - Alençon.maville.com",
+      "url": "https://alencon.maville.com/actu/actudet_-mortagne-au-perche-le-conseil-communautaire-veut-avancer-sur-l-accueil-des-gens-du-voyage_-7478838_actu.Htm",
+      "source": "- Alençon.maville.com",
+      "snippet": "Mortagne-au-Perche. Le conseil communautaire veut avancer sur l’accueil des gens du voyage - Alençon.maville.com",
+      "published": "Tue, 15 Sep 2026 03:11:00 GMT",
+      "lang": "fr"
+    },
+    {
+      "title": "Une trentaine de caravanes rassemblées à Trégunc : le maire demande l’évacuation - Ouest-France",
+      "url": "https://www.ouest-france.fr/bretagne/tregunc-29910/une-trentaine-de-caravanes-rassemblees-a-tregunc-le-maire-demande-lexpulsion-3254e5f6-b03f-11f1-8483-804bbf8224d2",
       "source": "Ouest-France",
-      "snippet": "Où sont passés les Roms expulsés cet été autour de Nantes ? Ouest-France",
-      "published": "Mon, 14 Sep 2026 05:09:05 GMT",
+      "snippet": "Une trentaine de caravanes rassemblées à Trégunc : le maire demande l’évacuation Ouest-France",
+      "published": "Mon, 14 Sep 2026 14:03:30 GMT",
       "lang": "fr"
     },
     {
-      "title": "En Vendée, après le squat des gens du voyage sur un terrain de foot, la commune découvre la douloureuse facture - Actu.fr",
-      "url": "https://actu.fr/pays-de-la-loire/nieul-le-dolent_85161/en-vendee-apres-le-squat-des-gens-du-voyage-sur-un-terrain-de-foot-la-commune-decouvre-la-douloureuse-facture_64784426.html",
-      "source": "Actu.fr",
-      "snippet": "En Vendée, après le squat des gens du voyage sur un terrain de foot, la commune découvre la douloureuse facture Actu.fr",
-      "published": "Mon, 14 Sep 2026 07:52:23 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "À Trégunc, le maire demande l’expulsion d’une trentaine de caravanes de gens du voyage - Le Télégramme",
-      "url": "https://www.letelegramme.fr/finistere/tregunc-29910/a-tregunc-le-maire-demande-lexpulsion-dune-trentaine-de-caravanes-de-gens-du-voyage-7117352.php",
-      "source": "Le Télégramme",
-      "snippet": "À Trégunc, le maire demande l’expulsion d’une trentaine de caravanes de gens du voyage Le Télégramme",
-      "published": "Mon, 14 Sep 2026 11:47:47 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Recrutement, aéroport, gens du voyage, Libellus : la grosse rentrée d'Olivier Fabre - lejournaldici.com",
-      "url": "https://www.lejournaldici.com/actualite-25842-recrutement-aeroport-gens-du-voyage-libellus-la-grosse-rentree-d-olivier-fabre",
-      "source": "lejournaldici.com",
-      "snippet": "Recrutement, aéroport, gens du voyage, Libellus : la grosse rentrée d'Olivier Fabre lejournaldici.com",
-      "published": "Mon, 14 Sep 2026 05:20:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "HyperOS 3.x Stable & Beta - ROMs pilotes : Liste de toutes les ROMs officielles de Xiaomi basées sur Android 15, 16 et 17 (mise à jour : 13 septembre 2026) - xiaomi-miui.gr",
-      "url": "https://fr.xiaomi-miui.gr/official-hyperos-3-x-rom-list-from-xiaomi/",
-      "source": "xiaomi-miui.gr",
-      "snippet": "HyperOS 3.x Stable & Beta - ROMs pilotes : Liste de toutes les ROMs officielles de Xiaomi basées sur Android 15, 16 et 17 (mise à jour : 13 septembre 2026) xiaomi-miui.gr",
-      "published": "Mon, 14 Sep 2026 00:27:37 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Commentez sur l'article \"Le Journal du Pays Yonnais - En Vendée, après le squat des gens du voyage sur un terrain de foot, la commune découvre la douloureuse facture\" - Actu.fr",
-      "url": "https://actu.fr/espace-debat/commentaires/64784426?initArgument=true&utm_source=article&utm_campaign=64784426&utm_content=64784426",
-      "source": "Actu.fr",
-      "snippet": "Commentez sur l'article \"Le Journal du Pays Yonnais - En Vendée, après le squat des gens du voyage sur un terrain de foot, la commune découvre la douloureuse facture\" Actu.fr",
-      "published": "Mon, 14 Sep 2026 08:16:25 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "« Tout s’est bien passé » : à Port-Bail cet été, l’accueil des gens du voyage s’est déroulé sans incident - Ouest-France",
-      "url": "https://www.ouest-france.fr/normandie/port-bail-sur-mer-50580/tout-sest-bien-passe-a-port-bail-cet-ete-laccueil-des-gens-du-voyage-sest-deroule-sans-incident-0698bcf2-ae92-11f1-b13e-a9236019fd8c",
-      "source": "Ouest-France",
-      "snippet": "« Tout s’est bien passé » : à Port-Bail cet été, l’accueil des gens du voyage s’est déroulé sans incident Ouest-France",
-      "published": "Sun, 13 Sep 2026 12:16:20 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Gens du voyage à Courfaivre: une installation temporaire malgré interdiction - 20 Minuten",
-      "url": "https://www.20min.ch/fr/story/courfaivre-ju-une-vingtaine-de-caravanes-se-sont-installees-dans-un-champ-103632368",
-      "source": "20 Minuten",
-      "snippet": "Gens du voyage à Courfaivre: une installation temporaire malgré interdiction 20 Minuten",
-      "published": "Sun, 13 Sep 2026 13:28:38 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Gens du voyage, centre médical, rumeurs sexuelles : les 5 infos de la semaine à retenir à Fougères et autour - Actu.fr",
-      "url": "https://actu.fr/bretagne/fougeres_35115/gens-du-voyage-centre-medical-rumeurs-sexuelles-les-5-infos-de-la-semaine-a-retenir-a-fougeres-et-autour_64781311.html",
-      "source": "Actu.fr",
-      "snippet": "Gens du voyage, centre médical, rumeurs sexuelles : les 5 infos de la semaine à retenir à Fougères et autour Actu.fr",
-      "published": "Sun, 13 Sep 2026 15:36:36 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "M6+ Crime, Meurtre chez les gens du voyage S01 : résumé - Programme TV Ouest-France",
-      "url": "https://programmetv.ouest-france.fr/documentaire/justice/m6plus-crime-m433582218/s01-meurtre-chez-les-gens-du-voyage-c433605477/",
-      "source": "Programme TV Ouest-France",
-      "snippet": "M6+ Crime, Meurtre chez les gens du voyage S01 : résumé Programme TV Ouest-France",
-      "published": "Sun, 13 Sep 2026 14:33:41 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Des gens du voyage étrangers s’installent à Courfaivre - RFJ",
-      "url": "https://www.rfj.ch/rfj/Actualite/Region/20260912-Des-gens-du-voyage-etrangers-s-installent-a-Courfaivre.html",
-      "source": "RFJ",
-      "snippet": "Des gens du voyage étrangers s’installent à Courfaivre RFJ",
-      "published": "Sat, 12 Sep 2026 13:59:00 GMT",
-      "lang": "fr"
-    },
-    {
-      "title": "Almici (FdI): no ad abusi edilizi rom e sinti premiati - La Voce del Patriota",
-      "url": "https://www.lavocedelpatriota.it/almici-fdi-no-ad-abusi-edilizi-rom-e-sinti-premiati/",
-      "source": "La Voce del Patriota",
-      "snippet": "Almici (FdI): no ad abusi edilizi rom e sinti premiati La Voce del Patriota",
-      "published": "Sun, 13 Sep 2026 12:54:09 GMT",
+      "title": "Amico Rom 2026: una manifestazione tra racconti, storie, poesie, canti sul mondo romanì - ChietiToday",
+      "url": "https://www.chietitoday.it/attualita/amico-rom-2026-manifestazione-racconti-storie-poesie-canti-mondo-romani.html",
+      "source": "ChietiToday",
+      "snippet": "Amico Rom 2026: una manifestazione tra racconti, storie, poesie, canti sul mondo romanì ChietiToday",
+      "published": "Mon, 14 Sep 2026 14:53:40 GMT",
       "lang": "it"
     },
     {
-      "title": "Мъж е починал след сбиване и намушкване с нож в Сунгурларе тази нощ. Информацията за инцидента беше потвърдена пред БНТ от кмета на общината Димитър Гавазов. ⬇️ - facebook.com",
-      "url": "https://www.facebook.com/novinite.bnt/posts/%D0%BC%D1%8A%D0%B6-%D0%B5-%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B0%D0%BB-%D1%81%D0%BB%D0%B5%D0%B4-%D1%81%D0%B1%D0%B8%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B8-%D0%BD%D0%B0%D0%BC%D1%83%D1%88%D0%BA%D0%B2%D0%B0%D0%BD%D0%B5-%D1%81-%D0%BD%D0%BE%D0%B6-%D0%B2-%D1%81%D1%83%D0%BD%D0%B3%D1%83%D1%80%D0%BB%D0%B0%D1%80%D0%B5-%D1%82%D0%B0%D0%B7%D0%B8-%D0%BD%D0%BE%D1%89-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0/1723868896407884/",
-      "source": "facebook.com",
-      "snippet": "Мъж е починал след сбиване и намушкване с нож в Сунгурларе тази нощ. Информацията за инцидента беше потвърдена пред БНТ от кмета на общината Димитър Гавазов. ⬇️ facebook.com",
-      "published": "Mon, 14 Sep 2026 05:12:17 GMT",
-      "lang": "bg"
-    },
-    {
-      "title": "Мъж почина след масов бой между цигани в Сунгурларе, убит е с нож - Zonanews.bg",
-      "url": "https://zonanews.bg/regioni/burgas/mazh-pochina-sled-masov-boy-mezhdu-tsigani-v-sungurlare-ubit-e-s-nozh",
-      "source": "Zonanews.bg",
-      "snippet": "Мъж почина след масов бой между цигани в Сунгурларе, убит е с нож Zonanews.bg",
-      "published": "Mon, 14 Sep 2026 06:50:00 GMT",
-      "lang": "bg"
-    },
-    {
-      "title": "Масов бой между две фамилии в Сунгурларе завърши със смъртен - novini247.com",
-      "url": "https://novini247.com/novini/masov-boy-mejdu-dve-familii-v-sungurlare-zavarshi-sas-smarten_11197931.html",
-      "source": "novini247.com",
-      "snippet": "Масов бой между две фамилии в Сунгурларе завърши със смъртен novini247.com",
-      "published": "Mon, 14 Sep 2026 08:15:49 GMT",
-      "lang": "bg"
-    },
-    {
-      "title": "НА ВНИМАНИЕТО НА МВР: Банда \"водопроводчици\" изнудва в София, иска 900 евро за отпушване на мивка - Lupa BG",
-      "url": "https://lupa.bg/news/na-vnimanieto-na-mvr-banda-quotvodoprovodchiciquot-iznudva-v-sofiya-iska-900-evro-za-otpushvane-na-mivka_425339news.html",
-      "source": "Lupa BG",
-      "snippet": "НА ВНИМАНИЕТО НА МВР: Банда \"водопроводчици\" изнудва в София, иска 900 евро за отпушване на мивка Lupa BG",
-      "published": "Mon, 14 Sep 2026 10:01:37 GMT",
-      "lang": "bg"
-    },
-    {
-      "title": "Южна Добруджа е върната на България през 1940 г. - Ruse news",
-      "url": "https://ruse.news/index.php/2026/09/14/kak-balgariya-si-vrastha-yuzhna-dobrudzha-prez-1940-g/",
-      "source": "Ruse news",
-      "snippet": "Южна Добруджа е върната на България през 1940 г. Ruse news",
-      "published": "Mon, 14 Sep 2026 03:00:58 GMT",
-      "lang": "bg"
-    },
-    {
-      "title": "Οι Ομάδες Πρόληψης και Διαμεσολάβησης της ΕΛΑΣ, αλλάζουν τον «χάρτη εγκληματικότητας» μέσα στους οικισμούς υψηλής παραβατικότητας - Αθηναϊκό - Μακεδονικό πρακτορείο ειδήσεων",
-      "url": "https://www.amna.gr/home/article/1022597/Oi-Omades-Prolipsis-kai-Diamesolabisis-tis-ELAS--allazoun-ton-charti-egklimatikotitas-mesa-stous-oikismous-upsilis-parabatikotitas-",
-      "source": "Αθηναϊκό - Μακεδονικό πρακτορείο ειδήσεων",
-      "snippet": "Οι Ομάδες Πρόληψης και Διαμεσολάβησης της ΕΛΑΣ, αλλάζουν τον «χάρτη εγκληματικότητας» μέσα στους οικισμούς υψηλής παραβατικότητας Αθηναϊκό - Μακεδονικό πρακτορείο ειδήσεων",
-      "published": "Sun, 13 Sep 2026 17:14:49 GMT",
+      "title": "Πρόχειρος καταυλισμός Ρομά στην παραλιακή – Η αστυνομία απομάκρυνε οκτώ άτομα - patris.gr",
+      "url": "https://www.patris.gr/kriti/proxeiros-katavlismos-roma-stin-paraliaki-i-astinomia-apomakrine-okto-atoma/",
+      "source": "patris.gr",
+      "snippet": "Πρόχειρος καταυλισμός Ρομά στην παραλιακή – Η αστυνομία απομάκρυνε οκτώ άτομα patris.gr",
+      "published": "Tue, 15 Sep 2026 06:19:54 GMT",
       "lang": "el"
     },
     {
-      "title": "Λιγότερες κλοπές και τέλος στα «πάρτι» ηχορύπανσης: Ο απολογισμός των ΟΠΔΙ σε Ασπρόπυργο, Λιόσια και Μέγαρα - Thriassio.gr",
-      "url": "https://thriassio.gr/elas-opdi-apologismos-meiosi-egklimatikotitas-dytiki-attiki-katalysmoi/",
-      "source": "Thriassio.gr",
-      "snippet": "Λιγότερες κλοπές και τέλος στα «πάρτι» ηχορύπανσης: Ο απολογισμός των ΟΠΔΙ σε Ασπρόπυργο, Λιόσια και Μέγαρα Thriassio.gr",
-      "published": "Mon, 14 Sep 2026 04:38:33 GMT",
+      "title": "Συνάντηση του Επιτρόπου για τα Ανθρώπινα Δικαιώματα με τους δημάρχους Θέρμης, Θερμαϊκού για τον καταυλισμό στα Τσαΐρια - Δήμος Θέρμης",
+      "url": "https://thermi.gov.gr/synantisi-tou-epitropou-gia-ta-anthropina-dikaiomata-me-tous-dimarchous-thermis-thermaikou-gia-ton-katavlismo-sta-tsairia/",
+      "source": "Δήμος Θέρμης",
+      "snippet": "Συνάντηση του Επιτρόπου για τα Ανθρώπινα Δικαιώματα με τους δημάρχους Θέρμης, Θερμαϊκού για τον καταυλισμό στα Τσαΐρια Δήμος Θέρμης",
+      "published": "Tue, 15 Sep 2026 12:06:41 GMT",
       "lang": "el"
     },
     {
-      "title": "Αναστάτωση στο ΚΑΤ: Ρομά μπήκε στο νοσοκομείο και απειλούσε ιατρικό προσωπικό - debater.gr",
-      "url": "https://debater.gr/ellada/anastatosi-sto-kat-roma-mpike-sto-nosokomeio-kai-apeiloyse-iatriko-prosopiko/",
-      "source": "debater.gr",
-      "snippet": "Αναστάτωση στο ΚΑΤ: Ρομά μπήκε στο νοσοκομείο και απειλούσε ιατρικό προσωπικό debater.gr",
-      "published": "Mon, 14 Sep 2026 06:58:41 GMT",
+      "title": "Κινηματογραφική καταδίωξη στην Αταλάντη: Πιάστηκε κύκλωμα που έκανε τηλεφωνικές απάτες - Ethnos",
+      "url": "https://www.ethnos.gr/greece/amp/420573/kinhmatografikhkatadioxhsthnatalanthpiasthkekyklomapoyekanethlefonikesapates",
+      "source": "Ethnos",
+      "snippet": "Κινηματογραφική καταδίωξη στην Αταλάντη: Πιάστηκε κύκλωμα που έκανε τηλεφωνικές απάτες Ethnos",
+      "published": "Tue, 15 Sep 2026 06:00:21 GMT",
       "lang": "el"
     },
     {
-      "title": "Η Λατινοπούλου απαντά στον Ρέμο για τους Gipsy Kings: «Αν μετονομαστούν σε Ρομά το βλέπουμε, μην μας πουν και ρατσιστές» - Pentapostagma",
-      "url": "https://www.pentapostagma.gr/koinonia/7389603_i-latinopoyloy-apanta-ston-remo-gia-toys-gipsy-kings-metonomastoyn-se-roma",
-      "source": "Pentapostagma",
-      "snippet": "Η Λατινοπούλου απαντά στον Ρέμο για τους Gipsy Kings: «Αν μετονομαστούν σε Ρομά το βλέπουμε, μην μας πουν και ρατσιστές» Pentapostagma",
-      "published": "Mon, 14 Sep 2026 04:46:19 GMT",
+      "title": "«Ριγανόκαμπος: Ρωτήσαμε. Απάντηση δεν πήραμε. Οι φωτιές όμως συνεχίζονται» - PatraPress.gr",
+      "url": "https://patrapress.gr/riganokabos-rotisame-apantisi-den-pirame-oi-foties-omos-synechizontai/",
+      "source": "PatraPress.gr",
+      "snippet": "«Ριγανόκαμπος: Ρωτήσαμε. Απάντηση δεν πήραμε. Οι φωτιές όμως συνεχίζονται» PatraPress.gr",
+      "published": "Tue, 15 Sep 2026 05:38:46 GMT",
       "lang": "el"
     },
     {
-      "title": "Από τους Gipsy Kings στους… Roma Kings: Το τρολάρισμα Ρέμου στη Λατινοπούλου και η επική απάντησή της - WomenOnly",
-      "url": "https://womenonly.skai.gr/news/celebrity-news/131089934/apo-tous-gipsy-kings-stous-roma-kings-to-trolarisma-remou-sti-latinopoylou-kai-i-epiki-apantisi-tis",
-      "source": "WomenOnly",
-      "snippet": "Από τους Gipsy Kings στους… Roma Kings: Το τρολάρισμα Ρέμου στη Λατινοπούλου και η επική απάντησή της WomenOnly",
-      "published": "Sun, 13 Sep 2026 19:12:40 GMT",
+      "title": "Απόρρητη Γραμμή: Το «πληρώσαμε τους βόθρους με το παραπάνω» στον πρώην Δήμο Ρίου και η λύση του αείμνηστου Χασμάν για τους Ρομά - pelop.gr",
+      "url": "https://pelop.gr/aporriti-grammi-to-plirosame-tous-vothrous-me-to-parapano-ston-proin-dimo-riou-kai-i-lysi-tou-aeimnistou-chasman-gia-tous-roma/",
+      "source": "pelop.gr",
+      "snippet": "Απόρρητη Γραμμή: Το «πληρώσαμε τους βόθρους με το παραπάνω» στον πρώην Δήμο Ρίου και η λύση του αείμνηστου Χασμάν για τους Ρομά pelop.gr",
+      "published": "Mon, 14 Sep 2026 13:36:04 GMT",
       "lang": "el"
     },
     {
-      "title": "Πάτρα: Να μπουν σε σπίτια στη ΜΟΜΑ οι 16 οικογένειες ρομά του Ριγανόκαμποιυ - Flamis.gr",
-      "url": "https://flamis.gr/patra-na-mpoyn-se-spitia-sti-moma-oi/",
+      "title": "Ζεφύρι: Πυροβολισμοί έξω από σπίτι τα ξημερώματα για... οικογενειακές διαφορές - 7 κάλυκες στο σημείο, φθορές σε ΙΧ - The TOC",
+      "url": "https://www.thetoc.gr/koinwnia/article/zefuri-purobolismoi-exo-apo-spiti-ta-ximeromata-gia-oikogeneiakes-diafores---7-kalukes-sto-simeio-fthores-se-ix/?amp=true",
+      "source": "The TOC",
+      "snippet": "Ζεφύρι: Πυροβολισμοί έξω από σπίτι τα ξημερώματα για... οικογενειακές διαφορές - 7 κάλυκες στο σημείο, φθορές σε ΙΧ The TOC",
+      "published": "Tue, 15 Sep 2026 06:57:46 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Ο «λογιστής» και η «ραδιενέργεια»: Οι 8 απάτες που χρησιμοποιούν τα κυκλώματα στους ηλικιωμένους - ProtoThema",
+      "url": "https://www.protothema.gr/greece/article/1878902/o-logistis-kai-i-radienergeia-oi-8-apates-pou-hrisimopoioun-ta-kuklomata-stous-ilikiomenous/AMP/",
+      "source": "ProtoThema",
+      "snippet": "Ο «λογιστής» και η «ραδιενέργεια»: Οι 8 απάτες που χρησιμοποιούν τα κυκλώματα στους ηλικιωμένους ProtoThema",
+      "published": "Tue, 15 Sep 2026 06:25:23 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Τρίτη με βραδινή έξοδο στην Θεσσαλονίκη - Parallaxi",
+      "url": "https://parallaximag.gr/agenda-parallaxi/events/triti-me-vradini-exodo-stin-thessaloniki",
+      "source": "Parallaxi",
+      "snippet": "Τρίτη με βραδινή έξοδο στην Θεσσαλονίκη Parallaxi",
+      "published": "Tue, 15 Sep 2026 09:19:07 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Η Γνώμη – Πρωτοσέλιδο 15 Σεπτεμβρίου 2026 - frontpages.gr",
+      "url": "https://www.frontpages.gr/protoselida/20260915/160/%CE%97-%CE%93%CE%BD%CF%8E%CE%BC%CE%B7",
+      "source": "frontpages.gr",
+      "snippet": "Η Γνώμη – Πρωτοσέλιδο 15 Σεπτεμβρίου 2026 frontpages.gr",
+      "published": "Tue, 15 Sep 2026 04:44:48 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Η απάντηση της Αφροδίτης Λατινοπούλου στον Αντώνη Ρέμο για την «πρόσκληση» στη συναυλία του - Reporter Cyprus",
+      "url": "https://www.reporter.com.cy/article/1461906/i-apantisi-tis-afroditis-latinopoyloy-ston-antoni-remo-ga-tin-prosklisi-sti-synavlia-toy",
+      "source": "Reporter Cyprus",
+      "snippet": "Η απάντηση της Αφροδίτης Λατινοπούλου στον Αντώνη Ρέμο για την «πρόσκληση» στη συναυλία του Reporter Cyprus",
+      "published": "Mon, 14 Sep 2026 05:41:00 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Το αστείο του Ρέμου για τη Λατινοπούλου, στη συναυλία στη Θεσσαλονίκη -Τι είπε για τους Gipsy Kings - iefimerida.gr",
+      "url": "https://www.iefimerida.gr/zoi/antonis-remos-latinopoyloy-gipsy-kings?amp",
+      "source": "iefimerida.gr",
+      "snippet": "Το αστείο του Ρέμου για τη Λατινοπούλου, στη συναυλία στη Θεσσαλονίκη -Τι είπε για τους Gipsy Kings iefimerida.gr",
+      "published": "Sun, 13 Sep 2026 12:15:48 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Νέα από το Ισραήλ και τον εβραϊκό κόσμο στα ισπανικά - Aurora Israel",
+      "url": "https://www.aurora-israel.co.il/el/%CE%91%CE%BD%CE%B1%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B7-%CF%84%CE%BF%CF%85-%CE%9F%CE%BB%CE%BF%CE%BA%CE%B1%CF%85%CF%84%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82--%CE%BC%CE%AC%CF%81%CF%84%CF%85%CF%81%CE%B5%CF%82--%CF%86%CF%81%CE%AF%CE%BA%CE%B7/",
+      "source": "Aurora Israel",
+      "snippet": "Νέα από το Ισραήλ και τον εβραϊκό κόσμο στα ισπανικά Aurora Israel",
+      "published": "Mon, 14 Sep 2026 06:02:48 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "SOS στην Εισαγγελία για τους Ρομά - gnomip.gr",
+      "url": "https://gnomip.gr/2026/09/15/sos-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CF%85%CF%82-%CF%81%CE%BF%CE%BC%CE%AC/",
+      "source": "gnomip.gr",
+      "snippet": "SOS στην Εισαγγελία για τους Ρομά gnomip.gr",
+      "published": "Tue, 15 Sep 2026 08:44:50 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Ημαθία: Ένας χρόνος της Αστυνομίας στους οικισμούς Ρομά - Θετικά τα πρώτα αποτελέσματα - Veriotis",
+      "url": "https://www.veriotis.gr/2026/09/imathia-enas-xronos-tis-astynomias-stous-oikismous-roma-thetika-ta-protaapotelesmata.html",
+      "source": "Veriotis",
+      "snippet": "Ημαθία: Ένας χρόνος της Αστυνομίας στους οικισμούς Ρομά - Θετικά τα πρώτα αποτελέσματα Veriotis",
+      "published": "Tue, 15 Sep 2026 08:09:00 GMT",
+      "lang": "el"
+    },
+    {
+      "title": "Μάστιγα στην Αχαϊα οι κλοπές χαλκού και σίδηρου από τους ρομά! \"Ξήλωσαν\"... και τη Βενιζέλου - Flamis.gr",
+      "url": "https://flamis.gr/mastiga-stin-achaia-oi-klopes-chalkoy-kai-sidiroy/",
       "source": "Flamis.gr",
-      "snippet": "Πάτρα: Να μπουν σε σπίτια στη ΜΟΜΑ οι 16 οικογένειες ρομά του Ριγανόκαμποιυ Flamis.gr",
-      "published": "Mon, 14 Sep 2026 03:40:40 GMT",
+      "snippet": "Μάστιγα στην Αχαϊα οι κλοπές χαλκού και σίδηρου από τους ρομά! \"Ξήλωσαν\"... και τη Βενιζέλου Flamis.gr",
+      "published": "Tue, 15 Sep 2026 03:59:34 GMT",
       "lang": "el"
     },
     {
-      "title": "Ριγανόκαμπος, Χάραδρος, Σαγέϊκα και Γαστούνη… στον σχεδιασμό της ΕΛ.ΑΣ.! Ελεγχοι στους ρομά - achaianews.gr",
-      "url": "https://www.achaianews.gr/index.php/%CF%8C%CE%BB%CE%B1-%CF%84%CE%B1-%CE%BD%CE%AD%CE%B1-h/%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/232359-c8ac59f4",
-      "source": "achaianews.gr",
-      "snippet": "Ριγανόκαμπος, Χάραδρος, Σαγέϊκα και Γαστούνη… στον σχεδιασμό της ΕΛ.ΑΣ.! Ελεγχοι στους ρομά achaianews.gr",
-      "published": "Sun, 13 Sep 2026 07:49:04 GMT",
+      "title": "Δήμος Σπάρτης: Κοινή ενημερωτική δράση για την πρόληψη και την προαγωγή της Υγείας και της Κοινωνικής Φροντίδας - Spartorama",
+      "url": "https://www.spartorama.gr/articles/85393-dimos-spartis-koini-enimerotiki-drasi-gia-tin-prolipsi-kai-tin-proagogi-tis-ygeias-kai-tis-koinonikis-frontidas/",
+      "source": "Spartorama",
+      "snippet": "Δήμος Σπάρτης: Κοινή ενημερωτική δράση για την πρόληψη και την προαγωγή της Υγείας και της Κοινωνικής Φροντίδας Spartorama",
+      "published": "Tue, 15 Sep 2026 08:20:17 GMT",
       "lang": "el"
     },
     {
-      "title": "Σοκ: Ρομά άρπαξαν 400.000 ευρώ από ανδρόγυνο – Ήταν αποζημίωση για τον θάνατο του γιου τους - Alphafreepress.gr",
-      "url": "https://www.alphafreepress.gr/2026/09/13/ellada/sok-roma-arpaksan-400-000-eyro-apo-androgyno-itan-apozimiosi-gia-ton-thanato-tou-giou-tous/",
-      "source": "Alphafreepress.gr",
-      "snippet": "Σοκ: Ρομά άρπαξαν 400.000 ευρώ από ανδρόγυνο – Ήταν αποζημίωση για τον θάνατο του γιου τους Alphafreepress.gr",
-      "published": "Sun, 13 Sep 2026 13:50:59 GMT",
+      "title": "Πάτρα: Παρέμβαση Εισαγγελέα για τις φωτιές στον καταυλισμό Ρομά - Patratora",
+      "url": "https://patratora.news/patra-paremvasi-eisaggelea-tis-fo/",
+      "source": "Patratora",
+      "snippet": "Πάτρα: Παρέμβαση Εισαγγελέα για τις φωτιές στον καταυλισμό Ρομά Patratora",
+      "published": "Tue, 15 Sep 2026 06:38:56 GMT",
       "lang": "el"
     },
     {
-      "title": "Σε συναυλία με συγκρότημα που λέγεται Gipsy Kings δεν πάω - odelalis.gr",
-      "url": "https://odelalis.gr/latinopoulou-se-remo-se-synavlia-me-sygkrotima-pou-legetai-gipsy-kings-den-pao-an-metonomastoun-se-roma-kings-tha-ertho/",
-      "source": "odelalis.gr",
-      "snippet": "Σε συναυλία με συγκρότημα που λέγεται Gipsy Kings δεν πάω odelalis.gr",
-      "published": "Mon, 14 Sep 2026 07:20:53 GMT",
+      "title": "Συμβαίνει στην Ελλάδα! Ρομά σταμάτησαν λεωφορείο και προφυλάκισαν τον οδηγό - Athens Magazine",
+      "url": "https://www.athensmagazine.gr/article/videos/simvainei-stin-ellada-roma-stamatisan-leoforeio-kai-profilakisan-ton-odigo/",
+      "source": "Athens Magazine",
+      "snippet": "Συμβαίνει στην Ελλάδα! Ρομά σταμάτησαν λεωφορείο και προφυλάκισαν τον οδηγό Athens Magazine",
+      "published": "Mon, 14 Sep 2026 16:48:45 GMT",
       "lang": "el"
     },
     {
-      "title": "«Μην μας πουν και ρατσιστές»: Η απάντηση Λατινοπούλου στον Ρέμο για τους Gipsy Kings - Η Βραδυνή",
-      "url": "https://www.vradini.gr/parapolitika/min-mas-poyn-kai-ratsistes-i-apantisi-latinopoyloy-ston-remo-gia-toys-gipsy-kings/1676716/",
-      "source": "Η Βραδυνή",
-      "snippet": "«Μην μας πουν και ρατσιστές»: Η απάντηση Λατινοπούλου στον Ρέμο για τους Gipsy Kings Η Βραδυνή",
-      "published": "Mon, 14 Sep 2026 09:12:38 GMT",
-      "lang": "el"
+      "title": "Kapela 50 plus z Miejsca Piastowego nagrała płytę - terazKrosno.pl",
+      "url": "https://www.terazkrosno.pl/artykul/51818-kapela-50-plus-z-miejsca-piastowego-nagrala-plyte",
+      "source": "terazKrosno.pl",
+      "snippet": "Kapela 50 plus z Miejsca Piastowego nagrała płytę terazKrosno.pl",
+      "published": "Tue, 15 Sep 2026 10:37:00 GMT",
+      "lang": "pl"
     },
     {
-      "title": "Αφροδίτη Λατινοπούλου: Η απάντηση στον Αντώνη Ρέμο για την «πρόσκληση» στη συναυλία του - Tlife",
-      "url": "https://www.tlife.gr/eidhseis-nea/afroditi-latinopoulou-i-apantisi-ston-antoni-remo-gia-tin-prosklisi-sti-synaylia-tou/1776481/amp/",
-      "source": "Tlife",
-      "snippet": "Αφροδίτη Λατινοπούλου: Η απάντηση στον Αντώνη Ρέμο για την «πρόσκληση» στη συναυλία του Tlife",
-      "published": "Sun, 13 Sep 2026 20:00:45 GMT",
-      "lang": "el"
-    },
-    {
-      "title": "Νέα εικόνα στην εγκληματικότητα φέρνουν οι Ομάδες Πρόληψης και Διαμεσολάβησης της ΕΛΑΣ - politic.gr",
-      "url": "https://www.politic.gr/ellada/nea-eikona-stin-egklimatikotita-fernoun-oi-omades-prolipsis-kai-diamesolavisis-tis-elas",
-      "source": "politic.gr",
-      "snippet": "Νέα εικόνα στην εγκληματικότητα φέρνουν οι Ομάδες Πρόληψης και Διαμεσολάβησης της ΕΛΑΣ politic.gr",
-      "published": "Sun, 13 Sep 2026 05:14:45 GMT",
-      "lang": "el"
-    },
-    {
-      "title": "Καλημέρα με σούπερ Κυριακάτικο ανέκδοτο… (13/9/2026) - ifonitispellas.gr",
-      "url": "https://www.ifonitispellas.gr/diafora/kalimera-me-souper-kyriakatiko-anekdoto-13-9-2026/",
-      "source": "ifonitispellas.gr",
-      "snippet": "Καλημέρα με σούπερ Κυριακάτικο ανέκδοτο… (13/9/2026) ifonitispellas.gr",
-      "published": "Sun, 13 Sep 2026 04:46:41 GMT",
-      "lang": "el"
-    },
-    {
-      "title": "ΕΛ.ΑΣ.: Θετικά αποτελέσματα για Ριγανόκαμπο, Χάραδρο και Σαγέϊκα - Flamis.gr",
-      "url": "https://flamis.gr/el-as-thetika-apotelesmata-gia-riganokampo-charadro/",
-      "source": "Flamis.gr",
-      "snippet": "ΕΛ.ΑΣ.: Θετικά αποτελέσματα για Ριγανόκαμπο, Χάραδρο και Σαγέϊκα Flamis.gr",
-      "published": "Mon, 14 Sep 2026 10:47:45 GMT",
-      "lang": "el"
-    },
-    {
-      "title": "“É muito difícil proibir um partido e dizer que é fascista”, diz juíza do Tribunal Constitucional após pedido de extinção do Chega - Now Canal",
-      "url": "https://www.nowcanal.pt/ultimas/detalhe/e-muito-dificil-proibir-um-partido-e-dizer-que-e-fascista-diz-juiza-do-tribunal-constitucional",
-      "source": "Now Canal",
-      "snippet": "“É muito difícil proibir um partido e dizer que é fascista”, diz juíza do Tribunal Constitucional após pedido de extinção do Chega Now Canal",
-      "published": "Mon, 14 Sep 2026 06:56:00 GMT",
+      "title": "TC afirma que não tem \"pendente nenhum pedido de ilegalização\" de partidos - dnoticias.pt",
+      "url": "https://www.dnoticias.pt/2026/9/14/505402-tc-afirma-que-nao-tem-pendente-nenhum-pedido-de-ilegalizacao-de-partidos/",
+      "source": "dnoticias.pt",
+      "snippet": "TC afirma que não tem \"pendente nenhum pedido de ilegalização\" de partidos dnoticias.pt",
+      "published": "Mon, 14 Sep 2026 16:16:00 GMT",
       "lang": "pt"
     },
     {
-      "title": "Pedido de extinção do Chega entra no Tribunal Constitucional - ZAP Notícias",
-      "url": "https://zap.aeiou.pt/pedido-de-extincao-do-chega-entra-no-tribunal-constitucional-764694",
-      "source": "ZAP Notícias",
-      "snippet": "Pedido de extinção do Chega entra no Tribunal Constitucional ZAP Notícias",
-      "published": "Mon, 14 Sep 2026 09:30:00 GMT",
+      "title": "Uneb abre inscrições para vestibular com 5,4 mil vagas - G1",
+      "url": "https://g1.globo.com/google/amp/ba/bahia/blogdoemprego/noticia/2026/09/14/uneb-inscricoes-vestibular.ghtml",
+      "source": "G1",
+      "snippet": "Uneb abre inscrições para vestibular com 5,4 mil vagas G1",
+      "published": "Tue, 15 Sep 2026 00:12:40 GMT",
       "lang": "pt"
     },
     {
-      "title": "Juíza do Tribunal Constitucional diz que “é muito difícil proibir um partido e dizer que é fascista” - SAPO",
-      "url": "https://sapo.pt/artigo/juiza-do-tribunal-constitucional-diz-que-e-muito-dificil-proibir-um-partido-e-dizer-que-e-fascista-6aa7a1a15ab042010d2a855e",
-      "source": "SAPO",
-      "snippet": "Juíza do Tribunal Constitucional diz que “é muito difícil proibir um partido e dizer que é fascista” SAPO",
-      "published": "Mon, 14 Sep 2026 07:24:01 GMT",
+      "title": "2º Planapir inicia consulta pública para novo plano de enfrentamento ao racismo estrutural no país - GOV.BR",
+      "url": "https://www.gov.br/igualdaderacial/pt-br/assuntos/noticias/2o-planapir-inicia-consulta-publica-para-novo-plano-de-enfrentamento-ao-racismo-estrutural-no-pais",
+      "source": "GOV.BR",
+      "snippet": "2º Planapir inicia consulta pública para novo plano de enfrentamento ao racismo estrutural no país GOV.BR",
+      "published": "Mon, 14 Sep 2026 21:29:00 GMT",
       "lang": "pt"
     },
     {
-      "title": "Poço Redondo conquista etapa Sertão da Taça das Favelas Paraíba 2026 em Sousa - SóEsporte",
-      "url": "https://soesporte.com.br/poco-redondo-conquista-etapa-sertao-da-taca-das-favelas-paraiba-2026-em-sousa/",
-      "source": "SóEsporte",
-      "snippet": "Poço Redondo conquista etapa Sertão da Taça das Favelas Paraíba 2026 em Sousa SóEsporte",
-      "published": "Mon, 14 Sep 2026 00:19:44 GMT",
+      "title": "Trilha gratuita oferece formação para agentes culturais de comunidades tradicionais de Alagoas - al1.com.br",
+      "url": "https://al1.com.br/noticias/noticias/205978-trilha-gratuita-oferece-formacao-para-agentes-culturais-de-comunidades-tradicionais-de-alagoas",
+      "source": "al1.com.br",
+      "snippet": "Trilha gratuita oferece formação para agentes culturais de comunidades tradicionais de Alagoas al1.com.br",
+      "published": "Mon, 14 Sep 2026 17:44:42 GMT",
       "lang": "pt"
     },
     {
-      "title": "Inscrições para a 9ª Caravana, Mostra de Dança Cigana da Casa Eliseu Voronkoff, estão abertas - O Popular do Paraná",
-      "url": "https://opopularpr.com.br/inscricoes-para-a-9a-caravana-mostra-de-danca-cigana-da-casa-eliseu-voronkoff-estao-abertas/",
-      "source": "O Popular do Paraná",
-      "snippet": "Inscrições para a 9ª Caravana, Mostra de Dança Cigana da Casa Eliseu Voronkoff, estão abertas O Popular do Paraná",
-      "published": "Sun, 13 Sep 2026 21:03:00 GMT",
+      "title": "UNEB 2027: inscrições do vestibular começam em 15 de setembro para 4.327 vagas - Blog do Vestibular",
+      "url": "https://www.blogdovestibular.com/vestibular/vestibular-uneb-2027-inscricao.html",
+      "source": "Blog do Vestibular",
+      "snippet": "UNEB 2027: inscrições do vestibular começam em 15 de setembro para 4.327 vagas Blog do Vestibular",
+      "published": "Mon, 14 Sep 2026 17:08:06 GMT",
       "lang": "pt"
     },
     {
-      "title": "Ricardo Macchi lembra críticas em Explode Coração e conta quem o ajudou a virar o jogo - TV Pop",
-      "url": "https://www.tvpop.com.br/390725/ricardo-macchi-lembra-criticas-em-explode-coracao-e-conta-quem-o-ajudou-a-virar-o-jogo/",
-      "source": "TV Pop",
-      "snippet": "Ricardo Macchi lembra críticas em Explode Coração e conta quem o ajudou a virar o jogo TV Pop",
-      "published": "Sun, 13 Sep 2026 20:09:00 GMT",
-      "lang": "pt"
-    },
-    {
-      "title": "MOT paljastaa poliisioperaation, jonka kohteeksi otettiin romanit - Yle",
-      "url": "https://yle.fi/uutiset/lyhyesti/74-20232982",
-      "source": "Yle",
-      "snippet": "MOT paljastaa poliisioperaation, jonka kohteeksi otettiin romanit Yle",
-      "published": "Sun, 13 Sep 2026 05:07:49 GMT",
-      "lang": "fi"
+      "title": "Nevimata - nyheter från Radio Romano | Nevimata - nyheter för romer - Sveriges Radio",
+      "url": "https://www.sverigesradio.se/avsnitt/2852199",
+      "source": "Sveriges Radio",
+      "snippet": "Nevimata - nyheter från Radio Romano | Nevimata - nyheter för romer Sveriges Radio",
+      "published": "Mon, 14 Sep 2026 13:47:55 GMT",
+      "lang": "sv"
     }
   ]
 }
