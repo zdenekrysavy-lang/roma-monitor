@@ -1,75 +1,55 @@
-# Kandidáti — 2026-09-14T13:23:32+00:00 (18 položek)
+# Kandidáti — 2026-09-15T12:13:12+00:00 (13 položek)
 
-_Zdroje: Google News 62 · GDELT 0 (disabled) · feedy 0 · watch 0_
+_Zdroje: Google News 56 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle - Český rozhlas Olomouc** — Český rozhlas Olomouc [cs]
-   https://olomouc.rozhlas.cz/andrej-gina-jak-rom-privedl-gadza-k-rozumu-a-jak-romove-hrali-v-pekle-9641999
-   Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle Český rozhlas Olomouc
+1. **Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle - Český rozhlas Plzeň** — Český rozhlas Plzeň [cs]
+   https://plzen.rozhlas.cz/andrej-gina-jak-rom-privedl-gadza-k-rozumu-a-jak-romove-hrali-v-pekle-9641999
+   Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle Český rozhlas Plzeň
 
-2. **Romské talenty odpadají už na školách. Brněnský festival řeší bariéry u filmu - Brněnská Drbna** — Brněnská Drbna [cs]
-   https://brnenska.drbna.cz/spolecnost/899443-romske-talenty-odpadaji-uz-na-skolach-brnensky-festival-resi-bariery-u-filmu.html
-   Romské talenty odpadají už na školách. Brněnský festival řeší bariéry u filmu Brněnská Drbna
+2. **Rasismus žene vedoucí pracovnictvo z anglického zdravotnictví - VOXPOT** — VOXPOT [cs]
+   https://www.voxpot.cz/live-feed/36715/rasismus-zene-vedouci-pracovnictvo-z-anglickeho-zdravotnictvi
+   Rasismus žene vedoucí pracovnictvo z anglického zdravotnictví VOXPOT
 
-3. **Chce mě za každou cenu dostat do vězení, tvrdí muž obžalovaný z útoku kyselinou - tv.idnes.cz** — tv.idnes.cz [cs]
-   https://tv.idnes.cz/krimi/chce-me-za-kazdou-cenu-dostat-do-vezeni-tvrdi-muz-obzalovany-z-utoku-kyselinou.V260914_135730_idnestv_jda
-   Chce mě za každou cenu dostat do vězení, tvrdí muž obžalovaný z útoku kyselinou tv.idnes.cz
+3. **NS vyhověl Bradáčové, nařídil znovu otevřít kauzu hrnků a triček s nacisty - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/ns-vyhovel-bradacove-naridil-znovu-otevrit-kauzu-hrnku-a-tricek-s-nacisty/2874775
+   NS vyhověl Bradáčové, nařídil znovu otevřít kauzu hrnků a triček s nacisty České noviny
 
-4. **Sexy OnlyFans modelka řádí ve vězení jako smyslů zbavená: Urážky, potyčky a rasismus! - Blesk** — Blesk [cs]
-   https://www.blesk.cz/clanek/zpravy-krimi/847912/sexy-onlyfans-modelka-radi-ve-vezeni-jako-smyslu-zbavena-urazky-potycky-a-rasismus.html
-   Sexy OnlyFans modelka řádí ve vězení jako smyslů zbavená: Urážky, potyčky a rasismus! Blesk
+4. **Švédi vybírají novou vládu, poprvé by v ní mohla zasednout krajní pravice - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1670528-svedi-vybiraji-novou-vladu-poprve-by-v-ni-mohla-zasednout-krajni-pravice.html
+   Švédi vybírají novou vládu, poprvé by v ní mohla zasednout krajní pravice www.prahanadlani.cz
 
-5. **Ve švédských volbách směřuje k výhře levicová opozice. Krajní pravice dopadla hůře, než se čekalo - Deník N** — Deník N [cs]
-   https://denikn.cz/2183406/ve-svedskych-volbach-smeruje-k-vyhre-levicova-opozice-krajni-pravice-dopadla-hure-nez-se-cekalo/
-   Ve švédských volbách směřuje k výhře levicová opozice. Krajní pravice dopadla hůře, než se čekalo Deník N
+5. **„Doplatili na to slušní, pracující lidé.“ Rozhořčení ze superdávky roste - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/domaci/doplatili-na-to-slusni-pracujici-lide-rozhorceni-ze-superdavky-roste.A260827_134030_domaci_pzak
+   „Doplatili na to slušní, pracující lidé.“ Rozhořčení ze superdávky roste iDNES.cz
 
-6. **Expertka na Balkán: Černá Hora v EU do roku 2028? Je to reálné, ale bránit tomu může krajní pravice v EU - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/expertka-na-balkan-cerna-hora-v-eu-do-roku-2028-je-realne-ale-branit-tomu-muze_2609140900_raf
-   Expertka na Balkán: Černá Hora v EU do roku 2028? Je to reálné, ale bránit tomu může krajní pravice v EU iROZHLAS
+6. **Superdávka: Kdo má nárok, jak podat žádost a co se mění v roce 2026 - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1673365-superdavka-kdo-ma-narok-jak-podat-zadost-a-co-se-meni-v-roce-2026.html
+   Superdávka: Kdo má nárok, jak podat žádost a co se mění v roce 2026 www.prahanadlani.cz
 
-7. **Expertka na Balkán Juzová: Černá Hora v EU do roku 2028? Je to reálné, ale bránit tomu může i krajní pravice v EU - mujRozhlas** — mujRozhlas [cs]
-   https://www.mujrozhlas.cz/bruselske-chlebicky/expertka-na-balkan-juzova-cerna-hora-v-eu-do-roku-2028-je-realne-ale-branit
-   Expertka na Balkán Juzová: Černá Hora v EU do roku 2028? Je to reálné, ale bránit tomu může i krajní pravice v EU mujRozhlas
+7. **Pánek: Nižší podpora motivuje k hledání práce. Hůle: Dělat změnu po půl roce trvání nedává smysl - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/ekonomika/panek-nizsi-podpora-motivuje-k-hledani-prace-hule-delat-zmenu-po-pul-roce-trvani_2609142323_eml
+   Pánek: Nižší podpora motivuje k hledání práce. Hůle: Dělat změnu po půl roce trvání nedává smysl iROZHLAS
 
-8. **Německý scénář se nekoná. Krajní pravice ve Švédsku propadla, o vítězství se pere Kristersson a Anderssonová - EuroZprávy.cz** — EuroZprávy.cz [cs]
-   https://eurozpravy.cz/zahranicni/nemecky-scenar-se-nekona-krajni-pravice-ve-svedsku-propadla-o-vitezstvi-se-pere-kristersson-a-anderssonova.k6gfcsmo
-   Německý scénář se nekoná. Krajní pravice ve Švédsku propadla, o vítězství se pere Kristersson a Anderssonová EuroZprávy.cz
+8. **Samotný důchod nemusí být jediným příjmem. Řada seniorů má nárok i na další pomoc od státu - České důchody** — České důchody [cs]
+   https://ceskeduchody.cz/magazin/samotny-duchod-nemusi-byt-jedinym-prijmem-rada-senioru-ma-narok-i-na-dalsi-pomoc-od-statu
+   Samotný důchod nemusí být jediným příjmem. Řada seniorů má nárok i na další pomoc od státu České důchody
 
-9. **Galerie | Německý scénář se nekoná. Krajní pravice ve Švédsku propadla, o vítězství se pere Kristersson a Anderssonová - EuroZprávy.cz** — EuroZprávy.cz [cs]
-   https://eurozpravy.cz/galerie/zahranicni/nemecky-scenar-se-nekona-krajni-pravice-ve-svedsku-propadla-o-vitezstvi-se-pere-kristersson-a-anderssonova.k6gfcsmo
-   Galerie | Německý scénář se nekoná. Krajní pravice ve Švédsku propadla, o vítězství se pere Kristersson a Anderssonová EuroZprávy.cz
+9. **Slova, která se nám v angličtině často pletou - Stream.cz** — Stream.cz [cs]
+   https://www.stream.cz/anglictina-s-bronou/slova-ktera-se-nam-v-anglictine-casto-pletou-65571639
+   Slova, která se nám v angličtině často pletou Stream.cz
 
-10. **SOUTĚŽ: Hoří ti táta. Vyhrajte český román o rodinném neštěstí se společenským přesahem - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/kultura/literatura/knizni-soutez-hori-ti-tata-viktorie-hanisova-host_2609141318_kro
-   SOUTĚŽ: Hoří ti táta. Vyhrajte český román o rodinném neštěstí se společenským přesahem iROZHLAS
+10. **Ceny do fotosoutěže Moje první auto - Garáž.cz** — Garáž.cz [cs]
+   https://www.garaz.cz/clanek/soutez-ceny-do-fotosouteze-moje-prvni-auto-21017806
+   Ceny do fotosoutěže Moje první auto Garáž.cz
 
-11. **V boji o titul mezi jezdci už nejsem, říká Russell - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
-   https://f1sport.auto.cz/clanek/v-boji-o-titul-mezi-jezdci-uz-nejsem-rika-russell
-   V boji o titul mezi jezdci už nejsem, říká Russell F1sport.cz – podrobné zpravodajství ze světa F1
+11. **Komunální volby jsou 9. a 10. října. K hlavním tématům v Jablonci nad Nisou patří bezpečnost a dostupné bydlení - genus.cz** — genus.cz [cs]
+   https://genus.cz/regiony/jablonecko/komunalni-volby-jsou-9-a-10-rijna-k-hlavnim-tematum-v-jablonci-nad-nisou-patri-bezpecnost-a-dostupne-bydleni-n743092.htm
+   Komunální volby jsou 9. a 10. října. K hlavním tématům v Jablonci nad Nisou patří bezpečnost a dostupné bydlení genus.cz
 
-12. **Norris dnes přesedne do hypercaru. V Portimau bude testovat nový McLaren MCL-HY - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
-   https://f1sport.auto.cz/clanek/norris-dnes-presedne-do-hypercaru-v-portimau-bude-testovat-novy-mclaren-mcl-hy
-   Norris dnes přesedne do hypercaru. V Portimau bude testovat nový McLaren MCL-HY F1sport.cz – podrobné zpravodajství ze světa F1
+12. **Na Pouchově začala výstavba 126 družstevních bytů. Noví obyvatelé se nastěhují v roce 2029 - Hradec Králové - město na dlani** — Hradec Králové - město na dlani [cs]
+   https://zpravy.hradeckralove.cz/na-pouchove-zacala-vystavba-126-druzstevnich-bytu-novi-obyvatele-se-nastehuji-v-roce-2029-61389/
+   Na Pouchově začala výstavba 126 družstevních bytů. Noví obyvatelé se nastěhují v roce 2029 Hradec Králové - město na dlani
 
-13. **Verstappen hodnotí druhé místo jako neuvěřitelný výsledek - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
-   https://f1sport.auto.cz/clanek/verstappen-hodnoti-druhe-misto-jako-neuveritelny-vysledek
-   Verstappen hodnotí druhé místo jako neuvěřitelný výsledek F1sport.cz – podrobné zpravodajství ze světa F1
-
-14. **Colapinto získal v Madridu další body - F1sport.cz – podrobné zpravodajství ze světa F1** — F1sport.cz – podrobné zpravodajství ze světa F1 [cs]
-   https://f1sport.auto.cz/clanek/colapinto-ziskal-v-madridu-dalsi-body
-   Colapinto získal v Madridu další body F1sport.cz – podrobné zpravodajství ze světa F1
-
-15. **Na dostupné bydlení už těžko dosáhne i střední třída, říká ředitel CEEC Research - Brněnský deník** — Brněnský deník [cs]
-   https://brnensky.denik.cz/podnikani/na-dostupne-bydleni-uz-tezko-dosahne-i-stredni-trida-rika-reditel-ceec-research/
-   Na dostupné bydlení už těžko dosáhne i střední třída, říká ředitel CEEC Research Brněnský deník
-
-16. **Piráti k lex kratom: vláda přidává zákazy, ale data chybí. Na prevenci zapomněla úplně - pirati.cz** — pirati.cz [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/pirati-k-lex-kratom-vlada-pridava-zakazy-ale-data-chybi-na-prevenci-zapomnela-uplne/
-   Piráti k lex kratom: vláda přidává zákazy, ale data chybí. Na prevenci zapomněla úplně pirati.cz
-
-17. **Komentář pirátské poslankyně Andrey Hoffmannové k jednání vlády o možném škrtu podpory neveřejných škol - pirati.cz** — pirati.cz [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/komentar-piratske-poslankyne-andrey-hoffmannove-k-jednani-vlady-o-moznem-skrtu-podpory-neverejnych-skol/
-   Komentář pirátské poslankyně Andrey Hoffmannové k jednání vlády o možném škrtu podpory neveřejných škol pirati.cz
-
-18. **Peníze, pozemky i dlouhé povolování. Výstavba bydlení naráží na řadu překážek - Brněnský deník** — Brněnský deník [cs]
-   https://brnensky.denik.cz/podnikani/penize-pozemky-i-dlouhe-povolovani-vystavba-bydleni-narazi-na-radu-prekazek/
-   Peníze, pozemky i dlouhé povolování. Výstavba bydlení naráží na řadu překážek Brněnský deník
+13. **Komentář pirátské poslankyně Evy Šrámkové k návrhu na zavedení očkování v lékárnách, který dnes projednává vláda - pirati.cz** — pirati.cz [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/komentar-piratske-poslankyne-evy-sramkove-k-navrhu-na-zavedeni-ockovani-v-lekarnach-ktery-dnes-projednava-vlada/
+   Komentář pirátské poslankyně Evy Šrámkové k návrhu na zavedení očkování v lékárnách, který dnes projednává vláda pirati.cz
