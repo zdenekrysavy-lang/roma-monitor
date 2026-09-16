@@ -1,125 +1,125 @@
 {
-  "generated_utc": "2026-09-15T12:13:12+00:00",
+  "generated_utc": "2026-09-16T12:08:58+00:00",
   "count": 13,
   "sources": {
     "profile": "cz",
-    "google_news": 56,
+    "google_news": 62,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 0,
     "watch": 0,
-    "before_dedup": 39,
-    "total": 33,
-    "skipped_seen": 20,
+    "before_dedup": 36,
+    "total": 34,
+    "skipped_seen": 21,
     "gn_resolved": 13,
     "gn_resolve_tried": 13,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle - Český rozhlas Plzeň",
-      "url": "https://plzen.rozhlas.cz/andrej-gina-jak-rom-privedl-gadza-k-rozumu-a-jak-romove-hrali-v-pekle-9641999",
-      "source": "Český rozhlas Plzeň",
-      "snippet": "Andrej Giňa: Jak Rom přivedl gádža k rozumu a Jak Romové hráli v pekle Český rozhlas Plzeň",
-      "published": "Sat, 12 Sep 2026 22:15:34 GMT",
+      "title": "Tony Gatlif zasvětil film hudbě, cestě a romské kultuře - Radiožurnál",
+      "url": "https://radiozurnal.rozhlas.cz/tony-gatlif-zasvetil-film-hudbe-ceste-a-romske-kulture-9643276",
+      "source": "Radiožurnál",
+      "snippet": "Tony Gatlif zasvětil film hudbě, cestě a romské kultuře Radiožurnál",
+      "published": "Wed, 16 Sep 2026 09:01:34 GMT",
       "lang": "cs"
     },
     {
-      "title": "Rasismus žene vedoucí pracovnictvo z anglického zdravotnictví - VOXPOT",
-      "url": "https://www.voxpot.cz/live-feed/36715/rasismus-zene-vedouci-pracovnictvo-z-anglickeho-zdravotnictvi",
-      "source": "VOXPOT",
-      "snippet": "Rasismus žene vedoucí pracovnictvo z anglického zdravotnictví VOXPOT",
-      "published": "Tue, 15 Sep 2026 11:05:00 GMT",
+      "title": "Cesty k pramenům propojily hudbu, tanec i poezii – Kultura - Plzen.cz",
+      "url": "https://www.plzen.cz/cesty_k_pramenum_propojily_hudbu_tanec_i_poezii",
+      "source": "Plzen.cz",
+      "snippet": "Cesty k pramenům propojily hudbu, tanec i poezii – Kultura Plzen.cz",
+      "published": "Tue, 15 Sep 2026 19:57:21 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Čechům svědčí. Sudí Sparty prolomil velké tabu, zažil kritiku i rasistické útoky - Deník.cz",
+      "url": "https://www.denik.cz/ostatni-fotbal/ararat-armenia-sparta-praha-evropska-liga-rozhodci-mohammed-al-hakim-rasismus-chyby-socialni-site-dane/",
+      "source": "Deník.cz",
+      "snippet": "Čechům svědčí. Sudí Sparty prolomil velké tabu, zažil kritiku i rasistické útoky Deník.cz",
+      "published": "Wed, 16 Sep 2026 10:53:26 GMT",
       "lang": "cs"
     },
     {
       "title": "NS vyhověl Bradáčové, nařídil znovu otevřít kauzu hrnků a triček s nacisty - České noviny",
-      "url": "https://www.ceskenoviny.cz/zpravy/ns-vyhovel-bradacove-naridil-znovu-otevrit-kauzu-hrnku-a-tricek-s-nacisty/2874775",
+      "url": "https://www.ceskenoviny.cz/zpravy/2874775",
       "source": "České noviny",
       "snippet": "NS vyhověl Bradáčové, nařídil znovu otevřít kauzu hrnků a triček s nacisty České noviny",
       "published": "Tue, 15 Sep 2026 12:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Švédi vybírají novou vládu, poprvé by v ní mohla zasednout krajní pravice - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1670528-svedi-vybiraji-novou-vladu-poprve-by-v-ni-mohla-zasednout-krajni-pravice.html",
-      "source": "www.prahanadlani.cz",
-      "snippet": "Švédi vybírají novou vládu, poprvé by v ní mohla zasednout krajní pravice www.prahanadlani.cz",
-      "published": "Sun, 13 Sep 2026 08:22:20 GMT",
+      "title": "„Ukrajina osm let vraždila Rusy.“ Co o Donbasu skutečně zaznamenaly OBSE a OSN - manipulatori.cz",
+      "url": "https://manipulatori.cz/ukrajina-osm-let-vrazdila-rusy-co-o-donbasu-skutecne-zaznamenaly-obse-a-osn/",
+      "source": "manipulatori.cz",
+      "snippet": "„Ukrajina osm let vraždila Rusy.“ Co o Donbasu skutečně zaznamenaly OBSE a OSN manipulatori.cz",
+      "published": "Tue, 15 Sep 2026 12:16:46 GMT",
       "lang": "cs"
     },
     {
-      "title": "„Doplatili na to slušní, pracující lidé.“ Rozhořčení ze superdávky roste - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/doplatili-na-to-slusni-pracujici-lide-rozhorceni-ze-superdavky-roste.A260827_134030_domaci_pzak",
+      "title": "Le Penová válcuje průzkumy, prezidentské volby vyhrává ve všech scénářích - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/marine-le-penova-francie-prezidentske-volby-2027.A260915_100804_zahranicni_aha",
       "source": "iDNES.cz",
-      "snippet": "„Doplatili na to slušní, pracující lidé.“ Rozhořčení ze superdávky roste iDNES.cz",
-      "published": "Mon, 14 Sep 2026 14:45:00 GMT",
+      "snippet": "Le Penová válcuje průzkumy, prezidentské volby vyhrává ve všech scénářích iDNES.cz",
+      "published": "Tue, 15 Sep 2026 18:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Superdávka: Kdo má nárok, jak podat žádost a co se mění v roce 2026 - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1673365-superdavka-kdo-ma-narok-jak-podat-zadost-a-co-se-meni-v-roce-2026.html",
-      "source": "www.prahanadlani.cz",
-      "snippet": "Superdávka: Kdo má nárok, jak podat žádost a co se mění v roce 2026 www.prahanadlani.cz",
-      "published": "Tue, 15 Sep 2026 08:27:55 GMT",
+      "title": "Nejtěsnější volby v dějinách? Švédy čeká dlouhá noc - ParlamentniListy.cz",
+      "url": "https://www.parlamentnilisty.cz/arena/monitor/Nejtesnejsi-volby-v-dejinach-Svedy-ceka-dlouha-noc-796760",
+      "source": "ParlamentniListy.cz",
+      "snippet": "Nejtěsnější volby v dějinách? Švédy čeká dlouhá noc ParlamentniListy.cz",
+      "published": "Sun, 13 Sep 2026 21:10:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Pánek: Nižší podpora motivuje k hledání práce. Hůle: Dělat změnu po půl roce trvání nedává smysl - iROZHLAS",
-      "url": "https://www.irozhlas.cz/ekonomika/panek-nizsi-podpora-motivuje-k-hledani-prace-hule-delat-zmenu-po-pul-roce-trvani_2609142323_eml",
-      "source": "iROZHLAS",
-      "snippet": "Pánek: Nižší podpora motivuje k hledání práce. Hůle: Dělat změnu po půl roce trvání nedává smysl iROZHLAS",
-      "published": "Mon, 14 Sep 2026 21:23:00 GMT",
+      "title": "Na ☕️ s Vojtěchem 14. 09. 2026 www.doktorvajicko.cz - YouTube",
+      "url": "https://youtu.be/5uJJ4lXiOow?is=XbZAXfRy7fyl9olQ",
+      "source": "YouTube",
+      "snippet": "Na ☕️ s Vojtěchem 14. 09. 2026 www.doktorvajicko.cz YouTube",
+      "published": "Mon, 14 Sep 2026 11:00:06 GMT",
       "lang": "cs"
     },
     {
-      "title": "Samotný důchod nemusí být jediným příjmem. Řada seniorů má nárok i na další pomoc od státu - České důchody",
-      "url": "https://ceskeduchody.cz/magazin/samotny-duchod-nemusi-byt-jedinym-prijmem-rada-senioru-ma-narok-i-na-dalsi-pomoc-od-statu",
-      "source": "České důchody",
-      "snippet": "Samotný důchod nemusí být jediným příjmem. Řada seniorů má nárok i na další pomoc od státu České důchody",
-      "published": "Tue, 15 Sep 2026 02:54:10 GMT",
+      "title": "Švédsko posílá vězně do Estonska. Stockholm si tam pronajal stovky cel - Deník N",
+      "url": "https://denikn.cz/2181991/svedsko-posila-vezne-do-estonska-stockholm-si-tam-pronajal-stovky-cel/?ref=mwac",
+      "source": "Deník N",
+      "snippet": "Švédsko posílá vězně do Estonska. Stockholm si tam pronajal stovky cel Deník N",
+      "published": "Mon, 14 Sep 2026 13:31:08 GMT",
       "lang": "cs"
     },
     {
-      "title": "Slova, která se nám v angličtině často pletou - Stream.cz",
-      "url": "https://www.stream.cz/anglictina-s-bronou/slova-ktera-se-nam-v-anglictine-casto-pletou-65571639",
+      "title": "Superdávka přinesla lidem spoustu problémů. Zelení předkládají Juchelkovi 177 případů - Zelení",
+      "url": "https://www.zeleni.cz/superdavka-prinesla-lidem-spoustu-problemu-zeleni-predkladaji-juchelkovi-177-pripadu/",
+      "source": "Zelení",
+      "snippet": "Superdávka přinesla lidem spoustu problémů. Zelení předkládají Juchelkovi 177 případů Zelení",
+      "published": "Tue, 15 Sep 2026 14:54:45 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Kritika superdávky: Nízká penze seniorům nepomůže. Potíže mají i samoživitelé - Deník.cz",
+      "url": "https://www.denik.cz/ekonomika/ekonomika-cesko-kritika-nove-superdavky-duchodci-samozivitele/",
+      "source": "Deník.cz",
+      "snippet": "Kritika superdávky: Nízká penze seniorům nepomůže. Potíže mají i samoživitelé Deník.cz",
+      "published": "Tue, 15 Sep 2026 14:50:10 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Youtube zdražuje a chystá novinku - Stream.cz",
+      "url": "https://www.stream.cz/o-mediich/youtube-zdrazuje-a-chysta-novinku-65574885",
       "source": "Stream.cz",
-      "snippet": "Slova, která se nám v angličtině často pletou Stream.cz",
-      "published": "Tue, 15 Sep 2026 03:32:36 GMT",
+      "snippet": "Youtube zdražuje a chystá novinku Stream.cz",
+      "published": "Mon, 14 Sep 2026 12:02:28 GMT",
       "lang": "cs"
     },
     {
-      "title": "Ceny do fotosoutěže Moje první auto - Garáž.cz",
-      "url": "https://www.garaz.cz/clanek/soutez-ceny-do-fotosouteze-moje-prvni-auto-21017806",
-      "source": "Garáž.cz",
-      "snippet": "Ceny do fotosoutěže Moje první auto Garáž.cz",
-      "published": "Mon, 14 Sep 2026 18:26:15 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Komunální volby jsou 9. a 10. října. K hlavním tématům v Jablonci nad Nisou patří bezpečnost a dostupné bydlení - genus.cz",
-      "url": "https://genus.cz/regiony/jablonecko/komunalni-volby-jsou-9-a-10-rijna-k-hlavnim-tematum-v-jablonci-nad-nisou-patri-bezpecnost-a-dostupne-bydleni-n743092.htm",
-      "source": "genus.cz",
-      "snippet": "Komunální volby jsou 9. a 10. října. K hlavním tématům v Jablonci nad Nisou patří bezpečnost a dostupné bydlení genus.cz",
-      "published": "Tue, 15 Sep 2026 03:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Na Pouchově začala výstavba 126 družstevních bytů. Noví obyvatelé se nastěhují v roce 2029 - Hradec Králové - město na dlani",
-      "url": "https://zpravy.hradeckralove.cz/na-pouchove-zacala-vystavba-126-druzstevnich-bytu-novi-obyvatele-se-nastehuji-v-roce-2029-61389/",
-      "source": "Hradec Králové - město na dlani",
-      "snippet": "Na Pouchově začala výstavba 126 družstevních bytů. Noví obyvatelé se nastěhují v roce 2029 Hradec Králové - město na dlani",
-      "published": "Mon, 14 Sep 2026 22:03:06 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Komentář pirátské poslankyně Evy Šrámkové k návrhu na zavedení očkování v lékárnách, který dnes projednává vláda - pirati.cz",
-      "url": "https://www.pirati.cz/jak-pirati-pracuji/komentar-piratske-poslankyne-evy-sramkove-k-navrhu-na-zavedeni-ockovani-v-lekarnach-ktery-dnes-projednava-vlada/",
-      "source": "pirati.cz",
-      "snippet": "Komentář pirátské poslankyně Evy Šrámkové k návrhu na zavedení očkování v lékárnách, který dnes projednává vláda pirati.cz",
-      "published": "Mon, 14 Sep 2026 11:05:00 GMT",
+      "title": "Válkovo spojí generace, devět bytů obsadí senioři a sociálně slabší - iDobryDen",
+      "url": "https://www.idobryden.cz/zpravy/valkovo-spoji-generace-devet-bytu-obsadi-seniori-a-socialne-slabsi-64966.html",
+      "source": "iDobryDen",
+      "snippet": "Válkovo spojí generace, devět bytů obsadí senioři a sociálně slabší iDobryDen",
+      "published": "Wed, 16 Sep 2026 10:47:22 GMT",
       "lang": "cs"
     }
   ]
