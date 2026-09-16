@@ -150,6 +150,8 @@ RSS_FEEDS = [
     ("https://rominfomedia.rs/feed/",                            "sr"),  # Rom Info Media (jih Srbska, Leskovac)
     ("https://romaworld.rs/feed/",                               "sr"),  # Romaworld (RS)
     ("https://roma-news.com/feed/",                              "sr"),  # Roma News Network (RS/balkán) – pozn. obsah nyní starší
+    # — Bulharsko —
+    ("https://romalo.bg/feed/",                                  "bg"),  # Romalo.bg – aktivní, ~1–2 články týdně
     # — Chorvatsko —
     ("https://kalisara.hr/feed/",                                "hr"),  # Kali Sara / SRRH – pozn. obsah nyní starší (poslední 6/2025)
     # — Severní Makedonie —
