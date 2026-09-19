@@ -1,83 +1,91 @@
-# Kandidáti — 2026-09-18T11:52:16+00:00 (20 položek)
+# Kandidáti — 2026-09-19T11:35:45+00:00 (22 položek)
 
-_Zdroje: Google News 68 · GDELT 0 (disabled) · feedy 2 · watch 1_
+_Zdroje: Google News 62 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **Úřad práce chtěl po babičce vrátit dávky. Část přeplatku ale způsobil sám - Veřejný ochránce práv** — Veřejný ochránce práv [cs]
-   https://deti.ochrance.cz/tz/urad-prace-chtel-po-babicce-vratit-davky-cast-preplatku-ale-zpusobil-sam/
-   Úřad práce chtěl po babičce vrátit dávky. Část přeplatku ale způsobil sám Veřejný ochránce práv
+1. **Hledáme do týmu manažera nebo manažerku firemního a nadačního fundraisingu!** — https://socialnibydleni.org/feed [cs]
+   https://socialnibydleni.org/aktuality/hledame-do-tymu-manazera-nebo-manazerku-firemniho-a-nadacniho-fundraisingu-2
+   Pomáhejte budovat finanční stabilitu organizace, která usiluje o to, aby každý člověk měl důstojný domov. Platforma pro sociální bydlení hledá nového člena/členku týmu, který/která převezme rozvoj fun
 
-2. **Divadlo Gong uvádí slavný muzikál Cikáni jdou do nebe - Radiožurnál** — Radiožurnál [cs]
-   https://radiozurnal.rozhlas.cz/divadlo-gong-uvadi-slavny-muzikal-cikani-jdou-do-nebe-9643942
-   Divadlo Gong uvádí slavný muzikál Cikáni jdou do nebe Radiožurnál
+2. **Soužití s Romy hodnotí Češi nejlépe za posledních 30 let. Je tento postoj oboustranný? - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/oli-strejbarova-souziti-s-romy-hodnoti-cesi-nejlepe-za-poslednich-30-let-je-tento-postoj-oboustranny-317233
+   Soužití s Romy hodnotí Češi nejlépe za posledních 30 let. Je tento postoj oboustranný? medium.seznam.cz
 
-3. **Na sídlišti Šumava si spolu zatančily děti, senioři i profesionální tanečníci - Budějcká Drbna** — Budějcká Drbna [cs]
-   https://budejcka.drbna.cz/kultura/900336-na-sidlisti-sumava-si-spolu-zatancily-deti-seniori-i-profesionalni-tanecnici.html
-   Na sídlišti Šumava si spolu zatančily děti, senioři i profesionální tanečníci Budějcká Drbna
+3. **Středisko volného času Radovánek připravilo na letošní školní rok sto novinek - Český rozhlas Plzeň** — Český rozhlas Plzeň [cs]
+   https://plzen.rozhlas.cz/stredisko-volneho-casu-radovanek-pripravilo-na-letosni-skolni-rok-sto-novinek-9643414
+   Středisko volného času Radovánek připravilo na letošní školní rok sto novinek Český rozhlas Plzeň
 
-4. **Partnera žena na Chrudimsku bodla v nutné obraně, řekl soud a zprostil ji obžaloby - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/krimi-partnera-zena-na-chrudimsku-bodla-v-nutne-obrane-rekl-soud-a-zprostil-ji-obzaloby-40598186
-   Partnera žena na Chrudimsku bodla v nutné obraně, řekl soud a zprostil ji obžaloby Novinky
+4. **Královna dabingu Valérie Zawadská slaví 68 let. Operace jí mohla vzít hlas i kariéru - Blesk pro ženy** — Blesk pro ženy [cs]
+   https://prozeny.blesk.cz/clanek/pro-zeny-proste-fenomen/820454/kralovna-dabingu-valerie-zawadska-slavi-68-let-operace-ji-mohla-vzit-hlas-i-karieru.html
+   Královna dabingu Valérie Zawadská slaví 68 let. Operace jí mohla vzít hlas i kariéru Blesk pro ženy
 
-5. **CELÝ DÍL VÝMĚNY MANŽELEK: Odlišná pravidla i podřizování se dětem - TV Nova** — TV Nova [cs]
-   https://tv.nova.cz/porad/vymena-manzelek/video-epizoda/14111-13-dil
-   CELÝ DÍL VÝMĚNY MANŽELEK: Odlišná pravidla i podřizování se dětem TV Nova
+5. **ANO v Brně nemůže přijít na jméno svému kandidátovi ze zakleté čtvrti BRNOX - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/knihomolka-ano-v-brne-nemuze-prijit-na-jmeno-svemu-kandidatovi-ze-zaklete-ctvrti-brnox-320549
+   ANO v Brně nemůže přijít na jméno svému kandidátovi ze zakleté čtvrti BRNOX medium.seznam.cz
 
-6. **USA, USA, křičela na kanadského premiéra v europarlamentu krajní pravice - RESPEKT** — RESPEKT [cs]
-   https://www.respekt.cz/zahranici/europarlament-tleskal-carneymu-trump-povazuje-pridruzene-clenstvi-kanady-za-nepratelsky-krok
-   USA, USA, křičela na kanadského premiéra v europarlamentu krajní pravice RESPEKT
+6. **Záběry z Ceuty přiživují podporu krajní pravice v Evropě, uvedl eurokomisař - iDNES.tv** — iDNES.tv [cs]
+   https://tv.idnes.cz/zahranicni/ceuta-zabery-evropa-eurokomisar-brunner.V260918_185327_idnestv_made
+   Záběry z Ceuty přiživují podporu krajní pravice v Evropě, uvedl eurokomisař iDNES.tv
 
-7. **Karel Pučelík: Co se stalo s přívětivým Švédskem? Aneb jak krajní pravice zapouští hluboké kořeny - Newstream** — Newstream [cs]
-   https://www.newstream.cz/politika/karel-pucelik-co-se-stalo-s-privetivym-svedskem-aneb-jak-krajni-pravice-zapousti-hluboke-koreny
-   Karel Pučelík: Co se stalo s přívětivým Švédskem? Aneb jak krajní pravice zapouští hluboké kořeny Newstream
+7. **Jak krajní je krajní pravice. Douglas Murray k AfD - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/machacek89-cz-jak-krajni-je-krajni-pravice-douglas-murray-k-afd-322533
+   Jak krajní je krajní pravice. Douglas Murray k AfD medium.seznam.cz
 
-8. **Matěj Moravanský: Zaveďme daň z nadměrných zisků. Zachráníme demokracii - Deník Referendum** — Deník Referendum [cs]
-   https://denikreferendum.cz/clanek/239360-zavedme-dan-z-nadmernych-zisku-zachranime-demokracii
-   Matěj Moravanský: Zaveďme daň z nadměrných zisků. Zachráníme demokracii Deník Referendum
+8. **AfD splňuje kritéria pro zákaz, říká Nürnberger. Schuster: Tak silnou stranu zakázat nelze - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/afd-strana-zakazat-nurnberger-schuster_2609182230_elev
+   AfD splňuje kritéria pro zákaz, říká Nürnberger. Schuster: Tak silnou stranu zakázat nelze iROZHLAS
 
-9. **Extremismus – a bezvýznamnost – „Demokratických socialistů“ - epochtimes.cz** — epochtimes.cz [cs]
-   https://www.epochtimes.cz/nazory/extremismus-a-bezvyznamnost-demokratickych-socialistu-a295904.html
-   Extremismus – a bezvýznamnost – „Demokratických socialistů“ epochtimes.cz
+9. **Záběry z Ceuty přiživují podporu krajní pravice v Evropě, uvedl eurokomisař Magnus Brunner - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/zahranicni/zabery-z-ceuty-posilily-podporu-krajni-pravice-v-evrope-uvedl-eurokomisar.A260918_181134_zahranicni_rtn
+   Záběry z Ceuty přiživují podporu krajní pravice v Evropě, uvedl eurokomisař Magnus Brunner iDNES.cz
 
-10. **Dvojice fotbalových fanoušků přepadla nezletilého chlapce, kterého oloupila o klubovou šálu - Týdeník Policie** — Týdeník Policie [cs]
-   https://tydenikpolicie.cz/dvojice-fotbalovych-fanousku-prepadla-nezletileho-chlapce-ktereho-oloupila-o-klubovou-salu/
-   Dvojice fotbalových fanoušků přepadla nezletilého chlapce, kterého oloupila o klubovou šálu Týdeník Policie
+10. **Problémy s islámskou migrací jsou menší, než se před lety zdálo. No-go zóny jsou mýtus, tvrdí Hesová - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/hesova-migrace-islam-evropa_2609182340_elev
+   Problémy s islámskou migrací jsou menší, než se před lety zdálo. No-go zóny jsou mýtus, tvrdí Hesová iROZHLAS
 
-11. **Rusofob a nacista za každým rohem. Putin se bojí a hledá extremisty i mezi vojáky - forum 24** — forum 24 [cs]
-   https://www.forum24.cz/rusofob-a-nacista-za-kazdym-rohem-putin-se-boji-a-hleda-extremisty-i-mezi-vojaky
-   Rusofob a nacista za každým rohem. Putin se bojí a hledá extremisty i mezi vojáky forum 24
+11. **Diskuse: Brunner: Záběry z Ceuty přiživují podporu krajní pravice v Evropě - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/zahranicni/zabery-z-ceuty-posilily-podporu-krajni-pravice-v-evrope-uvedl-eurokomisar.A260918_181134_zahranicni_rtn/diskuse
+   Diskuse: Brunner: Záběry z Ceuty přiživují podporu krajní pravice v Evropě iDNES.cz
 
-12. **Česko čelí ze strany Ruska hybridní válce, řekl Babiš - epochtimes.cz** — epochtimes.cz [cs]
-   https://www.epochtimes.cz/ceska-republika/cesko-celi-ze-strany-ruska-hybridni-valce-rekl-babis-a296451.html
-   Česko čelí ze strany Ruska hybridní válce, řekl Babiš epochtimes.cz
+12. **Stálý pozorovatel Svatého stolce při OSN: Odzbrojení slov je prvním krokem ke kultuře dialogu a tolerance - Církev.cz** — Církev.cz [cs]
+   https://www.cirkev.cz/staly-pozorovatel-svateho-stolce-pri-osn-odzbrojeni-slov-je-prvnim-krokem-ke-kulture-dialogu-a-tolerance_75721
+   Stálý pozorovatel Svatého stolce při OSN: Odzbrojení slov je prvním krokem ke kultuře dialogu a tolerance Církev.cz
 
-13. **Příkladem rozhodování soudců bez důkazů je kauza Čapí hnízdo, vzkázal Babiš - epochtimes.cz** — epochtimes.cz [cs]
-   https://www.epochtimes.cz/ceska-republika/prikladem-rozhodovani-soudcu-bez-dukazu-je-kauza-capi-hnizdo-vzkazal-babis-a296568.html?ea_src=frontpage&ea_pos=col-top&ea_elmt=latest-news&ea_cnt=1
-   Příkladem rozhodování soudců bez důkazů je kauza Čapí hnízdo, vzkázal Babiš epochtimes.cz
+13. **Roky se bála, že to nestihne na toaletu. Margitě změnil život malý implantát - Flowee - Flowee** — Flowee [cs]
+   https://www.flowee.cz/zdravi/17584-roky-se-bala-ze-to-nestihne-na-toaletu-margite-zmenil-zivot-maly-implantat
+   Roky se bála, že to nestihne na toaletu. Margitě změnil život malý implantát - Flowee Flowee
 
-14. **Von der Leyenová: EU vyplatí Ukrajině 3,3 miliardy eur na nákup raket a dronů - epochtimes.cz** — epochtimes.cz [cs]
-   https://www.epochtimes.cz/svet/von-der-leyenova-eu-vyplati-ukrajine-33-miliardy-eur-na-nakup-raket-a-dronu-a296448.html
-   Von der Leyenová: EU vyplatí Ukrajině 3,3 miliardy eur na nákup raket a dronů epochtimes.cz
+14. **Senioři v Česku mají k důchodu nárok na tenhle příspěvek od státu k důchodu. Často o tom neví - Tiscali.cz** — Tiscali.cz [cs]
+   https://www.tiscali.cz/seniori-v-cesku-maji-k-duchodu-narok-na-tenhle-prispevek-od-statu-k-duchodu-casto-o-tom-nevi-763767
+   Senioři v Česku mají k důchodu nárok na tenhle příspěvek od státu k důchodu. Často o tom neví Tiscali.cz
 
-15. **Komunální volby 2026 v Jablonci: Lídři prozradili, jak chtějí změnit město - idnes.cz** — idnes.cz [cs]
-   https://www.idnes.cz/volby/liberec/komunalni-volby-jablonec-problemy-kandidati-bezpeci-straznici.A260918_100819_liberec-volby_jape
-   Komunální volby 2026 v Jablonci: Lídři prozradili, jak chtějí změnit město idnes.cz
+15. **Kdo blokuje návrat Krejčíře? Nitky sahají do nejvyšších politických kruhů - Stream.cz** — Stream.cz [cs]
+   https://www.stream.cz/top-temata/kdo-blokuje-navrat-krejcire-nitky-sahaji-do-nejvyssich-politickych-kruhu-65576829
+   Kdo blokuje návrat Krejčíře? Nitky sahají do nejvyšších politických kruhů Stream.cz
 
-16. **Vykoupal jsem se v Onsenu na střeše mrakodrapu - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/japonsko-2025/vykoupal-jsem-se-v-onsenu-na-strese-mrakodrapu-65567817
-   Vykoupal jsem se v Onsenu na střeše mrakodrapu Stream.cz
+16. **Výjimečná nabídka pro milovníky vysoké gastronomie - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/pavel-kujal-vyjimecna-nabidka-pro-milovniky-vysoke-gastronomie-322332
+   Výjimečná nabídka pro milovníky vysoké gastronomie medium.seznam.cz
 
-17. **„Zažil jsem toho hodně, ale toto ještě ne.“ Anonym vyhnal z nemocnice stovky lidí - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/domaci-1240685-1/zazil-jsem-toho-hodne-ale-toto-jeste-ne-anonym-vyhnal-z-nemocnice-stovky-lidi-65577309
-   „Zažil jsem toho hodně, ale toto ještě ne.“ Anonym vyhnal z nemocnice stovky lidí Stream.cz
+17. **Neposlechl aneb manželka má vždy pravdu! - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/alfred-rudys-neposlechl-aneb-manzelka-ma-vzdy-pravdu-322163
+   Neposlechl aneb manželka má vždy pravdu! medium.seznam.cz
 
-18. **Po operaci křečových žil lze jít brzy do práce, ale musíte si ji zaplatit - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/marodi/marodi-moderni-operace-krecovych-zil-pojistovny-je-nehradi-65577117
-   Po operaci křečových žil lze jít brzy do práce, ale musíte si ji zaplatit Stream.cz
+18. **Jak funguje volební cyklus - medium.seznam.cz** — medium.seznam.cz [cs]
+   https://medium.seznam.cz/clanek/vaclav-veverka-jak-funguje-volebni-cyklus-322346
+   Jak funguje volební cyklus medium.seznam.cz
 
-19. **Martin Dvořák o sporu s Ruskem, Putinovi před soudem a kauze Dozimetr - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/tajna-slozka/martin-dvorak-o-sporu-s-ruskem-putinovi-pred-soudem-a-kauze-dozimetr-65577135
-   Martin Dvořák o sporu s Ruskem, Putinovi před soudem a kauze Dozimetr Stream.cz
+19. **Dostupné bydlení táhne předvolební debatu v České Třebové, strany nabízejí různá řešení - OIK TV** — OIK TV [cs]
+   https://www.oiktv.cz/zpravy/dostupne-bydleni-tahne-predvolebni-debatu-v-ceske-trebove-strany-nabizeji-ruzna-reseni/
+   Dostupné bydlení táhne předvolební debatu v České Třebové, strany nabízejí různá řešení OIK TV
 
-20. **Ivan Bartoš uspořádal bezpečnostní konferenci, na které propojil špičky průmyslu, technologií i státu. Česko musí vědět, na čem je kriticky závislé - pirati.cz** — pirati.cz [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/ivan-bartos-usporadal-bezpecnostni-konferenci-na-ktere-propojil-spicky-prumyslu-technologii-i-statu-cesko-musi-vedet-na-cem-je-kriticky-zavisle/
-   Ivan Bartoš uspořádal bezpečnostní konferenci, na které propojil špičky průmyslu, technologií i státu. Česko musí vědět, na čem je kriticky závislé pirati.cz
+20. **První družstevní byty už do roku 2030 - horacke-noviny.com** — horacke-noviny.com [cs]
+   https://www.horacke-noviny.com/index.php/prvni-druzstevni-byty-uz-do-roku-2030
+   První družstevní byty už do roku 2030 horacke-noviny.com
+
+21. **Komise chce omezit sociální sítě dětem. Nepomůže to, říká Gregorová - pirati.cz** — pirati.cz [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/komise-chce-omezit-socialni-site-detem-nepomuze-to-rika-gregorova/
+   Komise chce omezit sociální sítě dětem. Nepomůže to, říká Gregorová pirati.cz
+
+22. **Devět kandidátek, jedno velké téma. Jeseník před volbami řeší obnovu po povodních - Olomoucký Report** — Olomoucký Report [cs]
+   https://www.report.cz/v-jeseniku-dominuji-pred-volbami-plany-na-obnovu-mesta-po-povodnich
+   Devět kandidátek, jedno velké téma. Jeseník před volbami řeší obnovu po povodních Olomoucký Report
