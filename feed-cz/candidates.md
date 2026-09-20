@@ -1,91 +1,83 @@
-# Kandidáti — 2026-09-19T11:35:45+00:00 (22 položek)
+# Kandidáti — 2026-09-20T11:51:25+00:00 (20 položek)
 
 _Zdroje: Google News 62 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **Hledáme do týmu manažera nebo manažerku firemního a nadačního fundraisingu!** — https://socialnibydleni.org/feed [cs]
-   https://socialnibydleni.org/aktuality/hledame-do-tymu-manazera-nebo-manazerku-firemniho-a-nadacniho-fundraisingu-2
-   Pomáhejte budovat finanční stabilitu organizace, která usiluje o to, aby každý člověk měl důstojný domov. Platforma pro sociální bydlení hledá nového člena/členku týmu, který/která převezme rozvoj fun
+1. **I mě měli dát rodiče do zvláštní školy, protože jsem Rom, říká konzul Torák. Pomáhá Romům v Británii - Český rozhlas Plus** — Český rozhlas Plus [cs]
+   https://plus.rozhlas.cz/i-me-meli-dat-rodice-do-zvlastni-skoly-protoze-jsem-rom-rika-konzul-torak-pomaha-9643814
+   I mě měli dát rodiče do zvláštní školy, protože jsem Rom, říká konzul Torák. Pomáhá Romům v Británii Český rozhlas Plus
 
-2. **Soužití s Romy hodnotí Češi nejlépe za posledních 30 let. Je tento postoj oboustranný? - medium.seznam.cz** — medium.seznam.cz [cs]
-   https://medium.seznam.cz/clanek/oli-strejbarova-souziti-s-romy-hodnoti-cesi-nejlepe-za-poslednich-30-let-je-tento-postoj-oboustranny-317233
-   Soužití s Romy hodnotí Češi nejlépe za posledních 30 let. Je tento postoj oboustranný? medium.seznam.cz
+2. **Poslechněte si: My a oni 19. 9. 2026 - Český rozhlas Plzeň** — Český rozhlas Plzeň [cs]
+   https://plzen.rozhlas.cz/poslechnete-si-my-a-oni-19-9-2026-9639171
+   Poslechněte si: My a oni 19. 9. 2026 Český rozhlas Plzeň
 
-3. **Středisko volného času Radovánek připravilo na letošní školní rok sto novinek - Český rozhlas Plzeň** — Český rozhlas Plzeň [cs]
-   https://plzen.rozhlas.cz/stredisko-volneho-casu-radovanek-pripravilo-na-letosni-skolni-rok-sto-novinek-9643414
-   Středisko volného času Radovánek připravilo na letošní školní rok sto novinek Český rozhlas Plzeň
+3. **Kontroverzní Sládek v G MMA? Překvapivá slova Jíry na adresu zápasníka - Extra.cz** — Extra.cz [cs]
+   https://www.extra.cz/kontroverzni-sladek-v-g-mma-prekvapiva-slova-jiry-na-adresu-zapasnika-54c58
+   Kontroverzní Sládek v G MMA? Překvapivá slova Jíry na adresu zápasníka Extra.cz
 
-4. **Královna dabingu Valérie Zawadská slaví 68 let. Operace jí mohla vzít hlas i kariéru - Blesk pro ženy** — Blesk pro ženy [cs]
-   https://prozeny.blesk.cz/clanek/pro-zeny-proste-fenomen/820454/kralovna-dabingu-valerie-zawadska-slavi-68-let-operace-ji-mohla-vzit-hlas-i-karieru.html
-   Královna dabingu Valérie Zawadská slaví 68 let. Operace jí mohla vzít hlas i kariéru Blesk pro ženy
+4. **‚Kéž by to znovu bouchlo.‘ Před volbami se vzpomíná na největší rasové nepokoje v poválečném Německu - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/kez-znovu-bouchlo-pred-volbami-se-vzpomina-na-nejvetsi-rasove-nepokoje-v_2609191913_ako
+   ‚Kéž by to znovu bouchlo.‘ Před volbami se vzpomíná na největší rasové nepokoje v poválečném Německu iROZHLAS
 
-5. **ANO v Brně nemůže přijít na jméno svému kandidátovi ze zakleté čtvrti BRNOX - medium.seznam.cz** — medium.seznam.cz [cs]
-   https://medium.seznam.cz/clanek/knihomolka-ano-v-brne-nemuze-prijit-na-jmeno-svemu-kandidatovi-ze-zaklete-ctvrti-brnox-320549
-   ANO v Brně nemůže přijít na jméno svému kandidátovi ze zakleté čtvrti BRNOX medium.seznam.cz
+5. **Příběhy (ne)kultury: Jak se časy (ne)mění - Deník TO** — Deník TO [cs]
+   https://denik.to/pribehy-nekultury-jak-se-casy-nemeni/
+   Příběhy (ne)kultury: Jak se časy (ne)mění Deník TO
 
-6. **Záběry z Ceuty přiživují podporu krajní pravice v Evropě, uvedl eurokomisař - iDNES.tv** — iDNES.tv [cs]
-   https://tv.idnes.cz/zahranicni/ceuta-zabery-evropa-eurokomisar-brunner.V260918_185327_idnestv_made
-   Záběry z Ceuty přiživují podporu krajní pravice v Evropě, uvedl eurokomisař iDNES.tv
+6. **Policie v Haagu rozehnala násilný protest krajní pravice - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/zahranicni-evropa-policie-v-haagu-rozehnala-nasilny-protest-krajni-pravice-40598577
+   Policie v Haagu rozehnala násilný protest krajní pravice Novinky
 
-7. **Jak krajní je krajní pravice. Douglas Murray k AfD - medium.seznam.cz** — medium.seznam.cz [cs]
-   https://medium.seznam.cz/clanek/machacek89-cz-jak-krajni-je-krajni-pravice-douglas-murray-k-afd-322533
-   Jak krajní je krajní pravice. Douglas Murray k AfD medium.seznam.cz
+7. **Neonacisté v rostocké panelákové sídlištní čtvrti Lichtenhagen... | iROZHLAS - spolehlivé zprávy - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/fotogalerie/9644207
+   Neonacisté v rostocké panelákové sídlištní čtvrti Lichtenhagen... | iROZHLAS - spolehlivé zprávy iROZHLAS
 
-8. **AfD splňuje kritéria pro zákaz, říká Nürnberger. Schuster: Tak silnou stranu zakázat nelze - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/afd-strana-zakazat-nurnberger-schuster_2609182230_elev
-   AfD splňuje kritéria pro zákaz, říká Nürnberger. Schuster: Tak silnou stranu zakázat nelze iROZHLAS
+8. **Němci volí v Berlíně a Meklenbursku. Výsledek může oslabit kancléře Merze - video.aktualne.cz** — video.aktualne.cz [cs]
+   https://video.aktualne.cz/zahranici/nemci-voli-v-berline-a-meklenbursku-vysledek-muze-oslabit-kanclere-merze/r~aaa298eb7eb1716acf20c6f519268d70/
+   Němci volí v Berlíně a Meklenbursku. Výsledek může oslabit kancléře Merze video.aktualne.cz
 
-9. **Záběry z Ceuty přiživují podporu krajní pravice v Evropě, uvedl eurokomisař Magnus Brunner - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/zabery-z-ceuty-posilily-podporu-krajni-pravice-v-evrope-uvedl-eurokomisar.A260918_181134_zahranicni_rtn
-   Záběry z Ceuty přiživují podporu krajní pravice v Evropě, uvedl eurokomisař Magnus Brunner iDNES.cz
+9. **Český rozhlas narazil. „Fakt se nestydíte?“ zní po vyjádření „odbornice“ - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
+   https://www.parlamentnilisty.cz/arena/monitor/Cesky-rozhlas-narazil-Fakt-se-nestydite-zni-po-vyjadreni-odbornice-797031
+   Český rozhlas narazil. „Fakt se nestydíte?“ zní po vyjádření „odbornice“ ParlamentniListy.cz
 
-10. **Problémy s islámskou migrací jsou menší, než se před lety zdálo. No-go zóny jsou mýtus, tvrdí Hesová - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/hesova-migrace-islam-evropa_2609182340_elev
-   Problémy s islámskou migrací jsou menší, než se před lety zdálo. No-go zóny jsou mýtus, tvrdí Hesová iROZHLAS
+10. **Superdávku čekají další změny - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/domaci/superdavku-cekaji-dalsi-zmeny-377771
+   Superdávku čekají další změny ČT24
 
-11. **Diskuse: Brunner: Záběry z Ceuty přiživují podporu krajní pravice v Evropě - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/zabery-z-ceuty-posilily-podporu-krajni-pravice-v-evrope-uvedl-eurokomisar.A260918_181134_zahranicni_rtn/diskuse
-   Diskuse: Brunner: Záběry z Ceuty přiživují podporu krajní pravice v Evropě iDNES.cz
+11. **Vrchol drzosti. Zlodějka si ládovala lup do podprsenky hned vedle policistů - stream.cz** — stream.cz [cs]
+   https://www.stream.cz/zajimava-videa/vrchol-drzosti-zlodejka-si-ladovala-lup-do-podprsenky-hned-vedle-policistu-65578215
+   Vrchol drzosti. Zlodějka si ládovala lup do podprsenky hned vedle policistů stream.cz
 
-12. **Stálý pozorovatel Svatého stolce při OSN: Odzbrojení slov je prvním krokem ke kultuře dialogu a tolerance - Církev.cz** — Církev.cz [cs]
-   https://www.cirkev.cz/staly-pozorovatel-svateho-stolce-pri-osn-odzbrojeni-slov-je-prvnim-krokem-ke-kulture-dialogu-a-tolerance_75721
-   Stálý pozorovatel Svatého stolce při OSN: Odzbrojení slov je prvním krokem ke kultuře dialogu a tolerance Církev.cz
+12. **Kopli jsme jim do hraček, říká Šoposki o queer seriálu, který provokuje politiky - stream.cz** — stream.cz [cs]
+   https://www.stream.cz/kulturak-12942/kopli-jsme-jim-do-hracek-rika-soposki-o-queer-serialu-ktery-provokuje-politiky-65578659
+   Kopli jsme jim do hraček, říká Šoposki o queer seriálu, který provokuje politiky stream.cz
 
-13. **Roky se bála, že to nestihne na toaletu. Margitě změnil život malý implantát - Flowee - Flowee** — Flowee [cs]
-   https://www.flowee.cz/zdravi/17584-roky-se-bala-ze-to-nestihne-na-toaletu-margite-zmenil-zivot-maly-implantat
-   Roky se bála, že to nestihne na toaletu. Margitě změnil život malý implantát - Flowee Flowee
+13. **Vepřové řízky podle Petra Voka - stream.cz** — stream.cz [cs]
+   https://www.stream.cz/omacky/veprove-rizky-podle-petra-voka-65571621
+   Vepřové řízky podle Petra Voka stream.cz
 
-14. **Senioři v Česku mají k důchodu nárok na tenhle příspěvek od státu k důchodu. Často o tom neví - Tiscali.cz** — Tiscali.cz [cs]
-   https://www.tiscali.cz/seniori-v-cesku-maji-k-duchodu-narok-na-tenhle-prispevek-od-statu-k-duchodu-casto-o-tom-nevi-763767
-   Senioři v Česku mají k důchodu nárok na tenhle příspěvek od státu k důchodu. Často o tom neví Tiscali.cz
+14. **Ženská odysea v patriarchátu. Oceňovaná Rose s „nejlepším výkonem roku“ v nečitelné ukázce - stream.cz** — stream.cz [cs]
+   https://www.stream.cz/kinobox/zenska-odysea-v-patriarchatu-ocenovana-rose-s-nejlepsim-vykonem-roku-v-necitelne-ukazce-65574099
+   Ženská odysea v patriarchátu. Oceňovaná Rose s „nejlepším výkonem roku“ v nečitelné ukázce stream.cz
 
-15. **Kdo blokuje návrat Krejčíře? Nitky sahají do nejvyšších politických kruhů - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/top-temata/kdo-blokuje-navrat-krejcire-nitky-sahaji-do-nejvyssich-politickych-kruhu-65576829
-   Kdo blokuje návrat Krejčíře? Nitky sahají do nejvyšších politických kruhů Stream.cz
+15. **Utajená křivda Ani Geislerové: Kvůli potupě zanevřela na vzdělání - stream.cz** — stream.cz [cs]
+   https://www.stream.cz/extra-v-terenu/utajena-krivda-ani-geislerove-kvuli-potupe-zanevrela-na-vzdelani-65571586
+   Utajená křivda Ani Geislerové: Kvůli potupě zanevřela na vzdělání stream.cz
 
-16. **Výjimečná nabídka pro milovníky vysoké gastronomie - medium.seznam.cz** — medium.seznam.cz [cs]
-   https://medium.seznam.cz/clanek/pavel-kujal-vyjimecna-nabidka-pro-milovniky-vysoke-gastronomie-322332
-   Výjimečná nabídka pro milovníky vysoké gastronomie medium.seznam.cz
+16. **Odvedla dceru do školky, pak se po ní slehla zem. Policie pátrá po ženě z Prahy - stream.cz** — stream.cz [cs]
+   https://www.stream.cz/krimi-9237/odvedla-dceru-do-skolky-pak-se-po-ni-slehla-zem-policie-patra-po-zene-z-prahy-65578455
+   Odvedla dceru do školky, pak se po ní slehla zem. Policie pátrá po ženě z Prahy stream.cz
 
-17. **Neposlechl aneb manželka má vždy pravdu! - medium.seznam.cz** — medium.seznam.cz [cs]
-   https://medium.seznam.cz/clanek/alfred-rudys-neposlechl-aneb-manzelka-ma-vzdy-pravdu-322163
-   Neposlechl aneb manželka má vždy pravdu! medium.seznam.cz
+17. **„Dostupné bydlení už máme,“ tvrdil vlivný politik. Brno po volbách čeká diskuze o městské výstavbě - Deník N** — Deník N [cs]
+   https://denikn.cz/2185778/dostupne-bydleni-uz-mame-tvrdil-vlivny-politik-brno-po-volbach-ceka-diskuze-o-mestske-vystavbe/
+   „Dostupné bydlení už máme,“ tvrdil vlivný politik. Brno po volbách čeká diskuze o městské výstavbě Deník N
 
-18. **Jak funguje volební cyklus - medium.seznam.cz** — medium.seznam.cz [cs]
-   https://medium.seznam.cz/clanek/vaclav-veverka-jak-funguje-volebni-cyklus-322346
-   Jak funguje volební cyklus medium.seznam.cz
+18. **Polička získala pozemky u Modřece. Vzniknout může až 15 parcel - Svitavský deník** — Svitavský deník [cs]
+   https://svitavsky.denik.cz/zpravy-region/policka-ziskala-pozemky-u-modrece-vzniknout-muze-az-15-parcel/
+   Polička získala pozemky u Modřece. Vzniknout může až 15 parcel Svitavský deník
 
-19. **Dostupné bydlení táhne předvolební debatu v České Třebové, strany nabízejí různá řešení - OIK TV** — OIK TV [cs]
-   https://www.oiktv.cz/zpravy/dostupne-bydleni-tahne-predvolebni-debatu-v-ceske-trebove-strany-nabizeji-ruzna-reseni/
-   Dostupné bydlení táhne předvolební debatu v České Třebové, strany nabízejí různá řešení OIK TV
+19. **V Jeseníku dominují před volbami plány na obnovu města po povodních - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/olomoucky-kraj/v-jeseniku-dominuji-pred-volbami-plany-na-obnovu-mesta-po-povodnich.A260918_131536_metro-olomouc-zpravy_air
+   V Jeseníku dominují před volbami plány na obnovu města po povodních Metro.cz
 
-20. **První družstevní byty už do roku 2030 - horacke-noviny.com** — horacke-noviny.com [cs]
-   https://www.horacke-noviny.com/index.php/prvni-druzstevni-byty-uz-do-roku-2030
-   První družstevní byty už do roku 2030 horacke-noviny.com
-
-21. **Komise chce omezit sociální sítě dětem. Nepomůže to, říká Gregorová - pirati.cz** — pirati.cz [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/komise-chce-omezit-socialni-site-detem-nepomuze-to-rika-gregorova/
-   Komise chce omezit sociální sítě dětem. Nepomůže to, říká Gregorová pirati.cz
-
-22. **Devět kandidátek, jedno velké téma. Jeseník před volbami řeší obnovu po povodních - Olomoucký Report** — Olomoucký Report [cs]
-   https://www.report.cz/v-jeseniku-dominuji-pred-volbami-plany-na-obnovu-mesta-po-povodnich
-   Devět kandidátek, jedno velké téma. Jeseník před volbami řeší obnovu po povodních Olomoucký Report
+20. **„To stačí?“ Volební spot SPD do komunálních voleb baví Čechy na sociálních sítích. Kamera zachytila i to, co ve scénáři nebylo - EnergoZrouti.cz** — EnergoZrouti.cz [cs]
+   https://energozrouti.cz/clanek/volebni-spot-spd-bavi-cechy-na-sitich
+   „To stačí?“ Volební spot SPD do komunálních voleb baví Čechy na sociálních sítích. Kamera zachytila i to, co ve scénáři nebylo EnergoZrouti.cz
