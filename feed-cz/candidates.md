@@ -1,83 +1,59 @@
-# Kandidáti — 2026-09-20T11:51:25+00:00 (20 položek)
+# Kandidáti — 2026-09-21T13:23:40+00:00 (14 položek)
 
-_Zdroje: Google News 62 · GDELT 0 (disabled) · feedy 1 · watch 0_
+_Zdroje: Google News 55 · GDELT 0 (disabled) · feedy 2 · watch 0_
 
-1. **I mě měli dát rodiče do zvláštní školy, protože jsem Rom, říká konzul Torák. Pomáhá Romům v Británii - Český rozhlas Plus** — Český rozhlas Plus [cs]
-   https://plus.rozhlas.cz/i-me-meli-dat-rodice-do-zvlastni-skoly-protoze-jsem-rom-rika-konzul-torak-pomaha-9643814
-   I mě měli dát rodiče do zvláštní školy, protože jsem Rom, říká konzul Torák. Pomáhá Romům v Británii Český rozhlas Plus
+1. **Velký zájem o grantové výzvy EEA Civil Society Fund! Kdy očekávat výsledky a jaká nová výzva startuje právě teď?** — https://osf.cz/feed/ [cs]
+   https://osf.cz/2026/09/21/velky-zajem-o-grantove-vyzvy-eea-civil-society-fund/
+   Ve třech uzavřených výzvách programu EEA Civil Society Fund jsme obdrželi celkem 531 žádostí. Výsledky projektových a systémových grantů zveřejníme do konce letošního roku, u malých regionálních grant
 
-2. **Poslechněte si: My a oni 19. 9. 2026 - Český rozhlas Plzeň** — Český rozhlas Plzeň [cs]
-   https://plzen.rozhlas.cz/poslechnete-si-my-a-oni-19-9-2026-9639171
-   Poslechněte si: My a oni 19. 9. 2026 Český rozhlas Plzeň
+2. **Zahoďte GPS a prozkoumejte své životní putování s Pjérem! - Noviny kraje** — Noviny kraje [cs]
+   https://www.novinykraje.cz/akce/zahodte-gps-a-prozkoumejte-sve-zivotni-putovani-s-pjerem/
+   Zahoďte GPS a prozkoumejte své životní putování s Pjérem! Noviny kraje
 
-3. **Kontroverzní Sládek v G MMA? Překvapivá slova Jíry na adresu zápasníka - Extra.cz** — Extra.cz [cs]
-   https://www.extra.cz/kontroverzni-sladek-v-g-mma-prekvapiva-slova-jiry-na-adresu-zapasnika-54c58
-   Kontroverzní Sládek v G MMA? Překvapivá slova Jíry na adresu zápasníka Extra.cz
+3. **Volby v Německu vyhrály strany krajní pravice a levice, Merz chce zůstat - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/2876163
+   Volby v Německu vyhrály strany krajní pravice a levice, Merz chce zůstat České noviny
 
-4. **‚Kéž by to znovu bouchlo.‘ Před volbami se vzpomíná na největší rasové nepokoje v poválečném Německu - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/kez-znovu-bouchlo-pred-volbami-se-vzpomina-na-nejvetsi-rasove-nepokoje-v_2609191913_ako
-   ‚Kéž by to znovu bouchlo.‘ Před volbami se vzpomíná na největší rasové nepokoje v poválečném Německu iROZHLAS
+4. **Hajlovali a prali se. Policie v Haagu musela rozehnat násilný protest krajní pravice - zpravy.aktualne.cz** — zpravy.aktualne.cz [cs]
+   https://zpravy.aktualne.cz/zahranici/hajlovali-a-prali-se-policie-v-haagu-musela-rozehnat-nasilny-protest-krajni-pravice/r~aaa29c84cc9d08b8050ebe555292803f/
+   Hajlovali a prali se. Policie v Haagu musela rozehnat násilný protest krajní pravice zpravy.aktualne.cz
 
-5. **Příběhy (ne)kultury: Jak se časy (ne)mění - Deník TO** — Deník TO [cs]
-   https://denik.to/pribehy-nekultury-jak-se-casy-nemeni/
-   Příběhy (ne)kultury: Jak se časy (ne)mění Deník TO
+5. **Berlínské volby vyhrála Die Linke. Slíbila vyvlastnit velké pronajímatele - Deník Referendum** — Deník Referendum [cs]
+   https://denikreferendum.cz/clanek/239372-berlinske-volby-vyhrala-die-linke-slibila-vyvlastnit-velke-pronajimatele
+   Berlínské volby vyhrála Die Linke. Slíbila vyvlastnit velké pronajímatele Deník Referendum
 
-6. **Policie v Haagu rozehnala násilný protest krajní pravice - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/zahranicni-evropa-policie-v-haagu-rozehnala-nasilny-protest-krajni-pravice-40598577
-   Policie v Haagu rozehnala násilný protest krajní pravice Novinky
+6. **Historický debakl CDU. Poprvé od roku 1949 vypadla ze zemského sněmu. Dopadne Merz jako Starmer? - Newstream** — Newstream [cs]
+   https://www.newstream.cz/politika/nejhorsi-vysledek-cdu-v-historii-dopadne-friedrich-merz-jako-keir-starmer
+   Historický debakl CDU. Poprvé od roku 1949 vypadla ze zemského sněmu. Dopadne Merz jako Starmer? Newstream
 
-7. **Neonacisté v rostocké panelákové sídlištní čtvrti Lichtenhagen... | iROZHLAS - spolehlivé zprávy - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/fotogalerie/9644207
-   Neonacisté v rostocké panelákové sídlištní čtvrti Lichtenhagen... | iROZHLAS - spolehlivé zprávy iROZHLAS
+7. **„Extremistka Merkelová.“ Britský deník ztrhal odkaz kancléřky - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
+   https://www.parlamentnilisty.cz/arena/monitor/-Extremistka-Merkelova-Britsky-denik-ztrhal-odkaz-kanclerky-797081
+   „Extremistka Merkelová.“ Britský deník ztrhal odkaz kancléřky ParlamentniListy.cz
 
-8. **Němci volí v Berlíně a Meklenbursku. Výsledek může oslabit kancléře Merze - video.aktualne.cz** — video.aktualne.cz [cs]
-   https://video.aktualne.cz/zahranici/nemci-voli-v-berline-a-meklenbursku-vysledek-muze-oslabit-kanclere-merze/r~aaa298eb7eb1716acf20c6f519268d70/
-   Němci volí v Berlíně a Meklenbursku. Výsledek může oslabit kancléře Merze video.aktualne.cz
+8. **Putin chce válku. Tusk burcuje, Macron varuje, Fico zrazuje. A Babiš je bezpečnostní mimoň - forum 24** — forum 24 [cs]
+   https://www.forum24.cz/putin-chce-valku-tusk-burcuje-macron-varuje-fico-zrazuje-a-babis-je-bezpecnostni-mimon
+   Putin chce válku. Tusk burcuje, Macron varuje, Fico zrazuje. A Babiš je bezpečnostní mimoň forum 24
 
-9. **Český rozhlas narazil. „Fakt se nestydíte?“ zní po vyjádření „odbornice“ - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
-   https://www.parlamentnilisty.cz/arena/monitor/Cesky-rozhlas-narazil-Fakt-se-nestydite-zni-po-vyjadreni-odbornice-797031
-   Český rozhlas narazil. „Fakt se nestydíte?“ zní po vyjádření „odbornice“ ParlamentniListy.cz
+9. **Volby v Německu vyhrály strany krajní pravice a levice, kancléř Merz chce zůstat - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/-volby-v-nemecku-vyhraly-strany-krajni-pravice-a-levice-kancler-merz-chce-zustat/2876163
+   Volby v Německu vyhrály strany krajní pravice a levice, kancléř Merz chce zůstat České noviny
 
-10. **Superdávku čekají další změny - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/domaci/superdavku-cekaji-dalsi-zmeny-377771
-   Superdávku čekají další změny ČT24
+10. **Berlín prudce vlevo, východ zase vpravo. Německé volby opět přinesly historické posuny - Deník N** — Deník N [cs]
+   https://denikn.cz/2190118/berlin-prudce-vlevo-vychod-zase-napravo-nemecke-volby-opet-prinesly-historicke-posuny/
+   Berlín prudce vlevo, východ zase vpravo. Německé volby opět přinesly historické posuny Deník N
 
-11. **Vrchol drzosti. Zlodějka si ládovala lup do podprsenky hned vedle policistů - stream.cz** — stream.cz [cs]
-   https://www.stream.cz/zajimava-videa/vrchol-drzosti-zlodejka-si-ladovala-lup-do-podprsenky-hned-vedle-policistu-65578215
-   Vrchol drzosti. Zlodějka si ládovala lup do podprsenky hned vedle policistů stream.cz
+11. **Až 9 200 Kč měsíčně navíc k důchodu: Češi o příspěvku netuší, od 1. října se mění pravidla - Tiscali.cz** — Tiscali.cz [cs]
+   https://www.tiscali.cz/az-9-200-kc-mesicne-navic-k-duchodu-cesi-o-prispevku-netusi-od-1-rijna-se-meni-pravidla-765174
+   Až 9 200 Kč měsíčně navíc k důchodu: Češi o příspěvku netuší, od 1. října se mění pravidla Tiscali.cz
 
-12. **Kopli jsme jim do hraček, říká Šoposki o queer seriálu, který provokuje politiky - stream.cz** — stream.cz [cs]
-   https://www.stream.cz/kulturak-12942/kopli-jsme-jim-do-hracek-rika-soposki-o-queer-serialu-ktery-provokuje-politiky-65578659
-   Kopli jsme jim do hraček, říká Šoposki o queer seriálu, který provokuje politiky stream.cz
+12. **Sex neměli měsíc. Ohledně plánování rodiny se nic nezměnilo: Nela Slováková o vztahu s Radkem Roušalem. Řekla by ano? - Stream.cz** — Stream.cz [cs]
+   https://www.stream.cz/super-cz/sex-nemeli-mesic-ohledne-planovani-rodiny-se-nic-nezmenilo-nela-slovakova-o-vztahu-s-radkem-rousalem-rekla-by-ano-65579169
+   Sex neměli měsíc. Ohledně plánování rodiny se nic nezměnilo: Nela Slováková o vztahu s Radkem Roušalem. Řekla by ano? Stream.cz
 
-13. **Vepřové řízky podle Petra Voka - stream.cz** — stream.cz [cs]
-   https://www.stream.cz/omacky/veprove-rizky-podle-petra-voka-65571621
-   Vepřové řízky podle Petra Voka stream.cz
+13. **Přes třicet let s jedním mužem: Stanislava Jachnická prozradila tajemství svého manželství - Stream.cz** — Stream.cz [cs]
+   https://www.stream.cz/super-cz/pres-tricet-let-s-jednim-muzem-stanislava-jachnicka-prozradila-tajemstvi-sveho-manzelstvi-65579025
+   Přes třicet let s jedním mužem: Stanislava Jachnická prozradila tajemství svého manželství Stream.cz
 
-14. **Ženská odysea v patriarchátu. Oceňovaná Rose s „nejlepším výkonem roku“ v nečitelné ukázce - stream.cz** — stream.cz [cs]
-   https://www.stream.cz/kinobox/zenska-odysea-v-patriarchatu-ocenovana-rose-s-nejlepsim-vykonem-roku-v-necitelne-ukazce-65574099
-   Ženská odysea v patriarchátu. Oceňovaná Rose s „nejlepším výkonem roku“ v nečitelné ukázce stream.cz
-
-15. **Utajená křivda Ani Geislerové: Kvůli potupě zanevřela na vzdělání - stream.cz** — stream.cz [cs]
-   https://www.stream.cz/extra-v-terenu/utajena-krivda-ani-geislerove-kvuli-potupe-zanevrela-na-vzdelani-65571586
-   Utajená křivda Ani Geislerové: Kvůli potupě zanevřela na vzdělání stream.cz
-
-16. **Odvedla dceru do školky, pak se po ní slehla zem. Policie pátrá po ženě z Prahy - stream.cz** — stream.cz [cs]
-   https://www.stream.cz/krimi-9237/odvedla-dceru-do-skolky-pak-se-po-ni-slehla-zem-policie-patra-po-zene-z-prahy-65578455
-   Odvedla dceru do školky, pak se po ní slehla zem. Policie pátrá po ženě z Prahy stream.cz
-
-17. **„Dostupné bydlení už máme,“ tvrdil vlivný politik. Brno po volbách čeká diskuze o městské výstavbě - Deník N** — Deník N [cs]
-   https://denikn.cz/2185778/dostupne-bydleni-uz-mame-tvrdil-vlivny-politik-brno-po-volbach-ceka-diskuze-o-mestske-vystavbe/
-   „Dostupné bydlení už máme,“ tvrdil vlivný politik. Brno po volbách čeká diskuze o městské výstavbě Deník N
-
-18. **Polička získala pozemky u Modřece. Vzniknout může až 15 parcel - Svitavský deník** — Svitavský deník [cs]
-   https://svitavsky.denik.cz/zpravy-region/policka-ziskala-pozemky-u-modrece-vzniknout-muze-az-15-parcel/
-   Polička získala pozemky u Modřece. Vzniknout může až 15 parcel Svitavský deník
-
-19. **V Jeseníku dominují před volbami plány na obnovu města po povodních - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/olomoucky-kraj/v-jeseniku-dominuji-pred-volbami-plany-na-obnovu-mesta-po-povodnich.A260918_131536_metro-olomouc-zpravy_air
-   V Jeseníku dominují před volbami plány na obnovu města po povodních Metro.cz
-
-20. **„To stačí?“ Volební spot SPD do komunálních voleb baví Čechy na sociálních sítích. Kamera zachytila i to, co ve scénáři nebylo - EnergoZrouti.cz** — EnergoZrouti.cz [cs]
-   https://energozrouti.cz/clanek/volebni-spot-spd-bavi-cechy-na-sitich
-   „To stačí?“ Volební spot SPD do komunálních voleb baví Čechy na sociálních sítích. Kamera zachytila i to, co ve scénáři nebylo EnergoZrouti.cz
+14. **Komunální volby 2026 v Turnově: Město hledá lék na dopravu - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/volby/liberec/turnov-komunalni-volby-problemy.A260921_101636_liberec-volby_jape
+   Komunální volby 2026 v Turnově: Město hledá lék na dopravu iDNES.cz
