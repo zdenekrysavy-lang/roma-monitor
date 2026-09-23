@@ -1,101 +1,181 @@
 {
-  "generated_utc": "2026-09-22T12:04:37+00:00",
-  "count": 10,
+  "generated_utc": "2026-09-23T12:15:31+00:00",
+  "count": 20,
   "sources": {
     "profile": "cz",
-    "google_news": 60,
+    "google_news": 59,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 2,
-    "watch": 4,
-    "before_dedup": 29,
-    "total": 26,
-    "skipped_seen": 16,
-    "gn_resolved": 9,
-    "gn_resolve_tried": 9,
+    "watch": 2,
+    "before_dedup": 35,
+    "total": 31,
+    "skipped_seen": 11,
+    "gn_resolved": 20,
+    "gn_resolve_tried": 20,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "V energetické chudobě žije více než milion obyvatel ČR. Rostoucí ceny fosilních paliv situaci zhorší, pokud stát nepomůže",
-      "url": "https://socialnibydleni.org/nezarazene/v-energeticke-chudobe-zije-vice-nez-milion-obyvatel-cr-rostouci-ceny-fosilnich-paliv-situaci-zhorsi-pokud-stat-nepomuze",
-      "source": "https://socialnibydleni.org/feed",
-      "snippet": "Nová publikace „Jak se vypořádat s energetickou chudobou: Problém energetické chudoby v České republice“ V roce 2025 splnilo kritéria energetické chudoby 1 140 000 obyvatel České republiky, kteří žijí v 600 000 domácnostech. V energetické chudobě se nacházelo 33 % domácností samoživitelek, 40 % nízk",
-      "published": "Tue, 22 Sep 2026 12:01:52 +0000",
+      "title": "Škola by nás měla naučit kriticky myslet, říkají středoškoláci v průzkumu JSNS - Člověk v tísni",
+      "url": "https://www.clovekvtisni.cz/skola-by-nas-mela-naucit-kriticky-myslet-rikaji-stredoskolaci-v-pruzkumu-jsns-13742gp",
+      "source": "Člověk v tísni",
+      "snippet": "Škola by nás měla naučit kriticky myslet, říkají středoškoláci v průzkumu JSNS Člověk v tísni",
+      "published": "Wed, 23 Sep 2026 06:09:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "ARGO, Společnost dobré vůle Zlín, z.s. 00568813 třída 3. května 325, Malenovice, 76302 Zlín Armáda spásy v České rep - Ministerstvo pro místní rozvoj",
-      "url": "https://mmr.gov.cz/getmedia/cd0cf2e0-c22d-40e8-beb3-7c5ee4a350e3/Seznam-poskytovatelu-k-21-9.pdf.aspx",
-      "source": "Ministerstvo pro místní rozvoj",
-      "snippet": "ARGO, Společnost dobré vůle Zlín, z.s. 00568813 třída 3. května 325, Malenovice, 76302 Zlín Armáda spásy v České rep Ministerstvo pro místní rozvoj",
-      "published": "Mon, 21 Sep 2026 18:50:07 GMT",
+      "title": "Uteče z pasťáku, okrade a napadne lidi, pak míří znovu do ústavu s vycházkami. Proč si česká města neví rady s dětským násilím - Heroine.cz",
+      "url": "https://www.heroine.cz/spolecnost/utece-z-pastaku-okrade-a-napadne-lidi-a-miri-znovu-do-ustavu-s-vychazkami-proc-jsme-v-cesku-na-detske-nasili-kratci",
+      "source": "Heroine.cz",
+      "snippet": "Uteče z pasťáku, okrade a napadne lidi, pak míří znovu do ústavu s vycházkami. Proč si česká města neví rady s dětským násilím Heroine.cz",
+      "published": "Wed, 23 Sep 2026 04:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "17letý mladík v Polsku měl připravovat teroristický útok. Kontrarozvědka ho zadržela - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/17lety-mladik-v-polsku-mel-pripravovat-teroristicky-utok-kontrarozvedka-ho_2609221212_raf",
-      "source": "iROZHLAS",
-      "snippet": "17letý mladík v Polsku měl připravovat teroristický útok. Kontrarozvědka ho zadržela iROZHLAS",
-      "published": "Tue, 22 Sep 2026 10:12:00 GMT",
+      "title": "Jak je možné, že tak agresivní dítě chodí dál do školy, zlobí se rodiče. Nejen Šternberk si neví rady s dětskými \"gangy\" - Heroine.cz",
+      "url": "https://www.heroine.cz/spolecnost/spoluzakovi-rozbil-nos-dalsimu-poranil-hlavu-a-druhy-den-sedel-zpatky-ve-skoly-proc-v-cesku-neumime-resit-detske-nasili",
+      "source": "Heroine.cz",
+      "snippet": "Jak je možné, že tak agresivní dítě chodí dál do školy, zlobí se rodiče. Nejen Šternberk si neví rady s dětskými \"gangy\" Heroine.cz",
+      "published": "Wed, 23 Sep 2026 04:22:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Tvrdý útok na Merkelovou: „Zapomeňte na AfD, skutečnou extremistkou byla ona“ - Aktuálně.cz",
-      "url": "https://zpravy.aktualne.cz/zahranici/tvrdy-utok-na-merkelovou-zapomente-na-afd-skutecnou-extremistkou-byla-ona/r~aaa298c6060fa4e0f4b954b91056a5ec/",
+      "title": "Kopřivová pózovala s Dubovickým i jeho Sarah: Kámošky i přes kauzu s údajným rasismem! - www.prahanadlani.cz",
+      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1684308-koprivova-pozovala-s-dubovickym-i-jeho-sarah-kamosky-i-pres-kauzu-s-udajnym-rasismem-.html",
+      "source": "www.prahanadlani.cz",
+      "snippet": "Kopřivová pózovala s Dubovickým i jeho Sarah: Kámošky i přes kauzu s údajným rasismem! www.prahanadlani.cz",
+      "published": "Wed, 23 Sep 2026 06:41:56 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Pavel Čižinský: Znárodňování je extremismus, vyvlastňování v zájmu developerů je normální? - Deník Referendum",
+      "url": "https://denikreferendum.cz/clanek/239381-znarodnovani-je-extremismus-vyvlastnovani-v-zajmu-developeru-je-normalni",
+      "source": "Deník Referendum",
+      "snippet": "Pavel Čižinský: Znárodňování je extremismus, vyvlastňování v zájmu developerů je normální? Deník Referendum",
+      "published": "Wed, 23 Sep 2026 10:24:13 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Německá a rakouská krajní pravice chystá další sraz v Praze. A opět láká na Klause - www.prahanadlani.cz",
+      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1684232-nemecka-a-rakouska-krajni-pravice-chysta-dalsi-sraz-v-praze-a-opet-laka-na-klause.html",
+      "source": "www.prahanadlani.cz",
+      "snippet": "Německá a rakouská krajní pravice chystá další sraz v Praze. A opět láká na Klause www.prahanadlani.cz",
+      "published": "Wed, 23 Sep 2026 05:18:50 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Další vítězství AfD v zemských volbách - 21. září - Události - Česká televize",
+      "url": "https://www.ceskatelevize.cz/porady/1097181328-udalosti/226411000100921/cast/1209582/",
+      "source": "Česká televize",
+      "snippet": "Další vítězství AfD v zemských volbách - 21. září - Události Česká televize",
+      "published": "Mon, 21 Sep 2026 19:49:07 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Britský krajně pravicový aktivista Daniel Thomas propíchl člun, na kterém připluli migranti - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/aktivista-krajni-pravice-clun-propichl-migranti-britanie-protest-migrace.A260923_105526_zahranicni_fohl",
+      "source": "iDNES.cz",
+      "snippet": "Britský krajně pravicový aktivista Daniel Thomas propíchl člun, na kterém připluli migranti iDNES.cz",
+      "published": "Wed, 23 Sep 2026 10:15:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Tvůrce referenda o nezávislosti Katalánska by se mohl vrátit do Španělska, rozhodl soud - Aktuálně.cz",
+      "url": "https://zpravy.aktualne.cz/zahranici/tvurce-referenda-o-nezavislosti-katalanska-by-se-mohl-vratit-do-spanelska-rozhodl-soud/r~aaa29ff5c0232ca5c0d4880fc58cecd4/",
       "source": "Aktuálně.cz",
-      "snippet": "Tvrdý útok na Merkelovou: „Zapomeňte na AfD, skutečnou extremistkou byla ona“ Aktuálně.cz",
-      "published": "Tue, 22 Sep 2026 11:17:00 GMT",
+      "snippet": "Tvůrce referenda o nezávislosti Katalánska by se mohl vrátit do Španělska, rozhodl soud Aktuálně.cz",
+      "published": "Tue, 22 Sep 2026 17:57:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Dvojí metr na extremisty: Proč elity tolerují rudou hrozbu? - info.cz",
-      "url": "https://www.info.cz/zpravodajstvi-a-komentare/afd-die-linke-extremismus",
-      "source": "info.cz",
-      "snippet": "Dvojí metr na extremisty: Proč elity tolerují rudou hrozbu? info.cz",
-      "published": "Tue, 22 Sep 2026 12:02:12 GMT",
+      "title": "Nízký příjem nebo důchod už sám o sobě k nároku na dávku nestačí. Žádost o superdávku může seniorům zkomplikovat i chalupa - České důchody",
+      "url": "https://ceskeduchody.cz/navody/nizky-prijem-nebo-duchod-uz-sam-o-sobe-k-naroku-na-davku-nestaci-zadost-o-superdavku-muze-seniorum-zkomplikovat-i-chalupa",
+      "source": "České důchody",
+      "snippet": "Nízký příjem nebo důchod už sám o sobě k nároku na dávku nestačí. Žádost o superdávku může seniorům zkomplikovat i chalupa České důchody",
+      "published": "Wed, 23 Sep 2026 01:06:45 GMT",
       "lang": "cs"
     },
     {
-      "title": "Přehledně: Superdávku čekají další změny. Čeho se týkají a komu mají pomoci - Deník.cz",
-      "url": "https://www.denik.cz/ekonomika/prehledne-superdavku-cekaji-dalsi-zmeny-ceho-se-tykaji-a-komu-maji-pomoci/",
-      "source": "Deník.cz",
-      "snippet": "Přehledně: Superdávku čekají další změny. Čeho se týkají a komu mají pomoci Deník.cz",
-      "published": "Sun, 20 Sep 2026 09:46:30 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Lukáš Hejlík má rád auta, která spoustě Čechů ještě nevoní. „Když to zvládnu já…“ - Garáž.cz",
-      "url": "https://www.garaz.cz/clanek/videa-lukas-hejlik-ma-rad-auta-ktera-spouste-cechu-jeste-nevoni-kdyz-to-zvladnu-ja-21017843",
-      "source": "Garáž.cz",
-      "snippet": "Lukáš Hejlík má rád auta, která spoustě Čechů ještě nevoní. „Když to zvládnu já…“ Garáž.cz",
-      "published": "Tue, 22 Sep 2026 03:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Tento rozpočet opravdu není pro mladé. Pirátská Mladá vláda kritizuje rozpočet a žádá investice do bydlení a vzdělání - pirati.cz",
-      "url": "https://www.pirati.cz/jak-pirati-pracuji/tento-rozpocet-opravdu-neni-pro-mlade-piratska-mlada-vlada-kritizuje-rozpocet-a-zada-investice-do-bydleni-a-vzdelani/",
-      "source": "pirati.cz",
-      "snippet": "Tento rozpočet opravdu není pro mladé. Pirátská Mladá vláda kritizuje rozpočet a žádá investice do bydlení a vzdělání pirati.cz",
-      "published": "Mon, 21 Sep 2026 16:37:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Stát nemá návod na válku, jen na blackout, kritizuje bývalý náčelník generálního štábu - Stream.cz",
-      "url": "https://www.stream.cz/rozhovory-o-robotice/stat-nema-navod-na-valku-jen-na-blackout-kritizuje-byvaly-nacelnik-generalniho-stabu-65579752",
+      "title": "Video: To není obyčejná kočka. Velký vědecký objev se skrýval všem před očima - Stream.cz",
+      "url": "https://www.stream.cz/zahranicni-1240695-1/video-to-neni-obycejna-kocka-velky-vedecky-objev-se-skryval-vsem-pred-ocima-65580057",
       "source": "Stream.cz",
-      "snippet": "Stát nemá návod na válku, jen na blackout, kritizuje bývalý náčelník generálního štábu Stream.cz",
-      "published": "Tue, 22 Sep 2026 09:48:53 GMT",
+      "snippet": "Video: To není obyčejná kočka. Velký vědecký objev se skrýval všem před očima Stream.cz",
+      "published": "Tue, 22 Sep 2026 18:03:50 GMT",
       "lang": "cs"
     },
     {
-      "title": "Michal Fischer, starosta Prahy 15: Vizi musíte umět realizovat - Metro.cz",
-      "url": "https://www.metro.cz/kraje/stredocesky-kraj/michal-fischer-starosta-prahy-15-vizi-musite-umet-realizovat.A260918_092922_metro-praha-zpravy_hradr",
-      "source": "Metro.cz",
-      "snippet": "Michal Fischer, starosta Prahy 15: Vizi musíte umět realizovat Metro.cz",
-      "published": "Mon, 21 Sep 2026 22:01:21 GMT",
+      "title": "Hynek se neovládá a líbá Zuzanu. Jednou je přistihne Drábová, jindy Dominika - Stream.cz",
+      "url": "https://www.stream.cz/polabi/hynek-se-neovlada-a-liba-zuzanu-jednou-je-pristihne-drabova-jindy-dominika-65579391",
+      "source": "Stream.cz",
+      "snippet": "Hynek se neovládá a líbá Zuzanu. Jednou je přistihne Drábová, jindy Dominika Stream.cz",
+      "published": "Tue, 22 Sep 2026 14:18:33 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nespokojený režisér: Honzíkova cesta - Stream.cz",
+      "url": "https://www.stream.cz/particka/nespokojeny-reziser-honzikova-cesta-65570607",
+      "source": "Stream.cz",
+      "snippet": "Nespokojený režisér: Honzíkova cesta Stream.cz",
+      "published": "Mon, 21 Sep 2026 17:33:13 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Tisková konference po jednání vlády - Stream.cz",
+      "url": "https://www.stream.cz/domaci-9257/tiskova-konference-po-jednani-vlady-65579463",
+      "source": "Stream.cz",
+      "snippet": "Tisková konference po jednání vlády Stream.cz",
+      "published": "Tue, 22 Sep 2026 10:49:45 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Bytová revoluce v Brně? Piráti mají plán na dostupné bydlení - Brněnská Drbna",
+      "url": "https://brnenska.drbna.cz/politika/900932-bytova-revoluce-v-brne-pirati-maji-plan-na-dostupne-bydleni.html",
+      "source": "Brněnská Drbna",
+      "snippet": "Bytová revoluce v Brně? Piráti mají plán na dostupné bydlení Brněnská Drbna",
+      "published": "Tue, 22 Sep 2026 16:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Digitální pasáci mimo dosah zákona? Pirátka Stojanová navrhuje změnu trestního zákoníku, chce zpřísnit ochranu obětí - pirati.cz",
+      "url": "https://www.pirati.cz/jak-pirati-pracuji/digitalni-pasaci-mimo-dosah-zakona-piratka-stojanova-navrhuje-zmenu-trestniho-zakoniku-chce-zprisnit-ochranu-obeti/",
+      "source": "pirati.cz",
+      "snippet": "Digitální pasáci mimo dosah zákona? Pirátka Stojanová navrhuje změnu trestního zákoníku, chce zpřísnit ochranu obětí pirati.cz",
+      "published": "Wed, 23 Sep 2026 09:29:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Hlaváček, Portlík nebo někdo jiný? Kdo bude primátorem Prahy a jaké jsou kurzy - iDNES.cz",
+      "url": "https://sazeni.idnes.cz/ostatni/sazky-na-volbu-prazskeho-primatora.A260923_105556_sazeni_ald",
+      "source": "iDNES.cz",
+      "snippet": "Hlaváček, Portlík nebo někdo jiný? Kdo bude primátorem Prahy a jaké jsou kurzy iDNES.cz",
+      "published": "Wed, 23 Sep 2026 11:37:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Velká Británie podporuje sociální bydlení a ochranu hospod - The Portugal News",
+      "url": "https://www.theportugalnews.com/cs/zpravy/2026-09-22/velka-britanie-podporuje-socialni-bydleni-a-ochranu-hospod/1090035",
+      "source": "The Portugal News",
+      "snippet": "Velká Británie podporuje sociální bydlení a ochranu hospod The Portugal News",
+      "published": "Tue, 22 Sep 2026 15:12:26 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Kapacity škol, doprava a parkování i dostupné bydlení. V duelu se utkají kandidáti na primátora Prahy - TN.cz",
+      "url": "https://tn.nova.cz/zpravodajstvi/clanek/657474-kapacity-skol-doprava-a-parkovani-i-dostupne-bydleni-v-duelu-se-utkaji-kandidati-na-primatora-prahy",
+      "source": "TN.cz",
+      "snippet": "Kapacity škol, doprava a parkování i dostupné bydlení. V duelu se utkají kandidáti na primátora Prahy TN.cz",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Dostupnější bydlení i více míst pro seniory - OHŘE MEDIA",
+      "url": "https://www.ohremedia.cz/clanek/16448-dostupnejsi-bydleni-i-vice-mist-pro-seniory",
+      "source": "OHŘE MEDIA",
+      "snippet": "Dostupnější bydlení i více míst pro seniory OHŘE MEDIA",
+      "published": "Wed, 23 Sep 2026 05:11:09 GMT",
       "lang": "cs"
     }
   ]
