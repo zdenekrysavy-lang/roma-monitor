@@ -1,125 +1,245 @@
 {
-  "generated_utc": "2026-09-24T12:14:58+00:00",
-  "count": 13,
+  "generated_utc": "2026-09-25T12:18:39+00:00",
+  "count": 28,
   "sources": {
     "profile": "cz",
-    "google_news": 62,
+    "google_news": 70,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 6,
-    "watch": 3,
-    "before_dedup": 37,
-    "total": 35,
+    "watch": 2,
+    "before_dedup": 58,
+    "total": 50,
     "skipped_seen": 22,
-    "gn_resolved": 8,
-    "gn_resolve_tried": 8,
+    "gn_resolved": 27,
+    "gn_resolve_tried": 27,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Dobrá zpráva: Nespravedlivě zadržovaný kašmírský básník a novinář je na svobodě!",
-      "url": "https://amnesty.cz/dobra-zprava-nespravedlive-zadrzovany-kasmirsky-basnik-a-novinar-je-na-svobode/",
-      "source": "https://amnesty.cz/feed/",
-      "snippet": "Kašmírský básník a novinář Ahmad Farhad byl v srpnu 2026 propuštěn z nezákonného administrativního zadržení. Ve vazbě strávil více než 72 dní bez konkrétních obvinění. Během zadržení držel hladovku na protest proti nátlaku úřadů.",
-      "published": "Thu, 24 Sep 2026 10:34:07 +0000",
-      "lang": "cs"
-    },
-    {
-      "title": "Snahy o ukončení bezdomovectví jsou v Česku v ohrožení. Prestižní ocenění World Habitat Award zdůrazňuje dosažený pokrok, ale i chybějící prevenci bezdomovectví",
-      "url": "https://socialnibydleni.org/aktuality/snahy-o-ukonceni-bezdomovectvi-jsou-v-cesku-v-ohrozeni-prestizni-oceneni-world-habitat-award-zduraznuje-dosazeny-pokrok-ale-i-chybejici-prevenci-bezdomovectvi",
-      "source": "https://socialnibydleni.org/feed",
-      "snippet": "Praha, 16. září 2026 V posledních letech učinila Česká republika významný pokrok v řešení bytové nouze – od úspěšného pilotování desítek programů Housing First až po přípravu a přijetí zákona o podpoře bydlení. Význam těchto úspěchů odráží i získání Zlaté ceny World Habitat Award 2026, kterou zástup",
-      "published": "Wed, 23 Sep 2026 12:20:58 +0000",
-      "lang": "cs"
-    },
-    {
-      "title": "Koordinátor/ka boje s diskriminací a anticiganismem (úv. 0,5)",
-      "url": "https://iqrs.cz/koordinator-ka-boje-s-diskriminaci-a-anticiganismem-05-uv/",
-      "source": "https://iqrs.cz/feed/",
-      "snippet": "IQ Roma servis, z.s. hledá do nového projektu KOMPAS kolegu či kolegyni na poloviční úvazek na pozici Koordinátora/ky boje s diskriminací a anticiganismem, který/á se bude podílet na podpoře osob ohrožených diskriminací a nerovným zacházením a na posilování jejich schopnosti hájit svá práva. Náplň p",
-      "published": "Thu, 24 Sep 2026 07:08:08 +0000",
-      "lang": "cs"
-    },
-    {
-      "title": "Peer pracovník/pracovnice – Kariérové centrum (úv. 0,25)",
-      "url": "https://iqrs.cz/12939-2/",
-      "source": "https://iqrs.cz/feed/",
-      "snippet": "Hledáme nové kolegy a kolegyně do týmu Kariérového centra IQ Roma servis. Hledáme lidi, kteří mohou při podpoře druhých využít vlastní životní zkušenost a pomoci jim na cestě k práci, vzdělávání nebo rekvalifikaci.Pozice peer pracovníka je založená na jednoduchém principu: člověk, který některé situ",
-      "published": "Thu, 24 Sep 2026 07:03:07 +0000",
-      "lang": "cs"
-    },
-    {
-      "title": "Chcete pracovat v Nadaci OSF? Hledáme projektovou podporu fundraisingu",
-      "url": "https://osf.cz/2026/09/23/hledame-projektovou-podporu-fundraisingu/",
+      "title": "Crowdfunding není jen o vybrané částce. Jak 11 organizací buduje komunitu, která jim kryje záda",
+      "url": "https://osf.cz/2026/09/24/crowdfunding-neni-jen-o-vybrane-castce-jak-11-organizaci-buduje-komunitu-ktera-jim-kryje-zada/",
       "source": "https://osf.cz/feed/",
-      "snippet": "Fundraising Nadace OSF stojí na vztazích s dárkyněmi a dárci. Tyto vztahy fungují jen tehdy, když za nimi stojí spolehlivé zázemí. Právě to bude vaší rolí. Budete tím*tou, kdo zajistí, že žádný termín nezapadne, žádná smlouva ... Celý článek",
-      "published": "Wed, 23 Sep 2026 13:30:56 +0000",
+      "snippet": "V úterý 15. září proběhlo prostorách ČTK úvodní setkání organizací, které se v rámci programu Stronger Roots pustí do crowdfundingových kampaní. Účastníci se zaměřili na to, proč je samotná vybraná částka až na druhém místě a jak klíčové ... Celý článek",
+      "published": "Thu, 24 Sep 2026 18:32:31 +0000",
       "lang": "cs"
     },
     {
-      "title": "#17 – Čtvrtek – 24.9.2026 – Leoš, Štěpán, Katka a romští bisexuálové - Evropa 2",
-      "url": "https://www.evropa2.cz/porady-zaznamy/ranni-show/17-ctvrtek-24-9-2026-leos-stepan-katka-a-romsti-bisexualove",
-      "source": "Evropa 2",
-      "snippet": "#17 – Čtvrtek – 24.9.2026 – Leoš, Štěpán, Katka a romští bisexuálové Evropa 2",
-      "published": "Thu, 24 Sep 2026 07:39:53 GMT",
+      "title": "Pompa, Ondič, Pompa, Ondič… Na Přerovsku kandiduje 15 členů velké romské rodiny - Novinky",
+      "url": "https://www.novinky.cz/clanek/volby-pompa-ondic-pompa-ondic-na-prerovsku-kandiduje-15-clenu-velke-romske-rodiny-40599384",
+      "source": "Novinky",
+      "snippet": "Pompa, Ondič, Pompa, Ondič… Na Přerovsku kandiduje 15 členů velké romské rodiny Novinky",
+      "published": "Fri, 25 Sep 2026 05:19:08 GMT",
       "lang": "cs"
     },
     {
-      "title": "„Byli v místnosti nějací černoši?“ Converse stáhla reklamu na boty, prý je rasistická - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1685139-byli-v-mistnosti-nejaci-cernosi-converse-stahla-reklamu-na-boty-pry-je-rasisticka.html",
-      "source": "www.prahanadlani.cz",
-      "snippet": "„Byli v místnosti nějací černoši?“ Converse stáhla reklamu na boty, prý je rasistická www.prahanadlani.cz",
-      "published": "Wed, 23 Sep 2026 18:50:05 GMT",
+      "title": "Ewa Farna a „mikroagrese“ v nové Superstar. Calin si krade show pro sebe - reflex.cz",
+      "url": "https://www.reflex.cz/clanek/poprask/138356/ewa-farna-a-mikroagrese-v-nove-superstar-calin-si-krade-show-pro-sebe.html",
+      "source": "reflex.cz",
+      "snippet": "Ewa Farna a „mikroagrese“ v nové Superstar. Calin si krade show pro sebe reflex.cz",
+      "published": "Wed, 23 Sep 2026 16:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Nechci, aby to prázdné místo po mně zaplnil strach - RESPEKT",
-      "url": "https://www.respekt.cz/zahranici/nechci-aby-to-prazdne-misto-po-mne-zaplnil-strach",
-      "source": "RESPEKT",
-      "snippet": "Nechci, aby to prázdné místo po mně zaplnil strach RESPEKT",
-      "published": "Wed, 23 Sep 2026 15:09:43 GMT",
+      "title": "Misska Kuchařová i bojovník proti tranzicím. To je nová posila vládní rady pro lidská práva - Blesk",
+      "url": "https://www.blesk.cz/clanek/zpravy-politika/848802/misska-kucharova-i-bojovnik-proti-tranzicim-to-je-nova-posila-vladni-rady-pro-lidska-prava.html",
+      "source": "Blesk",
+      "snippet": "Misska Kuchařová i bojovník proti tranzicím. To je nová posila vládní rady pro lidská práva Blesk",
+      "published": "Thu, 24 Sep 2026 03:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Kalkulačka superdávky od října. Spočítejte si, kdo si polepší a kdo může žádat znovu - Penize.cz",
-      "url": "https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/497161-kalkulacka-superdavky-od-rijna-spocitejte-si-kdo-si-polepsi-a-kdo-muze-zadat-znovu",
-      "source": "Penize.cz",
-      "snippet": "Kalkulačka superdávky od října. Spočítejte si, kdo si polepší a kdo může žádat znovu Penize.cz",
-      "published": "Thu, 24 Sep 2026 03:05:00 GMT",
+      "title": "Stydím se za sebe. Talentovanému sprinterovi se rasismus vrátil jako bumerang - Sport.cz",
+      "url": "https://www.sport.cz/clanek/atletika-stydim-se-za-sebe-talentovanemu-sprinterovi-se-rasismus-vratil-jako-bumerang-dostal-vyhazov-5541735",
+      "source": "Sport.cz",
+      "snippet": "Stydím se za sebe. Talentovanému sprinterovi se rasismus vrátil jako bumerang Sport.cz",
+      "published": "Thu, 24 Sep 2026 18:08:45 GMT",
       "lang": "cs"
     },
     {
-      "title": "Superdávka se znovu změní. Ministr Juchelka chce řešit exekuce i lidi pečující o blízké - Noviny kraje",
-      "url": "https://www.novinykraje.cz/2026/09/24/superdavka-se-znovu-zmeni-ministr-juchelka-chce-resit-exekuce-i-lidi-pecujici-o-blizke/",
+      "title": "Franz Fuchs a jeho bomby v dopisech. Dopadli ho náhodou a posledním výbuchem zmrzačil sám sebe - Český rozhlas Plus",
+      "url": "https://plus.rozhlas.cz/franz-fuchs-a-jeho-bomby-v-dopisech-dopadli-ho-nahodou-a-poslednim-vybuchem-9645102",
+      "source": "Český rozhlas Plus",
+      "snippet": "Franz Fuchs a jeho bomby v dopisech. Dopadli ho náhodou a posledním výbuchem zmrzačil sám sebe Český rozhlas Plus",
+      "published": "Thu, 24 Sep 2026 18:56:11 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Wokometer? Cambridge vážně blbne… - Deník TO",
+      "url": "https://denik.to/wokometer-cambridge-vazne-blbne/",
+      "source": "Deník TO",
+      "snippet": "Wokometer? Cambridge vážně blbne… Deník TO",
+      "published": "Thu, 24 Sep 2026 16:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Izraelská pravice chce zakládat ozbrojené osady. Má podporu části ministrů, Netanjahu mlčí - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/osada-jako-prostredek-k-miru-izraelska-krajni-pravice-se-predvadi-netanjahu-mlci.A260924_190216_zahranicni_kton",
+      "source": "iDNES.cz",
+      "snippet": "Izraelská pravice chce zakládat ozbrojené osady. Má podporu části ministrů, Netanjahu mlčí iDNES.cz",
+      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Rumunsko nedokáže sestavit vládu. Nejvíc na tom vydělává krajní pravice - Ekonomický magazín",
+      "url": "https://e-news.cz/analyzy/rumunsko-nedokaze-sestavit-vladu-nejvic-na-tom-vydelava-krajni-pravice/",
+      "source": "Ekonomický magazín",
+      "snippet": "Rumunsko nedokáže sestavit vládu. Nejvíc na tom vydělává krajní pravice Ekonomický magazín",
+      "published": "Thu, 24 Sep 2026 16:31:31 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Pohled na Fašismus na konci věků ze střední Evropy - medium.seznam.cz",
+      "url": "https://medium.seznam.cz/clanek/jonas-syrovatka-pohled-na-fasismus-na-konci-veku-ze-stredni-evropy-325193",
+      "source": "medium.seznam.cz",
+      "snippet": "Pohled na Fašismus na konci věků ze střední Evropy medium.seznam.cz",
+      "published": "Fri, 25 Sep 2026 11:51:30 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Petr Janyška: Macron představil prezidentským kandidátům ruské hrozby - Český rozhlas Plus",
+      "url": "https://plus.rozhlas.cz/petr-janyska-macron-predstavil-prezidentskym-kandidatum-ruske-hrozby-9645286",
+      "source": "Český rozhlas Plus",
+      "snippet": "Petr Janyška: Macron představil prezidentským kandidátům ruské hrozby Český rozhlas Plus",
+      "published": "Thu, 24 Sep 2026 13:06:29 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Studio N: Němci hledají řešení na politických okrajích. Co stojí za radikálními posuny? - denikn.cz",
+      "url": "https://denikn.cz/2195727/studio-n-nemci-hledaji-reseni-na-politickych-okrajich-co-stoji-za-radikalnimi-posuny/",
+      "source": "denikn.cz",
+      "snippet": "Studio N: Němci hledají řešení na politických okrajích. Co stojí za radikálními posuny? denikn.cz",
+      "published": "Fri, 25 Sep 2026 09:11:24 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Centrum, Střekov, Terasa i Mojžíř. Ostudy jsou v celém Ústí, co na ně politici - Ústecký deník",
+      "url": "https://ustecky.denik.cz/zpravy-region/centrum-strekov-terasa-i-mojzir-ostudy-jsou-v-celem-usti-co-na-ne-politici/",
+      "source": "Ústecký deník",
+      "snippet": "Centrum, Střekov, Terasa i Mojžíř. Ostudy jsou v celém Ústí, co na ně politici Ústecký deník",
+      "published": "Fri, 25 Sep 2026 02:55:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka na bydlení se přepočítá. V Praze lidé dosáhnou na vyšší peníze, v Brně se bude částka snižovat - Lidovky.cz",
+      "url": "https://www.lidovky.cz/byznys/superdavka-parametry-okresy-praha-ostrava-brno.A260925_113222_ln_ekonomika_paza",
+      "source": "Lidovky.cz",
+      "snippet": "Superdávka na bydlení se přepočítá. V Praze lidé dosáhnou na vyšší peníze, v Brně se bude částka snižovat Lidovky.cz",
+      "published": "Fri, 25 Sep 2026 11:15:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka na bydlení se začíná počítat podle okresů. Známe nové částky - iDNES.cz",
+      "url": "https://www.idnes.cz/finance/financni-radce/superdavka-bydleni-okresy-vypocet-normativy.A260925_102415_ekonomika_pzak",
+      "source": "iDNES.cz",
+      "snippet": "Superdávka na bydlení se začíná počítat podle okresů. Známe nové částky iDNES.cz",
+      "published": "Fri, 25 Sep 2026 11:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Od října se mění superdávka. Náklady na bydlení se budou počítat podle okresů - Regionální týdeník Znojemsko",
+      "url": "https://www.znojemsko.cz/od-rijna-se-meni-superdavka-naklady-na-bydleni-se-budou-pocitat-podle-okresu",
+      "source": "Regionální týdeník Znojemsko",
+      "snippet": "Od října se mění superdávka. Náklady na bydlení se budou počítat podle okresů Regionální týdeník Znojemsko",
+      "published": "Thu, 24 Sep 2026 09:33:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka se mění už od října. Podívejte se, komu mohou nová pravidla zvýšit podporu - medium.seznam.cz",
+      "url": "https://medium.seznam.cz/clanek/pod-lupou-superdavka-se-meni-uz-od-rijna-podivejte-se-komu-mohou-nova-pravidla-zvysit-podporu-323439",
+      "source": "medium.seznam.cz",
+      "snippet": "Superdávka se mění už od října. Podívejte se, komu mohou nová pravidla zvýšit podporu medium.seznam.cz",
+      "published": "Tue, 22 Sep 2026 13:03:47 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Seniory s nemovitostí si vyhledávají přes mapy a katastr. Daniel Hůle varuje před úvěrovými podvodníky - České důchody",
+      "url": "https://ceskeduchody.cz/rozhovory/seniory-s-nemovitosti-si-vyhledavaji-pres-mapy-a-katastr-daniel-hule-varuje-pred-uverovymi-podvodniky",
+      "source": "České důchody",
+      "snippet": "Seniory s nemovitostí si vyhledávají přes mapy a katastr. Daniel Hůle varuje před úvěrovými podvodníky České důchody",
+      "published": "Thu, 24 Sep 2026 14:45:05 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Oprava ulice omezila dopravu, parkování ale zůstane zachováno - Noviny kraje",
+      "url": "https://www.novinykraje.cz/kralovehradecky/2026/09/24/oprava-ulice-omezila-dopravu-parkovani-ale-zustane-zachovano/",
       "source": "Noviny kraje",
-      "snippet": "Superdávka se znovu změní. Ministr Juchelka chce řešit exekuce i lidi pečující o blízké Noviny kraje",
-      "published": "Thu, 24 Sep 2026 07:01:12 GMT",
+      "snippet": "Oprava ulice omezila dopravu, parkování ale zůstane zachováno Noviny kraje",
+      "published": "Thu, 24 Sep 2026 19:59:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Břeclav hledá firmu, která postaví sociální bydlení U Splavu - breclav.eu",
-      "url": "https://breclav.eu/breclav-hleda-firmu-ktera-postavi-socialni-bydleni-u-splavu",
-      "source": "breclav.eu",
-      "snippet": "Břeclav hledá firmu, která postaví sociální bydlení U Splavu breclav.eu",
-      "published": "Thu, 24 Sep 2026 10:44:24 GMT",
+      "title": "Na Špilberku vzniká Otevřený les. Nabídne ptačí rozhlednu i stezky - Noviny kraje",
+      "url": "https://www.novinykraje.cz/jihomoravsky/2026/09/24/na-spilberku-vznika-otevreny-les-nabidne-ptaci-rozhlednu-i-stezky/",
+      "source": "Noviny kraje",
+      "snippet": "Na Špilberku vzniká Otevřený les. Nabídne ptačí rozhlednu i stezky Noviny kraje",
+      "published": "Thu, 24 Sep 2026 16:13:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Útěk z města: Žena si postavila ohromující kontejnerový dům uprostřed přírody. Dostupné bydlení pro všechny - Tiscali.cz",
-      "url": "https://www.tiscali.cz/utek-z-mesta-zena-si-postavila-ohromujici-kontejnerovy-dum-uprostred-prirody-dostupne-bydleni-pro-vsechny-767756",
-      "source": "Tiscali.cz",
-      "snippet": "Útěk z města: Žena si postavila ohromující kontejnerový dům uprostřed přírody. Dostupné bydlení pro všechny Tiscali.cz",
-      "published": "Thu, 24 Sep 2026 05:01:02 GMT",
+      "title": "Dostupné bydlení v Mladé Boleslavi? Bude, slibovali kandidáti před čtyřmi lety - Boleslavský deník",
+      "url": "https://boleslavsky.denik.cz/komunalni-volby/mlada-boleslav-komunalni-volby-sliby-politiku-starosto-vyres-to/",
+      "source": "Boleslavský deník",
+      "snippet": "Dostupné bydlení v Mladé Boleslavi? Bude, slibovali kandidáti před čtyřmi lety Boleslavský deník",
+      "published": "Fri, 25 Sep 2026 03:03:07 GMT",
       "lang": "cs"
     },
     {
-      "title": "Výsledky pro okres Brno-město - Volby do zastupitelstva obcí České republiky 2026 - TN.cz",
-      "url": "https://tn.nova.cz/volby/komunalni/2026/obvody/okres/brno-mesto--ZGlzdHJpY3RfQ1owNjQy",
-      "source": "TN.cz",
-      "snippet": "Výsledky pro okres Brno-město - Volby do zastupitelstva obcí České republiky 2026 TN.cz",
-      "published": "Wed, 23 Sep 2026 17:10:59 GMT",
+      "title": "Výstavba startovacích bytů může být zahájena - Lovosice",
+      "url": "https://www.meulovo.cz/vystavba-startovacich-bytu-muze-byt-zahajena",
+      "source": "Lovosice",
+      "snippet": "Výstavba startovacích bytů může být zahájena Lovosice",
+      "published": "Thu, 24 Sep 2026 14:21:33 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Dostupné bydlení pro všechny, kteří ho nepotřebují: Politická logika v kostce - medium.seznam.cz",
+      "url": "https://medium.seznam.cz/clanek/stanislav-kadlec-dostupne-bydleni-pro-vsechny-kteri-ho-nepotrebuji-politicka-logika-v-kostce-323746",
+      "source": "medium.seznam.cz",
+      "snippet": "Dostupné bydlení pro všechny, kteří ho nepotřebují: Politická logika v kostce medium.seznam.cz",
+      "published": "Tue, 22 Sep 2026 13:56:46 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Plzeň dokončila rekonstrukci domu v Thámově ulici. Vzniklo šest bytů pro potřebné - Město Plzeň",
+      "url": "https://plzen.eu/o-meste/aktuality/aktuality-z-mesta/plzen-dokoncila-rekonstrukci-domu-v-thamove-ulici-vzniklo-sest-bytu-pro-potrebne/",
+      "source": "Město Plzeň",
+      "snippet": "Plzeň dokončila rekonstrukci domu v Thámově ulici. Vzniklo šest bytů pro potřebné Město Plzeň",
+      "published": "Fri, 25 Sep 2026 11:38:48 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "AI v psychoterapii: Dobrý sluha, ale nebezpečný pán. Pirátská poslankyně Barbora Pipášová uspořádala ve Sněmovně kulatý stůl k duševnímu zdraví - pirati.cz",
+      "url": "https://www.pirati.cz/jak-pirati-pracuji/ai-v-psychoterapii-dobry-sluha-ale-nebezpecny-pan-piratska-poslankyne-barbora-pipasova-usporadala-ve-snemovne-kulaty-stul-k-dusevnimu-zdravi/",
+      "source": "pirati.cz",
+      "snippet": "AI v psychoterapii: Dobrý sluha, ale nebezpečný pán. Pirátská poslankyně Barbora Pipášová uspořádala ve Sněmovně kulatý stůl k duševnímu zdraví pirati.cz",
+      "published": "Wed, 23 Sep 2026 13:14:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "V rodinách bychom se měli včas bavit o bydlení ve stáří, říká expertka - Seznam Zprávy",
+      "url": "https://talks.seznamzpravy.cz/v-rodinach-bychom-se-meli-vcas-bavit-o-bydleni-ve-stari-rika-expertka/",
+      "source": "Seznam Zprávy",
+      "snippet": "V rodinách bychom se měli včas bavit o bydlení ve stáří, říká expertka Seznam Zprávy",
+      "published": "Tue, 22 Sep 2026 13:04:54 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "kruh podzim 2026: Talli Architects - archiweb.cz",
+      "url": "https://www.archiweb.cz/e/kruh-podzim-2026-talli-architects-helsinky-dostupne-bydleni-pro-rozmanity-zivot-ve-meste",
+      "source": "archiweb.cz",
+      "snippet": "kruh podzim 2026: Talli Architects archiweb.cz",
+      "published": "Thu, 24 Sep 2026 12:37:04 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "ODS představila kandidátku pro Karlovy Vary. Sází na zkušenosti, novou energii a konkrétní řešení - zpravykarlovarsko.cz",
+      "url": "https://zpravykarlovarsko.cz/ods-predstavila-kandidatku-pro-karlovy-vary-sazi-na-zkusenosti-novou-energii-a-konkretni-reseni/",
+      "source": "zpravykarlovarsko.cz",
+      "snippet": "ODS představila kandidátku pro Karlovy Vary. Sází na zkušenosti, novou energii a konkrétní řešení zpravykarlovarsko.cz",
+      "published": "Fri, 25 Sep 2026 09:33:58 GMT",
       "lang": "cs"
     }
   ]
