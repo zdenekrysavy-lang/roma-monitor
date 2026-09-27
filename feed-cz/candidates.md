@@ -1,47 +1,47 @@
-# Kandidáti — 2026-09-26T11:50:22+00:00 (11 položek)
+# Kandidáti — 2026-09-27T12:30:07+00:00 (11 položek)
 
-_Zdroje: Google News 59 · GDELT 0 (disabled) · feedy 6 · watch 0_
+_Zdroje: Google News 61 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **AI označila diskriminaci Romů za racionální reakci. V testu propadl Grok - jarvis-ai.cz** — jarvis-ai.cz [cs]
-   https://www.jarvis-ai.cz/ai-oznacila-diskriminaci-romu-za-racionalni-reakci-v-testu-propadl-grok
-   AI označila diskriminaci Romů za racionální reakci. V testu propadl Grok jarvis-ai.cz
+1. **Přijde Václav - kamna připrav - Český rozhlas Plzeň** — Český rozhlas Plzeň [cs]
+   https://plzen.rozhlas.cz/prijde-vaclav-kamna-priprav-9645437
+   Přijde Václav - kamna připrav Český rozhlas Plzeň
 
-2. **Lístek za stěračem. Kontroverzní kampaň Motoristů, Svobodných a Trikolory v Budějovicích řeší policie - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/40599302
+2. **Romská oslava na Plzeňsku se zvrtla. Muž se pobodal do břicha - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/krimi-romska-oslava-na-plzensku-se-zvrtla-muz-se-pobodal-do-bricha-40599727
+   Romská oslava na Plzeňsku se zvrtla. Muž se pobodal do břicha Novinky
+
+3. **Skutečně nečekaný konec rodinné oslavy, muž se třikrát bodl do břicha - Krimi Plzeň** — Krimi Plzeň [cs]
+   https://www.krimi-plzen.cz/a/pobodany-2026-09-27-100616/
+   Skutečně nečekaný konec rodinné oslavy, muž se třikrát bodl do břicha Krimi Plzeň
+
+4. **Lístek za stěračem. Kontroverzní kampaň Motoristů, Svobodných a Trikolory v Budějovicích řeší policie - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/krimi-listky-za-steracem-kontroverzni-kampan-motoristu-svobodnych-a-trikolory-v-budejovicich-resi-policie-40599302
    Lístek za stěračem. Kontroverzní kampaň Motoristů, Svobodných a Trikolory v Budějovicích řeší policie Novinky
 
-3. **Pokrytectví, moc a paragrafy: Z boje proti otroctví se stal nástroj koloniálních her - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/clanek/historie/138388/pokrytectvi-moc-a-paragrafy-z-boje-proti-otroctvi-se-stal-nastroj-kolonialnich-her.html
-   Pokrytectví, moc a paragrafy: Z boje proti otroctví se stal nástroj koloniálních her Reflex.cz
+5. **Německá lekce: Extremismus v módě, demokracie v defenzivě | 27. 9. 2026 | Bohumil Kartous - Britské listy** — Britské listy [cs]
+   https://www.blisty.cz/art/136390-nemecka-lekce-extremismus-v-mode-demokracie-v-defenzive.html
+   Německá lekce: Extremismus v módě, demokracie v defenzivě | 27. 9. 2026 | Bohumil Kartous Britské listy
 
-4. **WoW Forever má addon, který umlčí vliv známého streamera - zing.cz** — zing.cz [cs]
-   https://zing.cz/article/wow-forever-ma-addon-ktery-umlci-vliv-znameho-streamera
-   WoW Forever má addon, který umlčí vliv známého streamera zing.cz
+6. **Řecký exposlanec založil po propuštění z vězení novou pravicovou stranu. Má šanci na vstup do parlamentu - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/recky-exposlanec-zalozil-po-propusteni-z-vezeni-novou-pravicovou-stranu-ma-sanci_2609261645_mst
+   Řecký exposlanec založil po propuštění z vězení novou pravicovou stranu. Má šanci na vstup do parlamentu iROZHLAS
 
-5. **Italská vláda zavádí nová pravidla ve školách kvůli cizincům, zakazuje i zahalování tváře - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/svet/italska-vlada-zavadi-do-skol-migracni-zakony-zakaze-i-zahalovani-tvare-377971
-   Italská vláda zavádí nová pravidla ve školách kvůli cizincům, zakazuje i zahalování tváře ČT24
+7. **Za Lužánky kandiduje bývalý kandidát Slušných lidí. Přiznal i chuligánskou minulost - manipulatori.cz** — manipulatori.cz [cs]
+   https://manipulatori.cz/za-luzanky-kandiduje-byvaly-kandidat-slusnych-lidi-priznal-i-chuliganskou-minulost/
+   Za Lužánky kandiduje bývalý kandidát Slušných lidí. Přiznal i chuligánskou minulost manipulatori.cz
 
-6. **Politické posmívání se klimatické změně maskuje strach a bezradnost - Deník N** — Deník N [cs]
-   https://denikn.cz/2194832/politicke-posmivani-se-klimaticke-zmene-maskuje-strach-a-bezradnost/
-   Politické posmívání se klimatické změně maskuje strach a bezradnost Deník N
+8. **Rumunsko nedokáže sestavit vládu. Nejvíc na tom vydělává krajní pravice - seznam.cz** — seznam.cz [cs]
+   https://www.seznam.cz/komentare/278645115-rumunsko-nedokaze-sestavit-vladu-nejvic-na-tom-vydelava-krajni-pravice
+   Rumunsko nedokáže sestavit vládu. Nejvíc na tom vydělává krajní pravice seznam.cz
 
-7. **Liberální tvář, extremistické vazby. Kdo stojí za brněnským hnutím propojeným s fotbalem - Aktuálně.cz** — Aktuálně.cz [cs]
-   https://zpravy.aktualne.cz/domaci/kuriozita-voleb-v-brne-liberalni-strana-s-vazbami-na-extremisty-a-fotbalove-ultras/r~aaa293ebdebca4515c79360c80bba983/
-   Liberální tvář, extremistické vazby. Kdo stojí za brněnským hnutím propojeným s fotbalem Aktuálně.cz
+9. **Superdávka (ilustrační foto) | iROZHLAS - spolehlivé zprávy - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/fotogalerie/9645756/summary
+   Superdávka (ilustrační foto) | iROZHLAS - spolehlivé zprávy iROZHLAS
 
-8. **Větší podpora pro samoživitele a nový výpočet příspěvku na bydlení. Superdávku čekají změny - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-domov/vetsi-podpora-pro-samozivitele-a-novy-vypocet-prispevku-na-bydleni-superdavku_2609260923_ntu
-   Větší podpora pro samoživitele a nový výpočet příspěvku na bydlení. Superdávku čekají změny iROZHLAS
+10. **Nová podoba superdávky: Klíčové změny v podpoře bydlení a pomoc samoživitelům - REFRESHER.cz** — REFRESHER.cz [cs]
+   https://news.refresher.cz/211778-Nova-podoba-superdavky-Klicove-zmeny-v-podpore-bydleni-a-pomoc-samozivitelum
+   Nová podoba superdávky: Klíčové změny v podpoře bydlení a pomoc samoživitelům REFRESHER.cz
 
-9. **Startují zásadní úpravy superdávky. Ke komu mají zamířit další miliardy - Echo24** — Echo24 [cs]
-   https://www.echo24.cz/a/HQdR9/zpravy-domaci-superdavka-dalsi-zmeny-tri-miliardy-kdo-bude-mit-nove-narok
-   Startují zásadní úpravy superdávky. Ke komu mají zamířit další miliardy Echo24
-
-10. **Výstavba startovacích bytů může být zahájena - REGIONÁLNÍ NOVINY** — REGIONÁLNÍ NOVINY [cs]
-   https://www.regionalninoviny.eu/cz/menu/73/aktuality/clanek-51337-vystavba-startovacich-bytu-muze-byt-zahajena/
-   Výstavba startovacích bytů může být zahájena REGIONÁLNÍ NOVINY
-
-11. **Komentář k drink spikingu pirátské poslankyně Barbory Pipášové - pirati.cz** — pirati.cz [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/komentar-k-drink-spikingu-piratske-poslankyne-barbory-pipasove/
-   Komentář k drink spikingu pirátské poslankyně Barbory Pipášové pirati.cz
+11. **Evropská komise připravuje nová pravidla pro bankomaty. Gregorová vyzvala ČNB, aby prověřila praktiky Euronetu - pirati.cz** — pirati.cz [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/evropska-komise-pripravuje-nova-pravidla-pro-bankomaty-gregorova-vyzvala-cnb-aby-proverila-praktiky-euronetu/
+   Evropská komise připravuje nová pravidla pro bankomaty. Gregorová vyzvala ČNB, aby prověřila praktiky Euronetu pirati.cz

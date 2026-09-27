@@ -1,109 +1,109 @@
 {
-  "generated_utc": "2026-09-26T11:50:22+00:00",
+  "generated_utc": "2026-09-27T12:30:07+00:00",
   "count": 11,
   "sources": {
     "profile": "cz",
-    "google_news": 59,
+    "google_news": 61,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 6,
+    "feeds": 1,
     "watch": 0,
-    "before_dedup": 42,
-    "total": 38,
-    "skipped_seen": 27,
+    "before_dedup": 39,
+    "total": 32,
+    "skipped_seen": 21,
     "gn_resolved": 11,
     "gn_resolve_tried": 11,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "AI označila diskriminaci Romů za racionální reakci. V testu propadl Grok - jarvis-ai.cz",
-      "url": "https://www.jarvis-ai.cz/ai-oznacila-diskriminaci-romu-za-racionalni-reakci-v-testu-propadl-grok",
-      "source": "jarvis-ai.cz",
-      "snippet": "AI označila diskriminaci Romů za racionální reakci. V testu propadl Grok jarvis-ai.cz",
-      "published": "Fri, 25 Sep 2026 18:50:12 GMT",
+      "title": "Přijde Václav - kamna připrav - Český rozhlas Plzeň",
+      "url": "https://plzen.rozhlas.cz/prijde-vaclav-kamna-priprav-9645437",
+      "source": "Český rozhlas Plzeň",
+      "snippet": "Přijde Václav - kamna připrav Český rozhlas Plzeň",
+      "published": "Thu, 24 Sep 2026 23:13:13 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Romská oslava na Plzeňsku se zvrtla. Muž se pobodal do břicha - Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-romska-oslava-na-plzensku-se-zvrtla-muz-se-pobodal-do-bricha-40599727",
+      "source": "Novinky",
+      "snippet": "Romská oslava na Plzeňsku se zvrtla. Muž se pobodal do břicha Novinky",
+      "published": "Sun, 27 Sep 2026 09:17:21 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Skutečně nečekaný konec rodinné oslavy, muž se třikrát bodl do břicha - Krimi Plzeň",
+      "url": "https://www.krimi-plzen.cz/a/pobodany-2026-09-27-100616/",
+      "source": "Krimi Plzeň",
+      "snippet": "Skutečně nečekaný konec rodinné oslavy, muž se třikrát bodl do břicha Krimi Plzeň",
+      "published": "Sun, 27 Sep 2026 09:34:00 GMT",
       "lang": "cs"
     },
     {
       "title": "Lístek za stěračem. Kontroverzní kampaň Motoristů, Svobodných a Trikolory v Budějovicích řeší policie - Novinky",
-      "url": "https://www.novinky.cz/clanek/40599302",
+      "url": "https://www.novinky.cz/clanek/krimi-listky-za-steracem-kontroverzni-kampan-motoristu-svobodnych-a-trikolory-v-budejovicich-resi-policie-40599302",
       "source": "Novinky",
       "snippet": "Lístek za stěračem. Kontroverzní kampaň Motoristů, Svobodných a Trikolory v Budějovicích řeší policie Novinky",
       "published": "Fri, 25 Sep 2026 15:07:21 GMT",
       "lang": "cs"
     },
     {
-      "title": "Pokrytectví, moc a paragrafy: Z boje proti otroctví se stal nástroj koloniálních her - Reflex.cz",
-      "url": "https://www.reflex.cz/clanek/historie/138388/pokrytectvi-moc-a-paragrafy-z-boje-proti-otroctvi-se-stal-nastroj-kolonialnich-her.html",
-      "source": "Reflex.cz",
-      "snippet": "Pokrytectví, moc a paragrafy: Z boje proti otroctví se stal nástroj koloniálních her Reflex.cz",
-      "published": "Fri, 25 Sep 2026 14:00:00 GMT",
+      "title": "Německá lekce: Extremismus v módě, demokracie v defenzivě | 27. 9. 2026 | Bohumil Kartous - Britské listy",
+      "url": "https://www.blisty.cz/art/136390-nemecka-lekce-extremismus-v-mode-demokracie-v-defenzive.html",
+      "source": "Britské listy",
+      "snippet": "Německá lekce: Extremismus v módě, demokracie v defenzivě | 27. 9. 2026 | Bohumil Kartous Britské listy",
+      "published": "Sun, 27 Sep 2026 10:19:12 GMT",
       "lang": "cs"
     },
     {
-      "title": "WoW Forever má addon, který umlčí vliv známého streamera - zing.cz",
-      "url": "https://zing.cz/article/wow-forever-ma-addon-ktery-umlci-vliv-znameho-streamera",
-      "source": "zing.cz",
-      "snippet": "WoW Forever má addon, který umlčí vliv známého streamera zing.cz",
-      "published": "Sat, 26 Sep 2026 08:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Italská vláda zavádí nová pravidla ve školách kvůli cizincům, zakazuje i zahalování tváře - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/italska-vlada-zavadi-do-skol-migracni-zakony-zakaze-i-zahalovani-tvare-377971",
-      "source": "ČT24",
-      "snippet": "Italská vláda zavádí nová pravidla ve školách kvůli cizincům, zakazuje i zahalování tváře ČT24",
-      "published": "Sat, 26 Sep 2026 11:21:27 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Politické posmívání se klimatické změně maskuje strach a bezradnost - Deník N",
-      "url": "https://denikn.cz/2194832/politicke-posmivani-se-klimaticke-zmene-maskuje-strach-a-bezradnost/",
-      "source": "Deník N",
-      "snippet": "Politické posmívání se klimatické změně maskuje strach a bezradnost Deník N",
-      "published": "Fri, 25 Sep 2026 08:17:26 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Liberální tvář, extremistické vazby. Kdo stojí za brněnským hnutím propojeným s fotbalem - Aktuálně.cz",
-      "url": "https://zpravy.aktualne.cz/domaci/kuriozita-voleb-v-brne-liberalni-strana-s-vazbami-na-extremisty-a-fotbalove-ultras/r~aaa293ebdebca4515c79360c80bba983/",
-      "source": "Aktuálně.cz",
-      "snippet": "Liberální tvář, extremistické vazby. Kdo stojí za brněnským hnutím propojeným s fotbalem Aktuálně.cz",
-      "published": "Fri, 25 Sep 2026 10:11:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Větší podpora pro samoživitele a nový výpočet příspěvku na bydlení. Superdávku čekají změny - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-domov/vetsi-podpora-pro-samozivitele-a-novy-vypocet-prispevku-na-bydleni-superdavku_2609260923_ntu",
+      "title": "Řecký exposlanec založil po propuštění z vězení novou pravicovou stranu. Má šanci na vstup do parlamentu - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-svet/recky-exposlanec-zalozil-po-propusteni-z-vezeni-novou-pravicovou-stranu-ma-sanci_2609261645_mst",
       "source": "iROZHLAS",
-      "snippet": "Větší podpora pro samoživitele a nový výpočet příspěvku na bydlení. Superdávku čekají změny iROZHLAS",
-      "published": "Sat, 26 Sep 2026 07:23:00 GMT",
+      "snippet": "Řecký exposlanec založil po propuštění z vězení novou pravicovou stranu. Má šanci na vstup do parlamentu iROZHLAS",
+      "published": "Sat, 26 Sep 2026 14:45:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Startují zásadní úpravy superdávky. Ke komu mají zamířit další miliardy - Echo24",
-      "url": "https://www.echo24.cz/a/HQdR9/zpravy-domaci-superdavka-dalsi-zmeny-tri-miliardy-kdo-bude-mit-nove-narok",
-      "source": "Echo24",
-      "snippet": "Startují zásadní úpravy superdávky. Ke komu mají zamířit další miliardy Echo24",
-      "published": "Fri, 25 Sep 2026 22:02:00 GMT",
+      "title": "Za Lužánky kandiduje bývalý kandidát Slušných lidí. Přiznal i chuligánskou minulost - manipulatori.cz",
+      "url": "https://manipulatori.cz/za-luzanky-kandiduje-byvaly-kandidat-slusnych-lidi-priznal-i-chuliganskou-minulost/",
+      "source": "manipulatori.cz",
+      "snippet": "Za Lužánky kandiduje bývalý kandidát Slušných lidí. Přiznal i chuligánskou minulost manipulatori.cz",
+      "published": "Sun, 27 Sep 2026 05:56:29 GMT",
       "lang": "cs"
     },
     {
-      "title": "Výstavba startovacích bytů může být zahájena - REGIONÁLNÍ NOVINY",
-      "url": "https://www.regionalninoviny.eu/cz/menu/73/aktuality/clanek-51337-vystavba-startovacich-bytu-muze-byt-zahajena/",
-      "source": "REGIONÁLNÍ NOVINY",
-      "snippet": "Výstavba startovacích bytů může být zahájena REGIONÁLNÍ NOVINY",
-      "published": "Sat, 26 Sep 2026 05:32:00 GMT",
+      "title": "Rumunsko nedokáže sestavit vládu. Nejvíc na tom vydělává krajní pravice - seznam.cz",
+      "url": "https://www.seznam.cz/komentare/278645115-rumunsko-nedokaze-sestavit-vladu-nejvic-na-tom-vydelava-krajni-pravice",
+      "source": "seznam.cz",
+      "snippet": "Rumunsko nedokáže sestavit vládu. Nejvíc na tom vydělává krajní pravice seznam.cz",
+      "published": "Thu, 24 Sep 2026 22:09:23 GMT",
       "lang": "cs"
     },
     {
-      "title": "Komentář k drink spikingu pirátské poslankyně Barbory Pipášové - pirati.cz",
-      "url": "https://www.pirati.cz/jak-pirati-pracuji/komentar-k-drink-spikingu-piratske-poslankyne-barbory-pipasove/",
+      "title": "Superdávka (ilustrační foto) | iROZHLAS - spolehlivé zprávy - iROZHLAS",
+      "url": "https://www.irozhlas.cz/fotogalerie/9645756/summary",
+      "source": "iROZHLAS",
+      "snippet": "Superdávka (ilustrační foto) | iROZHLAS - spolehlivé zprávy iROZHLAS",
+      "published": "Sat, 26 Sep 2026 08:12:57 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nová podoba superdávky: Klíčové změny v podpoře bydlení a pomoc samoživitelům - REFRESHER.cz",
+      "url": "https://news.refresher.cz/211778-Nova-podoba-superdavky-Klicove-zmeny-v-podpore-bydleni-a-pomoc-samozivitelum",
+      "source": "REFRESHER.cz",
+      "snippet": "Nová podoba superdávky: Klíčové změny v podpoře bydlení a pomoc samoživitelům REFRESHER.cz",
+      "published": "Sat, 26 Sep 2026 11:06:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Evropská komise připravuje nová pravidla pro bankomaty. Gregorová vyzvala ČNB, aby prověřila praktiky Euronetu - pirati.cz",
+      "url": "https://www.pirati.cz/jak-pirati-pracuji/evropska-komise-pripravuje-nova-pravidla-pro-bankomaty-gregorova-vyzvala-cnb-aby-proverila-praktiky-euronetu/",
       "source": "pirati.cz",
-      "snippet": "Komentář k drink spikingu pirátské poslankyně Barbory Pipášové pirati.cz",
-      "published": "Thu, 24 Sep 2026 10:33:00 GMT",
+      "snippet": "Evropská komise připravuje nová pravidla pro bankomaty. Gregorová vyzvala ČNB, aby prověřila praktiky Euronetu pirati.cz",
+      "published": "Thu, 24 Sep 2026 14:52:00 GMT",
       "lang": "cs"
     }
   ]
