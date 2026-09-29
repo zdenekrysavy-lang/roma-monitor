@@ -1,21 +1,278 @@
 {
-  "generated_utc": "2026-09-28T15:00:36+00:00",
-  "count": 0,
+  "generated_utc": "2026-09-29T13:22:23+00:00",
+  "count": 32,
   "sources": {
     "profile": "cz",
-    "google_news": 0,
-    "google_news_status": "blocked",
+    "google_news": 56,
+    "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 0,
-    "watch": 0,
-    "before_dedup": 0,
-    "total": 0,
-    "skipped_seen": 0,
-    "gn_resolved": 0,
-    "gn_resolve_tried": 0,
+    "watch": 3,
+    "before_dedup": 40,
+    "total": 36,
+    "skipped_seen": 4,
+    "gn_resolved": 32,
+    "gn_resolve_tried": 32,
     "dropped_after_resolve": 0
   },
-  "candidates": []
+  "candidates": [
+    {
+      "title": "Prázdninový Zpravodaj ombudsmana a dětského ombudsmana přináší příběhy dětí, kterým jsme pomohli - Veřejný ochránce práv | Ombudsman",
+      "url": "https://deti.ochrance.cz/aktualne/prazdninovy-zpravodaj-ombudsmana-a-detskeho-ombudsmana-prinasi-pribehy-deti-kterym-jsme-pomohli/",
+      "source": "Veřejný ochránce práv | Ombudsman",
+      "snippet": "Prázdninový Zpravodaj ombudsmana a dětského ombudsmana přináší příběhy dětí, kterým jsme pomohli Veřejný ochránce práv | Ombudsman",
+      "published": "Tue, 29 Sep 2026 11:19:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "O Roma vakeren s Ivetou Demeterovou - mujRozhlas",
+      "url": "https://www.mujrozhlas.cz/o-roma-vakeren/o-roma-vakeren-s-ivetou-demeterovou-3637019",
+      "source": "mujRozhlas",
+      "snippet": "O Roma vakeren s Ivetou Demeterovou mujRozhlas",
+      "published": "Sun, 27 Sep 2026 09:28:53 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Skutečně nečekaný konec rodinné oslavy, muž se třikrát bodl nožem do břicha - Krimi Plzeň",
+      "url": "https://krimi-plzen.cz/a/pobodany-2026-09-27-100616/",
+      "source": "Krimi Plzeň",
+      "snippet": "Skutečně nečekaný konec rodinné oslavy, muž se třikrát bodl nožem do břicha Krimi Plzeň",
+      "published": "Sun, 27 Sep 2026 09:34:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Kterak Sweeney svlékla džíny: Proč sexy reklama pobouřila sportovkyně? - Reflex.cz",
+      "url": "https://www.reflex.cz/clanek/komentare/138340/kterak-sweeney-svlekla-dziny-proc-sexy-reklama-pobourila-sportovkyne.html",
+      "source": "Reflex.cz",
+      "snippet": "Kterak Sweeney svlékla džíny: Proč sexy reklama pobouřila sportovkyně? Reflex.cz",
+      "published": "Tue, 29 Sep 2026 05:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "BIG BEN: Wokometer? Cambridge vážně blbne… - Neviditelný pes",
+      "url": "https://neviditelnypes.lidovky.cz/zahranici/big-ben-wokometer-cambridge-vazne-blbne.A260924_195402_p_zahranici_nef",
+      "source": "Neviditelný pes",
+      "snippet": "BIG BEN: Wokometer? Cambridge vážně blbne… Neviditelný pes",
+      "published": "Sun, 27 Sep 2026 22:01:59 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "„Extremistické tajné služby,“ hájí Klaus akci krajní pravice. Hostem bude už potřetí - HlídacíPes.org",
+      "url": "https://hlidacipes.org/extremisticke-tajne-sluzby-haji-klaus-akci-krajni-pravice-hostem-bude-uz-potreti/",
+      "source": "HlídacíPes.org",
+      "snippet": "„Extremistické tajné služby,“ hájí Klaus akci krajní pravice. Hostem bude už potřetí HlídacíPes.org",
+      "published": "Tue, 29 Sep 2026 09:34:28 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Dilema evropské krajní pravice. Od AfD si drží odstup, ale může ji to stát body - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/nemecko-afd-evropa-krajni-pravice-spoluprace-francie-italie-britanie-cesko.A260927_140655_zahranicni_kha",
+      "source": "iDNES.cz",
+      "snippet": "Dilema evropské krajní pravice. Od AfD si drží odstup, ale může ji to stát body iDNES.cz",
+      "published": "Mon, 28 Sep 2026 18:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Švédská opozice nedokáže sestavit vládu - ct24.ceskatelevize.cz",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/svedska-opozice-nedokaze-sestavit-vladu-378021",
+      "source": "ct24.ceskatelevize.cz",
+      "snippet": "Švédská opozice nedokáže sestavit vládu ct24.ceskatelevize.cz",
+      "published": "Mon, 28 Sep 2026 09:24:45 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Německá lekce: Extremismus v módě, demokracie v defenzivě | 27. 9. 2026 | Bohumil Kartous - Britské listy",
+      "url": "https://www.blisty.cz/art/136390-nemecka-lekce-extremismus-v-mode-demokracie-v-defenzive",
+      "source": "Britské listy",
+      "snippet": "Německá lekce: Extremismus v módě, demokracie v defenzivě | 27. 9. 2026 | Bohumil Kartous Britské listy",
+      "published": "Sun, 27 Sep 2026 10:19:12 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Senátor Hraba: Extremismus nepřestává být extremismem jen proto, že přichází zleva - ParlamentniListy.cz",
+      "url": "https://www.parlamentnilisty.cz/politika/politici-volicum/Senator-Hraba-Extremismus-neprestava-byt-extremismem-jen-proto-ze-prichazi-zleva-797385",
+      "source": "ParlamentniListy.cz",
+      "snippet": "Senátor Hraba: Extremismus nepřestává být extremismem jen proto, že přichází zleva ParlamentniListy.cz",
+      "published": "Mon, 28 Sep 2026 11:12:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nelegální migraci i přes událost v Ceutě zvládáme, tvrdí eurokomisař. V plánu je nový krizový rámec - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/eu-nelegalni-migrace-magnus-brunner-ceuta-frontex.A260929_132055_zahranicni_onbu",
+      "source": "iDNES.cz",
+      "snippet": "Nelegální migraci i přes událost v Ceutě zvládáme, tvrdí eurokomisař. V plánu je nový krizový rámec iDNES.cz",
+      "published": "Tue, 29 Sep 2026 11:43:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "České děti se radikalizují online . Jak vypadají rizikové komunity na internetu? | sonda - pagenotfound.cz",
+      "url": "https://pagenotfound.cz/clanek/ceske-deti-se-radikalizuji-online-jak-vypadaji-rizikove-komunity-na-internetu-or-sonda",
+      "source": "pagenotfound.cz",
+      "snippet": "České děti se radikalizují online . Jak vypadají rizikové komunity na internetu? | sonda pagenotfound.cz",
+      "published": "Tue, 29 Sep 2026 04:03:26 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nejen hnědí, ale i rudí radikálové. V západní Evro... - forum 24",
+      "url": "https://www.forum24.cz/nejen-hnedi-ale-i-rudi-radikalove-v-zapadni-evrope-posiluje-krajni-levice-ktera-hledi-k-moskve",
+      "source": "forum 24",
+      "snippet": "Nejen hnědí, ale i rudí radikálové. V západní Evro... forum 24",
+      "published": "Mon, 28 Sep 2026 03:00:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "iPhony i chatrče. Írán je složitý a Trump ho ani neukáže na mapě, říká arabistka - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/arabistka-iranistka-lenka-hrabalova-iran-rezim-rozhovor.A260917_121927_zahranicni_herp",
+      "source": "iDNES.cz",
+      "snippet": "iPhony i chatrče. Írán je složitý a Trump ho ani neukáže na mapě, říká arabistka iDNES.cz",
+      "published": "Mon, 28 Sep 2026 14:27:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Izrael odebere diplomatický status nizozemským zástupcům v Ramalláhu - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/izrael-nizozemsko-ramallah-zapadni-breh-jordanu.A260927_215553_zahranicni_aya",
+      "source": "iDNES.cz",
+      "snippet": "Izrael odebere diplomatický status nizozemským zástupcům v Ramalláhu iDNES.cz",
+      "published": "Sun, 27 Sep 2026 19:55:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Izraelský ministr chce připojit část Gazy a jih Libanonu. Vyzval i k válce na Západním břehu - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/izrael-libanon-pasmo-gazy-zapadni-breh-smotric-anexe-hizballah.A260927_164111_zahranicni_aya",
+      "source": "iDNES.cz",
+      "snippet": "Izraelský ministr chce připojit část Gazy a jih Libanonu. Vyzval i k válce na Západním břehu iDNES.cz",
+      "published": "Sun, 27 Sep 2026 15:24:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka se od října mění. Nová pravidla se týkají i těch, kteří už požádali - Podnikatel.cz",
+      "url": "https://www.podnikatel.cz/clanky/superdavka-se-od-rijna-meni-nova-pravidla-se-tykaji-i-tech-kteri-uz-pozadali/",
+      "source": "Podnikatel.cz",
+      "snippet": "Superdávka se od října mění. Nová pravidla se týkají i těch, kteří už požádali Podnikatel.cz",
+      "published": "Tue, 29 Sep 2026 09:15:38 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka od října: změny pro samoživitele, bydlení i životní minimum - TV Morava",
+      "url": "https://www.tvmorava.cz/superdavka-od-rijna-zmeny-pro-samozivitele-bydleni-i-zivotni-minimum/",
+      "source": "TV Morava",
+      "snippet": "Superdávka od října: změny pro samoživitele, bydlení i životní minimum TV Morava",
+      "published": "Tue, 29 Sep 2026 08:31:11 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Životní minimum a superdávka se za pár dní mění. Kdo dostane víc peněz? KALKULAČKA - TN.cz",
+      "url": "https://tn.nova.cz/zpravodajstvi/clanek/657449-zivotni-minimum-a-superdavka-se-za-par-dni-meni-kdo-dostane-vic-penez-kalkulacka",
+      "source": "TN.cz",
+      "snippet": "Životní minimum a superdávka se za pár dní mění. Kdo dostane víc peněz? KALKULAČKA TN.cz",
+      "published": "Sun, 27 Sep 2026 14:19:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nastane zásadní změna pro statisíce uživatelů nové dávky. Řada z nich může i přijít o nárok - Echo24",
+      "url": "https://www.echo24.cz/a/Hep5K/zpravy-domaci-nova-socialni-davka-zasadni-zmena-statisice-lidi-musi-znovu-dokladat-udaje-superdavka-urad-prace",
+      "source": "Echo24",
+      "snippet": "Nastane zásadní změna pro statisíce uživatelů nové dávky. Řada z nich může i přijít o nárok Echo24",
+      "published": "Mon, 28 Sep 2026 04:35:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Příjemce superdávky čeká v říjnu důležitá kontrola. Potřebovat budou doklady za celé léto - České důchody",
+      "url": "https://ceskeduchody.cz/magazin/prijemce-superdavky-ceka-v-rijnu-dulezita-kontrola-potrebovat-budou-doklady-za-cele-leto",
+      "source": "České důchody",
+      "snippet": "Příjemce superdávky čeká v říjnu důležitá kontrola. Potřebovat budou doklady za celé léto České důchody",
+      "published": "Tue, 29 Sep 2026 06:47:08 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka se od října mění: Na těchto místech si lidé pohorší až o 2 000 Kč, mnozí o tom netuší - Centrum.cz",
+      "url": "https://www.centrum.cz/clanek/superdavka-se-od-rijna-meni-na-techto-mistech-si-lide-pohorsi-az-o-2-000-kc-mnozi-o-tom-netusi-304746",
+      "source": "Centrum.cz",
+      "snippet": "Superdávka se od října mění: Na těchto místech si lidé pohorší až o 2 000 Kč, mnozí o tom netuší Centrum.cz",
+      "published": "Sun, 27 Sep 2026 18:57:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka je správný krok. Problém může být ve sledování příjmů domácnosti, říká ekonom - TN.cz",
+      "url": "https://tn.nova.cz/video/11081-tn-live-do-hloubky/569059-superdavka-je-spravny-krok-problem-muze-byt-ve-sledovani-prijmu-domacnosti-rika-ekonom",
+      "source": "TN.cz",
+      "snippet": "Superdávka je správný krok. Problém může být ve sledování příjmů domácnosti, říká ekonom TN.cz",
+      "published": "Sun, 27 Sep 2026 18:20:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Dítě už chodí do školy, samoživitel ale získá větší ochranu. Co mění říjnová superdávka - Centrum.cz",
+      "url": "https://www.centrum.cz/clanek/dite-uz-chodi-do-skoly-samozivitel-ale-ziska-vetsi-ochranu-co-meni-rijnova-superdavka-304940",
+      "source": "Centrum.cz",
+      "snippet": "Dítě už chodí do školy, samoživitel ale získá větší ochranu. Co mění říjnová superdávka Centrum.cz",
+      "published": "Sun, 27 Sep 2026 21:50:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Jak přeměnit továrnu na rakve v bytový dům? Startuje cyklus přednášek Dostupné bydlení - Novinky",
+      "url": "https://www.novinky.cz/clanek/bydleni-jak-premenit-tovarnu-na-rakve-v-bytovy-dum-startuje-cyklus-prednasek-dostupne-bydleni-40595762",
+      "source": "Novinky",
+      "snippet": "Jak přeměnit továrnu na rakve v bytový dům? Startuje cyklus přednášek Dostupné bydlení Novinky",
+      "published": "Tue, 29 Sep 2026 11:54:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Bizarní sociální bydlení: V těchto obřích koulích měly žít nemajetné rodiny - iDNES.cz",
+      "url": "https://www.idnes.cz/bydleni/architektura/nizozemsko-bydleni-cementovy-material-skelna-vlakna-izolace.A260921_091831_architektura_dohr",
+      "source": "iDNES.cz",
+      "snippet": "Bizarní sociální bydlení: V těchto obřích koulích měly žít nemajetné rodiny iDNES.cz",
+      "published": "Tue, 29 Sep 2026 05:55:37 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Plzeň dokončila rekonstrukci domu v Thámově ulici, vzniklo v něm šest bytů pro lidi v nouzi - Krimi Plzeň",
+      "url": "https://krimi-plzen.cz/a/mesto-reko/",
+      "source": "Krimi Plzeň",
+      "snippet": "Plzeň dokončila rekonstrukci domu v Thámově ulici, vzniklo v něm šest bytů pro lidi v nouzi Krimi Plzeň",
+      "published": "Tue, 29 Sep 2026 07:28:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Sociální bydlení v obřích koulích. Šílený experiment, který funguje dodnes - iDNES.tv",
+      "url": "https://tv.idnes.cz/zahranicni/bydlet-koule-experimentovat-fungovat-nizozemsko.V260925_153941_idnestv_anka",
+      "source": "iDNES.tv",
+      "snippet": "Sociální bydlení v obřích koulích. Šílený experiment, který funguje dodnes iDNES.tv",
+      "published": "Mon, 28 Sep 2026 22:06:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Volební speciál: Rozhovor s kandidátem na primátora Ostravy Rostislavem Řehou - patriotmagazin.cz",
+      "url": "https://www.patriotmagazin.cz/volebni-special-rozhovor-s-kandidatem-na-primatora-ostravy-rostislavem-rehou",
+      "source": "patriotmagazin.cz",
+      "snippet": "Volební speciál: Rozhovor s kandidátem na primátora Ostravy Rostislavem Řehou patriotmagazin.cz",
+      "published": "Tue, 29 Sep 2026 08:20:26 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Nový začátek pro šest domácností. Plzeň dokončila proměnu domu v Thámově ulici - qap.cz",
+      "url": "https://www.qap.cz/clanek/novy-zacatek-pro-sest-domacnosti-plzen-139939/",
+      "source": "qap.cz",
+      "snippet": "Nový začátek pro šest domácností. Plzeň dokončila proměnu domu v Thámově ulici qap.cz",
+      "published": "Mon, 28 Sep 2026 09:01:25 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Bez pořadníků a téměř 3000 obecních bytů. Praha 2 sází na tři různé cesty k bydlení - nasepraha.cz",
+      "url": "https://www.nasepraha.cz/bez-poradniku-a-temer-3000-obecnich-bytu-praha-2-sazi-na-tri-ruzne-cesty-k-bydleni/",
+      "source": "nasepraha.cz",
+      "snippet": "Bez pořadníků a téměř 3000 obecních bytů. Praha 2 sází na tři různé cesty k bydlení nasepraha.cz",
+      "published": "Mon, 28 Sep 2026 06:13:02 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Vydělat si chtějí. Žít v práci už ne. Mladí bourají představu o „správném“ zaměstnanci - Flowee - flowee.cz",
+      "url": "https://www.flowee.cz/civilizace/17618-vydelat-si-chteji-zit-v-praci-uz-ne-mladi-bouraji-predstavu-o-spravnem-zamestnanci",
+      "source": "flowee.cz",
+      "snippet": "Vydělat si chtějí. Žít v práci už ne. Mladí bourají představu o „správném“ zaměstnanci - Flowee flowee.cz",
+      "published": "Mon, 28 Sep 2026 07:00:31 GMT",
+      "lang": "cs"
+    }
+  ]
 }
