@@ -1,131 +1,71 @@
-# Kandidáti — 2026-09-29T13:22:23+00:00 (32 položek)
+# Kandidáti — 2026-09-30T13:02:41+00:00 (17 položek)
 
-_Zdroje: Google News 56 · GDELT 0 (disabled) · feedy 0 · watch 3_
+_Zdroje: Google News 52 · GDELT 0 (disabled) · feedy 4 · watch 4_
 
-1. **Prázdninový Zpravodaj ombudsmana a dětského ombudsmana přináší příběhy dětí, kterým jsme pomohli - Veřejný ochránce práv | Ombudsman** — Veřejný ochránce práv | Ombudsman [cs]
-   https://deti.ochrance.cz/aktualne/prazdninovy-zpravodaj-ombudsmana-a-detskeho-ombudsmana-prinasi-pribehy-deti-kterym-jsme-pomohli/
-   Prázdninový Zpravodaj ombudsmana a dětského ombudsmana přináší příběhy dětí, kterým jsme pomohli Veřejný ochránce práv | Ombudsman
+1. **Skvělá zpráva: Luis Manuel Otero Alcántara je po téměř pěti letech na svobodě!** — https://amnesty.cz/feed/ [cs]
+   https://amnesty.cz/skvela-zprava-luis-manuel-otero-alcantara-je-po-temer-peti-letech-na-svobode/
+   Dne 18. července 2026 byl kubánský aktivista Luis Manuel Otero Alcántara po téměř pěti letech nespravedlivého věznění propuštěn. Jeho propuštění však bylo podmíněno odchodem do exilu ve Spojených stát
 
-2. **O Roma vakeren s Ivetou Demeterovou - mujRozhlas** — mujRozhlas [cs]
-   https://www.mujrozhlas.cz/o-roma-vakeren/o-roma-vakeren-s-ivetou-demeterovou-3637019
-   O Roma vakeren s Ivetou Demeterovou mujRozhlas
+2. **HAVEL 90: Jeden dopis může změnit život** — https://amnesty.cz/feed/ [cs]
+   https://amnesty.cz/havel-90-jeden-dopis-muze-zmenit-zivot/
+   Před 40 lety psali lidé z celého světa za svobodu Václava Havla, který byl vězněn za své občanské postoje a Amnesty International ho označila za vězně svědomí. Jeho osud připomíná, jakou sílu může mít
 
-3. **Skutečně nečekaný konec rodinné oslavy, muž se třikrát bodl nožem do břicha - Krimi Plzeň** — Krimi Plzeň [cs]
-   https://krimi-plzen.cz/a/pobodany-2026-09-27-100616/
-   Skutečně nečekaný konec rodinné oslavy, muž se třikrát bodl nožem do břicha Krimi Plzeň
+3. **Skvělá zpráva: Mikita Zalatarou je po letech věznění na svobodě!** — https://amnesty.cz/feed/ [cs]
+   https://amnesty.cz/skvela-zprava-mikita-zalatarou-je-po-letech-vezneni-na-svobode/
+   Dne 19. března 2026 byl Mikita po více než pěti letech věznění propuštěn na svobodu. Spolu s ním bylo propuštěno dalších 249 lidí vězněných z politických důvodů. K propuštění došlo v rámci jednání mez
 
-4. **Kterak Sweeney svlékla džíny: Proč sexy reklama pobouřila sportovkyně? - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/clanek/komentare/138340/kterak-sweeney-svlekla-dziny-proc-sexy-reklama-pobourila-sportovkyne.html
-   Kterak Sweeney svlékla džíny: Proč sexy reklama pobouřila sportovkyně? Reflex.cz
+4. **Odebírat práva druhým není kvalifikace pro Radu vlády pro lidská práva** — https://amnesty.cz/feed/ [cs]
+   https://amnesty.cz/odebirat-prava-druhym-neni-kvalifikace-pro-radu-vlady-pro-lidska-prava/
+   Lidskoprávní organizace předkládají konkrétní důvody, proč nově jmenovaní Kříž, Black a Kuchařová do Rady nepatří Z poradního orgánu vlády pro lidská práva se nesmí stát platforma pro osekávání svobod
 
-5. **BIG BEN: Wokometer? Cambridge vážně blbne… - Neviditelný pes** — Neviditelný pes [cs]
-   https://neviditelnypes.lidovky.cz/zahranici/big-ben-wokometer-cambridge-vazne-blbne.A260924_195402_p_zahranici_nef
-   BIG BEN: Wokometer? Cambridge vážně blbne… Neviditelný pes
+5. **Hlas společnosti uvnitř Kanceláře ombudsmana: Sestavili jsme poradní orgány - Veřejný ochránce práv | Ombudsman** — Veřejný ochránce práv | Ombudsman [cs]
+   https://www.ochrance.cz/aktualne/hlas_spolecnosti_uvnitr_kancelare_ombudsmana_sestavili_jsme_poradni_organy/
+   Hlas společnosti uvnitř Kanceláře ombudsmana: Sestavili jsme poradní orgány Veřejný ochránce práv | Ombudsman
 
-6. **„Extremistické tajné služby,“ hájí Klaus akci krajní pravice. Hostem bude už potřetí - HlídacíPes.org** — HlídacíPes.org [cs]
-   https://hlidacipes.org/extremisticke-tajne-sluzby-haji-klaus-akci-krajni-pravice-hostem-bude-uz-potreti/
-   „Extremistické tajné služby,“ hájí Klaus akci krajní pravice. Hostem bude už potřetí HlídacíPes.org
+6. **Třídenní bitka v romské osadě na Slovensku: Kvůli zakázané lásce létaly vzduchem sekery - CNN Prima NEWS** — CNN Prima NEWS [cs]
+   https://cnn.iprima.cz/tridenni-bitka-v-romske-osade-kvuli-zakazane-lasce-letaly-vzduchem-sekery-523095
+   Třídenní bitka v romské osadě na Slovensku: Kvůli zakázané lásce létaly vzduchem sekery CNN Prima NEWS
 
-7. **Dilema evropské krajní pravice. Od AfD si drží odstup, ale může ji to stát body - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/nemecko-afd-evropa-krajni-pravice-spoluprace-francie-italie-britanie-cesko.A260927_140655_zahranicni_kha
-   Dilema evropské krajní pravice. Od AfD si drží odstup, ale může ji to stát body iDNES.cz
+7. **Romská oslava na Plzeňsku se zvrtla. Muž se pobodal do břicha - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/clanek-zprava/1689793-romska-oslava-na-plzensku-se-zvrtla-muz-se-pobodal-do-bricha.html
+   Romská oslava na Plzeňsku se zvrtla. Muž se pobodal do břicha www.prahanadlani.cz
 
-8. **Švédská opozice nedokáže sestavit vládu - ct24.ceskatelevize.cz** — ct24.ceskatelevize.cz [cs]
-   https://ct24.ceskatelevize.cz/clanek/svet/svedska-opozice-nedokaze-sestavit-vladu-378021
-   Švédská opozice nedokáže sestavit vládu ct24.ceskatelevize.cz
+8. **V Německu podnikli razii proti extremistické hudbě, pomohli i čeští policisté - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/v-nemecku-podnikli-razii-proti-extremisticke-hudbe-pomohli-i-cesti-policiste/2881047
+   V Německu podnikli razii proti extremistické hudbě, pomohli i čeští policisté České noviny
 
-9. **Německá lekce: Extremismus v módě, demokracie v defenzivě | 27. 9. 2026 | Bohumil Kartous - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/136390-nemecka-lekce-extremismus-v-mode-demokracie-v-defenzive
-   Německá lekce: Extremismus v módě, demokracie v defenzivě | 27. 9. 2026 | Bohumil Kartous Britské listy
+9. **Obchod s chudobou komunální volby nevyřeší. Hůř než Rovná na Sokolovsku je na tom jen patnáct obcí - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-domov/obchod-s-chudobou-komunalni-volby-nevyresi-hur-nez-rovna-na-sokolovsku-je-na-tom_2609300620_pek
+   Obchod s chudobou komunální volby nevyřeší. Hůř než Rovná na Sokolovsku je na tom jen patnáct obcí iROZHLAS
 
-10. **Senátor Hraba: Extremismus nepřestává být extremismem jen proto, že přichází zleva - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
-   https://www.parlamentnilisty.cz/politika/politici-volicum/Senator-Hraba-Extremismus-neprestava-byt-extremismem-jen-proto-ze-prichazi-zleva-797385
-   Senátor Hraba: Extremismus nepřestává být extremismem jen proto, že přichází zleva ParlamentniListy.cz
+10. **Superdávka se mění. „Dva tisíce jsou významná částka pro chudou domácnost,“ říká Hůle - Radiožurnál** — Radiožurnál [cs]
+   https://radiozurnal.rozhlas.cz/superdavka-se-meni-dva-tisice-jsou-vyznamna-castka-pro-chudou-domacnost-rika-9646368
+   Superdávka se mění. „Dva tisíce jsou významná částka pro chudou domácnost,“ říká Hůle Radiožurnál
 
-11. **Nelegální migraci i přes událost v Ceutě zvládáme, tvrdí eurokomisař. V plánu je nový krizový rámec - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/eu-nelegalni-migrace-magnus-brunner-ceuta-frontex.A260929_132055_zahranicni_onbu
-   Nelegální migraci i přes událost v Ceutě zvládáme, tvrdí eurokomisař. V plánu je nový krizový rámec iDNES.cz
+11. **První ucelená čísla o superdávce ukazují miliardový skok. Průměrná výplata se výrazně zvýšila - Echo24** — Echo24 [cs]
+   https://www.echo24.cz/a/Hi9SJ/zpravy-domaci-superdavka-poprve-cisla-miliardovy-skok-kolik-dostavaji-lide-v-prumeru-ministerstvo-prace
+   První ucelená čísla o superdávce ukazují miliardový skok. Průměrná výplata se výrazně zvýšila Echo24
 
-12. **České děti se radikalizují online . Jak vypadají rizikové komunity na internetu? | sonda - pagenotfound.cz** — pagenotfound.cz [cs]
-   https://pagenotfound.cz/clanek/ceske-deti-se-radikalizuji-online-jak-vypadaji-rizikove-komunity-na-internetu-or-sonda
-   České děti se radikalizují online . Jak vypadají rizikové komunity na internetu? | sonda pagenotfound.cz
+12. **Přehledně: Od října se zvednou některé sociální dávky a na další dosáhne více lidí - Seznam Zprávy** — Seznam Zprávy [cs]
+   https://www.seznamzpravy.cz/clanek/radce-zivotni-minimum-socialni-davky-porodne-zmeny-2026-316217
+   Přehledně: Od října se zvednou některé sociální dávky a na další dosáhne více lidí Seznam Zprávy
 
-13. **Nejen hnědí, ale i rudí radikálové. V západní Evro... - forum 24** — forum 24 [cs]
-   https://www.forum24.cz/nejen-hnedi-ale-i-rudi-radikalove-v-zapadni-evrope-posiluje-krajni-levice-ktera-hledi-k-moskve
-   Nejen hnědí, ale i rudí radikálové. V západní Evro... forum 24
+13. **Superdávka se od října mění. Ekonom spočítal, komu stát přidá a o kolik si reálně polepší - Tiscali.cz** — Tiscali.cz [cs]
+   https://www.tiscali.cz/superdavka-se-od-rijna-meni-ekonom-spocital-komu-stat-prida-a-o-kolik-si-realne-polepsi-772268
+   Superdávka se od října mění. Ekonom spočítal, komu stát přidá a o kolik si reálně polepší Tiscali.cz
 
-14. **iPhony i chatrče. Írán je složitý a Trump ho ani neukáže na mapě, říká arabistka - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/arabistka-iranistka-lenka-hrabalova-iran-rezim-rozhovor.A260917_121927_zahranicni_herp
-   iPhony i chatrče. Írán je složitý a Trump ho ani neukáže na mapě, říká arabistka iDNES.cz
+14. **Bydlím, tedy jsem. Den architektury se zaměří na dostupné bydlení i možnosti robotické architektury - Český rozhlas Vltava** — Český rozhlas Vltava [cs]
+   https://vltava.rozhlas.cz/bydlim-tedy-jsem-den-architektury-se-zameri-na-dostupne-bydleni-i-moznosti-9646332
+   Bydlím, tedy jsem. Den architektury se zaměří na dostupné bydlení i možnosti robotické architektury Český rozhlas Vltava
 
-15. **Izrael odebere diplomatický status nizozemským zástupcům v Ramalláhu - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/izrael-nizozemsko-ramallah-zapadni-breh-jordanu.A260927_215553_zahranicni_aya
-   Izrael odebere diplomatický status nizozemským zástupcům v Ramalláhu iDNES.cz
+15. **Na ulici přibývá lidí bez domova, kteří jsou na vozíku - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/domaci/na-ulici-pribyva-lidi-bez-domova-kteri-jsou-na-voziku-376304
+   Na ulici přibývá lidí bez domova, kteří jsou na vozíku ČT24
 
-16. **Izraelský ministr chce připojit část Gazy a jih Libanonu. Vyzval i k válce na Západním břehu - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/izrael-libanon-pasmo-gazy-zapadni-breh-smotric-anexe-hizballah.A260927_164111_zahranicni_aya
-   Izraelský ministr chce připojit část Gazy a jih Libanonu. Vyzval i k válce na Západním břehu iDNES.cz
+16. **Algarve 2030 podporuje projekty sociálního bydlení v sedmi obcích - The Portugal News** — The Portugal News [cs]
+   https://www.theportugalnews.com/cs/zpravy/2026-09-29/algarve-2030-podporuje-projekty-socialniho-bydleni-v-sedmi-obcich/1093853
+   Algarve 2030 podporuje projekty sociálního bydlení v sedmi obcích The Portugal News
 
-17. **Superdávka se od října mění. Nová pravidla se týkají i těch, kteří už požádali - Podnikatel.cz** — Podnikatel.cz [cs]
-   https://www.podnikatel.cz/clanky/superdavka-se-od-rijna-meni-nova-pravidla-se-tykaji-i-tech-kteri-uz-pozadali/
-   Superdávka se od října mění. Nová pravidla se týkají i těch, kteří už požádali Podnikatel.cz
-
-18. **Superdávka od října: změny pro samoživitele, bydlení i životní minimum - TV Morava** — TV Morava [cs]
-   https://www.tvmorava.cz/superdavka-od-rijna-zmeny-pro-samozivitele-bydleni-i-zivotni-minimum/
-   Superdávka od října: změny pro samoživitele, bydlení i životní minimum TV Morava
-
-19. **Životní minimum a superdávka se za pár dní mění. Kdo dostane víc peněz? KALKULAČKA - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/657449-zivotni-minimum-a-superdavka-se-za-par-dni-meni-kdo-dostane-vic-penez-kalkulacka
-   Životní minimum a superdávka se za pár dní mění. Kdo dostane víc peněz? KALKULAČKA TN.cz
-
-20. **Nastane zásadní změna pro statisíce uživatelů nové dávky. Řada z nich může i přijít o nárok - Echo24** — Echo24 [cs]
-   https://www.echo24.cz/a/Hep5K/zpravy-domaci-nova-socialni-davka-zasadni-zmena-statisice-lidi-musi-znovu-dokladat-udaje-superdavka-urad-prace
-   Nastane zásadní změna pro statisíce uživatelů nové dávky. Řada z nich může i přijít o nárok Echo24
-
-21. **Příjemce superdávky čeká v říjnu důležitá kontrola. Potřebovat budou doklady za celé léto - České důchody** — České důchody [cs]
-   https://ceskeduchody.cz/magazin/prijemce-superdavky-ceka-v-rijnu-dulezita-kontrola-potrebovat-budou-doklady-za-cele-leto
-   Příjemce superdávky čeká v říjnu důležitá kontrola. Potřebovat budou doklady za celé léto České důchody
-
-22. **Superdávka se od října mění: Na těchto místech si lidé pohorší až o 2 000 Kč, mnozí o tom netuší - Centrum.cz** — Centrum.cz [cs]
-   https://www.centrum.cz/clanek/superdavka-se-od-rijna-meni-na-techto-mistech-si-lide-pohorsi-az-o-2-000-kc-mnozi-o-tom-netusi-304746
-   Superdávka se od října mění: Na těchto místech si lidé pohorší až o 2 000 Kč, mnozí o tom netuší Centrum.cz
-
-23. **Superdávka je správný krok. Problém může být ve sledování příjmů domácnosti, říká ekonom - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/video/11081-tn-live-do-hloubky/569059-superdavka-je-spravny-krok-problem-muze-byt-ve-sledovani-prijmu-domacnosti-rika-ekonom
-   Superdávka je správný krok. Problém může být ve sledování příjmů domácnosti, říká ekonom TN.cz
-
-24. **Dítě už chodí do školy, samoživitel ale získá větší ochranu. Co mění říjnová superdávka - Centrum.cz** — Centrum.cz [cs]
-   https://www.centrum.cz/clanek/dite-uz-chodi-do-skoly-samozivitel-ale-ziska-vetsi-ochranu-co-meni-rijnova-superdavka-304940
-   Dítě už chodí do školy, samoživitel ale získá větší ochranu. Co mění říjnová superdávka Centrum.cz
-
-25. **Jak přeměnit továrnu na rakve v bytový dům? Startuje cyklus přednášek Dostupné bydlení - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/bydleni-jak-premenit-tovarnu-na-rakve-v-bytovy-dum-startuje-cyklus-prednasek-dostupne-bydleni-40595762
-   Jak přeměnit továrnu na rakve v bytový dům? Startuje cyklus přednášek Dostupné bydlení Novinky
-
-26. **Bizarní sociální bydlení: V těchto obřích koulích měly žít nemajetné rodiny - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/bydleni/architektura/nizozemsko-bydleni-cementovy-material-skelna-vlakna-izolace.A260921_091831_architektura_dohr
-   Bizarní sociální bydlení: V těchto obřích koulích měly žít nemajetné rodiny iDNES.cz
-
-27. **Plzeň dokončila rekonstrukci domu v Thámově ulici, vzniklo v něm šest bytů pro lidi v nouzi - Krimi Plzeň** — Krimi Plzeň [cs]
-   https://krimi-plzen.cz/a/mesto-reko/
-   Plzeň dokončila rekonstrukci domu v Thámově ulici, vzniklo v něm šest bytů pro lidi v nouzi Krimi Plzeň
-
-28. **Sociální bydlení v obřích koulích. Šílený experiment, který funguje dodnes - iDNES.tv** — iDNES.tv [cs]
-   https://tv.idnes.cz/zahranicni/bydlet-koule-experimentovat-fungovat-nizozemsko.V260925_153941_idnestv_anka
-   Sociální bydlení v obřích koulích. Šílený experiment, který funguje dodnes iDNES.tv
-
-29. **Volební speciál: Rozhovor s kandidátem na primátora Ostravy Rostislavem Řehou - patriotmagazin.cz** — patriotmagazin.cz [cs]
-   https://www.patriotmagazin.cz/volebni-special-rozhovor-s-kandidatem-na-primatora-ostravy-rostislavem-rehou
-   Volební speciál: Rozhovor s kandidátem na primátora Ostravy Rostislavem Řehou patriotmagazin.cz
-
-30. **Nový začátek pro šest domácností. Plzeň dokončila proměnu domu v Thámově ulici - qap.cz** — qap.cz [cs]
-   https://www.qap.cz/clanek/novy-zacatek-pro-sest-domacnosti-plzen-139939/
-   Nový začátek pro šest domácností. Plzeň dokončila proměnu domu v Thámově ulici qap.cz
-
-31. **Bez pořadníků a téměř 3000 obecních bytů. Praha 2 sází na tři různé cesty k bydlení - nasepraha.cz** — nasepraha.cz [cs]
-   https://www.nasepraha.cz/bez-poradniku-a-temer-3000-obecnich-bytu-praha-2-sazi-na-tri-ruzne-cesty-k-bydleni/
-   Bez pořadníků a téměř 3000 obecních bytů. Praha 2 sází na tři různé cesty k bydlení nasepraha.cz
-
-32. **Vydělat si chtějí. Žít v práci už ne. Mladí bourají představu o „správném“ zaměstnanci - Flowee - flowee.cz** — flowee.cz [cs]
-   https://www.flowee.cz/civilizace/17618-vydelat-si-chteji-zit-v-praci-uz-ne-mladi-bouraji-predstavu-o-spravnem-zamestnanci
-   Vydělat si chtějí. Žít v práci už ne. Mladí bourají představu o „správném“ zaměstnanci - Flowee flowee.cz
+17. **Až 5000 nových pečovatelských lůžek. Česká spořitelna hodlá vystavět domy pro seniory za více než deset miliard korun - Hospodářské noviny** — Hospodářské noviny [cs]
+   https://archiv.hn.cz/c1-67937160-az-5000-novych-pecovatelskych-luzek-ceska-sporitelna-hodla-vystavet-domy-pro-seniory-za-vice-nez-deset-miliard-korun
+   Až 5000 nových pečovatelských lůžek. Česká spořitelna hodlá vystavět domy pro seniory za více než deset miliard korun Hospodářské noviny
