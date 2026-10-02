@@ -1,63 +1,71 @@
-# Kandidáti — 2026-10-01T13:56:28+00:00 (15 položek)
+# Kandidáti — 2026-10-02T13:13:50+00:00 (17 položek)
 
-_Zdroje: Google News 58 · GDELT 0 (disabled) · feedy 6 · watch 4_
+_Zdroje: Google News 67 · GDELT 0 (disabled) · feedy 6 · watch 1_
 
-1. **Skvělá zpráva: Dang Dinh Bach je po pěti letech věznění na svobodě!** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/skvela-zprava-dang-dinh-bach-je-po-peti-letech-vezneni-na-svobode/
-   Dne 24. června 2026 byl vietnamský právník a ochránce životního prostředí Dang Dinh Bach po pěti letech věznění propuštěn. Po návratu domů se znovu setkal se svou manželkou a synem, kterého naposledy 
+1. **Demokratický stát musí snést i nevkusnou kampaň, píše soud ke kauze ‚chirurgů z dovozu‘ hnutí SPD - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-domov/demokraticky-stat-musi-snest-i-nevkusnou-kampan-pise-soud-ke-kauze-chirurgu-z_2610021352_vdv
+   Demokratický stát musí snést i nevkusnou kampaň, píše soud ke kauze ‚chirurgů z dovozu‘ hnutí SPD iROZHLAS
 
-2. **Brněnská debata přinesla podporu změnám školských obvodů a pokračování Romské rady** — https://iqrs.cz/feed/ [cs]
-   https://iqrs.cz/brnenska-debata-prinesla-podporu-zmenam-skolskych-obvodu-a-pokracovani-romske-rady/
-   Brno, 30. září 2026 Změny školských spádových obvodů v souvislosti s desegregací a pokračování Romské rady získaly podporu na předvolební debatě „Jak se bude v Brně žít Romům a Romkám“. Akci uspořádal
+2. **Podcast: Honza Kaláb sprejuje Linku M. Jak se žilo grafiťákovi v devadesátkách? - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/podcasty/linka-m/linka-m-jake-bylo-sprejovat-v-praze-v-devadesatkach-honza-kalab-o-graffiti-a-dsk.V261001_124947_podcast_krr
+   Podcast: Honza Kaláb sprejuje Linku M. Jak se žilo grafiťákovi v devadesátkách? iDNES.cz
 
-3. **Od ex-premiérů po řidičku autobusu: Kdo chce v roce 2027 nahradit Macrona v Elysejském paláci? - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/clanek/komentare/138473/kucharka-ucitelka-i-ridicka-autobusu-kdo-kandiduje-na-pozici-francouzskeho-prezidenta-ve-volbach-2027.html
-   Od ex-premiérů po řidičku autobusu: Kdo chce v roce 2027 nahradit Macrona v Elysejském paláci? Reflex.cz
+3. **Starosto, vyřeš to! Největší ostudou Přerova je ghetto v Kojetínské - Přerovský deník** — Přerovský deník [cs]
+   https://prerovsky.denik.cz/zpravy-region/starosto-vyres-to-nejvetsi-ostudou-prerova-je-ghetto-v-kojetinske/
+   Starosto, vyřeš to! Největší ostudou Přerova je ghetto v Kojetínské Přerovský deník
 
-4. **Osvobozující verdikt padl, soud opět řeší knihy zpochybňující holokaust - Brněnská Drbna** — Brněnská Drbna [cs]
-   https://brnenska.drbna.cz/krimi/901714-osvobozujici-verdikt-padl-soud-opet-resi-knihy-zpochybnujici-holokaust.html
-   Osvobozující verdikt padl, soud opět řeší knihy zpochybňující holokaust Brněnská Drbna
+4. **Klopp se zastal týmu kvůli rasismu: V běžném životě nemám na hlouposti čas - iSport.cz** — iSport.cz [cs]
+   https://isport.blesk.cz/clanek/fotbal-reprezentace-liga-narodu/480479/rasismus-po-prohre-nemcu-klopp-dnes-lide-na-internet-vychrli-veci-je-to-proste-silene.html
+   Klopp se zastal týmu kvůli rasismu: V běžném životě nemám na hlouposti čas iSport.cz
 
-5. **Vyháním nepřizpůsobivé. Vyhrožují mi nájemníci i majitelé bytů, líčí lídr SPD v Ústí - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/volby/usti/mohr-spd-namestek-primatora-usti-komunalni-volby-obchod-s-chudobou.A261001_075213_usti-volby_grr
-   Vyháním nepřizpůsobivé. Vyhrožují mi nájemníci i majitelé bytů, líčí lídr SPD v Ústí iDNES.cz
+5. **Rasismus po prohře Němců. Klopp: Dnes lidé na internet vychrlí věci... Je to prostě šílené! - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1695072-rasismus-po-prohre-nemcu-klopp-dnes-lide-na-internet-vychrli-veci-je-to-proste-silene-.html
+   Rasismus po prohře Němců. Klopp: Dnes lidé na internet vychrlí věci... Je to prostě šílené! www.prahanadlani.cz
 
-6. **Superdávka se mění. Kdo si polepší o tisíce? A varování před obchodem s chudobou! - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/clanek/zpravy-politika/849353/superdavka-se-meni-kdo-si-polepsi-o-tisice-a-varovani-pred-obchodem-s-chudobou.html
-   Superdávka se mění. Kdo si polepší o tisíce? A varování před obchodem s chudobou! Blesk.cz
+6. **Jan Bendig: Smáli se mému castingu. Nikdo nevěděl, že mám panickou ataku - Deník.cz** — Deník.cz [cs]
+   https://www.denik.cz/o-zivote-zblizka/jan-bendig-smali-se-memu-castingu-nikdo-nevedel-ze-mam-panickou-ataku/
+   Jan Bendig: Smáli se mému castingu. Nikdo nevěděl, že mám panickou ataku Deník.cz
 
-7. **Volební perličky: Komunální volby se zajímavými příběhy - Radiožurnál** — Radiožurnál [cs]
-   https://radiozurnal.rozhlas.cz/volebni-perlicky-komunalni-volby-se-zajimavymi-pribehy-9646072
-   Volební perličky: Komunální volby se zajímavými příběhy Radiožurnál
+7. **Sledujte na Netflixu Flydubai FZ1073 - Neviditelný pes** — Neviditelný pes [cs]
+   https://neviditelnypes.lidovky.cz/cirkus/sledujte-na-netflixu-flydubai-fz1073.A261001_110458_p_cirkus_nef
+   Sledujte na Netflixu Flydubai FZ1073 Neviditelný pes
 
-8. **Když slábnou oči, strádá i mozek. Léčba šedého zákalu může seniorům vrátit aktivní život - Týden.cz** — Týden.cz [cs]
-   https://www.tyden.cz/kdyz-slabnou-oci-strada-i-mozek-lecba-sedeho-zakalu-muze-seniorum-vratit-aktivni-zivot
-   Když slábnou oči, strádá i mozek. Léčba šedého zákalu může seniorům vrátit aktivní život Týden.cz
+8. **Lídr AfD Siegmund chce být premiérem Saska-Anhaltska. Potřebuje hlasy opozice - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/zahranicni/afd-siegmund-premier-sasko-anhaltsko-nemecko.A260929_161915_zahranicni_dvou
+   Lídr AfD Siegmund chce být premiérem Saska-Anhaltska. Potřebuje hlasy opozice iDNES.cz
 
-9. **Na superdávku dosáhne víc lidí včetně již odmítnutých, další získají víc peněz - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/clanek/radce-superdavka-zmeny-rijen-2026-zadost-316494
-   Na superdávku dosáhne víc lidí včetně již odmítnutých, další získají víc peněz Seznam Zprávy
+9. **Euro doplácí na hříchy ostatních - FXstreet.cz** — FXstreet.cz [cs]
+   https://www.fxstreet.cz/zpravodajstvi-208129.html
+   Euro doplácí na hříchy ostatních FXstreet.cz
 
-10. **Změny v pravidlech superdávky. Novelizace má pomoci malým domácnostem, zvedá se životní minimum - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-domov/zmeny-v-pravidlech-superdavky-novelizace-ma-pomoci-malym-domacnostem-zveda-se_2610010856_elev
-   Změny v pravidlech superdávky. Novelizace má pomoci malým domácnostem, zvedá se životní minimum iROZHLAS
+10. **Situace je neudržitelná. Chci v ulicích Ústí i psovody, říká jednička SPOLU - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/volby/usti/bzura-ods-komunalni-volby-rozhovor-program-obchod-s-chudobou.A261002_094349_usti-volby_grr
+   Situace je neudržitelná. Chci v ulicích Ústí i psovody, říká jednička SPOLU iDNES.cz
 
-11. **PŘEHLEDNĚ: Jak bude nově vypadat superdávka? Shrnujeme významné změny - CNN Prima NEWS** — CNN Prima NEWS [cs]
-   https://cnn.iprima.cz/prehledne-jak-bude-nove-vypadat-superdavka-podivejte-se-na-tri-vyznamne-zmeny-523216
-   PŘEHLEDNĚ: Jak bude nově vypadat superdávka? Shrnujeme významné změny CNN Prima NEWS
+11. **Zikmundová: Nová superdávka? Nepřípustný experiment. Nejohroženější jsou jednočlenné domácnosti - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-domov/zikmundova-nova-superdavka-nepripustny-experiment-nejohrozenejsi-jsou_2610011906_med
+   Zikmundová: Nová superdávka? Nepřípustný experiment. Nejohroženější jsou jednočlenné domácnosti iROZHLAS
 
-12. **Nová superdávka? Nepřípustný experiment, míní Zikmundová. Nejohroženější jsou jednočlenné domácnosti - Český rozhlas Plus** — Český rozhlas Plus [cs]
-   https://plus.rozhlas.cz/nova-superdavka-nepripustny-experiment-mini-zikmundova-nejohrozenejsi-jsou-9646717
-   Nová superdávka? Nepřípustný experiment, míní Zikmundová. Nejohroženější jsou jednočlenné domácnosti Český rozhlas Plus
+12. **Dokládání k superdávce: Úkol, výzva a co znamená „přerušeno“ - Peníze.cz** — Peníze.cz [cs]
+   https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/497598-dokladani-k-superdavce-ukol-vyzva-a-co-znamena-preruseno
+   Dokládání k superdávce: Úkol, výzva a co znamená „přerušeno“ Peníze.cz
 
-13. **"Nová" superdávka startuje: Máte na ni nárok? Vypočítejte si, jakou výši vám úřad může přiznat - Finance.cz** — Finance.cz [cs]
-   https://www.finance.cz/aktuality/nova-superdavka-startuje-mate-na-ni-narok-vypocitejte-si-jakou-vysi-vam-urad-muze-priznat/
-   "Nová" superdávka startuje: Máte na ni nárok? Vypočítejte si, jakou výši vám úřad může přiznat Finance.cz
+13. **„Já splácím hypotéku z výplaty, kamarádka ze superdávky.“ I majitelé bytů mohou dostávat příspěvky na bydlení - TVGURU.cz** — TVGURU.cz [cs]
+   https://www.tvguru.cz/superdavka-hypoteka-prispevek-na-bydleni/
+   „Já splácím hypotéku z výplaty, kamarádka ze superdávky.“ I majitelé bytů mohou dostávat příspěvky na bydlení TVGURU.cz
 
-14. **Bydlení a bezpečnost spolu souvisejí. Příbram musí být městem, kde se dobře žije - Pribram.cz** — Pribram.cz [cs]
-   https://www.pribram.cz/clanek/bydleni-a-bezpecnost-spolu-souviseji-pribram-musi-byt-mestem-kde-se-dobre-zije/35330/
-   Bydlení a bezpečnost spolu souvisejí. Příbram musí být městem, kde se dobře žije Pribram.cz
+14. **Viktor Lavička: Budějovice potřebují méně slibů a více konkrétní práce - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihocesky-kraj/viktor-lavicka-budejovice-potrebuji-mene-slibu-a-vice-konkretni-prace.A260916_123017_metro-budejovice-zpravy_hradr
+   Viktor Lavička: Budějovice potřebují méně slibů a více konkrétní práce Metro.cz
 
-15. **Komunální volby 2026 – speciál z Prostějova - Český rozhlas Olomouc** — Český rozhlas Olomouc [cs]
-   https://olomouc.rozhlas.cz/komunalni-volby-2026-special-z-prostejova-9646432
-   Komunální volby 2026 – speciál z Prostějova Český rozhlas Olomouc
+15. **Plzeň dokončila první bytový dům na Světovaru. Dům s označením blok E nabízí 34 moderních městských bytů - Město Plzeň** — Město Plzeň [cs]
+   https://plzen.eu/o-meste/aktuality/aktuality-z-mesta/plzen-dokoncila-prvni-bytovy-dum-na-svetovaru-dum-s-oznacenim-blok-e-nabizi-34-modernich-mestskych-bytu/
+   Plzeň dokončila první bytový dům na Světovaru. Dům s označením blok E nabízí 34 moderních městských bytů Město Plzeň
+
+16. **Sedm obcí v Algarve podalo žádosti o podporu sociálního bydlení - The Portugal News** — The Portugal News [cs]
+   https://www.theportugalnews.com/cs/zpravy/2026-10-01/sedm-obci-v-algarve-podalo-zadosti-o-podporu-socialniho-bydleni/1094891
+   Sedm obcí v Algarve podalo žádosti o podporu sociálního bydlení The Portugal News
+
+17. **Největší problém Prahy je bydlení a krize je větší a větší. Jak to chtějí řešit místní politici? - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-domov/nejvetsi-problem-prahy-je-bydleni-a-krize-je-vetsi-a-vetsi-jak-chteji-resit_2610020500_jgr
+   Největší problém Prahy je bydlení a krize je větší a větší. Jak to chtějí řešit místní politici? iROZHLAS
