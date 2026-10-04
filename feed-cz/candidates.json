@@ -1,117 +1,117 @@
 {
-  "generated_utc": "2026-10-03T12:04:32+00:00",
+  "generated_utc": "2026-10-04T12:53:15+00:00",
   "count": 12,
   "sources": {
     "profile": "cz",
-    "google_news": 68,
+    "google_news": 60,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 3,
+    "feeds": 0,
     "watch": 0,
-    "before_dedup": 40,
-    "total": 37,
-    "skipped_seen": 25,
+    "before_dedup": 35,
+    "total": 32,
+    "skipped_seen": 20,
     "gn_resolved": 12,
     "gn_resolve_tried": 12,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Poslední slovo: Neviděl jsem ho, tak byl černý. Když předsudkům podléhají i vědci - Lidovky.cz",
-      "url": "https://www.lidovky.cz/nazory/romove-cigani-cikani-mensiny-rasismus-predsudky-zlocinnost-kradeze.A261002_140330_ln_nazory_lgs",
-      "source": "Lidovky.cz",
-      "snippet": "Poslední slovo: Neviděl jsem ho, tak byl černý. Když předsudkům podléhají i vědci Lidovky.cz",
-      "published": "Fri, 02 Oct 2026 18:00:00 GMT",
+      "title": "Janulíková se odvolává na Manipulátoři.cz. Kučerovu minulost jsme nevyvrátili - manipulatori.cz",
+      "url": "https://manipulatori.cz/janulikova-se-odvolava-na-manipulatori-cz-kucerovu-minulost-jsme-nevyvratili/",
+      "source": "manipulatori.cz",
+      "snippet": "Janulíková se odvolává na Manipulátoři.cz. Kučerovu minulost jsme nevyvrátili manipulatori.cz",
+      "published": "Sun, 04 Oct 2026 05:06:52 GMT",
       "lang": "cs"
     },
     {
-      "title": "Jan Bendig: Smáli se mému castingu. Nikdo nevěděl, že mám panickou ataku - Deník.cz",
-      "url": "https://www.denik.cz/o-zivote-zblizka/jan-bendig-smali-se-memu-castingu-nikdo-nevedel-ze-mam-panickou-ataku/?",
-      "source": "Deník.cz",
-      "snippet": "Jan Bendig: Smáli se mému castingu. Nikdo nevěděl, že mám panickou ataku Deník.cz",
-      "published": "Fri, 02 Oct 2026 04:25:00 GMT",
+      "title": "Napětí trvá, padají slova jako genocida či rasismus. Irové po dotazech izraelských novinářů předčasně ukončili tiskovku - Sport.cz",
+      "url": "https://www.sport.cz/clanek/fotbal-liga-narodu-napeti-trva-padaji-slova-jako-genocida-ci-rasismus-irove-po-dotazech-izraelskych-novinaru-predcasne-ukoncili-tiskovku-5547702",
+      "source": "Sport.cz",
+      "snippet": "Napětí trvá, padají slova jako genocida či rasismus. Irové po dotazech izraelských novinářů předčasně ukončili tiskovku Sport.cz",
+      "published": "Sat, 03 Oct 2026 15:57:29 GMT",
       "lang": "cs"
     },
     {
-      "title": "Pilotův útok byl terorismus. Doma měl zákaz létat pro extremismus? - Blesk.cz",
-      "url": "https://www.blesk.cz/clanek/zpravy-svet/849588/pilot-flydubai-co-zautocil-na-kolegu-doma-mel-zakaz-letat-pro-extremismus.html",
-      "source": "Blesk.cz",
-      "snippet": "Pilotův útok byl terorismus. Doma měl zákaz létat pro extremismus? Blesk.cz",
-      "published": "Sat, 03 Oct 2026 08:42:00 GMT",
+      "title": "Pět hvězd, které odešly z reprezentace po obřím skandálu - SportyŽivě",
+      "url": "https://sportyzive.cz/fotbal/pet-hvezd-ktere-odesly-z-reprezentace-po-obrim-skandalu/",
+      "source": "SportyŽivě",
+      "snippet": "Pět hvězd, které odešly z reprezentace po obřím skandálu SportyŽivě",
+      "published": "Sat, 03 Oct 2026 06:44:31 GMT",
       "lang": "cs"
     },
     {
-      "title": "Pilot Flydubai, co zaútočil na kolegu: Doma měl zákaz létat pro extremismus? - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1697116-pilot-flydubai-co-zautocil-na-kolegu-doma-mel-zakaz-letat-pro-extremismus-.html",
-      "source": "www.prahanadlani.cz",
-      "snippet": "Pilot Flydubai, co zaútočil na kolegu: Doma měl zákaz létat pro extremismus? www.prahanadlani.cz",
-      "published": "Sat, 03 Oct 2026 06:41:46 GMT",
+      "title": "Jak drahá bude superdávka: co naznačují první ucelená čísla - Echo24",
+      "url": "https://www.echo24.cz/a/H8Rdd/zpravy-domaci-nova-socialni-davka-superdavka-kolik-bude-stat-statni-rozpocet-co-naznacuji-prvni-cisla",
+      "source": "Echo24",
+      "snippet": "Jak drahá bude superdávka: co naznačují první ucelená čísla Echo24",
+      "published": "Sat, 03 Oct 2026 22:05:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Pilot z letu Flydubai, který chtěl způsobit havárii, měl v domovské zemi zákaz létání - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/pilot-air-dubai-havarie-oman-zakaz-letani-atentat.A261003_071058_zahranicni_dyn",
-      "source": "iDNES.cz",
-      "snippet": "Pilot z letu Flydubai, který chtěl způsobit havárii, měl v domovské zemi zákaz létání iDNES.cz",
-      "published": "Sat, 03 Oct 2026 05:20:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Halloween v ohrožení: Dýně sežral beran - Ahaonline.cz",
-      "url": "https://www.ahaonline.cz/clanek/musite-vedet/238053/halloween-v-ohrozeni-dyne-sezral-beran.html",
-      "source": "Ahaonline.cz",
-      "snippet": "Halloween v ohrožení: Dýně sežral beran Ahaonline.cz",
-      "published": "Fri, 02 Oct 2026 03:01:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Nová superdávka mění pravidla na Vysočině. Rozdíl mezi okresy je přes tři tisíce - Žďárský deník",
-      "url": "https://zdarsky.denik.cz/zpravy-region/superdavka-rozdeli-vysocinu-jihlavsko-ziska-zdarsko-si-pohorsi/",
-      "source": "Žďárský deník",
-      "snippet": "Nová superdávka mění pravidla na Vysočině. Rozdíl mezi okresy je přes tři tisíce Žďárský deník",
-      "published": "Thu, 01 Oct 2026 05:57:48 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Superdávka od října změnila parametry. Ministerstvo zmínilo, co je jinak - EuroZprávy.cz",
-      "url": "https://eurozpravy.cz/domaci/superdavka-od-rijna-zmenila-parametry-ministerstvo-zminilo-co-je-jinak.6278as4e",
-      "source": "EuroZprávy.cz",
-      "snippet": "Superdávka od října změnila parametry. Ministerstvo zmínilo, co je jinak EuroZprávy.cz",
-      "published": "Sat, 03 Oct 2026 06:27:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Den architektury provádí pražským sídlištěm i baťovskými domky - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/den-architektury-provadi-prazskym-sidlistem-i-batovskymi-domky-378187",
+      "title": "Účastníci Nedělní debaty hovořili o důchodech či sociálních dávkách - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-duchodech-ci-socialnich-davkach-378221",
       "source": "ČT24",
-      "snippet": "Den architektury provádí pražským sídlištěm i baťovskými domky ČT24",
-      "published": "Fri, 02 Oct 2026 18:07:38 GMT",
+      "snippet": "Účastníci Nedělní debaty hovořili o důchodech či sociálních dávkách ČT24",
+      "published": "Sun, 04 Oct 2026 12:04:58 GMT",
       "lang": "cs"
     },
     {
-      "title": "Bílovec založí bytové družstvo. V první etapě plánuje až 18 bytů - Ostravská Drbna",
-      "url": "https://ostravska.drbna.cz/spolecnost/901945-bilovec-na-novojicinsku-zalozi-druzstvo-ktere-bude-ve-meste-stavet-bytove.html",
-      "source": "Ostravská Drbna",
-      "snippet": "Bílovec založí bytové družstvo. V první etapě plánuje až 18 bytů Ostravská Drbna",
-      "published": "Sat, 03 Oct 2026 10:23:00 GMT",
+      "title": "Dostupné bydlení na Slovanech: Dům A5 na Světovaru nabízí nájem za 185 Kč za metr, staví se dalších 68 bytů - Plzen.cz",
+      "url": "https://www.plzen.cz/dostupne_bydleni_na_slovanech_dum_a5_na_svetovaru_nabizi_najem_za_185_kc_za_metr_stavi_se_dalsich_68_bytu",
+      "source": "Plzen.cz",
+      "snippet": "Dostupné bydlení na Slovanech: Dům A5 na Světovaru nabízí nájem za 185 Kč za metr, staví se dalších 68 bytů Plzen.cz",
+      "published": "Sun, 04 Oct 2026 05:41:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Do lůžek pro seniory investuje Česká spořitelna 11 mld. Kč - ZdraveZpravy.cz",
-      "url": "https://www.zdravezpravy.cz/2026/10/03/do-luzek-pro-seniory-investuje-ceska-sporitelna-11-mld-kc/",
-      "source": "ZdraveZpravy.cz",
-      "snippet": "Do lůžek pro seniory investuje Česká spořitelna 11 mld. Kč ZdraveZpravy.cz",
-      "published": "Sat, 03 Oct 2026 07:32:33 GMT",
+      "title": "Komunální volby 2026 v Pardubicích: ANO chce dostupné bydlení a parkovací domy - iDNES.cz",
+      "url": "https://www.idnes.cz/volby/pardubice/komunalni-volby-2026-jan-nadrchal-lidr-ano.A261002_144028_pardubice-volby_lank",
+      "source": "iDNES.cz",
+      "snippet": "Komunální volby 2026 v Pardubicích: ANO chce dostupné bydlení a parkovací domy iDNES.cz",
+      "published": "Sun, 04 Oct 2026 06:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Pomůže Pražské developerské společnosti víc peněz, nebo jí čeká zrušení? O jejím osudu rozhodnou volby - irozhlas.cz",
-      "url": "https://www.irozhlas.cz/zpravy-domov/volby-urci-dalsi-osud-prazske-developerske-spolecnosti-nazory-na-jeji-praci-se_2610030500_jgr",
-      "source": "irozhlas.cz",
-      "snippet": "Pomůže Pražské developerské společnosti víc peněz, nebo jí čeká zrušení? O jejím osudu rozhodnou volby irozhlas.cz",
-      "published": "Sat, 03 Oct 2026 03:00:00 GMT",
+      "title": "Odborníci: Bydlení může po volbách zhoršit nižší výstavba nebo rozprodej bytů - ceskenoviny.cz",
+      "url": "https://www.ceskenoviny.cz/zpravy/2882719",
+      "source": "ceskenoviny.cz",
+      "snippet": "Odborníci: Bydlení může po volbách zhoršit nižší výstavba nebo rozprodej bytů ceskenoviny.cz",
+      "published": "Sun, 04 Oct 2026 05:50:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Spekulanti s byty vyhodili babičku na ulici. Španělsko povstalo, na obzoru je stávka i volby - Deník N",
+      "url": "https://denikn.cz/2204281/spekulanti-s-byty-vyhodili-babicku-na-ulici-spanelsko-povstalo-na-obzoru-je-stavka-i-volby/?ref=n3_sticker",
+      "source": "Deník N",
+      "snippet": "Spekulanti s byty vyhodili babičku na ulici. Španělsko povstalo, na obzoru je stávka i volby Deník N",
+      "published": "Sun, 04 Oct 2026 11:57:59 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Lídr hnutí ANO Viktor Lavička: Budějovice potřebují méně slibů a více konkrétní práce - Budějcká Drbna",
+      "url": "https://budejcka.drbna.cz/spolecnost/901068-lidr-hnuti-ano-viktor-lavicka-budejovice-potrebuji-mene-slibu-a-vice-konkretni-prace.html",
+      "source": "Budějcká Drbna",
+      "snippet": "Lídr hnutí ANO Viktor Lavička: Budějovice potřebují méně slibů a více konkrétní práce Budějcká Drbna",
+      "published": "Sat, 03 Oct 2026 12:50:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Chceme nakopnout stavbu městských bytů, říká lídr libereckých Pirátů - iDNES.cz",
+      "url": "https://www.idnes.cz/volby/liberec/komunalni-volby-rozhovor-lidr-pirati-jan-hruska.A261002_145233_liberec-volby_jape",
+      "source": "iDNES.cz",
+      "snippet": "Chceme nakopnout stavbu městských bytů, říká lídr libereckých Pirátů iDNES.cz",
+      "published": "Sat, 03 Oct 2026 06:13:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Třináctero zřizovatele pro podporu růstu žáků i celé komunity - EDUin",
+      "url": "https://www.eduin.cz/clanky/trinactero-zrizovatele/",
+      "source": "EDUin",
+      "snippet": "Třináctero zřizovatele pro podporu růstu žáků i celé komunity EDUin",
+      "published": "Fri, 02 Oct 2026 18:12:27 GMT",
       "lang": "cs"
     }
   ]

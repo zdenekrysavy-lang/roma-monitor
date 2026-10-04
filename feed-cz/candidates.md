@@ -1,51 +1,51 @@
-# Kandidáti — 2026-10-03T12:04:32+00:00 (12 položek)
+# Kandidáti — 2026-10-04T12:53:15+00:00 (12 položek)
 
-_Zdroje: Google News 68 · GDELT 0 (disabled) · feedy 3 · watch 0_
+_Zdroje: Google News 60 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Poslední slovo: Neviděl jsem ho, tak byl černý. Když předsudkům podléhají i vědci - Lidovky.cz** — Lidovky.cz [cs]
-   https://www.lidovky.cz/nazory/romove-cigani-cikani-mensiny-rasismus-predsudky-zlocinnost-kradeze.A261002_140330_ln_nazory_lgs
-   Poslední slovo: Neviděl jsem ho, tak byl černý. Když předsudkům podléhají i vědci Lidovky.cz
+1. **Janulíková se odvolává na Manipulátoři.cz. Kučerovu minulost jsme nevyvrátili - manipulatori.cz** — manipulatori.cz [cs]
+   https://manipulatori.cz/janulikova-se-odvolava-na-manipulatori-cz-kucerovu-minulost-jsme-nevyvratili/
+   Janulíková se odvolává na Manipulátoři.cz. Kučerovu minulost jsme nevyvrátili manipulatori.cz
 
-2. **Jan Bendig: Smáli se mému castingu. Nikdo nevěděl, že mám panickou ataku - Deník.cz** — Deník.cz [cs]
-   https://www.denik.cz/o-zivote-zblizka/jan-bendig-smali-se-memu-castingu-nikdo-nevedel-ze-mam-panickou-ataku/?
-   Jan Bendig: Smáli se mému castingu. Nikdo nevěděl, že mám panickou ataku Deník.cz
+2. **Napětí trvá, padají slova jako genocida či rasismus. Irové po dotazech izraelských novinářů předčasně ukončili tiskovku - Sport.cz** — Sport.cz [cs]
+   https://www.sport.cz/clanek/fotbal-liga-narodu-napeti-trva-padaji-slova-jako-genocida-ci-rasismus-irove-po-dotazech-izraelskych-novinaru-predcasne-ukoncili-tiskovku-5547702
+   Napětí trvá, padají slova jako genocida či rasismus. Irové po dotazech izraelských novinářů předčasně ukončili tiskovku Sport.cz
 
-3. **Pilotův útok byl terorismus. Doma měl zákaz létat pro extremismus? - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/clanek/zpravy-svet/849588/pilot-flydubai-co-zautocil-na-kolegu-doma-mel-zakaz-letat-pro-extremismus.html
-   Pilotův útok byl terorismus. Doma měl zákaz létat pro extremismus? Blesk.cz
+3. **Pět hvězd, které odešly z reprezentace po obřím skandálu - SportyŽivě** — SportyŽivě [cs]
+   https://sportyzive.cz/fotbal/pet-hvezd-ktere-odesly-z-reprezentace-po-obrim-skandalu/
+   Pět hvězd, které odešly z reprezentace po obřím skandálu SportyŽivě
 
-4. **Pilot Flydubai, co zaútočil na kolegu: Doma měl zákaz létat pro extremismus? - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1697116-pilot-flydubai-co-zautocil-na-kolegu-doma-mel-zakaz-letat-pro-extremismus-.html
-   Pilot Flydubai, co zaútočil na kolegu: Doma měl zákaz létat pro extremismus? www.prahanadlani.cz
+4. **Jak drahá bude superdávka: co naznačují první ucelená čísla - Echo24** — Echo24 [cs]
+   https://www.echo24.cz/a/H8Rdd/zpravy-domaci-nova-socialni-davka-superdavka-kolik-bude-stat-statni-rozpocet-co-naznacuji-prvni-cisla
+   Jak drahá bude superdávka: co naznačují první ucelená čísla Echo24
 
-5. **Pilot z letu Flydubai, který chtěl způsobit havárii, měl v domovské zemi zákaz létání - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/pilot-air-dubai-havarie-oman-zakaz-letani-atentat.A261003_071058_zahranicni_dyn
-   Pilot z letu Flydubai, který chtěl způsobit havárii, měl v domovské zemi zákaz létání iDNES.cz
+5. **Účastníci Nedělní debaty hovořili o důchodech či sociálních dávkách - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-duchodech-ci-socialnich-davkach-378221
+   Účastníci Nedělní debaty hovořili o důchodech či sociálních dávkách ČT24
 
-6. **Halloween v ohrožení: Dýně sežral beran - Ahaonline.cz** — Ahaonline.cz [cs]
-   https://www.ahaonline.cz/clanek/musite-vedet/238053/halloween-v-ohrozeni-dyne-sezral-beran.html
-   Halloween v ohrožení: Dýně sežral beran Ahaonline.cz
+6. **Dostupné bydlení na Slovanech: Dům A5 na Světovaru nabízí nájem za 185 Kč za metr, staví se dalších 68 bytů - Plzen.cz** — Plzen.cz [cs]
+   https://www.plzen.cz/dostupne_bydleni_na_slovanech_dum_a5_na_svetovaru_nabizi_najem_za_185_kc_za_metr_stavi_se_dalsich_68_bytu
+   Dostupné bydlení na Slovanech: Dům A5 na Světovaru nabízí nájem za 185 Kč za metr, staví se dalších 68 bytů Plzen.cz
 
-7. **Nová superdávka mění pravidla na Vysočině. Rozdíl mezi okresy je přes tři tisíce - Žďárský deník** — Žďárský deník [cs]
-   https://zdarsky.denik.cz/zpravy-region/superdavka-rozdeli-vysocinu-jihlavsko-ziska-zdarsko-si-pohorsi/
-   Nová superdávka mění pravidla na Vysočině. Rozdíl mezi okresy je přes tři tisíce Žďárský deník
+7. **Komunální volby 2026 v Pardubicích: ANO chce dostupné bydlení a parkovací domy - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/volby/pardubice/komunalni-volby-2026-jan-nadrchal-lidr-ano.A261002_144028_pardubice-volby_lank
+   Komunální volby 2026 v Pardubicích: ANO chce dostupné bydlení a parkovací domy iDNES.cz
 
-8. **Superdávka od října změnila parametry. Ministerstvo zmínilo, co je jinak - EuroZprávy.cz** — EuroZprávy.cz [cs]
-   https://eurozpravy.cz/domaci/superdavka-od-rijna-zmenila-parametry-ministerstvo-zminilo-co-je-jinak.6278as4e
-   Superdávka od října změnila parametry. Ministerstvo zmínilo, co je jinak EuroZprávy.cz
+8. **Odborníci: Bydlení může po volbách zhoršit nižší výstavba nebo rozprodej bytů - ceskenoviny.cz** — ceskenoviny.cz [cs]
+   https://www.ceskenoviny.cz/zpravy/2882719
+   Odborníci: Bydlení může po volbách zhoršit nižší výstavba nebo rozprodej bytů ceskenoviny.cz
 
-9. **Den architektury provádí pražským sídlištěm i baťovskými domky - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/kultura/den-architektury-provadi-prazskym-sidlistem-i-batovskymi-domky-378187
-   Den architektury provádí pražským sídlištěm i baťovskými domky ČT24
+9. **Spekulanti s byty vyhodili babičku na ulici. Španělsko povstalo, na obzoru je stávka i volby - Deník N** — Deník N [cs]
+   https://denikn.cz/2204281/spekulanti-s-byty-vyhodili-babicku-na-ulici-spanelsko-povstalo-na-obzoru-je-stavka-i-volby/?ref=n3_sticker
+   Spekulanti s byty vyhodili babičku na ulici. Španělsko povstalo, na obzoru je stávka i volby Deník N
 
-10. **Bílovec založí bytové družstvo. V první etapě plánuje až 18 bytů - Ostravská Drbna** — Ostravská Drbna [cs]
-   https://ostravska.drbna.cz/spolecnost/901945-bilovec-na-novojicinsku-zalozi-druzstvo-ktere-bude-ve-meste-stavet-bytove.html
-   Bílovec založí bytové družstvo. V první etapě plánuje až 18 bytů Ostravská Drbna
+10. **Lídr hnutí ANO Viktor Lavička: Budějovice potřebují méně slibů a více konkrétní práce - Budějcká Drbna** — Budějcká Drbna [cs]
+   https://budejcka.drbna.cz/spolecnost/901068-lidr-hnuti-ano-viktor-lavicka-budejovice-potrebuji-mene-slibu-a-vice-konkretni-prace.html
+   Lídr hnutí ANO Viktor Lavička: Budějovice potřebují méně slibů a více konkrétní práce Budějcká Drbna
 
-11. **Do lůžek pro seniory investuje Česká spořitelna 11 mld. Kč - ZdraveZpravy.cz** — ZdraveZpravy.cz [cs]
-   https://www.zdravezpravy.cz/2026/10/03/do-luzek-pro-seniory-investuje-ceska-sporitelna-11-mld-kc/
-   Do lůžek pro seniory investuje Česká spořitelna 11 mld. Kč ZdraveZpravy.cz
+11. **Chceme nakopnout stavbu městských bytů, říká lídr libereckých Pirátů - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/volby/liberec/komunalni-volby-rozhovor-lidr-pirati-jan-hruska.A261002_145233_liberec-volby_jape
+   Chceme nakopnout stavbu městských bytů, říká lídr libereckých Pirátů iDNES.cz
 
-12. **Pomůže Pražské developerské společnosti víc peněz, nebo jí čeká zrušení? O jejím osudu rozhodnou volby - irozhlas.cz** — irozhlas.cz [cs]
-   https://www.irozhlas.cz/zpravy-domov/volby-urci-dalsi-osud-prazske-developerske-spolecnosti-nazory-na-jeji-praci-se_2610030500_jgr
-   Pomůže Pražské developerské společnosti víc peněz, nebo jí čeká zrušení? O jejím osudu rozhodnou volby irozhlas.cz
+12. **Třináctero zřizovatele pro podporu růstu žáků i celé komunity - EDUin** — EDUin [cs]
+   https://www.eduin.cz/clanky/trinactero-zrizovatele/
+   Třináctero zřizovatele pro podporu růstu žáků i celé komunity EDUin
