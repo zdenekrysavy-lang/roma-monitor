@@ -1,71 +1,55 @@
-# Kandidáti — 2026-10-05T15:18:57+00:00 (17 položek)
+# Kandidáti — 2026-10-06T13:39:41+00:00 (13 položek)
 
-_Zdroje: Google News 51 · GDELT 0 (disabled) · feedy 0 · watch 1_
+_Zdroje: Google News 50 · GDELT 0 (disabled) · feedy 0 · watch 1_
 
-1. **Vybrat školu je jen začátek. Mentor pomáhá studentům zvládnout i problémy během studia - Radiožurnál** — Radiožurnál [cs]
-   https://radiozurnal.rozhlas.cz/vybrat-skolu-je-jen-zacatek-mentor-pomaha-studentum-zvladnout-i-problemy-behem-9647663
-   Vybrat školu je jen začátek. Mentor pomáhá studentům zvládnout i problémy během studia Radiožurnál
+1. **Pompa, Pompová, Ondič. V obci mají romskou kandidátku, s nápadem přišel farář - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/volby/olomouc/komunalni-volby-2026-prerovsko-merovice-romove-kandidatka.A261005_160856_ostrava-sport_hava
+   Pompa, Pompová, Ondič. V obci mají romskou kandidátku, s nápadem přišel farář iDNES.cz
 
-2. **O Roma vakeren s Ivetou Demeterovou - Radiožurnál** — Radiožurnál [cs]
-   https://radiozurnal.rozhlas.cz/o-roma-vakeren-s-ivetou-demeterovou-9647471?utm_campaign=hp_feed&utm_medium=seznam_distribuce&utm_source=www.seznam.cz
-   O Roma vakeren s Ivetou Demeterovou Radiožurnál
+2. **Bývalá parťačka Siniakové čelí útokům. Gauffová se stala terčem rasismu - denik.cz** — denik.cz [cs]
+   https://www.denik.cz/tenis/coco-gauffova-rasismus-peking-nadavky-reklama-sun-sin-zan-socialni-site
+   Bývalá parťačka Siniakové čelí útokům. Gauffová se stala terčem rasismu denik.cz
 
-3. **Britští Zelení označili sionismus za rasismus. Izrael zakázal jejich lídrovi vstup do země - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/zahranicni-evropa-britsti-zeleni-oznacili-sionismus-za-rasismus-izrael-zakazal-jejich-lidrovi-vstup-do-zeme-40600802
-   Britští Zelení označili sionismus za rasismus. Izrael zakázal jejich lídrovi vstup do země Novinky
-
-4. **Kvůli Palestině se britští Zelení rozhodli pro novou definici. Sionismus uznali za novou formou rasismu - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/kvuli-palestine-se-britsti-zeleni-rozhodli-pro-novou-definici-sionismus-uznali_2610042151_brz
-   Kvůli Palestině se britští Zelení rozhodli pro novou definici. Sionismus uznali za novou formou rasismu iROZHLAS
-
-5. **Sionismus se rovná čistkám a genocidě, rozhodli angličtí zelení. Izrael reagoval - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/britsti-zeleni-prijali-rezoluci-oznacujici-sionismus-za-formu-rasismu.A261005_085214_zahranicni_rtn
-   Sionismus se rovná čistkám a genocidě, rozhodli angličtí zelení. Izrael reagoval iDNES.cz
-
-6. **Jako novinářku specializující se na korporátní témata mě rezoluce britských zelených, že „sionismus je rasismus“, rozčiluje více než genocida. A tady je důvod... - Britské listy** — Britské listy [cs]
-   https://blisty.cz/art/136529-jako-novinarku-specializujici-se-na-korporatni-temata-me-rezoluce-britskych-zelenych-ze-sionismus-je-rasismus-rozciluje-vice-nez-genocida-a-tady-je-duvod
+3. **Jako novinářku specializující se na korporátní témata mě rezoluce britských zelených, že „sionismus je rasismus“, rozčiluje více než genocida. A tady je důvod... - Britské listy** — Britské listy [cs]
+   https://blisty.cz/art/136529-jako-novinarku-specializujici-se-na-korporatni-temata-me-rezoluce-britskych-zelenych-ze-sionismus-je-rasismus-rozciluje-vice-nez-genocida-a-tady-je-duvod.html
    Jako novinářku specializující se na korporátní témata mě rezoluce britských zelených, že „sionismus je rasismus“, rozčiluje více než genocida. A tady je důvod... Britské listy
 
-7. **Superdávka se od října mění: 3 věci, které mohou ovlivnit domácnost – Z kraje - Plzen.cz** — Plzen.cz [cs]
-   https://www.plzen.cz/superdavka_se_od_rijna_meni_3_veci_ktere_mohou_ovlivnit_domacnost
-   Superdávka se od října mění: 3 věci, které mohou ovlivnit domácnost – Z kraje Plzen.cz
+4. **Nejsem podvodnice. Gauffová čelí po sporné výměně vlně rasismu - iSport.cz** — iSport.cz [cs]
+   https://isport.blesk.cz/clanek/tenis/480639/gauffova-celi-kvuli-spornemu-momentu-nenavisti-silene-mnozstvi-rasistickych-zprav.html
+   Nejsem podvodnice. Gauffová čelí po sporné výměně vlně rasismu iSport.cz
 
-8. **„Já mám starou Fabii a na dávku nedosáhnu, soused s drahým autem ano.“ Pravidla superdávky přinášejí nečekaný paradox - TVGURU.cz** — TVGURU.cz [cs]
-   https://www.tvguru.cz/pravidla-superdavky-prinaseji-necekany-paradox/
-   „Já mám starou Fabii a na dávku nedosáhnu, soused s drahým autem ano.“ Pravidla superdávky přinášejí nečekaný paradox TVGURU.cz
+5. **Nejsem žádná zlodějka, hájí se Gauffová. Její chování spustilo smršť urážek - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1701055-nejsem-zadna-zlodejka-haji-se-gauffova-jeji-chovani-spustilo-smrst-urazek.html
+   Nejsem žádná zlodějka, hájí se Gauffová. Její chování spustilo smršť urážek www.prahanadlani.cz
 
-9. **Životní minimum se zvýšilo. Na porodné dosáhne více rodin, změny jsou i u superdávky - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/ekonomika-zivotni-minimum-se-zvysilo-na-porodne-dosahne-vice-rodin-zmeny-jsou-i-u-superdavky-40600504
-   Životní minimum se zvýšilo. Na porodné dosáhne více rodin, změny jsou i u superdávky Novinky
+6. **Gauffová čelí kvůli spornému momentu nenávisti: Šílené množství rasistických zpráv! - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1701006-gauffova-celi-kvuli-spornemu-momentu-nenavisti-silene-mnozstvi-rasistickych-zprav-.html
+   Gauffová čelí kvůli spornému momentu nenávisti: Šílené množství rasistických zpráv! www.prahanadlani.cz
 
-10. **„Chodím do práce, přesto beru superdávku.“ Práce není překážkou, systém ji dokonce štědře odměňuje - TVGURU.cz** — TVGURU.cz [cs]
-   https://www.tvguru.cz/pracovni-bonus-superdavka-2026/
-   „Chodím do práce, přesto beru superdávku.“ Práce není překážkou, systém ji dokonce štědře odměňuje TVGURU.cz
+7. **Skvělá generálka na Dakar! Martin Šoltys byl třetí v náročné Rallye du Maroc - Stream.cz** — Stream.cz [cs]
+   https://www.stream.cz/buggyra-rally-zavody/skvela-generalka-na-dakar-martin-soltys-byl-treti-v-narocne-rallye-du-maroc-65587383
+   Skvělá generálka na Dakar! Martin Šoltys byl třetí v náročné Rallye du Maroc Stream.cz
 
-11. **Senior v Brně při vykopávání pařezu narazil na minometný granát - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/krimi-9237/senior-v-brne-pri-vykopavani-parezu-narazil-na-minometny-granat-65586693
-   Senior v Brně při vykopávání pařezu narazil na minometný granát Stream.cz
+8. **MPSV mění superdávku, od října posiluje podporu samoživitelů - Karlovarská Drbna** — Karlovarská Drbna [cs]
+   https://karlovarska.drbna.cz/spolecnost/902105-mpsv-meni-superdavku-od-rijna-posiluje-podporu-samozivitelu.html
+   MPSV mění superdávku, od října posiluje podporu samoživitelů Karlovarská Drbna
 
-12. **Sto šedesát na devadesátce je fakt hodně, řekl policista a vystartoval za audinou - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/domaci-9257/sto-sedesat-na-devadesatce-je-fakt-hodne-rekl-policista-a-vystartoval-za-audinou-65586081
-   Sto šedesát na devadesátce je fakt hodně, řekl policista a vystartoval za audinou Stream.cz
+9. **Jako z Addamsovy rodiny! Takhle Tuňák ještě do společnosti nedorazil. Lak na nehtech si nemohl vynachválit - Stream.cz** — Stream.cz [cs]
+   https://www.stream.cz/super-cz/jako-z-addamsovy-rodiny-takhle-tunak-jeste-do-spolecnosti-nedorazil-lak-na-nehtech-si-nemohl-vynachvalit-65586657
+   Jako z Addamsovy rodiny! Takhle Tuňák ještě do společnosti nedorazil. Lak na nehtech si nemohl vynachválit Stream.cz
 
-13. **20 tisíc bytů jako hotely: Piráti vyšli do ulic a požadují tvrdší regulaci ubytovacích platforem - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/clanek/komentare/138527/pirati-cinkali-klici-pro-dostupne-bydleni-praze-uz-muze-pomoct-jen-rychla-akce.html
-   20 tisíc bytů jako hotely: Piráti vyšli do ulic a požadují tvrdší regulaci ubytovacích platforem Reflex.cz
+10. **FOTO: Protest za dostupné bydlení skončil v Barceloně plameny v ulicích a střety s policií - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/zahranicni-evropa-foto-protest-za-dostupne-bydleni-skoncil-v-barcelone-plameny-v-ulicich-a-strety-s-policii-40600980
+   FOTO: Protest za dostupné bydlení skončil v Barceloně plameny v ulicích a střety s policií Novinky
 
-14. **Volby 2026 v Hodoníně: dostupné bydlení jako (ne)důležité téma kandidátů - Hodonínský deník** — Hodonínský deník [cs]
-   https://hodoninsky.denik.cz/komunalni-volby/nove-mestske-bydleni-dostupne-hodonin-volby/
-   Volby 2026 v Hodoníně: dostupné bydlení jako (ne)důležité téma kandidátů Hodonínský deník
+11. **Dostupné bydlení má zajistit město, míní Erbsová. Cílí na komunitu a mladé rodiny - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/volby/hradec-kralove/martina-erbsova-komunalni-volby-2026-lidryne-zeleni-hradec.A261006_971903_hradec-zpravy_the
+   Dostupné bydlení má zajistit město, míní Erbsová. Cílí na komunitu a mladé rodiny iDNES.cz
 
-15. **Piráti prošli Prahou za dostupné bydlení: Teď jde o klíče, volím bydlení - pirati.cz** — pirati.cz [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/pirati-prosli-prahou-za-dostupne-bydleni-ted-jde-o-klice-volim-bydleni/
-   Piráti prošli Prahou za dostupné bydlení: Teď jde o klíče, volím bydlení pirati.cz
+12. **Bezpečné ulice a dostupné bydlení i zdravotnictví. Poslankyně Pošarová o prioritách SPD pro obce - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
+   https://www.parlamentnilisty.cz/arena/rozhovory/Bezpecne-ulice-a-dostupne-bydleni-i-zdravotnictvi-Poslankyne-Posarova-o-prioritach-SPD-pro-obce-797735
+   Bezpečné ulice a dostupné bydlení i zdravotnictví. Poslankyně Pošarová o prioritách SPD pro obce ParlamentniListy.cz
 
-16. **Diskuze: Piráti cinkali klíči pro dostupné bydlení. Praze už může pomoct jen rychlá akce - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/diskuse/1372988/1
-   Diskuze: Piráti cinkali klíči pro dostupné bydlení. Praze už může pomoct jen rychlá akce Reflex.cz
-
-17. **Odborníci: Bydlení může po volbách zhoršit nižší výstavba nebo rozprodej bytů - Brňan** — Brňan [cs]
-   https://www.brnan.cz/udalosti/odbornici-bydleni-muze-po-volbach-zhorsit-nizsi-vystavba-nebo-rozprodej-bytu
-   Odborníci: Bydlení může po volbách zhoršit nižší výstavba nebo rozprodej bytů Brňan
+13. **Česko má nejhůře dostupné bydlení v EU. Na byt je potřeba 13,3 ročního platu - Hrot24.cz** — Hrot24.cz [cs]
+   https://www.tydenikhrot.cz/clanek/cesko-dostupnost-bydleni-eu-13-3-rocniho-platu-HWsY5
+   Česko má nejhůře dostupné bydlení v EU. Na byt je potřeba 13,3 ročního platu Hrot24.cz
