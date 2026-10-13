@@ -1,75 +1,35 @@
-# Kandidáti — 2026-10-12T16:10:16+00:00 (18 položek)
+# Kandidáti — 2026-10-13T14:36:43+00:00 (8 položek)
 
-_Zdroje: Google News 48 · GDELT 0 (disabled) · feedy 1 · watch 1_
+_Zdroje: Google News 54 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Výsledky voleb 2026: Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta Měrovic - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/volby/olomouc/merovice-romove-pompova-kdu-csl-komunalni-volby-2026.A261012_112954_olomouc-volby_hava
-   Výsledky voleb 2026: Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta Měrovic iDNES.cz
+1. **David Tišer: Romové už nechtějí být jen postavami ve filmech. Chtějí vyprávět vlastní příběhy - Deník Referendum** — Deník Referendum [cs]
+   https://denikreferendum.cz/clanek/239452-romove-uz-nechteji-byt-jen-postavami-ve-filmech-chteji-vypravet-vlastni-pribehy
+   David Tišer: Romové už nechtějí být jen postavami ve filmech. Chtějí vyprávět vlastní příběhy Deník Referendum
 
-2. **Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1708752-ryze-romska-kandidatka-uspela-hlavne-at-se-nehadame-preje-si-starosta.html
-   Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta www.prahanadlani.cz
+2. **Příběhy Romů, kteří za 2. světové války bojovali proti nacismu, přibližuje výstava Muzea romského národního obrození - Radiožurnál** — Radiožurnál [cs]
+   https://radiozurnal.rozhlas.cz/pribehy-romu-kteri-za-2-svetove-valky-bojovali-proti-nacismu-priblizuje-vystava-9649642
+   Příběhy Romů, kteří za 2. světové války bojovali proti nacismu, přibližuje výstava Muzea romského národního obrození Radiožurnál
 
-3. **Od Mosleyho k Polanskému. Pád extremismu - INFO.CZ** — INFO.CZ [cs]
-   https://www.info.cz/zpravodajstvi-a-komentare/britanie-zeleni-polanski-mosley-cable-street-antisemitismus
-   Od Mosleyho k Polanskému. Pád extremismu INFO.CZ
+3. **Rasistický útok u Kubánského náměstí?! „Černá sv*ně,“ řekl prý muž ženě tmavé pleti a napadl ji - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/clanek/regiony-praha-praha-krimi/850325/rasisticky-utok-u-kubanskeho-namesti-cerna-sv-ne-rekl-pry-muz-zene-tmave-pleti-a-napadl-ji.html
+   Rasistický útok u Kubánského náměstí?! „Černá sv*ně,“ řekl prý muž ženě tmavé pleti a napadl ji Blesk.cz
 
-4. **Chceme lepší školy, ne jejich trosky. Čech studující ve Francii píše o protestech - VOXPOT** — VOXPOT [cs]
-   https://www.voxpot.cz/clanky/chceme-lepsi-skoly-ne-jejich-trosky-cech-studujici-ve-francii-pise-o-protestech
-   Chceme lepší školy, ne jejich trosky. Čech studující ve Francii píše o protestech VOXPOT
+4. **Vrať se do své země. Rasista zaútočil na ženu kvůli barvě pleti, je to Češka - Pražská Drbna** — Pražská Drbna [cs]
+   https://prazska.drbna.cz/krimi/902909-vrat-se-do-sve-zeme-rasista-zautocil-na-zenu-kvuli-barve-pleti-je-to-ceska.html
+   Vrať se do své země. Rasista zaútočil na ženu kvůli barvě pleti, je to Češka Pražská Drbna
 
-5. **Jakub Patočka: Lidé ve městech odmítli nejen ANO, ale i ODS. STAN i lidovci by to měli vnímat - Deník Referendum** — Deník Referendum [cs]
-   https://denikreferendum.cz/clanek/239444-lide-ve-mestech-odmitli-nejen-ano-ale-i-ods-stan-i-lidovci-by-to-meli-vnimat
-   Jakub Patočka: Lidé ve městech odmítli nejen ANO, ale i ODS. STAN i lidovci by to měli vnímat Deník Referendum
+5. **Grok jako výrobní linka na extremismus: Muskův chatbot dokáže popírat holokaust i vyzývat k vraždění - Page Not Found** — Page Not Found [cs]
+   https://pagenotfound.cz/clanek/grok-jako-vyrobni-linka-na-extremismus-muskuv-chatbot-dokaze-popirat-holokaust-i-vyzyvat-k-vrazdeni
+   Grok jako výrobní linka na extremismus: Muskův chatbot dokáže popírat holokaust i vyzývat k vraždění Page Not Found
 
-6. **Memy jsou zbraní v informační válce, říká expert - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/svet/memy-jsou-zbrani-v-informacni-valce-rika-expert-378501
-   Memy jsou zbraní v informační válce, říká expert ČT24
+6. **Česko-francouzský politolog Rupnik: Le Pen prolomila hranici, za niž pravicoví voliči dříve nešli - Deník N** — Deník N [cs]
+   https://denikn.cz/2217586/cesko-francouzsky-politolog-rupnik-le-pen-prolomila-hranici-za-niz-pravicovi-volici-drive-nesli/
+   Česko-francouzský politolog Rupnik: Le Pen prolomila hranici, za niž pravicoví voliči dříve nešli Deník N
 
-7. **Sorosovce obchází hrůza: Trump rozjel akci, týká se i ČR - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
-   https://www.parlamentnilisty.cz/arena/monitor/Sorosovce-obchazi-hruza-Trump-rozjel-akci-tyka-se-i-CR-798077
-   Sorosovce obchází hrůza: Trump rozjel akci, týká se i ČR ParlamentniListy.cz
+7. **Na ulici je asi 1 500 mladých. Kvůli bytové krizi jich ale může přibývat - Radio Wave** — Radio Wave [cs]
+   https://wave.rozhlas.cz/na-ulici-je-asi-1-500-mladych-kvuli-bytove-krizi-jich-ale-muze-pribyvat-9649565
+   Na ulici je asi 1 500 mladých. Kvůli bytové krizi jich ale může přibývat Radio Wave
 
-8. **Martin Fendrych: Kde bydlíme, má velký vliv na to, jak jsme zdraví, jak se hýbeme a kolika let se dožijeme - Český rozhlas Plus** — Český rozhlas Plus [cs]
-   https://plus.rozhlas.cz/martin-fendrych-kde-bydlime-ma-velky-vliv-na-jak-jsme-zdravi-jak-se-hybeme-a-9649194
-   Martin Fendrych: Kde bydlíme, má velký vliv na to, jak jsme zdraví, jak se hýbeme a kolika let se dožijeme Český rozhlas Plus
-
-9. **O jednorázovou sociální pomoc si zažádalo pětkrát více lidí než loni. Stojí za tím i superdávka - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/ekonomika-o-jednorazovou-socialni-pomoc-si-zazadalo-petkrat-vice-lidi-nez-loni-stoji-za-tim-i-superdavka-40601775
-   O jednorázovou sociální pomoc si zažádalo pětkrát více lidí než loni. Stojí za tím i superdávka Novinky
-
-10. **Superdávka se mění a bude dostupnější. Co je třeba splnit a proč může výši ovlivnit i jediný člen domácnosti - Echo24** — Echo24 [cs]
-   https://www.echo24.cz/a/HJZMa/zpravy-domaci-socialni-davky-nova-superdavka-zmeny-co-je-treba-splnit-kdo-muze-davku-ohrozit-staci-jeden-clovek
-   Superdávka se mění a bude dostupnější. Co je třeba splnit a proč může výši ovlivnit i jediný člen domácnosti Echo24
-
-11. **Změna superdávky se dotkla nejvíc okresů u Prahy a také Brna, ne vždy k lepšímu - Lidovky.cz** — Lidovky.cz [cs]
-   https://www.lidovky.cz/byznys/superdavka-nove-normativy-rozdil-praha-brno.A261006_081750_ln_ekonomika_paza
-   Změna superdávky se dotkla nejvíc okresů u Prahy a také Brna, ne vždy k lepšímu Lidovky.cz
-
-12. **Superdávka má od října nová pravidla. Tisíce Čechů mohou získat peníze, na které dříve neměli nárok - EnergoZrouti.cz** — EnergoZrouti.cz [cs]
-   https://energozrouti.cz/clanek/drive-vam-davku-zamitli-od-rijna-se-vyplati-pozadat-znovu-pravidla-se-zmenila
-   Superdávka má od října nová pravidla. Tisíce Čechů mohou získat peníze, na které dříve neměli nárok EnergoZrouti.cz
-
-13. **„Poslouchej, dívej se a mlč,“ připomněl Babiš heslo BIS. Koudelka před tím varoval před Ruskem - Echo24** — Echo24 [cs]
-   https://www.echo24.cz/a/HQ6Ei/zpravy-domaci-babis-pripominal-koudelkovi-heslo-bis-ten-varoval-pred-ruskem
-   „Poslouchej, dívej se a mlč,“ připomněl Babiš heslo BIS. Koudelka před tím varoval před Ruskem Echo24
-
-14. **Česko varuje před cestami do Saúdské Arábie, po útocích v Rijádu nedoporučuje ani tranzit - Echo24** — Echo24 [cs]
-   https://www.echo24.cz/a/HvVhY/zpravy-domaci-cesko-varuje-pred-cestami-do-saudske-arabie-po-utocich-v-rijadu-nedoporucuje-ani-tranzit
-   Česko varuje před cestami do Saúdské Arábie, po útocích v Rijádu nedoporučuje ani tranzit Echo24
-
-15. **Moskva i Kyjev hlásí desítky sestřelených dronů - Echo24** — Echo24 [cs]
-   https://www.echo24.cz/a/HH5Fm/zpravy-svet-moskva-i-kyjev-hlasi-desitky-sestrelenych-dronu-charkov-a-okoli-mrtvi-i-zraneni
-   Moskva i Kyjev hlásí desítky sestřelených dronů Echo24
-
-16. **Betonový nářez. Nejlepší obytná monstra Evropy, která lidé milují i nenávidí - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/bydleni/architektura/betonovy-narez-nejlepsi-obytna-monstra-evropy-ktera-lide-miluji-i-nenavidi.A260710_151513_architektura_dohr/foto
-   Betonový nářez. Nejlepší obytná monstra Evropy, která lidé milují i nenávidí iDNES.cz
-
-17. **Ještě před několika lety se na modulové domy mnozí dívali s nedůvěrou. Dnes se situace rychle mění - Dřevostavitel** — Dřevostavitel [cs]
-   https://www.drevostavitel.cz/clanek/moderni-dostupne-bydleni/132737
-   Ještě před několika lety se na modulové domy mnozí dívali s nedůvěrou. Dnes se situace rychle mění Dřevostavitel
-
-18. **bEDUin 33/2026: Dopadnou snahy o úspory na učitele? Vládní neshody nad přísností revize inkluze - EDUin** — EDUin [cs]
-   https://www.eduin.cz/clanky/beduin-33-2026/
-   bEDUin 33/2026: Dopadnou snahy o úspory na učitele? Vládní neshody nad přísností revize inkluze EDUin
+8. **SMS ČR se s ministryní Mrázovou dohodlo na pravidelném dialogu - Deník veřejné správy** — Deník veřejné správy [cs]
+   https://www.dvs.cz/clanek.asp?id=7129526
+   SMS ČR se s ministryní Mrázovou dohodlo na pravidelném dialogu Deník veřejné správy

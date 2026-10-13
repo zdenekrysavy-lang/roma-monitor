@@ -1,165 +1,85 @@
 {
-  "generated_utc": "2026-10-12T16:10:16+00:00",
-  "count": 18,
+  "generated_utc": "2026-10-13T14:36:43+00:00",
+  "count": 8,
   "sources": {
     "profile": "cz",
-    "google_news": 48,
+    "google_news": 54,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 1,
-    "watch": 1,
-    "before_dedup": 27,
-    "total": 23,
-    "skipped_seen": 5,
-    "gn_resolved": 18,
-    "gn_resolve_tried": 18,
+    "feeds": 0,
+    "watch": 0,
+    "before_dedup": 31,
+    "total": 25,
+    "skipped_seen": 17,
+    "gn_resolved": 8,
+    "gn_resolve_tried": 8,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Výsledky voleb 2026: Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta Měrovic - iDNES.cz",
-      "url": "https://www.idnes.cz/volby/olomouc/merovice-romove-pompova-kdu-csl-komunalni-volby-2026.A261012_112954_olomouc-volby_hava",
-      "source": "iDNES.cz",
-      "snippet": "Výsledky voleb 2026: Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta Měrovic iDNES.cz",
-      "published": "Mon, 12 Oct 2026 10:17:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta - www.prahanadlani.cz",
-      "url": "https://www.prahanadlani.cz/amp-clanek-zprava/1708752-ryze-romska-kandidatka-uspela-hlavne-at-se-nehadame-preje-si-starosta.html",
-      "source": "www.prahanadlani.cz",
-      "snippet": "Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta www.prahanadlani.cz",
-      "published": "Mon, 12 Oct 2026 10:35:09 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Od Mosleyho k Polanskému. Pád extremismu - INFO.CZ",
-      "url": "https://www.info.cz/zpravodajstvi-a-komentare/britanie-zeleni-polanski-mosley-cable-street-antisemitismus",
-      "source": "INFO.CZ",
-      "snippet": "Od Mosleyho k Polanskému. Pád extremismu INFO.CZ",
-      "published": "Mon, 12 Oct 2026 15:26:04 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Chceme lepší školy, ne jejich trosky. Čech studující ve Francii píše o protestech - VOXPOT",
-      "url": "https://www.voxpot.cz/clanky/chceme-lepsi-skoly-ne-jejich-trosky-cech-studujici-ve-francii-pise-o-protestech",
-      "source": "VOXPOT",
-      "snippet": "Chceme lepší školy, ne jejich trosky. Čech studující ve Francii píše o protestech VOXPOT",
-      "published": "Mon, 12 Oct 2026 11:40:26 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Jakub Patočka: Lidé ve městech odmítli nejen ANO, ale i ODS. STAN i lidovci by to měli vnímat - Deník Referendum",
-      "url": "https://denikreferendum.cz/clanek/239444-lide-ve-mestech-odmitli-nejen-ano-ale-i-ods-stan-i-lidovci-by-to-meli-vnimat",
+      "title": "David Tišer: Romové už nechtějí být jen postavami ve filmech. Chtějí vyprávět vlastní příběhy - Deník Referendum",
+      "url": "https://denikreferendum.cz/clanek/239452-romove-uz-nechteji-byt-jen-postavami-ve-filmech-chteji-vypravet-vlastni-pribehy",
       "source": "Deník Referendum",
-      "snippet": "Jakub Patočka: Lidé ve městech odmítli nejen ANO, ale i ODS. STAN i lidovci by to měli vnímat Deník Referendum",
-      "published": "Sun, 11 Oct 2026 19:23:08 GMT",
+      "snippet": "David Tišer: Romové už nechtějí být jen postavami ve filmech. Chtějí vyprávět vlastní příběhy Deník Referendum",
+      "published": "Tue, 13 Oct 2026 09:28:41 GMT",
       "lang": "cs"
     },
     {
-      "title": "Memy jsou zbraní v informační válce, říká expert - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/memy-jsou-zbrani-v-informacni-valce-rika-expert-378501",
-      "source": "ČT24",
-      "snippet": "Memy jsou zbraní v informační válce, říká expert ČT24",
-      "published": "Sun, 11 Oct 2026 06:00:00 GMT",
+      "title": "Příběhy Romů, kteří za 2. světové války bojovali proti nacismu, přibližuje výstava Muzea romského národního obrození - Radiožurnál",
+      "url": "https://radiozurnal.rozhlas.cz/pribehy-romu-kteri-za-2-svetove-valky-bojovali-proti-nacismu-priblizuje-vystava-9649642",
+      "source": "Radiožurnál",
+      "snippet": "Příběhy Romů, kteří za 2. světové války bojovali proti nacismu, přibližuje výstava Muzea romského národního obrození Radiožurnál",
+      "published": "Tue, 13 Oct 2026 13:35:09 GMT",
       "lang": "cs"
     },
     {
-      "title": "Sorosovce obchází hrůza: Trump rozjel akci, týká se i ČR - ParlamentniListy.cz",
-      "url": "https://www.parlamentnilisty.cz/arena/monitor/Sorosovce-obchazi-hruza-Trump-rozjel-akci-tyka-se-i-CR-798077",
-      "source": "ParlamentniListy.cz",
-      "snippet": "Sorosovce obchází hrůza: Trump rozjel akci, týká se i ČR ParlamentniListy.cz",
-      "published": "Mon, 12 Oct 2026 08:11:00 GMT",
+      "title": "Rasistický útok u Kubánského náměstí?! „Černá sv*ně,“ řekl prý muž ženě tmavé pleti a napadl ji - Blesk.cz",
+      "url": "https://www.blesk.cz/clanek/regiony-praha-praha-krimi/850325/rasisticky-utok-u-kubanskeho-namesti-cerna-sv-ne-rekl-pry-muz-zene-tmave-pleti-a-napadl-ji.html",
+      "source": "Blesk.cz",
+      "snippet": "Rasistický útok u Kubánského náměstí?! „Černá sv*ně,“ řekl prý muž ženě tmavé pleti a napadl ji Blesk.cz",
+      "published": "Tue, 13 Oct 2026 07:35:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Martin Fendrych: Kde bydlíme, má velký vliv na to, jak jsme zdraví, jak se hýbeme a kolika let se dožijeme - Český rozhlas Plus",
-      "url": "https://plus.rozhlas.cz/martin-fendrych-kde-bydlime-ma-velky-vliv-na-jak-jsme-zdravi-jak-se-hybeme-a-9649194",
-      "source": "Český rozhlas Plus",
-      "snippet": "Martin Fendrych: Kde bydlíme, má velký vliv na to, jak jsme zdraví, jak se hýbeme a kolika let se dožijeme Český rozhlas Plus",
-      "published": "Mon, 12 Oct 2026 13:06:39 GMT",
+      "title": "Vrať se do své země. Rasista zaútočil na ženu kvůli barvě pleti, je to Češka - Pražská Drbna",
+      "url": "https://prazska.drbna.cz/krimi/902909-vrat-se-do-sve-zeme-rasista-zautocil-na-zenu-kvuli-barve-pleti-je-to-ceska.html",
+      "source": "Pražská Drbna",
+      "snippet": "Vrať se do své země. Rasista zaútočil na ženu kvůli barvě pleti, je to Češka Pražská Drbna",
+      "published": "Tue, 13 Oct 2026 11:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "O jednorázovou sociální pomoc si zažádalo pětkrát více lidí než loni. Stojí za tím i superdávka - Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-o-jednorazovou-socialni-pomoc-si-zazadalo-petkrat-vice-lidi-nez-loni-stoji-za-tim-i-superdavka-40601775",
-      "source": "Novinky",
-      "snippet": "O jednorázovou sociální pomoc si zažádalo pětkrát více lidí než loni. Stojí za tím i superdávka Novinky",
-      "published": "Mon, 12 Oct 2026 08:38:37 GMT",
+      "title": "Grok jako výrobní linka na extremismus: Muskův chatbot dokáže popírat holokaust i vyzývat k vraždění - Page Not Found",
+      "url": "https://pagenotfound.cz/clanek/grok-jako-vyrobni-linka-na-extremismus-muskuv-chatbot-dokaze-popirat-holokaust-i-vyzyvat-k-vrazdeni",
+      "source": "Page Not Found",
+      "snippet": "Grok jako výrobní linka na extremismus: Muskův chatbot dokáže popírat holokaust i vyzývat k vraždění Page Not Found",
+      "published": "Tue, 13 Oct 2026 04:05:47 GMT",
       "lang": "cs"
     },
     {
-      "title": "Superdávka se mění a bude dostupnější. Co je třeba splnit a proč může výši ovlivnit i jediný člen domácnosti - Echo24",
-      "url": "https://www.echo24.cz/a/HJZMa/zpravy-domaci-socialni-davky-nova-superdavka-zmeny-co-je-treba-splnit-kdo-muze-davku-ohrozit-staci-jeden-clovek",
-      "source": "Echo24",
-      "snippet": "Superdávka se mění a bude dostupnější. Co je třeba splnit a proč může výši ovlivnit i jediný člen domácnosti Echo24",
-      "published": "Sun, 11 Oct 2026 22:03:00 GMT",
+      "title": "Česko-francouzský politolog Rupnik: Le Pen prolomila hranici, za niž pravicoví voliči dříve nešli - Deník N",
+      "url": "https://denikn.cz/2217586/cesko-francouzsky-politolog-rupnik-le-pen-prolomila-hranici-za-niz-pravicovi-volici-drive-nesli/",
+      "source": "Deník N",
+      "snippet": "Česko-francouzský politolog Rupnik: Le Pen prolomila hranici, za niž pravicoví voliči dříve nešli Deník N",
+      "published": "Tue, 13 Oct 2026 14:28:05 GMT",
       "lang": "cs"
     },
     {
-      "title": "Změna superdávky se dotkla nejvíc okresů u Prahy a také Brna, ne vždy k lepšímu - Lidovky.cz",
-      "url": "https://www.lidovky.cz/byznys/superdavka-nove-normativy-rozdil-praha-brno.A261006_081750_ln_ekonomika_paza",
-      "source": "Lidovky.cz",
-      "snippet": "Změna superdávky se dotkla nejvíc okresů u Prahy a také Brna, ne vždy k lepšímu Lidovky.cz",
-      "published": "Mon, 12 Oct 2026 04:33:00 GMT",
+      "title": "Na ulici je asi 1 500 mladých. Kvůli bytové krizi jich ale může přibývat - Radio Wave",
+      "url": "https://wave.rozhlas.cz/na-ulici-je-asi-1-500-mladych-kvuli-bytove-krizi-jich-ale-muze-pribyvat-9649565",
+      "source": "Radio Wave",
+      "snippet": "Na ulici je asi 1 500 mladých. Kvůli bytové krizi jich ale může přibývat Radio Wave",
+      "published": "Tue, 13 Oct 2026 10:58:16 GMT",
       "lang": "cs"
     },
     {
-      "title": "Superdávka má od října nová pravidla. Tisíce Čechů mohou získat peníze, na které dříve neměli nárok - EnergoZrouti.cz",
-      "url": "https://energozrouti.cz/clanek/drive-vam-davku-zamitli-od-rijna-se-vyplati-pozadat-znovu-pravidla-se-zmenila",
-      "source": "EnergoZrouti.cz",
-      "snippet": "Superdávka má od října nová pravidla. Tisíce Čechů mohou získat peníze, na které dříve neměli nárok EnergoZrouti.cz",
-      "published": "Mon, 12 Oct 2026 05:10:01 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Poslouchej, dívej se a mlč,“ připomněl Babiš heslo BIS. Koudelka před tím varoval před Ruskem - Echo24",
-      "url": "https://www.echo24.cz/a/HQ6Ei/zpravy-domaci-babis-pripominal-koudelkovi-heslo-bis-ten-varoval-pred-ruskem",
-      "source": "Echo24",
-      "snippet": "„Poslouchej, dívej se a mlč,“ připomněl Babiš heslo BIS. Koudelka před tím varoval před Ruskem Echo24",
-      "published": "Mon, 12 Oct 2026 12:44:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Česko varuje před cestami do Saúdské Arábie, po útocích v Rijádu nedoporučuje ani tranzit - Echo24",
-      "url": "https://www.echo24.cz/a/HvVhY/zpravy-domaci-cesko-varuje-pred-cestami-do-saudske-arabie-po-utocich-v-rijadu-nedoporucuje-ani-tranzit",
-      "source": "Echo24",
-      "snippet": "Česko varuje před cestami do Saúdské Arábie, po útocích v Rijádu nedoporučuje ani tranzit Echo24",
-      "published": "Mon, 12 Oct 2026 11:35:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Moskva i Kyjev hlásí desítky sestřelených dronů - Echo24",
-      "url": "https://www.echo24.cz/a/HH5Fm/zpravy-svet-moskva-i-kyjev-hlasi-desitky-sestrelenych-dronu-charkov-a-okoli-mrtvi-i-zraneni",
-      "source": "Echo24",
-      "snippet": "Moskva i Kyjev hlásí desítky sestřelených dronů Echo24",
-      "published": "Mon, 12 Oct 2026 08:14:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Betonový nářez. Nejlepší obytná monstra Evropy, která lidé milují i nenávidí - iDNES.cz",
-      "url": "https://www.idnes.cz/bydleni/architektura/betonovy-narez-nejlepsi-obytna-monstra-evropy-ktera-lide-miluji-i-nenavidi.A260710_151513_architektura_dohr/foto",
-      "source": "iDNES.cz",
-      "snippet": "Betonový nářez. Nejlepší obytná monstra Evropy, která lidé milují i nenávidí iDNES.cz",
-      "published": "Sun, 11 Oct 2026 22:01:20 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Ještě před několika lety se na modulové domy mnozí dívali s nedůvěrou. Dnes se situace rychle mění - Dřevostavitel",
-      "url": "https://www.drevostavitel.cz/clanek/moderni-dostupne-bydleni/132737",
-      "source": "Dřevostavitel",
-      "snippet": "Ještě před několika lety se na modulové domy mnozí dívali s nedůvěrou. Dnes se situace rychle mění Dřevostavitel",
-      "published": "Sat, 10 Oct 2026 10:50:31 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "bEDUin 33/2026: Dopadnou snahy o úspory na učitele? Vládní neshody nad přísností revize inkluze - EDUin",
-      "url": "https://www.eduin.cz/clanky/beduin-33-2026/",
-      "source": "EDUin",
-      "snippet": "bEDUin 33/2026: Dopadnou snahy o úspory na učitele? Vládní neshody nad přísností revize inkluze EDUin",
-      "published": "Mon, 12 Oct 2026 10:10:43 GMT",
+      "title": "SMS ČR se s ministryní Mrázovou dohodlo na pravidelném dialogu - Deník veřejné správy",
+      "url": "https://www.dvs.cz/clanek.asp?id=7129526",
+      "source": "Deník veřejné správy",
+      "snippet": "SMS ČR se s ministryní Mrázovou dohodlo na pravidelném dialogu Deník veřejné správy",
+      "published": "Mon, 12 Oct 2026 22:18:44 GMT",
       "lang": "cs"
     }
   ]
