@@ -1,63 +1,71 @@
-# Kandidáti — 2026-10-14T12:25:45+00:00 (15 položek)
+# Kandidáti — 2026-10-15T12:10:06+00:00 (17 položek)
 
-_Zdroje: Google News 55 · GDELT 0 (disabled) · feedy 0 · watch 0_
+_Zdroje: Google News 58 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Jaké je čelit předsudkům? Nová edukativní hra z dílny FaVU VUT pomáhá porozumět diskriminaci - Vysoké učení technické v Brně** — Vysoké učení technické v Brně [cs]
-   https://www.vut.cz/vut/aktuality-f19528/jake-je-celit-predsudkum-nova-edukativni-hra-z-dilny-favu-vut-pomaha-porozumet-diskriminaci-d373705
+1. **Obmění se vedení obcí? Do hry vstupují nováčci i ostřílení matadoři - Přerovský deník** — Přerovský deník [cs]
+   https://prerovsky.denik.cz/zpravy-region/obmeni-se-vedeni-obci-do-hry-vstupuji-novacci-i-ostrileni-matadori/
+   Obmění se vedení obcí? Do hry vstupují nováčci i ostřílení matadoři Přerovský deník
+
+2. **Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta - Rádio Impuls** — Rádio Impuls [cs]
+   https://www.impuls.cz/zpravy/regiony/olomoucky-kraj/merovice-romove-pompova-kdu-csl-komunalni-volby-2026/
+   Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta Rádio Impuls
+
+3. **Jaké je čelit předsudkům? Nová edukativní hra z dílny FaVU VUT pomáhá porozumět diskriminaci - Vysoké učení technické v Brně** — Vysoké učení technické v Brně [cs]
+   https://www.vut.cz/vut/media/tiskove-zpravy-f19527/jake-je-celit-predsudkum-nova-edukativni-hra-z-dilny-favu-vut-pomaha-porozumet-diskriminaci-d373612
    Jaké je čelit předsudkům? Nová edukativní hra z dílny FaVU VUT pomáhá porozumět diskriminaci Vysoké učení technické v Brně
 
-2. **Kontroverzní romský politik Cavali nadával do rodiny. Pak shrábnul 100 a dal Bendovi košem. Šampion - Sportwin.cz** — Sportwin.cz [cs]
-   https://sportwin.cz/clanek/61079-Kontroverzni-romsky-politik-Cavali-nadaval-do-rodiny-Pak-shrabnul-100-a-dal-Bendovi-kosem-Sampion-Clashe-promluvil.html
-   Kontroverzní romský politik Cavali nadával do rodiny. Pak shrábnul 100 a dal Bendovi košem. Šampion Sportwin.cz
+4. **Navzdory strachu (český dabing) – Lidská práva – Rasismus - JSNS** — JSNS [cs]
+   https://www.jsns.cz/lekce/2502575-navzdory-strachu-cesky-dabing
+   Navzdory strachu (český dabing) – Lidská práva – Rasismus JSNS
 
-3. **Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů - Brněnská Drbna** — Brněnská Drbna [cs]
-   https://brnenska.drbna.cz/vzdelani/903004-rasismus-v-obchode-i-boj-o-bydleni-studentska-hra-upozornuje-na-trapeni-romu.html
-   Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů Brněnská Drbna
+5. **Natalie Bergman: Jak Irena Kalhousová a Jakub Szantó manipulují obrazem dění v Palestině - Deník Referendum** — Deník Referendum [cs]
+   https://denikreferendum.cz/clanek/239465-jak-irena-kalhousova-a-jakub-szanto-manipuluji-obrazem-deni-v-palestine
+   Natalie Bergman: Jak Irena Kalhousová a Jakub Szantó manipulují obrazem dění v Palestině Deník Referendum
 
-4. **Náš vztah nezačal v Egyptě, odkud si mě přivezla, říká partner známé zpěvačky, který čelí rasistickým hejtům - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1708934-nas-vztah-nezacal-v%C2%A0egypte-odkud-si-me-privezla-rika-partner-zname-zpevacky-ktery-celi-rasistickym-hejtum.html
-   Náš vztah nezačal v Egyptě, odkud si mě přivezla, říká partner známé zpěvačky, který čelí rasistickým hejtům www.prahanadlani.cz
+6. **Krize bydlení zapálila Španělsko. Může z toho těžit krajní pravice? - VOXPOT** — VOXPOT [cs]
+   https://www.voxpot.cz/clanky/krize-bydleni-zapalila-spanelsko-muze-z-toho-tezit-krajni-pravice
+   Krize bydlení zapálila Španělsko. Může z toho těžit krajní pravice? VOXPOT
 
-5. **Ne pomoci Ukrajině, ano obchodu s Ruskem. Krajní pravice i levice chtějí ze zemské úrovně otočit německou zahraniční politiku - Hospodářské noviny** — Hospodářské noviny [cs]
-   https://zahranicni.hn.cz/c1-67945060-ne-pomoci-ukrajine-ano-obchodu-s-ruskem-krajni-pravice-i-levice-chteji-ze-zemske-urovne-otocit-nemeckou-zahranicni-politiku
-   Ne pomoci Ukrajině, ano obchodu s Ruskem. Krajní pravice i levice chtějí ze zemské úrovně otočit německou zahraniční politiku Hospodářské noviny
+7. **V Německu panuje ponurá nálada. Ale narativ o Výmarské republice je pastí krajní pravice - Britské listy** — Britské listy [cs]
+   https://blisty.cz/art/136770-v-nemecku-panuje-ponura-nalada-ale-narativ-o-vymarske-republice-je-pasti-krajni-pravice
+   V Německu panuje ponurá nálada. Ale narativ o Výmarské republice je pastí krajní pravice Britské listy
 
-6. **Válka proti slovům: Cenzurovat dezinformace a nenávistné projevy, nebo bránit svobodu slova? - Whatnews** — Whatnews [cs]
-   https://www.whatnews.cz/news/valka-proti-slovum-cenzurovat-dezinformace-a-nenavistne-projevy-nebo-branit-svobodu-slova/
-   Válka proti slovům: Cenzurovat dezinformace a nenávistné projevy, nebo bránit svobodu slova? Whatnews
+8. **Lukáš Jelínek: Útěk středem - RESPEKT** — RESPEKT [cs]
+   https://www.respekt.cz/ranni-postreh/lukas-jelinek-utek-stredem
+   Lukáš Jelínek: Útěk středem RESPEKT
 
-7. **Kde bydlíme, má vliv na to, jak jsme zdraví, jak se hýbeme a kolika let se dožijeme - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/komentare/kde-bydlime-ma-vliv-na-jak-jsme-zdravi-jak-se-hybeme-a-kolika-let-se-dozijeme_2610131630_adn
-   Kde bydlíme, má vliv na to, jak jsme zdraví, jak se hýbeme a kolika let se dožijeme iROZHLAS
+9. **Až spadnou zdi – výstava o lidech a s lidmi v izolaci – Kulturní přehled - ČT art** — ČT art [cs]
+   https://art.ceskatelevize.cz/kulturni-prehled/az-spadnou-zdi-vystava-o-lidech-a-s-lidmi-v-izolaci/0EeRt
+   Až spadnou zdi – výstava o lidech a s lidmi v izolaci – Kulturní přehled ČT art
 
-8. **Důchod 16 500 Kč, nájem 25 000 Kč: Stát seniorovi doplácí přes 14 000 měsíčně a Češi se bouří - Tiscali.cz** — Tiscali.cz [cs]
-   https://www.tiscali.cz/duchod-16-500-kc-najem-25-000-kc-stat-seniorovi-doplaci-pres-14-000-mesicne-a-cesi-se-bouri-783467
-   Důchod 16 500 Kč, nájem 25 000 Kč: Stát seniorovi doplácí přes 14 000 měsíčně a Češi se bouří Tiscali.cz
+10. **Superdávku vám zamítli? Od října můžete mít nárok na tisíce korun měsíčně - Lidovky.cz** — Lidovky.cz [cs]
+   https://www.lidovky.cz/byznys/superdavka-nova-zadost-jen-lidem-z-nekterych-okresu.A261008_154426_ln_ekonomika_paza
+   Superdávku vám zamítli? Od října můžete mít nárok na tisíce korun měsíčně Lidovky.cz
 
-9. **Soutěžící Zpátky do dětství | Fotosoutěž Sekne mi to! - Super.cz** — Super.cz [cs]
-   https://www.super.cz/p/fotosoutez/sekne-mi-to-33/soutezici/348
-   Soutěžící Zpátky do dětství | Fotosoutěž Sekne mi to! Super.cz
+11. **V obcích kolem Prahy 700, v Praze i osm tisíc. Jak se změní superdávka na bydlení - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/ekonomika/domaci/superdavka-se-zmenila-domacnosti-kolem-prahy-si-polepsi-brnu-normativy-klesly.A261005_135732_ekonomika_pzak
+   V obcích kolem Prahy 700, v Praze i osm tisíc. Jak se změní superdávka na bydlení iDNES.cz
 
-10. **Žďár řeší budoucnost podpory bydlení. Po roce 2028 není jisté financování - Žďárský deník** — Žďárský deník [cs]
-   https://zdarsky.denik.cz/zpravy-region/zdar-resi-budoucnost-podpory-bydleni-po-roce-2028-neni-jiste-financovani/
-   Žďár řeší budoucnost podpory bydlení. Po roce 2028 není jisté financování Žďárský deník
+12. **„Pračka odešla a na novou nemáme.“ Superdávka zamávala s příjmy českých rodin, někteří tohle nečekali - arecenze** — arecenze [cs]
+   https://www.arecenze.cz/clanky/pracka-odesla-a-na-novou-nemame-superdavka-nepokryje-vse-na-nezbytny-spotrebic-muze-prispet-urad-prace/
+   „Pračka odešla a na novou nemáme.“ Superdávka zamávala s příjmy českých rodin, někteří tohle nečekali arecenze
 
-11. **Dostupné bydlení sem, dostupné bydlení tam. Promarněná příležitost volební kampaně - Lidovky.cz** — Lidovky.cz [cs]
-   https://www.lidovky.cz/nazory/dostupne-bydleni-komunalni-volby-kampan-obecni-socialni-byt-maricarmen.A261012_172355_ln_nazory_lgs
-   Dostupné bydlení sem, dostupné bydlení tam. Promarněná příležitost volební kampaně Lidovky.cz
+13. **Superdávka stále počítá výživné, které nechodí. Rodiče zvažují jeho snížení - Tojesenzace.cz** — Tojesenzace.cz [cs]
+   https://tojesenzace.cz/2026/10/14/superdavka-stale-pocita-vyzivne-ktere-nechodi-rodice-zvazuji-jeho-snizeni/
+   Superdávka stále počítá výživné, které nechodí. Rodiče zvažují jeho snížení Tojesenzace.cz
 
-12. **Průzkum: Zdlouhavé a nepředvídatelné povolování trápí 80 % stavebních firem a 93 % developerů - Hypoindex.cz** — Hypoindex.cz [cs]
-   https://www.hypoindex.cz/clanky/pruzkum-zdlouhave-a-nepredvidatelne-povolovani-trapi-80-stavebnich-firem-a-93-developeru/
-   Průzkum: Zdlouhavé a nepředvídatelné povolování trápí 80 % stavebních firem a 93 % developerů Hypoindex.cz
+14. **Kůže prozradí víc, než tušíte. Dermatoložka varuje před preventivním botoxem i honbou za mládím - Hrot24.cz** — Hrot24.cz [cs]
+   https://www.tydenikhrot.cz/clanek/hrotcast-biohacking-kuze-hormony-elizabeth-pavlickova-H92Tj
+   Kůže prozradí víc, než tušíte. Dermatoložka varuje před preventivním botoxem i honbou za mládím Hrot24.cz
 
-13. **Piráti varují před cenzurou v kultuře: Ministr Klempíř překopal dotační pravidla, vyřazuje odborníky z komisí a odmítá dotovat „politický obsah“ - Pirátská strana** — Pirátská strana [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/pirati-varuji-pred-cenzurou-v-kulture-ministr-klempir-prekopal-dotacni-pravidla-vyrazuje-odborniky-z-komisi-a-odmita-dotovat-politicky-obsah/
-   Piráti varují před cenzurou v kultuře: Ministr Klempíř překopal dotační pravidla, vyřazuje odborníky z komisí a odmítá dotovat „politický obsah“ Pirátská strana
+15. **Dostupné bydlení: Amsterdam – Nové modely městského bydlení – Kulturní přehled - ČT art** — ČT art [cs]
+   https://art.ceskatelevize.cz/kulturni-prehled/dostupne-bydleni-amsterdam-nove-modely-mestskeho-bydleni/0Ee9P
+   Dostupné bydlení: Amsterdam – Nové modely městského bydlení – Kulturní přehled ČT art
 
-14. **Tohle je 50 nejlepších staveb Česka. O titul Grand Prix Architektů bojují školy, byty i nádraží - Newstream** — Newstream [cs]
-   https://www.newstream.cz/enjoy/tohle-je-50-nejlepsich-staveb-ceska-o-titul-grand-prix-architektu-bojuji-skoly-byty-i-nadrazi
-   Tohle je 50 nejlepších staveb Česka. O titul Grand Prix Architektů bojují školy, byty i nádraží Newstream
+16. **Dostupné bydlení sem, dostupné bydlení tam. Promarněná příležitost volební kampaně - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1711518-dostupne-bydleni-sem-dostupne-bydleni-tam-promarnena-prilezitost-volebni-kampane.html
+   Dostupné bydlení sem, dostupné bydlení tam. Promarněná příležitost volební kampaně www.prahanadlani.cz
 
-15. **Připraví vláda silné ročníky o šanci na vzdělání a stane se Česko ropnou velmocí? - www.pirati.cz** — www.pirati.cz [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/sdilene/?sdilene=sance-na-vzdelavani-cesko-jako-ropna-velmoc
-   Připraví vláda silné ročníky o šanci na vzdělání a stane se Česko ropnou velmocí? www.pirati.cz
+17. **Adéla S. Šípová znovu proti ODS. Uspěje i tentokrát? - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/tiskove/zpravy/adela-s-sipova-znovu-proti-ods-uspeje-i-tentokrat/2888094
+   Adéla S. Šípová znovu proti ODS. Uspěje i tentokrát? České noviny
