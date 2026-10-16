@@ -1,71 +1,51 @@
-# Kandidáti — 2026-10-15T12:10:06+00:00 (17 položek)
+# Kandidáti — 2026-10-16T11:56:41+00:00 (12 položek)
 
-_Zdroje: Google News 58 · GDELT 0 (disabled) · feedy 0 · watch 0_
+_Zdroje: Google News 55 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **Obmění se vedení obcí? Do hry vstupují nováčci i ostřílení matadoři - Přerovský deník** — Přerovský deník [cs]
-   https://prerovsky.denik.cz/zpravy-region/obmeni-se-vedeni-obci-do-hry-vstupuji-novacci-i-ostrileni-matadori/
-   Obmění se vedení obcí? Do hry vstupují nováčci i ostřílení matadoři Přerovský deník
+1. **Soňa: „Hlavně to zkusit znovu a nevzdávat se.“** — https://iqrs.cz/feed/ [cs]
+   https://iqrs.cz/sona-hlavne-to-zkusit-znovu-a-nevzdavat-se/
+   Nástup na střední školu přináší spoustu změn. Soňa tehdy využila podporu vzdělávacího programu Gendalos. Získala pomoc se studiem, stipendium i možnost poznat další studenty. Teď nastupuje do třetího 
 
-2. **Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta - Rádio Impuls** — Rádio Impuls [cs]
-   https://www.impuls.cz/zpravy/regiony/olomoucky-kraj/merovice-romove-pompova-kdu-csl-komunalni-volby-2026/
-   Ryze romská kandidátka uspěla. Hlavně, ať se nehádáme, přeje si starosta Rádio Impuls
+2. **Kontroverzní romský politik Cavali nadával do rodiny. Pak shrábnul 100 tisíc a dal Bendovi košem. Šampion Clashe promluvil - Centrum** — Centrum [cs]
+   https://www.centrum.cz/clanek/kontroverzni-romsky-politik-cavali-nadaval-do-rodiny-pak-shrabnul-100-tisic-a-dal-bendovi-kosem-sampion-clashe-promluvil-320722
+   Kontroverzní romský politik Cavali nadával do rodiny. Pak shrábnul 100 tisíc a dal Bendovi košem. Šampion Clashe promluvil Centrum
 
-3. **Jaké je čelit předsudkům? Nová edukativní hra z dílny FaVU VUT pomáhá porozumět diskriminaci - Vysoké učení technické v Brně** — Vysoké učení technické v Brně [cs]
-   https://www.vut.cz/vut/media/tiskove-zpravy-f19527/jake-je-celit-predsudkum-nova-edukativni-hra-z-dilny-favu-vut-pomaha-porozumet-diskriminaci-d373612
-   Jaké je čelit předsudkům? Nová edukativní hra z dílny FaVU VUT pomáhá porozumět diskriminaci Vysoké učení technické v Brně
+3. **Brněnští vědci stvořili hru, která hráče nechá zažít rasismus na vlastní kůži - Náš REGION** — Náš REGION [cs]
+   https://nasregion.cz/brnensti-vedci-stvorili-hru-ktera-hrace-necha-zazit-rasismus-na-vlastni-kuzi-459632/
+   Brněnští vědci stvořili hru, která hráče nechá zažít rasismus na vlastní kůži Náš REGION
 
-4. **Navzdory strachu (český dabing) – Lidská práva – Rasismus - JSNS** — JSNS [cs]
-   https://www.jsns.cz/lekce/2502575-navzdory-strachu-cesky-dabing
-   Navzdory strachu (český dabing) – Lidská práva – Rasismus JSNS
+4. **Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů - Centrum** — Centrum [cs]
+   https://www.centrum.cz/clanek/rasismus-v-obchode-i-boj-o-bydleni-studentska-hra-upozornuje-na-trapeni-romu-319637
+   Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů Centrum
 
-5. **Natalie Bergman: Jak Irena Kalhousová a Jakub Szantó manipulují obrazem dění v Palestině - Deník Referendum** — Deník Referendum [cs]
-   https://denikreferendum.cz/clanek/239465-jak-irena-kalhousova-a-jakub-szanto-manipuluji-obrazem-deni-v-palestine
-   Natalie Bergman: Jak Irena Kalhousová a Jakub Szantó manipulují obrazem dění v Palestině Deník Referendum
+5. **Roddick hájí Gauffovou: Chcete zlo? Doufám, že se vám v životě nestane nic dobrého - Tenis portál** — Tenis portál [cs]
+   https://www.tenisportal.cz/zpravy/roddick-haji-gauffovou-chcete-zlo-doufam-ze-se-vam-v-zivote-nestane-nic-dobreho-60181/
+   Roddick hájí Gauffovou: Chcete zlo? Doufám, že se vám v životě nestane nic dobrého Tenis portál
 
-6. **Krize bydlení zapálila Španělsko. Může z toho těžit krajní pravice? - VOXPOT** — VOXPOT [cs]
-   https://www.voxpot.cz/clanky/krize-bydleni-zapalila-spanelsko-muze-z-toho-tezit-krajni-pravice
-   Krize bydlení zapálila Španělsko. Může z toho těžit krajní pravice? VOXPOT
+6. **Extremismus, radikalismus a Die Linke. Politolog ví, proč se krajní levice a pravice v něčem rýmují - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/extremismus-radikalismus-a-die-linke-politolog-vi-proc-se-krajni-levice-a_2610160600_med
+   Extremismus, radikalismus a Die Linke. Politolog ví, proč se krajní levice a pravice v něčem rýmují iROZHLAS
 
-7. **V Německu panuje ponurá nálada. Ale narativ o Výmarské republice je pastí krajní pravice - Britské listy** — Britské listy [cs]
-   https://blisty.cz/art/136770-v-nemecku-panuje-ponura-nalada-ale-narativ-o-vymarske-republice-je-pasti-krajni-pravice
-   V Německu panuje ponurá nálada. Ale narativ o Výmarské republice je pastí krajní pravice Britské listy
+7. **Lukáš Kovanda: Boj o moc v ECB. Lagardeová může skončit dřív, pro dobro věci - Newstream** — Newstream [cs]
+   https://www.newstream.cz/nazory/lukas-kovanda-boj-o-moc-v-ecb-lagardeova-muze-skoncit-driv-pro-dobro-veci
+   Lukáš Kovanda: Boj o moc v ECB. Lagardeová může skončit dřív, pro dobro věci Newstream
 
-8. **Lukáš Jelínek: Útěk středem - RESPEKT** — RESPEKT [cs]
-   https://www.respekt.cz/ranni-postreh/lukas-jelinek-utek-stredem
-   Lukáš Jelínek: Útěk středem RESPEKT
+8. **Zamítli vám superdávku? U koho má smysl žádat po 1. říjnu znovu a kolik to může vynést - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/ekonomika/domaci/superdavka-se-od-rijna-zmenila-komu-se-vyplati-pozadat-o-ni-znovu.A261008_135812_ekonomika_pzak
+   Zamítli vám superdávku? U koho má smysl žádat po 1. říjnu znovu a kolik to může vynést iDNES.cz
 
-9. **Až spadnou zdi – výstava o lidech a s lidmi v izolaci – Kulturní přehled - ČT art** — ČT art [cs]
-   https://art.ceskatelevize.cz/kulturni-prehled/az-spadnou-zdi-vystava-o-lidech-a-s-lidmi-v-izolaci/0EeRt
-   Až spadnou zdi – výstava o lidech a s lidmi v izolaci – Kulturní přehled ČT art
+9. **Samoživitelka s malou dcerou skončily kvůli selhání státu bez domova - Seznam Zprávy** — Seznam Zprávy [cs]
+   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-davky-neprisly-a-zena-s-dcerou-skoncily-kvuli-selhani-statu-bez-domova-317855
+   Samoživitelka s malou dcerou skončily kvůli selhání státu bez domova Seznam Zprávy
 
-10. **Superdávku vám zamítli? Od října můžete mít nárok na tisíce korun měsíčně - Lidovky.cz** — Lidovky.cz [cs]
-   https://www.lidovky.cz/byznys/superdavka-nova-zadost-jen-lidem-z-nekterych-okresu.A261008_154426_ln_ekonomika_paza
-   Superdávku vám zamítli? Od října můžete mít nárok na tisíce korun měsíčně Lidovky.cz
+10. **KSČM už není skutečná levice. Klesla do pozice jakéhosi béčka SPD, říká Jiří Dolejš - Drbna.cz** — Drbna.cz [cs]
+   https://www.drbna.cz/domaci/903079-kscm-uz-neni-skutecna-levice-klesla-do-pozice-jakehosi-becka-spd-rika-jiri-dolejs.html
+   KSČM už není skutečná levice. Klesla do pozice jakéhosi béčka SPD, říká Jiří Dolejš Drbna.cz
 
-11. **V obcích kolem Prahy 700, v Praze i osm tisíc. Jak se změní superdávka na bydlení - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/ekonomika/domaci/superdavka-se-zmenila-domacnosti-kolem-prahy-si-polepsi-brnu-normativy-klesly.A261005_135732_ekonomika_pzak
-   V obcích kolem Prahy 700, v Praze i osm tisíc. Jak se změní superdávka na bydlení iDNES.cz
+11. **Rožnov chce nabídnout více možností bydlení. Nová koncepce myslí na mladé, rodiny i seniory - Echo Valašska** — Echo Valašska [cs]
+   https://www.echovalasska.cz/zpravodajstvi/roznov-chce-nabidnout-vice-moznosti-bydleni-nova-koncepce-mysli-na-mlade-rodiny-i-seniory/
+   Rožnov chce nabídnout více možností bydlení. Nová koncepce myslí na mladé, rodiny i seniory Echo Valašska
 
-12. **„Pračka odešla a na novou nemáme.“ Superdávka zamávala s příjmy českých rodin, někteří tohle nečekali - arecenze** — arecenze [cs]
-   https://www.arecenze.cz/clanky/pracka-odesla-a-na-novou-nemame-superdavka-nepokryje-vse-na-nezbytny-spotrebic-muze-prispet-urad-prace/
-   „Pračka odešla a na novou nemáme.“ Superdávka zamávala s příjmy českých rodin, někteří tohle nečekali arecenze
-
-13. **Superdávka stále počítá výživné, které nechodí. Rodiče zvažují jeho snížení - Tojesenzace.cz** — Tojesenzace.cz [cs]
-   https://tojesenzace.cz/2026/10/14/superdavka-stale-pocita-vyzivne-ktere-nechodi-rodice-zvazuji-jeho-snizeni/
-   Superdávka stále počítá výživné, které nechodí. Rodiče zvažují jeho snížení Tojesenzace.cz
-
-14. **Kůže prozradí víc, než tušíte. Dermatoložka varuje před preventivním botoxem i honbou za mládím - Hrot24.cz** — Hrot24.cz [cs]
-   https://www.tydenikhrot.cz/clanek/hrotcast-biohacking-kuze-hormony-elizabeth-pavlickova-H92Tj
-   Kůže prozradí víc, než tušíte. Dermatoložka varuje před preventivním botoxem i honbou za mládím Hrot24.cz
-
-15. **Dostupné bydlení: Amsterdam – Nové modely městského bydlení – Kulturní přehled - ČT art** — ČT art [cs]
-   https://art.ceskatelevize.cz/kulturni-prehled/dostupne-bydleni-amsterdam-nove-modely-mestskeho-bydleni/0Ee9P
-   Dostupné bydlení: Amsterdam – Nové modely městského bydlení – Kulturní přehled ČT art
-
-16. **Dostupné bydlení sem, dostupné bydlení tam. Promarněná příležitost volební kampaně - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1711518-dostupne-bydleni-sem-dostupne-bydleni-tam-promarnena-prilezitost-volebni-kampane.html
-   Dostupné bydlení sem, dostupné bydlení tam. Promarněná příležitost volební kampaně www.prahanadlani.cz
-
-17. **Adéla S. Šípová znovu proti ODS. Uspěje i tentokrát? - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/tiskove/zpravy/adela-s-sipova-znovu-proti-ods-uspeje-i-tentokrat/2888094
-   Adéla S. Šípová znovu proti ODS. Uspěje i tentokrát? České noviny
+12. **Tmavé vlasy, oči či ubytovna jako vodítko. Metodika zjišťování Romů pobouřila školy - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/ostrava/zpravy/pocitani-romskych-deti-ve-skolach-metodika-ministerstvo-skolstvi-kritika.A261015_154202_ostrava-zpravy_dmk
+   Tmavé vlasy, oči či ubytovna jako vodítko. Metodika zjišťování Romů pobouřila školy iDNES.cz
