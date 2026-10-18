@@ -1,43 +1,35 @@
-# Kandidáti — 2026-10-17T11:12:46+00:00 (10 položek)
+# Kandidáti — 2026-10-18T11:45:11+00:00 (8 položek)
 
-_Zdroje: Google News 61 · GDELT 0 (disabled) · feedy 1 · watch 1_
+_Zdroje: Google News 59 · GDELT 0 (disabled) · feedy 1 · watch 1_
 
-1. **Opomíjení hrdinové odboje. Výstava přibližuje osudy romských partyzánů a vojáků - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/domaci/opomijeni-hrdinove-odboje-vystava-priblizuje-osudy-romskych-partyzanu-a-vojaku-378708
-   Opomíjení hrdinové odboje. Výstava přibližuje osudy romských partyzánů a vojáků ČT24
+1. **Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou - Český rozhlas Plus** — Český rozhlas Plus [cs]
+   https://plus.rozhlas.cz/poslechnete-si-vsechny-nedelni-komentare-s-kamilou-pesekovou-9650680
+   Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou Český rozhlas Plus
 
-2. **Mezinárodní romský filmový festival podruhé v Kutné Hoře :: Regionální zpravodajství - Svoboda.info** — Svoboda.info [cs]
-   https://www.svoboda.info/zpravy/kutna-hora/mezinarodni-romsky-filmovy-festival-podruhe-v-kutne-hore/
-   Mezinárodní romský filmový festival podruhé v Kutné Hoře :: Regionální zpravodajství Svoboda.info
+2. **Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů - Budějcká Drbna** — Budějcká Drbna [cs]
+   https://budejcka.drbna.cz/spolecnost/903311-rasismus-v-obchode-i-boj-o-bydleni-studentska-hra-upozornuje-na-trapeni-romu.html
+   Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů Budějcká Drbna
 
-3. **16. října 05:59 - Studio 6 - Česká televize** — Česká televize [cs]
-   https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010101016/
-   16. října 05:59 - Studio 6 Česká televize
+3. **Petr Pithart: Žvásty nosiče štaflí Tomia Okamury - HlídacíPes.org** — HlídacíPes.org [cs]
+   https://hlidacipes.org/petr-pithart-zvasty-nosice-stafli-tomia-okamury/
+   Petr Pithart: Žvásty nosiče štaflí Tomia Okamury HlídacíPes.org
 
-4. **Slavná architektka zuřila v letadle: Napadala personál! - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1714206-slavna-architektka-zurila-v-letadle-napadala-personal-.html
-   Slavná architektka zuřila v letadle: Napadala personál! www.prahanadlani.cz
+4. **Alexandr Mitrofanov: Rašismus zabíjí různými způsoby - Portál Českého rozhlasu** — Portál Českého rozhlasu [cs]
+   http://www.rozhlas.cz/alexandr-mitrofanov-rasismus-zabiji-ruznymi-zpusoby-9650330
+   Alexandr Mitrofanov: Rašismus zabíjí různými způsoby Portál Českého rozhlasu
 
-5. **Ukrinform - zprávy z Ukrajiny - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/ukrinform/cesky/zprava.php?id=1457066
-   Ukrinform - zprávy z Ukrajiny České noviny
+5. **Očima Saši Mitrofanova: Rašismus zabíjí různými způsoby - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1715109-ocima-sasi-mitrofanova-rasismus-zabiji-ruznymi-zpusoby.html
+   Očima Saši Mitrofanova: Rašismus zabíjí různými způsoby www.prahanadlani.cz
 
-6. **Ruská ornitoložka má strávit léta v trestanecké kolonii. Za pětistovku pro neziskovku - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/veda/ruska-ornitolozka-ma-stravit-leta-v-trestanecke-kolonii-za-petistovku-pro-neziskovku-378672
-   Ruská ornitoložka má strávit léta v trestanecké kolonii. Za pětistovku pro neziskovku ČT24
+6. **Andělský horoskop od 19. října: Berani zazáří s novým nápadem před vedením, Raci získají nečekaný příspěvek na bydlení - SvětŽeny.cz** — SvětŽeny.cz [cs]
+   https://www.svetzeny.cz/tajemno/horoskopy-a-astro/andelsky-horoskop-od-19-rijna-berani-zazari-s-novym-napadem-pred-vedenim-raci-ziskaji-necekany-prispevek-na-bydleni-2ec04
+   Andělský horoskop od 19. října: Berani zazáří s novým nápadem před vedením, Raci získají nečekaný příspěvek na bydlení SvětŽeny.cz
 
-7. **V Německu panuje ponurá nálada. Ale narativ o Výmarské republice je pastí krajní pravice - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/136770-v-nemecku-panuje-ponura-nalada-ale-narativ-o-vymarske-republice-je-pasti-krajni-pravice.html
-   V Německu panuje ponurá nálada. Ale narativ o Výmarské republice je pastí krajní pravice Britské listy
+7. **Soutěžící Nastěnku chci za ženu | Fotosoutěž Sekne mi to! - Super.cz** — Super.cz [cs]
+   https://www.super.cz/p/fotosoutez/sekne-mi-to-33/soutezici/357
+   Soutěžící Nastěnku chci za ženu | Fotosoutěž Sekne mi to! Super.cz
 
-8. **V Bílině na Teplicku bude pokračovat trojkoalice ANO, ODS a Moje Bílina - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/ustecky-kraj/v-biline-na-teplicku-bude-pokracovat-trojkoalice-ano-ods-a-moje-bilina.A261016_144530_metro-usti-zpravy_air
-   V Bílině na Teplicku bude pokračovat trojkoalice ANO, ODS a Moje Bílina Metro.cz
-
-9. **Holice povede nové sdružení, slibuje dostupné bydlení i halu - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/pardubicky-kraj/holice-povede-nove-sdruzeni-slibuje-dostupne-bydleni-i-halu.A261016_111543_metro-pardubice-zpravy_air
-   Holice povede nové sdružení, slibuje dostupné bydlení i halu Metro.cz
-
-10. **Další malá domů pro Agrofert! Piráti bojují proti novému dotačnímu programu pro obří agroholdingy - Pirátská strana** — Pirátská strana [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/dalsi-mala-domu-pro-agrofert-pirati-bojuji-proti-novemu-dotacnimu-programu-pro-obri-agroholdingy/
-   Další malá domů pro Agrofert! Piráti bojují proti novému dotačnímu programu pro obří agroholdingy Pirátská strana
+8. **Předseda Pirátů Zdeněk Hřib lituje, že jejich senátorka Adéla Sucharda Šípová neobhájila mandát - Deník N** — Deník N [cs]
+   https://denikn.cz/minuta/2222946/
+   Předseda Pirátů Zdeněk Hřib lituje, že jejich senátorka Adéla Sucharda Šípová neobhájila mandát Deník N
