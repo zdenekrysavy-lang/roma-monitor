@@ -1,35 +1,31 @@
-# Kandidáti — 2026-10-18T11:45:11+00:00 (8 položek)
+# Kandidáti — 2026-10-19T13:59:56+00:00 (7 položek)
 
-_Zdroje: Google News 59 · GDELT 0 (disabled) · feedy 1 · watch 1_
+_Zdroje: Google News 44 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou - Český rozhlas Plus** — Český rozhlas Plus [cs]
-   https://plus.rozhlas.cz/poslechnete-si-vsechny-nedelni-komentare-s-kamilou-pesekovou-9650680
-   Poslechněte si všechny nedělní komentáře s Kamilou Pešekovou Český rozhlas Plus
+1. **Luboš Palata: Romové udělali výstavu o svých romských partyzánech. Zajímat by měla i Čechy - Český rozhlas Plus** — Český rozhlas Plus [cs]
+   https://plus.rozhlas.cz/lubos-palata-romove-udelali-vystavu-o-svych-romskych-partyzanech-zajimat-mela-i-9650702
+   Luboš Palata: Romové udělali výstavu o svých romských partyzánech. Zajímat by měla i Čechy Český rozhlas Plus
 
-2. **Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů - Budějcká Drbna** — Budějcká Drbna [cs]
-   https://budejcka.drbna.cz/spolecnost/903311-rasismus-v-obchode-i-boj-o-bydleni-studentska-hra-upozornuje-na-trapeni-romu.html
-   Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů Budějcká Drbna
+2. **Mezinárodní romský filmový festival podruhé v Kutné Hoře :: Regionální zpravodajství - Svoboda.info** — Svoboda.info [cs]
+   https://www.svoboda.info/zpravy/kutna-hora/mezinarodni-romsky-filmovy-festival-podruhe-v-kutne-hore/?gallery=1
+   Mezinárodní romský filmový festival podruhé v Kutné Hoře :: Regionální zpravodajství Svoboda.info
 
-3. **Petr Pithart: Žvásty nosiče štaflí Tomia Okamury - HlídacíPes.org** — HlídacíPes.org [cs]
-   https://hlidacipes.org/petr-pithart-zvasty-nosice-stafli-tomia-okamury/
-   Petr Pithart: Žvásty nosiče štaflí Tomia Okamury HlídacíPes.org
+3. **Jaké bude počasí - 16. října 05:59 - Studio 6 - Česká televize** — Česká televize [cs]
+   https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010101016/cast/1214270/
+   Jaké bude počasí - 16. října 05:59 - Studio 6 Česká televize
 
-4. **Alexandr Mitrofanov: Rašismus zabíjí různými způsoby - Portál Českého rozhlasu** — Portál Českého rozhlasu [cs]
-   http://www.rozhlas.cz/alexandr-mitrofanov-rasismus-zabiji-ruznymi-zpusoby-9650330
-   Alexandr Mitrofanov: Rašismus zabíjí různými způsoby Portál Českého rozhlasu
+4. **„Je tu spousta rasismu, spousta nenávisti“: Před volbami v Izraeli se předpovídá posílení krajní pravice - Britské listy** — Britské listy [cs]
+   https://blisty.cz/art/136838-je-tu-spousta-rasismu-spousta-nenavisti-pred-volbami-v-izraeli-se-predpovida-posileni-krajni-pravice
+   „Je tu spousta rasismu, spousta nenávisti“: Před volbami v Izraeli se předpovídá posílení krajní pravice Britské listy
 
-5. **Očima Saši Mitrofanova: Rašismus zabíjí různými způsoby - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
-   https://www.prahanadlani.cz/amp-clanek-zprava/1715109-ocima-sasi-mitrofanova-rasismus-zabiji-ruznymi-zpusoby.html
-   Očima Saši Mitrofanova: Rašismus zabíjí různými způsoby www.prahanadlani.cz
+5. **Přechod na superdávku doprovází komplikace. Zpožďují se i výplaty - TN.cz** — TN.cz [cs]
+   https://tn.nova.cz/zpravodajstvi/clanek/659341-prechod-na-superdavku-doprovazi-komplikace-zpozduji-se-i-vyplaty
+   Přechod na superdávku doprovází komplikace. Zpožďují se i výplaty TN.cz
 
-6. **Andělský horoskop od 19. října: Berani zazáří s novým nápadem před vedením, Raci získají nečekaný příspěvek na bydlení - SvětŽeny.cz** — SvětŽeny.cz [cs]
-   https://www.svetzeny.cz/tajemno/horoskopy-a-astro/andelsky-horoskop-od-19-rijna-berani-zazari-s-novym-napadem-pred-vedenim-raci-ziskaji-necekany-prispevek-na-bydleni-2ec04
-   Andělský horoskop od 19. října: Berani zazáří s novým nápadem před vedením, Raci získají nečekaný příspěvek na bydlení SvětŽeny.cz
+6. **Superdávku doprovází komplikace. Lidé na ni kvůli průtahům často čekají marně - Deník.cz** — Deník.cz [cs]
+   https://www.denik.cz/ekonomika/cesko-ekonomika-superdavka-komplikace-prutahy-co-delat/
+   Superdávku doprovází komplikace. Lidé na ni kvůli průtahům často čekají marně Deník.cz
 
-7. **Soutěžící Nastěnku chci za ženu | Fotosoutěž Sekne mi to! - Super.cz** — Super.cz [cs]
-   https://www.super.cz/p/fotosoutez/sekne-mi-to-33/soutezici/357
-   Soutěžící Nastěnku chci za ženu | Fotosoutěž Sekne mi to! Super.cz
-
-8. **Předseda Pirátů Zdeněk Hřib lituje, že jejich senátorka Adéla Sucharda Šípová neobhájila mandát - Deník N** — Deník N [cs]
-   https://denikn.cz/minuta/2222946/
-   Předseda Pirátů Zdeněk Hřib lituje, že jejich senátorka Adéla Sucharda Šípová neobhájila mandát Deník N
+7. **Město Bílovec založilo družstvo, vzniknout má postupně až 72 bytů - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/ostrava/zpravy/bilovec-nova-vystavba-bytove-druzstvo-dostupne-bydleni.A261016_974656_ostrava-zpravy_pjen
+   Město Bílovec založilo družstvo, vzniknout má postupně až 72 bytů iDNES.cz
