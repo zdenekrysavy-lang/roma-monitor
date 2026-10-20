@@ -1,77 +1,109 @@
 {
-  "generated_utc": "2026-10-19T13:59:56+00:00",
-  "count": 7,
+  "generated_utc": "2026-10-20T12:18:00+00:00",
+  "count": 11,
   "sources": {
     "profile": "cz",
-    "google_news": 44,
+    "google_news": 53,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 0,
     "watch": 0,
-    "before_dedup": 15,
-    "total": 11,
-    "skipped_seen": 4,
-    "gn_resolved": 7,
-    "gn_resolve_tried": 7,
+    "before_dedup": 21,
+    "total": 18,
+    "skipped_seen": 7,
+    "gn_resolved": 11,
+    "gn_resolve_tried": 11,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Luboš Palata: Romové udělali výstavu o svých romských partyzánech. Zajímat by měla i Čechy - Český rozhlas Plus",
-      "url": "https://plus.rozhlas.cz/lubos-palata-romove-udelali-vystavu-o-svych-romskych-partyzanech-zajimat-mela-i-9650702",
-      "source": "Český rozhlas Plus",
-      "snippet": "Luboš Palata: Romové udělali výstavu o svých romských partyzánech. Zajímat by měla i Čechy Český rozhlas Plus",
-      "published": "Sun, 18 Oct 2026 15:09:35 GMT",
+      "title": "Podcast: Linka M a první karavanista v Praze. Jak Australan v roce 1959 proslavil kemp v Braníku - iDNES.cz",
+      "url": "https://www.idnes.cz/podcasty/linka-m/linka-m-a-prvni-karavanista-v-praze-jak-australan-v-roce-1959-proslavil-kemp-v-braniku.V261015_155320_podcast_jaha",
+      "source": "iDNES.cz",
+      "snippet": "Podcast: Linka M a první karavanista v Praze. Jak Australan v roce 1959 proslavil kemp v Braníku iDNES.cz",
+      "published": "Mon, 19 Oct 2026 11:02:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Mezinárodní romský filmový festival podruhé v Kutné Hoře :: Regionální zpravodajství - Svoboda.info",
-      "url": "https://www.svoboda.info/zpravy/kutna-hora/mezinarodni-romsky-filmovy-festival-podruhe-v-kutne-hore/?gallery=1",
-      "source": "Svoboda.info",
-      "snippet": "Mezinárodní romský filmový festival podruhé v Kutné Hoře :: Regionální zpravodajství Svoboda.info",
-      "published": "Sat, 17 Oct 2026 02:26:53 GMT",
+      "title": "Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů - Jihlavská Drbna",
+      "url": "https://jihlavska.drbna.cz/spolecnost/903333-rasismus-v-obchode-i-boj-o-bydleni-studentska-hra-upozornuje-na-trapeni-romu.html",
+      "source": "Jihlavská Drbna",
+      "snippet": "Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů Jihlavská Drbna",
+      "published": "Sun, 18 Oct 2026 14:46:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Jaké bude počasí - 16. října 05:59 - Studio 6 - Česká televize",
-      "url": "https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010101016/cast/1214270/",
-      "source": "Česká televize",
-      "snippet": "Jaké bude počasí - 16. října 05:59 - Studio 6 Česká televize",
-      "published": "Sat, 17 Oct 2026 21:55:13 GMT",
+      "title": "O vzniku rasismu tzv. čisté krve ve Španělsku 15. století | 20. 10. 2026 | Boris Cvek - Britské listy",
+      "url": "https://www.blisty.cz/art/136875-o-vzniku-rasismu-tzv-ciste-krve-ve-spanelsku-15-stoleti.html",
+      "source": "Britské listy",
+      "snippet": "O vzniku rasismu tzv. čisté krve ve Španělsku 15. století | 20. 10. 2026 | Boris Cvek Britské listy",
+      "published": "Mon, 19 Oct 2026 23:01:34 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Trus hlodavců, plísně a špatně skladované potraviny. Inspekce zavřela restauraci v Ostrově – fotogalerie - Karlovarská Drbna",
+      "url": "https://karlovarska.drbna.cz/galerie/clanek/903388-trus-hlodavcu-plisne-a-spatne-skladovane-potraviny-inspekce-zavrela-restauraci-v-ostrove.html?zpet=%2Fspolecnost%2F903388-trus-hlodavcu-plisne-a-spatne-skladovane-potraviny-inspekce-zavrela-restauraci-v-ostrove.html",
+      "source": "Karlovarská Drbna",
+      "snippet": "Trus hlodavců, plísně a špatně skladované potraviny. Inspekce zavřela restauraci v Ostrově – fotogalerie Karlovarská Drbna",
+      "published": "Mon, 19 Oct 2026 13:07:30 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Protestů ve Francii zneužívají organizované gangy vandalů, říká z Paříže podnikatelka - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-svet/protestu-ve-francii-zneuzivaji-organizovane-gangy-vandalu-rika-z-parize_2610201355_vdv",
+      "source": "iROZHLAS",
+      "snippet": "Protestů ve Francii zneužívají organizované gangy vandalů, říká z Paříže podnikatelka iROZHLAS",
+      "published": "Tue, 20 Oct 2026 11:55:00 GMT",
       "lang": "cs"
     },
     {
       "title": "„Je tu spousta rasismu, spousta nenávisti“: Před volbami v Izraeli se předpovídá posílení krajní pravice - Britské listy",
-      "url": "https://blisty.cz/art/136838-je-tu-spousta-rasismu-spousta-nenavisti-pred-volbami-v-izraeli-se-predpovida-posileni-krajni-pravice",
+      "url": "https://www.blisty.cz/art/136838-je-tu-spousta-rasismu-spousta-nenavisti-pred-volbami-v-izraeli-se-predpovida-posileni-krajni-pravice.html",
       "source": "Britské listy",
       "snippet": "„Je tu spousta rasismu, spousta nenávisti“: Před volbami v Izraeli se předpovídá posílení krajní pravice Britské listy",
       "published": "Sun, 18 Oct 2026 08:33:57 GMT",
       "lang": "cs"
     },
     {
-      "title": "Přechod na superdávku doprovází komplikace. Zpožďují se i výplaty - TN.cz",
-      "url": "https://tn.nova.cz/zpravodajstvi/clanek/659341-prechod-na-superdavku-doprovazi-komplikace-zpozduji-se-i-vyplaty",
-      "source": "TN.cz",
-      "snippet": "Přechod na superdávku doprovází komplikace. Zpožďují se i výplaty TN.cz",
-      "published": "Sun, 18 Oct 2026 19:06:00 GMT",
+      "title": "Jenda zlobí, superdávka nechodí a ministr radí mimořádnou pomoc. Jak o ni žádat? - Penize.cz",
+      "url": "https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/498528-jenda-zlobi-superdavka-nechodi-a-ministr-radi-mimoradnou-pomoc-jak-o-ni-zadat",
+      "source": "Penize.cz",
+      "snippet": "Jenda zlobí, superdávka nechodí a ministr radí mimořádnou pomoc. Jak o ni žádat? Penize.cz",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Superdávku doprovází komplikace. Lidé na ni kvůli průtahům často čekají marně - Deník.cz",
-      "url": "https://www.denik.cz/ekonomika/cesko-ekonomika-superdavka-komplikace-prutahy-co-delat/",
-      "source": "Deník.cz",
-      "snippet": "Superdávku doprovází komplikace. Lidé na ni kvůli průtahům často čekají marně Deník.cz",
-      "published": "Mon, 19 Oct 2026 11:31:01 GMT",
+      "title": "Mami! Tátova milenka mě naučila na kole! - Stream.cz",
+      "url": "https://www.stream.cz/milenky-sobe/mami-tatova-milenka-me-naucila-na-kole-65591073",
+      "source": "Stream.cz",
+      "snippet": "Mami! Tátova milenka mě naučila na kole! Stream.cz",
+      "published": "Mon, 19 Oct 2026 15:41:16 GMT",
       "lang": "cs"
     },
     {
-      "title": "Město Bílovec založilo družstvo, vzniknout má postupně až 72 bytů - iDNES.cz",
-      "url": "https://www.idnes.cz/ostrava/zpravy/bilovec-nova-vystavba-bytove-druzstvo-dostupne-bydleni.A261016_974656_ostrava-zpravy_pjen",
-      "source": "iDNES.cz",
-      "snippet": "Město Bílovec založilo družstvo, vzniknout má postupně až 72 bytů iDNES.cz",
-      "published": "Mon, 19 Oct 2026 04:53:00 GMT",
+      "title": "KRUH – PŘEDNÁŠKA DOSTUPNÉ BYDLENÍ V AMSTERDAMU - Radio 1",
+      "url": "https://www.radio1.cz/kruh-prednaska-dostupne-bydleni-v-amsterdamu/",
+      "source": "Radio 1",
+      "snippet": "KRUH – PŘEDNÁŠKA DOSTUPNÉ BYDLENÍ V AMSTERDAMU Radio 1",
+      "published": "Tue, 20 Oct 2026 09:28:13 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Z desítek milionů neviděli potřební ani korunu. \"Tak si to ministerstvo objednalo,\" hájí se neziskovka - Aktuálně.cz",
+      "url": "https://zpravy.aktualne.cz/domaci/setkani-happeningy-videa-juchelkuv-urad-resi-dotacni-masinerii-za-desitky-milionu/r~aaa29b17ec26c8413282596cb8293c39/",
+      "source": "Aktuálně.cz",
+      "snippet": "Z desítek milionů neviděli potřební ani korunu. \"Tak si to ministerstvo objednalo,\" hájí se neziskovka Aktuálně.cz",
+      "published": "Tue, 20 Oct 2026 03:30:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "bEDUin 34/2026: Stát konečně zná data o počtu absencí v ZŠ. Nemají sloužit k sankcím, ale k podpoře - EDUin",
+      "url": "https://www.eduin.cz/clanky/beduin-34-2026/",
+      "source": "EDUin",
+      "snippet": "bEDUin 34/2026: Stát konečně zná data o počtu absencí v ZŠ. Nemají sloužit k sankcím, ale k podpoře EDUin",
+      "published": "Mon, 19 Oct 2026 14:08:48 GMT",
       "lang": "cs"
     }
   ]
