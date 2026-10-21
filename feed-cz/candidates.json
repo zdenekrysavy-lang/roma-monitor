@@ -1,109 +1,149 @@
 {
-  "generated_utc": "2026-10-20T12:18:00+00:00",
-  "count": 11,
+  "generated_utc": "2026-10-21T12:28:11+00:00",
+  "count": 16,
   "sources": {
     "profile": "cz",
-    "google_news": 53,
+    "google_news": 58,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 0,
+    "feeds": 2,
     "watch": 0,
-    "before_dedup": 21,
-    "total": 18,
-    "skipped_seen": 7,
-    "gn_resolved": 11,
-    "gn_resolve_tried": 11,
+    "before_dedup": 28,
+    "total": 27,
+    "skipped_seen": 11,
+    "gn_resolved": 14,
+    "gn_resolve_tried": 14,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Podcast: Linka M a první karavanista v Praze. Jak Australan v roce 1959 proslavil kemp v Braníku - iDNES.cz",
-      "url": "https://www.idnes.cz/podcasty/linka-m/linka-m-a-prvni-karavanista-v-praze-jak-australan-v-roce-1959-proslavil-kemp-v-braniku.V261015_155320_podcast_jaha",
+      "title": "Ázerbájdžánský Nejvyšší soud potvrdil Bahruzovi Samadovovi 15 let vězení",
+      "url": "https://amnesty.cz/azerbajdzansky-nejvyssi-soud-potvrdil-bahruzovi-samadovovi-15-let-vezeni/",
+      "source": "https://amnesty.cz/feed/",
+      "snippet": "Nejvyšší soud zamítl kasační stížnost Bahruze Samadova a ponechal v platnosti jeho patnáctiletý trest. Během přestávky v soudním jednání si Bahruz podle své právničky pořezal pravou paži ostrým předmětem. Amnesty International varuje před zhoršujícím se stavem jeho zdraví a znovu požaduje jeho okamž",
+      "published": "Wed, 21 Oct 2026 09:40:22 +0000",
+      "lang": "cs"
+    },
+    {
+      "title": "STÁŽ: Tvorba vzdělávacího obsahu na sociální sítě",
+      "url": "https://amnesty.cz/staz-tvorba-vzdelavaciho-obsahu-na-socialni-site/",
+      "source": "https://amnesty.cz/feed/",
+      "snippet": "Hledáme stážisty*ky na pomoc s tvorbou obsahu na sociální sítě odborného vzdělávacího profilu. Co budeš dělat? Proč se přihlásit? Koho hledáme? Stáž bude od listopadu/prosince 2026 do června 2027. Časová dotace cca 5-8 hodin týdně a pracovat můžeš online odkudkoliv. Zájemci*kyně prosím pošlete do 15",
+      "published": "Mon, 19 Oct 2026 14:01:03 +0000",
+      "lang": "cs"
+    },
+    {
+      "title": "Romští partyzáni a vojáci ve 2. světové válce - 16. října 05:59 - Studio 6 - Česká televize",
+      "url": "https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010101016/cast/1214275/",
+      "source": "Česká televize",
+      "snippet": "Romští partyzáni a vojáci ve 2. světové válce - 16. října 05:59 - Studio 6 Česká televize",
+      "published": "Sun, 18 Oct 2026 22:39:12 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Rasismus na Kladensku? Svaz vyhlásil nulovou toleranci, hrozí tresty - Kladenský deník",
+      "url": "https://kladensky.denik.cz/fotbal/rasismus-na-kladensku-svaz-vyhlasil-nulovou-toleranci-hrozi-tresty/",
+      "source": "Kladenský deník",
+      "snippet": "Rasismus na Kladensku? Svaz vyhlásil nulovou toleranci, hrozí tresty Kladenský deník",
+      "published": "Wed, 21 Oct 2026 09:00:58 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Věra Tichánková přežila čekání na smrt v ohnivém pekle - Krajské listy",
+      "url": "https://www.krajskelisty.cz/praha/35863-vera-tichankova-prezila-cekani-na-smrt-v-ohnivem-pekle.htm",
+      "source": "Krajské listy",
+      "snippet": "Věra Tichánková přežila čekání na smrt v ohnivém pekle Krajské listy",
+      "published": "Wed, 21 Oct 2026 04:42:36 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Putinovo okno příležitosti k vítězství je otevřené nejvíc za poslední roky - Hospodářské noviny",
+      "url": "https://archiv.hn.cz/c1-67948310-putinovo-okno-prilezitosti-k-vitezstvi-je-otevrene-nejvic-za-posledni-roky",
+      "source": "Hospodářské noviny",
+      "snippet": "Putinovo okno příležitosti k vítězství je otevřené nejvíc za poslední roky Hospodářské noviny",
+      "published": "Wed, 21 Oct 2026 06:44:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Tajné výcvikové tábory? Radikální levice prý cvičí gerilový boj v pustině u Limoges - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/v-odlehlych-lesich-francie-se-ma-trenovat-gerila-starosta-ukazal-na-levici.A261020_174431_zahranicni_ichuc",
       "source": "iDNES.cz",
-      "snippet": "Podcast: Linka M a první karavanista v Praze. Jak Australan v roce 1959 proslavil kemp v Braníku iDNES.cz",
-      "published": "Mon, 19 Oct 2026 11:02:00 GMT",
+      "snippet": "Tajné výcvikové tábory? Radikální levice prý cvičí gerilový boj v pustině u Limoges iDNES.cz",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů - Jihlavská Drbna",
-      "url": "https://jihlavska.drbna.cz/spolecnost/903333-rasismus-v-obchode-i-boj-o-bydleni-studentska-hra-upozornuje-na-trapeni-romu.html",
-      "source": "Jihlavská Drbna",
-      "snippet": "Rasismus v obchodě i boj o bydlení. Studentská hra upozorňuje na trápení Romů Jihlavská Drbna",
-      "published": "Sun, 18 Oct 2026 14:46:00 GMT",
+      "title": "Rabování zasáhlo 2000 obchodů. Kořist teď míří na Vinted - Blesk.cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-svet/850945/drzi-lupici-z-rozbourene-francie-uz-prodavaji-korist.html",
+      "source": "Blesk.cz",
+      "snippet": "Rabování zasáhlo 2000 obchodů. Kořist teď míří na Vinted Blesk.cz",
+      "published": "Wed, 21 Oct 2026 11:15:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "O vzniku rasismu tzv. čisté krve ve Španělsku 15. století | 20. 10. 2026 | Boris Cvek - Britské listy",
-      "url": "https://www.blisty.cz/art/136875-o-vzniku-rasismu-tzv-ciste-krve-ve-spanelsku-15-stoleti.html",
-      "source": "Britské listy",
-      "snippet": "O vzniku rasismu tzv. čisté krve ve Španělsku 15. století | 20. 10. 2026 | Boris Cvek Britské listy",
-      "published": "Mon, 19 Oct 2026 23:01:34 GMT",
+      "title": "Jste obchodník s chudobou, uznal soud. Podnikatel musí platit vyšší daň - iDNES.cz",
+      "url": "https://www.idnes.cz/usti/zpravy/zatec-obchod-s-chudobou-krajsky-soud-zaloba-zamitnuti-dan-spor.A261020_115922_usti-zpravy_grr",
+      "source": "iDNES.cz",
+      "snippet": "Jste obchodník s chudobou, uznal soud. Podnikatel musí platit vyšší daň iDNES.cz",
+      "published": "Tue, 20 Oct 2026 12:59:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Trus hlodavců, plísně a špatně skladované potraviny. Inspekce zavřela restauraci v Ostrově – fotogalerie - Karlovarská Drbna",
-      "url": "https://karlovarska.drbna.cz/galerie/clanek/903388-trus-hlodavcu-plisne-a-spatne-skladovane-potraviny-inspekce-zavrela-restauraci-v-ostrove.html?zpet=%2Fspolecnost%2F903388-trus-hlodavcu-plisne-a-spatne-skladovane-potraviny-inspekce-zavrela-restauraci-v-ostrove.html",
-      "source": "Karlovarská Drbna",
-      "snippet": "Trus hlodavců, plísně a špatně skladované potraviny. Inspekce zavřela restauraci v Ostrově – fotogalerie Karlovarská Drbna",
-      "published": "Mon, 19 Oct 2026 13:07:30 GMT",
+      "title": "Dávky na bydlení se změnily. Kdo si polepší a proč může být problém právě v Brně - Newstream",
+      "url": "https://www.newstream.cz/reality/davky-na-bydleni-se-zmenily-kdo-si-polepsi-a-proc-muze-byt-problem-prave-v-brne",
+      "source": "Newstream",
+      "snippet": "Dávky na bydlení se změnily. Kdo si polepší a proč může být problém právě v Brně Newstream",
+      "published": "Wed, 21 Oct 2026 03:53:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Protestů ve Francii zneužívají organizované gangy vandalů, říká z Paříže podnikatelka - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/protestu-ve-francii-zneuzivaji-organizovane-gangy-vandalu-rika-z-parize_2610201355_vdv",
-      "source": "iROZHLAS",
-      "snippet": "Protestů ve Francii zneužívají organizované gangy vandalů, říká z Paříže podnikatelka iROZHLAS",
-      "published": "Tue, 20 Oct 2026 11:55:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Je tu spousta rasismu, spousta nenávisti“: Před volbami v Izraeli se předpovídá posílení krajní pravice - Britské listy",
-      "url": "https://www.blisty.cz/art/136838-je-tu-spousta-rasismu-spousta-nenavisti-pred-volbami-v-izraeli-se-predpovida-posileni-krajni-pravice.html",
-      "source": "Britské listy",
-      "snippet": "„Je tu spousta rasismu, spousta nenávisti“: Před volbami v Izraeli se předpovídá posílení krajní pravice Britské listy",
-      "published": "Sun, 18 Oct 2026 08:33:57 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Jenda zlobí, superdávka nechodí a ministr radí mimořádnou pomoc. Jak o ni žádat? - Penize.cz",
-      "url": "https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/498528-jenda-zlobi-superdavka-nechodi-a-ministr-radi-mimoradnou-pomoc-jak-o-ni-zadat",
-      "source": "Penize.cz",
-      "snippet": "Jenda zlobí, superdávka nechodí a ministr radí mimořádnou pomoc. Jak o ni žádat? Penize.cz",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Mami! Tátova milenka mě naučila na kole! - Stream.cz",
-      "url": "https://www.stream.cz/milenky-sobe/mami-tatova-milenka-me-naucila-na-kole-65591073",
+      "title": "Vzor českého podnikatele? Kožený, Klaus a Harvardské fondy - Stream.cz",
+      "url": "https://www.stream.cz/tajna-slozka/vzor-ceskeho-podnikatele-kozeny-klaus-a-harvardske-fondy-65595597",
       "source": "Stream.cz",
-      "snippet": "Mami! Tátova milenka mě naučila na kole! Stream.cz",
-      "published": "Mon, 19 Oct 2026 15:41:16 GMT",
+      "snippet": "Vzor českého podnikatele? Kožený, Klaus a Harvardské fondy Stream.cz",
+      "published": "Tue, 20 Oct 2026 11:01:21 GMT",
       "lang": "cs"
     },
     {
-      "title": "KRUH – PŘEDNÁŠKA DOSTUPNÉ BYDLENÍ V AMSTERDAMU - Radio 1",
-      "url": "https://www.radio1.cz/kruh-prednaska-dostupne-bydleni-v-amsterdamu/",
+      "title": "Konec čekání na euroklíče. Kdy budou znovu k dispozici? - Peníze.cz",
+      "url": "https://www.penize.cz/socialni-davky/498657-konec-cekani-na-euroklice-kdy-budou-znovu-k-dispozici",
+      "source": "Peníze.cz",
+      "snippet": "Konec čekání na euroklíče. Kdy budou znovu k dispozici? Peníze.cz",
+      "published": "Wed, 21 Oct 2026 11:47:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Dostupné bydlení i péče o duševní zdraví. Prezident přijal mladé politiky - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/pavel-mluvit-mladi-politici-dostupne-bydleni-dusevni-zdravi.A261020_165421_domaci_sahu",
+      "source": "iDNES.cz",
+      "snippet": "Dostupné bydlení i péče o duševní zdraví. Prezident přijal mladé politiky iDNES.cz",
+      "published": "Tue, 20 Oct 2026 15:18:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "KRUH – PŘEDNÁŠKA O DOSTUPNÉM BYDLENÍ V AMSTERDAMU - Radio 1",
+      "url": "https://radio1.cz/kruh-prednaska-dostupne-bydleni-v-amsterdamu/",
       "source": "Radio 1",
-      "snippet": "KRUH – PŘEDNÁŠKA DOSTUPNÉ BYDLENÍ V AMSTERDAMU Radio 1",
-      "published": "Tue, 20 Oct 2026 09:28:13 GMT",
+      "snippet": "KRUH – PŘEDNÁŠKA O DOSTUPNÉM BYDLENÍ V AMSTERDAMU Radio 1",
+      "published": "Tue, 20 Oct 2026 22:33:02 GMT",
       "lang": "cs"
     },
     {
-      "title": "Z desítek milionů neviděli potřební ani korunu. \"Tak si to ministerstvo objednalo,\" hájí se neziskovka - Aktuálně.cz",
-      "url": "https://zpravy.aktualne.cz/domaci/setkani-happeningy-videa-juchelkuv-urad-resi-dotacni-masinerii-za-desitky-milionu/r~aaa29b17ec26c8413282596cb8293c39/",
-      "source": "Aktuálně.cz",
-      "snippet": "Z desítek milionů neviděli potřební ani korunu. \"Tak si to ministerstvo objednalo,\" hájí se neziskovka Aktuálně.cz",
-      "published": "Tue, 20 Oct 2026 03:30:00 GMT",
+      "title": "Apolena Rychlíková: Praha na cestě k setrvačnosti. STAN a ODS nejsou žádná změna | Plus - Portál Českého rozhlasu",
+      "url": "http://www.rozhlas.cz/apolena-rychlikova-praha-na-ceste-k-setrvacnosti-stan-a-ods-nejsou-zadna-zmena-9650697",
+      "source": "Portál Českého rozhlasu",
+      "snippet": "Apolena Rychlíková: Praha na cestě k setrvačnosti. STAN a ODS nejsou žádná změna | Plus Portál Českého rozhlasu",
+      "published": "Sun, 18 Oct 2026 13:24:48 GMT",
       "lang": "cs"
     },
     {
-      "title": "bEDUin 34/2026: Stát konečně zná data o počtu absencí v ZŠ. Nemají sloužit k sankcím, ale k podpoře - EDUin",
-      "url": "https://www.eduin.cz/clanky/beduin-34-2026/",
-      "source": "EDUin",
-      "snippet": "bEDUin 34/2026: Stát konečně zná data o počtu absencí v ZŠ. Nemají sloužit k sankcím, ale k podpoře EDUin",
-      "published": "Mon, 19 Oct 2026 14:08:48 GMT",
+      "title": "Pardubický kraj hledá inspiraci ve Valonsku, evropském lídrovi sociální ekonomiky - Náš REGION",
+      "url": "https://nasregion.cz/pardubicky-kraj-hleda-inspiraci-ve-valonsku-evropskem-lidrovi-socialni-ekonomiky-460811/",
+      "source": "Náš REGION",
+      "snippet": "Pardubický kraj hledá inspiraci ve Valonsku, evropském lídrovi sociální ekonomiky Náš REGION",
+      "published": "Mon, 19 Oct 2026 12:58:07 GMT",
       "lang": "cs"
     }
   ]
