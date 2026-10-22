@@ -1,67 +1,71 @@
-# Kandidáti — 2026-10-21T12:28:11+00:00 (16 položek)
+# Kandidáti — 2026-10-22T12:29:47+00:00 (17 položek)
 
-_Zdroje: Google News 58 · GDELT 0 (disabled) · feedy 2 · watch 0_
+_Zdroje: Google News 68 · GDELT 0 (disabled) · feedy 4 · watch 0_
 
-1. **Ázerbájdžánský Nejvyšší soud potvrdil Bahruzovi Samadovovi 15 let vězení** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/azerbajdzansky-nejvyssi-soud-potvrdil-bahruzovi-samadovovi-15-let-vezeni/
-   Nejvyšší soud zamítl kasační stížnost Bahruze Samadova a ponechal v platnosti jeho patnáctiletý trest. Během přestávky v soudním jednání si Bahruz podle své právničky pořezal pravou paži ostrým předmě
+1. **Keňa: Úřady se musí zabývat ekonomickými problémy vyvolávajícími protesty a ukončit represivní taktiku** — https://amnesty.cz/feed/ [cs]
+   https://amnesty.cz/kena-urady-se-musi-zabyvat-ekonomickymi-problemy-vyvolavajicimi-protesty-a-ukoncit-represivni-taktiku/
+   Keňské úřady stále častěji využívají autoritářské taktiky včetně svévolného zatýkání a zadržování, únosů, účelového stíhání demonstrantů, sledování a represí médií za účelem potlačení protestů proti p
 
-2. **STÁŽ: Tvorba vzdělávacího obsahu na sociální sítě** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/staz-tvorba-vzdelavaciho-obsahu-na-socialni-site/
-   Hledáme stážisty*ky na pomoc s tvorbou obsahu na sociální sítě odborného vzdělávacího profilu. Co budeš dělat? Proč se přihlásit? Koho hledáme? Stáž bude od listopadu/prosince 2026 do června 2027. Čas
+2. **Čínský umělec Kao Čen dostal tři roky vězení za svou tvorbu. Jeho zdraví vyvolává obavy** — https://amnesty.cz/feed/ [cs]
+   https://amnesty.cz/cinsky-umelec-kao-cen-dostal-tri-roky-vezeni-za-svou-tvorbu-jeho-zdravi-vyvolava-obavy/
+   Čínský umělec Kao Čen byl v srpnu 2026 odsouzen ke třem letům vězení za údajné „hanobení čínských hrdinů a mučedníků“. Trest dostal za umělecká díla, která vytvořil ještě před přijetím zákona, na jeho
 
-3. **Romští partyzáni a vojáci ve 2. světové válce - 16. října 05:59 - Studio 6 - Česká televize** — Česká televize [cs]
-   https://www.ceskatelevize.cz/porady/1096902795-studio-6/226411010101016/cast/1214275/
-   Romští partyzáni a vojáci ve 2. světové válce - 16. října 05:59 - Studio 6 Česká televize
+3. **Trapas, vysmívají se studenti policii ve Francii. Tajné „boží heslo“ je symbolem protestů - CNN Prima NEWS** — CNN Prima NEWS [cs]
+   https://cnn.iprima.cz/zvlastni-heslo-se-stalo-hitem-protestu-ve-francii-studenti-jim-zesmesnuji-policii-525012
+   Trapas, vysmívají se studenti policii ve Francii. Tajné „boží heslo“ je symbolem protestů CNN Prima NEWS
 
-4. **Rasismus na Kladensku? Svaz vyhlásil nulovou toleranci, hrozí tresty - Kladenský deník** — Kladenský deník [cs]
-   https://kladensky.denik.cz/fotbal/rasismus-na-kladensku-svaz-vyhlasil-nulovou-toleranci-hrozi-tresty/
-   Rasismus na Kladensku? Svaz vyhlásil nulovou toleranci, hrozí tresty Kladenský deník
+4. **Pennywise se utká s gangstery. Druhá série TO nám ukáže novou stránku ikonického záporáka - Kinobox** — Kinobox [cs]
+   https://www.kinobox.cz/clanky/serialy/59398-pennywise-se-utka-s-gangstery-druha-serie-to-vitejte-v-derry-se-zameri-na-dobu-hospodarske-krize
+   Pennywise se utká s gangstery. Druhá série TO nám ukáže novou stránku ikonického záporáka Kinobox
 
-5. **Věra Tichánková přežila čekání na smrt v ohnivém pekle - Krajské listy** — Krajské listy [cs]
-   https://www.krajskelisty.cz/praha/35863-vera-tichankova-prezila-cekani-na-smrt-v-ohnivem-pekle.htm
-   Věra Tichánková přežila čekání na smrt v ohnivém pekle Krajské listy
+5. **Festival romského jazyka na Kladně ukáže romskou kulturu, literaturu i tradice - Kladenský deník** — Kladenský deník [cs]
+   https://kladensky.denik.cz/volny-cas/festival-romskeho-jazyka-na-kladne-ukaze-romskou-kulturu-literaturu-i-tradice/
+   Festival romského jazyka na Kladně ukáže romskou kulturu, literaturu i tradice Kladenský deník
 
-6. **Putinovo okno příležitosti k vítězství je otevřené nejvíc za poslední roky - Hospodářské noviny** — Hospodářské noviny [cs]
-   https://archiv.hn.cz/c1-67948310-putinovo-okno-prilezitosti-k-vitezstvi-je-otevrene-nejvic-za-posledni-roky
-   Putinovo okno příležitosti k vítězství je otevřené nejvíc za poslední roky Hospodářské noviny
+6. **Kulturní války v Latinské Americe. Jak algoritmy formují brazilské volby? - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/svet/kulturni-valky-v-latinske-americe-jak-algoritmy-formuji-brazilske-volby-378874
+   Kulturní války v Latinské Americe. Jak algoritmy formují brazilské volby? ČT24
 
-7. **Tajné výcvikové tábory? Radikální levice prý cvičí gerilový boj v pustině u Limoges - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/v-odlehlych-lesich-francie-se-ma-trenovat-gerila-starosta-ukazal-na-levici.A261020_174431_zahranicni_ichuc
-   Tajné výcvikové tábory? Radikální levice prý cvičí gerilový boj v pustině u Limoges iDNES.cz
+7. **Filip Valíček: Podcasty DR: Kdo po volbách zastaví krajní pravici a nabídne alternativu? - Deník Referendum** — Deník Referendum [cs]
+   https://denikreferendum.cz/clanek/239486-podcasty-dr-kdo-po-volbach-zastavi-krajni-pravici-a-nabidne-alternativu
+   Filip Valíček: Podcasty DR: Kdo po volbách zastaví krajní pravici a nabídne alternativu? Deník Referendum
 
-8. **Rabování zasáhlo 2000 obchodů. Kořist teď míří na Vinted - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/clanek/zpravy-svet/850945/drzi-lupici-z-rozbourene-francie-uz-prodavaji-korist.html
-   Rabování zasáhlo 2000 obchodů. Kořist teď míří na Vinted Blesk.cz
+8. **Robert Schuster: Příklad Berlína ukazuje, že Německo se potýká i s extremismem zleva - Český rozhlas Plus** — Český rozhlas Plus [cs]
+   https://plus.rozhlas.cz/robert-schuster-priklad-berlina-ukazuje-ze-nemecko-se-potyka-i-s-extremismem-9651450
+   Robert Schuster: Příklad Berlína ukazuje, že Německo se potýká i s extremismem zleva Český rozhlas Plus
 
-9. **Jste obchodník s chudobou, uznal soud. Podnikatel musí platit vyšší daň - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/usti/zpravy/zatec-obchod-s-chudobou-krajsky-soud-zaloba-zamitnuti-dan-spor.A261020_115922_usti-zpravy_grr
-   Jste obchodník s chudobou, uznal soud. Podnikatel musí platit vyšší daň iDNES.cz
+9. **Předseda frakce S&D: Ochrana našich občanů a hranic znamená také hájení našich hodnot - Socialists and Democrats** — Socialists and Democrats [cs]
+   https://www.socialistsanddemocrats.eu/cs/newsroom/predseda-frakce-sd-ochrana-nasich-obcanu-hranic-znamena-take-hajeni-nasich-hodnot
+   Předseda frakce S&D: Ochrana našich občanů a hranic znamená také hájení našich hodnot Socialists and Democrats
 
-10. **Dávky na bydlení se změnily. Kdo si polepší a proč může být problém právě v Brně - Newstream** — Newstream [cs]
-   https://www.newstream.cz/reality/davky-na-bydleni-se-zmenily-kdo-si-polepsi-a-proc-muze-byt-problem-prave-v-brne
-   Dávky na bydlení se změnily. Kdo si polepší a proč může být problém právě v Brně Newstream
+10. **Komunistka Konečná jde k Patriotům: Brusel se diví! - ProSvět.cz** — ProSvět.cz [cs]
+   https://prosvet.cz/komunistka-konecna-vstoupila-do-patriotu-pro-evropu-brusel-se-divi-babis-jasa/
+   Komunistka Konečná jde k Patriotům: Brusel se diví! ProSvět.cz
 
-11. **Vzor českého podnikatele? Kožený, Klaus a Harvardské fondy - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/tajna-slozka/vzor-ceskeho-podnikatele-kozeny-klaus-a-harvardske-fondy-65595597
-   Vzor českého podnikatele? Kožený, Klaus a Harvardské fondy Stream.cz
+11. **Soud v Novém Mexiku uložil Metě zaplatit 25 miliard dolarů za nakládání s daty - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/svet/soud-v-novem-mexiku-ulozil-mete-zaplatit-25-miliard-dolaru-za-nakladani-s-daty-378886
+   Soud v Novém Mexiku uložil Metě zaplatit 25 miliard dolarů za nakládání s daty ČT24
 
-12. **Konec čekání na euroklíče. Kdy budou znovu k dispozici? - Peníze.cz** — Peníze.cz [cs]
-   https://www.penize.cz/socialni-davky/498657-konec-cekani-na-euroklice-kdy-budou-znovu-k-dispozici
-   Konec čekání na euroklíče. Kdy budou znovu k dispozici? Peníze.cz
+12. **Noclehárny v Olomouckém kraji nestačí, na volná lůžka mají pořadníky - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/olomouc/zpravy/bezdomovectvi-azylove-domy-nocleharny-socialni-bydleni-bytova-nouze.A261021_976168_brno-zpravy_icer
+   Noclehárny v Olomouckém kraji nestačí, na volná lůžka mají pořadníky iDNES.cz
 
-13. **Dostupné bydlení i péče o duševní zdraví. Prezident přijal mladé politiky - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/domaci/pavel-mluvit-mladi-politici-dostupne-bydleni-dusevni-zdravi.A261020_165421_domaci_sahu
-   Dostupné bydlení i péče o duševní zdraví. Prezident přijal mladé politiky iDNES.cz
+13. **Proměna Světovaru pokračuje: Do roku 2028 vyrostou čtyři nové domy se zelenými střechami a prodejnou - Plzen.cz** — Plzen.cz [cs]
+   https://www.plzen.cz/promena_svetovaru_pokracuje_do_roku_2028_vyrostou_ctyri_nove_domy_se_zelenymi_strechami_a_prodejnou
+   Proměna Světovaru pokračuje: Do roku 2028 vyrostou čtyři nové domy se zelenými střechami a prodejnou Plzen.cz
 
-14. **KRUH – PŘEDNÁŠKA O DOSTUPNÉM BYDLENÍ V AMSTERDAMU - Radio 1** — Radio 1 [cs]
-   https://radio1.cz/kruh-prednaska-dostupne-bydleni-v-amsterdamu/
-   KRUH – PŘEDNÁŠKA O DOSTUPNÉM BYDLENÍ V AMSTERDAMU Radio 1
+14. **Mladá vláda bude s prezidentem Pavlem jednat o dostupném bydlení, podpoře studentů a hlasu mladých v obcích - Pirátská strana** — Pirátská strana [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/mlada-vlada-bude-s-prezidentem-pavlem-jednat-o-dostupnem-bydleni-podpore-studentu-a-hlasu-mladych-v-obcich/
+   Mladá vláda bude s prezidentem Pavlem jednat o dostupném bydlení, podpoře studentů a hlasu mladých v obcích Pirátská strana
 
-15. **Apolena Rychlíková: Praha na cestě k setrvačnosti. STAN a ODS nejsou žádná změna | Plus - Portál Českého rozhlasu** — Portál Českého rozhlasu [cs]
-   http://www.rozhlas.cz/apolena-rychlikova-praha-na-ceste-k-setrvacnosti-stan-a-ods-nejsou-zadna-zmena-9650697
-   Apolena Rychlíková: Praha na cestě k setrvačnosti. STAN a ODS nejsou žádná změna | Plus Portál Českého rozhlasu
+15. **Evropa na sudu střelného prachu: Itálie je největší ekonomický průšvih za 30 let, říká ekonom Zahradník - Investiční web** — Investiční web [cs]
+   https://www.investicniweb.cz/ekonomika/331194-zahradnik-evropa-sud-strelneho-prachu-francie-italie
+   Evropa na sudu střelného prachu: Itálie je největší ekonomický průšvih za 30 let, říká ekonom Zahradník Investiční web
 
-16. **Pardubický kraj hledá inspiraci ve Valonsku, evropském lídrovi sociální ekonomiky - Náš REGION** — Náš REGION [cs]
-   https://nasregion.cz/pardubicky-kraj-hleda-inspiraci-ve-valonsku-evropskem-lidrovi-socialni-ekonomiky-460811/
-   Pardubický kraj hledá inspiraci ve Valonsku, evropském lídrovi sociální ekonomiky Náš REGION
+16. **Vláda projídá budoucnost mladé generace. Návrh rozpočtu vykazuje deficit až 440 miliard korun, varují Piráti - Pirátská strana** — Pirátská strana [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/vlada-projida-budoucnost-mlade-generace-navrh-rozpoctu-vykazuje-deficit-az-440-miliard-korun-varuji-pirati/
+   Vláda projídá budoucnost mladé generace. Návrh rozpočtu vykazuje deficit až 440 miliard korun, varují Piráti Pirátská strana
+
+17. **Miroslava Federičová: Jak poznat nadané žáky? - EDUin** — EDUin [cs]
+   https://www.eduin.cz/clanky/nadani-a-segregovani/
+   Miroslava Federičová: Jak poznat nadané žáky? EDUin
