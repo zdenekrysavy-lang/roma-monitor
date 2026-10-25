@@ -1,63 +1,51 @@
-# Kandidáti — 2026-10-24T11:42:48+00:00 (15 položek)
+# Kandidáti — 2026-10-25T12:04:49+00:00 (12 položek)
 
-_Zdroje: Google News 66 · GDELT 0 (disabled) · feedy 3 · watch 2_
+_Zdroje: Google News 67 · GDELT 0 (disabled) · feedy 1 · watch 4_
 
-1. **NSVZ_definice pracovni naplne specialisty VZ_statni sprava.cdr - Ministerstvo pro místní rozvoj** — Ministerstvo pro místní rozvoj [cs]
-   https://mmr.gov.cz/getmedia/ac85bc3e-c02a-4f50-ba40-667998e17c7b/NSVZ_definice-pracovni-naplne-specialisty-VZ_statni-sprava.pdf.aspx?ext=.pdf
-   NSVZ_definice pracovni naplne specialisty VZ_statni sprava.cdr Ministerstvo pro místní rozvoj
+1. **Cenu Muzea romské kultury získala spisovatelka Květoslava Podhradská - Brněnská Drbna** — Brněnská Drbna [cs]
+   https://brnenska.drbna.cz/kultura/903990-cenu-muzea-romske-kultury-ziskala-spisovatelka-kvetoslava-podhradska.html
+   Cenu Muzea romské kultury získala spisovatelka Květoslava Podhradská Brněnská Drbna
 
-2. **Dluhový poradce*kyně Rakovník - Člověk v tísni** — Člověk v tísni [cs]
-   https://www.clovekvtisni.cz/kariera/dluhovy-poradce-kyne-rakovnik-2714jo
-   Dluhový poradce*kyně Rakovník Člověk v tísni
+2. **Ve Francii zadrželi další tři lidi v souvislosti se střelbou na předměstí Paříže - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/ve-francii-zadrzeli-dalsi-tri-lidi-v-souvislosti-se-strelbou-na-predmesti-parize/2892103
+   Ve Francii zadrželi další tři lidi v souvislosti se střelbou na předměstí Paříže České noviny
 
-3. **Známý romský aktivista Goral: Když máme demokracii, tak se do práce nemusí? - Krajské listy** — Krajské listy [cs]
-   https://www.krajskelisty.cz/praha/35875-znamy-romsky-aktivista-goral-kdyz-mame-demokracii-tak-se-do-prace-nemusi.htm
-   Známý romský aktivista Goral: Když máme demokracii, tak se do práce nemusí? Krajské listy
+3. **Střelba ve Francii měla islamofobní podtext, uvedly úřady - www.prahanadlani.cz** — www.prahanadlani.cz [cs]
+   https://www.prahanadlani.cz/amp-clanek-zprava/1723561-strelba-ve-francii-mela-islamofobni-podtext-uvedly-urady.html
+   Střelba ve Francii měla islamofobní podtext, uvedly úřady www.prahanadlani.cz
 
-4. **Matouš Jelínek: V Brně ubývá ubytoven. Dobrá zpráva se špatným dopadem - Deník Referendum** — Deník Referendum [cs]
-   https://denikreferendum.cz/clanek/239499-v-brne-ubyva-ubytoven-dobra-zprava-se-spatnym-dopadem
-   Matouš Jelínek: V Brně ubývá ubytoven. Dobrá zpráva se špatným dopadem Deník Referendum
+4. **Francouzské protesty obrazem: Ježíš s benzinkou, slzný plyn i filozofie - Seznam Zprávy** — Seznam Zprávy [cs]
+   https://www.seznamzpravy.cz/clanek/zahranicni-francouzske-protesty-obrazem-jezis-s-benzinkou-slzny-plyn-i-filozofie-318674
+   Francouzské protesty obrazem: Ježíš s benzinkou, slzný plyn i filozofie Seznam Zprávy
 
-5. **Při střelbě u Paříže zemřel člověk. Byl to teroristický útok, hřmí Macron - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/659766-pri-strelbe-u-parize-zemrel-clovek-byl-to-teroristicky-utok-hrmi-macron
-   Při střelbě u Paříže zemřel člověk. Byl to teroristický útok, hřmí Macron TN.cz
+5. **Francie se vyhnula snížení ratingu - FXstreet.cz** — FXstreet.cz [cs]
+   https://www.fxstreet.cz/francie-se-vyhnula-snizeni-ratingu.html
+   Francie se vyhnula snížení ratingu FXstreet.cz
 
-6. **Muž na předměstí Paříže zastřelil člověka a další zranil, dle úřadů šlo o terorismus - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/clanek/svet/muz-strilel-na-predmesti-parize-nejmene-jeden-clovek-zemrel-378944
-   Muž na předměstí Paříže zastřelil člověka a další zranil, dle úřadů šlo o terorismus ČT24
+6. **Pokud se Marine Le Pen prosadí, tak to bude konec Evropské unie, jak ji známe - RESPEKT** — RESPEKT [cs]
+   https://www.respekt.cz/tydenik/2026/44/pokud-se-marine-le-pen-prosadi-tak-to-bude-konec-evropske-unie-jak-ji-zname
+   Pokud se Marine Le Pen prosadí, tak to bude konec Evropské unie, jak ji známe RESPEKT
 
-7. **Jeden mrtvý, vážně zraněné dítě. Střelbu u Paříže řeší policie jako terorismus - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/trappes-francie-pariz-strelba-obet-divka.A261023_133653_zahranicni_dtt
-   Jeden mrtvý, vážně zraněné dítě. Střelbu u Paříže řeší policie jako terorismus iDNES.cz
+7. **Jakub Patočka: Noční útok na veřejnoprávní média je přímým ohrožením demokracie - Deník Referendum** — Deník Referendum [cs]
+   https://denikreferendum.cz/clanek/239500-nocni-utok-na-verejnopravni-media-je-primym-ohrozenim-demokracie
+   Jakub Patočka: Noční útok na veřejnoprávní média je přímým ohrožením demokracie Deník Referendum
 
-8. **Když přestane věřit systému, vezme spravedlnost do vlastních rukou. Politický thriller Spravedlnost představuje trailer a míří do kin - Cysnews** — Cysnews [cs]
-   https://www.cysnews.cz/top-clanky/kdyz-prestane-verit-systemu-vezme-spravedlnost-do-vlastnich-rukou-politicky-thriller-spravedlnost-predstavuje-trailer-a-miri-do-kin/amp/
-   Když přestane věřit systému, vezme spravedlnost do vlastních rukou. Politický thriller Spravedlnost představuje trailer a míří do kin Cysnews
+8. **Soud v Novém Mexiku uložil Metě zaplatit 25 miliard dolarů za nakládání s daty - ITBiz.cz** — ITBiz.cz [cs]
+   https://www.itbiz.cz/soud-v-novem-mexiku-ulozil-mete-zaplatit-25-miliard-dolaru-za-nakladani-s-daty/
+   Soud v Novém Mexiku uložil Metě zaplatit 25 miliard dolarů za nakládání s daty ITBiz.cz
 
-9. **Soud v Novém Mexiku uložil Metě pokutu 25 miliard dolarů. Měla lhát o tom, kdo má přístup k datům - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/soud-v-novem-mexiku-ulozil-mete-pokutu-25-miliard-dolaru-mela-lhat-o-tom-kdo-ma_2610212025_adn
-   Soud v Novém Mexiku uložil Metě pokutu 25 miliard dolarů. Měla lhát o tom, kdo má přístup k datům iROZHLAS
+9. **Tisícům lidí nedorazila superdávka, ocitli se v existenčních problémech. Úřad poradil, jak mají postupovat - České důchody** — České důchody [cs]
+   https://ceskeduchody.cz/zpravy/tisicum-lidi-nedorazila-superdavka-ocitli-se-v-existencnich-problemech-urad-poradil-jak-maji-postupovat
+   Tisícům lidí nedorazila superdávka, ocitli se v existenčních problémech. Úřad poradil, jak mají postupovat České důchody
 
-10. **Obchod s chudobou nekončí. Lidé v nouzi platí 12 tisíc za garsonku, radnice se brání těžko - Dřevostavitel** — Dřevostavitel [cs]
-   https://www.drevostavitel.cz/clanek/byt-koupili-za-50-tisic/136983
-   Obchod s chudobou nekončí. Lidé v nouzi platí 12 tisíc za garsonku, radnice se brání těžko Dřevostavitel
+10. **Paradox opuštěných studentů: Kdyby vzdali školu, dávku hned dostanou - Seznam Zprávy** — Seznam Zprávy [cs]
+   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-paradox-opustenych-studentu-kdyby-vzdali-skolu-davku-hned-dostanou-316465
+   Paradox opuštěných studentů: Kdyby vzdali školu, dávku hned dostanou Seznam Zprávy
 
-11. **Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát - Dřevostavitel** — Dřevostavitel [cs]
-   https://www.drevostavitel.cz/clanek/byt-koupili-za-50-tisic
-   Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát Dřevostavitel
+11. **Majitelé psů měli výrazně nižší výskyt demence. U koček vědci podobný výsledek nezaznamenali - diskuze - České důchody** — České důchody [cs]
+   https://ceskeduchody.cz/diskuze/pejskari-versus-milovnici-kocek-vedci-u-jedne-skupiny-zjistili-vyrazne-nizsi-vyskyt-demence-ve-stari-a-nabidli-i-mozne-vysvetleni?utm_campaign=hp_feed&utm_medium=seznam_distribuce&utm_source=www.seznam.cz
+   Majitelé psů měli výrazně nižší výskyt demence. U koček vědci podobný výsledek nezaznamenali - diskuze České důchody
 
-12. **Přechod na superdávku provází problémy. Tisíce lidí stále čekají na peníze - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/659760-prechod-na-superdavku-provazi-problemy-tisice-lidi-stale-cekaji-na-penize
-   Přechod na superdávku provází problémy. Tisíce lidí stále čekají na peníze TN.cz
-
-13. **Český herec je rád, že se uživí. Na Slovensku se platí víc, říká Ondříček - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/byznys/ondricek-posila-do-kin-novodobe-samotare-za-60-milionu-a-bez-grantu-65597715
-   Český herec je rád, že se uživí. Na Slovensku se platí víc, říká Ondříček Stream.cz
-
-14. **Piráti chtějí dostat moderní technologie do sociální péče. Mají pomáhat lidem, ne nahrazovat lidský kontakt - Pirátská strana** — Pirátská strana [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/pirati-chteji-dostat-moderni-technologie-do-socialni-pece-maji-pomahat-lidem-ne-nahrazovat-lidsky-kontakt/
-   Piráti chtějí dostat moderní technologie do sociální péče. Mají pomáhat lidem, ne nahrazovat lidský kontakt Pirátská strana
-
-15. **Proměna Světovaru pokračuje: Do roku 2028 vyrostou čtyři nové domy se zelenými střechami a prodejnou - zak.tv** — zak.tv [cs]
-   https://www.zak.tv/promena_svetovaru_pokracuje_do_roku_2028_vyrostou_ctyri_nove_domy_se_zelenymi_strechami_a_prodejnou
-   Proměna Světovaru pokračuje: Do roku 2028 vyrostou čtyři nové domy se zelenými střechami a prodejnou zak.tv
+12. **„V mém věku už mě nikde nevezmou.“ Strach ze změny práce drží tisíce Čechů v zaměstnání, které jim nevyhovuje - diskuze - České důchody** — České důchody [cs]
+   https://ceskeduchody.cz/diskuze/v-mem-veku-uz-me-nikde-nevezmou-strach-ze-zmeny-prace-drzi-tisice-cechu-v-zamestnani-ktere-jim-nevyhovuje?utm_campaign=hp_feed&utm_medium=seznam_distribuce&utm_source=www.seznam.cz
+   „V mém věku už mě nikde nevezmou.“ Strach ze změny práce drží tisíce Čechů v zaměstnání, které jim nevyhovuje - diskuze České důchody
