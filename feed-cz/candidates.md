@@ -1,47 +1,39 @@
-# Kandidáti — 2026-10-28T13:34:25+00:00 (11 položek)
+# Kandidáti — 2026-10-29T13:45:49+00:00 (9 položek)
 
-_Zdroje: Google News 65 · GDELT 0 (disabled) · feedy 6 · watch 2_
+_Zdroje: Google News 58 · GDELT 0 (disabled) · feedy 6 · watch 2_
 
-1. **Vzorový etický kodex pro státní zaměstnance - Vláda České republiky** — Vláda České republiky [cs]
-   https://vlada.gov.cz/assets/Statni_sluzba/Dokumenty/Ostatni_dokumenty/261018_text_vzoroveho_etickeho_kodexu.pdf
-   Vzorový etický kodex pro státní zaměstnance Vláda České republiky
+1. **Padlý voják i romská aktivistka. Prezident ocenil osobnosti Moravskoslezského kraje - Ostravská Drbna** — Ostravská Drbna [cs]
+   https://ostravska.drbna.cz/spolecnost/904352-padly-vojak-i-romska-aktivistka-prezident-ocenil-osobnosti-moravskoslezskeho-kraje.html
+   Padlý voják i romská aktivistka. Prezident ocenil osobnosti Moravskoslezského kraje Ostravská Drbna
 
-2. **Sovětské tanky, tisíce mrtvých a romští hrdinové. Maďarsko nezapomíná na své bojovníky za svobodu - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/137043-sovetske-tanky-tisice-mrtvych-a-romsti-hrdinove-madarsko-nezapomina-na-sve-bojovniky-za-svobodu.html
-   Sovětské tanky, tisíce mrtvých a romští hrdinové. Maďarsko nezapomíná na své bojovníky za svobodu Britské listy
+2. **ECRI: ČR pokročila, nenávistné projevy vůči Romům i LGBT zůstávají problémem - Advokátní deník** — Advokátní deník [cs]
+   https://advokatnidenik.cz/2026/10/29/ecri-cr-pokrocila-nenavistne-projevy-vuci-romum-i-lgbt-zustavaji-problemem/
+   ECRI: ČR pokročila, nenávistné projevy vůči Romům i LGBT zůstávají problémem Advokátní deník
 
-3. **Květoslava Podhradská: Povídání u povidel - Blansko** — Blansko [cs]
-   https://www.blansko.cz/kvetoslava-podhradska-povidani-u-povidel
-   Květoslava Podhradská: Povídání u povidel Blansko
+3. **Netanjahu v průběžných výsledcích voleb stále vede, ale většinu nemá - RESPEKT** — RESPEKT [cs]
+   https://www.respekt.cz/informacni-servis/netanjahu-v-prubeznych-vysledcich-voleb-stale-vede-ale-vetsinu-nema-2026-10-28-16-48
+   Netanjahu v průběžných výsledcích voleb stále vede, ale většinu nemá RESPEKT
 
-4. **Dle Macinky stojí za protesty aktivisté. Všechny, které znám, jeli dobrovolně - Epeníze** — Epeníze [cs]
-   https://www.epenize.eu/dle-macinky-stoji-za-protesty-aktiviste-vsechny-ktere-znam-jeli-dobrovolne/
-   Dle Macinky stojí za protesty aktivisté. Všechny, které znám, jeli dobrovolně Epeníze
+4. **Hořící auta místo příčin protestů. Jak krajní pravice zneužívá evropské nepokoje - Manipulátoři.cz** — Manipulátoři.cz [cs]
+   https://manipulatori.cz/horici-auta-misto-pricin-protestu-jak-krajni-pravice-zneuziva-evropske-nepokoje/
+   Hořící auta místo příčin protestů. Jak krajní pravice zneužívá evropské nepokoje Manipulátoři.cz
 
-5. **Slovenské volby: Děti volili Majerského, rodiče Mazurka… a tak to u nich doma v Prešově vybuchlo - RESPEKT** — RESPEKT [cs]
-   https://www.respekt.cz/zahranici/slovenske-volby-deti-volili-majerskeho-rodice-mazurka-a-tak-to-u-nich-doma-v-presove-vybuchlo
-   Slovenské volby: Děti volili Majerského, rodiče Mazurka… a tak to u nich doma v Prešově vybuchlo RESPEKT
+5. **Klempíř a Babiš utnuli, Plaga dává spolku „Díky, že můžem“ dál - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
+   https://www.parlamentnilisty.cz/arena/monitor/Klempir-a-Babis-utnuli-Plaga-dava-spolku-Diky-ze-muzem-dal-798802
+   Klempíř a Babiš utnuli, Plaga dává spolku „Díky, že můžem“ dál ParlamentniListy.cz
 
-6. **O brutálním českém rasismu - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/137052-o-brutalnim-ceskem-rasismu.html
-   O brutálním českém rasismu Britské listy
+6. **Od října 2026 se změnila superdávka. Nová pravidla pomou samoživitelům se staršími dětmi - Poznatsvet.cz** — Poznatsvet.cz [cs]
+   https://www.poznatsvet.cz/kultura-a-umeni/superdavka-2026-zmeny/
+   Od října 2026 se změnila superdávka. Nová pravidla pomou samoživitelům se staršími dětmi Poznatsvet.cz
 
-7. **Costa Jařab, Jařab: Lulovo vítězství: výhra demokracie, ale jen dílčí porážka bolsonarismu - Deník Referendum** — Deník Referendum [cs]
-   https://denikreferendum.cz/clanek/239511-lulovo-vitezstvi-vyhra-demokracie-ale-jen-dilci-porazka-bolsonarismu
-   Costa Jařab, Jařab: Lulovo vítězství: výhra demokracie, ale jen dílčí porážka bolsonarismu Deník Referendum
+7. **Důchodkyně trikem se sociálními dávkami získala tisíce navíc - Podnikatel.cz** — Podnikatel.cz [cs]
+   https://www.podnikatel.cz/clanky/duchodkyne-trikem-se-socialnimi-davkami-ziskala-tisice-navic/
+   Důchodkyně trikem se sociálními dávkami získala tisíce navíc Podnikatel.cz
 
-8. **Vyplácení superdávky provází problémy. V listopadu ji dostanete, slibuje Juchelka - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/660010-vyplaceni-superdavky-provazi-problemy-v-listopadu-ji-dostanete-slibuje-juchelka
-   Vyplácení superdávky provází problémy. V listopadu ji dostanete, slibuje Juchelka TN.cz
+8. **Superdávka se od října mění: 3 věci, které mohou ovlivnit domácnost – Z kraje - zak.tv** — zak.tv [cs]
+   https://www.zak.tv/superdavka_se_od_rijna_meni_3_veci_ktere_mohou_ovlivnit_domacnost
+   Superdávka se od října mění: 3 věci, které mohou ovlivnit domácnost – Z kraje zak.tv
 
-9. **„Zajímavý chaos.“ Úřady práce hrnou papírování s klienty na neziskovky - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zajimavy-chaos-urady-prace-hrnou-papirovani-s-klienty-na-neziskovky-318636
-   „Zajímavý chaos.“ Úřady práce hrnou papírování s klienty na neziskovky Seznam Zprávy
-
-10. **Náhrada za Chorého Wiktor Nowak. Roli splnil skvěle, líbil se nám, hodnotí trenéři. - Stream.cz** — Stream.cz [cs]
-   https://www.stream.cz/fotbal-1240913/nahrada-za-choreho-wiktor-nowak-roli-splnil-skvele-libil-se-nam-hodnoti-treneri-65600631
-   Náhrada za Chorého Wiktor Nowak. Roli splnil skvěle, líbil se nám, hodnotí trenéři. Stream.cz
-
-11. **Čínský software ve Škodovkách? Volkswagen to zvažuje - Garáž.cz** — Garáž.cz [cs]
-   https://www.garaz.cz/clanek/21018133
-   Čínský software ve Škodovkách? Volkswagen to zvažuje Garáž.cz
+9. **Pieta na Vítkově: Okamura hájil konec poplatků - Stream.cz** — Stream.cz [cs]
+   https://www.stream.cz/domaci-1240685-1/pieta-na-vitkove-okamura-hajil-konec-poplatku-65600739
+   Pieta na Vítkově: Okamura hájil konec poplatků Stream.cz
