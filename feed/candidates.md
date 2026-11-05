@@ -1,373 +1,347 @@
-# Kandidáti — 2026-11-04T14:56:41+00:00 (93 položek)
+# Kandidáti — 2026-11-05T15:00:30+00:00 (86 položek)
 
-_Zdroje: Google News 142 · GDELT 9 (ok) · feedy 34 · watch 7_
+_Zdroje: Google News 151 · GDELT 9 (ok) · feedy 39 · watch 7_
 
-1. **“Furaj Mir”** — https://rroma.org/feed/ [en]
-   https://rroma.org/furaj-mir/?utm_source=rss&utm_medium=rss&utm_campaign=furaj-mir
-   The Furaj Mir program in Bosnia and Herzegovina empowers young people to address societal prejudices, particularly against the Roma community, […]
+1. **Position Paper on Safeguarding and Protecting the Romani Language** — https://eriac.org/feed/ [en]
+   https://eriac.org/position-paper-on-safeguarding-and-protecting-the-romani-language/
+   For more than a thousand years, the Romani language has travelled with our people, from north-western India across Europe and beyond. Despite centuries of slavery, persecution, forced assimilation, la
 
-2. **István Gyöngyösi** — https://rroma.org/feed/ [en]
-   https://rroma.org/istvan-gyongyosi/?utm_source=rss&utm_medium=rss&utm_campaign=istvan-gyongyosi
-   István Gyöngyösi, a Roma politician from a small Hungarian village, has made significant strides by representing Hungary at the Council […]
+2. **Safeguarding Romani Language – 7th International Conference | Follow Live** — https://eriac.org/feed/ [en]
+   https://eriac.org/safeguarding-romani-language-7th-international-conference/
+   The Romani language remains a cornerstone of Roma identity, cultural heritage and community belonging. As efforts to preserve and develop the language continue to grow, new opportunities are emerging 
 
-3. **Discrimination** — https://rroma.org/feed/ [en]
-   https://rroma.org/discrimination-6/?utm_source=rss&utm_medium=rss&utm_campaign=discrimination-6
-   A monitoring report by the Slovak National Centre for Human Rights revealed significant discrimination against Roma individuals in the rental […]
+3. **5. novembar – Svetski dan romskog jezika: Više od reči, temelj opstanka i identiteta** — https://romaworld.rs/feed/ [sr]
+   https://romaworld.rs/5-novembar-svetski-dan-romskog-jezika-vise-od-reci-temelj-opstanka-i-identiteta/
+   Svake godine 5. novembra obeležava se Svetski dan romskog jezika – datum koji je 2015. godine zvanično ustanovio UNESCO, na inicijтиву udruženja Kali Sara, u znak sećanja na dan kada je 2008. godine o
 
-4. **Slovenia on Roma** — https://rroma.org/feed/ [en]
-   https://rroma.org/slovenia-on-roma/?utm_source=rss&utm_medium=rss&utm_campaign=slovenia-on-roma
-   Representatives from the southeastern Slovenian government and mayors discussed addressing Roma issues, prioritizing criminal offenses and misdemeanors in the region. […]
+4. **Jedna lista nije izbor: Zašto je bojkot jedini odgovor i šta nam donosi posle njega** — https://romaworld.rs/feed/ [sr]
+   https://romaworld.rs/jedna-lista-nije-izbor-zasto-je-bojkot-jedini-odgovor-i-sta-nam-donosi-posle-njega/
+   Predstojeći izbori za Nacionalni savet romske nacionalne manjine ogolili su političku scenu do kraja. Kada se na listiću nađe samo jedna, jedina proglašena lista, a biračima ponudi model „uzmi ili ost
 
-5. **Bulgaria and Roma** — https://rroma.org/feed/ [en]
-   https://rroma.org/bulgaria-and-roma-14/?utm_source=rss&utm_medium=rss&utm_campaign=bulgaria-and-roma-14
-   Bulgaria states it has met its national goals for 2030 regarding the participation of Roma children in preschool education and […]
+5. **Andre Britanija zachudňa savoro la nulatar, paľis leske e kraľovna diňa paťiv. Jekhbareder sas te chudel o šajutňipen, phenel o Toby Gorniak** — https://romanoforum.dennikn.sk/feed/ [sk]
+   https://romanoforum.dennikn.sk/andre-britanija-zachudna-savoro-la-nulatar-palis-leske-e-kralovna-dina-pativ-jekhbareder-sas-te-chudel-o-sajutnipen-phenel-o-toby-gorniak/
+   „The o Roma kamen buťi the lačho dživipen, ča lenge kampel te chudel o šajutňipen," phenel o britaňiko-romano aktivistas.
 
-6. **Vote Buying?** — https://rroma.org/feed/ [en]
-   https://rroma.org/vote-buying-3/?utm_source=rss&utm_medium=rss&utm_campaign=vote-buying-3
-   The student movement claims that the Roma community has been particularly exposed to electoral manipulation and abuse, warning of potential […]
+6. **O arakhibneskero Štefan Petrík: O čoripen phagerel le romane džuvľijenge peskero paťiv the lel lenge zor te mangel andro sphandľipen o ľikeriben** — https://romanoforum.dennikn.sk/feed/ [sk]
+   https://romanoforum.dennikn.sk/o-arakhibneskero-stefan-petrik-o-coripen-phagerel-le-romane-dzuvlijenge-peskero-pativ-the-lel-lenge-zor-te-mangel-andro-sphandlipen-o-likeriben/
+   Kana the o murša na vakerena zorales the paťivales pal e menštruacijakero čoripneste, kada problemos šoha na našavela peskeri nalačhi stigma, phenel o džanlo manuš.
 
-7. **EU on Roma** — https://rroma.org/feed/ [en]
-   https://rroma.org/eu-on-roma/?utm_source=rss&utm_medium=rss&utm_campaign=eu-on-roma
-   The European Commission released its third report on the EU Framework for Roma, highlighting progress in employment, education, and early […]
+7. **Pal o šovardeš berš peske kerďa o voďičakos the e matura. Sar dživelas e ikona vaš romaňa kulturakeri, savake sas o ďives sikra charno** — https://romanoforum.dennikn.sk/feed/ [sk]
+   https://romanoforum.dennikn.sk/pal-o-sovardes-bers-peske-kerda-o-vodicakos-the-e-matura-sar-dzivelas-e-ikona-vas-romana-kulturakeri-savake-sas-o-dives-sikra-charno/
+   „Me ňisavi puťka na kerava," phenďa peskere ašundo romeske e pedagogikaňi Olga Fečová, hoj peske khere te domarďa jekh čačipen.
 
-8. **Romski akademski krug poziva na bojkot izbora za Nacionalni savet Roma: „Jedna lista nije izbor“** — https://rominfomedia.rs/feed/ [sr]
-   https://rominfomedia.rs/2026/11/04/romski-akademski-krug-poziva-na-bojkot-izbora-za-nacionalni-savet-roma-jedna-lista-nije-izbor/
-   Samo jedna izborna lista za Nacionalni savet romske nacionalne manjine – bez stvarne konkurencije i mogućnosti izbora. Romski akademski krug ocenjuje da takav izborni proces ne pruža prostor za demokr
+8. **Vedie ikonické rómske noviny: Cítim sa ako doktor, liečime boľavé miesta spoločnosti, vraví Sabir Agalarov** — https://romanoforum.dennikn.sk/feed/ [sk]
+   https://romanoforum.dennikn.sk/vedie-ikonicke-romske-noviny-citim-sa-ako-doktor-liecime-bolave-miesta-spolocnosti-vravi-sabir-agalarov/
+   „Som presvedčený o tom, že slušnosť, striedmosť, vzdelanosť a diplomacia sú dnes konfrontované s buranstvom a vulgaritou,“ hovorí šéfredaktor českých novín Romano hangos.
 
-9. **Krijumčario 19 migranata, osuđen na dve godine zatvora** — https://rominfomedia.rs/feed/ [sr]
-   https://rominfomedia.rs/2026/11/04/krijumcario-19-migranata-osudjen-na-dve-godine-zatvora/
-   Viši sud u Leskovcu osudio je Vasilija Kneževića iz Bačke Palanke na dve godine zatvora zbog krijumčarenja 19 stranih državljana, koji su bez ličnih dokumenata prevoženi kroz Srbiju ka zemljama Zapadn
+9. **Ambulance Workers Convicted of Fatal Violence against Romani Patient in Hungary - European Roma Rights Centre** — European Roma Rights Centre [en]
+   https://www.errc.org/news/ambulance-workers-convicted-of-fatal-violence-against-romani-patient-in-hungary
+   Ambulance Workers Convicted of Fatal Violence against Romani Patient in Hungary European Roma Rights Centre
 
-10. **Prizrenski rukopis Dušanovog zakonika pred leskovačkom publikom** — https://rominfomedia.rs/feed/ [sr]
-   https://rominfomedia.rs/2026/11/04/prizrenski-rukopis-dusanovog-zakonika-pred-leskovackom-publikom/
-   Prizrenski rukopis Dušanovog zakonika, jednog od najznačajnijih spomenika srpske srednjovekovne pravne i kulturne baštine, biće predstavljen u četvrtak, 5. novembra, u Čitaonici Narodne biblioteke „Ra
+10. **Na Deň rómskeho jazyka prichádza varovanie: Rómčina môže raz zaniknúť - Roma Television** — Roma Television [sk]
+   https://romatv.sk/slovensko/na-de%C5%88-r%C3%B3mskeho-jazyka-prich%C3%A1dza-varovanie-r%C3%B3m%C4%8Dina-m%C3%B4%C5%BEe-raz-zanikn%C3%BA%C5%A5/1401187
+   Na Deň rómskeho jazyka prichádza varovanie: Rómčina môže raz zaniknúť Roma Television
 
-11. **Ovogodišnji „Leskovački polumaraton“ brži od očekivanih rezultata** — https://rominfomedia.rs/feed/ [sr]
-   https://rominfomedia.rs/2026/11/04/ovogodisnji-leskovacki-polumaraton-brzi-od-ocekivanih-rezultata/
-   TRKAČI IZ DESETAK ZEMALJA PO KIŠOVITOM VREMENU ZABLISTALI Po veoma kišovitom vremenu, početkom novembra 2026. godine, na ulicama Leskovca održan je 25. po redu tradicionalni „Leskovački polumaraton“, 
+11. **Od januára zdražie odpad. ZMOS čaká zvýšenie poplatkov o 10 až 20 eur - Roma Television** — Roma Television [sk]
+   https://romatv.sk/slovensko/od-janu%C3%A1ra-zdra%C5%BEie-odpad-zmos-%C4%8Dak%C3%A1-zv%C3%BD%C5%A1enie-poplatkov-o-10-a%C5%BE-20-eur/1401185
+   Od januára zdražie odpad. ZMOS čaká zvýšenie poplatkov o 10 až 20 eur Roma Television
 
-12. **Crna Trava: Malo udruženje penzionera, veliko srce i još veće prijateljstvo** — https://rominfomedia.rs/feed/ [sr]
-   https://rominfomedia.rs/2026/11/04/crna-trava-malo-udruzenje-penzionera-veliko-srce-i-jos-vece-prijateljstvo/
-   Udruženje penzionera opštine Crna Trava jedno je od najmanjih i najmlađih udruženja penzionera na jugu Srbije, ali po zajedništvu, druženju i međusobnoj pomoći predstavlja primer dobre organizacije i 
+12. **Jarovnice či Luník IX? Nové mapovanie prinieslo zaujímavé výsledky - Roma Television** — Roma Television [sk]
+   https://romatv.sk/zaujimavosti/jarovnice-%C4%8Di-lun%C3%ADk-ix-nov%C3%A9-mapovanie-prinieslo-zauj%C3%ADmav%C3%A9-v%C3%BDsledky/1401186
+   Jarovnice či Luník IX? Nové mapovanie prinieslo zaujímavé výsledky Roma Television
 
-13. **Jedna saobraćajna nezgoda na putevima u Leskovcu, četiri osobe povređene** — https://rominfomedia.rs/feed/ [sr]
-   https://rominfomedia.rs/2026/11/04/jedna-saobracajna-nezgoda-na-putevima-u-leskovcu-cetiri-osobe-povredjene/
-   Na području Policijske uprave Leskovac tokom prethodnog dana dogodila se jedna saobraćajna nezgoda, u kojoj su četiri osobe zadobile telesne povrede, saopštila je Policijska uprava Leskovac. Pored izv
+13. **Ma bisteren: Európa nesmie zabudnúť na svojich Rómov - Denník N** — Denník N [sk]
+   https://dennikn.sk/5671455/ma-bisteren-europa-nesmie-zabudnut-na-svojich-romov/
+   Ma bisteren: Európa nesmie zabudnúť na svojich Rómov Denník N
 
-14. **Kulturno nasleđe bez barijera: Leskovac kroz sva čula** — https://rominfomedia.rs/feed/ [sr]
-   https://rominfomedia.rs/2026/11/04/kulturno-nasledje-bez-barijera-leskovac-kroz-sva-cula/
-   Narodni muzej Leskovac, u saradnji sa Udruženjem građana „Suncokret“ i ŠOSO „11. oktobar“, učestvovao je u realizaciji projekta „Senzorna mapa grada“, koji je učenicima sa smetnjama u razvoju i njihov
+14. **Európa nesmie zabudnúť na svojich Rómov, píše európska komisárka pre rovnosť Hadja Lahbib - Denník N** — Denník N [sk]
+   https://dennikn.sk/minuta/5672315/?ref=n3_sticker
+   Európa nesmie zabudnúť na svojich Rómov, píše európska komisárka pre rovnosť Hadja Lahbib Denník N
 
-15. **30 Years of Roma Rights Activism: the Twenties - European Roma Rights Centre** — European Roma Rights Centre [en]
-   https://www.errc.org/news/30-years-of-roma-rights-activism-the-twenties
-   30 Years of Roma Rights Activism: the Twenties European Roma Rights Centre
+15. **V úlohe šéfredaktora sa cítim trochu ako doktor, hovorí Sabir Agalarov z rómskych novín Romano hangos - Denník N** — Denník N [sk]
+   https://dennikn.sk/minuta/5672410/
+   V úlohe šéfredaktora sa cítim trochu ako doktor, hovorí Sabir Agalarov z rómskych novín Romano hangos Denník N
 
-16. **Policajt mimo služby zachránil situáciu. Útočníka zložil na zem - Roma Television** — Roma Television [sk]
-   https://romatv.sk/zaujimavosti/policajt-mimo-slu%C5%BEby-zachr%C3%A1nil-situ%C3%A1ciu-%C3%BAto%C4%8Dn%C3%ADka-zlo%C5%BEil-na-zem/1401184
-   Policajt mimo služby zachránil situáciu. Útočníka zložil na zem Roma Television
+16. **Rómovia vo Veľkej Lomnici napadli maloletú blondínu. Ťahali ju po zemi, vyzliekali, trhali jej vlasy - Plénum.sk** — Plénum.sk [sk]
+   https://plenum.sk/romovia-vo-velkej-lomnici-napadli-maloletu-blondinu-tahali-ju-po-zemi-vyzliekali-trhali-jej-vlasy/
+   Rómovia vo Veľkej Lomnici napadli maloletú blondínu. Ťahali ju po zemi, vyzliekali, trhali jej vlasy Plénum.sk
 
-17. **Mimoriadna situácia v okrese Rimavská Sobota. Vodu vozí armáda - Roma Television** — Roma Television [sk]
-   https://romatv.sk/slovensko/mimoriadna-situ%C3%A1cia-v-okrese-rimavsk%C3%A1-sobota-vodu-voz%C3%AD-arm%C3%A1da/1401183
-   Mimoriadna situácia v okrese Rimavská Sobota. Vodu vozí armáda Roma Television
+17. **More Romani in work, but nearly half of children remain in segregated schools - EU Perspectives** — EU Perspectives [en]
+   https://euperspectives.eu/2026/11/roma-employment-school-segregation-eu-report/
+   More Romani in work, but nearly half of children remain in segregated schools EU Perspectives
 
-18. **MSU hockey star forward Anthony Romani earns notable Big Ten honor - Spartans Wire** — Spartans Wire [en]
-   https://spartanswire.usatoday.com/story/sports/college/spartans/hockey/2026/11/03/michigan-state-hockey-anthony-romani-big-ten-star-of-the-week/92597638007/
-   MSU hockey star forward Anthony Romani earns notable Big Ten honor Spartans Wire
+18. **Greek Roma researcher brings Romani language into AI era - eKathimerini.com** — eKathimerini.com [en]
+   https://www.ekathimerini.com/in-depth/society-in-depth/1320356/greek-roma-researcher-brings-romani-language-into-ai-era/
+   Greek Roma researcher brings Romani language into AI era eKathimerini.com
 
-19. **Roma ‘intimidation’ in Bulgarian presidentials as Iliana Iotova’s win raises alarm bells for press freedom - EUobserver** — EUobserver [en]
-   https://euobserver.com/246567/roma-intimidation-in-bulgarian-presidentials-as-iliana-iotovas-win-raises-alarm-bells-for-press-freedom/
-   Roma ‘intimidation’ in Bulgarian presidentials as Iliana Iotova’s win raises alarm bells for press freedom EUobserver
+19. **Blackfish: Malhotra & Novotný play hero, Romani continues his goal scoring streak, and more - Canucks Army** — Canucks Army [en]
+   https://canucksarmy.com/news/blackfish-malhotra-novotny-play-hero-romani-continues-goal-scoring-streak-more
+   Blackfish: Malhotra & Novotný play hero, Romani continues his goal scoring streak, and more Canucks Army
 
-20. **Canucks prospect Anthony Romani named Big Ten Second Star of the Week - Canucks Army** — Canucks Army [en]
-   https://canucksarmy.com/news/vancouver-canucks-prospect-anthony-romani-big-ten-second-star-week
-   Canucks prospect Anthony Romani named Big Ten Second Star of the Week Canucks Army
+20. **Article: Katarina Kokenyova & Thomas Pollock on Roma Identity, History & Representation in Rozkvet - Film Ireland** — Film Ireland [en]
+   https://www.filmireland.net/article-katarina-kokenyova-thomas-pollock-on-roma-identity-history-representation-in-rozkvet/
+   Article: Katarina Kokenyova & Thomas Pollock on Roma Identity, History & Representation in Rozkvet Film Ireland
 
-21. **EU Roma Strategic Framework advances Roma rights across the EU, with further efforts needed - European Interest** — European Interest [en]
-   https://www.europeaninterest.eu/eu-roma-strategic-framework-advances-roma-rights-across-the-eu-with-further-efforts-needed/
-   EU Roma Strategic Framework advances Roma rights across the EU, with further efforts needed European Interest
+21. **EU Roma inclusion improves, but discrimination and segregation persist - INSIGHT EU MONITORING** — INSIGHT EU MONITORING [en]
+   https://ieu-monitoring.com/editorial/eu-roma-inclusion-improves-but-discrimination-and-segregation-persist/1253812?utm_source=ieu-portal
+   EU Roma inclusion improves, but discrimination and segregation persist INSIGHT EU MONITORING
 
-22. **Violinist Anton Jablokov: Heart & Fire - The Journal of Music in Ireland** — The Journal of Music in Ireland [en]
-   https://journalofmusic.com/listing/04-11-26/violinist-anton-jablokov-heart-fire
-   Violinist Anton Jablokov: Heart & Fire The Journal of Music in Ireland
-
-23. **Bayer seeks bigger role in fast-growing Latin American biologicals market - WKZO** — WKZO [en]
-   https://wkzo.com/2026/11/04/bayer-seeks-bigger-role-in-fast-growing-latin-american-biologicals-market/
-   Bayer seeks bigger role in fast-growing Latin American biologicals market WKZO
-
-24. **Brazil, Venezuela foreign ministers discuss trade, Amazon cooperation - WTVB** — WTVB [en]
-   https://wtvbam.com/2026/11/03/brazil-venezuela-foreign-ministers-discuss-trade-amazon-cooperation/
-   Brazil, Venezuela foreign ministers discuss trade, Amazon cooperation WTVB
-
-25. **EU Roma inclusion advances clash with entrenched segregation and poverty - The Brussels Times** — The Brussels Times [en]
-   https://www.brusselstimes.com/eu-affairs/2389839/eu-roma-inclusion-advances-clash-with-entrenched-segregation-and-poverty/
+22. **EU Roma inclusion advances clash with entrenched segregation and poverty - The Brussels Times** — The Brussels Times [en]
+   https://www.brusselstimes.com/2389839/eu-roma-inclusion-advances-clash-with-entrenched-segregation-and-poverty
    EU Roma inclusion advances clash with entrenched segregation and poverty The Brussels Times
 
-26. **Our best photos from GOP watch party for Oklahoma elections - The Oklahoman** — The Oklahoman [en]
-   https://www.oklahoman.com/picture-gallery/news/politics/elections/2026/11/03/oklahoma-election-results-gop-watch-party-okc/92594578007/
-   Our best photos from GOP watch party for Oklahoma elections The Oklahoman
+23. **Bayer seeks bigger role in fast-growing Latin American biologicals market - WSAU** — WSAU [en]
+   https://wsau.com/2026/11/04/bayer-seeks-bigger-role-in-fast-growing-latin-american-biologicals-market/
+   Bayer seeks bigger role in fast-growing Latin American biologicals market WSAU
 
-27. **European Roma: More rights, but progress is uneven - Eunews** — Eunews [en]
-   https://www.eunews.it/en/2026/11/03/roma-rights-improve-across-eu-but-challenges-remain-italy-sees-significant-decline-in-nomad-camp-residents/
-   European Roma: More rights, but progress is uneven Eunews
+24. **Vancouver Canucks Prospects Roundup: October 2026 - The Hockey News** — The Hockey News [en]
+   https://thehockeynews.com/nhl/vancouver-canucks/players/canucks-prospects-roundup-october-2026
+   Vancouver Canucks Prospects Roundup: October 2026 The Hockey News
 
-28. **Paolo Bonolis and Carola Moroni: New Beginnings in the Heart of London - Il Mattino** — Il Mattino [en]
-   https://www.ilmattino.it/en/paolo_bonolis_and_carola_moroni_new_beginnings_in_the_heart_of_london-9866622.html
-   Paolo Bonolis and Carola Moroni: New Beginnings in the Heart of London Il Mattino
+25. **Nezdice, Czech Republic: New memorial plaque unveiled to the Roma and Sinti victims of the Holocaust from the Richter and Šmíd families - Romea.cz** — Romea.cz [en]
+   https://romea.cz/en/czech-republic/nezdice-czech-republic-new-memorial-plaque-unveiled-to-the-roma-and-sinti-victims-of-the-holocaust-from-the-richter-and-smid-families/
+   Nezdice, Czech Republic: New memorial plaque unveiled to the Roma and Sinti victims of the Holocaust from the Richter and Šmíd families Romea.cz
 
-29. **Fire guts five houses in Lakshmipur Bede polli - Bangladesh Sangbad Sangstha (BSS)** — Bangladesh Sangbad Sangstha (BSS) [en]
-   https://www.bssnews.net/district/441891
-   Fire guts five houses in Lakshmipur Bede polli Bangladesh Sangbad Sangstha (BSS)
+26. **Brazil creates fewer formal jobs than expected in September - ETHRWorld.com** — ETHRWorld.com [en]
+   https://hr.economictimes.indiatimes.com/news/industry/brazil-creates-fewer-formal-jobs-than-expected-in-september/135555772
+   Brazil creates fewer formal jobs than expected in September ETHRWorld.com
 
-30. **A holokauszt roma áldozataira emlékeztek Zalaegerszegen - zalamedia.hu** — zalamedia.hu [hu]
-   https://www.zalamedia.hu/vezeto-hirek/egyszervolt/a-holokauszt-roma-aldozataira-emlekeztek-zalaegerszegen
-   A holokauszt roma áldozataira emlékeztek Zalaegerszegen zalamedia.hu
+27. **Prison sentence for perpetrator of Petrusse fall death - Luxembourg Times** — Luxembourg Times [en]
+   https://www.luxtimes.lu/luxembourg/prison-sentence-for-perpetrator-of-petrusse-fall-death/164102273.html
+   Prison sentence for perpetrator of Petrusse fall death Luxembourg Times
 
-31. **Kultúra gyerekeknek: 5 varázslatos program Budapesten kicsiknek és nagyoknak - FUNZINE** — FUNZINE [hu]
-   https://funzine.hu/2026/11/04/kult/kultura-gyerekeknek-5-varazslatos-program-budapesten-kicsiknek-es-nagyoknak/
-   Kultúra gyerekeknek: 5 varázslatos program Budapesten kicsiknek és nagyoknak FUNZINE
+28. **Massimiliano Fuksas: what I wish to do is to architect peace - la Repubblica** — la Repubblica [en]
+   https://www.repubblica.it/en/venerdi/2026/11/05/news/massimiliano_fuksas_what_i_wish_to_do_is_to_architect_peace-425701442/
+   Massimiliano Fuksas: what I wish to do is to architect peace la Repubblica
 
-32. **Nemcsak az életüktől fosztották meg őket – a roma holokauszt zalaegerszegi áldozataira emlékeztek - ZAOL** — ZAOL [hu]
-   https://www.zaol.hu/helyi-kozelet/2026/11/roma-holokauszt-megemlekezes-zalaegerszeg
-   Nemcsak az életüktől fosztották meg őket – a roma holokauszt zalaegerszegi áldozataira emlékeztek ZAOL
+29. **Inaugural Board Meeting and the Annual Election of the Chair and Vice Chair - Delta School District** — Delta School District [en]
+   https://www.deltasd.bc.ca/news-events/news/inaugural-board-meeting-and-the-annual-election-of-the-chair-and-vice-chair-2/
+   Inaugural Board Meeting and the Annual Election of the Chair and Vice Chair Delta School District
 
-33. **Magyar rekviem Lejátszás Dráma 1 óra 40 perc - CANAL+** — CANAL+ [hu]
-   https://www.canalplus.com/hu/hu/filmek/magyar-rekviem-drama/h/46559144_55468
-   Magyar rekviem Lejátszás Dráma 1 óra 40 perc CANAL+
+30. **Gipsy Kings Atlanta tickets on sale at Symphony Hall - TicketNews** — TicketNews [en]
+   https://www.ticketnews.com/2026/11/gipsy-kings-atlanta-tickets-on-sale-at-symphony-hall/
+   Gipsy Kings Atlanta tickets on sale at Symphony Hall TicketNews
 
-34. **Székesfehérvár története táncban kel életre Budapesten (+ galéria, videó) - FEOL** — FEOL [hu]
-   https://www.feol.hu/helyi-kultura/2026/11/tanc-mozdulatlan-legendak-arte-galeria-video
-   Székesfehérvár története táncban kel életre Budapesten (+ galéria, videó) FEOL
+31. **A NAV vagyonosodási vizsgálatot indíthat egykori és mai kormányfők, miniszterek, képviselők és államtitkárok ellen - Északhírnök** — Északhírnök [hu]
+   https://www.eszakhirnok.com/2026/11/04/a-nav-vagyonosodasi-vizsgalatot-indithat-egykori-es-mai-kormanyfok-miniszterek-kepviselok-es-allamtitkarok-ellen/
+   A NAV vagyonosodási vizsgálatot indíthat egykori és mai kormányfők, miniszterek, képviselők és államtitkárok ellen Északhírnök
 
-35. **Vicc: Három roma arról beszélget, ki milyen sampont használ… - Bikuci.hu** — Bikuci.hu [hu]
-   https://www.bikuci.hu/vicc-harom-roma-arrol-beszelget-ki-milyen-sampont-hasznal/
-   Vicc: Három roma arról beszélget, ki milyen sampont használ… Bikuci.hu
+32. **Kristályt, heroint, speedet, egy csomó rollert és más érdekességet találtak egy zuglói lakásban - Röviden** — Röviden [hu]
+   https://roviden.hu/2026/11/05/kristaly-heroin-speed-rollerek-zugloi-drogdiler
+   Kristályt, heroint, speedet, egy csomó rollert és más érdekességet találtak egy zuglói lakásban Röviden
 
-36. **Vicc: A cirkuszban az állatgondozó rémülten rohan a cirkuszigazgató… - Bikuci.hu** — Bikuci.hu [hu]
-   https://www.bikuci.hu/vicc-a-cirkuszban-az-allatgondozo-remulten-rohan-a-cirkuszigazgato/
-   Vicc: A cirkuszban az állatgondozó rémülten rohan a cirkuszigazgató… Bikuci.hu
+33. **Aferim! – proiecție și discuție la Cinema ARTA, Cluj-Napoca - Zile și Nopți** — Zile și Nopți [ro]
+   https://zilesinopti.ro/evenimente/aferim-proiectie-urmata-de-o-discuti-cu-marius-lakatos-iancu-si-fernando-varga/
+   Aferim! – proiecție și discuție la Cinema ARTA, Cluj-Napoca Zile și Nopți
 
-37. **Cadrul strategic al UE pentru romi aduce progrese pozitive în ceea ce privește drepturile romilor în întreaga UE, fiind necesare eforturi suplimentare - Reprezentanța Comisiei Europene în România** — Reprezentanța Comisiei Europene în România [ro]
-   https://romania.representation.ec.europa.eu/stiri-evenimente-si-resurse-pentru-presa/stiri/cadrul-strategic-al-ue-pentru-romi-aduce-progrese-pozitive-ceea-ce-priveste-drepturile-romilor-2026-11-03_ro
-   Cadrul strategic al UE pentru romi aduce progrese pozitive în ceea ce privește drepturile romilor în întreaga UE, fiind necesare eforturi suplimentare Reprezentanța Comisiei Europene în România
+34. **Descinderi la regii romilor. Dorin Cioabă reclamă rele tratamente din partea autorităților: „M-au pus... - Ziare.com** — Ziare.com [ro]
+   https://ziare.com/dorin-cioaba-rege-romi/descinderi-garda-mediu-regi-romi-metale-2045896
+   Descinderi la regii romilor. Dorin Cioabă reclamă rele tratamente din partea autorităților: „M-au pus... Ziare.com
 
-38. **Povestea dr. Ioan Cristian Irimescu: de la o familie de romi vătrași la profesia de medic - https://www.goldring.ro/ro** — https://www.goldring.ro/ro [ro]
-   https://www.goldring.ro/ro/news/povestea-dr-ioan-cristian-irimescu-de-la-o-familie-de-romi-vatrasi-la-profesia-de-medic
-   Povestea dr. Ioan Cristian Irimescu: de la o familie de romi vătrași la profesia de medic https://www.goldring.ro/ro
+35. **Românii, făcuţi „profitori” de „AUR”-ul Germaniei - Buna ziua Brasov** — Buna ziua Brasov [ro]
+   https://bzb.ro/stire/romanii-facuti-profitori-de-aur-ul-germaniei-a225448
+   Românii, făcuţi „profitori” de „AUR”-ul Germaniei Buna ziua Brasov
 
-39. **Raport al Comisiei Europene: 77% dintre copiii romi din UE sunt expuși riscului de sărăcie. Ce situație este în România - Aktual24** — Aktual24 [ro]
-   https://www.aktual24.ro/raport-al-comisiei-europene-77-dintre-copiii-romi-din-ue-sunt-expusi-riscului-de-saracie-ce-situatie-este-in-romania/
-   Raport al Comisiei Europene: 77% dintre copiii romi din UE sunt expuși riscului de sărăcie. Ce situație este în România Aktual24
+36. **Ministrul Culturii, mesaj de Ziua Limbii Romani. Ioana Ciocan: „Fiecare limbă poartă cu ea o… - Mediafax** — Mediafax [ro]
+   https://www.mediafax.ro/politic/ministrul-culturii-mesaj-de-ziua-limbii-romani-ioana-ciocan-fiecare-limba-poarta-cu-ea-o-lume-23837986/amp
+   Ministrul Culturii, mesaj de Ziua Limbii Romani. Ioana Ciocan: „Fiecare limbă poartă cu ea o… Mediafax
 
-40. **VIDEO: Romii, discriminaţi la şcoală şi la facultate. Prima lecţie primită acasă de dr. Ioan Cristian Irimescu: "Nu aveam voie să spunem în afara curţii că suntem romi" - DCNews** — DCNews [ro]
-   https://www.dcnews.ro/video/romii-discriminati-la-scoala-si-la-facultate-prima-lectie-primita-acasa-de-dr-ioan-cristian-irimescu_144984.html
-   VIDEO: Romii, discriminaţi la şcoală şi la facultate. Prima lecţie primită acasă de dr. Ioan Cristian Irimescu: "Nu aveam voie să spunem în afara curţii că suntem romi" DCNews
+37. **Posibilă căsătorie între minori la Drăgănești-Olt. Prefectul județului cere intervenția autorităților - Gazeta Oltului** — Gazeta Oltului [ro]
+   https://gazetaoltului.ro/social/posibila-casatorie-intre-minori-la-draganesti-olt-prefectul-judetului-cere-interventia-autoritatilor/?amp=1
+   Posibilă căsătorie între minori la Drăgănești-Olt. Prefectul județului cere intervenția autorităților Gazeta Oltului
 
-41. **De ce vin romii în număr atât de mare când e cineva internat în spital. Explicația unui medic -... - StiriDiaspora** — StiriDiaspora [ro]
-   https://www.stiridiaspora.ro/de-ce-vin-romii-in-numar-atat-de-mare-cand-e-cineva-internat-in-spital-explicatia-unui-medic-video_544899.html
-   De ce vin romii în număr atât de mare când e cineva internat în spital. Explicația unui medic -... StiriDiaspora
+38. **Bruxelles-ul pregătește agenda legislativă pentru 2027. Ce proiecte europene vor fi prioritare și la ce… - Mediafax** — Mediafax [ro]
+   https://www.mediafax.ro/externe/bruxelles-ul-pregateste-agenda-legislativa-pentru-2027-ce-proiecte-europene-vor-fi-prioritare-si-la-ce-initiative-se-renunta-23837173
+   Bruxelles-ul pregătește agenda legislativă pentru 2027. Ce proiecte europene vor fi prioritare și la ce… Mediafax
 
-42. **Los vecinos de La Plata reclaman reparar la carretera tras un nuevo vuelco en la curva de Los Gitanos - La Nueva España** — La Nueva España [es]
-   https://www.lne.es/aviles-y-comarca/castrillon/2026/11/03/vecinos-plata-reclaman-reparar-carretera-136045062.html
-   Los vecinos de La Plata reclaman reparar la carretera tras un nuevo vuelco en la curva de Los Gitanos La Nueva España
+39. **Educația, puntea dintre tradiție și viitor. A început „Școala pentru părinți” 2026–2027 în comunitățile de romi căldărari din Văratec și Salcea - Suceava News Online** — Suceava News Online [ro]
+   https://www.svnews.ro/educatia-puntea-dintre-traditie-si-viitor-a-inceput-scoala-pentru-parinti-2026-2027-in-comunitatile-de-romi-caldarari-din-varatec-si-salcea/571736/
+   Educația, puntea dintre tradiție și viitor. A început „Școala pentru părinți” 2026–2027 în comunitățile de romi căldărari din Văratec și Salcea Suceava News Online
 
-43. **Provincia. Presentación del Logo y Cartel del 70º Aniversario Fundacional de la Hermandad de los Gitanos de Utrera - ArteSacro** — ArteSacro [es]
-   https://www.artesacro.org/Noticia/Ver/169745/provincia-presentacion-logo-y-cartel-70-aniversario-fundacional-hermandad
-   Provincia. Presentación del Logo y Cartel del 70º Aniversario Fundacional de la Hermandad de los Gitanos de Utrera ArteSacro
+40. **Start-Up Nation are 11.417 locuri la cursurile gratuite pentru cei între 18 și 29 de ani - Financiarul** — Financiarul [ro]
+   https://financiarul.ro/fonduri-europene/start-up-nation-are-11-417-locuri-la-cursurile-gratuite-pentru-cei-intre-18-si-29-de-ani/
+   Start-Up Nation are 11.417 locuri la cursurile gratuite pentru cei între 18 și 29 de ani Financiarul
 
-44. **La transformación de Pagés del Corro ya se deja ver: así va quedando la Cava de los Gitanos de Triana - 101TV** — 101TV [es]
-   https://www.101tv.es/sevilla/la-transformacion-de-pages-del-corro-ya-se-deja-ver-asi-va-quedando-la-cava-de-los-gitanos-de-triana/
-   La transformación de Pagés del Corro ya se deja ver: así va quedando la Cava de los Gitanos de Triana 101TV
+41. **Romii, discriminaţi la şcoală şi la facultate. Prima lecţie primită acasă de dr. Ioan Cristian Irimescu - DCNews** — DCNews [ro]
+   https://www.dcnews.ro/romii-discriminati-la-scoala-si-la-facultate-prima-lectie-primita-acasa-de-dr-ioan-cristian-irimescu_1093590.html
+   Romii, discriminaţi la şcoală şi la facultate. Prima lecţie primită acasă de dr. Ioan Cristian Irimescu DCNews
 
-45. **Las vallas publicitarias de CHEGA provocan múltiples quejas de inmigrantes, la embajada de Bangladesh y la comunidad gitana. - Portugal Resident** — Portugal Resident [es]
-   https://www.portugalresident.com/es/Las-vallas-publicitarias-de-Chega-provocan-m%C3%BAltiples-quejas-de-inmigrantes-gitanos-en-la-embajada-de-Bangladesh./
-   Las vallas publicitarias de CHEGA provocan múltiples quejas de inmigrantes, la embajada de Bangladesh y la comunidad gitana. Portugal Resident
+42. **El Archivo Histórico Provincial de Córdoba acerca la historia y el patrimonio del pueblo gitano con una exposición - Europa Press** — Europa Press [es]
+   https://www.europapress.es/esandalucia/cordoba/noticia-archivo-historico-provincial-cordoba-acerca-historia-patrimonio-pueblo-gitano-exposicion-20261105144947.html
+   El Archivo Histórico Provincial de Córdoba acerca la historia y el patrimonio del pueblo gitano con una exposición Europa Press
 
-46. **Ya son 27 los vehículos secuestrados en la investigación por camiones irregulares en galpones de gitanos en Misiones - MisionesOnline** — MisionesOnline [es]
-   https://misionesonline.net/2026/11/03/camiones-irregulares-en-galpones-de-gitanos/
-   Ya son 27 los vehículos secuestrados en la investigación por camiones irregulares en galpones de gitanos en Misiones MisionesOnline
+43. **La Hermandad de los Gitanos de Utrera presenta los proyectos de su 70 aniversario - Uvitel** — Uvitel [es]
+   https://uvitelonline.com/hermandad-gitanos-utrera-proyectos-70-aniversario/
+   La Hermandad de los Gitanos de Utrera presenta los proyectos de su 70 aniversario Uvitel
 
-47. **La investigación por camiones irregulares en galpones de gitanos sumó nuevos secuestros en Garupá - MisionesOnline** — MisionesOnline [es]
-   https://misionesonline.net/2026/11/03/la-investigacion-por-camiones-irregulares-en-galpones-de-gitanos-sumo-nuevos-secuestros-en-garupa/
-   La investigación por camiones irregulares en galpones de gitanos sumó nuevos secuestros en Garupá MisionesOnline
+44. **«Frutos del Espíritu» en el barrio: Reconfiguración de masculinidades, piedad y orden social entre gitanos pentecostales en Madrid - EHU** — EHU [es]
+   https://www.ehu.eus/es/web/gizarte-komunikazio-zientzien-fakultatea/-/%C2%ABespirituaren-fruituak%C2%BB-auzoan-maskulinitateen-pietatearen-eta-gizarte-ordenaren-birkonfigurazioa-madrilgo-ijito-pentekostalen-artean
+   «Frutos del Espíritu» en el barrio: Reconfiguración de masculinidades, piedad y orden social entre gitanos pentecostales en Madrid EHU
 
-48. **"Justicia para El Osito": la familia del fallecido en la Arrixaca exige una segunda autopsia y convoca una protesta en Murcia - La Opinión de Murcia** — La Opinión de Murcia [es]
-   https://www.laopiniondemurcia.es/sucesos/2026/11/02/justicia-osito-familia-fallecido-arrixaca-136007512.html
-   "Justicia para El Osito": la familia del fallecido en la Arrixaca exige una segunda autopsia y convoca una protesta en Murcia La Opinión de Murcia
+45. **Columbario mes de noviembre 2026 - Hermandad de los Gitanos** — Hermandad de los Gitanos [es]
+   https://www.hermandaddelosgitanos.com/visitas-diarias-al-columbario-en-el-mes-de-noviembre-2/columbario-mes-de-noviembre-2026/
+   Columbario mes de noviembre 2026 Hermandad de los Gitanos
 
-49. **VI Concierto Anual de Ánimas en nuestro Santuario, interviene el Coro de la Universidad Pablo de Olavide - Hermandad de los Gitanos** — Hermandad de los Gitanos [es]
-   https://www.hermandaddelosgitanos.com/vio-concierto-anual-de-animas-en-nuestro-santuario-interviene-el-coro-de-la-universidad-pablo-de-olavide/
-   VI Concierto Anual de Ánimas en nuestro Santuario, interviene el Coro de la Universidad Pablo de Olavide Hermandad de los Gitanos
+46. **De currar a chaval: el origen caló del habla diaria en Salamanca - SALAMANCArtv AL DÍA** — SALAMANCArtv AL DÍA [es]
+   https://salamancartvaldia.es/noticia/2026-11-05-de-currar-a-chaval-el-origen-calo-del-habla-diaria-en-salamanca-400261
+   De currar a chaval: el origen caló del habla diaria en Salamanca SALAMANCArtv AL DÍA
 
-50. **La Madrugá, el Jueves Santo y el Viernes Santo mantendrán el mismo orden de paso en 2027 - INRI Información** — INRI Información [es]
-   https://inriinformacion.com/2026/11/03/la-madruga-el-jueves-santo-y-el-viernes-santo-mantendran-el-mismo-orden-de-paso-en-2027/
-   La Madrugá, el Jueves Santo y el Viernes Santo mantendrán el mismo orden de paso en 2027 INRI Información
+47. **El primer diputado gitano de España grita "viva la Guardia Civil" medio siglo después de acusarla de discriminación en el Congreso - lavozdelsur.es** — lavozdelsur.es [es]
+   https://www.lavozdelsur.es/actualidad/politica/el-primer-diputado-gitano-de-espana-grita-viva-la-guardia-civil-medio-siglo-despues-de-acusarla-de-discriminacion-en-el-congreso.html
+   El primer diputado gitano de España grita "viva la Guardia Civil" medio siglo después de acusarla de discriminación en el Congreso lavozdelsur.es
 
-51. **Suivez la séance du conseil communautaire du 5 novembre 2026 - Grand Chambéry** — Grand Chambéry [fr]
-   https://www.grandchambery.fr/toutes-les-actualites/suivez-la-seance-du-conseil-communautaire-du-5-novembre-2026
-   Suivez la séance du conseil communautaire du 5 novembre 2026 Grand Chambéry
+48. **Vícar celebró jornadas de Halloween para la comunidad gitana - Noticias de Almería** — Noticias de Almería [es]
+   https://www.noticiasdealmeria.com/noticia/242247/provincia/vicar-celebro-jornadas-de-halloween-para-la-comunidad-gitana.html
+   Vícar celebró jornadas de Halloween para la comunidad gitana Noticias de Almería
 
-52. **Le site devrait accueillir 46 familles : Feu vert pour le futur complexe des gens du voyage sédentarisés, juste à côté de Nice ? - Nice-Matin** — Nice-Matin [fr]
-   https://www.nicematin.com/societe/le-site-devrait-accueillir-46-familles-feu-vert-pour-le-futur-complexe-des-gens-du-voyage-sedentarises-juste-a-cote-de-nice-10748559
-   Le site devrait accueillir 46 familles : Feu vert pour le futur complexe des gens du voyage sédentarisés, juste à côté de Nice ? Nice-Matin
+49. **La Hermandad del Prendimiento de Jerez confirma a los hermanos Zarzana como capataces y renueva con Los Gitanos para 2027 - el diario cofrade** — el diario cofrade [es]
+   https://eldiariocofrade.org/uncategorized/la-hermandad-del-prendimiento-de-jerez-confirma-a-los-hermanos-zarzana-como-capataces-y-renueva-con-los-gitanos-para-2027/
+   La Hermandad del Prendimiento de Jerez confirma a los hermanos Zarzana como capataces y renueva con Los Gitanos para 2027 el diario cofrade
 
-53. **Montmélian. Schéma départemental d’accueil des gens du voyage : un avis favorable avec réserves - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
-   https://www.ledauphine.com/politique/2026/11/03/schema-departemental-d-accueil-des-gens-du-voyage-un-avis-favorable-avec-reserves
-   Montmélian. Schéma départemental d’accueil des gens du voyage : un avis favorable avec réserves Le Dauphiné Libéré
+50. **Vosges. À Épinal, les gens du voyage toujours présents sur le parking du centre des congrès malgré une ordonnance d’expulsion - Vosges Matin** — Vosges Matin [fr]
+   https://www.vosgesmatin.fr/faits-divers-justice/2026/11/05/a-epinal-les-gens-du-voyage-toujours-presents-sur-le-parking-du-centre-des-congres-malgre-une-ordonnance-d-expulsion
+   Vosges. À Épinal, les gens du voyage toujours présents sur le parking du centre des congrès malgré une ordonnance d’expulsion Vosges Matin
 
-54. **Snes9x EX+ : émulateur SNES Android en 13 étapes [2026] - tech-insider.org** — tech-insider.org [fr]
-   https://tech-insider.org/fr/emulateur-snes-android-snes9x-ex-plus-2026/
-   Snes9x EX+ : émulateur SNES Android en 13 étapes [2026] tech-insider.org
+51. **Jusqu’à 400 caravanes sur un terrain inadapté : ce village ne veut pas accueillir les gens du voyage dans ces conditions - Actu.fr** — Actu.fr [fr]
+   https://actu.fr/normandie/tourville-la-riviere_76705/jusqua-400-caravanes-sur-un-terrain-inadapte-ce-village-ne-veut-pas-accueillir-les-gens-du-voyage-dans-ces-conditions_65016502.html
+   Jusqu’à 400 caravanes sur un terrain inadapté : ce village ne veut pas accueillir les gens du voyage dans ces conditions Actu.fr
 
-55. **Une vingtaine de caravanes s’installent de manière illicite à Rosières-près-Troyes cette fois - L'Est éclair** — L'Est éclair [fr]
-   https://www.lest-eclair.fr/id837947/article/2026-11-03/une-vingtaine-de-caravanes-sinstallent-de-maniere-illicite-rosieres-pres-troyes
-   Une vingtaine de caravanes s’installent de manière illicite à Rosières-près-Troyes cette fois L'Est éclair
+52. **"Ça va me coûter 1 500 euros" : pour rapatrier son sous-marin volé et retrouvé dans un camp de gens du voyage, la victime va devoir mettre la main à la poche - ladepeche.fr** — ladepeche.fr [fr]
+   https://www.ladepeche.fr/2026/11/04/ca-va-me-couter-1-500-euros-pour-rapatrier-son-sous-marin-vole-et-retrouve-dans-un-camp-de-gens-du-voyage-la-victime-va-devoir-mettre-la-main-a-la-13636111.php
+   "Ça va me coûter 1 500 euros" : pour rapatrier son sous-marin volé et retrouvé dans un camp de gens du voyage, la victime va devoir mettre la main à la poche ladepeche.fr
 
-56. **« Le dindon de la farce, c’est moi » : le propriétaire du sous-marin volé témoigne - L'Est Républicain** — L'Est Républicain [fr]
-   https://www.estrepublicain.fr/faits-divers-justice/2026/11/03/le-dindon-de-la-farce-c-est-moi-le-proprietaire-du-sous-marin-vole-temoigne
-   « Le dindon de la farce, c’est moi » : le propriétaire du sous-marin volé témoigne L'Est Républicain
+53. **Valognes. L’Agglo va durcir le règlement intérieur de l’aire - Ouest-France** — Ouest-France [fr]
+   https://www.ouest-france.fr/normandie/valognes-50700/valognes-lagglo-va-durcir-le-reglement-interieur-de-laire-b816775f-4ac9-4e46-8070-5cafd62e04c8
+   Valognes. L’Agglo va durcir le règlement intérieur de l’aire Ouest-France
 
-57. **HyperOS 4 Stable : Déploiement mondial en cours – Liste officielle de 82 appareils Xiaomi, Redmi et autres POCO - xiaomi-miui.gr** — xiaomi-miui.gr [fr]
-   https://fr.xiaomi-miui.gr/hyperos-4-stable-global-rollout-82-devices-xiaomi-redmi-poco-november-2026/
-   HyperOS 4 Stable : Déploiement mondial en cours – Liste officielle de 82 appareils Xiaomi, Redmi et autres POCO xiaomi-miui.gr
+54. **Castres. Le tournoi de l'Aviron castrais annulé en raison de l'occupation illégale des terrains de la Borde Basse - lejournaldici.com** — lejournaldici.com [fr]
+   https://www.lejournaldici.com/actualite-24797-castres-le-tournoi-de-l-aviron-castrais-annule-en-raison-de-l-occupation-illegale-des-terrains-de-la-borde-basse
+   Castres. Le tournoi de l'Aviron castrais annulé en raison de l'occupation illégale des terrains de la Borde Basse lejournaldici.com
 
-58. **Jura : une vingtaine de caravanes installées sur la zone d'activité de Messia-sur-Sorne - horticulture-abadie-pyrenees.com** — horticulture-abadie-pyrenees.com [fr]
-   https://horticulture-abadie-pyrenees.com/interviews/20261011-4
-   Jura : une vingtaine de caravanes installées sur la zone d'activité de Messia-sur-Sorne horticulture-abadie-pyrenees.com
+55. **“Vers d’autres chemins” : portraits sensibles de jeunes voyageurs de Haute-Vienne et de Charente sur grand écran - Le Populaire du Centre** — Le Populaire du Centre [fr]
+   https://www.lepopulaire.fr/limoges-87000/actualites/vers-dautres-chemins-portraits-sensibles-de-jeunes-voyageurs-de-haute-vienne-et-de-charente-sur-grand-ecran_15074029/
+   “Vers d’autres chemins” : portraits sensibles de jeunes voyageurs de Haute-Vienne et de Charente sur grand écran Le Populaire du Centre
 
-59. **Eine Erinnerung, die eine Seltenheit ist: Stolperstein für verfolgte Sinti und Roma verlegt - NDR.de** — NDR.de [de]
-   https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/erster-stolperstein-fuer-sinti-und-roma-in-braunschweig-verlegt-verfolgung,stolperstein-152.html
-   Eine Erinnerung, die eine Seltenheit ist: Stolperstein für verfolgte Sinti und Roma verlegt NDR.de
+56. **Offres Godeal 24 pour le 11.11 : MS Office 2024 Pro à seulement 22.11 €, Windows 11 Pro jusqu’à 12.25 € - xiaomi-miui.gr** — xiaomi-miui.gr [fr]
+   https://fr.xiaomi-miui.gr/godeal24-11-11-deals-ms-office-2024-pro-down-to-22-11e-windows-11-pro-to-12-25e/
+   Offres Godeal 24 pour le 11.11 : MS Office 2024 Pro à seulement 22.11 €, Windows 11 Pro jusqu’à 12.25 € xiaomi-miui.gr
 
-60. **Führung mit Marcella Herzenberger: „Sinti und Roma in Schwaben“ - Donau-Ries-Aktuell** — Donau-Ries-Aktuell [de]
-   https://www.donau-ries-aktuell.de/eventkalender/fuehrung-mit-marcella-herzenberger-sinti-und-roma-schwaben-105132
-   Führung mit Marcella Herzenberger: „Sinti und Roma in Schwaben“ Donau-Ries-Aktuell
+57. **Xiaomi a présenté une nouvelle brosse à dents électrique dotée d'un écran couleur et d'une autonomie de 190 jours. - xiaomi-miui.gr** — xiaomi-miui.gr [fr]
+   https://fr.xiaomi-miui.gr/mijia-electric-toothbrush-2-pro-color-screen-battery/
+   Xiaomi a présenté une nouvelle brosse à dents électrique dotée d'un écran couleur et d'une autonomie de 190 jours. xiaomi-miui.gr
 
-61. **Sachsen-Monitor: 60 Prozent stimmen „Überfremdung“-Aussage zu - MiGAZIN** — MiGAZIN [de]
-   https://www.migazin.de/2026/11/04/sachsen-monitor-jeder-zweite-sonderrechte-echte-deutsche/
-   Sachsen-Monitor: 60 Prozent stimmen „Überfremdung“-Aussage zu MiGAZIN
+58. **Salaunes : le maire bloque l'installation de 100 caravanes sur une aire de pique-nique - horticulture-abadie-pyrenees.com** — horticulture-abadie-pyrenees.com [fr]
+   https://horticulture-abadie-pyrenees.com/analyses/20260821-8
+   Salaunes : le maire bloque l'installation de 100 caravanes sur une aire de pique-nique horticulture-abadie-pyrenees.com
 
-62. **Unerzählte Geschichten: Dokuzentrum verleiht den Koblenzer Sinti eine Stimme - Rhein-Zeitung** — Rhein-Zeitung [de]
-   https://www.rhein-zeitung.de/rheinland-pfalz/dokuzentrum-verleiht-den-koblenzer-sinti-eine-stimme_arid-4167513.html
-   Unerzählte Geschichten: Dokuzentrum verleiht den Koblenzer Sinti eine Stimme Rhein-Zeitung
+59. **Völkermord an Sinti und Roma: Jetzt entsteht ein neues Mahnmal - NDR.de** — NDR.de [de]
+   https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/neues-holocaust-mahnmal-fuer-sinti-und-roma-in-hannover,mahnmal-124.html
+   Völkermord an Sinti und Roma: Jetzt entsteht ein neues Mahnmal NDR.de
 
-63. **La seconda pelle: un noir civile dentro le comunità rom e cinesi - arteventinews.it** — arteventinews.it [it]
-   https://arteventinews.it/2026/11/04/la-seconda-pelle-un-noir-civile-dentro-le-comunita-rom-e-cinesi/
-   La seconda pelle: un noir civile dentro le comunità rom e cinesi arteventinews.it
+60. **Melde-​ und In­for­ma­ti­ons­stel­le An­ti­zi­ga­nis­mus Rheinland-​Pfalz ist jetzt Ver­ein - Die Rheinpfalz** — Die Rheinpfalz [de]
+   https://www.rheinpfalz.de/lokal/landau_artikel,-melde-und-informationsstelle-antiziganismus-rheinland-pfalz-ist-jetzt-verein-_arid,5945590.html
+   Melde-​ und In­for­ma­ti­ons­stel­le An­ti­zi­ga­nis­mus Rheinland-​Pfalz ist jetzt Ver­ein Die Rheinpfalz
+
+61. **Michael Brand dankt Mitgliedern - BMBFSFJ** — BMBFSFJ [de]
+   https://www.bmbfsfj.bund.de/bmbfsfj/aktuelles/alle-meldungen/michael-brand-dankt-mitgliedern--298962
+   Michael Brand dankt Mitgliedern BMBFSFJ
+
+62. **Gedenken gegen Rechts in Jena, Thüringen » Gedenken an die November-Pogrome 1938 - DemokraTEAM** — DemokraTEAM [de]
+   https://www.demokrateam.org/aktionen/gedenken-an-die-november-pogrome-1938/
+   Gedenken gegen Rechts in Jena, Thüringen » Gedenken an die November-Pogrome 1938 DemokraTEAM
+
+63. **Jenischer Kulturverein Gwanta Funk eröffnete Vereinsbüro - NÖN.at - Niederösterreichische Nachrichten** — NÖN.at - Niederösterreichische Nachrichten [de]
+   https://www.noen.at/gmuend/schrems-jenischer-kulturverein-gwanta-funk-eroeffnete-vereinsbuero-a8524722
+   Jenischer Kulturverein Gwanta Funk eröffnete Vereinsbüro NÖN.at - Niederösterreichische Nachrichten
 
 64. **Rom europei: Più diritti, ma progressi sono disomogenei - Eunews** — Eunews [it]
-   https://www.eunews.it/2026/11/03/rom-europei-diritti-progressi-disomogenei/
+   https://www.eunews.it/2026/11/03/migliorano-i-diritti-dei-rom-nellue-ma-serve-altro-lavoro-in-italia-calo-significativo-di-chi-vive-nei-campi-nomadi/
    Rom europei: Più diritti, ma progressi sono disomogenei Eunews
 
-65. **Fotografia Europea: a Kublaiklan la direzione artistica del triennio 2027–2029 - arteventinews.it** — arteventinews.it [it]
-   https://arteventinews.it/2026/11/04/fotografia-europea-a-kublaiklan-la-direzione-artistica-del-triennio-2027-2029/
-   Fotografia Europea: a Kublaiklan la direzione artistica del triennio 2027–2029 arteventinews.it
+65. **"La seconda pelle", incontro con Massimiliano Scudeletti alla libreria Libraccio di Firenze - Portale Giovani Comune di Firenze** — Portale Giovani Comune di Firenze [it]
+   https://portalegiovani.comune.fi.it/pogio/webzine_publish/libri_dettaglio.php?ID_REC=55683
+   "La seconda pelle", incontro con Massimiliano Scudeletti alla libreria Libraccio di Firenze Portale Giovani Comune di Firenze
 
-66. **CESE: “Più politica dal basso contro il disimpegno dei cittadini, l’estrema destra e la polarizzazione” - Eunews** — Eunews [it]
-   https://www.eunews.it/2026/11/03/cese-politica-basso-contro-polarizzazione/
-   CESE: “Più politica dal basso contro il disimpegno dei cittadini, l’estrema destra e la polarizzazione” Eunews
+66. **Il 5 novembre si celebra la Giornata mondiale della lingua rom: un patrimonio culturale da tutelare - RTSH - Radio Televizioni Shqiptar** — RTSH - Radio Televizioni Shqiptar [it]
+   https://rtsh.al/rti/it/il-5-novembre-si-celebra-la-giornata-mondiale-della-lingua-rom-un-patrimonio-culturale-da-tutelare/
+   Il 5 novembre si celebra la Giornata mondiale della lingua rom: un patrimonio culturale da tutelare RTSH - Radio Televizioni Shqiptar
 
-67. **ЕК публикува трети доклад за изпълнението на политиките на ЕС за ромите - Про Нюз Добрич** — Про Нюз Добрич [bg]
-   https://pronewsdobrich.bg/ek-publikuva-treti-doklad-za-izpalnenieto-na-politikite-na-es-za-romite-p732645
-   ЕК публикува трети доклад за изпълнението на политиките на ЕС за ромите Про Нюз Добрич
+67. **Бомбени заплахи срещу три самолета, изпълняващи полети до София - Cross.bg** — Cross.bg [bg]
+   https://www.cross.bg/poleta-sofiya-zaplahi-1809743.html
+   Бомбени заплахи срещу три самолета, изпълняващи полети до София Cross.bg
 
-68. **Трескава подготовка за коледните празници! Роми заклаха и опърлиха прасе пред блок във Враца, шокираха съседите си /снимка/ - BulNews** — BulNews [bg]
-   https://www.bulnews.bg/article/521112
-   Трескава подготовка за коледните празници! Роми заклаха и опърлиха прасе пред блок във Враца, шокираха съседите си /снимка/ BulNews
+68. **Първо редовно заседание на парламента след президентските избори - Cross.bg** — Cross.bg [bg]
+   https://www.cross.bg/chetene-depytatite-zakona-1809640.html
+   Първо редовно заседание на парламента след президентските избори Cross.bg
 
-69. **Европейската комисия: 77% от ромските деца в ЕС са изложени на риск от бедност - СайтЪТ** — СайтЪТ [bg]
-   https://thesite24.net/evropejskata-komisiya-77-ot-romskite-decza-v-es-sa-izlozheni-na-risk-ot-bednost/
-   Европейската комисия: 77% от ромските деца в ЕС са изложени на риск от бедност СайтЪТ
+69. **КОЛЕДА НАБЛИЖАВА: Роми заклаха и опърлиха прасе пред блок във Враца, шокираха съседите си (СНИМКА) - агенция ПИК** — агенция ПИК [bg]
+   https://pik.bg/%D0%BA%D0%BE%D0%BB%D0%B5%D0%B4%D0%B0-%D0%BD%D0%B0%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B2%D0%B0-%D1%80%D0%BE%D0%BC%D0%B8-%D0%B7%D0%B0%D0%BA%D0%BB%D0%B0%D1%85%D0%B0-%D0%B8-%D0%BE%D0%BF%D1%8A%D1%80%D0%BB%D0%B8%D1%85%D0%B0-%D0%BF%D1%80%D0%B0%D1%81%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B2%D1%8A%D0%B2-%D0%B2%D1%80%D0%B0%D1%86%D0%B0-%D1%88%D0%BE%D0%BA%D0%B8%D1%80%D0%B0%D1%85%D0%B0-%D1%81%D1%8A%D1%81%D0%B5%D0%B4%D0%B8%D1%82%D0%B5-%D1%81%D0%B8-%D1%81%D0%BD-news1361812.html
+   КОЛЕДА НАБЛИЖАВА: Роми заклаха и опърлиха прасе пред блок във Враца, шокираха съседите си (СНИМКА) агенция ПИК
 
-70. **В месеца на мъжкото здраве: Провеждат безплатни урологични прегледи в МБАЛ "Сърце и мозък" във Враца - BulNews** — BulNews [bg]
-   https://www.bulnews.bg/article/521107
-   В месеца на мъжкото здраве: Провеждат безплатни урологични прегледи в МБАЛ "Сърце и мозък" във Враца BulNews
+70. **Галерия: Роми заклаха и опърлиха прасе пред блок във Враца, шокираха съседите си Снимка - Blitz.bg** — Blitz.bg [bg]
+   https://blitz.bg/gallery/romi-zaklaha-i-oparliha-prase-pred-blok-vav-vraca-shokiraha-sasedite-si-snimka_news1180675.html
+   Галерия: Роми заклаха и опърлиха прасе пред блок във Враца, шокираха съседите си Снимка Blitz.bg
 
-71. **Κινηματογραφική καταδίωξη ΙΧ με Ρομά στην Θεσσαλονίκη: Εμβόλισαν όχημα της ΕΛΑΣ και οι αστυνομικοί πυροβόλησαν τα λάστιχα του αυτοκινήτου - ProtoThema** — ProtoThema [el]
+71. **Αφροδίτη Λατινοπούλου στο Mega: Επίθεση σε Ρομά, μετανάστες και woke ατζέντα – «Όλοι οι τρομοκράτες είναι μουσουλμάνοι» - ΤΑ ΝΕΑ** — ΤΑ ΝΕΑ [el]
+   https://www.tanea.gr/2026/11/05/politics/afroditi-latinopoulou-sto-mega-epithesi-se-roma-metanastes-kai-woke-atzenta-oloi-oi-tromokrates-einai-mousoulmanoi/
+   Αφροδίτη Λατινοπούλου στο Mega: Επίθεση σε Ρομά, μετανάστες και woke ατζέντα – «Όλοι οι τρομοκράτες είναι μουσουλμάνοι» ΤΑ ΝΕΑ
+
+72. **Αρκούν 7 λεπτά για να καταλάβεις τι σημαίνει πρόωρος γάμος για ένα κορίτσι Ρομά; - OW.GR** — OW.GR [el]
+   https://www.ow.gr/empnefsi/ourania-ena-ntokimanter-gia-tous-proimous-gamous-kai-ti-mitrotita-stis-koinotites-roma/
+   Αρκούν 7 λεπτά για να καταλάβεις τι σημαίνει πρόωρος γάμος για ένα κορίτσι Ρομά; OW.GR
+
+73. **Γεωργία Καλπαζίδου: Από την κοινότητα Ρομά του Δενδροποτάμου στην έρευνα για το ψηφιακό μέλλον της ρομανί - Μακεδονικό Πρακτορείο Ειδήσεων** — Μακεδονικό Πρακτορείο Ειδήσεων [el]
+   https://www.amna.gr/home/article/1036653/Georgia-Kalpazidou-Apo-tin-koinotita-Roma-tou-Dendropotamou-stin-ereuna-gia-to-psifiako-mellon-tis-romani
+   Γεωργία Καλπαζίδου: Από την κοινότητα Ρομά του Δενδροποτάμου στην έρευνα για το ψηφιακό μέλλον της ρομανί Μακεδονικό Πρακτορείο Ειδήσεων
+
+74. **Λατινοπούλου για Ρομά: Αν χρειαστεί στους καταυλισμούς θα πλησιάσει και ο στρατός - ΒΙΝΤΕΟ - ENIKOS** — ENIKOS [el]
+   https://www.enikos.gr/politics/latinopoulou-gia-roma-an-chreiastei-stous-katavlismous-tha-plisiasei-kai-o-stratos-vinteo/2671893/
+   Λατινοπούλου για Ρομά: Αν χρειαστεί στους καταυλισμούς θα πλησιάσει και ο στρατός - ΒΙΝΤΕΟ ENIKOS
+
+75. **Λατινοπούλου: «Θα βάλω μόνιμα κλιμάκια του στρατού στους καταυλισμούς των Ρομά» - Newsbomb** — Newsbomb [el]
+   https://www.newsbomb.gr/politikh/story/1774442/latinopoylou-tha-valo-monima-klimakia-tou-stratoy-stous-katavlismoys-ton-roma
+   Λατινοπούλου: «Θα βάλω μόνιμα κλιμάκια του στρατού στους καταυλισμούς των Ρομά» Newsbomb
+
+76. **Παραλήρημα Λατινοπούλου: Πεζοί αστυνομικοί με λυκόσκυλα και μαλινουά για όσους κακώς έχουν άσυλο - Η Εφημερίδα των Συντακτών** — Η Εφημερίδα των Συντακτών [el]
+   https://www.efsyn.gr/politiki/1503601/paralirima-latinopoyloy-gia-toys-roma-zita-strato-stoys-kataylismoys-kai-diakopi-epidomaton/
+   Παραλήρημα Λατινοπούλου: Πεζοί αστυνομικοί με λυκόσκυλα και μαλινουά για όσους κακώς έχουν άσυλο Η Εφημερίδα των Συντακτών
+
+77. **Ρατσιστικό και ανατριχιαστικό παραλήρημα της Λατινοπούλου: Θέλει "στρατό" για τους Ρομά και αστυνόμευση με"λυκόσκυλα" στις γειτονιές μεταναστών - Ημεροδρόμος** — Ημεροδρόμος [el]
+   https://www.imerodromos.gr/ratsistiko-kai-anatrichiastiko-paralirima-tis-latinopoyloy-thelei-quot-strato-quot-gia-toys-roma-kai-astynomeysi-me-quot-lykoskyla-quot-stis-geitonies-metanaston/
+   Ρατσιστικό και ανατριχιαστικό παραλήρημα της Λατινοπούλου: Θέλει "στρατό" για τους Ρομά και αστυνόμευση με"λυκόσκυλα" στις γειτονιές μεταναστών Ημεροδρόμος
+
+78. **Ρομά «λογιστές» εξαπατούσαν ηλικιωμένους - Alpha Tv** — Alpha Tv [el]
+   https://www.alphatv.gr/koinonia/roma-logistes-exapatousan-ilikiomenous/
+   Ρομά «λογιστές» εξαπατούσαν ηλικιωμένους Alpha Tv
+
+79. **Ρομανί: Η γλώσσα που ξεκίνησε από την Ινδία και ταξίδεψε σε ολόκληρο τον κόσμο - HuffPost Greece** — HuffPost Greece [el]
+   https://www.huffingtonpost.gr/diethnes/romani-i-glossa-pou-xekinise-apo-tin-india-kai-taxidepse-se-olokliro-ton-kosmo/
+   Ρομανί: Η γλώσσα που ξεκίνησε από την Ινδία και ταξίδεψε σε ολόκληρο τον κόσμο HuffPost Greece
+
+80. **Κάθειρξη 15 ετών στον 37χρονο Ρομά που έκαψε 3 εργοστάσια στο Μενίδι κλέβοντας χαλκό - Thriassio.gr** — Thriassio.gr [el]
+   https://thriassio.gr/katheirxi-37xrono-roma-fotia-ergostasia-menidi-xalkos/
+   Κάθειρξη 15 ετών στον 37χρονο Ρομά που έκαψε 3 εργοστάσια στο Μενίδι κλέβοντας χαλκό Thriassio.gr
+
+81. **Κινηματογραφική καταδίωξη ΙΧ με Ρομά στην Θεσσαλονίκη: Εμβόλισαν όχημα της ΕΛΑΣ και οι αστυνομικοί πυροβόλησαν τα λάστιχα του αυτοκινήτου - ProtoThema** — ProtoThema [el]
    https://www.protothema.gr/greece/article/1905380/katadioxi-ih-roma-stin-thessaloniki-emvolisan-ohima-tis-elas-kai-oi-astunomikoi-purovolisan-ta-lastiha-tou-autokinitou/
    Κινηματογραφική καταδίωξη ΙΧ με Ρομά στην Θεσσαλονίκη: Εμβόλισαν όχημα της ΕΛΑΣ και οι αστυνομικοί πυροβόλησαν τα λάστιχα του αυτοκινήτου ProtoThema
 
-72. **Κομισιόν: 3η έκθεση για τους Ρομά – Μείωση της υλικής στέρησης αλλά ανησυχητικός εκπαιδευτικός διαχωρισμός και φτώχεια - Rodopi Press** — Rodopi Press [el]
-   https://rodopipress.gr/komision-ekthesi-roma-strathgiko-plaisio-fwtwxeia-ekpaidefsi-koinwniki-entaxi/
-   Κομισιόν: 3η έκθεση για τους Ρομά – Μείωση της υλικής στέρησης αλλά ανησυχητικός εκπαιδευτικός διαχωρισμός και φτώχεια Rodopi Press
+82. **Serpa vai ter Plano Local de Inclusão da Comunidade Cigana - O Atual** — O Atual [pt]
+   https://www.oatual.pt/noticias/serpa-vai-ter-plano-local-de-inclusao-da-comunidade-cigana
+   Serpa vai ter Plano Local de Inclusão da Comunidade Cigana O Atual
 
-73. **Καταδίωξη στη Θεσσαλονίκη: Ρομά πέρασαν με κόκκινο και εμβόλισαν περιπολικό - Έπεσαν πυροβολισμοί - Newsbomb** — Newsbomb [el]
-   https://www.newsbomb.gr/ellada/story/1774175/katadioksi-sti-thessaloniki-roma-perasan-me-kokkino-kai-emvolisan-peripoliko-epesan-pyrovolismoi
-   Καταδίωξη στη Θεσσαλονίκη: Ρομά πέρασαν με κόκκινο και εμβόλισαν περιπολικό - Έπεσαν πυροβολισμοί Newsbomb
+83. **Condições de vida da comunidade cigana melhoram na UE - Notícias do Sorraia** — Notícias do Sorraia [pt]
+   https://noticiasdosorraia.sapo.pt/condicoes-de-vida-da-comunidade-cigana-melhoram-na-ue/
+   Condições de vida da comunidade cigana melhoram na UE Notícias do Sorraia
 
-74. **Συνέδριο για την ένταξη Ρομά στην Εκπαίδευση - Ελευθερία** — Ελευθερία [el]
-   https://www.eleftheria.gr/ekpaideush/synedrio-gia-thn-entajh-roma-sthn-ekpaideysh/
-   Συνέδριο για την ένταξη Ρομά στην Εκπαίδευση Ελευθερία
+84. **“Geography is Destiny”, um filme da búlgara Rayna Teneva - C7nema.net** — C7nema.net [pt]
+   https://c7nema.net/critica/item/149332-geography-is-destiny-um-filme-da-bulgara-rayna-teneva.html?amp
+   “Geography is Destiny”, um filme da búlgara Rayna Teneva C7nema.net
 
-75. **Θεσσαλονίκη: Επεισοδιακή καταδίωξη Ρομά που εμβόλισαν περιπολικό - Πυροβολισμοί αστυνομικών στα λάστιχα του ΙΧ - Typosthes** — Typosthes [el]
-   https://www.typosthes.gr/thessaloniki/447530_thessaloniki-epeisodiaki-katadioxi-roma-poy-embolisan-peripoliko-pyrobolismoi
-   Θεσσαλονίκη: Επεισοδιακή καταδίωξη Ρομά που εμβόλισαν περιπολικό - Πυροβολισμοί αστυνομικών στα λάστιχα του ΙΧ Typosthes
+85. **Comissão aprova projeto que garante crédito fundiário a povos tradicionais - RCWTV** — RCWTV [pt]
+   https://www.rcwtv.com.br/noticia/comissao-aprova-projeto-que-garante-credito-fundiario-a-povos-tradicionais
+   Comissão aprova projeto que garante crédito fundiário a povos tradicionais RCWTV
 
-76. **Kινηματογραφική καταδίωξη στη Θεσσαλονίκη: Ρομά πέρασαν με κόκκινο και εμβόλισαν περιπολικό - Thita News** — Thita News [el]
-   https://www.thitanews.gr/kinimatografiki-katadioxi-sti-thessaloniki-roma-perasan-me-kokkino-kai-emvolisan-peripoliko/
-   Kινηματογραφική καταδίωξη στη Θεσσαλονίκη: Ρομά πέρασαν με κόκκινο και εμβόλισαν περιπολικό Thita News
-
-77. **Αγρίνιο: Πήραν τα χαλιά από το καθαριστήριο για να τα πάνε σπίτι, τους τα έκλεψαν Ρομά μέσα από την κλούβα! - AgrinioPress** — AgrinioPress [el]
-   https://www.agriniopress.gr/agrinio-piran-ta-chalia-apo-to-katharistirio-gia-na-ta-pane-spiti-tous-ta-eklepsan-roma-mesa-apo-tin-klouva/
-   Αγρίνιο: Πήραν τα χαλιά από το καθαριστήριο για να τα πάνε σπίτι, τους τα έκλεψαν Ρομά μέσα από την κλούβα! AgrinioPress
-
-78. **Θεσσαλονίκη: Τρεις Ρομά λήστεψαν βενζινάδικο στη Θέρμη - Έβγαλαν μαχαίρι για 20 ευρώ - Typosthes** — Typosthes [el]
-   https://www.typosthes.gr/thessaloniki/447529_thessaloniki-treis-roma-listepsan-benzinadiko-sti-thermi-ebgalan-mahairi-gia-20
-   Θεσσαλονίκη: Τρεις Ρομά λήστεψαν βενζινάδικο στη Θέρμη - Έβγαλαν μαχαίρι για 20 ευρώ Typosthes
-
-79. **Στην ανακρίτρια για απόπειρα ανθρωποκτονίας 32χρονος Ρομά - Δημοκρατική της Ρόδου** — Δημοκρατική της Ρόδου [el]
-   https://www.dimokratiki.gr/03-11-2026/stin-anakritria-gia-apopira-anthropoktonias-32chronos-roma/
-   Στην ανακρίτρια για απόπειρα ανθρωποκτονίας 32χρονος Ρομά Δημοκρατική της Ρόδου
-
-80. **Περιφέρεια Θεσσαλίας: Οφθαλμολογικός έλεγχος σε παιδιά Ρομά στον Δήμο Τρικκαίων - Θεσσαλία Τηλεόραση** — Θεσσαλία Τηλεόραση [el]
-   https://www.thessaliatv.gr/news/195753/perifereia-thessalias-ofthalmologikos-elegxos-se-paidia-roma-ston-dimo-trikkaion
-   Περιφέρεια Θεσσαλίας: Οφθαλμολογικός έλεγχος σε παιδιά Ρομά στον Δήμο Τρικκαίων Θεσσαλία Τηλεόραση
-
-81. **Λαμία: Προφυλακιστέοι οι δύο Ρομά με τις απάτες και λεία άνω των 33.000 ευρώ - Αρνήθηκαν τις κατηγορίες - LamiaReport.gr** — LamiaReport.gr [el]
-   https://www.lamiareport.gr/topika/topikanea/item/lamia-profylakisteoi-oi-dyo-roma-me-tis-apates-kai-leia-ano-ton-33-000-eyro-arnithikan-tis-katigories/
-   Λαμία: Προφυλακιστέοι οι δύο Ρομά με τις απάτες και λεία άνω των 33.000 ευρώ - Αρνήθηκαν τις κατηγορίες LamiaReport.gr
-
-82. **Από τύχη δεν υπήρξαν νεκροί μετά από επεισοδιακή καταδίωξη Ρομά - εφημερίδα δημοκρατία** — εφημερίδα δημοκρατία [el]
-   https://www.dimokratia.gr/ellada/762823/apo-tychi-den-ypirxan-nekroi-meta-apo-epeisodiaki-katadioxi-roma/
-   Από τύχη δεν υπήρξαν νεκροί μετά από επεισοδιακή καταδίωξη Ρομά εφημερίδα δημοκρατία
-
-83. **Επεισοδιακή καταδίωξη Ρομά στη Θεσσαλονίκη: Εμβόλισαν περιπολικό – Έπεσαν πυροβολισμοί - Pronews.gr** — Pronews.gr [el]
-   https://www.pronews.gr/amyna-asfaleia/esoteriki-asfaleia/epeisodiaki-katadioksi-roma-sti-thessaloniki-emvolisan-peripoliko-epesan-pyrovolismoi/
-   Επεισοδιακή καταδίωξη Ρομά στη Θεσσαλονίκη: Εμβόλισαν περιπολικό – Έπεσαν πυροβολισμοί Pronews.gr
-
-84. **Αγρίνιο: Ρομά τούς έκλεψαν τα καθαρά χαλιά από την κλούβα ενώ μιλούσαν στον δρόμο! - Η Βραδυνή** — Η Βραδυνή [el]
-   https://www.vradini.gr/ellada/agrinio-roma-toys-eklepsan-ta-kathara-xalia-apo-tin-kloyva-eno-miloysan-ston-dromo/1755504/
-   Αγρίνιο: Ρομά τούς έκλεψαν τα καθαρά χαλιά από την κλούβα ενώ μιλούσαν στον δρόμο! Η Βραδυνή
-
-85. **Συνελήφθησαν στην Αττική 4 Ρομά για σωρεία κλοπών και απατών – Πώς δρούσαν - Pronews.gr** — Pronews.gr [el]
-   https://www.pronews.gr/amyna-asfaleia/esoteriki-asfaleia/synelifthisan-stin-attiki-4-roma-gia-soreia-klopon-kai-apaton-pos-drousan/
-   Συνελήφθησαν στην Αττική 4 Ρομά για σωρεία κλοπών και απατών – Πώς δρούσαν Pronews.gr
-
-86. **Spotkanie o historii i kulturze Romów w siedleckiej bibliotece - Tygodnik Siedlecki** — Tygodnik Siedlecki [pl]
-   https://tygodniksiedlecki.com/artykul/spotkanie-o-historii-n2566282
-   Spotkanie o historii i kulturze Romów w siedleckiej bibliotece Tygodnik Siedlecki
-
-87. **Condições de vida da comunidade cigana melhoram na UE - SAPO** — SAPO [pt]
-   https://sapo.pt/artigo/condicoes-de-vida-da-comunidade-cigana-melhoram-na-ue-6aeaea3d8c34e87b49a0f974
-   Condições de vida da comunidade cigana melhoram na UE SAPO
-
-88. **Site Autárquico CM Serpa - Serpa prepara Plano Local de Inclusão da Comunidade Cigana - Câmara Municipal de Serpa** — Câmara Municipal de Serpa [pt]
-   https://www.cm-serpa.pt/pt/noticias/76571/serpa-prepara-plano-local-de-inclusao-da-comunidade-cigana.aspx
-   Site Autárquico CM Serpa - Serpa prepara Plano Local de Inclusão da Comunidade Cigana Câmara Municipal de Serpa
-
-89. **Sidney Magal se apresenta com Gipsy Kings e relembra convite negado: 'Fiquei com medo de não estar à altura' - Globo** — Globo [pt]
-   https://revistaquem.globo.com/google/amp/entrevistas/noticia/2026/11/sidney-magal-se-apresenta-com-gipsy-kings-e-relembra-convite-negado-fiquei-com-medo-de-nao-estar-a-altura.ghtml
-   Sidney Magal se apresenta com Gipsy Kings e relembra convite negado: 'Fiquei com medo de não estar à altura' Globo
-
-90. **Grupo de aproximadamente 30 ciganos está acampado nas proximidades do viaduto da Avenida Parigot de Souza, em Toledo; Prefeitura acompanha situação - Toledo News** — Toledo News [pt]
-   https://www.toledonews.com.br/noticia/grupo-de-aproximadamente-30-ciganos-esta-acampado-nas-proximidades-do-viaduto-da-avenida-parigot-de-souza-em-toledo-prefeitura-acompanha-situacao
-   Grupo de aproximadamente 30 ciganos está acampado nas proximidades do viaduto da Avenida Parigot de Souza, em Toledo; Prefeitura acompanha situação Toledo News
-
-91. **Nevimata - nyheter för romer - Sveriges Radio** — Sveriges Radio [sv]
-   https://www.sverigesradio.se/avsnitt/2885889
+86. **Nevimata - nyheter för romer - Sveriges Radio** — Sveriges Radio [sv]
+   https://www.sverigesradio.se/avsnitt/2885891
    Nevimata - nyheter för romer Sveriges Radio
-
-92. **Hasil Liga Champions : MU Menang Dramatis 3 - 2 atas Roma** — koran-jakarta.com [Indonesian]
-   https://koran-jakarta.com/2026-11-04/hasil-liga-champions-mu-menang-dramatis-3-2-atas-roma
-
-93. **Dovada clară că Prințul Marco și Bianca Ghiurcă nu au divorțat ! Cum au fost surprinși în Roma , după filmările Insula Iubirii** — cancan.ro [Romanian]
-   https://www.cancan.ro/dovada-clara-ca-printul-marco-si-bianca-ghiurca-nu-au-divortat-cum-au-fost-surprinsi-in-roma-dupa-filmarile-insula-iubirii-21541665
