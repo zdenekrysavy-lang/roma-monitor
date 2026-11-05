@@ -1,67 +1,55 @@
-# Kandidáti — 2026-11-04T14:54:04+00:00 (16 položek)
+# Kandidáti — 2026-11-05T14:59:22+00:00 (13 položek)
 
-_Zdroje: Google News 64 · GDELT 0 (disabled) · feedy 4 · watch 0_
+_Zdroje: Google News 66 · GDELT 0 (disabled) · feedy 5 · watch 0_
 
-1. **Zastali se druhých, teď potřebují naše zastání. Startuje Maraton psaní dopisů!** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/zastali-se-druhych-ted-potrebuji-nase-zastani-startuje-maraton-psani-dopisu/
-   Učitelka, která odmítla vzdělávat děti podle ruských osnov. Student, který chtěl demokracii v Hongkongu. Překladatelka, která pomáhala rodinám politických vězňů. Manželé, kteří poskytovali právní pomo
+1. **„Vládní úprava normativů problémy superdávky nevyřešila. Rodinám hrozí, že přijdou o bydlení,” sociální služby kritizují rozběh dávkové reformy** — https://socialnibydleni.org/feed [cs]
+   https://socialnibydleni.org/aktuality/vladni-uprava-normativu-problemy-superdavky-nevyresila-rodinam-hrozi-ze-prijdou-o-bydleni-socialni-sluzby-kritizuji-rozbeh-davkove-reformy
+   5. 11. 2026, Praha Tiskovou zprávu najdete ke stažení zde. Měsíce zpožděné výplaty dávek pro ohrožené domácnosti, kriticky nízko nastavené normativy v řadě okresů a stále chybějící podpora domácnostem
 
-2. **Romové v Česku čelí chudobě i segregaci, upozorňuje Evropská komise - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/zahranicni-romove-v-cesku-celi-chudobe-i-segregaci-upozornuje-evropska-komise-40606488
-   Romové v Česku čelí chudobě i segregaci, upozorňuje Evropská komise Novinky
+2. **Muzeum romské kultury v Brně slaví 35 let. Láká na výstavu i komentované prohlídky – fotogalerie - Brněnská Drbna** — Brněnská Drbna [cs]
+   https://brnenska.drbna.cz/galerie/clanek/590161-muzeum-romske-kultury-v-brne-slavi-35-let-laka-na-vystavu-i-komentovane-prohlidky.html?zpet=%2Fkultura%2F36347-muzeum-romske-kultury-v-brne-slavi-35-let-laka-na-vystavu-i-komentovane-prohlidky.html
+   Muzeum romské kultury v Brně slaví 35 let. Láká na výstavu i komentované prohlídky – fotogalerie Brněnská Drbna
 
-3. **Romové stále čelí předsudkům. EU chce odstranit bariéry do roku 2030 - Dotyk** — Dotyk [cs]
-   https://www.dotyk.cz/svet/romove-stale-celi-predsudkum-eu-chce-odstranit-bariery-do-roku-2030/
-   Romové stále čelí předsudkům. EU chce odstranit bariéry do roku 2030 Dotyk
+3. **Nová hra přiblížuje romskou žitou zkušenost s diskriminací - Refresher.cz** — Refresher.cz [cs]
+   https://refresher.cz/214921-Jak-se-zije-Romum-v-Cesku-Zkusenost-s-diskriminaci-priblizuje-hra-V-moji-kuzi
+   Nová hra přiblížuje romskou žitou zkušenost s diskriminací Refresher.cz
 
-4. **Chudoba ohrožuje přes polovinu Romů v Česku, pětkrát více než ostatní - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/domaci/chudoba-ohrozuje-pres-polovinu-romu-v-cesku-petkrat-vice-nez-ostatni.A261103_170027_domaci_ichuc
-   Chudoba ohrožuje přes polovinu Romů v Česku, pětkrát více než ostatní iDNES.cz
+4. **Prodává džíny. Internet řeší rasismus. Bizarní příběh Sydney Sweeney - Proženy.cz** — Proženy.cz [cs]
+   https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-zaujalo-nas-nadherna-sydney-sweeney-staci-jedna-herecka-a-amerika-se-hada-ve-hre-jsou-geny-lesby-i-rasismus-105667
+   Prodává džíny. Internet řeší rasismus. Bizarní příběh Sydney Sweeney Proženy.cz
 
-5. **Orbán uvedl, že v 80. letech odmítl nabídku tajné policie být informátorem - www.epochtimes.cz** — www.epochtimes.cz [cs]
-   https://www.epochtimes.cz/svet/orban-uvedl-ze-v-80-letech-odmitl-nabidku-tajne-policie-byt-informatorem-a305373.html?ea_src=frontpage&ea_pos=col-top&ea_elmt=latest-news&ea_cnt=1
-   Orbán uvedl, že v 80. letech odmítl nabídku tajné policie být informátorem www.epochtimes.cz
+5. **Kdo je muž z útoku u Želivského? Policie zná jeho totožnost - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/clanek/regiony-praha/852007/rasisticky-utok-na-zelivskeho-je-utocnikem-american-z-ruska.html
+   Kdo je muž z útoku u Želivského? Policie zná jeho totožnost Blesk.cz
 
-6. **Investor, který v Mostě mění ubytovnu Domino na moderní bydlení, podpořil romské studenty ze severních Čech - e-Mostecko.cz** — e-Mostecko.cz [cs]
-   https://www.e-mostecko.cz/zpravy/most/173075-investor-ktery-v-moste-meni-ubytovnu-domino-na-moderni-bydleni-podporil-romske-studenty-ze-severnich-cech
-   Investor, který v Mostě mění ubytovnu Domino na moderní bydlení, podpořil romské studenty ze severních Čech e-Mostecko.cz
+6. **V Londýně zatkli stoupence propalestinské Palestine Action - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/zahranicni-v-londyne-zatkli-stoupence-propalestinske-palestine-action-40606818
+   V Londýně zatkli stoupence propalestinské Palestine Action Novinky
 
-7. **Čtyři romští středoškoláci ze severních Čech získali stipendia. Mezi podpořenými je i student ze Žatce - E-Žatecko** — E-Žatecko [cs]
-   https://www.e-zatecko.cz/zpravy-zatec/ctyri-romsti-stredoskolaci-ze-severnich-cech-ziskali-stipendia-mezi-podporenymi-je-i-student-ze-zatce
-   Čtyři romští středoškoláci ze severních Čech získali stipendia. Mezi podpořenými je i student ze Žatce E-Žatecko
+7. **Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice - forum 24** — forum 24 [cs]
+   https://www.forum24.cz/trumpuv-recept-na-vitezstvi-se-obraci-proti-nemu-na-stejnou-kartu-v-evrope-sazi-krajni-pravice
+   Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice forum 24
 
-8. **Na Vinohradech řádí agresor, rasisticky napadl muže: Je to Američan, po kterém pátrají Rusové? - Expres.cz** — Expres.cz [cs]
-   https://www.expres.cz/zpravy/na-vinohradech-radi-agresor-rasisticky-napadl-muze-je-to-american-po-kterem-patraji-rusove.A261104_143856_dx-zpravy_stes
-   Na Vinohradech řádí agresor, rasisticky napadl muže: Je to Američan, po kterém pátrají Rusové? Expres.cz
+8. **„Akorát prohloubí chudobu“. Nová pravidla superdávky se nelíbí expertům - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/domaci/superdavka-ales-juchelka-nova-pravidla-podle-okresu.A261105_140720_domaci_onbu
+   „Akorát prohloubí chudobu“. Nová pravidla superdávky se nelíbí expertům iDNES.cz
 
-9. **Petice za zrušení francouzské televize CNews překročila 800 tisíc podpisů - VOXPOT** — VOXPOT [cs]
-   https://www.voxpot.cz/live-feed/36884/petice-za-zruseni-francouzske-televize-cnews-prekrocila-800-tisic-podpisu
-   Petice za zrušení francouzské televize CNews překročila 800 tisíc podpisů VOXPOT
+9. **Úřad práce omezil listopadové úřední hodiny. Změna zasáhla všechny pobočky - Podnikatel.cz** — Podnikatel.cz [cs]
+   https://www.podnikatel.cz/clanky/urad-prace-omezil-listopadove-uredni-hodiny-zmena-zasahla-vsechny-pobocky/
+   Úřad práce omezil listopadové úřední hodiny. Změna zasáhla všechny pobočky Podnikatel.cz
 
-10. **Eskalace války s Íránem by Netanjahuovi prodloužila premiérství, říká reportér - iDNES.tv** — iDNES.tv [cs]
-   https://tv.idnes.cz/rozstrel/eskalace-valky-s-iranem-by-netanjahuovi-prodlouzila-premierstvi-rika-reporter.V261103_114709_idnestv_krr
-   Eskalace války s Íránem by Netanjahuovi prodloužila premiérství, říká reportér iDNES.tv
+10. **Superdávka měla připravit většinu domácností o část peněz. Ministerstvo přiznalo problém a změnilo pravidla - Seznam – najdu tam, co neznám** — Seznam – najdu tam, co neznám [cs]
+   https://www.seznam.cz/komentare/280127553-superdavka-mela-pripravit-vetsinu-domacnosti-o-cast-penez-ministerstvo-priznalo-problem-a-zmenilo-pravidla
+   Superdávka měla připravit většinu domácností o část peněz. Ministerstvo přiznalo problém a změnilo pravidla Seznam – najdu tam, co neznám
 
-11. **„Podřezat jim krky“ a vymazat Ukrajinu. Muž z Plzeňska se na internetu utrhl ze řetězu, soud mu vyměřil pokutu - Plzen.cz** — Plzen.cz [cs]
-   https://www.plzen.cz/podrezat_jim_krky_a_vymazat_ukrajinu_muz_z_plzenska_se_na_internetu_utrhl_ze_retezu_soud_mu_vymeril_pokutu
-   „Podřezat jim krky“ a vymazat Ukrajinu. Muž z Plzeňska se na internetu utrhl ze řetězu, soud mu vyměřil pokutu Plzen.cz
+11. **Sedm chyb, kvůli kterým se vám může zdržet superdávka: Úřad práce radí, jak se jim vyhnout - Seznam – najdu tam, co neznám** — Seznam – najdu tam, co neznám [cs]
+   https://www.seznam.cz/komentare/280109883-sedm-chyb-kvuli-kterym-se-vam-muze-zdrzet-superdavka-urad-prace-radi-jak-se-jim-vyhnout
+   Sedm chyb, kvůli kterým se vám může zdržet superdávka: Úřad práce radí, jak se jim vyhnout Seznam – najdu tam, co neznám
 
-12. **Superdávka od 1. října 2026: Změny pro samoživitele, kalkulačka a nové životní minimum - E15.cz** — E15.cz [cs]
-   https://www.e15.cz/prispevky-a-davky/superdavka
-   Superdávka od 1. října 2026: Změny pro samoživitele, kalkulačka a nové životní minimum E15.cz
+12. **MŠMT schválilo akční plán ke zlepšení vzdělávacích příležitostí romských žáků - MŠMT** — MŠMT [cs]
+   https://msmt.gov.cz/aktuality/msmt-schvalilo-akcni-plan-ke-zlepseni-vzdelavacich-prilezitosti-romskych-zaku
+   MŠMT schválilo akční plán ke zlepšení vzdělávacích příležitostí romských žáků MŠMT
 
-13. **Bere 70 000 Kč měsíčně a stát mu posílá příspěvek na bydlení. Jeden papír to celé umožňuje - Tiscali.cz** — Tiscali.cz [cs]
-   https://www.tiscali.cz/bere-70-000-kc-mesicne-a-stat-mu-posila-prispevek-na-bydleni-jeden-papir-to-cele-umoznuje-799774
-   Bere 70 000 Kč měsíčně a stát mu posílá příspěvek na bydlení. Jeden papír to celé umožňuje Tiscali.cz
-
-14. **Nová čísla o superdávce. Výdaje zůstávají nad dvěma miliardami, průměrná výplata roste - Echo24** — Echo24 [cs]
-   https://www.echo24.cz/a/HXP7t/zpravy-domaci-superdavka-nova-cisla-zari-dve-miliardy-mesicne-prumerna-vyse-vyplaty-se-zvysuje
-   Nová čísla o superdávce. Výdaje zůstávají nad dvěma miliardami, průměrná výplata roste Echo24
-
-15. **„Všem občanům se hluboce omlouvám.“ Juchelka je v úzkých kvůli superdávce, nápravu slíbil už v listopadu - České důchody** — České důchody [cs]
-   https://ceskeduchody.cz/finance/vsem-obcanum-se-hluboce-omlouvam-juchelka-je-v-uzkych-kvuli-superdavce-napravu-slibil-uz-v-listopadu
-   „Všem občanům se hluboce omlouvám.“ Juchelka je v úzkých kvůli superdávce, nápravu slíbil už v listopadu České důchody
-
-16. **Přepočet superdávky drhne. Úřad popsal nejčastější chyby při dokládání - Penize.cz** — Penize.cz [cs]
-   https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/499138-prepocet-superdavky-drhne-urad-popsal-nejcastejsi-chyby-pri-dokladani
-   Přepočet superdávky drhne. Úřad popsal nejčastější chyby při dokládání Penize.cz
+13. **Rovné a transparentní odměňování 2027: Jak se připravit na nová pravidla - BusinessInfo.cz** — BusinessInfo.cz [cs]
+   https://www.businessinfo.cz/akce/rovne-a-transparentni-odmenovani-2027-jak-se-pripravit-na-nova-pravidla-2/
+   Rovné a transparentní odměňování 2027: Jak se připravit na nová pravidla BusinessInfo.cz
