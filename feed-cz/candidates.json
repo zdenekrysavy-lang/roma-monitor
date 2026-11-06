@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-05T14:59:22+00:00",
-  "count": 13,
+  "generated_utc": "2026-11-06T14:38:33+00:00",
+  "count": 10,
   "sources": {
     "profile": "cz",
     "google_news": 66,
@@ -8,118 +8,94 @@
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 5,
+    "feeds": 2,
     "watch": 0,
-    "before_dedup": 48,
-    "total": 36,
-    "skipped_seen": 23,
-    "gn_resolved": 12,
-    "gn_resolve_tried": 12,
+    "before_dedup": 46,
+    "total": 32,
+    "skipped_seen": 22,
+    "gn_resolved": 10,
+    "gn_resolve_tried": 10,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "„Vládní úprava normativů problémy superdávky nevyřešila. Rodinám hrozí, že přijdou o bydlení,” sociální služby kritizují rozběh dávkové reformy",
-      "url": "https://socialnibydleni.org/aktuality/vladni-uprava-normativu-problemy-superdavky-nevyresila-rodinam-hrozi-ze-prijdou-o-bydleni-socialni-sluzby-kritizuji-rozbeh-davkove-reformy",
-      "source": "https://socialnibydleni.org/feed",
-      "snippet": "5. 11. 2026, Praha Tiskovou zprávu najdete ke stažení zde. Měsíce zpožděné výplaty dávek pro ohrožené domácnosti, kriticky nízko nastavené normativy v řadě okresů a stále chybějící podpora domácnostem v dluzích. Špatně nastavený systém dávek zatěžuje sociální pracovníky a chudí lidé jsou ohroženi zt",
-      "published": "Thu, 05 Nov 2026 11:07:31 +0000",
+      "title": "Ponižování, osahávání? Ne. Soud smetl stížnost mladé Romky na pěstouny ze stolu - Rokycanský deník",
+      "url": "https://rokycansky.denik.cz/krimi/ponizovani-osahavani-ne-soud-smetl-stiznost-mlade-romky-na-pestouny-ze-stolu/",
+      "source": "Rokycanský deník",
+      "snippet": "Ponižování, osahávání? Ne. Soud smetl stížnost mladé Romky na pěstouny ze stolu Rokycanský deník",
+      "published": "Fri, 06 Nov 2026 04:02:05 GMT",
       "lang": "cs"
     },
     {
-      "title": "Muzeum romské kultury v Brně slaví 35 let. Láká na výstavu i komentované prohlídky – fotogalerie - Brněnská Drbna",
-      "url": "https://brnenska.drbna.cz/galerie/clanek/590161-muzeum-romske-kultury-v-brne-slavi-35-let-laka-na-vystavu-i-komentovane-prohlidky.html?zpet=%2Fkultura%2F36347-muzeum-romske-kultury-v-brne-slavi-35-let-laka-na-vystavu-i-komentovane-prohlidky.html",
-      "source": "Brněnská Drbna",
-      "snippet": "Muzeum romské kultury v Brně slaví 35 let. Láká na výstavu i komentované prohlídky – fotogalerie Brněnská Drbna",
-      "published": "Tue, 03 Nov 2026 08:20:49 GMT",
+      "title": "Romové mají vlastní hru: V mojí kůži ukazuje každodenní rasismus očima tří mladých hrdinů - Spite.cz",
+      "url": "https://spite.cz/article/romove-maji-vlastni-hru-v-moji-kuzi-ukazuje-kazdodenni-rasismus-ocima-tri-mladych-hrdinu",
+      "source": "Spite.cz",
+      "snippet": "Romové mají vlastní hru: V mojí kůži ukazuje každodenní rasismus očima tří mladých hrdinů Spite.cz",
+      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Nová hra přiblížuje romskou žitou zkušenost s diskriminací - Refresher.cz",
-      "url": "https://refresher.cz/214921-Jak-se-zije-Romum-v-Cesku-Zkusenost-s-diskriminaci-priblizuje-hra-V-moji-kuzi",
-      "source": "Refresher.cz",
-      "snippet": "Nová hra přiblížuje romskou žitou zkušenost s diskriminací Refresher.cz",
-      "published": "Wed, 04 Nov 2026 17:00:00 GMT",
+      "title": "Integrace Romů v Evropě vázne: Pracuje jich více, posun ale nepřichází - Ekonomický deník",
+      "url": "https://ekonomickydenik.cz/integrace-romu-eu-zaostava/",
+      "source": "Ekonomický deník",
+      "snippet": "Integrace Romů v Evropě vázne: Pracuje jich více, posun ale nepřichází Ekonomický deník",
+      "published": "Thu, 05 Nov 2026 18:10:38 GMT",
       "lang": "cs"
     },
     {
-      "title": "Prodává džíny. Internet řeší rasismus. Bizarní příběh Sydney Sweeney - Proženy.cz",
-      "url": "https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-zaujalo-nas-nadherna-sydney-sweeney-staci-jedna-herecka-a-amerika-se-hada-ve-hre-jsou-geny-lesby-i-rasismus-105667",
-      "source": "Proženy.cz",
-      "snippet": "Prodává džíny. Internet řeší rasismus. Bizarní příběh Sydney Sweeney Proženy.cz",
-      "published": "Thu, 05 Nov 2026 04:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Kdo je muž z útoku u Želivského? Policie zná jeho totožnost - Blesk.cz",
-      "url": "https://www.blesk.cz/clanek/regiony-praha/852007/rasisticky-utok-na-zelivskeho-je-utocnikem-american-z-ruska.html",
-      "source": "Blesk.cz",
-      "snippet": "Kdo je muž z útoku u Želivského? Policie zná jeho totožnost Blesk.cz",
-      "published": "Wed, 04 Nov 2026 15:33:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "V Londýně zatkli stoupence propalestinské Palestine Action - Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-v-londyne-zatkli-stoupence-propalestinske-palestine-action-40606818",
-      "source": "Novinky",
-      "snippet": "V Londýně zatkli stoupence propalestinské Palestine Action Novinky",
-      "published": "Wed, 04 Nov 2026 18:06:03 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice - forum 24",
-      "url": "https://www.forum24.cz/trumpuv-recept-na-vitezstvi-se-obraci-proti-nemu-na-stejnou-kartu-v-evrope-sazi-krajni-pravice",
-      "source": "forum 24",
-      "snippet": "Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice forum 24",
-      "published": "Thu, 05 Nov 2026 11:52:27 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "„Akorát prohloubí chudobu“. Nová pravidla superdávky se nelíbí expertům - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/superdavka-ales-juchelka-nova-pravidla-podle-okresu.A261105_140720_domaci_onbu",
-      "source": "iDNES.cz",
-      "snippet": "„Akorát prohloubí chudobu“. Nová pravidla superdávky se nelíbí expertům iDNES.cz",
-      "published": "Thu, 05 Nov 2026 13:29:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Úřad práce omezil listopadové úřední hodiny. Změna zasáhla všechny pobočky - Podnikatel.cz",
-      "url": "https://www.podnikatel.cz/clanky/urad-prace-omezil-listopadove-uredni-hodiny-zmena-zasahla-vsechny-pobocky/",
-      "source": "Podnikatel.cz",
-      "snippet": "Úřad práce omezil listopadové úřední hodiny. Změna zasáhla všechny pobočky Podnikatel.cz",
-      "published": "Thu, 05 Nov 2026 10:04:47 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Superdávka měla připravit většinu domácností o část peněz. Ministerstvo přiznalo problém a změnilo pravidla - Seznam – najdu tam, co neznám",
-      "url": "https://www.seznam.cz/komentare/280127553-superdavka-mela-pripravit-vetsinu-domacnosti-o-cast-penez-ministerstvo-priznalo-problem-a-zmenilo-pravidla",
+      "title": "Česko a Romové: Dvě desetiletí opatření, přetrvávající diskriminace - Seznam – najdu tam, co neznám",
+      "url": "https://www.seznam.cz/komentare/280171149-cesko-a-romove-dve-desetileti-opatreni-pretrvavajici-diskriminace",
       "source": "Seznam – najdu tam, co neznám",
-      "snippet": "Superdávka měla připravit většinu domácností o část peněz. Ministerstvo přiznalo problém a změnilo pravidla Seznam – najdu tam, co neznám",
-      "published": "Wed, 04 Nov 2026 23:12:45 GMT",
+      "snippet": "Česko a Romové: Dvě desetiletí opatření, přetrvávající diskriminace Seznam – najdu tam, co neznám",
+      "published": "Thu, 05 Nov 2026 23:50:30 GMT",
       "lang": "cs"
     },
     {
-      "title": "Sedm chyb, kvůli kterým se vám může zdržet superdávka: Úřad práce radí, jak se jim vyhnout - Seznam – najdu tam, co neznám",
-      "url": "https://www.seznam.cz/komentare/280109883-sedm-chyb-kvuli-kterym-se-vam-muze-zdrzet-superdavka-urad-prace-radi-jak-se-jim-vyhnout",
-      "source": "Seznam – najdu tam, co neznám",
-      "snippet": "Sedm chyb, kvůli kterým se vám může zdržet superdávka: Úřad práce radí, jak se jim vyhnout Seznam – najdu tam, co neznám",
-      "published": "Wed, 04 Nov 2026 15:14:09 GMT",
+      "title": "Ve Francii protestovalo podle odborů 1,6 milionu lidí. Vadí jim rostoucí náklady i krajní pravice - E15.cz",
+      "url": "https://www.e15.cz/zahranicni/ve-francii-protestovalo-podle-odboru-1-6-milionu-lidi-vadi-jim-rostouci-naklady-i-krajni-pravice-1437141",
+      "source": "E15.cz",
+      "snippet": "Ve Francii protestovalo podle odborů 1,6 milionu lidí. Vadí jim rostoucí náklady i krajní pravice E15.cz",
+      "published": "Thu, 05 Nov 2026 21:29:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "MŠMT schválilo akční plán ke zlepšení vzdělávacích příležitostí romských žáků - MŠMT",
-      "url": "https://msmt.gov.cz/aktuality/msmt-schvalilo-akcni-plan-ke-zlepseni-vzdelavacich-prilezitosti-romskych-zaku",
-      "source": "MŠMT",
-      "snippet": "MŠMT schválilo akční plán ke zlepšení vzdělávacích příležitostí romských žáků MŠMT",
-      "published": "Wed, 04 Nov 2026 09:13:36 GMT",
+      "title": "Hrozí zpoždění ve vyplácení superdávek. Úřady práce jsou zahlcené přepočty - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hrozi-zpozdeni-ve-vyplaceni-superdavek-urady-prace-jsou-zahlcene-prepocty-319814",
+      "source": "Seznam Zprávy",
+      "snippet": "Hrozí zpoždění ve vyplácení superdávek. Úřady práce jsou zahlcené přepočty Seznam Zprávy",
+      "published": "Thu, 05 Nov 2026 16:16:34 GMT",
       "lang": "cs"
     },
     {
-      "title": "Rovné a transparentní odměňování 2027: Jak se připravit na nová pravidla - BusinessInfo.cz",
-      "url": "https://www.businessinfo.cz/akce/rovne-a-transparentni-odmenovani-2027-jak-se-pripravit-na-nova-pravidla-2/",
-      "source": "BusinessInfo.cz",
-      "snippet": "Rovné a transparentní odměňování 2027: Jak se připravit na nová pravidla BusinessInfo.cz",
-      "published": "Wed, 04 Nov 2026 04:32:56 GMT",
+      "title": "Systém takzvané superdávky posílá zranitelné obyvatele přímo na ulici, varují sociální pracovníci - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/system-takzvane-superdavky-posila-zranitelne-obyvatele-primo-na-ulici-varuji_2611060950_aha",
+      "source": "iROZHLAS",
+      "snippet": "Systém takzvané superdávky posílá zranitelné obyvatele přímo na ulici, varují sociální pracovníci iROZHLAS",
+      "published": "Fri, 06 Nov 2026 08:50:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Superdávka nefunguje. Vůbec ne. Lidi řeší televizi - Britské listy",
+      "url": "https://blisty.cz/art/137287-superdavka-nefunguje-vulbec-ne-lidi-resi-televizi.html",
+      "source": "Britské listy",
+      "snippet": "Superdávka nefunguje. Vůbec ne. Lidi řeší televizi Britské listy",
+      "published": "Fri, 06 Nov 2026 13:41:41 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Ze superdávky se stal guláš. Lidé netuší, kolik i zda jim něco přijde - zdravezpravy.cz",
+      "url": "https://www.zdravezpravy.cz/2026/11/06/ze-superdavky-se-stal-gulas-lide-netusi-kolik-a-zda-jim-neco-prijde/",
+      "source": "zdravezpravy.cz",
+      "snippet": "Ze superdávky se stal guláš. Lidé netuší, kolik i zda jim něco přijde zdravezpravy.cz",
+      "published": "Fri, 06 Nov 2026 08:22:19 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Na výplatu superdávky čekají klienti měsíce. Sociální služby upozorňují na problémy nového systému - Deník Alarm",
+      "url": "https://denikalarm.cz/2026/11/na-vyplatu-superdavky-cekaji-klienti-mesice-socialni-sluzby-upozornuji-na-problemy-noveho-systemu/",
+      "source": "Deník Alarm",
+      "snippet": "Na výplatu superdávky čekají klienti měsíce. Sociální služby upozorňují na problémy nového systému Deník Alarm",
+      "published": "Fri, 06 Nov 2026 05:15:00 GMT",
       "lang": "cs"
     }
   ]
