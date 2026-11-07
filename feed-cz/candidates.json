@@ -1,101 +1,85 @@
 {
-  "generated_utc": "2026-11-06T14:38:33+00:00",
-  "count": 10,
+  "generated_utc": "2026-11-07T13:35:43+00:00",
+  "count": 8,
   "sources": {
     "profile": "cz",
-    "google_news": 66,
+    "google_news": 55,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 2,
-    "watch": 0,
-    "before_dedup": 46,
-    "total": 32,
-    "skipped_seen": 22,
-    "gn_resolved": 10,
-    "gn_resolve_tried": 10,
+    "feeds": 1,
+    "watch": 1,
+    "before_dedup": 32,
+    "total": 27,
+    "skipped_seen": 19,
+    "gn_resolved": 8,
+    "gn_resolve_tried": 8,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Ponižování, osahávání? Ne. Soud smetl stížnost mladé Romky na pěstouny ze stolu - Rokycanský deník",
-      "url": "https://rokycansky.denik.cz/krimi/ponizovani-osahavani-ne-soud-smetl-stiznost-mlade-romky-na-pestouny-ze-stolu/",
-      "source": "Rokycanský deník",
-      "snippet": "Ponižování, osahávání? Ne. Soud smetl stížnost mladé Romky na pěstouny ze stolu Rokycanský deník",
-      "published": "Fri, 06 Nov 2026 04:02:05 GMT",
+      "title": "Karel Hynek Mácha zemřel před 190 lety. Poslechněte si výběr z jeho tvorby nebo pořady o něm - Český rozhlas Vltava",
+      "url": "https://vltava.rozhlas.cz/karel-hynek-macha-zemrel-pred-190-lety-poslechnete-si-vyber-z-jeho-tvorby-nebo-9654751",
+      "source": "Český rozhlas Vltava",
+      "snippet": "Karel Hynek Mácha zemřel před 190 lety. Poslechněte si výběr z jeho tvorby nebo pořady o něm Český rozhlas Vltava",
+      "published": "Fri, 06 Nov 2026 10:25:05 GMT",
       "lang": "cs"
     },
     {
-      "title": "Romové mají vlastní hru: V mojí kůži ukazuje každodenní rasismus očima tří mladých hrdinů - Spite.cz",
-      "url": "https://spite.cz/article/romove-maji-vlastni-hru-v-moji-kuzi-ukazuje-kazdodenni-rasismus-ocima-tri-mladych-hrdinu",
-      "source": "Spite.cz",
-      "snippet": "Romové mají vlastní hru: V mojí kůži ukazuje každodenní rasismus očima tří mladých hrdinů Spite.cz",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Integrace Romů v Evropě vázne: Pracuje jich více, posun ale nepřichází - Ekonomický deník",
-      "url": "https://ekonomickydenik.cz/integrace-romu-eu-zaostava/",
-      "source": "Ekonomický deník",
-      "snippet": "Integrace Romů v Evropě vázne: Pracuje jich více, posun ale nepřichází Ekonomický deník",
-      "published": "Thu, 05 Nov 2026 18:10:38 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Česko a Romové: Dvě desetiletí opatření, přetrvávající diskriminace - Seznam – najdu tam, co neznám",
-      "url": "https://www.seznam.cz/komentare/280171149-cesko-a-romove-dve-desetileti-opatreni-pretrvavajici-diskriminace",
-      "source": "Seznam – najdu tam, co neznám",
-      "snippet": "Česko a Romové: Dvě desetiletí opatření, přetrvávající diskriminace Seznam – najdu tam, co neznám",
-      "published": "Thu, 05 Nov 2026 23:50:30 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Ve Francii protestovalo podle odborů 1,6 milionu lidí. Vadí jim rostoucí náklady i krajní pravice - E15.cz",
-      "url": "https://www.e15.cz/zahranicni/ve-francii-protestovalo-podle-odboru-1-6-milionu-lidi-vadi-jim-rostouci-naklady-i-krajni-pravice-1437141",
-      "source": "E15.cz",
-      "snippet": "Ve Francii protestovalo podle odborů 1,6 milionu lidí. Vadí jim rostoucí náklady i krajní pravice E15.cz",
-      "published": "Thu, 05 Nov 2026 21:29:00 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Hrozí zpoždění ve vyplácení superdávek. Úřady práce jsou zahlcené přepočty - Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hrozi-zpozdeni-ve-vyplaceni-superdavek-urady-prace-jsou-zahlcene-prepocty-319814",
-      "source": "Seznam Zprávy",
-      "snippet": "Hrozí zpoždění ve vyplácení superdávek. Úřady práce jsou zahlcené přepočty Seznam Zprávy",
-      "published": "Thu, 05 Nov 2026 16:16:34 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Systém takzvané superdávky posílá zranitelné obyvatele přímo na ulici, varují sociální pracovníci - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/system-takzvane-superdavky-posila-zranitelne-obyvatele-primo-na-ulici-varuji_2611060950_aha",
+      "title": "Španělská Vox buduje globální síť krajní pravice. Stojí v čele Patriotů a spojence sbírá v Americe - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-svet/vox-krajni-pravice-spoluprace_2611071333_elev",
       "source": "iROZHLAS",
-      "snippet": "Systém takzvané superdávky posílá zranitelné obyvatele přímo na ulici, varují sociální pracovníci iROZHLAS",
-      "published": "Fri, 06 Nov 2026 08:50:00 GMT",
+      "snippet": "Španělská Vox buduje globální síť krajní pravice. Stojí v čele Patriotů a spojence sbírá v Americe iROZHLAS",
+      "published": "Sat, 07 Nov 2026 12:33:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Diskuze: Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice - forum 24",
+      "url": "https://www.forum24.cz/trumpuv-recept-na-vitezstvi-se-obraci-proti-nemu-na-stejnou-kartu-v-evrope-sazi-krajni-pravice/diskuze",
+      "source": "forum 24",
+      "snippet": "Diskuze: Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice forum 24",
+      "published": "Thu, 05 Nov 2026 12:00:07 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát - Tiscali.cz",
+      "url": "https://www.tiscali.cz/byt-koupili-za-50-tisic-najemnici-plati-21-tisic-mesicne-a-prispiva-jim-stat-801337",
+      "source": "Tiscali.cz",
+      "snippet": "Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát Tiscali.cz",
+      "published": "Fri, 06 Nov 2026 13:43:45 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Atrium Žižkov propojuje současné umění, hudbu a společenská témata. Nová výstava Až spadnou zdi otevírá otázky života v izolaci - https://allnews.cz/",
+      "url": "https://allnews.cz/2026/11/06/atrium-zizkov-propojuje-soucasne-umeni-hudbu-a-spolecenska-temata-nova-vystava-az-spadnou-zdi-otevira-otazky-zivota-v-izolaci-2/",
+      "source": "https://allnews.cz/",
+      "snippet": "Atrium Žižkov propojuje současné umění, hudbu a společenská témata. Nová výstava Až spadnou zdi otevírá otázky života v izolaci https://allnews.cz/",
+      "published": "Fri, 06 Nov 2026 14:03:35 GMT",
       "lang": "cs"
     },
     {
       "title": "Superdávka nefunguje. Vůbec ne. Lidi řeší televizi - Britské listy",
-      "url": "https://blisty.cz/art/137287-superdavka-nefunguje-vulbec-ne-lidi-resi-televizi.html",
+      "url": "https://www.blisty.cz/art/137287-superdavka-nefunguje-vubec-ne-lidi-resi-televizi.html",
       "source": "Britské listy",
       "snippet": "Superdávka nefunguje. Vůbec ne. Lidi řeší televizi Britské listy",
-      "published": "Fri, 06 Nov 2026 13:41:41 GMT",
+      "published": "Fri, 06 Nov 2026 13:38:11 GMT",
       "lang": "cs"
     },
     {
-      "title": "Ze superdávky se stal guláš. Lidé netuší, kolik i zda jim něco přijde - zdravezpravy.cz",
-      "url": "https://www.zdravezpravy.cz/2026/11/06/ze-superdavky-se-stal-gulas-lide-netusi-kolik-a-zda-jim-neco-prijde/",
-      "source": "zdravezpravy.cz",
-      "snippet": "Ze superdávky se stal guláš. Lidé netuší, kolik i zda jim něco přijde zdravezpravy.cz",
-      "published": "Fri, 06 Nov 2026 08:22:19 GMT",
+      "title": "Superdávka měla lidem pomoci, místo toho je může připravit o bydlení. Neziskovky varují před chybami - Seznam – najdu tam, co neznám",
+      "url": "https://www.seznam.cz/komentare/280198719-superdavka-mela-lidem-pomoci-misto-toho-je-muze-pripravit-o-bydleni-neziskovky-varuji-pred-chybami",
+      "source": "Seznam – najdu tam, co neznám",
+      "snippet": "Superdávka měla lidem pomoci, místo toho je může připravit o bydlení. Neziskovky varují před chybami Seznam – najdu tam, co neznám",
+      "published": "Fri, 06 Nov 2026 15:10:55 GMT",
       "lang": "cs"
     },
     {
-      "title": "Na výplatu superdávky čekají klienti měsíce. Sociální služby upozorňují na problémy nového systému - Deník Alarm",
-      "url": "https://denikalarm.cz/2026/11/na-vyplatu-superdavky-cekaji-klienti-mesice-socialni-sluzby-upozornuji-na-problemy-noveho-systemu/",
-      "source": "Deník Alarm",
-      "snippet": "Na výplatu superdávky čekají klienti měsíce. Sociální služby upozorňují na problémy nového systému Deník Alarm",
-      "published": "Fri, 06 Nov 2026 05:15:00 GMT",
+      "title": "Piráti odhalili skrytou předvolební kampaň na podporu proruských kandidátů. Svá zjištění předali vyšetřovatelům - Pirátská strana",
+      "url": "https://www.pirati.cz/jak-pirati-pracuji/pirati-odhalili-skrytou-predvolebni-kampan-na-podporu-proruskych-kandidatu-sva-zjisteni-predali-vysetrovatelum/",
+      "source": "Pirátská strana",
+      "snippet": "Piráti odhalili skrytou předvolební kampaň na podporu proruských kandidátů. Svá zjištění předali vyšetřovatelům Pirátská strana",
+      "published": "Thu, 05 Nov 2026 10:52:00 GMT",
       "lang": "cs"
     }
   ]

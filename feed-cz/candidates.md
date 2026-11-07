@@ -1,43 +1,35 @@
-# Kandidáti — 2026-11-06T14:38:33+00:00 (10 položek)
+# Kandidáti — 2026-11-07T13:35:43+00:00 (8 položek)
 
-_Zdroje: Google News 66 · GDELT 0 (disabled) · feedy 2 · watch 0_
+_Zdroje: Google News 55 · GDELT 0 (disabled) · feedy 1 · watch 1_
 
-1. **Ponižování, osahávání? Ne. Soud smetl stížnost mladé Romky na pěstouny ze stolu - Rokycanský deník** — Rokycanský deník [cs]
-   https://rokycansky.denik.cz/krimi/ponizovani-osahavani-ne-soud-smetl-stiznost-mlade-romky-na-pestouny-ze-stolu/
-   Ponižování, osahávání? Ne. Soud smetl stížnost mladé Romky na pěstouny ze stolu Rokycanský deník
+1. **Karel Hynek Mácha zemřel před 190 lety. Poslechněte si výběr z jeho tvorby nebo pořady o něm - Český rozhlas Vltava** — Český rozhlas Vltava [cs]
+   https://vltava.rozhlas.cz/karel-hynek-macha-zemrel-pred-190-lety-poslechnete-si-vyber-z-jeho-tvorby-nebo-9654751
+   Karel Hynek Mácha zemřel před 190 lety. Poslechněte si výběr z jeho tvorby nebo pořady o něm Český rozhlas Vltava
 
-2. **Romové mají vlastní hru: V mojí kůži ukazuje každodenní rasismus očima tří mladých hrdinů - Spite.cz** — Spite.cz [cs]
-   https://spite.cz/article/romove-maji-vlastni-hru-v-moji-kuzi-ukazuje-kazdodenni-rasismus-ocima-tri-mladych-hrdinu
-   Romové mají vlastní hru: V mojí kůži ukazuje každodenní rasismus očima tří mladých hrdinů Spite.cz
+2. **Španělská Vox buduje globální síť krajní pravice. Stojí v čele Patriotů a spojence sbírá v Americe - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/vox-krajni-pravice-spoluprace_2611071333_elev
+   Španělská Vox buduje globální síť krajní pravice. Stojí v čele Patriotů a spojence sbírá v Americe iROZHLAS
 
-3. **Integrace Romů v Evropě vázne: Pracuje jich více, posun ale nepřichází - Ekonomický deník** — Ekonomický deník [cs]
-   https://ekonomickydenik.cz/integrace-romu-eu-zaostava/
-   Integrace Romů v Evropě vázne: Pracuje jich více, posun ale nepřichází Ekonomický deník
+3. **Diskuze: Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice - forum 24** — forum 24 [cs]
+   https://www.forum24.cz/trumpuv-recept-na-vitezstvi-se-obraci-proti-nemu-na-stejnou-kartu-v-evrope-sazi-krajni-pravice/diskuze
+   Diskuze: Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice forum 24
 
-4. **Česko a Romové: Dvě desetiletí opatření, přetrvávající diskriminace - Seznam – najdu tam, co neznám** — Seznam – najdu tam, co neznám [cs]
-   https://www.seznam.cz/komentare/280171149-cesko-a-romove-dve-desetileti-opatreni-pretrvavajici-diskriminace
-   Česko a Romové: Dvě desetiletí opatření, přetrvávající diskriminace Seznam – najdu tam, co neznám
+4. **Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát - Tiscali.cz** — Tiscali.cz [cs]
+   https://www.tiscali.cz/byt-koupili-za-50-tisic-najemnici-plati-21-tisic-mesicne-a-prispiva-jim-stat-801337
+   Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát Tiscali.cz
 
-5. **Ve Francii protestovalo podle odborů 1,6 milionu lidí. Vadí jim rostoucí náklady i krajní pravice - E15.cz** — E15.cz [cs]
-   https://www.e15.cz/zahranicni/ve-francii-protestovalo-podle-odboru-1-6-milionu-lidi-vadi-jim-rostouci-naklady-i-krajni-pravice-1437141
-   Ve Francii protestovalo podle odborů 1,6 milionu lidí. Vadí jim rostoucí náklady i krajní pravice E15.cz
+5. **Atrium Žižkov propojuje současné umění, hudbu a společenská témata. Nová výstava Až spadnou zdi otevírá otázky života v izolaci - https://allnews.cz/** — https://allnews.cz/ [cs]
+   https://allnews.cz/2026/11/06/atrium-zizkov-propojuje-soucasne-umeni-hudbu-a-spolecenska-temata-nova-vystava-az-spadnou-zdi-otevira-otazky-zivota-v-izolaci-2/
+   Atrium Žižkov propojuje současné umění, hudbu a společenská témata. Nová výstava Až spadnou zdi otevírá otázky života v izolaci https://allnews.cz/
 
-6. **Hrozí zpoždění ve vyplácení superdávek. Úřady práce jsou zahlcené přepočty - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hrozi-zpozdeni-ve-vyplaceni-superdavek-urady-prace-jsou-zahlcene-prepocty-319814
-   Hrozí zpoždění ve vyplácení superdávek. Úřady práce jsou zahlcené přepočty Seznam Zprávy
-
-7. **Systém takzvané superdávky posílá zranitelné obyvatele přímo na ulici, varují sociální pracovníci - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zivotni-styl/spolecnost/system-takzvane-superdavky-posila-zranitelne-obyvatele-primo-na-ulici-varuji_2611060950_aha
-   Systém takzvané superdávky posílá zranitelné obyvatele přímo na ulici, varují sociální pracovníci iROZHLAS
-
-8. **Superdávka nefunguje. Vůbec ne. Lidi řeší televizi - Britské listy** — Britské listy [cs]
-   https://blisty.cz/art/137287-superdavka-nefunguje-vulbec-ne-lidi-resi-televizi.html
+6. **Superdávka nefunguje. Vůbec ne. Lidi řeší televizi - Britské listy** — Britské listy [cs]
+   https://www.blisty.cz/art/137287-superdavka-nefunguje-vubec-ne-lidi-resi-televizi.html
    Superdávka nefunguje. Vůbec ne. Lidi řeší televizi Britské listy
 
-9. **Ze superdávky se stal guláš. Lidé netuší, kolik i zda jim něco přijde - zdravezpravy.cz** — zdravezpravy.cz [cs]
-   https://www.zdravezpravy.cz/2026/11/06/ze-superdavky-se-stal-gulas-lide-netusi-kolik-a-zda-jim-neco-prijde/
-   Ze superdávky se stal guláš. Lidé netuší, kolik i zda jim něco přijde zdravezpravy.cz
+7. **Superdávka měla lidem pomoci, místo toho je může připravit o bydlení. Neziskovky varují před chybami - Seznam – najdu tam, co neznám** — Seznam – najdu tam, co neznám [cs]
+   https://www.seznam.cz/komentare/280198719-superdavka-mela-lidem-pomoci-misto-toho-je-muze-pripravit-o-bydleni-neziskovky-varuji-pred-chybami
+   Superdávka měla lidem pomoci, místo toho je může připravit o bydlení. Neziskovky varují před chybami Seznam – najdu tam, co neznám
 
-10. **Na výplatu superdávky čekají klienti měsíce. Sociální služby upozorňují na problémy nového systému - Deník Alarm** — Deník Alarm [cs]
-   https://denikalarm.cz/2026/11/na-vyplatu-superdavky-cekaji-klienti-mesice-socialni-sluzby-upozornuji-na-problemy-noveho-systemu/
-   Na výplatu superdávky čekají klienti měsíce. Sociální služby upozorňují na problémy nového systému Deník Alarm
+8. **Piráti odhalili skrytou předvolební kampaň na podporu proruských kandidátů. Svá zjištění předali vyšetřovatelům - Pirátská strana** — Pirátská strana [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/pirati-odhalili-skrytou-predvolebni-kampan-na-podporu-proruskych-kandidatu-sva-zjisteni-predali-vysetrovatelum/
+   Piráti odhalili skrytou předvolební kampaň na podporu proruských kandidátů. Svá zjištění předali vyšetřovatelům Pirátská strana
