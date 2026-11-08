@@ -31,6 +31,17 @@ def save_seen(seen: dict) -> None:
         json.dump(seen, f, ensure_ascii=False, indent=0)
 
 
+def feed_age_hours():
+    """Stáří existujícího feedu v hodinách, nebo None (chybí / nečitelný)."""
+    try:
+        with open(os.path.join(OUT_DIR, "candidates.json"), encoding="utf-8") as f:
+            gen = json.load(f).get("generated_utc", "")
+        age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(gen)
+        return age.total_seconds() / 3600
+    except (FileNotFoundError, json.JSONDecodeError, ValueError, TypeError):
+        return None
+
+
 def load_archive() -> list:
     try:
         with open(config.ARCHIVE_PATH, encoding="utf-8") as f:
@@ -256,6 +267,15 @@ def write_archive_html(records: list) -> str:
 
 
 def run() -> None:
+    # Guard proti dvojímu běhu – viz FEED_MIN_AGE_HOURS v config.py.
+    # Kontroluje se PŘED sběrem, ať se zbytečně nedotazují zdroje.
+    min_age = config.FEED_MIN_AGE_HOURS
+    age = feed_age_hours()
+    if min_age > 0 and age is not None and age < min_age:
+        print(f"Feed je starý {age:.1f} h (< {min_age:.0f} h) – běh přeskočen. "
+              f"Zřejmě doběhl hlavní cron a tohle je záložní pokus.")
+        return
+
     print("Sbírám kandidáty (bez AI)…")
     items = fetch.collect()
     stats = fetch.LAST_STATS

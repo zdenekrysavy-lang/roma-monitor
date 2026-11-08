@@ -66,8 +66,8 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
 - `gather.py`  — režim B: feed + seen.json (JSON i lidsky čitelný MD)
 - `analyze.py` — režim A: třídění/shrnutí přes Claude; prompt `SYSTEM`
 - `render.py` / `notify.py` / `main.py` — režim A: HTML, SMTP, orchestrace
-- `.github/workflows/gather.yml` — svět, cron 6:45 UTC denně (~8:45 Praha)
-- `.github/workflows/gather-cz.yml` — Česko, cron 6:50 UTC denně (~8:50 Praha)
+- `.github/workflows/gather.yml` — svět, cron 21:37 + 1:07 UTC (záloha)
+- `.github/workflows/gather-cz.yml` — Česko, cron 21:52 + 1:22 UTC (záloha)
 - `.github/workflows/digest.yml` — režim A, cron VYPNUTÝ
 - `PROMPT_AMANPOUR.md` — hotové zadání pro agenta (svět + Česko + ČTK, dva e-maily)
 
@@ -79,6 +79,27 @@ aby se nic neztratilo ani při vynechaném běhu; opakování hlídá seen.json.
 
 Historie kadence: 2×/den → 8/2026 dočasně 1×/den jen Po–Pá kvůli limitům
 agenta → po přechodu na vyšší plán zpět na 1×/den každý den.
+
+## Zpoždění plánovaných běhů (DŮLEŽITÉ)
+
+GitHub plánované běhy **zpožďuje o hodiny, ne o minuty**. Naměřeno 11/2026 za
+14 dní po sobě: **5,2–9,8 h** (medián ~6,9 h), u obou profilů shodně. Není to
+čekání na runner — `created_at` se rovná `run_started_at`, takže GitHub běh
+v plánovaný čas vůbec nezaloží. Ruční `workflow_dispatch` startuje okamžitě.
+
+Důsledek: feed vznikal kolem 13–15 h UTC, agent ho četl druhý den v 8:15 UTC,
+takže pracoval s daty starými skoro den. Článek vydaný večer se do přehledu
+nedostal vůbec.
+
+Řešení (11/2026): cron leží **~10 h před cílem**, aby i nejhorší zpoždění
+stihlo 7:30 UTC, a na neokrouhlé minutě (u celých hodin je fronta GitHubu
+nejvytíženější). K tomu **druhý, záložní cron** pro případ extrémního zpoždění.
+
+**Dva crony jsou bezpečné jen díky guardu** `FEED_MIN_AGE_HOURS` (18 h)
+v `gather.py`: když je feed čerstvý, druhý běh skončí bez práce ještě před
+sběrem. Bez guardu by přepsal feed a položky z prvního běhu by se ztratily —
+v `seen.json` by zůstaly zapsané, ale agent by je nikdy neviděl. Ruční
+spuštění guard obchází (workflow mu nastaví `FEED_MIN_AGE_HOURS=0`).
 
 ## Jak spustit / testovat
 ```bash

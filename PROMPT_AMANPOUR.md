@@ -24,6 +24,11 @@ jednou jako holé přeposlání), použij tu s rozborem a druhou ignoruj.
 Pole `url` obsahuje PŘÍMOU adresu článku (wrappery Google News se rozbalují
 už při sběru), takže odkaz jde rovnou otevřít.
 
+**Zkontroluj stáří feedu.** Pole `generated_utc` říká, kdy sběr proběhl.
+Pokud je starší než 12 hodin, připoj na začátek e-mailu upozornění:
+„⚠️ Feed je z <datum a čas> (stáří <N> h) – sběr se nejspíš zpozdil a nejnovější
+zprávy v přehledu chybí." Bez toho si zastaralého feedu nikdo nevšimne.
+
 Obě pole `candidates` obsahují zprávy (title, url, source, lang, snippet,
 published) a pole `sources` se statistikou sběru. Jde o SUROVÝ sběr —
 obsahuje šum, který musíš odfiltrovat.

@@ -6,11 +6,21 @@ name: roma-feed-gather
 
 on:
   schedule:
-    # Jednou denně, KAŽDÝ den, půl hodiny před čtením agentem (9:15 Praha).
-    # Historie: 8/2026 dočasně jen Po–Pá kvůli limitům agenta, po přechodu
-    # na vyšší plán vráceno na 7 dní – víkendové útoky a demonstrace jsou
-    # přesně to, co nesmí čekat do pondělí.
-    - cron: "45 6 * * *"    # ~08:45 Praha (léto) / 07:45 (zima)
+    # POZOR na časy: GitHub plánované běhy ZPOŽĎUJE. Naměřeno 11/2026 za
+    # 14 dní po sobě: zpoždění 5,2–9,8 h (medián ~6,9 h), u obou profilů
+    # shodně. Není to čekání na runner – created_at == run_started_at,
+    # takže GitHub běh v plánovaný čas vůbec nezaloží. Ruční workflow_dispatch
+    # startuje okamžitě, problém je výhradně ve `schedule`.
+    #
+    # Agent čte feed v 08:15 UTC, cíl je mít hotovo před 07:30 UTC. Cron proto
+    # leží ~10 h předtím, aby i nejhorší zpoždění stihlo. Minuty jsou neokrouhlé
+    # (u celých hodin je fronta GitHubu nejvytíženější).
+    - cron: "37 21 * * *"   # hlavní pokus, 21:37 UTC = 22:37 Praha (zima)
+    - cron: "7 1 * * *"     # záloha, když se první zpozdí přes míru
+    # Dva pokusy jsou bezpečné jen díky guardu v gather.py (FEED_MIN_AGE_HOURS):
+    # když je feed čerstvý, druhý běh skončí bez práce. Bez něj by přepsal feed
+    # a položky z prvního běhu by se ztratily – v seen.json by zůstaly zapsané,
+    # ale agent by je nikdy neviděl.
   workflow_dispatch: {}
 
 permissions:
@@ -31,6 +41,10 @@ jobs:
 
       - name: Sběr kandidátů
         run: python gather.py
+        env:
+          # Ruční spuštění je vědomý akt – guard proti dvojímu běhu se na něj
+          # nevztahuje, jinak by po čerstvém automatickém běhu nešlo nic ověřit.
+          FEED_MIN_AGE_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '18' }}
 
       - name: Publikace feedu
         run: |

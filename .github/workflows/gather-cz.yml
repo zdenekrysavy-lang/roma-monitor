@@ -6,9 +6,10 @@ name: roma-feed-gather-cz
 
 on:
   schedule:
-    # Jednou denně, KAŽDÝ den, půl hodiny před čtením agentem (9:15 Praha).
-    # Posunuto o 5 min proti světovému profilu, ať oba běhy nekolidují na push.
-    - cron: "50 6 * * *"    # ~08:50 Praha (léto) / 07:50 (zima)
+    # Časování a důvody viz gather.yml. Posunuto o 15 min proti světovému
+    # profilu, ať oba běhy nekolidují na push.
+    - cron: "52 21 * * *"   # hlavní pokus, 21:52 UTC = 22:52 Praha (zima)
+    - cron: "22 1 * * *"    # záloha, když se první zpozdí přes míru
   workflow_dispatch: {}
 
 permissions:
@@ -34,6 +35,10 @@ jobs:
 
       - name: Sběr kandidátů (profil cz)
         run: python gather.py
+        env:
+          # Ruční spuštění je vědomý akt – guard proti dvojímu běhu se na něj
+          # nevztahuje, jinak by po čerstvém automatickém běhu nešlo nic ověřit.
+          FEED_MIN_AGE_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '18' }}
 
       - name: Publikace feedu
         run: |

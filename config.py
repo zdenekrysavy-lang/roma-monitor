@@ -42,6 +42,13 @@ SEEN_TTL_DAYS = int(os.getenv("SEEN_TTL_DAYS", "14"))   # po té době záznam v
 # bez ohledu na seen, aby se dalo zpětně dohledat, co uteklo.
 ARCHIVE_PATH = os.getenv("ARCHIVE_PATH", "state/archive.json")
 ARCHIVE_DAYS = int(os.getenv("ARCHIVE_DAYS", "7"))
+
+# Pojistka proti dvojímu běhu. Workflow má dva crony (hlavní + záloha),
+# protože GitHub plánované běhy zpožďuje o 5–10 h. Když ale doběhnou oba,
+# druhý přepíše feed a položky z prvního se ztratí – v seen.json zůstanou
+# zapsané, ale agent je nikdy neuvidí. Proto se běh přeskočí, pokud je
+# existující feed mladší než tahle doba. Nula = guard vypnutý.
+FEED_MIN_AGE_HOURS = float(os.getenv("FEED_MIN_AGE_HOURS") or "18")
 CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-5")  # levnější varianta: claude-haiku-4-5-20251001
 
 # --- Google News RSS: (dotaz, jazyk hl, země gl) ---
