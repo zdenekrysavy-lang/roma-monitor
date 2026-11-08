@@ -190,7 +190,15 @@ def fetch_gdelt() -> tuple:
 def fetch_feed(url: str, lang: str = "") -> list:
     items = []
     try:
-        feed = feedparser.parse(url)
+        # POZOR: feedparser.parse(url) si stahuje sam, ALE BEZ TIMEOUTU
+        # (vychozi socket timeout je None). Jediny nereagujici server tak
+        # dokaze zablokovat cely beh – v Actions az do limitu ulohy.
+        # Naraz 11/2026: beh visel 14 minut a spotreboval 8 s procesoru.
+        # Pres requests ma spojeni strop a soucasne prohlizecovy UA,
+        # ktery nektere servery vyzaduji.
+        r = requests.get(url, headers=GN_UA, timeout=(5, 15))
+        r.raise_for_status()
+        feed = feedparser.parse(r.content)
     except Exception as ex:
         print(f"  Feed chyba ({url}): {ex}")
         return items
@@ -208,6 +216,79 @@ def fetch_feed(url: str, lang: str = "") -> list:
             "lang":      lang,
         })
     return items
+
+
+# ── Obecná zpravodajská média: celý feed + filtr klíčovými slovy ──────
+# Proč to vůbec je: Google News pro češtinu nestačí. Naměřeno 11/2026 –
+# zprávu „Vláda zpochybňuje rozsudek ESLP v případu Stanislava Tomáše"
+# nenašel GN ani na jméno (0 výsledků), stejně tak obvinění 18 lidí po útoku
+# na demonstraci ve Frýdku-Místku. Čtení RSS přímo od vydavatele tuhle díru
+# zalepí a navíc umožní filtrovat KMENEM slova (romsk*, cikán*…), což GN
+# neumí – ten hledá přesné tvary.
+#
+# Omezení, se kterým je nutné počítat: RSS je momentka, ne archiv. Hloubka
+# naměřená 11/2026: ČT24 59 h, Deník N 58 h, ČTK 79 h, A2larm 227 h, ale
+# iRozhlas jen 4,6 h, Novinky 5,9 h, iDNES 6 h. U rychlých médií tedy denní
+# běh zachytí jen poslední hodiny – zbytek musí pokrýt Google News.
+
+def _terms_regex(kmeny: list):
+    """Regex z KMENŮ slov: „romsk" chytí romský/romská/romských/romským…
+
+    Skládá se programově, aby v configu byly jen čitelné kmeny bez zpětných
+    lomítek. Hranice slova je jen na začátku – konec si řeší hvězdička, jinak by
+    „romsk" nesedlo na „romských".
+    """
+    if not kmeny:
+        return None
+    return re.compile(r"\b(" + "|".join(re.escape(k) + r"\w*" for k in kmeny)
+                      + r")", re.I | re.U)
+
+
+_NEWS_RX = None          # líně sestavený regex, ať se nestaví u každého feedu
+
+
+def fetch_news_feeds() -> list:
+    """Obecná média: stáhne feed a nechá jen položky s klíčovým slovem.
+
+    Bez filtru by sem spadlo všechno od sportu po počasí – feedy mají 20–50
+    položek o čemkoli. Filtr pouští dvě vrstvy stejně jako dotazy v configu:
+    romské termíny a témata, o kterých ROMEA píše i bez zmínky o Romech.
+    """
+    global _NEWS_RX
+    feedy = getattr(config, "NEWS_FEEDS", [])
+    if not feedy:
+        return []
+    if _NEWS_RX is None:
+        _NEWS_RX = _terms_regex(getattr(config, "FEED_TERMS", []))
+
+    strop = getattr(config, "MAX_PER_NEWS_FEED", 60)
+    out = []
+    for url, lang in feedy:
+        try:
+            r = requests.get(url, headers=GN_UA, timeout=25)
+            r.raise_for_status()
+            feed = feedparser.parse(r.content)
+        except Exception as ex:
+            # Jeden nedostupný zdroj nesmí shodit běh – viz zásada v CLAUDE.md.
+            print(f"  Zpravodajský feed selhal ({url}): {ex}")
+            continue
+        for e in feed.entries[:strop]:
+            if not _within_window(getattr(e, "published_parsed", None),
+                                  config.FEED_LOOKBACK_HOURS):
+                continue
+            title = e.get("title", "")
+            snippet = _clean_snippet(e.get("summary", ""))
+            if _NEWS_RX is not None and not _NEWS_RX.search(title + " " + snippet):
+                continue
+            out.append({
+                "title":     title,
+                "url":       e.get("link", ""),
+                "source":    _entry_source(e) or url,
+                "snippet":   snippet,
+                "published": e.get("published", ""),
+                "lang":      lang,
+            })
+    return out
 
 
 # Titulky přehledových/rubrikových stránek – nejsou to články, jen rozcestníky.
@@ -446,6 +527,7 @@ def collect() -> list:
     feed_items = []
     for f, flang in config.RSS_FEEDS:
         feed_items += fetch_feed(f, flang)
+    news = fetch_news_feeds()        # obecna media + filtr klicovymi slovy
     watch = fetch_watch_sites()
 
     # Pořadí rozhoduje: dedup nechává PRVNÍ výskyt a ořez na MAX_CANDIDATES
@@ -453,7 +535,10 @@ def collect() -> list:
     # (nejvyšší signál, přímé odkazy), pak Google News, nakonec GDELT
     # (největší objem, nejvíc šumu). Dřív to bylo obráceně a při ořezu padaly
     # jako první právě feedy.
-    merged = drop_excluded(feed_items + watch + gn + gd)
+    # „news“ hned za vlastními feedy: jsou to přímé odkazy od vydavatele
+    # (ne wrappery Google News) a filtr je pustil jen při shodě klíčového
+    # slova, takže mají vyšší signál než výsledky GN.
+    merged = drop_excluded(feed_items + news + watch + gn + gd)
     items = dedupe(merged)[:config.MAX_CANDIDATES]
 
     if _GN["failures"] == 0:
@@ -472,6 +557,7 @@ def collect() -> list:
         "gdelt_status": gd_status,         # "ok" | "rate_limited" | "error"
         "gdelt_note": gd_note,             # diagnostika: co GDELT reálně vrátil
         "feeds": len(feed_items),
+        "news_feeds": len(news),
         "watch": len(watch),
         "before_dedup": len(merged),
         "total": len(items),

@@ -26,10 +26,11 @@ Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
 
 ## Architektura sběru (fetch.py)
 ```
-Google News RSS (15 jazyků, when:2d, strop 20/dotaz) ┐
-GDELT (globální translingual, okno 72h)              ├─► dedup ─► seen.json filtr ─► feed
-RSS_FEEDS (13 romských feedů, okno 72h)              │
-WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
+Google News RSS (15 jazyků, pádové tvary, strop 20/dotaz) ┐
+GDELT (globální translingual, okno 72h)                   │
+RSS_FEEDS (13 romských feedů, okno 72h)                   ├─► dedup ─► seen.json ─► feed
+NEWS_FEEDS (16 českých médií + filtr kmenů slov, jen cz)  │
+WATCH_SITES (10 webů bez feedu, přes GN site:)            ┘
 ```
 - **Google News:** dotazy jen pro jazyky s JEDNOZNAČNÝM termínem pro Romy
   (Ρομά, Romowie, ciganos, romer…). Jazyky, kde se kořen „rom/Roman" sráží
@@ -62,7 +63,8 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)       ┘
 ## Soubory
 - `config.py`  — nastavení + zdroje („TVOJE ZDROJE": `RSS_FEEDS` jako
   (url, jazyk), `WATCH_SITES` jako (doména, hl, gl))
-- `fetch.py`   — sběr + dedup + LAST_STATS (statistika běhu → feed `sources`)
+- `fetch.py`   — sběr + dedup + LAST_STATS (statistika běhu → feed `sources`);
+  `fetch_news_feeds()` čte obecná česká média a filtruje je `FEED_TERMS`
 - `gather.py`  — režim B: feed + seen.json (JSON i lidsky čitelný MD)
 - `analyze.py` — režim A: třídění/shrnutí přes Claude; prompt `SYSTEM`
 - `render.py` / `notify.py` / `main.py` — režim A: HTML, SMTP, orchestrace
@@ -79,6 +81,52 @@ aby se nic neztratilo ani při vynechaném běhu; opakování hlídá seen.json.
 
 Historie kadence: 2×/den → 8/2026 dočasně 1×/den jen Po–Pá kvůli limitům
 agenta → po přechodu na vyšší plán zpět na 1×/den každý den.
+
+## Google News NESKLOŇUJE (DŮLEŽITÉ)
+
+Hledá přesný tvar slova. Dotaz `romský OR romská OR romské OR romští`
+proto **minul** článek Seznam Zpráv „Romským školám odzvonilo“ – našel ho až
+tvar `romským`. Čeština má u přídavného jména ~11 tvarů, původní dotaz
+pokrýval čtyři. Naměřeno 11/2026 při okně 7 dní: **44 → 67 zpráv**.
+
+Netýká se to jen češtiny. Při okně 3 dny:
+
+| jazyk | původní dotaz | s pádovými tvary |
+|---|---|---|
+| pl | 2 | **15** |
+| ro | 7 | **20** |
+| es | 8 | **26** |
+| hu | 15 | **21** |
+
+Celkem 70 → 112. U neohebných jazyků (en, fr, de) rozdíl žádný.
+
+**Maďarské holé `roma` NEPOUŽÍVAT** – znamená i Řím a AS Roma, přitáhlo
+9 fotbalových zpráv z 26. Tvary `romák…` jsou jednoznačné. Stejná past je
+důvod, proč se slovenština, polština a další jazyky přidávají opatrně
+a vždy se po přidání změří podíl balastu.
+
+**Fráze v uvozovkách hledají přesné znění.** `"segregace ve školách"` vracelo
+**0**, protože média píší „segregované školy“. Buď víc variant, nebo
+jednoslovný základ.
+
+## Česká média se čtou i přímo z RSS (profil cz)
+
+Google News pro češtinu nestačí ani po rozšíření dotazů – některé zprávy
+**nemá vůbec**. Ověřeno 11/2026: „Vláda zpochybňuje rozsudek ESLP v případu
+Stanislava Tomáše“ ani obvinění 18 lidí po útoku na demonstraci ve
+Frýdku-Místku nenašel GN **ani na jméno** (0 výsledků).
+
+Proto `CZ_NEWS_FEEDS`: 16 obecných médií, ze kterých `fetch_news_feeds()`
+pustí jen položky se shodou v `CZ_FEED_TERMS`. Filtruje se **KMENEM** slova
+(`romsk` chytí romský/romská/romských/romským…), což je přesně to, co GN neumí.
+Holé `rom` se nepoužívá – chytalo by Roman, román i romantický.
+
+**RSS je momentka, ne archiv.** Hloubka naměřená 11/2026: ČT24 59 h,
+Deník N 58 h, ČTK 79 h, A2larm 227 h, Info.cz 123 h – ty denní běh pokryjí.
+Ale iRozhlas 4,6 h, Novinky 5,9 h, iDNES 6 h, Seznam Zprávy 9,3 h zachytí jen
+poslední hodiny; zbytek musí dohnat Google News. Proto jsou v seznamu obojí.
+
+Echo24 použitelný feed nemá; Deník Referendum má `/rss.xml`, ne `/rss`.
 
 ## Zpoždění plánovaných běhů (DŮLEŽITÉ)
 

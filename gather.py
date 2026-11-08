@@ -318,7 +318,7 @@ def run() -> None:
     archive = update_archive(items)
     ap = write_archive_html(archive)
     print(f"Uloženo: {jp}, {mp} a {hp}")
-    print(f"Archiv ({config.ARCHIVE_DAYS} dní): {len(archive)} položek → {ap}")
+    print(f"Archiv ({config.ARCHIVE_DAYS} dní): {len(archive)} položek -> {ap}")
 
 
 if __name__ == "__main__":

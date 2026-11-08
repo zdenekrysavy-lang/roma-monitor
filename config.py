@@ -21,6 +21,14 @@ MONITOR_PROFILE = os.getenv("MONITOR_PROFILE", "world")
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "50"))
 MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "300"))  # strop kandidátů poslaných k analýze
 MAX_PER_FEED   = int(os.getenv("MAX_PER_FEED", "40"))
+# Obecná zpravodajská média (NEWS_FEEDS) mají feedy delší než romské –
+# 50 položek je běžných – a filtr klíčovými slovy z nich stejně většinu
+# zahodí, takže se vyplatí projít jich víc.
+MAX_PER_NEWS_FEED = int(os.getenv("MAX_PER_NEWS_FEED", "60"))
+# Výchozí stav: obecná média čte jen profil cz (viz CZ_NEWS_FEEDS níže).
+# Světový profil je má prázdné – tam nese zátěž Google News + GDELT.
+NEWS_FEEDS = []
+FEED_TERMS = []
 # Strop na jeden Google News dotaz, ať jeden jazyk (např. FR) nezaplaví feed.
 # Uplatňuje se PŘED filtrem seen.json, takže u širokého okna (74 h) by ho jinak
 # zaplnily už odeslané položky a vytlačily novinky. Zvednutí nestojí agenta
@@ -66,21 +74,33 @@ CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-5")  # levnější var
 GOOGLE_NEWS_QUERIES = [
     # Pozn.: české zprávy záměrně nesledujeme – domácí dění si ROMEA pokrývá sama,
     # tento monitoring cílí na Romy VE SVĚTĚ.
-    ('Rómovia OR "rómska menšina"',                            "sk", "SK"),
-    ('"Roma minority" OR "Roma people" OR "Roma community" OR Romani -football -soccer -transfer', "en", "US"),
-    ('"Roma minority" OR "Roma community" OR Romani OR "Gypsy community" -football -soccer -transfer', "en", "GB"),
-    ('"roma kisebbség" OR cigány',                             "hu", "HU"),
-    ('romi OR "minoritatea romă" OR "etnia romă"',             "ro", "RO"),
-    ('gitanos OR "pueblo gitano" OR "comunidad gitana"',       "es", "ES"),
-    ('Roms OR "gens du voyage" OR Rroms',                      "fr", "FR"),
-    ('"Sinti und Roma" OR Antiziganismus OR Romafeindlichkeit OR "Roma-Minderheit"', "de", "DE"),
-    ('"rom e sinti" OR "comunità rom" -calcio -"AS Roma"',     "it", "IT"),
-    ('Роми OR ромска OR цигани',                               "bg", "BG"),
-    ('Ρομά OR τσιγγάνοι OR "μειονότητα Ρομά"',                 "el", "GR"),
-    ('Romowie OR "mniejszość romska" OR Cyganie',             "pl", "PL"),
-    ('ciganos OR "comunidade cigana"',                        "pt", "PT"),
-    ('romer OR "romsk minoritet"',                            "sv", "SE"),
-    ('romanit OR "Suomen romanit"',                           "fi", "FI"),
+    #
+    # POZOR: Google News NESKLOŇUJE – hledá přesný tvar slova. U ohebných
+    # jazyků proto nestačí základní tvar. Naměřeno 11/2026 (okno 3 dny):
+    #   pl  „Romowie"            →  2 zprávy  |  s pádovými tvary → 15
+    #   hu  „roma kisebbség…"    → 15         |  s pádovými tvary → 21
+    #   ro  „romi OR…"           →  7         |  s pádovými tvary → 20
+    #   es  „gitanos OR…"        →  8         |  s rodovými tvary → 26
+    # Celkem 70 → 112 zpráv. U neohebných jazyků (en, fr, de) rozšíření nic
+    # nepřidalo, termíny navíc jsou tam jen jako pojistka.
+    #
+    # Maďarské holé „roma" NEPOUŽÍVAT: znamená i Řím a AS Roma, přitáhlo
+    # 9 fotbalových zpráv z 26. Tvary „romák…" jsou jednoznačné.
+    ('Rómovia OR Rómov OR Rómom OR Rómami OR rómsky OR rómska OR rómske OR rómskych OR Cigáni OR Cigánov', "sk", "SK"),
+    ('"Roma minority" OR "Roma people" OR "Roma community" OR "Roma families" OR Romani OR Romanies OR antigypsyism -football -soccer -transfer -Serie', "en", "US"),
+    ('"Roma minority" OR "Roma community" OR "Gypsy community" OR Romani OR Romanies OR antigypsyism -football -soccer -transfer -Serie', "en", "GB"),
+    ('romák OR romákat OR romáknak OR romákkal OR romákról OR cigány OR cigányok OR cigányokat OR cigányság OR "roma kisebbség" OR "roma közösség"', "hu", "HU"),
+    ('romi OR romii OR romilor OR romă OR rome OR ţigani OR ţiganii OR ţiganilor OR "minoritatea romă"', "ro", "RO"),
+    ('gitanos OR gitanas OR gitano OR gitana OR "pueblo gitano" OR "comunidad gitana" OR antigitanismo', "es", "ES"),
+    ('Roms OR Rroms OR tsiganes OR tziganes OR manouches OR "gens du voyage" OR antitsiganisme', "fr", "FR"),
+    ('"Sinti und Roma" OR Antiziganismus OR Romafeindlichkeit OR "Roma-Minderheit" OR "Roma-Familien" OR Sinteza', "de", "DE"),
+    ('"rom e sinti" OR "comunità rom" OR "comunità romanì" OR zingari OR antiziganismo -calcio -"AS Roma" -serie', "it", "IT"),
+    ('роми OR ромите OR ромски OR ромска OR ромско OR ромските OR цигани OR циганите', "bg", "BG"),
+    ('Ρομά OR τσιγγάνοι OR τσιγγάνων OR τσιγγάνους OR γύφτοι OR "μειονότητα Ρομά"', "el", "GR"),
+    ('Romowie OR Romów OR Romom OR Romami OR Romach OR romski OR romska OR romskie OR romskich OR Cyganie OR Cyganów', "pl", "PL"),
+    ('ciganos OR ciganas OR cigano OR cigana OR "comunidade cigana" OR anticiganismo', "pt", "PT"),
+    ('romer OR romerna OR romsk OR romska OR romernas OR zigenare', "sv", "SE"),
+    ('romanit OR romaneja OR romanien OR romaneille OR romaniväestö OR mustalaiset', "fi", "FI"),
 ]
 # Pozn.: Balkán (srbština, chorvatština, albánština), Ukrajinu a Turecko
 # ZÁMĚRNĚ neřešíme rodnými Google dotazy – tamní kořen „rom/Roman" se sráží
@@ -222,28 +242,43 @@ GDELT_ENABLED = True
 CZ_GOOGLE_NEWS_QUERIES = [
     # ── VRSTVA 1: je to o Romech (bez ohledu na téma) ──────────────
     # Jádro monitoringu. Sport, kultura, kriminalita, byznys – cokoli,
-    # když je to o Romech. Proto je dotazů víc: každý má vlastní strop
-    # MAX_PER_QUERY, takže rozdělením získáme pro romská témata víc místa.
-    ('Romové OR Romky OR "romská menšina" OR "romská komunita"',            "cs", "CZ"),
-    ('romský OR romská OR romské OR romští',                                "cs", "CZ"),
-    ('anticiganismus OR protiromský OR cikáni OR cigáni',                   "cs", "CZ"),
-    ('"romské děti" OR "romští žáci" OR "romská rodina" OR "romské rodiny"', "cs", "CZ"),
-    ('"romská kultura" OR "romská hudba" OR "romský festival" OR "romské divadlo"', "cs", "CZ"),
-    ('"romský holokaust" OR "Lety u Písku" OR "Hodonín u Kunštátu" OR Porajmos', "cs", "CZ"),
+    # když je to o Romech.
+    #
+    # POZOR, TOHLE STÁLO POKRYTÍ (11/2026): Google News NESKLOŇUJE. Hledá
+    # přesný tvar slova, takže dotaz „romský OR romská OR romské OR romští"
+    # mine „romským", „romského", „romských"… Ověřeno: článek Seznam Zpráv
+    # „Romským školám odzvonilo" nenašel původní dotaz vůbec, jen tvar
+    # „romským". Čeština má u přídavného jména ~11 tvarů, původní dotaz
+    # pokrýval čtyři. Doplnění pádů zvedlo týdenní úlovek ze 44 na 67 zpráv.
+    # Každý dotaz má vlastní strop MAX_PER_QUERY, takže rozdělením podle
+    # slovního druhu získáme pro romská témata víc místa.
+    ('Romové OR Romů OR Romům OR Romy OR Romech OR Romem OR Romovi', "cs", "CZ"),
+    ('Romka OR Romky OR Romek OR Romkám OR Romkami OR Romkou',      "cs", "CZ"),
+    ('romský OR romského OR romskému OR romském OR romským',        "cs", "CZ"),
+    ('romská OR romské OR romskou OR romských OR romskými',         "cs", "CZ"),
+    ('romští OR romština OR romštiny OR romštině OR romsky',        "cs", "CZ"),
+    ('anticiganismus OR anticikanismus OR protiromský OR cikáni OR cigáni OR cikánů OR cigánů', "cs", "CZ"),
+    ('"romská menšina" OR "romské menšiny" OR "romská komunita" OR "romské komunity" OR "romské rodiny" OR "romské děti" OR "romští žáci"', "cs", "CZ"),
+    ('"romský holokaust" OR "romského holokaustu" OR "Lety u Písku" OR "Hodonín u Kunštátu" OR Porajmos', "cs", "CZ"),
     # ── VRSTVA 2: témata, která se Romů týkají i bez zmínky ────────
     # Tady je nutná OPATRNOST: volný jednoslovný dotaz („ubytovna",
     # „chudoba") vrátí balast, který spotřebuje celý strop dotazu a vytlačí
-    # skutečné trefy. Proto raději konkrétní víceslovné termíny.
-    ('rasismus OR rasistický OR "rasový motiv" OR "rasově motivovaný"',     "cs", "CZ"),
-    ('extremismus OR neonacisté OR "krajní pravice" OR "předsudečná nenávist"', "cs", "CZ"),
-    ('"podněcování k nenávisti" OR "hanobení rasy" OR "nenávistné projevy"', "cs", "CZ"),
-    ('"vyloučená lokalita" OR "vyloučené lokality" OR "sociální vyloučení" OR "obchod s chudobou"', "cs", "CZ"),
-    ('superdávka OR "dávky na bydlení" OR "příspěvek na bydlení" OR "hmotná nouze"', "cs", "CZ"),
-    ('"sociální bydlení" OR "dostupné bydlení" OR "bytová nouze"',          "cs", "CZ"),
-    ('"segregace ve školách" OR "společné vzdělávání" OR segregace žáci',   "cs", "CZ"),
-    ('"protiprávní sterilizace" OR sterilizace odškodnění',                 "cs", "CZ"),
-    ('diskriminace ombudsman OR "veřejný ochránce práv" OR "rovné zacházení"', "cs", "CZ"),
-    ('"zmocněnkyně pro romské záležitosti" OR "Rada vlády pro záležitosti romské menšiny" OR "Agentura pro sociální začleňování"', "cs", "CZ"),
+    # skutečné trefy. Proto raději konkrétní víceslovné termíny – ale
+    # i u nich se musí doplnit pádové tvary, jinak platí totéž co výše.
+    # Fráze v uvozovkách hledají PŘESNÉ znění: „segregace ve školách"
+    # vracelo 0, protože média píší „segregované školy". Proto u frází
+    # raději víc variant, nebo jednoslovný základ.
+    ('rasismus OR rasistický OR rasistické OR "rasově motivovaný" OR "rasový motiv"', "cs", "CZ"),
+    ('extremismus OR extremisté OR neonacisté OR neonacistický OR "krajní pravice"', "cs", "CZ"),
+    ('"předsudečná nenávist" OR "podněcování k nenávisti" OR "hanobení rasy" OR "nenávistné projevy" OR "nenávistných projevů"', "cs", "CZ"),
+    ('"vyloučená lokalita" OR "vyloučené lokality" OR "vyloučených lokalit" OR "sociální vyloučení" OR "obchod s chudobou"', "cs", "CZ"),
+    ('superdávka OR superdávky OR superdávce OR "dávky na bydlení" OR "příspěvek na bydlení" OR "hmotná nouze"', "cs", "CZ"),
+    ('"sociální bydlení" OR "dostupné bydlení" OR "bytová nouze" OR ubytovny OR ubytovnách', "cs", "CZ"),
+    ('segregace OR segregované OR segregovaných OR "společné vzdělávání" OR inkluze', "cs", "CZ"),
+    ('sterilizační OR "protiprávní sterilizace" OR "sterilizovaných žen" OR "odškodnění sterilizací"', "cs", "CZ"),
+    ('diskriminace OR diskriminační OR antidiskriminační',          "cs", "CZ"),
+    ('"veřejný ochránce práv" OR ombudsmanka OR ombudsman OR "rovné zacházení"', "cs", "CZ"),
+    ('"zmocněnkyně pro romské záležitosti" OR "Rada vlády pro záležitosti romské menšiny" OR "Agentura pro sociální začleňování" OR "Muzeum romské kultury"', "cs", "CZ"),
 ]
 
 # Obsahové farmy publikující česky a vlastní články ROMEA (ty redakce nepotřebuje
@@ -263,6 +298,57 @@ CZ_EXCLUDE_SOURCES = ["vietnam.vn", "romea.cz", "romea",
                       # Google News (RESOLVE_GN_URLS), kdy je známá skutečná
                       # doména; drop_excluded se proto v gather.py pouští znovu.
                       "www.seznam.cz"]
+
+# ── Obecná zpravodajská média: celý feed + filtr klíčovými slovy ──────
+# Doplněk Google News, ne náhrada. Důvod (měřeno 11/2026): GN pro češtinu
+# NESKLOŇUJE a některé zprávy nemá vůbec – „Vláda zpochybňuje rozsudek ESLP
+# v případu Stanislava Tomáše" ani obvinění 18 lidí po útoku na demonstraci
+# ve Frýdku-Místku nenašel GN ani na jméno. Čtení RSS přímo od vydavatele
+# tuhle díru zalepí a filtruje se KMENEM slova, takže pády neřeší.
+#
+# Hloubka feedů kolísá (naměřeno 11/2026): ČT24 59 h, Deník N 58 h, ČTK 79 h,
+# A2larm 227 h, Info.cz 123 h – ty denní běh pokryjí. Naopak iRozhlas 4,6 h,
+# Novinky 5,9 h, iDNES 6 h, Seznam Zprávy 9,3 h zachytí jen poslední hodiny;
+# zbytek jejich produkce musí dohnat Google News. Proto jsou tu obojí.
+#
+# Echo24 a Deník Referendum na /rss ani /feed nic nevracejí; u Deníku
+# Referendum funguje /rss.xml, Echo24 použitelný feed nemá.
+CZ_NEWS_FEEDS = [
+    ("https://ct24.ceskatelevize.cz/rss/hlavni-zpravy",      "cs"),
+    ("https://www.irozhlas.cz/rss/irozhlas",                 "cs"),
+    ("https://www.novinky.cz/rss",                           "cs"),
+    ("https://servis.idnes.cz/rss.aspx?c=zpravodaj",         "cs"),
+    ("https://www.aktualne.cz/rss/",                         "cs"),
+    ("https://www.seznamzpravy.cz/rss",                      "cs"),
+    ("https://denikn.cz/feed/",                              "cs"),
+    ("https://www.ceskenoviny.cz/sluzby/rss/cr.php",         "cs"),  # ČTK
+    ("https://www.denik.cz/rss/zpravy.html",                 "cs"),
+    ("https://a2larm.cz/feed/",                              "cs"),
+    ("https://www.forum24.cz/feed/",                         "cs"),
+    ("https://denikreferendum.cz/rss.xml",                   "cs"),
+    ("https://hlidacipes.org/feed/",                         "cs"),
+    ("https://www.blesk.cz/rss",                             "cs"),
+    ("https://www.e15.cz/rss",                               "cs"),
+    ("https://www.info.cz/rss",                              "cs"),
+]
+
+# KMENY slov, ne celá slova: „romsk" chytí romský/romská/romských/romským…
+# Tohle je výhoda proti Google News, který umí jen přesné tvary.
+# POZOR na krátké kmeny: holé „rom" by chytalo Roman, román i romantický,
+# proto jsou tu jen tvary, které nejdou splést (ověřeno testem).
+CZ_FEED_TERMS = [
+    # vrstva 1 – je to o Romech
+    "romov", "romsk", "romštin", "romští", "romů", "romům", "romy",
+    "romech", "romem", "romovi", "romk", "cikán", "cigán",
+    "anticiganis", "anticikanis",
+    # vrstva 2 – témata, která se Romů týkají i bez zmínky
+    "segregac", "segregovan", "superdávk", "ubytovn", "rasis", "neonacis",
+    "extremis", "holokaust", "steriliz", "předsudečn", "ghett", "inkluz",
+    "vyloučená lokalit", "vyloučené lokalit", "vyloučených lokalit",
+    "sociální vyloučen", "sociální bydlen", "bytová nouz", "hmotné nouzi",
+    "hmotná nouze", "hanobení rasy", "podněcování k nenávisti",
+    "obchod s chudobou", "rasově motivovan",
+]
 
 # Jen tematicky vyhraněné zdroje. Obecná média (iRozhlas, Deník N, A2larm,
 # Hlídací pes, Investigace) tu SCHVÁLNĚ nejsou – publikují všechno od sportu
@@ -297,10 +383,16 @@ if MONITOR_PROFILE == "cz":
     GOOGLE_NEWS_QUERIES = CZ_GOOGLE_NEWS_QUERIES
     EXCLUDE_SOURCES     = CZ_EXCLUDE_SOURCES
     RSS_FEEDS           = CZ_RSS_FEEDS
+    NEWS_FEEDS          = CZ_NEWS_FEEDS
+    FEED_TERMS          = CZ_FEED_TERMS
     WATCH_SITES         = CZ_WATCH_SITES
     WATCH_SITE_TERMS    = CZ_WATCH_SITE_TERMS
     GDELT_ENABLED       = False   # u domácího zpravodajství nepřidá nic navíc
-    MAX_PER_QUERY       = int(os.getenv("MAX_PER_QUERY", "14"))
+    # Strop 14 uřezával relevantní zprávy, jakmile se dotazy rozšířily
+    # o pádové tvary: u „extremismus…" padaly pod stůl 4 položky a mezi nimi
+    # zpráva ČT24 o střelbě v Krakově. 20 dá prostor i dotazům, kde se vedle
+    # trefy sveze balast (ten dotřídí agent, viz zásada recall > precision).
+    MAX_PER_QUERY       = int(os.getenv("MAX_PER_QUERY", "20"))
     # Českých zpráv k těmto tématům vychází řádově míň než u 15 jazyků světového
     # profilu: when:1d vracelo 0–4 položky na dotaz, when:7d desítky (ověřeno
     # 8/2026). Proto širší okno – že se nic nezopakuje, hlídá state/seen.json.

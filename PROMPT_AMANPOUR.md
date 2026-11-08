@@ -100,8 +100,9 @@ Zdroj: český feed + domácí zprávy z ČTK. Pošli ho jako SAMOSTATNÝ e-mail
    odkaz (pole `url`).
 4. Seřaď od nejdůležitějších, seskup podle důležitosti.
 5. Na konec připoj „Zdroje tohoto běhu:" s počty sources.google_news,
-   sources.feeds, sources.watch. Pokud sources.google_news_status není "ok",
-   přidej upozornění, že se Google News nenačetly.
+   sources.news_feeds (přímé RSS českých médií), sources.feeds a sources.watch.
+   Pokud sources.google_news_status není "ok", přidej upozornění, že se
+   Google News nenačetly.
 
 ## D) Zprávy z ČTK
 
