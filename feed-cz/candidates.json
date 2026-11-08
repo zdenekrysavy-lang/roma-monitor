@@ -1,85 +1,93 @@
 {
-  "generated_utc": "2026-11-07T13:35:43+00:00",
-  "count": 8,
+  "generated_utc": "2026-11-08T14:09:22+00:00",
+  "count": 9,
   "sources": {
     "profile": "cz",
-    "google_news": 55,
+    "google_news": 57,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 1,
-    "watch": 1,
-    "before_dedup": 32,
-    "total": 27,
-    "skipped_seen": 19,
-    "gn_resolved": 8,
-    "gn_resolve_tried": 8,
+    "feeds": 0,
+    "watch": 0,
+    "before_dedup": 29,
+    "total": 25,
+    "skipped_seen": 16,
+    "gn_resolved": 9,
+    "gn_resolve_tried": 9,
     "dropped_after_resolve": 0
   },
   "candidates": [
     {
-      "title": "Karel Hynek Mácha zemřel před 190 lety. Poslechněte si výběr z jeho tvorby nebo pořady o něm - Český rozhlas Vltava",
-      "url": "https://vltava.rozhlas.cz/karel-hynek-macha-zemrel-pred-190-lety-poslechnete-si-vyber-z-jeho-tvorby-nebo-9654751",
-      "source": "Český rozhlas Vltava",
-      "snippet": "Karel Hynek Mácha zemřel před 190 lety. Poslechněte si výběr z jeho tvorby nebo pořady o něm Český rozhlas Vltava",
-      "published": "Fri, 06 Nov 2026 10:25:05 GMT",
+      "title": "Do Vily Fitz láká cestovatelská přednáška, Kornatice zvou na bramboriádu - Rokycanský deník",
+      "url": "https://rokycansky.denik.cz/volny-cas/do-vily-fitz-laka-cestovatelska-prednaska-kornatice-zvou-na-bramboriadu/",
+      "source": "Rokycanský deník",
+      "snippet": "Do Vily Fitz láká cestovatelská přednáška, Kornatice zvou na bramboriádu Rokycanský deník",
+      "published": "Fri, 06 Nov 2026 12:03:13 GMT",
       "lang": "cs"
     },
     {
-      "title": "Španělská Vox buduje globální síť krajní pravice. Stojí v čele Patriotů a spojence sbírá v Americe - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/vox-krajni-pravice-spoluprace_2611071333_elev",
-      "source": "iROZHLAS",
-      "snippet": "Španělská Vox buduje globální síť krajní pravice. Stojí v čele Patriotů a spojence sbírá v Americe iROZHLAS",
-      "published": "Sat, 07 Nov 2026 12:33:00 GMT",
+      "title": "Střelce z Krakova fascinovala ideologie krajní pravice, tvrdí ministr - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/po-strelbe-na-namesti-v-krakove-jsou-hlaseni-mrtvi-i-zraneni-379380",
+      "source": "ČT24",
+      "snippet": "Střelce z Krakova fascinovala ideologie krajní pravice, tvrdí ministr ČT24",
+      "published": "Sat, 07 Nov 2026 15:19:29 GMT",
       "lang": "cs"
     },
     {
-      "title": "Diskuze: Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice - forum 24",
-      "url": "https://www.forum24.cz/trumpuv-recept-na-vitezstvi-se-obraci-proti-nemu-na-stejnou-kartu-v-evrope-sazi-krajni-pravice/diskuze",
+      "title": "Střelce z Krakova fascinovala krajní pravice, míní polský ministr vnitra. V autě měl další zbraně - forum 24",
+      "url": "https://www.forum24.cz/strelce-z-krakova-fascinovala-krajni-pravice-mini-polsky-ministr-vnitra-v-aute-mel-dalsi-zbrane",
       "source": "forum 24",
-      "snippet": "Diskuze: Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice forum 24",
-      "published": "Thu, 05 Nov 2026 12:00:07 GMT",
+      "snippet": "Střelce z Krakova fascinovala krajní pravice, míní polský ministr vnitra. V autě měl další zbraně forum 24",
+      "published": "Sat, 07 Nov 2026 20:09:14 GMT",
       "lang": "cs"
     },
     {
-      "title": "Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát - Tiscali.cz",
-      "url": "https://www.tiscali.cz/byt-koupili-za-50-tisic-najemnici-plati-21-tisic-mesicne-a-prispiva-jim-stat-801337",
-      "source": "Tiscali.cz",
-      "snippet": "Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát Tiscali.cz",
-      "published": "Fri, 06 Nov 2026 13:43:45 GMT",
+      "title": "Střelce fascinovala krajní pravice, tvrdí ministr. V autě našli mnoho zbraní - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-strelba-krakov-nawrocki-statni-smutek.A261107_204702_zahranicni_linh",
+      "source": "iDNES.cz",
+      "snippet": "Střelce fascinovala krajní pravice, tvrdí ministr. V autě našli mnoho zbraní iDNES.cz",
+      "published": "Sat, 07 Nov 2026 19:59:00 GMT",
       "lang": "cs"
     },
     {
-      "title": "Atrium Žižkov propojuje současné umění, hudbu a společenská témata. Nová výstava Až spadnou zdi otevírá otázky života v izolaci - https://allnews.cz/",
-      "url": "https://allnews.cz/2026/11/06/atrium-zizkov-propojuje-soucasne-umeni-hudbu-a-spolecenska-temata-nova-vystava-az-spadnou-zdi-otevira-otazky-zivota-v-izolaci-2/",
-      "source": "https://allnews.cz/",
-      "snippet": "Atrium Žižkov propojuje současné umění, hudbu a společenská témata. Nová výstava Až spadnou zdi otevírá otázky života v izolaci https://allnews.cz/",
-      "published": "Fri, 06 Nov 2026 14:03:35 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Superdávka nefunguje. Vůbec ne. Lidi řeší televizi - Britské listy",
-      "url": "https://www.blisty.cz/art/137287-superdavka-nefunguje-vubec-ne-lidi-resi-televizi.html",
-      "source": "Britské listy",
-      "snippet": "Superdávka nefunguje. Vůbec ne. Lidi řeší televizi Britské listy",
-      "published": "Fri, 06 Nov 2026 13:38:11 GMT",
-      "lang": "cs"
-    },
-    {
-      "title": "Superdávka měla lidem pomoci, místo toho je může připravit o bydlení. Neziskovky varují před chybami - Seznam – najdu tam, co neznám",
-      "url": "https://www.seznam.cz/komentare/280198719-superdavka-mela-lidem-pomoci-misto-toho-je-muze-pripravit-o-bydleni-neziskovky-varuji-pred-chybami",
+      "title": "Střelba v Krakově má šest obětí. Útočníka zřejmě fascinovala krajní pravice, uvedl polský ministr vnitra - Seznam – najdu tam, co neznám",
+      "url": "https://www.seznam.cz/komentare/280235097-strelba-v-krakove-ma-sest-obeti-utocnika-zrejme-fascinovala-krajni-pravice-uvedl-polsky-ministr-vnitra",
       "source": "Seznam – najdu tam, co neznám",
-      "snippet": "Superdávka měla lidem pomoci, místo toho je může připravit o bydlení. Neziskovky varují před chybami Seznam – najdu tam, co neznám",
-      "published": "Fri, 06 Nov 2026 15:10:55 GMT",
+      "snippet": "Střelba v Krakově má šest obětí. Útočníka zřejmě fascinovala krajní pravice, uvedl polský ministr vnitra Seznam – najdu tam, co neznám",
+      "published": "Sun, 08 Nov 2026 00:28:01 GMT",
       "lang": "cs"
     },
     {
-      "title": "Piráti odhalili skrytou předvolební kampaň na podporu proruských kandidátů. Svá zjištění předali vyšetřovatelům - Pirátská strana",
-      "url": "https://www.pirati.cz/jak-pirati-pracuji/pirati-odhalili-skrytou-predvolebni-kampan-na-podporu-proruskych-kandidatu-sva-zjisteni-predali-vysetrovatelum/",
-      "source": "Pirátská strana",
-      "snippet": "Piráti odhalili skrytou předvolební kampaň na podporu proruských kandidátů. Svá zjištění předali vyšetřovatelům Pirátská strana",
-      "published": "Thu, 05 Nov 2026 10:52:00 GMT",
+      "title": "V domě střelce z Krakova se našli další tři mrtví, uvedl premiér - České noviny",
+      "url": "https://www.ceskenoviny.cz/zpravy/2898712",
+      "source": "České noviny",
+      "snippet": "V domě střelce z Krakova se našli další tři mrtví, uvedl premiér České noviny",
+      "published": "Sat, 07 Nov 2026 14:12:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Konec modly. Evropští nacionalisté se definitivně odvrátí od poraženého Trumpa - iROZHLAS",
+      "url": "https://www.irozhlas.cz/komentare/konec-modly-evropsti-nacionaliste-se-definitivne-odvrati-od-porazeneho-trumpa_2611071630_elev",
+      "source": "iROZHLAS",
+      "snippet": "Konec modly. Evropští nacionalisté se definitivně odvrátí od poraženého Trumpa iROZHLAS",
+      "published": "Sat, 07 Nov 2026 15:30:00 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Potíže se superdávkou: Klienti stále dokládají další papíry, někdo rezignuje - Deník.cz",
+      "url": "https://www.denik.cz/cesko/cesko-superdavka-potize-kritika/",
+      "source": "Deník.cz",
+      "snippet": "Potíže se superdávkou: Klienti stále dokládají další papíry, někdo rezignuje Deník.cz",
+      "published": "Sun, 08 Nov 2026 12:00:49 GMT",
+      "lang": "cs"
+    },
+    {
+      "title": "Opakované dokládání dokumentů a zpoždění při přepočtu. Úřad práce čelí kritice kvůli vyřizování superdávky - Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-opakovane-dokladani-dokumentu-a-zpozdeni-pri-prepoctu-urad-prace-celi-kritice-kvuli-vyrizovani-superdavky-40607015",
+      "source": "Novinky",
+      "snippet": "Opakované dokládání dokumentů a zpoždění při přepočtu. Úřad práce čelí kritice kvůli vyřizování superdávky Novinky",
+      "published": "Sun, 08 Nov 2026 09:09:05 GMT",
       "lang": "cs"
     }
   ]

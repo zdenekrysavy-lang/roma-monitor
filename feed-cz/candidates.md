@@ -1,35 +1,39 @@
-# Kandidáti — 2026-11-07T13:35:43+00:00 (8 položek)
+# Kandidáti — 2026-11-08T14:09:22+00:00 (9 položek)
 
-_Zdroje: Google News 55 · GDELT 0 (disabled) · feedy 1 · watch 1_
+_Zdroje: Google News 57 · GDELT 0 (disabled) · feedy 0 · watch 0_
 
-1. **Karel Hynek Mácha zemřel před 190 lety. Poslechněte si výběr z jeho tvorby nebo pořady o něm - Český rozhlas Vltava** — Český rozhlas Vltava [cs]
-   https://vltava.rozhlas.cz/karel-hynek-macha-zemrel-pred-190-lety-poslechnete-si-vyber-z-jeho-tvorby-nebo-9654751
-   Karel Hynek Mácha zemřel před 190 lety. Poslechněte si výběr z jeho tvorby nebo pořady o něm Český rozhlas Vltava
+1. **Do Vily Fitz láká cestovatelská přednáška, Kornatice zvou na bramboriádu - Rokycanský deník** — Rokycanský deník [cs]
+   https://rokycansky.denik.cz/volny-cas/do-vily-fitz-laka-cestovatelska-prednaska-kornatice-zvou-na-bramboriadu/
+   Do Vily Fitz láká cestovatelská přednáška, Kornatice zvou na bramboriádu Rokycanský deník
 
-2. **Španělská Vox buduje globální síť krajní pravice. Stojí v čele Patriotů a spojence sbírá v Americe - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/vox-krajni-pravice-spoluprace_2611071333_elev
-   Španělská Vox buduje globální síť krajní pravice. Stojí v čele Patriotů a spojence sbírá v Americe iROZHLAS
+2. **Střelce z Krakova fascinovala ideologie krajní pravice, tvrdí ministr - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/svet/po-strelbe-na-namesti-v-krakove-jsou-hlaseni-mrtvi-i-zraneni-379380
+   Střelce z Krakova fascinovala ideologie krajní pravice, tvrdí ministr ČT24
 
-3. **Diskuze: Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice - forum 24** — forum 24 [cs]
-   https://www.forum24.cz/trumpuv-recept-na-vitezstvi-se-obraci-proti-nemu-na-stejnou-kartu-v-evrope-sazi-krajni-pravice/diskuze
-   Diskuze: Trumpův recept na vítězství se obrací proti němu. Na stejnou kartu v Evropě sází krajní pravice forum 24
+3. **Střelce z Krakova fascinovala krajní pravice, míní polský ministr vnitra. V autě měl další zbraně - forum 24** — forum 24 [cs]
+   https://www.forum24.cz/strelce-z-krakova-fascinovala-krajni-pravice-mini-polsky-ministr-vnitra-v-aute-mel-dalsi-zbrane
+   Střelce z Krakova fascinovala krajní pravice, míní polský ministr vnitra. V autě měl další zbraně forum 24
 
-4. **Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát - Tiscali.cz** — Tiscali.cz [cs]
-   https://www.tiscali.cz/byt-koupili-za-50-tisic-najemnici-plati-21-tisic-mesicne-a-prispiva-jim-stat-801337
-   Byt koupili za 50 tisíc. Nájemníci platí 21 tisíc měsíčně a přispívá jim stát Tiscali.cz
+4. **Střelce fascinovala krajní pravice, tvrdí ministr. V autě našli mnoho zbraní - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/zahranicni/polsko-strelba-krakov-nawrocki-statni-smutek.A261107_204702_zahranicni_linh
+   Střelce fascinovala krajní pravice, tvrdí ministr. V autě našli mnoho zbraní iDNES.cz
 
-5. **Atrium Žižkov propojuje současné umění, hudbu a společenská témata. Nová výstava Až spadnou zdi otevírá otázky života v izolaci - https://allnews.cz/** — https://allnews.cz/ [cs]
-   https://allnews.cz/2026/11/06/atrium-zizkov-propojuje-soucasne-umeni-hudbu-a-spolecenska-temata-nova-vystava-az-spadnou-zdi-otevira-otazky-zivota-v-izolaci-2/
-   Atrium Žižkov propojuje současné umění, hudbu a společenská témata. Nová výstava Až spadnou zdi otevírá otázky života v izolaci https://allnews.cz/
+5. **Střelba v Krakově má šest obětí. Útočníka zřejmě fascinovala krajní pravice, uvedl polský ministr vnitra - Seznam – najdu tam, co neznám** — Seznam – najdu tam, co neznám [cs]
+   https://www.seznam.cz/komentare/280235097-strelba-v-krakove-ma-sest-obeti-utocnika-zrejme-fascinovala-krajni-pravice-uvedl-polsky-ministr-vnitra
+   Střelba v Krakově má šest obětí. Útočníka zřejmě fascinovala krajní pravice, uvedl polský ministr vnitra Seznam – najdu tam, co neznám
 
-6. **Superdávka nefunguje. Vůbec ne. Lidi řeší televizi - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/137287-superdavka-nefunguje-vubec-ne-lidi-resi-televizi.html
-   Superdávka nefunguje. Vůbec ne. Lidi řeší televizi Britské listy
+6. **V domě střelce z Krakova se našli další tři mrtví, uvedl premiér - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/2898712
+   V domě střelce z Krakova se našli další tři mrtví, uvedl premiér České noviny
 
-7. **Superdávka měla lidem pomoci, místo toho je může připravit o bydlení. Neziskovky varují před chybami - Seznam – najdu tam, co neznám** — Seznam – najdu tam, co neznám [cs]
-   https://www.seznam.cz/komentare/280198719-superdavka-mela-lidem-pomoci-misto-toho-je-muze-pripravit-o-bydleni-neziskovky-varuji-pred-chybami
-   Superdávka měla lidem pomoci, místo toho je může připravit o bydlení. Neziskovky varují před chybami Seznam – najdu tam, co neznám
+7. **Konec modly. Evropští nacionalisté se definitivně odvrátí od poraženého Trumpa - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/komentare/konec-modly-evropsti-nacionaliste-se-definitivne-odvrati-od-porazeneho-trumpa_2611071630_elev
+   Konec modly. Evropští nacionalisté se definitivně odvrátí od poraženého Trumpa iROZHLAS
 
-8. **Piráti odhalili skrytou předvolební kampaň na podporu proruských kandidátů. Svá zjištění předali vyšetřovatelům - Pirátská strana** — Pirátská strana [cs]
-   https://www.pirati.cz/jak-pirati-pracuji/pirati-odhalili-skrytou-predvolebni-kampan-na-podporu-proruskych-kandidatu-sva-zjisteni-predali-vysetrovatelum/
-   Piráti odhalili skrytou předvolební kampaň na podporu proruských kandidátů. Svá zjištění předali vyšetřovatelům Pirátská strana
+8. **Potíže se superdávkou: Klienti stále dokládají další papíry, někdo rezignuje - Deník.cz** — Deník.cz [cs]
+   https://www.denik.cz/cesko/cesko-superdavka-potize-kritika/
+   Potíže se superdávkou: Klienti stále dokládají další papíry, někdo rezignuje Deník.cz
+
+9. **Opakované dokládání dokumentů a zpoždění při přepočtu. Úřad práce čelí kritice kvůli vyřizování superdávky - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/ekonomika-opakovane-dokladani-dokumentu-a-zpozdeni-pri-prepoctu-urad-prace-celi-kritice-kvuli-vyrizovani-superdavky-40607015
+   Opakované dokládání dokumentů a zpoždění při přepočtu. Úřad práce čelí kritice kvůli vyřizování superdávky Novinky
