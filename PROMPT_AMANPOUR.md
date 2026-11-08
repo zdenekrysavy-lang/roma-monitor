@@ -29,6 +29,11 @@ Pokud je starší než 12 hodin, připoj na začátek e-mailu upozornění:
 „⚠️ Feed je z <datum a čas> (stáří <N> h) – sběr se nejspíš zpozdil a nejnovější
 zprávy v přehledu chybí." Bez toho si zastaralého feedu nikdo nevšimne.
 
+Pokud má pole `sources.vps_trigger` hodnotu `"missed"`, připoj na začátek
+e-mailu: „⚠️ Ranní spuštění sběru z VPS neproběhlo – přehled vychází z noční
+zálohy a nejnovější zprávy v něm mohou chybět." Feed může obsahovat i položky
+z nočního běhu – i ty jsou pro tebe nové, zpracuj je normálně.
+
 Obě pole `candidates` obsahují zprávy (title, url, source, lang, snippet,
 published) a pole `sources` se statistikou sběru. Jde o SUROVÝ sběr —
 obsahuje šum, který musíš odfiltrovat.

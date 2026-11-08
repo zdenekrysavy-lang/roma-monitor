@@ -21,7 +21,24 @@ on:
     # když je feed čerstvý, druhý běh skončí bez práce. Bez něj by přepsal feed
     # a položky z prvního běhu by se ztratily – v seen.json by zůstaly zapsané,
     # ale agent by je nikdy neviděl.
-  workflow_dispatch: {}
+    #
+    # Od 11/2026 jsou noční crony jen ZÁLOHA. Hlavní spuštění dělá cron na VPS
+    # v 8:40 Praha přes GitHub API (workflow_dispatch se source=vps) – ruční
+    # spuštění GitHub nezdržuje, takže feed je čerstvý přesně před čtením.
+    # Feed se slučuje, takže ranní běh noční položky nezahodí (viz config.py,
+    # PUBLISH_RUN).
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "Kdo spouští: vps = ranní publikační běh z VPS, jinak ruční test"
+        required: false
+        default: manual
+
+# Dva běhy téhož profilu naráz by četly stejný starý feed a ten pozdější by
+# položky toho prvního přepsal. Proto se řadí za sebe, nikdy neběží souběžně.
+concurrency:
+  group: gather-world
+  cancel-in-progress: false
 
 permissions:
   contents: write          # nutné, aby mohl commitnout aktualizovaný feed
@@ -45,15 +62,28 @@ jobs:
           # Ruční spuštění je vědomý akt – guard proti dvojímu běhu se na něj
           # nevztahuje, jinak by po čerstvém automatickém běhu nešlo nic ověřit.
           FEED_MIN_AGE_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '12' }}
+          # Jen ranní spuštění z VPS posouvá začátek okna feedu (viz config.py).
+          PUBLISH_RUN: ${{ inputs.source == 'vps' && '1' || '0' }}
 
       - name: Publikace feedu
         run: |
           git config user.name  "roma-monitor-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add feed/candidates.json feed/candidates.md feed/index.html feed/archiv.html state/seen.json state/archive.json
+          # cutoff vzniká až prvním ranním během z VPS – git add na
+          # neexistující soubor by krok shodil
+          if [ -f state/cutoff.json ]; then git add state/cutoff.json; fi
           git commit -m "feed update $(date -u +%FT%TZ)" || echo "beze změn"
-          git pull --rebase origin main
-          git push
+          # Z VPS se svět a Česko spouštějí s odstupem 5 min, ale doba běhu
+          # kolísá – oba mohou pushovat naráz. Rebase projde čistě (profily
+          # píšou do různých souborů), jen se push musí zopakovat.
+          ok=0
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then ok=1; break; fi
+            echo "push selhal (pokus $i), zkusím znovu"
+            sleep $((i * 7))
+          done
+          [ "$ok" = 1 ] || { echo "push se nepodařil ani na 5. pokus"; exit 1; }
 
       # ChatGPT agent čte feed přes jsDelivr CDN (raw.githubusercontent.com mu
       # vrací 403 – GitHub blokuje sdílené IP automatických klientů). CDN drží

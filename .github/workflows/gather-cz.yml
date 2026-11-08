@@ -10,7 +10,17 @@ on:
     # profilu, ať oba běhy nekolidují na push.
     - cron: "52 21 * * *"   # hlavní pokus, 21:52 UTC = 22:52 Praha (zima)
     - cron: "22 1 * * *"    # záloha, když se první zpozdí přes míru
-  workflow_dispatch: {}
+    # Hlavní spuštění dělá VPS v 8:45 Praha – viz gather.yml.
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "Kdo spouští: vps = ranní publikační běh z VPS, jinak ruční test"
+        required: false
+        default: manual
+
+concurrency:
+  group: gather-cz
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -23,6 +33,7 @@ jobs:
       FEED_DIR: feed-cz
       SEEN_PATH: state/seen-cz.json
       ARCHIVE_PATH: state/archive-cz.json
+      CUTOFF_PATH: state/cutoff-cz.json
     steps:
       - uses: actions/checkout@v4
 
@@ -39,15 +50,23 @@ jobs:
           # Ruční spuštění je vědomý akt – guard proti dvojímu běhu se na něj
           # nevztahuje, jinak by po čerstvém automatickém běhu nešlo nic ověřit.
           FEED_MIN_AGE_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '12' }}
+          PUBLISH_RUN: ${{ inputs.source == 'vps' && '1' || '0' }}
 
       - name: Publikace feedu
         run: |
           git config user.name  "roma-monitor-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add feed-cz/candidates.json feed-cz/candidates.md feed-cz/index.html feed-cz/archiv.html state/seen-cz.json state/archive-cz.json
+          if [ -f state/cutoff-cz.json ]; then git add state/cutoff-cz.json; fi
           git commit -m "feed-cz update $(date -u +%FT%TZ)" || echo "beze změn"
-          git pull --rebase origin main
-          git push
+          # Opakovaný push – viz gather.yml.
+          ok=0
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then ok=1; break; fi
+            echo "push selhal (pokus $i), zkusím znovu"
+            sleep $((i * 7))
+          done
+          [ "$ok" = 1 ] || { echo "push se nepodařil ani na 5. pokus"; exit 1; }
 
       - name: Proplach jsDelivr CDN
         continue-on-error: true

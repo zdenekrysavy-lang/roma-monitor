@@ -42,6 +42,62 @@ def feed_age_hours():
         return None
 
 
+def _now() -> dt.datetime:
+    return dt.datetime.now(dt.timezone.utc)
+
+
+def load_cutoff():
+    """Čas posledního publikačního (ranního) běhu, nebo None."""
+    try:
+        with open(config.CUTOFF_PATH, encoding="utf-8") as f:
+            return dt.datetime.fromisoformat(json.load(f)["window_start"])
+    except (FileNotFoundError, json.JSONDecodeError, KeyError, ValueError, TypeError):
+        return None
+
+
+def save_cutoff(stamp: str) -> None:
+    os.makedirs(os.path.dirname(config.CUTOFF_PATH) or ".", exist_ok=True)
+    with open(config.CUTOFF_PATH, "w", encoding="utf-8") as f:
+        json.dump({"window_start": stamp}, f)
+
+
+def window_start(cutoff):
+    """Od kdy má feed sahat – viz PUBLISH_RUN v config.py.
+
+    - cutoff existuje → od posledního ranního běhu (nejvýš FEED_WINDOW_MAX_HOURS
+      zpět), a to u všech běhů, nočních i ručních;
+    - cutoff chybí a jde o první ranní běh z VPS → převezmi předchozí feed
+      (typicky noční), ať se jeho položky při přechodu neztratí;
+    - cutoff chybí jinak → None = staré chování, feed nese jen nové položky.
+      Dokud VPS nespouští, nic se tedy nemění.
+    """
+    floor = _now() - dt.timedelta(hours=config.FEED_WINDOW_MAX_HOURS)
+    if cutoff is not None:
+        return max(cutoff, floor)
+    return floor if config.PUBLISH_RUN else None
+
+
+def carry_over(start) -> list:
+    """Položky z předchozího feedu nasbírané po `start` – agent je ještě neviděl."""
+    if start is None:
+        return []
+    try:
+        with open(os.path.join(OUT_DIR, "candidates.json"), encoding="utf-8") as f:
+            prev = json.load(f).get("candidates", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+    out = []
+    for it in prev:
+        try:
+            # Striktně „po": položky samotného publikačního běhu mají
+            # collected_utc rovné cutoffu a zítra se už opakovat nesmí.
+            if dt.datetime.fromisoformat(it.get("collected_utc", "")) > start:
+                out.append(it)
+        except (ValueError, TypeError):
+            pass  # feed ze staré verze bez collected_utc – nepřenášet
+    return out
+
+
 def load_archive() -> list:
     try:
         with open(config.ARCHIVE_PATH, encoding="utf-8") as f:
@@ -72,7 +128,7 @@ def update_archive(new_items: list) -> list:
     for it in new_items:
         if fetch._norm_url(it.get("url", "")) in known:
             continue
-        kept.append({**it, "collected_utc": stamp})
+        kept.append({**it, "collected_utc": it.get("collected_utc") or stamp})
 
     kept.sort(key=lambda r: r.get("collected_utc", ""), reverse=True)
     os.makedirs(os.path.dirname(config.ARCHIVE_PATH), exist_ok=True)
@@ -311,10 +367,42 @@ def run() -> None:
           f"(Google News {stats.get('google_news', 0)}, "
           f"GDELT {stats.get('gdelt', 0)}/{stats.get('gdelt_status', '?')}, "
           f"feedy {stats.get('feeds', 0)}, watch {stats.get('watch', 0)})")
-    jp, mp, hp = write_feed(items, stats)
+
+    # Jedno razítko pro celý běh: podle něj se pozná, které položky do
+    # feedu patří (carry_over), a stejné se stane novým cutoffem.
+    stamp = now
+    for it in items:
+        it["collected_utc"] = stamp
+
+    # Slučování s předchozím feedem – viz PUBLISH_RUN v config.py.
+    cutoff = load_cutoff()
+    start = window_start(cutoff)
+    carried = carry_over(start)
+    known = {fetch._norm_url(it.get("url", "")) for it in items}
+    carried = [it for it in carried if fetch._norm_url(it.get("url", "")) not in known]
+    stats["new"] = len(items)
+    stats["carried_over"] = len(carried)
+    stats["window_start"] = start.isoformat(timespec="seconds") if start else None
+    stats["publish_run"] = config.PUBLISH_RUN
+    if config.PUBLISH_RUN:
+        stats["vps_trigger"] = "ok"
+    elif cutoff is None:
+        stats["vps_trigger"] = "not_set"      # VPS zatím nespouští – staré chování
+    elif (_now() - cutoff).total_seconds() / 3600 > config.VPS_MISSED_HOURS:
+        stats["vps_trigger"] = "missed"       # ranní spuštění z VPS vypadlo
+    else:
+        stats["vps_trigger"] = "ok"
+    if carried:
+        print(f"  Z předchozího feedu převzato {len(carried)} položek, "
+              f"které agent ještě neviděl (od {stats['window_start']})")
+
+    jp, mp, hp = write_feed(items + carried, stats)
     # seen ukládáme až PO úspěšném zápisu feedu – kdyby zápis spadl,
     # články nesmí zůstat označené jako „viděné", aniž byly publikovány.
     save_seen(seen)
+    # Cutoff posouvá jen ranní běh z VPS, a taky až po úspěšném zápisu.
+    if config.PUBLISH_RUN:
+        save_cutoff(stamp)
     archive = update_archive(items)
     ap = write_archive_html(archive)
     print(f"Uloženo: {jp}, {mp} a {hp}")

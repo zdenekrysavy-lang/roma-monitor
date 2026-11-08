@@ -73,8 +73,8 @@ WATCH_SITES (10 webů bez feedu, přes GN site:)            ┘
 - `.github/workflows/digest.yml` — režim A, cron VYPNUTÝ
 - `PROMPT_AMANPOUR.md` — hotové zadání pro agenta (svět + Česko + ČTK, dva e-maily)
 
-Agent čte **1× denně v 9:15** Praha, každý den. Sběr běží v 8:45/8:50
-(trvá 1,5–5 min), tedy ~30 min předem – kratší mezera by nešla kvůli ČTK,
+Agent čte **1× denně v 9:15** Praha, každý den. Sběr spouští VPS v 8:40/8:45
+(trvá 2–5 min), tedy ~30 min předem – viz „Hlavní spouštění z VPS“ níže – kratší mezera by nešla kvůli ČTK,
 delší by znamenala, že víc zpráv spadne až do zítřejšího přehledu. Čas 9:15 je dán ČTK: ranní dávka
 vychází v 8:55 a přeposlaná dorazí kolem 9:04 – dřívější čtení by ji minulo. Okna mají rezervu (LOOKBACK_HOURS=50, when:2d),
 aby se nic neztratilo ani při vynechaném běhu; opakování hlídá seen.json.
@@ -153,6 +153,36 @@ Hodnota 12 h není libovolná. Rozptyl zpoždění (5,2–9,8 h) vymezuje rozpě
 8,1–19,4 h: níž by si hlavní a záložní běh téže noci přepsaly feed, výš by
 guard zablokoval i legitimní běh dalšího dne. Původních 18 h procházelo
 v nejhorším případě o 1,4 h, 12 h leží uprostřed.
+
+### Hlavní spouštění z VPS (od 11/2026)
+
+Noční crony jsou jen obezlička – feed vznikne „někdy v noci". Proto sběr
+spouští **cron na VPS** (kde běží agent) v **8:40 (svět) a 8:45 (Česko)**
+pražského času voláním GitHub API:
+
+```
+POST /repos/zdenekrysavy-lang/roma-monitor/actions/workflows/gather.yml/dispatches
+{"ref": "main", "inputs": {"source": "vps"}}
+```
+
+Ruční `workflow_dispatch` GitHub nezdržuje, takže feed je hotový pár minut
+před čtením v 9:15. Noční crony zůstávají jako **záloha**.
+
+**Feed se slučuje** (`PUBLISH_RUN`, `state/cutoff*.json` – viz `config.py`):
+obsahuje vše, co přibylo od posledního ranního běhu z VPS, tedy i položky
+nočního běhu, které agent ještě neviděl. Bez toho by ranní běh noční feed
+přepsal a jeho položky by zmizely. Začátek okna posouvá **jen** běh se
+`source=vps`; ruční spuštění z webu okno nemění. Ověřeno simulací sedmi běhů
+za sebou: agent dostane každou zprávu právě jednou.
+
+- Dokud VPS nespustí ani jednou, `state/cutoff.json` neexistuje a chování je
+  staré (feed jen nové položky) – nasazení kódu bez VPS nic nerozbije.
+- Když VPS vypadne, noční feed sahá od posledního ranního běhu (strop 48 h)
+  a `sources.vps_trigger` = `"missed"`; agent to hlásí v e-mailu.
+- `concurrency` ve workflow brání souběhu dvou běhů téhož profilu (četly by
+  stejný starý feed); push se při kolizi profilů opakuje až 5×.
+- Token pro VPS: fine-grained PAT jen na toto repo, oprávnění **Actions:
+  Read and write**. Leží jen na VPS, do repa nepatří.
 
 ## Jak spustit / testovat
 ```bash

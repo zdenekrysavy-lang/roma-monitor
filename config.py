@@ -19,7 +19,7 @@ MONITOR_PROFILE = os.getenv("MONITOR_PROFILE", "world")
 # kadence, takže se nic neztratí, ani když jeden běh vypadne (GitHub měl
 # 8/2026 výpadek Actions). Že se nic nezopakuje, hlídá state/seen.json.
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "50"))
-MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "300"))  # strop kandidátů poslaných k analýze
+MAX_CANDIDATES = int(os.getenv("MAX_CANDIDATES", "500"))  # strop kandidátů poslaných k analýze
 MAX_PER_FEED   = int(os.getenv("MAX_PER_FEED", "40"))
 # Obecná zpravodajská média (NEWS_FEEDS) mají feedy delší než romské –
 # 50 položek je běžných – a filtr klíčovými slovy z nich stejně většinu
@@ -65,6 +65,32 @@ ARCHIVE_DAYS = int(os.getenv("ARCHIVE_DAYS", "7"))
 # 12 h leží uprostřed; 18 h (původní volba) projde v nejhorším případě
 # o 1,4 h a spoléhalo by se pak na záložní cron.
 FEED_MIN_AGE_HOURS = float(os.getenv("FEED_MIN_AGE_HOURS") or "12")
+
+# Ranní spouštění z VPS (11/2026). GitHub plánované běhy zakládá o 5–10 h
+# později, ruční workflow_dispatch ale startuje do minuty – proto sběr
+# spouští cron na VPS (kde běží agent) v 8:40 Praha přes GitHub API.
+# Noční crony v Actions zůstávají jako záloha pro případ, že VPS selže.
+#
+# Aby se ranní běh nepral s nočním, feed se SLUČUJE: obsahuje všechno, co
+# přibylo od posledního ranního (publikačního) běhu – nové položky + ty,
+# které nasbíral noční běh a agent je ještě neviděl. Bez toho by ranní běh
+# noční feed přepsal a jeho položky by zmizely (v seen.json zapsané, agent
+# by je nikdy nedostal).
+#
+# PUBLISH_RUN = 1 jen u spuštění z VPS (workflow input source=vps). Jen ten
+#   posouvá začátek okna. Ruční spuštění z webu okno nemění, jinak by se
+#   zprávy mezi ranním čtením a ručním testem do zítřka nedostaly.
+# CUTOFF_PATH – kde je uložen čas posledního publikačního běhu.
+# FEED_WINDOW_MAX_HOURS – strop, jak daleko zpět feed sahá. Když VPS
+#   vypadne, feed by jinak rostl donekonečna; při výpadku agent dostane
+#   radši pár zpráv dvakrát než žádné.
+PUBLISH_RUN           = os.getenv("PUBLISH_RUN", "0") == "1"
+CUTOFF_PATH           = os.getenv("CUTOFF_PATH", "state/cutoff.json")
+FEED_WINDOW_MAX_HOURS = float(os.getenv("FEED_WINDOW_MAX_HOURS") or "48")
+# Když poslední publikační běh proběhl před víc než touto dobou, ranní
+# spuštění z VPS zřejmě vypadlo – feed to hlásí v sources.vps_trigger.
+VPS_MISSED_HOURS      = float(os.getenv("VPS_MISSED_HOURS") or "30")
+
 CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-5")  # levnější varianta: claude-haiku-4-5-20251001
 
 # --- Google News RSS: (dotaz, jazyk hl, země gl) ---
