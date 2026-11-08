@@ -95,11 +95,16 @@ nedostal vůbec.
 stihlo 7:30 UTC, a na neokrouhlé minutě (u celých hodin je fronta GitHubu
 nejvytíženější). K tomu **druhý, záložní cron** pro případ extrémního zpoždění.
 
-**Dva crony jsou bezpečné jen díky guardu** `FEED_MIN_AGE_HOURS` (18 h)
+**Dva crony jsou bezpečné jen díky guardu** `FEED_MIN_AGE_HOURS` (12 h)
 v `gather.py`: když je feed čerstvý, druhý běh skončí bez práce ještě před
 sběrem. Bez guardu by přepsal feed a položky z prvního běhu by se ztratily —
 v `seen.json` by zůstaly zapsané, ale agent by je nikdy neviděl. Ruční
 spuštění guard obchází (workflow mu nastaví `FEED_MIN_AGE_HOURS=0`).
+
+Hodnota 12 h není libovolná. Rozptyl zpoždění (5,2–9,8 h) vymezuje rozpětí
+8,1–19,4 h: níž by si hlavní a záložní běh téže noci přepsaly feed, výš by
+guard zablokoval i legitimní běh dalšího dne. Původních 18 h procházelo
+v nejhorším případě o 1,4 h, 12 h leží uprostřed.
 
 ## Jak spustit / testovat
 ```bash

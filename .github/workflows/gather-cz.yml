@@ -38,7 +38,7 @@ jobs:
         env:
           # Ruční spuštění je vědomý akt – guard proti dvojímu běhu se na něj
           # nevztahuje, jinak by po čerstvém automatickém běhu nešlo nic ověřit.
-          FEED_MIN_AGE_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '18' }}
+          FEED_MIN_AGE_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '12' }}
 
       - name: Publikace feedu
         run: |

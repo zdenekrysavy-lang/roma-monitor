@@ -48,7 +48,15 @@ ARCHIVE_DAYS = int(os.getenv("ARCHIVE_DAYS", "7"))
 # druhý přepíše feed a položky z prvního se ztratí – v seen.json zůstanou
 # zapsané, ale agent je nikdy neuvidí. Proto se běh přeskočí, pokud je
 # existující feed mladší než tahle doba. Nula = guard vypnutý.
-FEED_MIN_AGE_HOURS = float(os.getenv("FEED_MIN_AGE_HOURS") or "18")
+#
+# Hodnota musí sedět do rozpětí, které vymezuje rozptyl zpoždění (5,2–9,8 h):
+#   dolní mez 8,1 h = odstup hlavního a záložního cronu (3,5 h) + rozptyl,
+#                     pod ní by si dva běhy téže noci navzájem přepsaly feed;
+#   horní mez 19,4 h = 24 h mezi dny mínus rozptyl, nad ní by guard zablokoval
+#                     i legitimní běh dalšího dne.
+# 12 h leží uprostřed; 18 h (původní volba) projde v nejhorším případě
+# o 1,4 h a spoléhalo by se pak na záložní cron.
+FEED_MIN_AGE_HOURS = float(os.getenv("FEED_MIN_AGE_HOURS") or "12")
 CLAUDE_MODEL   = os.getenv("CLAUDE_MODEL", "claude-sonnet-5")  # levnější varianta: claude-haiku-4-5-20251001
 
 # --- Google News RSS: (dotaz, jazyk hl, země gl) ---
@@ -245,11 +253,16 @@ CZ_EXCLUDE_SOURCES = ["vietnam.vn", "romea.cz", "romea",
                       "medium.cz", "médium.cz",          # obsahová farma
                       "měšec.cz", "sreality.cz", "kaufland.cz", "lidé.cz",
                       "facebook.com", "kurzy.cz", "zdopravy.cz",
-                      # „=" = přesná shoda názvu zdroje. Agregátor Seznam.cz
-                      # přebírá cizí obsah včetně článků ROMEA (jen titulek,
-                      # perex a diskuze). Vlastní žurnalistika „Seznam Zprávy"
-                      # tímhle nepadne.
-                      "=Seznam"]
+                      # Agregátor Seznam.cz přebírá cizí obsah včetně článků
+                      # ROMEA (jen titulek, perex a diskuze). Filtruje se podle
+                      # DOMÉNY, ne názvu zdroje: Google News hlásí zdroj jako
+                      # „Seznam – najdu tam, co neznám", takže dřívější přesná
+                      # shoda „=Seznam" nikdy nesedla. Doména netrefí
+                      # seznamzpravy.cz ani novinky.cz – vlastní redakce
+                      # Seznamu tímhle nepadnou. Funguje až po rozbalení adres
+                      # Google News (RESOLVE_GN_URLS), kdy je známá skutečná
+                      # doména; drop_excluded se proto v gather.py pouští znovu.
+                      "www.seznam.cz"]
 
 # Jen tematicky vyhraněné zdroje. Obecná média (iRozhlas, Deník N, A2larm,
 # Hlídací pes, Investigace) tu SCHVÁLNĚ nejsou – publikují všechno od sportu
