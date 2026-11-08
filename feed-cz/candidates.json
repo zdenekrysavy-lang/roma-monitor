@@ -1,6 +1,6 @@
 {
   "generated_utc": "2026-11-08T20:12:28+00:00",
-  "count": 28,
+  "count": 37,
   "sources": {
     "profile": "cz",
     "google_news": 105,
@@ -275,6 +275,87 @@
       "published": "Fri, 06 Nov 2026 09:45:20 GMT",
       "lang": "cs",
       "collected_utc": "2026-11-08T20:12:28+00:00"
+    },
+    {
+      "title": "Do Vily Fitz láká cestovatelská přednáška, Kornatice zvou na bramboriádu - Rokycanský deník",
+      "url": "https://rokycansky.denik.cz/volny-cas/do-vily-fitz-laka-cestovatelska-prednaska-kornatice-zvou-na-bramboriadu/",
+      "source": "Rokycanský deník",
+      "snippet": "Do Vily Fitz láká cestovatelská přednáška, Kornatice zvou na bramboriádu Rokycanský deník",
+      "published": "Fri, 06 Nov 2026 12:03:13 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
+    },
+    {
+      "title": "Střelce z Krakova fascinovala ideologie krajní pravice, tvrdí ministr - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/po-strelbe-na-namesti-v-krakove-jsou-hlaseni-mrtvi-i-zraneni-379380",
+      "source": "ČT24",
+      "snippet": "Střelce z Krakova fascinovala ideologie krajní pravice, tvrdí ministr ČT24",
+      "published": "Sat, 07 Nov 2026 15:19:29 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
+    },
+    {
+      "title": "Střelce z Krakova fascinovala krajní pravice, míní polský ministr vnitra. V autě měl další zbraně - forum 24",
+      "url": "https://www.forum24.cz/strelce-z-krakova-fascinovala-krajni-pravice-mini-polsky-ministr-vnitra-v-aute-mel-dalsi-zbrane",
+      "source": "forum 24",
+      "snippet": "Střelce z Krakova fascinovala krajní pravice, míní polský ministr vnitra. V autě měl další zbraně forum 24",
+      "published": "Sat, 07 Nov 2026 20:09:14 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
+    },
+    {
+      "title": "Střelce fascinovala krajní pravice, tvrdí ministr. V autě našli mnoho zbraní - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-strelba-krakov-nawrocki-statni-smutek.A261107_204702_zahranicni_linh",
+      "source": "iDNES.cz",
+      "snippet": "Střelce fascinovala krajní pravice, tvrdí ministr. V autě našli mnoho zbraní iDNES.cz",
+      "published": "Sat, 07 Nov 2026 19:59:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
+    },
+    {
+      "title": "Střelba v Krakově má šest obětí. Útočníka zřejmě fascinovala krajní pravice, uvedl polský ministr vnitra - Seznam – najdu tam, co neznám",
+      "url": "https://www.seznam.cz/komentare/280235097-strelba-v-krakove-ma-sest-obeti-utocnika-zrejme-fascinovala-krajni-pravice-uvedl-polsky-ministr-vnitra",
+      "source": "Seznam – najdu tam, co neznám",
+      "snippet": "Střelba v Krakově má šest obětí. Útočníka zřejmě fascinovala krajní pravice, uvedl polský ministr vnitra Seznam – najdu tam, co neznám",
+      "published": "Sun, 08 Nov 2026 00:28:01 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
+    },
+    {
+      "title": "V domě střelce z Krakova se našli další tři mrtví, uvedl premiér - České noviny",
+      "url": "https://www.ceskenoviny.cz/zpravy/2898712",
+      "source": "České noviny",
+      "snippet": "V domě střelce z Krakova se našli další tři mrtví, uvedl premiér České noviny",
+      "published": "Sat, 07 Nov 2026 14:12:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
+    },
+    {
+      "title": "Konec modly. Evropští nacionalisté se definitivně odvrátí od poraženého Trumpa - iROZHLAS",
+      "url": "https://www.irozhlas.cz/komentare/konec-modly-evropsti-nacionaliste-se-definitivne-odvrati-od-porazeneho-trumpa_2611071630_elev",
+      "source": "iROZHLAS",
+      "snippet": "Konec modly. Evropští nacionalisté se definitivně odvrátí od poraženého Trumpa iROZHLAS",
+      "published": "Sat, 07 Nov 2026 15:30:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
+    },
+    {
+      "title": "Potíže se superdávkou: Klienti stále dokládají další papíry, někdo rezignuje - Deník.cz",
+      "url": "https://www.denik.cz/cesko/cesko-superdavka-potize-kritika/",
+      "source": "Deník.cz",
+      "snippet": "Potíže se superdávkou: Klienti stále dokládají další papíry, někdo rezignuje Deník.cz",
+      "published": "Sun, 08 Nov 2026 12:00:49 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
+    },
+    {
+      "title": "Opakované dokládání dokumentů a zpoždění při přepočtu. Úřad práce čelí kritice kvůli vyřizování superdávky - Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-opakovane-dokladani-dokumentu-a-zpozdeni-pri-prepoctu-urad-prace-celi-kritice-kvuli-vyrizovani-superdavky-40607015",
+      "source": "Novinky",
+      "snippet": "Opakované dokládání dokumentů a zpoždění při přepočtu. Úřad práce čelí kritice kvůli vyřizování superdávky Novinky",
+      "published": "Sun, 08 Nov 2026 09:09:05 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-08T14:09:22+00:00"
     }
   ]
 }
