@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-10T03:52:26+00:00",
-  "count": 30,
+  "generated_utc": "2026-11-10T07:46:49+00:00",
+  "count": 41,
   "sources": {
     "profile": "cz",
-    "google_news": 106,
+    "google_news": 116,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
@@ -11,19 +11,127 @@
     "feeds": 1,
     "news_feeds": 7,
     "watch": 0,
-    "before_dedup": 86,
-    "total": 70,
-    "skipped_seen": 34,
-    "gn_resolved": 30,
-    "gn_resolve_tried": 30,
-    "dropped_after_resolve": 6,
-    "new": 30,
-    "carried_over": 0,
+    "before_dedup": 98,
+    "total": 77,
+    "skipped_seen": 63,
+    "gn_resolved": 12,
+    "gn_resolve_tried": 12,
+    "dropped_after_resolve": 2,
+    "new": 12,
+    "carried_over": 29,
     "window_start": "2026-11-09T07:47:14+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "81 % Romů v Česku žije v přeplněných bytech. Romové jsou také násobně více ohroženi chudobou",
+      "url": "https://denikalarm.cz/2026/11/81-romu-v-cesku-zije-v-preplnenych-bytech-romove-jsou-take-nasobne-vice-ohrozeni-chudobou/",
+      "source": "https://a2larm.cz/feed/",
+      "snippet": "Podle zprávy Evropské komise o pokroku v začleňování Romů v EU se Romové v Česku potýkají s chudobou, segregací ve vzdělávání a problémy s bydlením.",
+      "published": "Tue, 10 Nov 2026 05:12:00 +0000",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Milan Mazurek dřív hulákal na cizince. Teď ho Svobodní vezou do Prahy jako hvězdu",
+      "url": "https://hlidacipes.org/svobodni-narazili-s-prodejem-listku-na-akci-s-milanem-mazurkem-kvuli-extremismu/",
+      "source": "https://hlidacipes.org/feed/",
+      "snippet": "PROFIL. Mnozí fanoušci slovenského europoslance Milana Mazurka by svého oblíbence na pár let starých fotkách a záběrech dost možná ani nepoznali. S holou hlavou, viditelně pár kily navíc a zeleným tričkem Kotlebovy extremistické strany vyháněl romské „asociály“ (Mazurkův vlastní pojem) z vlaků pod T",
+      "published": "Tue, 10 Nov 2026 05:30:08 +0000",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Jede se na výlet. Parta se stará o děti z ubytoven - Reportér Magazín",
+      "url": "https://reportermagazin.cz/114323/jede-se-na-vylet-parta-se-stara-o-deti-z-ubytoven/",
+      "source": "Reportér Magazín",
+      "snippet": "Jede se na výlet. Parta se stará o děti z ubytoven Reportér Magazín",
+      "published": "Tue, 10 Nov 2026 05:11:04 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Byla jsem pro ně ta Romka a často mě přehlíželi, líčí končící ředitelka muzea - iDNES.cz",
+      "url": "https://www.idnes.cz/brno/zpravy/jana-horvathova-reditelka-muzeum-romske-kultury-rezignace.A261109_983845_brno-zpravy_zubr?zdroj=dx-poutaniHP_hp",
+      "source": "iDNES.cz",
+      "snippet": "Byla jsem pro ně ta Romka a často mě přehlíželi, líčí končící ředitelka muzea iDNES.cz",
+      "published": "Mon, 09 Nov 2026 16:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě - Britské listy",
+      "url": "https://www.blisty.cz/art/137337-izrael-netanjahu-vyzyva-k-jednote-bez-arabu-aktiviste-krajni-pravice-poradaji-pochod-v-arabsko-zidovskem-meste.html",
+      "source": "Britské listy",
+      "snippet": "Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě Britské listy",
+      "published": "Mon, 09 Nov 2026 23:10:42 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Dostupné bydlení v Ústeckém kraji brzdí nejistá pravidla podpory - Ústecký deník",
+      "url": "https://ustecky.denik.cz/podnikani/dostupne-bydleni-v-usteckem-kraji-brzdi-nejista-pravidla-podpory/",
+      "source": "Ústecký deník",
+      "snippet": "Dostupné bydlení v Ústeckém kraji brzdí nejistá pravidla podpory Ústecký deník",
+      "published": "Mon, 09 Nov 2026 16:14:02 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Klaudia Dudová: Na ubytovnách to není život - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/video/klaudia-dudova-na-ubytovnach-to-neni-zivot-93582",
+      "source": "ČT24",
+      "snippet": "Klaudia Dudová: Na ubytovnách to není život ČT24",
+      "published": "Sat, 07 Nov 2026 08:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Tendr na rekonstrukci cest na hřbitově v Brně byl diskriminační, rozhodl úřad a dal magistrátu pokutu - Brňan",
+      "url": "https://www.brnan.cz/udalosti/tendr-na-rekonstrukci-cest-na-hrbitove-v-brne-byl-diskriminacni-rozhodl-urad-a-dal-magistratu-pokutu",
+      "source": "Brňan",
+      "snippet": "Tendr na rekonstrukci cest na hřbitově v Brně byl diskriminační, rozhodl úřad a dal magistrátu pokutu Brňan",
+      "published": "Tue, 10 Nov 2026 05:56:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Sport nemá pohlaví, ani stranický dres - ParlamentniListy.cz",
+      "url": "https://www.parlamentnilisty.cz/profily/clanek.aspx?id=148020",
+      "source": "ParlamentniListy.cz",
+      "snippet": "Sport nemá pohlaví, ani stranický dres ParlamentniListy.cz",
+      "published": "Tue, 10 Nov 2026 05:25:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Pozor na BLISSFULIFY: za plavky posílá něco jiného - Blesk.cz",
+      "url": "https://www.blesk.cz/clanek/zpravy-ombudsman-blesku/852299/manzel-chtel-danu-potesit-pred-dovolenou-ale-misto-plavek-prisel-hadr-e-shop-penize-vratit-nechce.html",
+      "source": "Blesk.cz",
+      "snippet": "Pozor na BLISSFULIFY: za plavky posílá něco jiného Blesk.cz",
+      "published": "Tue, 10 Nov 2026 04:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Mnozí senioři doplatili na rozdělení Československa. Kvůli úředním pravidlům nemohli získat příspěvek ani v jedné zemi - České důchody",
+      "url": "https://ceskeduchody.cz/finance/mnozi-seniori-doplatili-na-rozdeleni-ceskoslovenska-kvuli-urednim-pravidlum-nemohli-ziskat-prispevek-ani-v-jedne-zemi",
+      "source": "České důchody",
+      "snippet": "Mnozí senioři doplatili na rozdělení Československa. Kvůli úředním pravidlům nemohli získat příspěvek ani v jedné zemi České důchody",
+      "published": "Tue, 10 Nov 2026 06:09:40 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
+    {
+      "title": "Manžel chtěl Danu potěšit před dovolenou, ale... Místo plavek přišel hadr! E-shop peníze vrátit nechce - Blesk.cz",
+      "url": "https://www.blesk.cz/galerie/zpravy-ombudsman-blesku/1508767/manzel-chtel-danu-potesit-pred-dovolenou-ale-misto-plavek-prisel-hadr-e-shop-penize-vratit-nechce?foto=0",
+      "source": "Blesk.cz",
+      "snippet": "Manžel chtěl Danu potěšit před dovolenou, ale... Místo plavek přišel hadr! E-shop peníze vrátit nechce Blesk.cz",
+      "published": "Tue, 10 Nov 2026 04:27:19 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-10T07:46:49+00:00"
+    },
     {
       "title": "COP31: Světoví lídři musí ukončit vliv fosilního průmyslu na klimatickou politiku",
       "url": "https://amnesty.cz/cop31-svetovi-lidri-musi-ukoncit-vliv-fosilniho-prumyslu-na-klimatickou-politiku/",
@@ -75,15 +183,6 @@
       "source": "https://www.e15.cz/rss",
       "snippet": "Příspěvek na bydlení nahradila tzv. superdávka, která slučuje příspěvek na bydlení, přídavek na dítě, příspěvek na živobytí a doplatek na bydlení. Jako samostatná dávka už tedy příspěvek na bydlení neexistuje. Pro výpočet využijte kalkulačku superdávky.",
       "published": "Mon, 09 Nov 2026 11:45:00 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Často mě přehlíželi, byla jsem pro ně ta Romka. Ředitelka o konci v muzeu i šikaně - iDNES.cz",
-      "url": "https://www.idnes.cz/brno/zpravy/jana-horvathova-reditelka-muzeum-romske-kultury-rezignace.A261109_983845_brno-zpravy_zubr",
-      "source": "iDNES.cz",
-      "snippet": "Často mě přehlíželi, byla jsem pro ně ta Romka. Ředitelka o konci v muzeu i šikaně iDNES.cz",
-      "published": "Mon, 09 Nov 2026 16:00:00 GMT",
       "lang": "cs",
       "collected_utc": "2026-11-10T03:52:26+00:00"
     },
