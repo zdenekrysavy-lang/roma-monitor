@@ -1,722 +1,595 @@
-# Kandidáti — 2026-11-09T07:46:38+00:00 (187 položek)
+# Kandidáti — 2026-11-10T03:49:20+00:00 (162 položek)
 
-_Zdroje: Google News 154 · GDELT 0 (rate_limited) · feedy 22 · watch 4_
+_Zdroje: Google News 176 · GDELT 127 (ok) · feedy 21 · watch 4_
 
-1. **Na košickej škole môžu študenti maturovať aj z rómskeho jazyka - Roma Television** — Roma Television [sk]
-   https://romatv.sk/slovensko/na-ko%C5%A1ickej-%C5%A1kole-m%C3%B4%C5%BEu-%C5%A1tudenti-maturova%C5%A5-aj-z-r%C3%B3mskeho-jazyka/1401193
-   Na košickej škole môžu študenti maturovať aj z rómskeho jazyka Roma Television
+1. **Medi** — https://rroma.org/feed/ [en]
+   https://rroma.org/medi/?utm_source=rss&utm_medium=rss&utm_campaign=medi
+   Medi, a popular pop-folk artist in Bulgaria, is a mentor on ‘The Voice of Bulgaria’ and is known for writing […]
 
-2. **Útok v centre Krakova si vyžiadal šesť obetí, zranených je ďalších 16 - Roma Television** — Roma Television [sk]
-   https://romatv.sk/zahrani%C4%8Die/%C3%BAtok-v-centre-krakova-si-vy%C5%BEiadal-%C5%A1es%C5%A5-obet%C3%AD-zranen%C3%BDch-je-%C4%8Fal%C5%A1%C3%ADch-16/1401194
-   Útok v centre Krakova si vyžiadal šesť obetí, zranených je ďalších 16 Roma Television
+2. **Discrimination** — https://rroma.org/feed/ [en]
+   https://rroma.org/discrimination-7/?utm_source=rss&utm_medium=rss&utm_campaign=discrimination-7
+   A group of friends, including a woman and her sister, were denied entry to a club despite having a reservation […]
 
-3. **Situácia s Rómami z osád v okolí Popradu a Kežmarku je dlhodobo náročná - Postoj** — Postoj [sk]
-   https://www.postoj.sk/202905/situacia-s-romami-z-osad-v-okoli-popradu-a-kezmarku-je-dlhodobo-narocna
-   Situácia s Rómami z osád v okolí Popradu a Kežmarku je dlhodobo náročná Postoj
+3. **Segregation** — https://rroma.org/feed/ [en]
+   https://rroma.org/segregation/?utm_source=rss&utm_medium=rss&utm_campaign=segregation
+   Dr. Ioan Cristian Irimescu discusses the ongoing segregation of Roma students in Romanian schools, highlighting their placement in separate classes […]
 
-4. **Dotácie na rómske rádio skončili v britskej schránke, projekt u osadníka - fotogaléria 9 - Aktuality** — Aktuality [sk]
-   https://www.aktuality.sk/foto/pxw1n3k/dotacie-na-romske-radio-skoncili-v-britskej-schranke-projekt-u-osadnika/9/detail/
-   Dotácie na rómske rádio skončili v britskej schránke, projekt u osadníka - fotogaléria 9 Aktuality
+4. **ELLAN PASS** — https://rroma.org/feed/ [en]
+   https://rroma.org/ellan-pass/?utm_source=rss&utm_medium=rss&utm_campaign=ellan-pass
+   The Panhellenic Confederation of Roma (ELLAN PASSE) has undergone a significant leadership change with the election of young Roma scientist […]
 
-5. **Rómska osada: Najnovšie správy - tnlive.sk** — tnlive.sk [sk]
-   https://tnlive.sk/domace/tema/20989-romska-osada/strana-3
-   Rómska osada: Najnovšie správy tnlive.sk
+5. **Vote Buying?** — https://rroma.org/feed/ [en]
+   https://rroma.org/vote-buying-4/?utm_source=rss&utm_medium=rss&utm_campaign=vote-buying-4
+   Tsvetelin Kanchev, chairman of the “EuroRoma” party, claims that the buying of votes among the Roma community is becoming less […]
 
-6. **Sok generála Goliana si postavil pyšný zrub: Po vojne ale minister Čatloš nemal ani na cigarety - Plus 7 Dní** — Plus 7 Dní [sk]
-   https://plus7dni.pluska.sk/zazracny-svet/sok-generala-goliana-si-postavil-pysny-zrub-po-vojne-ale-minister-catlos-nemal-ani-na-cigarety/2
-   Sok generála Goliana si postavil pyšný zrub: Po vojne ale minister Čatloš nemal ani na cigarety Plus 7 Dní
+6. **V Kokave otvoria stacionár, pomôže seniorom i zdravotne znevýhodneným - Roma Television** — Roma Television [sk]
+   https://romatv.sk/slovensko/v-kokave-otvoria-stacion%C3%A1r-pom%C3%B4%C5%BEe-seniorom-i-zdravotne-znev%C3%BDhodnen%C3%BDm/1401196
+   V Kokave otvoria stacionár, pomôže seniorom i zdravotne znevýhodneným Roma Television
 
-7. **Santa Maria Maggiore restores the Salus Populi Romani chapel: closed for 90 days and works lasting 18 months - infovaticana** — infovaticana [en]
-   https://infovaticana.com/en/2026/11/08/santa-maria-maggiore-restores-the-salus-populi-romani-chapel-closed-for-90-days-and-works-for-18-months/
-   Santa Maria Maggiore restores the Salus Populi Romani chapel: closed for 90 days and works lasting 18 months infovaticana
+7. **Rómsky futbalista Reis, ktorý trénoval s Messim, mieri na Slovensko - Roma Television** — Roma Television [sk]
+   https://romatv.sk/zaujimavosti/r%C3%B3msky-futbalista-reis-ktor%C3%BD-tr%C3%A9noval-s-messim-mieri-na-slovensko/1401195
+   Rómsky futbalista Reis, ktorý trénoval s Messim, mieri na Slovensko Roma Television
 
-8. **Ukrainian Authors to Unveil New Books in 2026: From Skovoroda’s Philosophy to Contemporary Drama and Novels - 112.ua** — 112.ua [en]
-   https://112.ua/en/novi-knizki-ukrainskih-avtoriv-2026-roku-filosofia-skovorodi-dramaturgia-vorozbit-i-sucasni-romani-196637
-   Ukrainian Authors to Unveil New Books in 2026: From Skovoroda’s Philosophy to Contemporary Drama and Novels 112.ua
+8. **Progresívci na východe Uspeli len dvaja Rómovia, bývalý novinár a praktizujúca kresťanka. Prečo ostatní nevyhrali? - Postoj** — Postoj [sk]
+   https://www.postoj.sk/202968/dvaja-romovia-byvaly-novinar-aj-praktizujuca-krestanka-treba-zacat-skor-aist-od-dveri-kdveram-odkazuju
+   Progresívci na východe Uspeli len dvaja Rómovia, bývalý novinár a praktizujúca kresťanka. Prečo ostatní nevyhrali? Postoj
 
-9. **Élet+Stílus: Gáspár Virág: Nem engedtek be minket egy pesti szórakozóhelyre, mert romák vagyunk - | hvg.hu** — | hvg.hu [hu]
-   https://hvg.hu/elet/20261108_gaspar-virag-nem-engedtek-be-egy-pesti-szorakozohelyre-mert-romak-vagyunk
-   Élet+Stílus: Gáspár Virág: Nem engedtek be minket egy pesti szórakozóhelyre, mert romák vagyunk | hvg.hu
+9. **V Jarovniciach študenti opravujú unimobunku. Rómske deti im pri tom pomáhajú - týždeň** — týždeň [sk]
+   https://www.tyzden.sk/reportaze/140874/v-jarovniciach-studenti-opravuju-unimobunku-romske-deti-im-pri-tom-pomahaju/
+   V Jarovniciach študenti opravujú unimobunku. Rómske deti im pri tom pomáhajú týždeň
 
-10. **Ősi cigány horoszkóp előrejelzései novemberre - SzamoldKi.hu** — SzamoldKi.hu [hu]
-   https://szamoldki.hu/hu/hirek/osi-cigany-horoszkop-elorejelzesei-novemberre
-   Ősi cigány horoszkóp előrejelzései novemberre SzamoldKi.hu
+10. **Žijú v blate, bez elektriny a kanalizácie. Mesto sľubuje zmenu, obyvatelia však zostávajú skeptickí - tnlive.sk** — tnlive.sk [sk]
+   https://tnlive.sk/domace/clanok/1062067-ziju-v-blate-bez-elektriny-a-kanalizacie-mesto-slubuje-zmenu-obyvatelia-vsak-zostavaju-skepticki
+   Žijú v blate, bez elektriny a kanalizácie. Mesto sľubuje zmenu, obyvatelia však zostávajú skeptickí tnlive.sk
 
-11. **Zemplén Rally: hatalmas baleset és bajnokhirdetés - | minap.hu** — | minap.hu [hu]
-   https://minap.hu/sport/2026/11/08/zemplen-rally-hatalmas-baleset-es-bajnokhirdetes
-   Zemplén Rally: hatalmas baleset és bajnokhirdetés | minap.hu
+11. **Pri Prešove prvýkrát zasadalo 45 poslancov: O čom rokoval rómsky parlament? - Nový Čas** — Nový Čas [sk]
+   https://www.cas.sk/gal/spravy/pri-presove-prvykrat-zasadalo-45-poslancov-o-com-rokoval-romsky-parlament?itm_modul=top_article_gallery&itm_brand=novycas&itm_template=article&itm_area=gallery_link
+   Pri Prešove prvýkrát zasadalo 45 poslancov: O čom rokoval rómsky parlament? Nový Čas
 
-12. **Javult a romák helyzete az EU-ban, de továbbra is jelentős kihívások vannak - savariaforum.hu** — savariaforum.hu [hu]
-   https://www.savariaforum.hu/rovat/javult-a-romak-helyzete-az-eu-ban-de-tovabbra-is-jelentos-kihivasok-vannak
-   Javult a romák helyzete az EU-ban, de továbbra is jelentős kihívások vannak savariaforum.hu
+12. **Kauza predvolebných plagátov SPD pokračuje - TERAZ.sk** — TERAZ.sk [sk]
+   https://www.teraz.sk/najnovsie/kauza-predvolebnych-plagatov-spd-pokra/1006171-clanok.html
+   Kauza predvolebných plagátov SPD pokračuje TERAZ.sk
 
-13. **Gáspár Evelint és húgát kidobták egy budapesti klubból - nlc** — nlc [hu]
-   https://nlc.hu/sztarok/20261108/gaspar-evelin-es-virag-kitiltas-szorakozohely/dgnqf10
-   Gáspár Evelint és húgát kidobták egy budapesti klubból nlc
+13. **Restoration to begin on important chapel of Marian basilica in Rome - EWTN News** — EWTN News [en]
+   https://www.ewtnnews.com/vatican/restoration-to-begin-on-pauline-chapel-in-basilica-of-mary-major-in-rome
+   Restoration to begin on important chapel of Marian basilica in Rome EWTN News
 
-14. **Gáspár Virág: Azért nem engedtek be egy pesti klubba minket, mert romák vagyunk - Szeretlek Magyarország** — Szeretlek Magyarország [hu]
-   https://www.szeretlekmagyarorszag.hu/sztarvilag/gaspar-virag-dune-bar-diszkriminacio-belepes/
-   Gáspár Virág: Azért nem engedtek be egy pesti klubba minket, mert romák vagyunk Szeretlek Magyarország
+14. **Appia Day promotes the Via Appia heritage in the Castelli Romani - inITALY** — inITALY [en]
+   https://www.initaly.it/en/articolo/appia-day-rilancia-ai-castelli-romani-la-valorizzazione-della-via-appia-42278
+   Appia Day promotes the Via Appia heritage in the Castelli Romani inITALY
 
-15. **Szemtanú állítja, ő is hallotta, hogy ezt mondták Gáspár Virágnak és Evelinnek a szórakozóhely előtt: "Cigány vagy és nem mehetsz be" - Hírstart** — Hírstart [hu]
-   https://www.hirstart.hu/hk/20261108_szemtanu_allitja_o_is_hallotta_hogy_ezt_mondtak_gaspar_viragnak_es_evelinnek_a_szorakozohely_elott_cigany_vagy_es_nem_mehetsz_be
-   Szemtanú állítja, ő is hallotta, hogy ezt mondták Gáspár Virágnak és Evelinnek a szórakozóhely előtt: "Cigány vagy és nem mehetsz be" Hírstart
+15. **LindaAnn LoSchiavo (@greenwichvillagepoet) - Substack** — Substack [en]
+   https://substack.com/@greenwichvillagepoet/note/c-382797948
+   LindaAnn LoSchiavo (@greenwichvillagepoet) Substack
 
-16. **Szemtanú állítja, ő is hallotta, hogy ezt mondták Gáspár Virágnak és Evelinnek a szórakozóhely előtt: „Cigány vagy és nem mehetsz be” - Blikk** — Blikk [hu]
-   https://www.blikk.hu/sztarvilag/hazai-sztarok/gaspar-evelin-virag-dune-szorakozohely/7b7ptg2
-   Szemtanú állítja, ő is hallotta, hogy ezt mondták Gáspár Virágnak és Evelinnek a szórakozóhely előtt: „Cigány vagy és nem mehetsz be” Blikk
+16. **Ireland to face questions from UN member states on human rights record - The National Women's Council of Ireland** — The National Women's Council of Ireland [en]
+   http://www.nwci.ie/learn/press_release/ireland_to_face_questions_from_un_member_states_on_human_rights_record
+   Ireland to face questions from UN member states on human rights record The National Women's Council of Ireland
 
-17. **Gáspár Virág szerint a származása miatt nem engedték be egy budapesti szórakozóhelyre - hajdupress.hu** — hajdupress.hu [hu]
-   https://hajdupress.hu/cikk/gaspar-virag-szerint-a-szarmazasa-miatt-nem-engedtek-be-egy-budapesti-szorakozohelyre
-   Gáspár Virág szerint a származása miatt nem engedték be egy budapesti szórakozóhelyre hajdupress.hu
+17. **VI. Országos Cigány Néptánc- és Népzenei Verseny - tanchaz.hu** — tanchaz.hu [hu]
+   https://www.tanchaz.hu/hu/hirek/hirek-2026/vi-orszagos-cigany-neptanc-es-nepzenei-verseny
+   VI. Országos Cigány Néptánc- és Népzenei Verseny tanchaz.hu
 
-18. **Botrányba fulladt a buli: Gáspár Evelint és Virágot emiatt dobták ki a budapesti szórakozóhelyről - BorsOnline** — BorsOnline [hu]
-   https://borsonline.origo.hu/magyar-sztarhirek/2026/11/gaspar-evelin-virag-budapesti-klub-botrany
-   Botrányba fulladt a buli: Gáspár Evelint és Virágot emiatt dobták ki a budapesti szórakozóhelyről BorsOnline
+18. **Szeged365 Family, ez aztán a különleges találkozás! Az ország első cigány éttermének tulajdonosa főzött az ÁGOTA Közösség gyermekeinek – Szegedi hírek - Szeged365** — Szeged365 [hu]
+   https://szeged365.hu/2026/11/09/szeged365-family-ez-aztan-a-kulonleges-talalkozas-az-orszag-elso-cigany-ettermenek-tulajdonosa-fozott-az-agota-kozosseg-gyermekeinek/
+   Szeged365 Family, ez aztán a különleges találkozás! Az ország első cigány éttermének tulajdonosa főzött az ÁGOTA Közösség gyermekeinek – Szegedi hírek Szeged365
 
-19. **A Gáspár lányokat nem engedték be bulizni egy szórakozóhelyre a származásuk miatt - IPOLYINFO** — IPOLYINFO [hu]
-   https://www.ipolyinfo.com/2026/11/08/a-gaspar-lanyokat-nem-engedtek-be-bulizni-egy-szorakozohelyre-a-szarmazasuk-miatt/
-   A Gáspár lányokat nem engedték be bulizni egy szórakozóhelyre a származásuk miatt IPOLYINFO
+19. **„A cigány anyanyelvemet elővettem, mert ők ezt értik” – így boldogult Gáspár Győző az Ázsia Expresszben - BorsOnline** — BorsOnline [hu]
+   https://borsonline.origo.hu/magyar-sztarhirek/2026/11/azsia-expresszben-gaspar-gyozo-erkezese
+   „A cigány anyanyelvemet elővettem, mert ők ezt értik” – így boldogult Gáspár Győző az Ázsia Expresszben BorsOnline
 
-20. **Gáspár Virág: Nem engedtek be minket egy pesti szórakozóhelyre, mert romák vagyunk - Hirnavigator** — Hirnavigator [hu]
-   https://hirnavigator.hu/hir/10994429-gaspar-virag-nem-engedtek-be-minket-egy-pesti-szorakozohelyre-mert-romak-vagyunk
-   Gáspár Virág: Nem engedtek be minket egy pesti szórakozóhelyre, mert romák vagyunk Hirnavigator
+20. **Bolti lopásból rablás - csokit lopott, majd félrelökte a bolti dolgozót egy 18 éves cigány Balassagyarmaton - Hírstart** — Hírstart [hu]
+   https://www.hirstart.hu/hk/20261109_bolti_lopasbol_rablas_-_csokit_lopott_majd_felrelokte_a_bolti_dolgozot_egy_18_eves_cigany_balassagyarmaton
+   Bolti lopásból rablás - csokit lopott, majd félrelökte a bolti dolgozót egy 18 éves cigány Balassagyarmaton Hírstart
 
-21. **Gáspár Virág szerint azért nem engedték be őket egy budapesti klubba, mert romák - Hirnavigator** — Hirnavigator [hu]
-   https://hirnavigator.hu/hir/10995044-gaspar-virag-szerint-azert-nem-engedtek-be-oket-egy-budapesti-klubba-mert-romak
-   Gáspár Virág szerint azért nem engedték be őket egy budapesti klubba, mert romák Hirnavigator
+21. **Vicc: Az országúton két autó frontálisan ütközik. Az egyikben cigányok… - Bikuci.hu** — Bikuci.hu [hu]
+   https://www.bikuci.hu/vicc-az-orszaguton-ket-auto-frontalisan-utkozik-az-egyikben-ciganyok/
+   Vicc: Az országúton két autó frontálisan ütközik. Az egyikben cigányok… Bikuci.hu
 
-22. **Alina Șerban, prima regizoare romă premiată la Veneția, lansează mesaj privind copilul vulnerabil - www.goldring.ro** — www.goldring.ro [ro]
-   https://www.goldring.ro/ro/news/alina-serban-prima-regizoare-roma-premiata-la-venetia-lanseaza-mesaj-privind-copilul-vulnerabil
-   Alina Șerban, prima regizoare romă premiată la Veneția, lansează mesaj privind copilul vulnerabil www.goldring.ro
+22. **Polițiștii au descins în palatele romilor din Ivești. Au ridicat mașini de lux în valoare de 2,8 milioane de euro - Stirile ProTV** — Stirile ProTV [ro]
+   https://stirileprotv.ro/stiri/actualitate/perchezitii-la-25-de-palate-ale-romilor-din-galati-politistii-au-ridicat-masini-de-lux-aur-si-sute-de-mii-de-lei.html
+   Polițiștii au descins în palatele romilor din Ivești. Au ridicat mașini de lux în valoare de 2,8 milioane de euro Stirile ProTV
 
-23. **Oltenia multietnică – 08.11.2026 - tvr-craiova.ro** — tvr-craiova.ro [ro]
-   https://tvr-craiova.ro/emisiuni-tvr-craiova/oltenia-multietnica-08-11-2026/
-   Oltenia multietnică – 08.11.2026 tvr-craiova.ro
+23. **Video - Polițiștii au descins în palatele romilor din Ivești. Au ridicat mașini de lux în valoare de 2,8 milioane de euro - Stirile ProTV** — Stirile ProTV [ro]
+   https://stirileprotv.ro/video/play/politistii-au-descins-in-palatele-romilor-din-ivesti-au-ridicat-masini-de-lux-in-valoare-de-28-milioane-de-euro/
+   Video - Polițiștii au descins în palatele romilor din Ivești. Au ridicat mașini de lux în valoare de 2,8 milioane de euro Stirile ProTV
 
-24. **Un nou succes internațional pentru Cristian Mungiu: „Fjord” a câștigat Premiul Publicului la Jakarta World… - Mediafax** — Mediafax [ro]
-   https://www.mediafax.ro/life-entertaiment/un-nou-succes-international-pentru-cristian-mungiu-fjord-a-castigat-premiul-publicului-la-jakarta-world-cinema-23839556/amp
-   Un nou succes internațional pentru Cristian Mungiu: „Fjord” a câștigat Premiul Publicului la Jakarta World… Mediafax
+24. **Video - Un adevărat salon auto de lux a fost ridicat din curțile palatelor romilor din comuna Ivești, județul Galați - Stirile ProTV** — Stirile ProTV [ro]
+   https://stirileprotv.ro/video/play/un-adevarat-salon-auto-de-lux-a-fost-ridicat-din-curtile-palatelor-romilor-din-comuna-ivesti-judetul-galati/
+   Video - Un adevărat salon auto de lux a fost ridicat din curțile palatelor romilor din comuna Ivești, județul Galați Stirile ProTV
 
-25. **Cineastul Cristian Mungiu va participa la American Film Market. România, desemnată prima țară de interes - Mediafax** — Mediafax [ro]
-   https://www.mediafax.ro/stirile-zilei/cineastul-cristian-mungiu-va-participa-la-american-film-market-romania-desemnata-prima-tara-de-interes-23839205/amp
-   Cineastul Cristian Mungiu va participa la American Film Market. România, desemnată prima țară de interes Mediafax
-
-26. **Șeful diplomației italiene a fost ținta unui atac informatic. „Datele mele personale sunt difuzate pe dark... - Digi24** — Digi24 [ro]
-   https://www.digi24.ro/stiri/externe/seful-diplomatiei-italiene-a-fost-tinta-unui-atac-informatic-datele-mele-personale-sunt-difuzate-pe-dark-web-4026117
-   Șeful diplomației italiene a fost ținta unui atac informatic. „Datele mele personale sunt difuzate pe dark... Digi24
-
-27. **Ana Leu: Nimeni nu o să te salveze - Eu contez la Les Films de Cannes à Bucarest, 2026 - LiterNet** — LiterNet [ro]
-   https://agenda.liternet.ro/articol/31968/Ana-Leu/Nimeni-nu-o-sa-te-salveze-Eu-contez-la-Les-Films-de-Cannes-a-Bucarest-2026.html
-   Ana Leu: Nimeni nu o să te salveze - Eu contez la Les Films de Cannes à Bucarest, 2026 LiterNet
-
-28. **Roma: Un bărbat în vârstă de 30 de ani a fost rănit într-un accident de motocicletă-ambulanță în apropiere de Aurelio. - Agenzia Nova** — Agenzia Nova [ro]
-   https://www.agenzianova.com/ro/news/Accident-la-Roma-%C3%AEntre-o-motociclet%C4%83-%C8%99i-o-ambulan%C8%9B%C4%83-la-Aurelio--un-b%C4%83rbat-de-30-de-ani-a-fost-r%C4%83nit/
-   Roma: Un bărbat în vârstă de 30 de ani a fost rănit într-un accident de motocicletă-ambulanță în apropiere de Aurelio. Agenzia Nova
-
-29. **The founder of the Russian movement “Male State,” Vladislav Pozdniakov, denies involvement in the false bomb alerts that disrupted European air traffic - Informat.ro** — Informat.ro [ro]
-   https://informat.ro/en/international/founder-of-male-state-denies-involvement-in-false-bomb-alerts-147257
-   The founder of the Russian movement “Male State,” Vladislav Pozdniakov, denies involvement in the false bomb alerts that disrupted European air traffic Informat.ro
-
-30. **VIDEO Descinderi la palatele romilor din Ivești: 35 de mașini de lux, în valoare de 2,8 milioane de euro, ridicate - Antidotul** — Antidotul [ro]
-   https://www.antidotul.ro/social-stiri-locale/video-descinderi-la-palatele-romilor-din-ivesti-35-de-masini-de-lux-in-valoare-de-28-milioane-de-euro-ridicate/11/2026
-   VIDEO Descinderi la palatele romilor din Ivești: 35 de mașini de lux, în valoare de 2,8 milioane de euro, ridicate Antidotul
-
-31. **VIDEO: Din familia de romi vătraşi, la medicină. Povestea dr. Ioan Cristian Irimescu, la DC News şi Ştiri Diaspora - DCNews** — DCNews [ro]
-   https://www.dcnews.ro/video/sa-fie-intre-ei-marturie-despre-cum-justificau-autoritatile-segregarea-copiilor-romi-in-scolile-din-romania_145206.html
-   VIDEO: Din familia de romi vătraşi, la medicină. Povestea dr. Ioan Cristian Irimescu, la DC News şi Ştiri Diaspora DCNews
-
-32. **A fi rom este o piedică? Oana Rusu, actriţă şi solistă la Teatrul Naţional de Operetă, la... - StiriDiaspora** — StiriDiaspora [ro]
-   https://www.stiridiaspora.ro/a-fi-rom-este-o-piedica-oana-rusu-actrita-si-solista-la-teatrul-national-de-opereta-la-interviurile-dc-news-si-stiri-diaspora_545094.html
-   A fi rom este o piedică? Oana Rusu, actriţă şi solistă la Teatrul Naţional de Operetă, la... StiriDiaspora
-
-33. **Video: CIL Blaj - Metalurgistul Cugir 2-0 (2-0), în derby „de Alba” | Echipa din „Mica Romă” a pus capăt crizei, Vitinha - la primul eșec - Ziarul Unirea** — Ziarul Unirea [ro]
-   https://ziarulunirea.ro/cil-blaj-metalurgistul-cugir-2-0-2-0-in-derby-de-alba-echipa-din-mica-roma-a-pus-capat-crizei-vitinha-la-primul-esec-1018002/
-   Video: CIL Blaj - Metalurgistul Cugir 2-0 (2-0), în derby „de Alba” | Echipa din „Mica Romă” a pus capăt crizei, Vitinha - la primul eșec Ziarul Unirea
-
-34. **Pictoriţa orădeană Stela Marta expune la Roma, în cadrul expoziţiei internaţionale „No Filter” - bihon** — bihon [ro]
-   https://www.bihon.ro/stirile-judetului-bihor/cultura/pictorita-oradeana-stela-marta-expune-la-roma-in-cadrul-expozitiei-internationale-no-filter-5455404/
-   Pictoriţa orădeană Stela Marta expune la Roma, în cadrul expoziţiei internaţionale „No Filter” bihon
-
-35. **Un celebru youtuber american, în bucătărie la Pata Rât. Școat de condițiile în care trăiesc romii de la periferia Clujului - Ziua de Cluj** — Ziua de Cluj [ro]
-   https://www.zcj.ro/life-and-style/un-celebru-youtuber-american-in-bucatarie-la-pata-rat-scoat-de-conditiile-in-care-traiesc-romii-de-la-periferia-clujului--303997.html
-   Un celebru youtuber american, în bucătărie la Pata Rât. Școat de condițiile în care trăiesc romii de la periferia Clujului Ziua de Cluj
-
-36. **E jale mare, fraților, în comuna Ivești, județul Galați! Mascații au descins astăzi în vestitele palate cu turnulețe și au ridicat cu platforma nu mai puțin de 35 de autoturisme de lux, printre care și un Lamborghini Urus, în valoare totală de 2,8 milioane de e - Alternativa - Jurnalism fara mogul** — Alternativa - Jurnalism fara mogul [ro]
-   https://www.faramogul.ro/e-jale-mare-fratilor-in-comuna-ivesti-judetul-galati-mascatii-au-descins-astazi-in-vestitele-palate-cu-turnulete-si-au-ridicat-cu-platforma-nu-mai-putin-de-35-de-autoturisme-de-lux-printre-care-s/amp/
-   E jale mare, fraților, în comuna Ivești, județul Galați! Mascații au descins astăzi în vestitele palate cu turnulețe și au ridicat cu platforma nu mai puțin de 35 de autoturisme de lux, printre care ș
-
-37. **APEL. Fără casă înainte de iarnă: o mamă și cei patru copii ai ei au pierdut tot după un incendiu devastator - PortalSM** — PortalSM [ro]
-   https://portalsm.ro/2026/11/apel-fara-casa-inainte-de-iarna-o-mama-si-cei/
-   APEL. Fără casă înainte de iarnă: o mamă și cei patru copii ai ei au pierdut tot după un incendiu devastator PortalSM
-
-38. **En primera persona - Combatir el antigitanismo | Escuchar - RTVE.es** — RTVE.es [es]
-   https://www.rtve.es/play/audios/en-primera-persona/primera-persona-combatir-antigitanismo/17305101/
-   En primera persona - Combatir el antigitanismo | Escuchar RTVE.es
-
-39. **Galería de imágenes | Concierto de Ánimas 2026 - Hermandad de los Gitanos** — Hermandad de los Gitanos [es]
-   https://www.hermandaddelosgitanos.com/galeria-de-imagenes-concierto-de-animas-2026/
-   Galería de imágenes | Concierto de Ánimas 2026 Hermandad de los Gitanos
-
-40. **La Gitana del Albaicín de Mariano Benlliure se adjudica por 15.000 € en Segre - ARS Magazine** — ARS Magazine [es]
-   https://arsmagazine.com/la-gitana-del-albaicin-de-mariano-benlliure-se-adjudica-por-15-000-e-en-segre/
-   La Gitana del Albaicín de Mariano Benlliure se adjudica por 15.000 € en Segre ARS Magazine
-
-41. **La ruta por el Jerez gitano rescata la historia de las mujeres que dejaron huella en la ciudad - Diario de Jerez** — Diario de Jerez [es]
-   https://www.diariodejerez.es/que-hacer/ruta-jerez-gitano-rescata-historia_0_2008435838.html
-   La ruta por el Jerez gitano rescata la historia de las mujeres que dejaron huella en la ciudad Diario de Jerez
-
-42. **La Fundación Secretariado Gitano logra 192 contratos laborales en el Campo de Gibraltar durante 2025 - Portal de Cádiz** — Portal de Cádiz [es]
-   https://www.portaldecadiz.com/provinciacadiz/174353-la-fundacion-secretariado-gitano-logra-192-contratos-laborales-en-el-campo-de-gibraltar-durante-2025
-   La Fundación Secretariado Gitano logra 192 contratos laborales en el Campo de Gibraltar durante 2025 Portal de Cádiz
-
-43. **Priscilla la Gitana y Pollo ¿realmente terminaron su relación? - Multimedios** — Multimedios [es]
-   https://www.multimediostv.com/programas/aficionados/mejores-momentos/priscilla-gitana-pollo-realmente-terminaron-relacion.html
-   Priscilla la Gitana y Pollo ¿realmente terminaron su relación? Multimedios
-
-44. **María Terremoto, una insignia de oro en el nombre del padre y del espíritu del llanto - ExpoFlamenco** — ExpoFlamenco [es]
-   https://expoflamenco.com/revista/maria-terremoto-una-insignia-de-oro-en-el-nombre-del-padre-y-del-espiritu-del-llanto/
-   María Terremoto, una insignia de oro en el nombre del padre y del espíritu del llanto ExpoFlamenco
-
-45. **Tomatito, premio “Leyenda del Flamenco” - RTVE.es** — RTVE.es [es]
-   https://www.rtve.es/play/audios/gitanos-en-radio-5/gitanos-radio-5-tomatito-premio-leyenda-del-flamenco-08-11-26/17303021/
-   Tomatito, premio “Leyenda del Flamenco” RTVE.es
-
-46. **Fuego al orden colonial: racismos, cuidados, trabajo y derechos - CNT Valladolid** — CNT Valladolid [es]
-   https://www.cntvalladolid.es/fuego-al-orden-colonial-racismos-cuidados-trabajo-y-derechos/amp/
-   Fuego al orden colonial: racismos, cuidados, trabajo y derechos CNT Valladolid
-
-47. **La FAPA reclama aulas sin acoso racista - Onda Regional de Murcia | ORM** — Onda Regional de Murcia | ORM [es]
-   https://www.orm.es/informativos/la-fapa-apuesta-por-aulas-sin-acoso-racista/
-   La FAPA reclama aulas sin acoso racista Onda Regional de Murcia | ORM
-
-48. **Caso 7 tigres Circo Rey Gitano: anuncian manifestación para este lunes - Publinews** — Publinews [es]
-   https://www.publinews.gt/noticias/2026/11/09/caso-7-tigres-circo-rey-gitano-anuncian-manifestacion-para-este-lunes/
-   Caso 7 tigres Circo Rey Gitano: anuncian manifestación para este lunes Publinews
-
-49. **La Pintura de los días por Mila Soyyo. Hoy, «Los últimos golpes de la banda del Peugeot» - La Paseata** — La Paseata [es]
-   https://lapaseata.net/2026/11/08/hoy-los-ultimos-golpes-de-la-banda-del-peugeot/
-   La Pintura de los días por Mila Soyyo. Hoy, «Los últimos golpes de la banda del Peugeot» La Paseata
-
-50. **Detienen a seis personas por una discusión por un balonazo en el marítimo - 7TeleValencia** — 7TeleValencia [es]
-   https://7televalencia.com/detienen-a-seis-personas-por-una-discusion-por-un-balonazo-en-el-maritimo/
-   Detienen a seis personas por una discusión por un balonazo en el marítimo 7TeleValencia
-
-51. **Piscinas, lavanda y libertad para moverse: así es el hogar africano que aguarda a los siete tigres retirados de un circo en Guatemala - Infobae** — Infobae [es]
-   https://www.infobae.com/guatemala/2026/11/09/piscinas-lavanda-y-libertad-para-moverse-asi-es-el-hogar-africano-que-aguarda-a-los-siete-tigres-retirados-de-un-circo-en-guatemala/?outputType=amp-type
-   Piscinas, lavanda y libertad para moverse: así es el hogar africano que aguarda a los siete tigres retirados de un circo en Guatemala Infobae
-
-52. **El régimen cubano incorporó solo 20 buses reparados para aliviar el déficit de transporte colectivo en La Habana - Infobae** — Infobae [es]
-   https://www.infobae.com/cuba/2026/11/09/el-regimen-cubano-incorporo-solo-20-buses-reparados-para-aliviar-el-deficit-de-transporte-colectivo-en-la-habana/
-   El régimen cubano incorporó solo 20 buses reparados para aliviar el déficit de transporte colectivo en La Habana Infobae
-
-53. **Mia Dio viaja a Miss Universe con la promesa de darlo todo por Cuba - Infobae** — Infobae [es]
-   https://www.infobae.com/cuba/2026/11/09/mia-dio-viaja-a-miss-universe-con-la-promesa-de-darlo-todo-por-cuba/
-   Mia Dio viaja a Miss Universe con la promesa de darlo todo por Cuba Infobae
-
-54. **Cámara de Comercio exige que la reconstrucción tras el terremoto en Panamá sea una prioridad inmediata - Infobae** — Infobae [es]
-   https://www.infobae.com/panama/2026/11/09/camara-de-comercio-exige-que-la-reconstruccion-tras-el-terremoto-en-panama-sea-una-prioridad-inmediata/
-   Cámara de Comercio exige que la reconstrucción tras el terremoto en Panamá sea una prioridad inmediata Infobae
-
-55. **Museo de Historia de Cataluña cierra su 30 aniversario con música y memoria - Foro3D** — Foro3D [es]
-   https://foro3d.com/2026/noviembre/museo-de-historia-de-cataluna-cierra-su-30-aniversario-con-musica-y-me.html
-   Museo de Historia de Cataluña cierra su 30 aniversario con música y memoria Foro3D
-
-56. **« Une offre d’accueil et d’habitat adaptée » : ces villes de Maine-et-Loire vont créer des aires pour les gens du voyage - Ouest-France** — Ouest-France [fr]
-   https://www.ouest-france.fr/pays-de-la-loire/maine-et-loire/une-offre-daccueil-et-dhabitat-adaptee-ces-villes-de-maine-et-loire-vont-creer-des-aires-pour-les-gens-du-voyage-cd6c22ac-da06-11f1-a04a-6776b5256c5b
-   « Une offre d’accueil et d’habitat adaptée » : ces villes de Maine-et-Loire vont créer des aires pour les gens du voyage Ouest-France
-
-57. **À Toulouse, Jean-Luc Moudenc veut durcir le ton face aux installations illicites des gens du voyage - L'Opinion Indépendante** — L'Opinion Indépendante [fr]
-   https://lopinion.com/articles/politique/34991_toulouse-jean-luc-moudenc-installations-illicites-gens-voyage
-   À Toulouse, Jean-Luc Moudenc veut durcir le ton face aux installations illicites des gens du voyage L'Opinion Indépendante
-
-58. **La Rochelle : Jean-Luc Algay menace de fermer le port de pêche à la suite de l’installation de gens du voyage sur le site - Sud Ouest** — Sud Ouest [fr]
-   https://www.sudouest.fr/charente-maritime/la-rochelle/la-rochelle-jean-luc-algay-menace-de-fermer-le-port-de-peche-a-la-suite-de-l-installation-de-gens-du-voyage-sur-le-site-30220617.php
-   La Rochelle : Jean-Luc Algay menace de fermer le port de pêche à la suite de l’installation de gens du voyage sur le site Sud Ouest
-
-59. **Savoie. Le département compte trois aires de passage pour les gens du voyage mais aucune de 4 hectares - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
-   https://www.ledauphine.com/societe/2026/11/08/le-departement-compte-trois-aires-de-passage-pour-les-gens-du-voyage-mais-aucune-de-4-hectares
-   Savoie. Le département compte trois aires de passage pour les gens du voyage mais aucune de 4 hectares Le Dauphiné Libéré
-
-60. **Gens du voyage : quels sont ces nouveaux terrains prévus sur les communes du bassin d’Aix-les-Bains - L'Essor Savoyard** — L'Essor Savoyard [fr]
-   https://lessorsavoyard.lemessager.fr/649360040/article/2026-11-07/gens-du-voyage-quels-sont-ces-nouveaux-terrains-prevus-sur-les-communes-du
-   Gens du voyage : quels sont ces nouveaux terrains prévus sur les communes du bassin d’Aix-les-Bains L'Essor Savoyard
-
-61. **« Ils ont travaillé en catimini » : ils s’opposent à l’aire d’accueil des gens du voyage sur leur commune - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
-   https://www.ledauphine.com/societe/2026/11/08/ils-ont-travaille-en-catimini-ils-s-opposent-a-l-aire-d-accueil-des-gens-du-voyage-sur-leur-commune
-   « Ils ont travaillé en catimini » : ils s’opposent à l’aire d’accueil des gens du voyage sur leur commune Le Dauphiné Libéré
-
-62. **« C’est la double peine » : pour les maires de Grand Lac, la création compliquée de terrains pour les gens du voyage - Le Pays Gessien** — Le Pays Gessien [fr]
-   https://www.latribunerepublicaine.fr/649360048/article/2026-11-08/c-est-la-double-peine-pour-les-maires-de-grand-lac-la-creation-compliquee-de
-   « C’est la double peine » : pour les maires de Grand Lac, la création compliquée de terrains pour les gens du voyage Le Pays Gessien
-
-63. **Oise : il s’oppose à l’installation de gens du voyage sur son terrain, est violemment frappé… puis condamné - Police & Réalités** — Police & Réalités [fr]
-   https://policeetrealites.com/2026/11/07/oise-il-soppose-a-linstallation-de-gens-du-voyage-sur-son-terrain-est-violemment-frappe-puis-condamne/
-   Oise : il s’oppose à l’installation de gens du voyage sur son terrain, est violemment frappé… puis condamné Police & Réalités
-
-64. **« Nos pertes financières sont considérables » : à Osny, les caravanes de gens du voyage reviennent sur le parking de L’Oseraie : les commerçants sont à bout - Police & Réalités** — Police & Réalités [fr]
-   https://policeetrealites.com/2026/11/07/nos-pertes-financieres-sont-considerables-a-osny-les-caravanes-de-gens-du-voyage-reviennent-sur-le-parking-de-loseraie-les-commercants-sont-a-bout/
-   « Nos pertes financières sont considérables » : à Osny, les caravanes de gens du voyage reviennent sur le parking de L’Oseraie : les commerçants sont à bout Police & Réalités
-
-65. **Bildergalerie: Fachtag zu Antiziganismus und Erinnerungskultur in Holzminden - Täglicher Anzeiger Holzminden** — Täglicher Anzeiger Holzminden [de]
-   https://www.tah.de/lokales/holzminden-lk/holzminden/bildergalerie-fachtag-zu-antiziganismus-und-erinnerungskultur-in-holzminden-GXKSLY46UBDTBPLKVU4YRKAFMQ.html
-   Bildergalerie: Fachtag zu Antiziganismus und Erinnerungskultur in Holzminden Täglicher Anzeiger Holzminden
-
-66. **Вместо полиция: Вандали и родители ще чистят ромските гробища в Кюстендил - БНР Новини** — БНР Новини [bg]
-   https://bnrnews.bg/horizont/post/555146/vmesto-politsiya-vandali-i-roditeli-shte-chistyat-romskite-grobishta-v-kyustendil
-   Вместо полиция: Вандали и родители ще чистят ромските гробища в Кюстендил БНР Новини
-
-67. **Президентските избори и ромските проблеми: Има ли още купен вот, дискриминация и сегрегация? - БНТ Новини** — БНТ Новини [bg]
-   https://bntnews.bg/news/prezidentskite-izbori-i-romskite-problemi-ima-li-oshte-kupen-vot-diskriminaciya-i-segregaciya-1420999news.html
-   Президентските избори и ромските проблеми: Има ли още купен вот, дискриминация и сегрегация? БНТ Новини
-
-68. **Коментари за Защо смесените райони почти не гласуваха на президентските избори? - Страница 2 - Dnes.bg** — Dnes.bg [bg]
-   https://www.dnes.bg/a/604-izbori-2026/739948-zashto-smesenite-rayoni-pochti-ne-glasuvaha-na-prezidentskite-izbori/comments?cp=2
-   Коментари за Защо смесените райони почти не гласуваха на президентските избори? - Страница 2 Dnes.bg
-
-69. **Румъния вдигна изтребители и хеликоптери заради цели край Змийския остров - БНР Новини** — БНР Новини [bg]
-   https://bnrnews.bg/horizont/post/555141/rumaniya-vdigna-iztrebiteli-i-helikopteri-zaradi-tseli-kray-zmiyskiya-ostrov
-   Румъния вдигна изтребители и хеликоптери заради цели край Змийския остров БНР Новини
-
-70. **Две версии на писмо с един и същи номер и дата: Кой текст е изпратен до Европейската комисия на 2 ноември? - БНТ Новини** — БНТ Новини [bg]
-   https://bntnews.bg/news/dve-versii-na-pismo-s-edin-i-sashti-nomer-i-data-koi-tekst-e-izpraten-do-evropeiskata-komisiya-na-2-noemvri-1421141news.html
-   Две версии на писмо с един и същи номер и дата: Кой текст е изпратен до Европейската комисия на 2 ноември? БНТ Новини
-
-71. **Не спират руските масирани удари по украинската енергийна система - БНР Новини** — БНР Новини [bg]
-   https://bnrnews.bg/horizont/post/555145/ne-spirat-ruskite-masirani-udari-po-ukrainskata-energiyna-sistema
-   Не спират руските масирани удари по украинската енергийна система БНР Новини
-
-72. **От протест към власт: Ще промени ли новото управление курса на Сърбия към Европейския съюз, Русия и Китай - БНТ Новини** — БНТ Новини [bg]
-   https://bntnews.bg/news/ot-protest-kam-vlast-shte-promeni-li-novoto-upravlenie-kursa-na-sarbiya-kam-evropeiskiya-sayuz-rusiya-i-kitai-1420998news.html
-   От протест към власт: Ще промени ли новото управление курса на Сърбия към Европейския съюз, Русия и Китай БНТ Новини
-
-73. **Ученици с вандалски прояви и техните родители ще чистят ромските гробища в Кюстендил - Fakti.bg** — Fakti.bg [bg]
-   https://fakti.bg/bulgaria/1098809-uchenici-s-vandalski-proavi-i-tehnite-roditeli-shte-chistat-romskite-grobishta-v-kustendil
-   Ученици с вандалски прояви и техните родители ще чистят ромските гробища в Кюстендил Fakti.bg
-
-74. **Αλλαγή σελίδας στην ΕΛΛΑΝ ΠΑΣΣΕ: Νέος πρόεδρος ο νεαρός επιστήμονας Ρομά Παναγιώτης Χαρίτος - Η Εφημερίδα των Συντακτών** — Η Εφημερίδα των Συντακτών [el]
-   https://www.efsyn.gr/ellada/1505619/allagi-selidas-stin-ellan-passe-neos-proedros-o-nearos-epistimonas-roma-panagiotis-haritos/
-   Αλλαγή σελίδας στην ΕΛΛΑΝ ΠΑΣΣΕ: Νέος πρόεδρος ο νεαρός επιστήμονας Ρομά Παναγιώτης Χαρίτος Η Εφημερίδα των Συντακτών
-
-75. **Δήμος Μεγαρέων: 4 προσλήψεις με συμβάσεις έως 12 μήνες - Aftodioikisi.gr** — Aftodioikisi.gr [el]
-   https://www.aftodioikisi.gr/proslipseis/dimos-megareon-4-proslipseis-me-symvaseis-eos-12-mines/
-   Δήμος Μεγαρέων: 4 προσλήψεις με συμβάσεις έως 12 μήνες Aftodioikisi.gr
-
-76. **Αννίτα Πάνια: Μήπως να γράψει ο γιος μου τώρα τραγούδια στην Άννα; - News.gr** — News.gr [el]
-   https://www.news.gr/media/article/4247228/annita-pania-mipos-na-grapsi-o-gios-mou-tora-tragoudia-stin-anna.html
-   Αννίτα Πάνια: Μήπως να γράψει ο γιος μου τώρα τραγούδια στην Άννα; News.gr
-
-77. **Αννίτα Πάνια για Βίσση & Καρβέλα: "Μήπως να γράψει ο γιος μου τώρα τραγούδια στην Άννα;" - ANT1 TV** — ANT1 TV [el]
-   https://www.antenna.gr/lifestyle-showbiz/amp/celebrity/article/57/z3vb6nbbse76pidjagob8ae7/annita-pania-gia-bissi--karbela--mipos-na-grapsei-o-gios-moy-tora-tragoydia-stin-anna-
-   Αννίτα Πάνια για Βίσση & Καρβέλα: "Μήπως να γράψει ο γιος μου τώρα τραγούδια στην Άννα;" ANT1 TV
-
-78. **Συνελήφθη 15χρονος που οδηγούσε χωρίς δίπλωμα με 187 χλμ στην Εθνική Οδό - ProtoThema** — ProtoThema [el]
-   https://www.protothema.gr/greece/article/1907535/sunelifthi-15hronos-pou-odigouse-horis-diploma-me-187-hlm-stin-ethniki-odo/AMP/
-   Συνελήφθη 15χρονος που οδηγούσε χωρίς δίπλωμα με 187 χλμ στην Εθνική Οδό ProtoThema
-
-79. **«Όλα στο τέρμα» το νέο album των BAiLDSA (video) - Kozani.tv** — Kozani.tv [el]
-   https://kozani.tv/index.php/132921-%CF%8C%CE%BB%CE%B1-%CF%83%CF%84%CE%BF-%CF%84%CE%AD%CF%81%CE%BC%CE%B1-%CF%84%CE%BF-%CE%BD%CE%AD%CE%BF-album-%CF%84%CF%89%CE%BD-baildsa.html
-   «Όλα στο τέρμα» το νέο album των BAiLDSA (video) Kozani.tv
-
-80. **Νέος πρόεδρος της ΕΛΛΑΝ ΠΑΣΣΕ ο νεαρός επιστήμονας Ρομά από τη Θεσσαλία, Παναγιώτης Χαρίτος - larissanet.gr** — larissanet.gr [el]
-   https://www.larissanet.gr/2026/11/09/neos-proedros-tis-ellan-passe-o-nearos-epistimonas-roma-apo-ti-thessalia-panagiotis-charitos/
-   Νέος πρόεδρος της ΕΛΛΑΝ ΠΑΣΣΕ ο νεαρός επιστήμονας Ρομά από τη Θεσσαλία, Παναγιώτης Χαρίτος larissanet.gr
-
-81. **Πάτρα: Πέντε γυναίκες Ρομά μπήκαν σε γνωστό καφέ και άρπαξαν ότι μπορούσαν - dete.gr** — dete.gr [el]
-   https://dete.gr/patra-pente-gynaikes-roma-bikan-se-gnosto-kafe-kai-arpaxan-oti-borousan/
-   Πάτρα: Πέντε γυναίκες Ρομά μπήκαν σε γνωστό καφέ και άρπαξαν ότι μπορούσαν dete.gr
-
-82. **Πάτρα: 5 Αθίγγανες άρπαξαν προϊόντα από γνωστό καφέ και εξαφανίστηκαν τρέχοντας - newsfire.gr** — newsfire.gr [el]
-   https://newsfire.gr/koinonia/patra-5-athinganes-arpaxan-proionta-apo-gnosto-kafe-kai-exafanistikan-trechontas/
-   Πάτρα: 5 Αθίγγανες άρπαξαν προϊόντα από γνωστό καφέ και εξαφανίστηκαν τρέχοντας newsfire.gr
-
-83. **15χρονος Αθίγγανος οδηγούσε με 187 χλμ./ώρα στην Εθνική! - newsfire.gr** — newsfire.gr [el]
-   https://newsfire.gr/koinonia/15chronos-athinganos-odigouse-me-187-chlm-ora-stin-ethniki/
-   15χρονος Αθίγγανος οδηγούσε με 187 χλμ./ώρα στην Εθνική! newsfire.gr
-
-84. **Κηφισιά: 15χρονος οδηγούσε με 187 χλμ./ώρα στην Εθνική Οδό - Συνελήφθη και η μητέρα του - Cretaone** — Cretaone [el]
-   https://cretaone.gr/kifisia-15chronos-odigoyse-me-187-chlm-ora-stin-ethniki-odo-synelifthi-kai-i-mitera-toy/
-   Κηφισιά: 15χρονος οδηγούσε με 187 χλμ./ώρα στην Εθνική Οδό - Συνελήφθη και η μητέρα του Cretaone
-
-85. **Επίθεση σε νεαρό από ομάδα ατόμων στην Πάτρα – Μία σύλληψη - Cretaone** — Cretaone [el]
-   https://cretaone.gr/epithesi-se-nearo-apo-omada-atomon-stin-patra-mia-syllipsi/
-   Επίθεση σε νεαρό από ομάδα ατόμων στην Πάτρα – Μία σύλληψη Cretaone
-
-86. **Don Vasyl - tak żyje król Cyganów - Nowości Dziennik Toruński** — Nowości Dziennik Toruński [pl]
-   https://nowosci.com.pl/oto-dom-dona-vasyla-w-ciechocinku-w-srodku-czerwone-sciany-i-zlocone-meble/gh/c9p2-29503627
+25. **„O comedie la care se plânge”. Sergiu Prodan lansează filmul „2438 KM sau Toate drumurile duc la Roma” - Moldova 1** — Moldova 1 [ro]
+   https://moldova1.md/p/89812/-o-comedie-la-care-se-plange--sergiu-prodan-lanseaza-filmul-2438-km-sau-toate-drumurile-duc-la-roma-
+   „O comedie la care se plânge”. Sergiu Prodan lansează filmul „2438 KM sau Toate drumurile duc la Roma” Moldova 1
+
+26. **VIDEO: Filmul „2438 KM sau Toate drumurile duc la Roma”, în cinematografe din 3 decembrie; „Este o comedie despre migrație” - Jurnal.md** — Jurnal.md [ro]
+   https://www.jurnal.md/ro/news/9658053b4ce5881a/video-filmul-2438-km-sau-toate-drumurile-duc-la-roma-din-3-decembrie-in-cinematografe-este-o-comedie-despre-migratie.html
+   VIDEO: Filmul „2438 KM sau Toate drumurile duc la Roma”, în cinematografe din 3 decembrie; „Este o comedie despre migrație” Jurnal.md
+
+27. **Rușine la Roma. Pachete Caritas pentru săraci, furate și vândute pe trotuar la Porta Portese - Mediafax** — Mediafax [ro]
+   https://www.mediafax.ro/it/rusine-la-roma-pachete-caritas-pentru-saraci-furate-si-vandute-pe-trotuar-la-porta-portese-5099/amp
+   Rușine la Roma. Pachete Caritas pentru săraci, furate și vândute pe trotuar la Porta Portese Mediafax
+
+28. **Video - Elevii din Iași devin detectivi la Clubul de Criminalistică. Învață să analizeze probe și să rezolve cazuri ca în filme - Stirile ProTV** — Stirile ProTV [ro]
+   https://stirileprotv.ro/video/play/elevii-din-iasi-devin-detectivi-la-clubul-de-criminalistica-invata-sa-analizeze-probe-si-sa-rezolve-cazuri-ca-in-filme/
+   Video - Elevii din Iași devin detectivi la Clubul de Criminalistică. Învață să analizeze probe și să rezolve cazuri ca în filme Stirile ProTV
+
+29. **Primar amenințat de romii care nu vor să plătească taxa de gunoi. ”Am ajuns să fim batjocoriți în toate felurile!” - Radio Infinit** — Radio Infinit [ro]
+   https://radioinfinit.ro/2026/11/09/primar-amenintat-de-romii-care-nu-vor-sa-plateasca-taxa-de-gunoi-am-ajuns-sa-fim-batjocoriti-in-toate-felurile/
+   Primar amenințat de romii care nu vor să plătească taxa de gunoi. ”Am ajuns să fim batjocoriți în toate felurile!” Radio Infinit
+
+30. **Sfatul Oanei Rusu pentru copiii romi care se confruntă cu prejudecăți. Ce trebuie să facă autoritățile / video - DCNews** — DCNews [ro]
+   https://www.dcnews.ro/video/sfatul-oanei-rusu-pentru-copiii-romi-care-se-confrunta-cu-prejudecati-ce-trebuie-sa-faca-autoritatile-video_145272.html
+   Sfatul Oanei Rusu pentru copiii romi care se confruntă cu prejudecăți. Ce trebuie să facă autoritățile / video DCNews
+
+31. **Cei patru etnici romi din Bosanci care au cărat gunoiul cu drapelul României pe post de ”roabă” amendați cu câte 10.000 de lei fiecare - Suceava News Online** — Suceava News Online [ro]
+   https://www.svnews.ro/cei-patru-etnici-romi-din-bosanci-care-au-carat-gunoiul-cu-drapelul-romaniei-pe-post-de-roaba-amendati-cu-cate-10-000-de-lei-fiecare/572581/
+   Cei patru etnici romi din Bosanci care au cărat gunoiul cu drapelul României pe post de ”roabă” amendați cu câte 10.000 de lei fiecare Suceava News Online
+
+32. **Amenințări la adresa unui primar din Gorj. ”Am ajuns să fim batjocoriți în toate felurile!” - GorjOnline** — GorjOnline [ro]
+   https://www.gorjonline.ro/amenintari-la-adresa-unui-primar-din-gorj-am-ajuns-sa-fim-batjocoriti-in-toate-felurile/
+   Amenințări la adresa unui primar din Gorj. ”Am ajuns să fim batjocoriți în toate felurile!” GorjOnline
+
+33. **ROMI PENTRU ROMÂNIA / 08 11. 2026 - B1TV** — B1TV [ro]
+   https://www.b1tv.ro/record/romi-pentru-romania-271
+   ROMI PENTRU ROMÂNIA / 08 11. 2026 B1TV
+
+34. **"Suleyman de Gilau s-a insurat"! Iata ce nunta ca in filme a facut Dragos Rosianu, printul romilor din Gilau VIDEO - Kanal D Romania** — Kanal D Romania [ro]
+   https://www.kanald.ro/suleyman-de-gilau-s-a-insurat-iata-ce-nunta-ca-in-filme-a-facut-dragos-rosianu-printul-romilor-din-gilau-video-16669218
+   "Suleyman de Gilau s-a insurat"! Iata ce nunta ca in filme a facut Dragos Rosianu, printul romilor din Gilau VIDEO Kanal D Romania
+
+35. **Amorebieta dará visibilidad a la realidad de las mujeres gitanas a través del cine - El Correo** — El Correo [es]
+   https://www.elcorreo.com/bizkaia/duranguesado/amorebieta-dara-visibilidad-realidad-mujeres-gitanas-traves-20261109140403-nt.html
+   Amorebieta dará visibilidad a la realidad de las mujeres gitanas a través del cine El Correo
+
+36. **"La mañana de Andalucía": ‘Naquerar’, película que recupera una obra clave en la lucha del pueblo gitano - Canal Sur** — Canal Sur [es]
+   https://www.canalsur.es/radio/naquerar-pelicula-recupera-obra-clave_1_1451098.html
+   "La mañana de Andalucía": ‘Naquerar’, película que recupera una obra clave en la lucha del pueblo gitano Canal Sur
+
+37. **Exposición 'Colita. Mundo gitano. 1962-1963' en el Fotofest Poblenou 2026 - El Periódico** — El Periódico [es]
+   https://www.elperiodico.com/es/fotos/ocio-y-cultura/exposicion-colita-mundo-gitano-1962-1963-fotofest-poblenou-2026-fotos-136243246
+   Exposición 'Colita. Mundo gitano. 1962-1963' en el Fotofest Poblenou 2026 El Periódico
+
+38. **'La mirada romaní' explora en Sevilla las confluencias entre cultura gitana y cine europeo - Infobae** — Infobae [es]
+   https://www.infobae.com/espana/agencias/2026/11/09/la-mirada-romani-explora-en-sevilla-las-confluencias-entre-cultura-gitana-y-cine-europeo/?outputType=amp-type
+   'La mirada romaní' explora en Sevilla las confluencias entre cultura gitana y cine europeo Infobae
+
+39. **Alba Flores (40 años), actriz española, sobre el racismo que sufrió en su infancia: "Fue corriendo para decir a las demás ‘tirad el plato, que estamos comiendo comida de gitanos’" - Vozpopuli** — Vozpopuli [es]
+   https://www.vozpopuli.com/amp/dolcevita/alba-flores-40-anos-actriz-espanola-sobre-el-racismo-que-sufrio-en-su-infancia-fue-corriendo-para-decir-a-las-demas-tirad-el-plato-que-estamos-comiendo-comida-de-gitanos.html
+   Alba Flores (40 años), actriz española, sobre el racismo que sufrió en su infancia: "Fue corriendo para decir a las demás ‘tirad el plato, que estamos comiendo comida de gitanos’" Vozpopuli
+
+40. **Maldición Gitana lleva la fiesta al límite y desafía los sentidos sobre el escenario - elciudadano.com** — elciudadano.com [es]
+   https://www.elciudadano.com/arte-cultura/maldicion-gitana-lleva-la-fiesta-al-limite-y-desafia-los-sentidos-sobre-el-escenario/11/09/
+   Maldición Gitana lleva la fiesta al límite y desafía los sentidos sobre el escenario elciudadano.com
+
+41. **El Teatro Ramos Carrión prepara un fin de semana muy especial en Zamora: tres espectáculos y una actividad gratuita - ZA49** — ZA49 [es]
+   https://www.za49.es/zamora/teatro-ramos-carrion-zamora-miguel-lago-jamming-gitana-nueva-york_1_6084004.html
+   El Teatro Ramos Carrión prepara un fin de semana muy especial en Zamora: tres espectáculos y una actividad gratuita ZA49
+
+42. **Palo Alto recupera el primer trabajo de la fotógrafa Colita en su exposición 'Món Gitano 1962-1963' - El Periódico** — El Periódico [es]
+   https://amp.elperiodico.com/es/ocio-y-cultura/20261109/palo-alto-primer-trabajo-colita-mon-gitano-136246763
+   Palo Alto recupera el primer trabajo de la fotógrafa Colita en su exposición 'Món Gitano 1962-1963' El Periódico
+
+43. **El Teatro Ramos Carrión de Zamora reúne humor y danza con Miguel Lago, Lorena Flores Dance y Jamming - Zamora News** — Zamora News [es]
+   https://www.zamoranews.com/articulo/agenda/teatro-ramos-carrion-zamora-reune-humor-danza-miguel-lago-lorena-flores-dance-jamming/20261109091535422517.html
+   El Teatro Ramos Carrión de Zamora reúne humor y danza con Miguel Lago, Lorena Flores Dance y Jamming Zamora News
+
+44. **GITANA INSURRECTA | Entre el altar, la alta costura y el poder - Urbano Puebla** — Urbano Puebla [es]
+   https://www.urbanopuebla.com.mx/sociedad/gitana-insurrecta-entre-el-altar-la-alta-costura-y-el-poder/
+   GITANA INSURRECTA | Entre el altar, la alta costura y el poder Urbano Puebla
+
+45. **Fundación Unicaja entrega la recaudación de la exposición 'Y sonó la Música' a la Asociación 'Chavorrillos' y a 'Cotolengo' - Malaga Actualidad** — Malaga Actualidad [es]
+   https://www.malagactualidad.es/teletipos/76492-fundacion-unicaja-entrega-la-recaudacion-de-la-exposicion-y-sono-la-musica-a-la-asociacion-chavorril
+   Fundación Unicaja entrega la recaudación de la exposición 'Y sonó la Música' a la Asociación 'Chavorrillos' y a 'Cotolengo' Malaga Actualidad
+
+46. **Zornotza Aretoa acogerá la proyección de “El regalo” y “Empoderío”, de Lara Izagirre - dotb Durangaldeko Telebista** — dotb Durangaldeko Telebista [es]
+   https://dotb.eus/zornotza-aretoa-acogera-la-proyeccion-de-el-regalo-y-empoderio-de-lara-izagirre/
+   Zornotza Aretoa acogerá la proyección de “El regalo” y “Empoderío”, de Lara Izagirre dotb Durangaldeko Telebista
+
+47. **Continúa la controversia por los siete tigres del Circo Rey Gitano ante opiniones opuestas - La Hora** — La Hora [es]
+   https://lahora.gt/nacionales/hloarca/2026/11/09/continua-la-controversia-por-los-siete-tigres-del-circo-rey-gitano-ante-opiniones-opuestas/
+   Continúa la controversia por los siete tigres del Circo Rey Gitano ante opiniones opuestas La Hora
+
+48. **«Ces gens font leur propre loi» : à Marseille, la colère des riverains d’une ancienne blanchisserie occupée par 25 familles roms - Europe 1** — Europe 1 [fr]
+   https://www.europe1.fr/societe/ces-gens-font-leur-propre-loi-a-marseille-la-colere-des-riverains-dune-ancienne-blanchisserie-occupee-par-25-familles-roms-1138076
+   «Ces gens font leur propre loi» : à Marseille, la colère des riverains d’une ancienne blanchisserie occupée par 25 familles roms Europe 1
+
+49. **Saint-James. Gens du voyage : l'opposition interpelle l'Agglo - lamanchelibre.fr** — lamanchelibre.fr [fr]
+   https://www.lamanchelibre.fr/actualite-1247117-saint-james-gens-du-voyage-l-opposition-interpelle-l-agglo
+   Saint-James. Gens du voyage : l'opposition interpelle l'Agglo lamanchelibre.fr
+
+50. **Roussillon. Gens du voyage : l’association des riverains ne veut rien lâcher - Le Dauphiné Libéré** — Le Dauphiné Libéré [fr]
+   https://www.ledauphine.com/politique/2026/11/09/gens-du-voyage-l-association-des-riverains-ne-veut-rien-lacher
+   Roussillon. Gens du voyage : l’association des riverains ne veut rien lâcher Le Dauphiné Libéré
+
+51. **Ouverture imminente d'une aire de grand passage pour les gens du voyage au Ramier - https://horticulture-abadie-pyrenees.com/** — https://horticulture-abadie-pyrenees.com/ [fr]
+   https://horticulture-abadie-pyrenees.com/pleinsfeux/20260709-5
+   Ouverture imminente d'une aire de grand passage pour les gens du voyage au Ramier https://horticulture-abadie-pyrenees.com/
+
+52. **Antidiskriminierungsgesetze: Kommunale Behörden bleiben ausgenommen - MiGAZIN** — MiGAZIN [de]
+   https://www.migazin.de/2026/11/09/behoerdenschutz-statt-diskriminierungsschutz-bald-auch-im-norden/
+   Antidiskriminierungsgesetze: Kommunale Behörden bleiben ausgenommen MiGAZIN
+
+53. **(S+) Nationalsozialismus: Historiker warnt vor Missbrauch von Gedenkstätten - Spiegel** — Spiegel [de]
+   https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen-a-d789ffd9-1a42-4b04-8c37-a2e75d730f65
+   (S+) Nationalsozialismus: Historiker warnt vor Missbrauch von Gedenkstätten Spiegel
+
+54. **Unrecht und Widerstand - Romani Rose und die Bürgerrechtsbewegung - 3sat - TV-Programm - Prisma** — Prisma [de]
+   https://www.prisma.de/tv-programm/Unrecht-und-Widerstand-Romani-Rose-und-die-Buergerrechtsbewegung,58166265
+   Unrecht und Widerstand - Romani Rose und die Bürgerrechtsbewegung - 3sat - TV-Programm Prisma
+
+55. **“Carne et Ossa”: un documentario racconta l’antica corsa degli zingari di Pacentro - 9Colonne** — 9Colonne [it]
+   https://www.9colonne.it/641849/carne-et-ossa-un-documentario-racconta-l-antica-corsa-degli-zingari-di-pacentro
+   “Carne et Ossa”: un documentario racconta l’antica corsa degli zingari di Pacentro 9Colonne
+
+56. **L’escavatore "proibito" e l’omicidio che rischiò di scatenare una guerra di ’ndrangheta - Telemia** — Telemia [it]
+   https://www.telemia.it/lescavatore-proibito-e-lomicidio-che-rischio-di-scatenare-una-guerra-di-ndrangheta/
+   L’escavatore "proibito" e l’omicidio che rischiò di scatenare una guerra di ’ndrangheta Telemia
+
+57. **Figlia del boss “Tripolino” e compagna del capoclan Abbruzzese: il profilo di Finizia Pepe - Telemia** — Telemia [it]
+   https://www.telemia.it/figlia-del-boss-tripolino-e-compagna-del-capoclan-abbruzzese-il-profilo-di-finizia-pepe/
+   Figlia del boss “Tripolino” e compagna del capoclan Abbruzzese: il profilo di Finizia Pepe Telemia
+
+58. **Безплатни гинекологични прегледи за жени от ромски произход и с ограничен достъп до здравни услуги ще има в област Търговище - БТА** — БТА [bg]
+   https://www.bta.bg/bg/news/bulgaria/regional-news/targovishte/1242823-bezplatni-ginekologichni-pregledi-za-zheni-ot-romski-proizhod-i-s-ogranichen-dos
+   Безплатни гинекологични прегледи за жени от ромски произход и с ограничен достъп до здравни услуги ще има в област Търговище БТА
+
+59. **Безплатни гинекологични прегледи в Търговищко - TargovishteBG.com** — TargovishteBG.com [bg]
+   https://targovishtebg.com/%D1%82%D1%8A%D1%80%D0%B3%D0%BE%D0%B2%D0%B8%D1%89%D0%B5/%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%B5%D0%BE%D0%BF%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B5/%D0%B1%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B8-%D0%B3%D0%B8%D0%BD%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%BD%D0%B8-%D0%BF%D1%80%D0%B5%D0%B3%D0%BB%D0%B5%D0%B4%D0%B8-%D0%B2-%D1%82/
+   Безплатни гинекологични прегледи в Търговищко TargovishteBG.com
+
+60. **Търсят превозвач по автобусната линия Димитровград- Минерални бани - Haskovo Live** — Haskovo Live [bg]
+   https://haskovo.live/tarsyat-prevozvach-po-avtobusnata-liniya-dimitrovgrad-mineralni-bani/
+   Търсят превозвач по автобусната линия Димитровград- Минерални бани Haskovo Live
+
+61. **Въпреки по-високия бюджет, образованието в Македония има проблеми с качеството на преподаване и приобщаването, оценява ЕК. - Слободен печат** — Слободен печат [bg]
+   https://www.slobodenpecat.mk/bg/i-pokraj-povisokiot-budzhet-obrazovanieto-vo-makedonija-ima-problemi-so-kvalitetot-na-nastavata-i-so-inkluzivnosta-ocenuva-ek/
+   Въпреки по-високия бюджет, образованието в Македония има проблеми с качеството на преподаване и приобщаването, оценява ЕК. Слободен печат
+
+62. **Кеворк Кеворкян: Три реплики. И онова зад тях - ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ** — ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ [bg]
+   https://pirinsko.com/kevork-kevorkqn-tri-repliki-i-onova-zad-tqh-194348/
+   Кеворк Кеворкян: Три реплики. И онова зад тях ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ
+
+63. **Οι Ρομά ψήφισαν: Ποιος είναι ο 36χρονος επιστήμονας Παναγιώτης Χαρίτος που εξελέγη πρόεδρος - Flash.gr** — Flash.gr [el]
+   https://www.flash.gr/oi-roma-psifisan-poios-einai-o-36chronos-epistimonas-panagiotis-charitos-poy-exelegi-proedros-1090444
+   Οι Ρομά ψήφισαν: Ποιος είναι ο 36χρονος επιστήμονας Παναγιώτης Χαρίτος που εξελέγη πρόεδρος Flash.gr
+
+64. **Παναγιώτης Χαρίτος: Αναλαμβάνει την προεδρία της Πανελλήνιας Συνομοσπονδίας Ελλήνων Ρομά - Aftodioikisi.gr** — Aftodioikisi.gr [el]
+   https://www.aftodioikisi.gr/koinonia/panagiotis-charitos-analamvanei-tin-proedria-tis-panellinias-synomospondias-ellinon-roma/
+   Παναγιώτης Χαρίτος: Αναλαμβάνει την προεδρία της Πανελλήνιας Συνομοσπονδίας Ελλήνων Ρομά Aftodioikisi.gr
+
+65. **Κλοπή χαλκοσωλήνων στη Ρόδο: Κατηγορείται 20χρονος Ρομά - Η ΡΟΔΙΑΚΗ** — Η ΡΟΔΙΑΚΗ [el]
+   https://www.rodiaki.gr/index.php/article/555480/kloph-xalkoswlhnwn-sth-rodo-kathgoreitai-20xronos-roma
+   Κλοπή χαλκοσωλήνων στη Ρόδο: Κατηγορείται 20χρονος Ρομά Η ΡΟΔΙΑΚΗ
+
+66. **ΕΛΛΑΝ ΠΑΣΣΕ: Ο επιστήμονας Παναγιώτης Χαρίτος στο «τιμόνι» των Ελλήνων Ρομά - AlfaVita** — AlfaVita [el]
+   https://www.alfavita.gr/koinonia/567368_ellan-passe-o-epistimonas-panagiotis-haritos-sto-timoni-ton-ellinon-roma
+   ΕΛΛΑΝ ΠΑΣΣΕ: Ο επιστήμονας Παναγιώτης Χαρίτος στο «τιμόνι» των Ελλήνων Ρομά AlfaVita
+
+67. **Ναύπλιο: Στήριξη των Ρομά μέσω του Κέντρου Κοινότητας - Argolida24** — Argolida24 [el]
+   https://argolida24.gr/argolida/dimos-nayplieon/nafplio-parartima-roma-kentro-koinotitas-koinoniki-entaxi-2026/
+   Ναύπλιο: Στήριξη των Ρομά μέσω του Κέντρου Κοινότητας Argolida24
+
+68. **Ένας Θεσσαλός στο τιμόνι της Πανελλαδικής Συνομοσπονδίας Ρομά - Magnesia News** — Magnesia News [el]
+   https://magnesianews.gr/thessalia/enas-thessalos-sto-timoni-tis-panelladikis-synomospondias-roma.html
+   Ένας Θεσσαλός στο τιμόνι της Πανελλαδικής Συνομοσπονδίας Ρομά Magnesia News
+
+69. **Νέος πρόεδρος της Πανελλαδικής Συνομοσπονδίας Ρομά ο νεαρός επιστήμονας από τη Θεσσαλία, Χαρίτος Παναγιώτης - LamiaNow** — LamiaNow [el]
+   https://lamianow.gr/neos-proedros-tis-panelladikis-synomospondias-roma-o-nearos-epistimonas-apo-ti-thessalia-charitos-panagiotis/
+   Νέος πρόεδρος της Πανελλαδικής Συνομοσπονδίας Ρομά ο νεαρός επιστήμονας από τη Θεσσαλία, Χαρίτος Παναγιώτης LamiaNow
+
+70. **Πάτρα: «Παίζουν» με τη ζωή τους - Ανήλικα Ρομά πέφτουν μπροστά σε διερχόμενα Ι.Χ. - Το «κόλπο» που θέλουν να πετύχουν - dete.gr** — dete.gr [el]
+   https://dete.gr/paizoun-me-ti-zoi-tous/
+   Πάτρα: «Παίζουν» με τη ζωή τους - Ανήλικα Ρομά πέφτουν μπροστά σε διερχόμενα Ι.Χ. - Το «κόλπο» που θέλουν να πετύχουν dete.gr
+
+71. **Σχολείο και Περιφέρεια ενώνουν δυνάμεις στις Αμύκλες για τη φοίτηση των παιδιών Ρομά - ΛΑΚΩΝΙΚΟΣ ΤΥΠΟΣ** — ΛΑΚΩΝΙΚΟΣ ΤΥΠΟΣ [el]
+   https://lakonikos.gr/epikairothta/item/193535-sxoleio-kai-perifereia-enonoun-dynameis-stis-amykles-gia-ti-foitisi-ton-paidion-roma
+   Σχολείο και Περιφέρεια ενώνουν δυνάμεις στις Αμύκλες για τη φοίτηση των παιδιών Ρομά ΛΑΚΩΝΙΚΟΣ ΤΥΠΟΣ
+
+72. **Θεσσαλονίκη: Μαχαίρωσαν 25χρονο Ρομά στην κοιλιά – Αναζητούνται τρεις άνδρες - Pronews.gr** — Pronews.gr [el]
+   https://www.pronews.gr/amyna-asfaleia/esoteriki-asfaleia/thessaloniki-maxairosan-25xrono-roma-stin-koilia-anazitountai-treis-andres/
+   Θεσσαλονίκη: Μαχαίρωσαν 25χρονο Ρομά στην κοιλιά – Αναζητούνται τρεις άνδρες Pronews.gr
+
+73. **Νέος πρόεδρος της ΕΛΛΑΝ ΠΑΣΣΕ ο νεαρός επιστήμονας Ρομά από τη Θεσσαλία, Χαρίτος Παναγιώτης - e-thessalia.gr** — e-thessalia.gr [el]
+   https://e-thessalia.gr/neos-proedros-tis-ellan-passe-o-nearos-epistimonas-roma-apo-ti-thessalia-charitos-panagiotis/amp/
+   Νέος πρόεδρος της ΕΛΛΑΝ ΠΑΣΣΕ ο νεαρός επιστήμονας Ρομά από τη Θεσσαλία, Χαρίτος Παναγιώτης e-thessalia.gr
+
+74. **Πάτρα: Ρομά χτύπησαν νεαρό στα Προσφυγικά - achaianews.gr** — achaianews.gr [el]
+   https://www.achaianews.gr/index.php/%CF%8C%CE%BB%CE%B1-%CF%84%CE%B1-%CE%BD%CE%AD%CE%B1-h/%CF%80%CE%AC%CF%84%CF%81%CE%B1-%CE%B4%CF%85%CF%84-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/235652-ad171cd2
+   Πάτρα: Ρομά χτύπησαν νεαρό στα Προσφυγικά achaianews.gr
+
+75. **Ρόδος: Τέσσερα αυτοκίνητα και χρήματα από επιχειρήσεις αφαίρεσαν τρεις ανήλικοι Ρομά - Η ΡΟΔΙΑΚΗ** — Η ΡΟΔΙΑΚΗ [el]
+   https://www.rodiaki.gr/article/556582
+   Ρόδος: Τέσσερα αυτοκίνητα και χρήματα από επιχειρήσεις αφαίρεσαν τρεις ανήλικοι Ρομά Η ΡΟΔΙΑΚΗ
+
+76. **Władze Spytkowic chętne do kupna „domu andrychowskich Romów” - Radio Andrychów** — Radio Andrychów [pl]
+   https://radioandrychow.pl/wladze-spytkowic-chetne-do-kupna-domu-andrychowskich-romow/
+   Władze Spytkowic chętne do kupna „domu andrychowskich Romów” Radio Andrychów
+
+77. **Oto dom Dona Vasyla w Ciechocinku. W środku czerwone ściany, złocone meble i nie tylko - Nowości Dziennik Toruński** — Nowości Dziennik Toruński [pl]
+   https://nowosci.com.pl/oto-dom-dona-vasyla-w-ciechocinku-w-srodku-czerwone-sciany-zlocone-meble-i-nie-tylko/ar/c9p2-29503627
+   Oto dom Dona Vasyla w Ciechocinku. W środku czerwone ściany, złocone meble i nie tylko Nowości Dziennik Toruński
+
+78. **Don Vasyl - tak żyje król Cyganów - Nowości Dziennik Toruński** — Nowości Dziennik Toruński [pl]
+   https://nowosci.com.pl/oto-dom-dona-vasyla-w-ciechocinku-w-srodku-czerwone-sciany-oraz-zlocone-meble/gh/c9p2-29503627
    Don Vasyl - tak żyje król Cyganów Nowości Dziennik Toruński
 
-87. **Ostatni Cygan w Oświęcimiu - waw4free** — waw4free [pl]
-   https://waw4free.pl/wydarzenie-161498-ostatni-cygan-w-oswiecimiu
-   Ostatni Cygan w Oświęcimiu waw4free
-
-88. **Program tv dla Charlie Chaplin: duch włóczęgi - Pilot WP** — Pilot WP [pl]
-   https://pilot.wp.pl/program-tv/film/charlie-chaplin-duch-wloczegi-98d58726d1af541df3b1e8653bf030bf
-   Program tv dla Charlie Chaplin: duch włóczęgi Pilot WP
-
-89. **Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24** — GP24 [pl]
-   https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-9-11-2026/ar/c9p2-29417133
+79. **Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24** — GP24 [pl]
+   https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla/ar/c9p2-29417133
    Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! GP24
 
-90. **Grób Skrzydlewskich na Wszystkich Świętych zawsze zachwycał. Tegoroczna dekoracja przypomina jedną z poprzednich - Express Ilustrowany** — Express Ilustrowany [pl]
-   https://expressilustrowany.pl/grob-rodziny-skrzydlewskich-na-wszystkich-swietych-zawsze-robil-wrazenie-w-tym-roku-dekoracja-bardzo-przypomina-jedna-z-poprzednich/ar/c1p2-29476311
-   Grób Skrzydlewskich na Wszystkich Świętych zawsze zachwycał. Tegoroczna dekoracja przypomina jedną z poprzednich Express Ilustrowany
+80. **09.11.2026 Monika Malec „Oko, które widzi” - Polskie Radio Lublin** — Polskie Radio Lublin [pl]
+   https://radio.lublin.pl/2026/11/09-11-2026-monika-malec-oko-ktore-widzi/
+   09.11.2026 Monika Malec „Oko, które widzi” Polskie Radio Lublin
 
-91. **Oto dom Dona Vasyla w Ciechocinku. W środku czerwone ściany oraz złocone meble - Nowości Dziennik Toruński** — Nowości Dziennik Toruński [pl]
-   https://nowosci.com.pl/oto-dom-dona-vasyla-w-ciechocinku-w-srodku-czerwone-sciany-oraz-zlocone-meble/ar/c9p2-29503627
-   Oto dom Dona Vasyla w Ciechocinku. W środku czerwone ściany oraz złocone meble Nowości Dziennik Toruński
+81. **Gwiazdy z Łodzi i województwa łódzkiego. Te nazwiska zna cała Polska! Niektóre mogą zaskoczyć - Skierniewice Nasze Miasto** — Skierniewice Nasze Miasto [pl]
+   https://skierniewice.naszemiasto.pl/gwiazdy-z-lodzi-i-wojewodztwa-lodzkiego-te-nazwiska-zna/ar/c1-9619245
+   Gwiazdy z Łodzi i województwa łódzkiego. Te nazwiska zna cała Polska! Niektóre mogą zaskoczyć Skierniewice Nasze Miasto
 
-92. **Grób rodziny Skrzydlewskich na Wszystkich Świętych zawsze robił wrażenie. A teraz? Czy równie zachwyci w tym roku? - Express Ilustrowany** — Express Ilustrowany [pl]
-   https://expressilustrowany.pl/grob-rodziny-skrzydlewskich-na-wszystkich-swietych-zawsze-robil-wrazenie-a-teraz-czy-rownie-zachwyci-w-tym-roku/ar/c1p2-29476311
-   Grób rodziny Skrzydlewskich na Wszystkich Świętych zawsze robił wrażenie. A teraz? Czy równie zachwyci w tym roku? Express Ilustrowany
+82. **Złoto, kryształy i cygańska dusza. Tak wygląda luksusowa rezydencja Dona Vasyla 9.11.2026 - GP24** — GP24 [pl]
+   https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-9-11-2026/gh/c9p2-29417133/2
+   Złoto, kryształy i cygańska dusza. Tak wygląda luksusowa rezydencja Dona Vasyla 9.11.2026 GP24
 
-93. **Program tv dla Ojciec Mateusz 3 , sezon 3, odc. 33 - Pilot WP** — Pilot WP [pl]
-   https://pilot.wp.pl/program-tv/serial/ojciec-mateusz-3-73bf63cacbff824b909d9dc1011a1093
-   Program tv dla Ojciec Mateusz 3 , sezon 3, odc. 33 Pilot WP
+83. **Bajki, które połączyły pokolenia. Seniorzy z Klubu „USTRONIE” odwiedzili przedszkolaków w Strzybodze - Skierniewice Nasze Miasto** — Skierniewice Nasze Miasto [pl]
+   https://skierniewice.naszemiasto.pl/bajki-ktore-polaczyly-pokolenia-seniorzy-z-klubu-ustronie-odwiedzili-przedszkolakow-w-strzybodze/ar/c1p2-29511633
+   Bajki, które połączyły pokolenia. Seniorzy z Klubu „USTRONIE” odwiedzili przedszkolaków w Strzybodze Skierniewice Nasze Miasto
 
-94. **Program tv dla Pokój ze stajnią: Co za cyrk! - Pilot WP** — Pilot WP [pl]
-   https://pilot.wp.pl/program-tv/film/pokoj-ze-stajnia-co-za-cyrk-f8805daa21530d5806c62c516b812978
-   Program tv dla Pokój ze stajnią: Co za cyrk! Pilot WP
+84. **Wyprzedaż GeekBuying 11.11 2026: Nie przegap kuponów do 30 € i darmowych monet G dla wszystkich - xiaomi-miui.gr** — xiaomi-miui.gr [pl]
+   https://pl.xiaomi-miui.gr/geekbuying-11-11-sale-2026-coupons-offers/
+   Wyprzedaż GeekBuying 11.11 2026: Nie przegap kuponów do 30 € i darmowych monet G dla wszystkich xiaomi-miui.gr
 
-95. **Enem 2026: correção da questão de sociologia sobre inclusão social dos ciganos - G1** — G1 [pt]
-   https://g1.globo.com/google/amp/educacao/enem/video/enem-2026-correcao-da-questao-de-sociologia-sobre-inclusao-social-dos-ciganos-15170688.ghtml
-   Enem 2026: correção da questão de sociologia sobre inclusão social dos ciganos G1
+85. **Modernizacja stacji uzdatniania wody w Mysłakowie zgodnie z planem - Skierniewice Nasze Miasto** — Skierniewice Nasze Miasto [pl]
+   https://skierniewice.naszemiasto.pl/modernizacja-stacji-uzdatniania-wody-w-myslakowie-zgodnie-z-planem/ar/c1p2-29512031
+   Modernizacja stacji uzdatniania wody w Mysłakowie zgodnie z planem Skierniewice Nasze Miasto
 
-96. **Ciências Humanas no Enem 2026: prova trouxe terras raras, racismo e ditadura no Brasil - O POVO** — O POVO [pt]
-   https://www.opovo.com.br/noticias/enem/2026/11/08/ciencias-humanas-no-enem-2026-prova-trouxe-terras-raras-racismo-e-ditadura-no-brasil.html
-   Ciências Humanas no Enem 2026: prova trouxe terras raras, racismo e ditadura no Brasil O POVO
+86. **HONOR 700: Nowa seria z ekranem z tyłu - xiaomi-miui.gr** — xiaomi-miui.gr [pl]
+   https://pl.xiaomi-miui.gr/honor-700-series-rear-display-preorders/
+   HONOR 700: Nowa seria z ekranem z tyłu xiaomi-miui.gr
 
-97. **Terras raras no Enem 2026: temas de Humanas - Quero Bolsa** — Quero Bolsa [pt]
-   https://querobolsa.com.br/revista/terras-raras-enem-2026-temas-humanas
-   Terras raras no Enem 2026: temas de Humanas Quero Bolsa
+87. **Kupilam romską lampe a wy zazdrosni (@serniczekwiedensky) - Wykop** — Wykop [pl]
+   https://wykop.pl/wpis/88198971/kupilam-romska-lampe-a-wy-zazdrosni
+   Kupilam romską lampe a wy zazdrosni (@serniczekwiedensky) Wykop
 
-98. **1o Maio Cigano na 4a Regiao (8).jpg - Ministério Público Federal** — Ministério Público Federal [pt]
-   https://www.mpf.mp.br/o-mpf/unidades/prr4/noticias/resolveuid/b8e654701b0e460f9b7e3bc9393ea625
-   1o Maio Cigano na 4a Regiao (8).jpg Ministério Público Federal
+88. **Klapek, piękny cyganie… #raportzpanstwasrodka (@Raffen23) - Wykop** — Wykop [pl]
+   https://wykop.pl/wpis/88212231/klapek-piekny-cyganie-raportzpanstwasrodka
+   Klapek, piękny cyganie… #raportzpanstwasrodka (@Raffen23) Wykop
 
-99. **Baralho cigano: veja as previsões para os 12 signos de 02 a 08 de novembro de 2026 - Jornal Impresso Brasil** — Jornal Impresso Brasil [pt]
-   https://jornalimpressobrasil.com.br/baralho-cigano-veja-as-previsoes-para-os-12-signos-de-02-a-08-de-novembro-de-2026/
-   Baralho cigano: veja as previsões para os 12 signos de 02 a 08 de novembro de 2026 Jornal Impresso Brasil
+89. **ÉVORA: VEREADOR DO CHEGA ACUSA CIGANOS DE ROUBO (VÍDEO) - 24Horas.pt** — 24Horas.pt [pt]
+   https://24horas.pt/noticia/evora-vereador-do-chega-acusa-ciganos-de-roubo-video
+   ÉVORA: VEREADOR DO CHEGA ACUSA CIGANOS DE ROUBO (VÍDEO) 24Horas.pt
 
-100. **10 questões mais difíceis do 1º dia de Enem 2026 têm ECA Digital, inclusão de ciganos e Menino de engenho; você acertaria? - G1** — G1 [pt]
-   https://g1.globo.com/educacao/enem/2026/noticia/2026/11/09/10-questoes-mais-dificeis-do-1o-dia-de-enem-2026.ghtml
-   10 questões mais difíceis do 1º dia de Enem 2026 têm ECA Digital, inclusão de ciganos e Menino de engenho; você acertaria? G1
+90. **Lembra dele? Eterno cigano Igor, Ricardo Macchi faz aparição rara em première - Globo** — Globo [pt]
+   https://revistaquem.globo.com/google/amp/noticias/noticia/2026/11/lembra-dele-eterno-cigano-igor-ricardo-macchi-faz-aparicao-rara-em-premiere.ghtml
+   Lembra dele? Eterno cigano Igor, Ricardo Macchi faz aparição rara em première Globo
 
-101. **Ela deixou carreira internacional para ajudar o pai na fazenda e virou destaque na pecuária - bra1.com.br** — bra1.com.br [pt]
-   https://www.bra1.com.br/agronegocio/id-722593/ela_deixou_carreira_internacional_para_ajudar_o_pai_na_fazenda_e_virou_destaque_na_pecuaria
-   Ela deixou carreira internacional para ajudar o pai na fazenda e virou destaque na pecuária bra1.com.br
+91. **Baralho Cigano aponta semana de oportunidades, mas pede cautela - Terra** — Terra [pt]
+   https://www.terra.com.br/vida-e-estilo/horoscopo/baralho-cigano-aponta-semana-de-oportunidades-mas-pede-cautela,4f3d23b8d207cb0e1f052a507873728bw8ymjjto.html
+   Baralho Cigano aponta semana de oportunidades, mas pede cautela Terra
 
-102. **Professor da UFRN em Caicó tem pesquisa sobre povos ciganos destacada em questão do Enem 2026 - Blog Jair Sampaio** — Blog Jair Sampaio [pt]
-   https://www.jairsampaio.com/professor-da-ufrn-em-caico-tem-pesquisa-sobre-povos-ciganos-destacada-em-questao-do-enem-2026/
-   Professor da UFRN em Caicó tem pesquisa sobre povos ciganos destacada em questão do Enem 2026 Blog Jair Sampaio
+92. **Baralho cigano: veja as previsões para os 12 signos de 09 a 15 de novembro de 2026 - CartaCapital** — CartaCapital [pt]
+   https://www.cartacapital.com.br/astrologia/baralho-cigano-veja-as-previsoes-para-os-12-signos-de-09-a-15-de-novembro-de-2026/
+   Baralho cigano: veja as previsões para os 12 signos de 09 a 15 de novembro de 2026 CartaCapital
 
-103. **Enem 2026 cobra preservação da identidade cultural dos povos ciganos. Veja a questão. - VestibulandoWeb** — VestibulandoWeb [pt]
+93. **AÇÃO COM A COMUNIDADE CIGANA NESTA QUARTA DE MANHÃ - Prefeitura Municipal de Itumbiara** — Prefeitura Municipal de Itumbiara [pt]
+   https://itumbiara.go.gov.br/acao-com-a-comunidade-cigana-nesta-quarta-de-manha/
+   AÇÃO COM A COMUNIDADE CIGANA NESTA QUARTA DE MANHÃ Prefeitura Municipal de Itumbiara
+
+94. **UFG recebe autores quilombolas e ciganos em rodas de conversa gratuitas em Goiânia - O Hoje** — O Hoje [pt]
+   https://ohoje.com/2026/11/09/ufg-recebe-autores-quilombolas-e-ciganos-em-rodas-de-conversa-gratuitas-em-goiania/
+   UFG recebe autores quilombolas e ciganos em rodas de conversa gratuitas em Goiânia O Hoje
+
+95. **Governo de Alagoas entrega a 90ª Creche Cria na Grota do Cigano, em Maceió - REDE BRASIL DE TELEVISÃO** — REDE BRASIL DE TELEVISÃO [pt]
+   https://rbtv.com.br/noticia/29846/governo-de-alagoas-entrega-a-90o-creche-cria-na-grota-do-cigano-em-maceio/amp
+   Governo de Alagoas entrega a 90ª Creche Cria na Grota do Cigano, em Maceió REDE BRASIL DE TELEVISÃO
+
+96. **Baralho cigano: previsões para os signos de 09 a 15 de novembro de 2026 - Tribuna do Sertão** — Tribuna do Sertão [pt]
+   https://www.tribunadosertao.com.br/variedades/2026/11/09/1016958-baralho-cigano-previsoes-para-os-signos-de-09-a-15-de-novembro-de-2026
+   Baralho cigano: previsões para os signos de 09 a 15 de novembro de 2026 Tribuna do Sertão
+
+97. **Taboão da Serra recebe 1ª Feira Mística com shows, dança e atividades de espiritualidade - O Taboanense** — O Taboanense [pt]
+   https://otaboanense.com.br/taboao-da-serra-recebe-1a-feira-mistica-com-shows-danca-e-atividades-de-espiritualidade/
+   Taboão da Serra recebe 1ª Feira Mística com shows, dança e atividades de espiritualidade O Taboanense
+
+98. **Previsão do Baralho Cigano 10/11/2026: veja as cartas para o amor, trabalho, dinheiro e caminhos dos 12 signos - O Maringá** — O Maringá [pt]
+   https://omaringa.com.br/coluna/diversidades/previsao-do-baralho-cigano-10-11-2026-veja-as-cartas-para-o-amor-trabalho-dinheiro-e-caminhos-dos-12-signos/
+   Previsão do Baralho Cigano 10/11/2026: veja as cartas para o amor, trabalho, dinheiro e caminhos dos 12 signos O Maringá
+
+99. **Uma oportunidade inesperada pode mudar sua vida financeira, revela o Baralho Cigano - Signo.net** — Signo.net [pt]
+   https://signo.net.br/uma-oportunidade-inesperada-pode-mudar-sua-vida-financeira-revela-o-baralho-cigano/
+   Uma oportunidade inesperada pode mudar sua vida financeira, revela o Baralho Cigano Signo.net
+
+100. **Munícipio intervém volta de ciganos ao pátio da Estação Ferroviária - Portal Agora** — Portal Agora [pt]
+   https://www.portalagora.com/mandaguari/municipio-intervem-volta-de-ciganos-ao-patio-da-estacao-ferroviaria/
+   Munícipio intervém volta de ciganos ao pátio da Estação Ferroviária Portal Agora
+
+101. **Grupo de ciganos deixa cidade após investigação de golpe na região de Goioerê - Goionews** — Goionews [pt]
+   https://goio.news/noticias/2408/55734/grupo-de-ciganos-deixa-cidade-apos-investigacao-de-golpe-na-regiao-de-goioere
+   Grupo de ciganos deixa cidade após investigação de golpe na região de Goioerê Goionews
+
+102. **Enem 2026 cobra preservação da identidade cultural dos povos ciganos. Veja a questão. - VestibulandoWeb** — VestibulandoWeb [pt]
    https://www.vestibulandoweb.com.br/questoes/enem-2026-questao-preservacao-identidade-cultural-povos-ciganos/
    Enem 2026 cobra preservação da identidade cultural dos povos ciganos. Veja a questão. VestibulandoWeb
 
-104. **Zootecnista troca carreira por fazenda da família - SpaceMoney** — SpaceMoney [pt]
-   https://www.spacemoney.com.br/agronegocio/zootecnista-fazenda-cigana/
-   Zootecnista troca carreira por fazenda da família SpaceMoney
-
-105. **Homem e mulher são mortos a tiros em bar no bairro Casca, em Jaguaquara - Mídia Bahia** — Mídia Bahia [pt]
-   https://midiabahia.com.br/homem-mulher-mortos-tiros-bairro-casca-jaguaquara/
-   Homem e mulher são mortos a tiros em bar no bairro Casca, em Jaguaquara Mídia Bahia
-
-106. **Firmy chcú zamestnávať znevýhodnených, ale narážajú na veľké prekážky - Roma Television** — Roma Television [sk]
-   https://romatv.sk/slovensko/firmy-chc%C3%BA-zamestn%C3%A1va%C5%A5-znev%C3%BDhodnen%C3%BDch-ale-nar%C3%A1%C5%BEaj%C3%BA-na-ve%C4%BEk%C3%A9-prek%C3%A1%C5%BEky/1401192
-   Firmy chcú zamestnávať znevýhodnených, ale narážajú na veľké prekážky Roma Television
-
-107. **Jarovnice zažili napäté preberanie úradu. Nový starosta nechcel čakať - Roma Television** — Roma Television [sk]
-   https://romatv.sk/slovensko/jarovnice-za%C5%BEili-nap%C3%A4t%C3%A9-preberanie-%C3%BAradu-nov%C3%BD-starosta-nechcel-%C4%8Daka%C5%A5/1401191
-   Jarovnice zažili napäté preberanie úradu. Nový starosta nechcel čakať Roma Television
-
-108. **ÚSVRK: Niektoré rómske lokality sú od obce vzdialené 8-10 kilometrov - TERAZ.sk** — TERAZ.sk [sk]
-   https://www.teraz.sk/najnovsie/usvrk-niektore-romske-lokality-su-o/1005817-clanok.html
-   ÚSVRK: Niektoré rómske lokality sú od obce vzdialené 8-10 kilometrov TERAZ.sk
-
-109. **La sonnambula: John Wilkie's intelligent chamber account of Bellini's opera for HGO benefitted from a glorious title role from Eyra Norman - Planet Hugill** — Planet Hugill [en]
-   https://www.planethugill.com/2026/11/la-sonnambula-john-wilkies-intelligent.html
-   La sonnambula: John Wilkie's intelligent chamber account of Bellini's opera for HGO benefitted from a glorious title role from Eyra Norman Planet Hugill
-
-110. **Massimiliano Fuksas: “Good architecture should be for everyone, not just the rich” - la Repubblica** — la Repubblica [en]
-   https://www.repubblica.it/en/europe/culture/2026/11/08/news/massimiliano_fuksas_architecture_housing_crisis_social_inequality-425704387/
-   Massimiliano Fuksas: “Good architecture should be for everyone, not just the rich” la Repubblica
-
-111. **Dior Faces Criticism for AI Animation Flaws and ChatGPT in Novel - 112.ua** — 112.ua [en]
-   https://112.ua/en/kritika-dior-cerez-vikoristanna-si-v-animacii-ta-chatgpt-u-romani-francuzkogo-pismennika-196462
-   Dior Faces Criticism for AI Animation Flaws and ChatGPT in Novel 112.ua
-
-112. **MSU hockey rebounds from loss, overwhelms Boston U., 5-0, to split series - Lansing State Journal** — Lansing State Journal [en]
-   https://www.lansingstatejournal.com/story/sports/college/msu/hockey/2026/11/07/msu-hockey-boston-u-rebounds-for-5-0-victory-munn-arena-college-hockey/92665149007/
-   MSU hockey rebounds from loss, overwhelms Boston U., 5-0, to split series Lansing State Journal
-
-113. **Gáspár Evelint és Virágot nem engedték be bulizni egy budapesti szórakozóhelyre: "Cigány vagy és nem mehetsz be" - Hírstart** — Hírstart [hu]
-   https://www.hirstart.hu/hk/20261108_felhaborito_ami_tortent_gaspar_viragot_es_evelint_szarmazasuk_miatt_nem_engedtek_be_a_budapesti_szorakozohelyre
-   Gáspár Evelint és Virágot nem engedték be bulizni egy budapesti szórakozóhelyre: "Cigány vagy és nem mehetsz be" Hírstart
-
-114. **Gáspár Virágékat a származásuk miatt nem engedték be bulizni - Blikk** — Blikk [hu]
-   https://www.blikk.hu/sztarvilag/hazai-sztarok/gaspar-evelin-virag-szorakozohely-szarmazas-kitiltas/bddj4xr
-   Gáspár Virágékat a származásuk miatt nem engedték be bulizni Blikk
-
-115. **Kiélezett csata, ijesztő baleset és ORB2-es bajnokavatás a Zemplén Rally első napján - Racingline.hu** — Racingline.hu [hu]
-   https://racingline.hu/rali/kielezett-csata-ijeszto-baleset-es-orb2-es-bajnokavatas-a-zemplen-rally-elso-napjan
-   Kiélezett csata, ijesztő baleset és ORB2-es bajnokavatás a Zemplén Rally első napján Racingline.hu
-
-116. **Bútor Róbert mindhárom gyorsaságit megnyerte, Turán Frigyes átvette a vezetést a Zemplén Rallyn - RallyFeeling** — RallyFeeling [hu]
-   https://rallyfeeling.hu/zemplen-rally-2026-gy3-butor-turan-vincze-laszlo-martin/
-   Bútor Róbert mindhárom gyorsaságit megnyerte, Turán Frigyes átvette a vezetést a Zemplén Rallyn RallyFeeling
-
-117. **Frontális ütközés a Zemplén Ralin (videóval), Bútor nyerte mind a hat szombati gyorsaságit – de azóta már ő is kiesett - Borsod24** — Borsod24 [hu]
-   https://borsod24.hu/2026/11/08/frontalis-utkozes-a-zemplen-ralin-butor-nyerte-mind-a-hat-szombati-gyorsasagit-de-azota-mar-o-is-kiesett/
-   Frontális ütközés a Zemplén Ralin (videóval), Bútor nyerte mind a hat szombati gyorsaságit – de azóta már ő is kiesett Borsod24
-
-118. **Gáspár Virág azt mondja, a származása miatt nem engedték be egy budapesti szórakozóhelyre - 24.hu** — 24.hu [hu]
-   https://24.hu/elet-stilus/2026/11/08/gaspar-virag-budapesti-szorakozohely-diszkriminacio/
-   Gáspár Virág azt mondja, a származása miatt nem engedték be egy budapesti szórakozóhelyre 24.hu
-
-119. **Bútor Róbert vezet a Zemplén-ralin az új Ford Pumával, súlyos baleset történt a Historic mezőnyben - Autoszektor** — Autoszektor [hu]
-   https://www.autoszektor.hu/hu/content/butor-robert-vezet-zemplen-ralin-az-uj-ford-pumaval-sulyos-baleset-tortent-historic
-   Bútor Róbert vezet a Zemplén-ralin az új Ford Pumával, súlyos baleset történt a Historic mezőnyben Autoszektor
-
-120. **Pacalimádók lepték el a Szelidi-tó partját – tíz vendéglő fogásait lehetett megkóstolni + fotók - BAON** — BAON [hu]
-   https://www.baon.hu/helyi-kozelet/2026/11/pacalpiknik-pacalutlevel-szelidi-to-dunapataj
-   Pacalimádók lepték el a Szelidi-tó partját – tíz vendéglő fogásait lehetett megkóstolni + fotók BAON
-
-121. **CHARTA XXI. – Identitásmozaikok - Élő Székelyföld** — Élő Székelyföld [hu]
-   https://eloszekelyfold.ro/2026/11/08/charta-xxi-identitasmozaikok/
-   CHARTA XXI. – Identitásmozaikok Élő Székelyföld
-
-122. **November 15-ig még lehet pályázni a honvédség esélyegyenlőségi ösztöndíjára - hajdupress.hu** — hajdupress.hu [hu]
-   https://hajdupress.hu/cikk/november-15-ig-meg-lehet-palyazni-a-honvedseg-eselyegyenlosegi-osztondijara
-   November 15-ig még lehet pályázni a honvédség esélyegyenlőségi ösztöndíjára hajdupress.hu
-
-123. **Rally. Béres Józsi és Varga „Cigány” súlyos ütközés részesei voltak Mádon - Északhírnök** — Északhírnök [hu]
-   https://www.eszakhirnok.com/2026/11/08/rally-beres-jozsi-es-varga-cigany-sulyos-utkozes-reszesei-voltak-madon/
-   Rally. Béres Józsi és Varga „Cigány” súlyos ütközés részesei voltak Mádon Északhírnök
-
-124. **„Cigány vagy és nem mehetsz be” – Gáspár Virág szerint származásuk miatt fordították vissza őket - Sassy | szmo.hu** — Sassy | szmo.hu [hu]
-   https://sassy.hu/sztar/cigany-vagy-es-nem-mehetsz-be-gaspar-virag-szerint-szarmazasuk-miatt-forditottak-vissza-oket/
-   „Cigány vagy és nem mehetsz be” – Gáspár Virág szerint származásuk miatt fordították vissza őket Sassy | szmo.hu
-
-125. **Súlyos baleset a Zemplén Rallyn – drámai pillanatok a gyorsasági szakaszon! - BOON** — BOON [hu]
-   https://www.boon.hu/helyi-sport/2026/11/zemplen-rally-szezonzaro-komoly-serules-utkozes
-   Súlyos baleset a Zemplén Rallyn – drámai pillanatok a gyorsasági szakaszon! BOON
-
-126. **Amenințare la adresa lui Trump, dejucată lângă Casa Albă - Ziarul Național** — Ziarul Național [ro]
-   https://national.ro/international/sua/un-imigrant-ilegal-a-fost-arestat-langa-casa-alba-dupa-ce-a-amenintat-ca-il-va-ucide-pe-presedintele-donald-trump/
-   Amenințare la adresa lui Trump, dejucată lângă Casa Albă Ziarul Național
-
-127. **Los gitanos portugueses “se preparan para entrar en el parlamento”. - Portugal Resident** — Portugal Resident [es]
-   https://www.portugalresident.com/es/Los-gitanos-portugueses-se-preparan-para-entrar-en-el-parlamento./
-   Los gitanos portugueses “se preparan para entrar en el parlamento”. Portugal Resident
-
-128. **La talla original del Cristo del Consuelo será restaurada por tercera vez en su historia - Ahora Granada** — Ahora Granada [es]
-   https://www.ahoragranada.com/?post_type=noticias&p=327954
-   La talla original del Cristo del Consuelo será restaurada por tercera vez en su historia Ahora Granada
-
-129. **Educación destaca las ayudas destinadas a material escolar para familias vulnerables - Melilla Hoy** — Melilla Hoy [es]
-   https://melillahoy.es/educacion-destaca-las-ayudas-destinadas-a-material-escolar-para-familias-vulnerables/
-   Educación destaca las ayudas destinadas a material escolar para familias vulnerables Melilla Hoy
-
-130. **La Fiesta de las Colectividades y la lluvia: ¿maldición o meteorología? - Diario Digital Conclusión** — Diario Digital Conclusión [es]
-   https://www.conclusion.com.ar/la-ciudad/la-fiesta-de-las-colectividades-y-la-lluvia-maldicion-o-meteorologia/11/2026/
-   La Fiesta de las Colectividades y la lluvia: ¿maldición o meteorología? Diario Digital Conclusión
-
-131. **CRAI consiguió imponerse a CAE y se consagró campeón en Pre B - Diario Uno Santa Fe** — Diario Uno Santa Fe [es]
-   https://www.unosantafe.com.ar/ovacion/crai-consiguio-imponerse-cae-y-se-consagro-campeon-pre-b-n10290973.html/amp
-   CRAI consiguió imponerse a CAE y se consagró campeón en Pre B Diario Uno Santa Fe
-
-132. **A Saint-Denis, des familles roms expulsées illégalement par les polices nationale et municipale - Le Monde.fr** — Le Monde.fr [fr]
-   https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html
-   A Saint-Denis, des familles roms expulsées illégalement par les polices nationale et municipale Le Monde.fr
-
-133. **« C’est la double peine » : pour les maires de Grand Lac, la création compliquée de terrains pour les gens du voyage - L'Essor Savoyard** — L'Essor Savoyard [fr]
-   https://lessorsavoyard.lemessager.fr/649360048/article/2026-11-08/c-est-la-double-peine-pour-les-maires-de-grand-lac-la-creation-compliquee-de
-   « C’est la double peine » : pour les maires de Grand Lac, la création compliquée de terrains pour les gens du voyage L'Essor Savoyard
-
-134. **Gens du voyage : quels sont ces nouveaux terrains prévus sur les communes du bassin d’Aix-les-Bains - Le Pays Gessien** — Le Pays Gessien [fr]
-   https://www.latribunerepublicaine.fr/649360040/article/2026-11-07/gens-du-voyage-quels-sont-ces-nouveaux-terrains-prevus-sur-les-communes-du
-   Gens du voyage : quels sont ces nouveaux terrains prévus sur les communes du bassin d’Aix-les-Bains Le Pays Gessien
+103. **Nevimata - nyheter för romer - Sveriges Radio** — Sveriges Radio [sv]
+   https://www.sverigesradio.se/avsnitt/2887975
+   Nevimata - nyheter för romer Sveriges Radio
 
-135. **Face à 60 caravanes, il sort son tracteur : un éleveur de l’Oise condamné pour avoir blessé un homme - lejdd.fr** — lejdd.fr [fr]
-   https://www.lejdd.fr/Societe/face-a-60-caravanes-il-sort-son-tracteur-un-eleveur-de-loise-condamne-pour-avoir-blesse-un-homme-187995
-   Face à 60 caravanes, il sort son tracteur : un éleveur de l’Oise condamné pour avoir blessé un homme lejdd.fr
+104. **Nobelpristagaren Nordhaus död – ”En pionjär” - Skattebetalarna** — Skattebetalarna [sv]
+   https://skattebetalarna.se/nobelpristagaren-nordhaus-dod-en-pionjar/
+   Nobelpristagaren Nordhaus död – ”En pionjär” Skattebetalarna
 
-136. **« Notre force c’est la solidarité » : à Nantes, unis pour dénoncer les « expulsions massives » - Ouest-France** — Ouest-France [fr]
-   https://www.ouest-france.fr/societe/logement/notre-force-cest-la-solidarite-a-nantes-unis-pour-denoncer-les-expulsions-massives-2421d5b2-daaa-11f1-81f5-8e32b0872d76
-   « Notre force c’est la solidarité » : à Nantes, unis pour dénoncer les « expulsions massives » Ouest-France
+105. **Trots den högre budgeten har utbildningen i Makedonien problem med undervisningskvaliteten och inkluderingen, bedömer kommissionen - Free Press - Слободен печат** — Слободен печат [sv]
+   https://www.slobodenpecat.mk/sv/i-pokraj-povisokiot-budzhet-obrazovanieto-vo-makedonija-ima-problemi-so-kvalitetot-na-nastavata-i-so-inkluzivnosta-ocenuva-ek/
+   Trots den högre budgeten har utbildningen i Makedonien problem med undervisningskvaliteten och inkluderingen, bedömer kommissionen - Free Press Слободен печат
 
-137. **Les Treilles Cazoulines ont animé la fête de la châtaigne de Saint-Pons - Midi Libre** — Midi Libre [fr]
-   https://www.midilibre.fr/2026/11/08/les-treilles-cazoulines-ont-anime-la-fete-de-la-chataigne-de-saint-pons-13642259.php
-   Les Treilles Cazoulines ont animé la fête de la châtaigne de Saint-Pons Midi Libre
+106. **Tulevaisuuden tarinat - Romanien koulutuspolkujen tukeminen – webinaarisarja opetus- ja ohjaushenkilöstölle - www.tuni.fi** — www.tuni.fi [fi]
+   https://www.tuni.fi/fi/tamk/ajankohtaista/tulevaisuuden-tarinat-romanien-koulutuspolkujen-tukeminen-webinaarisarja-opetus
+   Tulevaisuuden tarinat - Romanien koulutuspolkujen tukeminen – webinaarisarja opetus- ja ohjaushenkilöstölle www.tuni.fi
 
-138. **Il avait violemment poussé et fait chuter la maire de Marsat : condamné à des travaux d'intérêt général et à l'euro symbolique - La Montagne** — La Montagne [fr]
-   https://www.lamontagne.fr/marsat-63200/actualites/age-de-18-ans-il-avait-bouscule-et-fait-chuter-la-maire-de-marsat-condamne-a-des-travaux-d-interet-general-et-a-l-euro-symbolique_15076797/
-   Il avait violemment poussé et fait chuter la maire de Marsat : condamné à des travaux d'intérêt général et à l'euro symbolique La Montagne
+107. **Diddy Creepy Nickname for Jailed Russell Brand Revealed** — radaronline.com [English]
+   https://radaronline.com/p/diddy-creepy-nickname-jailed-russell-brand-revealed/
 
-139. **Aux Adrets-de-l'Estérel, l'aire de grand passage envisagée provoque une vive contestation - horticulture-abadie-pyrenees.com** — horticulture-abadie-pyrenees.com [fr]
-   https://horticulture-abadie-pyrenees.com/interviews/20261022-7
-   Aux Adrets-de-l'Estérel, l'aire de grand passage envisagée provoque une vive contestation horticulture-abadie-pyrenees.com
+108. **СМИ : руководство  Манчестер Юнайтед  склоняется к увольнению Каррика - РИА Новости Спорт , 10 . 11 . 2026** — ria.ru [Russian]
+   https://ria.ru/20261110/myu-2130444638.html
 
-140. **Gunter Demnig: Wie Stolpersteine Europas Erinnerung prägen - Sonntagsblatt** — Sonntagsblatt [de]
-   https://www.sonntagsblatt.de/artikel/gesellschaft/gunter-demnig-wie-stolpersteine-europas-erinnerung-praegen
-   Gunter Demnig: Wie Stolpersteine Europas Erinnerung prägen Sonntagsblatt
+109. **魔兽世界无限以及你找到的那张字条任务攻略 _ wow无限以及你找到的那张字条任务怎么做 _ 3DM网游** — ol.3dmgame.com [Chinese]
+   https://ol.3dmgame.com/gl/358517.html
 
-141. **Eklat um Baderock-Vorfall in Freibad: Jetzt folgt die Wende der Betreiber - Merkur** — Merkur [de]
-   https://www.merkur.de/deutschland/folgt-die-wende-in-freiburg-eklat-um-baderock-vorfall-in-freibad-jetzt-94433310.html
-   Eklat um Baderock-Vorfall in Freibad: Jetzt folgt die Wende der Betreiber Merkur
+110. **Alisson wants to sign new Liverpool contract - The Ghanaian Chronicle** — thechronicle.com.gh [English]
+   https://thechronicle.com.gh/alisson-wants-to-sign-new-liverpool-contract/
 
-142. **Großnichte von Naziverbrecher Heinrich Himmler spricht mit Schülern über Rechtsextremismus - Hildesheimer Presse** — Hildesheimer Presse [de]
-   https://hildesheimer-presse.de/2026/11/06/grossnichte-von-naziverbrecher-heinrich-himmler-spricht-mit-schuelern-ueber-rechtsextremismus/
-   Großnichte von Naziverbrecher Heinrich Himmler spricht mit Schülern über Rechtsextremismus Hildesheimer Presse
+111. **РИК објавио прелиминарне резултате за изборе за чланове националних савета мањина** — rtv.rs [Serbian]
+   https://www.rtv.rs/sr_ci/politika/rik-objavio-preliminarne-rezultate-za-izbore-za-clanove-nacionalnih-saveta-manjina_1757683.html
 
-143. **„Писарят“ и „париите“: сцени от трудовашкия ми живот - Kultura.bg** — Kultura.bg [bg]
-   https://kultura.bg/web/%D0%BF%D0%B8%D1%81%D0%B0%D1%80%D1%8F%D1%82-%D0%B8-%D0%BF%D0%B0%D1%80%D0%B8%D0%B8%D1%82%D0%B5-%D1%81%D1%86%D0%B5%D0%BD%D0%B8-%D0%BE%D1%82-%D1%82%D1%80%D1%83%D0%B4/
-   „Писарят“ и „париите“: сцени от трудовашкия ми живот Kultura.bg
+112. **Rock bottom and flying high as EPL tells us everything we need to know** — thestar.com.my [English]
+   https://www.thestar.com.my/opinion/columnists/a-winning-factor/2026/11/10/rock-bottom-and-flying-high-as-epl-tells-us-everything-we-need-to-know
 
-144. **Кънчев: Ромите все по-често отказват да продават гласа си - BurgasMedia** — BurgasMedia [bg]
-   https://burgasmedia.com/news/kanchev-romite-vse-po-chesto-otkazvat-da-prodavat-glasa-si
-   Кънчев: Ромите все по-често отказват да продават гласа си BurgasMedia
+113. **Conjunto LaPira – Locals Only / KXCI** — kxci.org [English]
+   https://kxci.org/podcast/conjunto-lapira-locals-only/
 
-145. **Хората на Каварна: Сенсей Арифов: Доказал съм, че правя шампиони. Важно ми е хора да направя - Про Нюз Добрич** — Про Нюз Добрич [bg]
-   https://pronewsdobrich.bg/horata-na-kavarna-sensey-arifov-dokazal-sam-che-pravya-shampioni-vazhno-mi-e-hora-da-napravya-p732767
-   Хората на Каварна: Сенсей Арифов: Доказал съм, че правя шампиони. Важно ми е хора да направя Про Нюз Добрич
+114. **Illinois Holocaust Museum to reopen this week after renovations – NBC Chicago** — nbcchicago.com [English]
+   https://www.nbcchicago.com/news/local/illinois-holocaust-museum-set-to-reopen-this-week-after-renovations/4014303/
 
-146. **Цветелин Кънчев: Бедността е новата граница на дискриминацията - Fakti.bg** — Fakti.bg [bg]
-   https://fakti.bg/bulgaria/1098548-cvetelin-kanchev-bednostta-e-novata-granica-na-diskriminaciata
-   Цветелин Кънчев: Бедността е новата граница на дискриминацията Fakti.bg
+115. **Unrecht und Widerstand - Romani Rose und die Bürgerrechtsbewegung - Dokumentation** — klack.de [German]
+   https://www.klack.de:443/tv-programm/fernsehsendung/205190618/unrecht-und-widerstand-romani-rose-und-die-buergerrechtsbewegung.html
 
-147. **Ασύλληπτο: 15χρονος Ρομά οδηγούσε με 187 χλμ/ώρα στην Εθνική Οδό – Συνελήφθη μαζί με τη μητέρα του - thriassio.gr** — thriassio.gr [el]
-   https://thriassio.gr/15xronos-roma-odigouse-187-xlm-ethniki-odo-syllipsi/
-   Ασύλληπτο: 15χρονος Ρομά οδηγούσε με 187 χλμ/ώρα στην Εθνική Οδό – Συνελήφθη μαζί με τη μητέρα του thriassio.gr
+116. **Jucătorul român din Serie A a rămas fără antrenor** — gsp.ro [Romanian]
+   https://www.gsp.ro/international/campionate/jucatorul-roman-din-serie-a-a-ramas-fara-antrenor-997800.html
 
-148. **Συνελήφθησαν δύο Ρομά την ώρα που κυλούσαν τύμπανο με καλώδια της ΔΕΥΑ Ρόδου - Δημοκρατική της Ρόδου** — Δημοκρατική της Ρόδου [el]
-   https://www.dimokratiki.gr/08-11-2026/synelifthisan-dyo-roma-tin-ora-pou-kylousan-tybano-me-kalodia-tis-deva-rodou/
-   Συνελήφθησαν δύο Ρομά την ώρα που κυλούσαν τύμπανο με καλώδια της ΔΕΥΑ Ρόδου Δημοκρατική της Ρόδου
+117. **Anna  Ginger  Markham** — brainerddispatch.com [English]
+   https://www.brainerddispatch.com/obituaries/obits/anna-ginger-markham-ff5yqcicw9zazzzalkeo
 
-149. **Μπαρτζώκας: «Παίζαμε κόντρα στις αρχές μας - Είμαστε... τσιγγάνοι φέτος, παλεύουμε και με αυτό» - bwinΣΠΟΡ FM 94.6** — bwinΣΠΟΡ FM 94.6 [el]
-   https://www.sport-fm.gr/article/basket/euroleague/mpartzwkas-paizame-kodra-stis-arxes-mas-eimaste-tsigganoi-fetos/5159400
-   Μπαρτζώκας: «Παίζαμε κόντρα στις αρχές μας - Είμαστε... τσιγγάνοι φέτος, παλεύουμε και με αυτό» bwinΣΠΟΡ FM 94.6
+118. **  Unrecht und Widerstand - Romani Rose und die Bürgerrechtsbewegung  - Dokumentation - Doku , 3sat , 10 . 11 . 2026 , 00 : 15 Uhr - Sendung im TV - Programm - TV & Radio** — tele.at [German]
+   https://www.tele.at/sendungsdetails/22996981/unrecht-und-widerstand-romani-rose-und-die-buergerrechtsbewegung.html
 
-150. **Εμβολιασμός παιδιών Ρομά στους καταυλισμούς Κυπαρισσίου Δήμου Λοκρών - LamiaNet** — LamiaNet [el]
-   https://lamianet.gr/emvoliasmos-paidion-roma-stous-katavlismous-kyparissiou-dimou-lokron/
-   Εμβολιασμός παιδιών Ρομά στους καταυλισμούς Κυπαρισσίου Δήμου Λοκρών LamiaNet
+119. **Θεσσαλονίκη : Άγκυρα στο μέλλον με το λιμάνι στο « τιμόνι » της ανάπτυξης** — emakedonia.gr [Greek]
+   https://www.emakedonia.gr/thessaloniki-agkyra-sto-mellon-me-to-limani-sto-timoni-tis-anaptyxis
 
-151. **15χρονος Ρομά έτρεχε με 187 χλμ./ώρα στην Εθνική Οδό χωρίς δίπλωμα – Συνελήφθη και η μητέρα του - newsbreak** — newsbreak [el]
-   https://www.newsbreak.gr/ellada/1061697/15chronos-roma-etreche-187-chlm-ora-ethniki-odo/
-   15χρονος Ρομά έτρεχε με 187 χλμ./ώρα στην Εθνική Οδό χωρίς δίπλωμα – Συνελήφθη και η μητέρα του newsbreak
+120. **  ส . ปืนรณยุทธ  เปิดคัดตัวทีมชาติสนามแรกคึกคัก  น้องไรเฟิล  วัย 12 ปี ผงาดแชมป์สแตนดาร์ด** — dailynews.co.th [Thai]
+   https://www.dailynews.co.th/news/6343186/
 
-152. **Ρομά επιτέθηκαν με βρισιές κατά της Λατινοπούλου στο πλοίο για την Τήνο (βίντεο) - ekriti.gr** — ekriti.gr [el]
-   https://www.ekriti.gr/politiko-paraskinio/roma-epitethikan-me-brisies-kata-tis-latinopoyloy-sto-ploio-gia-tin-tino-binteo
-   Ρομά επιτέθηκαν με βρισιές κατά της Λατινοπούλου στο πλοίο για την Τήνο (βίντεο) ekriti.gr
+121. ** ơn mặt quỷ  và đàn em  Hiệp đen  khai gì với Công an TP . HCM ? ** — thanhnien.vn [Vietnamese]
+   https://thanhnien.vn/son-mat-quy-va-dan-em-hiep-den-khai-gi-voi-cong-an-tphcm-185261109104209036.htm
 
-153. **Κηφισιά: 15χρονος Ρομά οδηγούσε με 187 χλμ. στην Εθνική Οδό - Pronews.gr** — Pronews.gr [el]
-   https://www.pronews.gr/amyna-asfaleia/esoteriki-asfaleia/kifisia-15xronos-roma-odigouse-me-187-xlm-stin-ethniki-odo/
-   Κηφισιά: 15χρονος Ρομά οδηγούσε με 187 χλμ. στην Εθνική Οδό Pronews.gr
+122. **Libros de toros** — granadahoy.com [Spanish]
+   https://www.granadahoy.com/opinion/articulos/libros-toros_0_2008454016.html
 
-154. **Κηφισιά: 15χρονος Ρομά έτρεχε με 187 χλμ./ώρα στην Εθνική Οδό χωρίς δίπλωμα – Συνελήφθη και η μητέρα του - Europost.gr** — Europost.gr [el]
-   https://europost.gr/?p=837443
-   Κηφισιά: 15χρονος Ρομά έτρεχε με 187 χλμ./ώρα στην Εθνική Οδό χωρίς δίπλωμα – Συνελήφθη και η μητέρα του Europost.gr
+123. **Abbie Lewis : How Bush Mits grew from a shed to 55 stockists | North Queensland Register** — northqueenslandregister.com.au [English]
+   https://www.northqueenslandregister.com.au/story/9387295/abbie-lewis-how-bush-mits-grew-from-a-shed-to-55-stockists/
 
-155. **Ekspert: ponosimy odpowiedzialność za to, aby przemoc się nie powtórzyła - LM.pl** — LM.pl [pl]
-   https://www.lm.pl/aktualnosci/ekspert-ponosimy-odpowiedzialnosc-za-to-aby-przemoc-sie-nie-powtorzyla
-   Ekspert: ponosimy odpowiedzialność za to, aby przemoc się nie powtórzyła LM.pl
+124. **Bộ mặt thật của những  giang hồ mạng  ** — baomoi.com [Vietnamese]
+   https://baomoi.com/bo-mat-that-cua-nhung-giang-ho-mang-c56464357.epi
 
-156. **Depressão Bruna e tratamento respiratório dominam primeira página - dnoticias.pt** — dnoticias.pt [pt]
-   https://www.dnoticias.pt/2026/11/8/512078-depressao-bruna-e-tratamento-respiratorio-dominam-primeira-pagina/
-   Depressão Bruna e tratamento respiratório dominam primeira página dnoticias.pt
+125. **Abbie Lewis : How Bush Mits grew from a shed to 55 stockists | The Land** — theland.com.au [English]
+   https://www.theland.com.au/story/9387295/abbie-lewis-how-bush-mits-grew-from-a-shed-to-55-stockists/
 
-157. **Promotor de missões: curso gratuito tem 31 videoaulas - comunhao.com.br** — comunhao.com.br [pt]
-   https://comunhao.com.br/promotor-de-missoes-curso-gratuito-31-videoaulas/
-   Promotor de missões: curso gratuito tem 31 videoaulas comunhao.com.br
+126. **Manchester United salvage dramatic draw as Inter close on Lazio and Barcelona beat Atletico** — middle-east-online.com [English]
+   https://www.middle-east-online.com/en/manchester-united-salvage-dramatic-draw-inter-close-lazio-and-barcelona-beat-atletico
 
-158. **Grupo de ciganos deixa cidade após investigação de golpe na região de Goioerê - Goionews** — Goionews [pt]
-   https://goio.news/noticias/2406/55734/grupo-de-ciganos-deixa-cidade-apos-investigacao-de-golpe-na-regiao-de-goioere
-   Grupo de ciganos deixa cidade após investigação de golpe na região de Goioerê Goionews
+127. **Papa Leo i kërkon Mileit të Argjentinës të vendosë popullin para ekonomisë** — kohajone.com [Albanian]
+   https://kohajone.com/bota/papa-leo-i-kerkon-mileit-te-argjentines-te-vendose-popullin-para-ekonomise/
 
-159. **Коментари - 19 - годишен прегази 4 - годишно дете в Плевенско , напрежението в селото ескалира** — dnes.dir.bg [Bulgarian]
-   https://dnes.dir.bg/comments/19-godishen-pregazi-4-godishno-dete-v-plevensko-naprezhenieto-v-seloto-eskalira
+128. **  Ils ne chantaient jamais  : Loin de la scène , Jacques Dutronc et Françoise Hardy n  étaient pas ceux que lon imaginait** — purepeople.com [French]
+   https://www.purepeople.com/article/ils-ne-chantaient-jamais-loin-de-la-scene-jacques-dutronc-et-francoise-hardy-netaient-pas-ceux-que-lon-imaginait_a555777/1
 
-160. **Easy Homemade Tomato Sauce / Belkys - WSVN 7News | Miami News , Weather , Sports** — wsvn.com [English]
-   https://wsvn.com/entertainment/bite-with-belkys/fresh-tomato-basil-pasta-recipe/
+129. **Carcere minorile Beccaria tra droghe farmaci e rabbia Sono ragazzi fragili non serve rinchiuderli tutti** — zazoom.it [Italian]
+   https://www.zazoom.it/2026-11-09/carcere-minorile-beccaria-tra-droghe-farmaci-e-rabbia-sono-ragazzi-fragili-non-serve-rinchiuderli-tutti/19904212/
 
-161. **Servizi turistici a Macari , Ciminnisi ( M5S ):  Baia Margherita ostaggio dellimmobilismo di Regione e Comune  ** — tp24.it [Italian]
-   https://www.tp24.it/2026/11/08/vivavoce/servizi-turistici-a-macari-ciminnisi-m5s-baia-margherita-ostaggio-dell-immobilismo-di-regione-e-comune/241834
+130. **Любителям импортных джина и виски скоро придется раскошелиться** — pnp.ru [Russian]
+   https://www.pnp.ru/economics/lyubitelyam-importnykh-dzhina-i-viski-skoro-pridetsya-raskoshelitsya.html
 
-162. **Dos detenidos en Albacete por la muerte a tiros de un hombre de 55 años** — diariovasco.com [Spanish]
-   https://www.diariovasco.com/sociedad/dos-detenidos-albacete-muerte-tiros-hombre-anos-20261108124728-ntrc.html
+131. **Banco Provincial derrotó a CRAI y es el líder absoluto del Oficial** — unosantafe.com.ar [Spanish]
+   https://www.unosantafe.com.ar/ovacion/banco-provincial-derroto-crai-y-es-el-lider-absoluto-del-oficial-n10291150.html
 
-163. **JAV rinkimai supurtė Trumpą : ką tai reiškia Ukrainai** — delfi.lt [Lithuanian]
-   https://www.delfi.lt/naujienos/lietuvoje/rinkimu-rezultatai-jav-supurte-trumpo-stovykla-120330126
+132. **Man Utd rescue Villa draw with incredible fightback , Chelsea stunned** — namibian.com.na [English]
+   https://www.namibian.com.na/man-utd-rescue-villa-draw-with-incredible-fightback-chelsea-stunned/
 
-164. **  The Good Daughter  and 7 more must - see shows for this week** — newsday.com [English]
-   https://www.newsday.com/entertainment/tv/must-see-shows-kle6zwfx
+133. **Trei din zece români caută aer curat în concediu** — jurnalul.ro [Romanian]
+   https://jurnalul.ro/timp-liber/calatorii/romani-cauta-aer-curat-concediu-1048594.html
 
-165. **Cậu bé tóc bát úp điển trai này lớn lên thành diễn viên nghìn tỷ 6 múi đang nổi rần rần trong showbiz Việt** — eva.vn [Vietnamese]
-   https://eva.vn/lang-sao/cau-be-toc-bat-up-dien-trai-nay-lon-len-thanh-dien-vien-nghin-ty-6-mui-dang-noi-ran-ran-trong-showbiz-viet-c20a688496.html
+134. **Amenințare la adresa Papei Leon al XIV - lea . Un suspect a fost arestat în Argentina , înainte de sosirea Suveranului Pontif** — capital.ro [Romanian]
+   https://www.capital.ro/amenintare-la-adresa-papei-leon-al-xiv-lea-un-suspect-a-fost-arestat-in-argentina-inainte-de-sosirea-suveranului-pontif.html
 
-166. **Toàn cảnh 17h : 17 ngày đêm truy lùng 4 phạm nhân trốn trại giam | 8 vé cùng số trúng 16 tỉ đồng** — thanhnien.vn [Vietnamese]
-   https://thanhnien.vn/toan-canh-17h-17-ngay-dem-truy-lung-4-pham-nhan-tron-trai-giam-8-ve-cung-so-trung-16-ti-dong-185261108165351328.htm
+135. **Avrupada 50  den Fazla Uçuşa Bomba Tehdidi ve Siber Saldırılar** — habervitrini.com [Turkish]
+   https://www.habervitrini.com/haber/avrupada-koordineli-panik-dalgasi-50den-fazla-ucus-ve-kritik-altyapi-hedefte-1794164419628
 
-167. **Cao Thiên Trang trải lòng về biến cố bệnh tật và cuộc sống sau sinh đôi** — thanhnien.vn [Vietnamese]
-   https://thanhnien.vn/cao-thien-trang-trai-long-ve-bien-co-benh-tat-va-cuoc-song-sau-sinh-doi-18526110815492831.htm
+136. **Srna | ЊЕМАЧКИ МЕДИЈИ О ТОМПСОНОВОМ КОНЦЕРТУ И УСТАШКИМ СИМБОЛИМА** — srna.rs [Serbian]
+   https://www.srna.rs/novost/1446650/njemacki-mediji-o-tompsonovom-koncertu-i-ustaskim-simbolima
 
-168. **У Србији се одржавају избори за чланове националних савета националних мањина . Бираjу се чланови савета 23 националне мањине . Право гласа има 481 . 785 бирача** — nspm.rs [Serbian]
-   https://www.nspm.rs/hronika/u-srbiji-se-odrzavaju-izbori-za-clanove-nacionalnih-saveta-nacionalnih-manjina.-biraju-se-clanovi-saveta-23-nacionalne-manjine.-pravo-glasa-ima-481.785-biraca.html
+137. **Њемачки медији о Томпсоном концерту и усташким симболима** — rtrs.tv [Serbian]
+   https://www.rtrs.tv/vijesti/vijest.php?id=666934
 
-169. **Rail , road blockades lifted in Brahmanbaria after 5 hours** — bdnews24.com [English]
-   https://bdnews24.com/bangladesh/gp1jb2p1fu
+138. ** Ce nest pas le même championnat  : Mussidan complètement dépassé par Argentat** — sudouest.fr [French]
+   https://www.sudouest.fr:443/dordogne/mussidan/ce-n-est-pas-le-meme-championnat-mussidan-completement-depasse-par-argentat-31442808.php
 
-170. **Yeni Dünyada Taht Kuran İtalyan Asıllı Amerikan Şöhretler** — cnnturk.com [Turkish]
-   https://www.cnnturk.com/yazarlar/guncel/reha-erus/yeni-dunyada-taht-kuran-italyan-asilli-amerikan-sohretler-3490484
+139. **Kandidati za župana o ukrepih , ki so nujno potrebni v Kranju , in o varnostni situaciji v mestu** — rtvslo.si [Slovenian]
+   https://www.rtvslo.si/slovenija/lokalne-volitve-2026/mestne-obcine/kranj/kandidati-za-zupana-o-ukrepih-ki-so-nujno-potrebni-v-kranju-in-o-varnostni-situaciji-v-mestu/799037
 
-171. **Doliu în Poliția Națională : Șeful Inspectoratului din Fălești , Denis Ijițchi , a murit într - un tragic accident rutier** — news.yam.md [Romanian]
-   https://news.yam.md/ro/story/83025755
+140. **Završeni izbori za nacionalne savete 23 nacionalne manjine , RIK rezultate saopštava u roku od 96 sati** — naslovi.net [Serbian]
+   https://naslovi.net/2026-11-08/nova/zavrseni-izbori-za-nacionalne-savete-23-nacionalne-manjine-rik-rezultate-saopstava-u-roku-od-96-sati/42583645
 
-172. **ব্রাহ্মণবাড়িয়ায় ৫ ঘণ্টা পর রেল ও সড়ক অবরোধ প্রত্যাহার** — bangla.bdnews24.com [Bengali]
-   https://bangla.bdnews24.com/samagrabangladesh/qwonm1wuzr
+141. **Αλλαγή σελίδας στην ΕΛΛΑΝ ΠΑΣΣΕ : Νέος πρόεδρος ο νεαρός επιστήμονας Ρομά Παναγιώτης Χαρίτος** — inewsgr.com [Greek]
+   https://www.inewsgr.com/351/allagi-selidas-stin-ellan-passe-neos-proedros-o-nearos-epistimonas-roma-panagiotis-charitos.htm
 
-173. **Gli « astronauti delloceano » in gara alla Route du Rhum** — ilpost.it [Italian]
-   https://www.ilpost.it/2026/11/05/vela-route-du-rhum-2026/?homepagePosition=2.1&referrerPost=3727806
+142. **Μάντσεστερ Γιουνάιτεντ - Άστον Βίλα 4 - 4 : Αρνήθηκε να  πεθάνει  η Γιουνάιτεντ , επέστρεψε στις καθυστερήσεις ( highlights ) - mantsester giounaitent - aston vila 4 - 4 : arnithike na  pethanei  i giounaitent , epestrepse stis kathysteriseis ( highl...** — inewsgr.com [Greek]
+   https://www.inewsgr.com/430/mantsester-giounaitent-aston-vila-4-4-arnithike-na-pethanei-i-giounaitent-epestrepse-stis-kathysteriseis-highlights.htm
 
-174. **Bima Sakti Siapkan Persela Lamongan Hentikan Rekor Tak Terkalahkan Kendal Tornado FC** — jawapos.com [Indonesian]
-   https://www.jawapos.com/sepak-bola-indonesia/2611080230/bima-sakti-siapkan-persela-lamongan-hentikan-rekor-tak-terkalahkan-kendal-tornado-fc
+143. **Dorgu rescues point for Manchester United in eight - goal thriller against Aston Villa** — aol.co.uk [English]
+   https://www.aol.co.uk/articles/dorgu-rescues-point-manchester-united-185423000.html
 
-175. **Persipura Belum Puas dengan Hasil Putaran Pertama , Manajemen Siapkan Evaluasi Menyeluruh** — jawapos.com [Indonesian]
-   https://www.jawapos.com/sepak-bola-indonesia/2611080239/persipura-belum-puas-dengan-hasil-putaran-pertama-manajemen-siapkan-evaluasi-menyeluruh
+144. **Retransmisión : este domingo se presenta el santuario donde vivirán los tigres rescatados** — lahora.gt [Spanish]
+   https://lahora.gt/nacionales/ralvarado/2026/11/08/retransmision-este-domingo-se-presenta-el-santuario-donde-viviran-los-tigres-de-circo-rescatados/
 
-176. **Počeli izbori za savete nacionalnih manjina , pravo glasa ima blizu pola miliona građana** — naslovi.net [Serbian]
-   https://naslovi.net/2026-11-08/moj-novi-sad/poceli-izbori-za-savete-nacionalnih-manjina-pravo-glasa-ima-blizu-pola-miliona-gradjana/42581559
+145. **Ο Κουτέσα στην ευρωπαϊκή λίστα της ΑΕΚ αντί του Ζουμπκόφ** — inewsgr.com [Greek]
+   https://www.inewsgr.com/93/o-koutesa-stin-evropaiki-lista-tis-aek-anti-tou-zoubkof.htm
 
-177. **Carnagiul de la Cracovia : Atacatorul a ucis 9 persoane , inclusiv 3 rude în propria casă / Polonia decretează Doliu Național** — news.yam.md [Romanian]
-   https://news.yam.md/ro/story/83030462
+146. **Chelsea shocked by Sunderland , Liverpool cruise** — thefrontierpost.com [English]
+   https://thefrontierpost.com/chelsea-shocked-by-sunderland-liverpool-cruise/
 
-178. **Άνετη τριάρα για τη Ρόμα του Κουλιεράκη** — inewsgr.com [Greek]
-   https://www.inewsgr.com/501/aneti-triara-gia-ti-roma-tou-koulieraki.htm
+147. **Përse po protestohet anë e kënd Europës ? ** — 24-ore.com [Albanian]
+   https://24-ore.com/perse-po-protestohet-ane-e-kend-europes/
 
-179. **Słaba pierwsza połowa KPR Gminy Kobierzyce i pierwsza porażka w Superlidze** — radiowroclaw.pl [Polish]
-   http://www.radiowroclaw.pl/articles/view/165438/Slaba-pierwsza-polowa-KPR-Gminy-Kobierzyce-i-pierwsza-porazka-w-Superlidze
+148. **Franța și reprezentanții europeni , prezenți la negocierile de pace dintre Rusia și Ucraina pentru securitatea continentului** — business24.ro [Romanian]
+   https://business24.ro/negocieri-de-pace/franta-reprezentanti-europeni-negocieri-pace-securitate-continent-1674107
 
-180. **Cinci morți și peste zece răniți într - un atac armat în centrul orașului polonez Cracovia** — news.yam.md [Romanian]
-   https://news.yam.md/ro/story/82850532
+149. **Noapte albă la Dubăsari : Urmărire ca în filme , mașină de poliție izbită intenționat și amenințări cu moartea după o partidă de braconaj** — news.yam.md [Romanian]
+   https://news.yam.md/ro/story/83147187
 
-181. **Tyson Fury responds to Oleksandr Usyk trilogy snub** — geosuper.tv [English]
-   https://www.geosuper.tv/latest/61106-tyson-fury-responds-to-oleksandr-usyk-trilogy-snub
+150. **U kap në flagrancë me një sasi lëndësh narkotike / 50 - vjeçari shqiptar në Itali përfundon nga arresti shtëpiak në qeli** — botasot.info [Albanian]
+   https://www.botasot.info/shqiperia/2548247/u-kap-ne-flagrance-me-nje-sasi-lendesh-narkotike-50-vjecari-shqiptar-ne-itali-perfundon-nga-arresti-shtepiak-ne-qeli/
 
-182. ** ¡ No le temen a la araña ! Parquímetros de CDMX aumentan su recaudación** — elgrafico.mx [Spanish]
-   https://www.elgrafico.mx/espectaculos/2026/11/07/no-le-temen-a-la-arana-parquimetros-de-cdmx-aumentan-su-recaudacion/
+151. **Aras Vėberis atskleidė , kokį neįprastą atlygį gavo už koncertą** — 15min.lt [Lithuanian]
+   https://www.15min.lt/zmones/naujiena/lietuva/aras-veberis-atskleide-koki-neiprasta-atlygi-gavo-uz-koncerta-1050-2801450
 
-183. **Former excise commissioner flags bribery , illegal wealth of senior officials** — timesofindia.indiatimes.com [English]
-   https://timesofindia.indiatimes.com/city/thiruvananthapuram/former-excise-commissioner-flags-bribery-illegal-wealth-of-senior-officials/articleshow/135642165.cms
+152. **Qué fue de ...: El guapo y bohemio cantante Beltrán Cavero solicita el marquesado de Portugalete . Y además es millonario** — elmundo.es [Spanish]
+   https://www.elmundo.es/loc/que-fue-de/2026/11/06/6aedba5bfc6c834d348b4584.html
 
-184. **Плейлист 1917 года : какую музыку слушала молодежь** — mk.ru [Russian]
-   https://www.mk.ru/culture/2026/11/07/pleylist-1917-goda-kakuyu-muzyku-slushala-molodezh.html
+153. **Ohio Toy & Comic Show on Nov . 29 will have  super rare  toys and more | Local Events** — daytondailynews.com [English]
+   https://www.daytondailynews.com/entertainment/events/ohio-toy-comic-show-on-nov-29-will-have-super-rare-toys-and-more/article_f89b8176-e9ef-592e-8420-d2f0e5cda50f.html
 
-185. **Man whose Mission home was forfeited owes $300 , 000 for storage** — theprovince.com [English]
-   https://theprovince.com/news/man-whose-mission-home-was-forfeited-to-government-owes-300000-for-storage-of-belongings
+154. **  Deathtrap  performance at Jesters Dinner Theatre and more Sunday events in Longmont** — timescall.com [English]
+   https://www.timescall.com/2026/11/08/deathtrap-performance-at-jesters-dinner-theatre-and-more-sunday-events-in-longmont/
 
-186. **West Van inventors battled a few bombs to turn Lego world on its head** — theprovince.com [English]
-   https://theprovince.com/news/west-vancouver-inventors-reimagine-genius-lego-sparkblocks
+155. **Seis detenidos tras una riña tumultuaria por un balonazo a un coche en Valencia** — lasprovincias.es [Spanish]
+   https://www.lasprovincias.es/sucesos/detenidos-balonazo-coche-valencia-20261108134444-nt.html
 
-187. **This Day in History , 1917 : Bigamist sent to the front instead of jail** — theprovince.com [English]
-   https://theprovince.com/news/this-day-in-history-1917-future-seaforth-highlander-sent-to-suicide-squad-western-front
+156. **Избори за националне савете : гласање на 949 бирачких места широм Србије** — politika.rs [Serbian]
+   https://www.politika.rs/scc/clanak/800853/izbori-za-nacionalne-savete-glasanje-na-949-birackih-mesta-sirom-srbije
+
+157. **  Brigade anonyme  saison 2 , résumé des épisodes diffusés sur M6 mardi 10 novembre 2026** — coulisses-tv.fr [French]
+   https://www.coulisses-tv.fr/index.php/s%C3%A9ries/item/57243-brigade-anonyme-saison-2,-r%C3%A9sum%C3%A9-des-%C3%A9pisodes-diffus%C3%A9s-sur-m6-mardi-10-novembre-2026
+
+158. **Amor Brujo : tres mundos musicales para un concierto único** — elimparcial.es [Spanish]
+   https://www.elimparcial.es/noticia/303951/cultura/amor-brujo-tres-mundos-musicales-para-un-concierto-unico.html
+
+159. **De ce votează extremiști cei care nu le împărtășesc valorile** — dw.com [Romanian]
+   https://www.dw.com/ro/de-ce-voteaz%C4%83-cu-extremi%C8%99tii-oameni-care-nu-le-%C3%AEmp%C4%83rt%C4%83%C8%99esc-valorile/a-79890432
+
+160. **Серіал « Котляревський », 9 – 10 серії : де дивитися онлайн** — nbnews.com.ua [Ukrainian]
+   https://nbnews.com.ua/kulturaua/2026/11/08/serial-kotlyarevskyj-9-10-seriyi-data-vyhodu-ta-de-dyvytysya-onlajn/
+
+161. **Italia ngre alarmin për luftën hibride , hakerat prorusë publikojnë të dhënat private të kryediplomatit Tajani** — rtsh.al [Albanian]
+   https://rtsh.al/italia-ngre-alarmin-per-luften-hibride-hakerat-proruse-publikojne-te-dhenat-private-te-kryediplomatit-tajani/
+
+162. **Anfører Isaksen og Provstgaard deler med Højlund i Serie A** — bt.dk [Danish]
+   https://www.bt.dk/fodbold/anfoerer-isaksen-og-provstgaard-deler-med-hoejlund-i-serie-a
