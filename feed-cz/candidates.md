@@ -1,167 +1,99 @@
-# Kandidáti — 2026-11-10T07:46:49+00:00 (41 položek)
+# Kandidáti — 2026-11-11T01:31:25+00:00 (24 položek)
 
-_Zdroje: Google News 116 · GDELT 0 (disabled) · feedy 1 · watch 0_
+_Zdroje: Google News 133 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **81 % Romů v Česku žije v přeplněných bytech. Romové jsou také násobně více ohroženi chudobou** — https://a2larm.cz/feed/ [cs]
-   https://denikalarm.cz/2026/11/81-romu-v-cesku-zije-v-preplnenych-bytech-romove-jsou-take-nasobne-vice-ohrozeni-chudobou/
-   Podle zprávy Evropské komise o pokroku v začleňování Romů v EU se Romové v Česku potýkají s chudobou, segregací ve vzdělávání a problémy s bydlením.
+1. **Superdávky stihneme v listopadu přepočítat a vyplatit, slibuje Úřad práce** — https://www.novinky.cz/rss [cs]
+   https://www.novinky.cz/clanek/ekonomika-superdavky-stihneme-v-listopadu-prepocitat-a-vyplatit-slibuje-urad-prace-40607910
+   Úřad práce čelí kritice neziskových organizací kvůli superdávce. Hrozí podle nich zpoždění s výplatou dávky kvůli změně výpočtu. Podle úřadu je sice přepočet složitý, ale příjemci se nemusí bát, že by
 
-2. **Milan Mazurek dřív hulákal na cizince. Teď ho Svobodní vezou do Prahy jako hvězdu** — https://hlidacipes.org/feed/ [cs]
-   https://hlidacipes.org/svobodni-narazili-s-prodejem-listku-na-akci-s-milanem-mazurkem-kvuli-extremismu/
-   PROFIL. Mnozí fanoušci slovenského europoslance Milana Mazurka by svého oblíbence na pár let starých fotkách a záběrech dost možná ani nepoznali. S holou hlavou, viditelně pár kily navíc a zeleným tri
+2. **Mluvil o vystřílení mešit. Houellebecqovi hrozí za „podněcování k nenávisti“ vězení** — https://servis.idnes.cz/rss.aspx?c=zpravodaj [cs]
+   https://www.idnes.cz/kultura/literatura/mluvil-o-vystrileni-mesit-houellebecqovi-hrozi-trest-za-podnecovani-k-nenavisti.A261110_194326_literatura_remy#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main
+   Známý francouzský spisovatel Michel Houellebecq stane před soudem. Za kontroverzní výroky o muslimech mu hrozí postih za podněcování k nenávisti.
 
-3. **Jede se na výlet. Parta se stará o děti z ubytoven - Reportér Magazín** — Reportér Magazín [cs]
-   https://reportermagazin.cz/114323/jede-se-na-vylet-parta-se-stara-o-deti-z-ubytoven/
-   Jede se na výlet. Parta se stará o děti z ubytoven Reportér Magazín
+3. **Soud o kandidátech ANO z ubytovny: Hrubě porušili volební zákon** — https://www.seznamzpravy.cz/rss [cs]
+   https://www.seznamzpravy.cz/clanek/domaci-kauzy-soud-o-kandidatech-ano-z-ubytovny-hrube-porusili-volebni-zakon-320173
+   Kandidát na starostu Pavel Fišer si před volbami napsal bydliště na ubytovnu pro dělníky. A s ním další čtyři kandidáti ANO. Nikdo z nich se nakonec do zastupitelstva nedostal.
 
-4. **Byla jsem pro ně ta Romka a často mě přehlíželi, líčí končící ředitelka muzea - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/brno/zpravy/jana-horvathova-reditelka-muzeum-romske-kultury-rezignace.A261109_983845_brno-zpravy_zubr?zdroj=dx-poutaniHP_hp
-   Byla jsem pro ně ta Romka a často mě přehlíželi, líčí končící ředitelka muzea iDNES.cz
+4. **Střelec z Krakova, který zabil devět lidí, se zajímal o Breivika, řekl ministr** — https://www.denik.cz/rss/zpravy.html [cs]
+   https://www.denik.cz/evropa/strelec-z-krakova-ktery-zabil-devet-lidi-se-zajimal-o-breivika-rekl-ministr/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=evropa
+   Krakovský střelec, který zabil tři členy své rodiny a šest náhodných kolemjdoucích, se zajímal o norského neonacistického extremistu Anderse Breivika. V úterý to podle agentury PAP řekl ministr sprave
 
-5. **Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/137337-izrael-netanjahu-vyzyva-k-jednote-bez-arabu-aktiviste-krajni-pravice-poradaji-pochod-v-arabsko-zidovskem-meste.html
-   Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě Britské listy
+5. **Zelenskyj je poločlověk, zvrhlík a démon. Ukrajinství je psychická porucha, běsní ruský ideolog** — https://www.forum24.cz/feed/ [cs]
+   https://www.forum24.cz/zelenskyj-je-poloclovek-zvrhlik-a-demon-ukrajinstvi-je-psychicka-porucha-besni-rusky-ideolog
+   NÁZOR / V současném Rusku můžete otevřeně hlásat fašismus, rasismus a chválit válečné zločiny, dokonce se jich dožadovat. Nesmíte ale nahlas prohlašovat, že jste proti válce. To o poměrech v této zemi
 
-6. **Dostupné bydlení v Ústeckém kraji brzdí nejistá pravidla podpory - Ústecký deník** — Ústecký deník [cs]
-   https://ustecky.denik.cz/podnikani/dostupne-bydleni-v-usteckem-kraji-brzdi-nejista-pravidla-podpory/
-   Dostupné bydlení v Ústeckém kraji brzdí nejistá pravidla podpory Ústecký deník
+6. **68 bytů vs. 0: Jak bytová politika Brna přispívá k zachování vyloučených lokalit** — https://denikreferendum.cz/rss.xml [cs]
+   https://denikreferendum.cz/clanek/239575-68-bytu-vs0-jak-bytova-politika-brna-prispiva-kzachovani-vyloucenych-lokalit
+   V Brně se nacházejí dvě stovky sociálních bytů, většina z nich však v pouhých dvou městských částech. Zbytek Brna totiž sociálně slabé na svém území nechce. Podle odborníků tím magistrát přispívá k za
 
-7. **Klaudia Dudová: Na ubytovnách to není život - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/video/klaudia-dudova-na-ubytovnach-to-neni-zivot-93582
-   Klaudia Dudová: Na ubytovnách to není život ČT24
+7. **„Jsme taky lidé“: romští filmaři bojují proti stereotypům - Britské listy** — Britské listy [cs]
+   https://blisty.cz/art/137360.html
+   „Jsme taky lidé“: romští filmaři bojují proti stereotypům Britské listy
 
-8. **Tendr na rekonstrukci cest na hřbitově v Brně byl diskriminační, rozhodl úřad a dal magistrátu pokutu - Brňan** — Brňan [cs]
-   https://www.brnan.cz/udalosti/tendr-na-rekonstrukci-cest-na-hrbitove-v-brne-byl-diskriminacni-rozhodl-urad-a-dal-magistratu-pokutu
-   Tendr na rekonstrukci cest na hřbitově v Brně byl diskriminační, rozhodl úřad a dal magistrátu pokutu Brňan
+8. **Střelec z Krakova se zajímal o norského vraha Breivika, zjistila policie - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/zahranicni/polsko-krakov-strelec-utok-anders-breivik-krajni-pravice.A261110_105501_zahranicni_kha
+   Střelec z Krakova se zajímal o norského vraha Breivika, zjistila policie iDNES.cz
 
-9. **Sport nemá pohlaví, ani stranický dres - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
-   https://www.parlamentnilisty.cz/profily/clanek.aspx?id=148020
-   Sport nemá pohlaví, ani stranický dres ParlamentniListy.cz
+9. **Milan Mazurek v minulosti kričal na cudzincov. Teraz ho Slobodní vezú do Prahy ako hviezdu - týždeň** — týždeň [cs]
+   https://www.tyzden.sk/politika/140889/milan-mazurek-v-minulosti-krical-na-cudzincov-teraz-ho-slobodni-vezu-do-prahy-ako-hviezdu/?ref=tit
+   Milan Mazurek v minulosti kričal na cudzincov. Teraz ho Slobodní vezú do Prahy ako hviezdu týždeň
 
-10. **Pozor na BLISSFULIFY: za plavky posílá něco jiného - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/clanek/zpravy-ombudsman-blesku/852299/manzel-chtel-danu-potesit-pred-dovolenou-ale-misto-plavek-prisel-hadr-e-shop-penize-vratit-nechce.html
-   Pozor na BLISSFULIFY: za plavky posílá něco jiného Blesk.cz
+10. **Korecký doufá v moudrost Nejvyššího soudu v kauze SPD. Mikulášová dovolání vítá - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/domaci/korecky-doufa-v-moudrost-nejvyssiho-soudu-v-kauze-spd-mikulasova-dovolani-vita-379454
+   Korecký doufá v moudrost Nejvyššího soudu v kauze SPD. Mikulášová dovolání vítá ČT24
 
-11. **Mnozí senioři doplatili na rozdělení Československa. Kvůli úředním pravidlům nemohli získat příspěvek ani v jedné zemi - České důchody** — České důchody [cs]
-   https://ceskeduchody.cz/finance/mnozi-seniori-doplatili-na-rozdeleni-ceskoslovenska-kvuli-urednim-pravidlum-nemohli-ziskat-prispevek-ani-v-jedne-zemi
-   Mnozí senioři doplatili na rozdělení Československa. Kvůli úředním pravidlům nemohli získat příspěvek ani v jedné zemi České důchody
+11. **„Touhou je, aby odešli.“ Nejznámější francouzský autor Houellebecq je vyšetřován za podněcování k nenávisti - Echo24** — Echo24 [cs]
+   https://www.echo24.cz/a/HwnUa/svet-zpravy-muslimove-musi-odejit-nejznamejsi-francouzsky-spisovatel-houellebecq-je-vysetrovan-za-podnecovani-k-nenavisti
+   „Touhou je, aby odešli.“ Nejznámější francouzský autor Houellebecq je vyšetřován za podněcování k nenávisti Echo24
 
-12. **Manžel chtěl Danu potěšit před dovolenou, ale... Místo plavek přišel hadr! E-shop peníze vrátit nechce - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/galerie/zpravy-ombudsman-blesku/1508767/manzel-chtel-danu-potesit-pred-dovolenou-ale-misto-plavek-prisel-hadr-e-shop-penize-vratit-nechce?foto=0
-   Manžel chtěl Danu potěšit před dovolenou, ale... Místo plavek přišel hadr! E-shop peníze vrátit nechce Blesk.cz
+12. **Babiš 17. listopadu jede jednat do Izraele? Zbabělost, ostuda, zuří Kupka - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
+   https://www.parlamentnilisty.cz/arena/monitor/Babis-17-listopadu-jede-jednat-do-Izraele-Zbabelost-ostuda-zuri-Kupka-799368
+   Babiš 17. listopadu jede jednat do Izraele? Zbabělost, ostuda, zuří Kupka ParlamentniListy.cz
 
-13. **COP31: Světoví lídři musí ukončit vliv fosilního průmyslu na klimatickou politiku** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/cop31-svetovi-lidri-musi-ukoncit-vliv-fosilniho-prumyslu-na-klimatickou-politiku/
-   Vlády musí přestat podporovat fosilní průmysl a začít jednat o rychlém a spravedlivém odklonu od uhlí, ropy a plynu. Amnesty International k tomu vyzývá v den zahájení klimatické konference COP31 v Tu
+13. **JAKÉ PROBLÉMY PŘINÁŠÍ AŠI OBCHOD S CHUDOBOU? - regionzapad.cz** — regionzapad.cz [cs]
+   https://www.regionzapad.cz/video/?code=nAClUH%2DX178
+   JAKÉ PROBLÉMY PŘINÁŠÍ AŠI OBCHOD S CHUDOBOU? regionzapad.cz
 
-14. **„Je potřeba vytyčit hranice“. Nejvyšší státní zastupitelství se dovolalo v kauze předvolebních plakátů SPD** — https://ct24.ceskatelevize.cz/rss/hlavni-zpravy [cs]
-   https://ct24.ceskatelevize.cz/clanek/domaci/nejvyssi-statni-zastupitelstvi-se-dovolalo-v-kauze-predvolebnich-plakatu-spd-379420
-   Kauza předvolebních plakátů SPD půjde před Nejvyšší soud. Proti verdiktu, dle kterého vládní hnutí SPD nespáchalo kontroverzními předvolebními plakáty podněcování k nenávisti ani jiný trestný čin, se 
+14. **Umění za mřížemi? Vězně nadchnete, jak ale projekt skončí, jsou zklamaní, říká kurátor - Český rozhlas Vltava** — Český rozhlas Vltava [cs]
+   https://vltava.rozhlas.cz/umeni-za-mrizemi-vezne-nadchnete-kdyz-pak-projekt-skonci-jsou-zklamani-ocekavaji-9655561
+   Umění za mřížemi? Vězně nadchnete, jak ale projekt skončí, jsou zklamaní, říká kurátor Český rozhlas Vltava
 
-15. **Kauza vydání knihy zpochybňující holokaust. Soud znovu rozhodl, uložil podmínky** — https://servis.idnes.cz/rss.aspx?c=zpravodaj [cs]
-   https://www.idnes.cz/brno/zpravy/kniha-holokaust-brno-mestsky-soud-podminky-zprosteni-viny.A261109_151549_brno-zpravy_zubr#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main
-   V případu vydání knihy Germara Rudolfa Holocaust pod lupou, která zpochybňuje fakta o holokaustu, v pondělí Městský soud v Brně uložil třem obžalovaným podmíněné tresty, potrestal i nakladatelství. Tr
+15. **Samoživitelé častěji žádají o pomoc. Nezisková organizace eviduje devítinásobný nárůst žádostí - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zivotni-styl/spolecnost/samozivitele-casteji-zadaji-o-pomoc-neziskova-organizace-eviduje-devitinasobny_2611100845_med
+   Samoživitelé častěji žádají o pomoc. Nezisková organizace eviduje devítinásobný nárůst žádostí iROZHLAS
 
-16. **Nikoho nediskriminujeme, migranty můžeme donutit odejít, řekla Le Penová** — https://servis.idnes.cz/rss.aspx?c=zpravodaj [cs]
-   https://www.idnes.cz/zpravy/mediahub/nediskriminujeme-prinutime-vas-i-odejit-vzkazala-le-penova-migrantum-levice-zuri.A261109_121503_zahranicni_remy#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main
-   Žhavá favoritka na budoucí francouzskou prezidentku Marine Le Penová rozhodně odmítla, že by se ona nebo její strana posouvaly k extremismu a fašismu. V nedělním pořadu 60 Minutes americké stanice CBS
+16. **Pětihodinový zátah. Policie zkontrolovala na 320 osob v ubytovnách na Rychnovsku - Rychnovský deník** — Rychnovský deník [cs]
+   https://rychnovsky.denik.cz/krimi/rychnovsko-policie-kontroly-na-320-osob-cizinci-v-ubytovnach/
+   Pětihodinový zátah. Policie zkontrolovala na 320 osob v ubytovnách na Rychnovsku Rychnovský deník
 
-17. **Soud v případu vydání knihy zpochybňující holokaust uložil podmínky** — https://www.ceskenoviny.cz/sluzby/rss/cr.php [cs]
-   https://www.ceskenoviny.cz/zpravy/soud-v-pripadu-vydani-knihy-zpochybnujici-holokaust-ulozil-podminky/2899532?utm_source=rss&utm_medium=feed
-   Brno - Městský soud v Brně dnes v případu vydání knihy Germara Rudolfa Holocaust pod lupou, která zpochybňuje fakta o holokaustu, uložil třem obžalovaným mimo jiné podmíněné tresty, potrestal i naklad
+17. **Domy by do Dukovan mohly vozit kamiony, firma chce stavět ubytovny i kanceláře - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/jihlava/zpravy/budova-dum-h3atelier-modulline-havlickuv-brod-dukovany-elektrarna-zakazka.A261109_983837_jihlava-zpravy_mv
+   Domy by do Dukovan mohly vozit kamiony, firma chce stavět ubytovny i kanceláře iDNES.cz
 
-18. **Kalkulačka příspěvku na bydlení: Výpočet dávky online a komu se vyplatí žádat** — https://www.e15.cz/rss [cs]
-   https://www.e15.cz/kalkulacka-prispevek-na-bydleni
-   Příspěvek na bydlení nahradila tzv. superdávka, která slučuje příspěvek na bydlení, přídavek na dítě, příspěvek na živobytí a doplatek na bydlení. Jako samostatná dávka už tedy příspěvek na bydlení ne
+18. **Vláda rezignuje na zdravé obědy pro děti. Piráti v Ostravě přitom ukázali, že změna je možná - Pirátská strana** — Pirátská strana [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/vlada-rezignuje-na-zdrave-obedy-pro-deti-pirati-v-ostrave-pritom-ukazali-ze-zmena-je-mozna/
+   Vláda rezignuje na zdravé obědy pro děti. Piráti v Ostravě přitom ukázali, že změna je možná Pirátská strana
 
-19. **Ústava a listina práv jsou přeložené do romštiny, předmluvu napsal J. Baxa - Advokátní deník** — Advokátní deník [cs]
-   https://advokatnidenik.cz/2026/11/09/ustava-a-listina-prav-jsou-prelozene-do-romstiny-predmluvu-napsal-j-baxa/
-   Ústava a listina práv jsou přeložené do romštiny, předmluvu napsal J. Baxa Advokátní deník
+19. **Nejasná pravidla brzdí bydlení v Ústeckém kraji - Deník veřejné správy** — Deník veřejné správy [cs]
+   https://www.dvs.cz/clanek.asp?id=7135906
+   Nejasná pravidla brzdí bydlení v Ústeckém kraji Deník veřejné správy
 
-20. **Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech - Brněnská Drbna** — Brněnská Drbna [cs]
-   https://brnenska.drbna.cz/spolecnost/905300-za-odchodem-z-cela-muzea-romske-kultury-je-unava-i-spory-rekla-horvathova.html
-   Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech Brněnská Drbna
+20. **Lidé ve Slavětíně půjdou k volbám znovu, hlasování prohlásil soud za neplatné - Seznam Zprávy** — Seznam Zprávy [cs]
+   https://www.seznamzpravy.cz/clanek/domaci-politika-lide-ve-slavetine-pujdou-k-volbam-znovu-hlasovani-prohlasil-soud-za-neplatne-320232
+   Lidé ve Slavětíně půjdou k volbám znovu, hlasování prohlásil soud za neplatné Seznam Zprávy
 
-21. **Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech – fotogalerie - Brněnská Drbna** — Brněnská Drbna [cs]
-   https://brnenska.drbna.cz/galerie/clanek/905300-horvathova-konci-v-cele-muzea-romske-kultury-mluvi-o-unave-i-sporech.html?zpet=%2Fspolecnost%2F905300-za-odchodem-z-cela-muzea-romske-kultury-je-unava-i-spory-rekla-horvathova.html
-   Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech – fotogalerie Brněnská Drbna
+21. **Dražší hypotéky kvůli státním dluhům, zpoždění a mlžení kolem Dukovan a nesmyslné škrty ve špičkové vědě - www.pirati.cz** — www.pirati.cz [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/sdilene/?sdilene=hypoteky-dukovany-a-skrty-ve-vede
+   Dražší hypotéky kvůli státním dluhům, zpoždění a mlžení kolem Dukovan a nesmyslné škrty ve špičkové vědě www.pirati.cz
 
-22. **Můj přítel Hamás a protipožární zeď proti extremismu všeho druhu - Lidovky.cz** — Lidovky.cz [cs]
-   https://www.lidovky.cz/orientace/berlin-levice-volby-eralpova-hamas-protipozarni-zed-proti-extremismu.A261109_100304_ln-orientace_lvot
-   Můj přítel Hamás a protipožární zeď proti extremismu všeho druhu Lidovky.cz
+22. **Pokus o vyvraždění vlastní rodiny. Policie podezírá dívku, které nebylo ani 15 let - Echo24** — Echo24 [cs]
+   https://www.echo24.cz/a/HuLn5/zpravy-domov-policie-podezreni-z-pokusu-o-vyvrazdeni-pribuznych-divka-mladsi-patnacti-let
+   Pokus o vyvraždění vlastní rodiny. Policie podezírá dívku, které nebylo ani 15 let Echo24
 
-23. **Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě - Britské listy** — Britské listy [cs]
-   https://blisty.cz/art/137337-izrael-netanjahu-vyzyva-k-jednote-bez-arabu-aktiviste-krajni-pravice-poradaji-pochod-v-arabsko-zidovskem-meste
-   Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě Britské listy
+23. **Dětský ombudsman řeší stovky podnětů. Často rodinné spory a stížnosti na OSPOD - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/domaci/detsky-ombudsman-resi-stovky-podnetu-casto-rodinne-spory-a-stiznosti-na-ospod-379139
+   Dětský ombudsman řeší stovky podnětů. Často rodinné spory a stížnosti na OSPOD ČT24
 
-24. **Le Penová by ve druhém kole voleb ve Francii porazila Mélenchona, ukázal průzkum - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/zpravy/2899440
-   Le Penová by ve druhém kole voleb ve Francii porazila Mélenchona, ukázal průzkum České noviny
-
-25. **Těžké chvíle pro Evropu: Nadcházející volby ve Španělsku, Francii, Itálii a Polsku mohou posunout EU výrazně doprava - Hospodářské noviny** — Hospodářské noviny [cs]
-   https://archiv.hn.cz/c1-67948300-tezke-chvile-pro-evropu-nadchazejici-volby-ve-spanelsku-francii-italii-a-polsku-mohou-posunout-eu-vyrazne-doprava
-   Těžké chvíle pro Evropu: Nadcházející volby ve Španělsku, Francii, Itálii a Polsku mohou posunout EU výrazně doprava Hospodářské noviny
-
-26. **Zemřel muž, který v Krakově zabil šest lidí. Téměř všichni zranění jsou ve stabilizovaném stavu - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/zemrel-utocnik-z-krakova-v-centru-mesta-zabil-sest-lidi_2611090715_raf
-   Zemřel muž, který v Krakově zabil šest lidí. Téměř všichni zranění jsou ve stabilizovaném stavu iROZHLAS
-
-27. **Paukner označil střelce z Krakova za levicového aktivistu. Důkazy chybí - Manipulátoři.cz** — Manipulátoři.cz [cs]
-   https://manipulatori.cz/paukner-oznacil-strelce-z-krakova-za-levicoveho-aktivistu-dukazy-chybi/
-   Paukner označil střelce z Krakova za levicového aktivistu. Důkazy chybí Manipulátoři.cz
-
-28. **Bradáčová se dovolala v kauze plakátů SPD - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/zpravy/2899339
-   Bradáčová se dovolala v kauze plakátů SPD České noviny
-
-29. **Bradáčová se dovolala v kauze plakátů SPD. Chce určit limity politického projevu - Deník.cz** — Deník.cz [cs]
-   https://www.denik.cz/cesko/bradacova-se-dovolala-v-kauze-plakatu-spd-chce-urcit-limity-politickeho-projevu/
-   Bradáčová se dovolala v kauze plakátů SPD. Chce určit limity politického projevu Deník.cz
-
-30. **Nejvyšší státní zástupkyně Lenka Bradáčová podala dovolání v kauze plakátů hnutí SPD. - Deník N** — Deník N [cs]
-   https://denikn.cz/minuta/2251019/
-   Nejvyšší státní zástupkyně Lenka Bradáčová podala dovolání v kauze plakátů hnutí SPD. Deník N
-
-31. **Cizinci pobírali dávky na bydlení v Česku, přitom žili v cizině. Šlo o miliony korun - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/660888-cizinci-pobirali-davky-na-bydleni-v-cesku-pritom-zili-v-cizine-slo-o-miliony-korun
-   Cizinci pobírali dávky na bydlení v Česku, přitom žili v cizině. Šlo o miliony korun TN.cz
-
-32. **Lidé ztroskotají na blbě zaškrtlém políčku, kritizují odborníci státní pomoc - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-velka-kritika-statni-pomoci-lide-ztroskotaji-na-blbe-zaskrtlem-policku-319726
-   Lidé ztroskotají na blbě zaškrtlém políčku, kritizují odborníci státní pomoc Seznam Zprávy
-
-33. **Jak funguje tzv. superdávka - 8. listopadu - Události - Česká televize** — Česká televize [cs]
-   https://www.ceskatelevize.cz/porady/1097181328-udalosti/226411000101108/cast/1218564/
-   Jak funguje tzv. superdávka - 8. listopadu - Události Česká televize
-
-34. **Velká razie cizinecké policie: Kontroly v ubytovnách, klubech i firmách odhalily nelegální pracovníky - Noviny kraje** — Noviny kraje [cs]
-   https://www.novinykraje.cz/plzensky/2026/11/09/velka-razie-cizinecke-policie-kontroly-v-ubytovnach-klubech-i-firmach-odhalily-nelegalni-pracovniky/
-   Velká razie cizinecké policie: Kontroly v ubytovnách, klubech i firmách odhalily nelegální pracovníky Noviny kraje
-
-35. **Učitelku rostoucí nájem donutil hledat neobvyklé řešení. Na 37 m² získala vlastní domov i finanční svobodu - Tiscali.cz** — Tiscali.cz [cs]
-   https://www.tiscali.cz/ucitelku-rostouci-najem-donutil-hledat-neobvykle-reseni-na-37-m2-ziskala-vlastni-domov-i-financni-svobodu-803206
-   Učitelku rostoucí nájem donutil hledat neobvyklé řešení. Na 37 m² získala vlastní domov i finanční svobodu Tiscali.cz
-
-36. **Brněnský tendr na rekonstrukci cest na hřbitově byl diskriminační - Deník veřejné správy** — Deník veřejné správy [cs]
-   https://www.dvs.cz/clanek.asp?id=7136255
-   Brněnský tendr na rekonstrukci cest na hřbitově byl diskriminační Deník veřejné správy
-
-37. **Šéf antimonopolního úřadu potvrdil pokutu pro brněnský magistrát za tendr na cesty na hřbitově - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-sef-antimonopolniho-uradu-potvrdil-pokutu-pro-brnensky-magistrat-za-tendr-na-cesty-na-hrbitove-40607674
-   Šéf antimonopolního úřadu potvrdil pokutu pro brněnský magistrát za tendr na cesty na hřbitově Novinky
-
-38. **Podpis manžela jako podmínka pro úvěr. Farmářky si stěžují na diskriminaci - Ekonomický deník** — Ekonomický deník [cs]
-   https://ekonomickydenik.cz/farmarky-eu-diskriminace-uver/
-   Podpis manžela jako podmínka pro úvěr. Farmářky si stěžují na diskriminaci Ekonomický deník
-
-39. **ÚOHS potrestal Brno pokutou 250.000 korun za chyby v zakázce na hřbitovní cesty - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/jihomoravsky-kraj/uohs-potrestal-brno-pokutou-250-000-korun-za-chyby-v-zakazce-na-hrbitovni-cesty.A261109_123036_metro-brno-zpravy_air
-   ÚOHS potrestal Brno pokutou 250.000 korun za chyby v zakázce na hřbitovní cesty Metro.cz
-
-40. **Marine Le Penová tvrdí, že ve Francii nedochází k diskriminaci - iDNES.tv** — iDNES.tv [cs]
-   https://tv.idnes.cz/zahranicni/marine-le-penova-francie-diskriminace-imigranti-tvrdit.V261109_181422_idnestv_made
-   Marine Le Penová tvrdí, že ve Francii nedochází k diskriminaci iDNES.tv
-
-41. **Ombudsman pomohl muži získat výchovné za syna. ČSSZ původně uznala jen jedno dítě - Finance.cz** — Finance.cz [cs]
-   https://www.finance.cz/clanky/ombudsman-pomohl-muzi-ziskat-vychovne-za-syna-cssz-puvodne-uznala-jen-jedno-dite/
-   Ombudsman pomohl muži získat výchovné za syna. ČSSZ původně uznala jen jedno dítě Finance.cz
+24. **Pozor na půjčky na dárky: malé částky se mohou nasčítat - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/clanek/radce-penize/852389/pujcky-na-darky-lakaji-na-par-kliknuti-3-veci-ktere-musite-znat-nez-naletite-na-vanoce-na-dluh.html
+   Pozor na půjčky na dárky: malé částky se mohou nasčítat Blesk.cz

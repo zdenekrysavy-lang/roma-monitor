@@ -1,397 +1,244 @@
 {
-  "generated_utc": "2026-11-10T07:46:49+00:00",
-  "count": 41,
+  "generated_utc": "2026-11-11T01:31:25+00:00",
+  "count": 24,
   "sources": {
     "profile": "cz",
-    "google_news": 116,
+    "google_news": 133,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 1,
-    "news_feeds": 7,
+    "news_feeds": 11,
     "watch": 0,
-    "before_dedup": 98,
-    "total": 77,
-    "skipped_seen": 63,
-    "gn_resolved": 12,
-    "gn_resolve_tried": 12,
-    "dropped_after_resolve": 2,
-    "new": 12,
-    "carried_over": 29,
-    "window_start": "2026-11-09T07:47:14+00:00",
-    "publish_run": true,
+    "before_dedup": 112,
+    "total": 90,
+    "skipped_seen": 60,
+    "gn_resolved": 24,
+    "gn_resolve_tried": 24,
+    "dropped_after_resolve": 6,
+    "new": 24,
+    "carried_over": 0,
+    "window_start": "2026-11-10T07:46:49+00:00",
+    "publish_run": false,
     "vps_trigger": "ok"
   },
   "candidates": [
     {
-      "title": "81 % Romů v Česku žije v přeplněných bytech. Romové jsou také násobně více ohroženi chudobou",
-      "url": "https://denikalarm.cz/2026/11/81-romu-v-cesku-zije-v-preplnenych-bytech-romove-jsou-take-nasobne-vice-ohrozeni-chudobou/",
-      "source": "https://a2larm.cz/feed/",
-      "snippet": "Podle zprávy Evropské komise o pokroku v začleňování Romů v EU se Romové v Česku potýkají s chudobou, segregací ve vzdělávání a problémy s bydlením.",
-      "published": "Tue, 10 Nov 2026 05:12:00 +0000",
+      "title": "Superdávky stihneme v listopadu přepočítat a vyplatit, slibuje Úřad práce",
+      "url": "https://www.novinky.cz/clanek/ekonomika-superdavky-stihneme-v-listopadu-prepocitat-a-vyplatit-slibuje-urad-prace-40607910",
+      "source": "https://www.novinky.cz/rss",
+      "snippet": "Úřad práce čelí kritice neziskových organizací kvůli superdávce. Hrozí podle nich zpoždění s výplatou dávky kvůli změně výpočtu. Podle úřadu je sice přepočet složitý, ale příjemci se nemusí bát, že by jim peníze za říjen v listopadu nepřišly. Aby k podobným problémům nedošlo, upravil i otevírací dob",
+      "published": "Tue, 10 Nov 2026 17:26:33 +0100",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Milan Mazurek dřív hulákal na cizince. Teď ho Svobodní vezou do Prahy jako hvězdu",
-      "url": "https://hlidacipes.org/svobodni-narazili-s-prodejem-listku-na-akci-s-milanem-mazurkem-kvuli-extremismu/",
-      "source": "https://hlidacipes.org/feed/",
-      "snippet": "PROFIL. Mnozí fanoušci slovenského europoslance Milana Mazurka by svého oblíbence na pár let starých fotkách a záběrech dost možná ani nepoznali. S holou hlavou, viditelně pár kily navíc a zeleným tričkem Kotlebovy extremistické strany vyháněl romské „asociály“ (Mazurkův vlastní pojem) z vlaků pod T",
-      "published": "Tue, 10 Nov 2026 05:30:08 +0000",
+      "title": "Mluvil o vystřílení mešit. Houellebecqovi hrozí za „podněcování k nenávisti“ vězení",
+      "url": "https://www.idnes.cz/kultura/literatura/mluvil-o-vystrileni-mesit-houellebecqovi-hrozi-trest-za-podnecovani-k-nenavisti.A261110_194326_literatura_remy#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+      "source": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
+      "snippet": "Známý francouzský spisovatel Michel Houellebecq stane před soudem. Za kontroverzní výroky o muslimech mu hrozí postih za podněcování k nenávisti.",
+      "published": "Tue, 10 Nov 2026 19:04:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Jede se na výlet. Parta se stará o děti z ubytoven - Reportér Magazín",
-      "url": "https://reportermagazin.cz/114323/jede-se-na-vylet-parta-se-stara-o-deti-z-ubytoven/",
-      "source": "Reportér Magazín",
-      "snippet": "Jede se na výlet. Parta se stará o děti z ubytoven Reportér Magazín",
-      "published": "Tue, 10 Nov 2026 05:11:04 GMT",
+      "title": "Soud o kandidátech ANO z ubytovny: Hrubě porušili volební zákon",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-soud-o-kandidatech-ano-z-ubytovny-hrube-porusili-volebni-zakon-320173",
+      "source": "https://www.seznamzpravy.cz/rss",
+      "snippet": "Kandidát na starostu Pavel Fišer si před volbami napsal bydliště na ubytovnu pro dělníky. A s ním další čtyři kandidáti ANO. Nikdo z nich se nakonec do zastupitelstva nedostal.",
+      "published": "Tue, 10 Nov 2026 17:00:00 +0100",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Byla jsem pro ně ta Romka a často mě přehlíželi, líčí končící ředitelka muzea - iDNES.cz",
-      "url": "https://www.idnes.cz/brno/zpravy/jana-horvathova-reditelka-muzeum-romske-kultury-rezignace.A261109_983845_brno-zpravy_zubr?zdroj=dx-poutaniHP_hp",
+      "title": "Střelec z Krakova, který zabil devět lidí, se zajímal o Breivika, řekl ministr",
+      "url": "https://www.denik.cz/evropa/strelec-z-krakova-ktery-zabil-devet-lidi-se-zajimal-o-breivika-rekl-ministr/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=evropa",
+      "source": "https://www.denik.cz/rss/zpravy.html",
+      "snippet": "Krakovský střelec, který zabil tři členy své rodiny a šest náhodných kolemjdoucích, se zajímal o norského neonacistického extremistu Anderse Breivika. V úterý to podle agentury PAP řekl ministr spravedlnosti Waldemar Žurek. Podle něj i další zajištěné důkazy poukazují na to, že střelec mohl mít názo",
+      "published": "Tue, 10 Nov 2026 11:00:45 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T01:31:25+00:00"
+    },
+    {
+      "title": "Zelenskyj je poločlověk, zvrhlík a démon. Ukrajinství je psychická porucha, běsní ruský ideolog",
+      "url": "https://www.forum24.cz/zelenskyj-je-poloclovek-zvrhlik-a-demon-ukrajinstvi-je-psychicka-porucha-besni-rusky-ideolog",
+      "source": "https://www.forum24.cz/feed/",
+      "snippet": "NÁZOR / V současném Rusku můžete otevřeně hlásat fašismus, rasismus a chválit válečné zločiny, dokonce se jich dožadovat. Nesmíte ale nahlas prohlašovat, že jste proti válce. To o poměrech v této zemi snad říká vše podstatné. Všechno tohle zlo dokonale ztělesňuje fašistický ideolog Alexandr Dugin, k",
+      "published": "Tue, 10 Nov 2026 13:20:45 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T01:31:25+00:00"
+    },
+    {
+      "title": "68 bytů vs. 0: Jak bytová politika Brna přispívá k zachování vyloučených lokalit",
+      "url": "https://denikreferendum.cz/clanek/239575-68-bytu-vs0-jak-bytova-politika-brna-prispiva-kzachovani-vyloucenych-lokalit",
+      "source": "https://denikreferendum.cz/rss.xml",
+      "snippet": "V Brně se nacházejí dvě stovky sociálních bytů, většina z nich však v pouhých dvou městských částech. Zbytek Brna totiž sociálně slabé na svém území nechce. Podle odborníků tím magistrát přispívá k zachování vyloučených lokalit.",
+      "published": "Tue, 10 Nov 2026 11:18:09 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T01:31:25+00:00"
+    },
+    {
+      "title": "„Jsme taky lidé“: romští filmaři bojují proti stereotypům - Britské listy",
+      "url": "https://blisty.cz/art/137360.html",
+      "source": "Britské listy",
+      "snippet": "„Jsme taky lidé“: romští filmaři bojují proti stereotypům Britské listy",
+      "published": "Tue, 10 Nov 2026 23:56:14 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T01:31:25+00:00"
+    },
+    {
+      "title": "Střelec z Krakova se zajímal o norského vraha Breivika, zjistila policie - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-krakov-strelec-utok-anders-breivik-krajni-pravice.A261110_105501_zahranicni_kha",
       "source": "iDNES.cz",
-      "snippet": "Byla jsem pro ně ta Romka a často mě přehlíželi, líčí končící ředitelka muzea iDNES.cz",
-      "published": "Mon, 09 Nov 2026 16:00:00 GMT",
+      "snippet": "Střelec z Krakova se zajímal o norského vraha Breivika, zjistila policie iDNES.cz",
+      "published": "Tue, 10 Nov 2026 10:18:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě - Britské listy",
-      "url": "https://www.blisty.cz/art/137337-izrael-netanjahu-vyzyva-k-jednote-bez-arabu-aktiviste-krajni-pravice-poradaji-pochod-v-arabsko-zidovskem-meste.html",
-      "source": "Britské listy",
-      "snippet": "Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě Britské listy",
-      "published": "Mon, 09 Nov 2026 23:10:42 GMT",
+      "title": "Milan Mazurek v minulosti kričal na cudzincov. Teraz ho Slobodní vezú do Prahy ako hviezdu - týždeň",
+      "url": "https://www.tyzden.sk/politika/140889/milan-mazurek-v-minulosti-krical-na-cudzincov-teraz-ho-slobodni-vezu-do-prahy-ako-hviezdu/?ref=tit",
+      "source": "týždeň",
+      "snippet": "Milan Mazurek v minulosti kričal na cudzincov. Teraz ho Slobodní vezú do Prahy ako hviezdu týždeň",
+      "published": "Tue, 10 Nov 2026 10:52:58 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Dostupné bydlení v Ústeckém kraji brzdí nejistá pravidla podpory - Ústecký deník",
-      "url": "https://ustecky.denik.cz/podnikani/dostupne-bydleni-v-usteckem-kraji-brzdi-nejista-pravidla-podpory/",
-      "source": "Ústecký deník",
-      "snippet": "Dostupné bydlení v Ústeckém kraji brzdí nejistá pravidla podpory Ústecký deník",
-      "published": "Mon, 09 Nov 2026 16:14:02 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
-    },
-    {
-      "title": "Klaudia Dudová: Na ubytovnách to není život - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/video/klaudia-dudova-na-ubytovnach-to-neni-zivot-93582",
+      "title": "Korecký doufá v moudrost Nejvyššího soudu v kauze SPD. Mikulášová dovolání vítá - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/korecky-doufa-v-moudrost-nejvyssiho-soudu-v-kauze-spd-mikulasova-dovolani-vita-379454",
       "source": "ČT24",
-      "snippet": "Klaudia Dudová: Na ubytovnách to není život ČT24",
-      "published": "Sat, 07 Nov 2026 08:00:00 GMT",
+      "snippet": "Korecký doufá v moudrost Nejvyššího soudu v kauze SPD. Mikulášová dovolání vítá ČT24",
+      "published": "Tue, 10 Nov 2026 08:21:38 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Tendr na rekonstrukci cest na hřbitově v Brně byl diskriminační, rozhodl úřad a dal magistrátu pokutu - Brňan",
-      "url": "https://www.brnan.cz/udalosti/tendr-na-rekonstrukci-cest-na-hrbitove-v-brne-byl-diskriminacni-rozhodl-urad-a-dal-magistratu-pokutu",
-      "source": "Brňan",
-      "snippet": "Tendr na rekonstrukci cest na hřbitově v Brně byl diskriminační, rozhodl úřad a dal magistrátu pokutu Brňan",
-      "published": "Tue, 10 Nov 2026 05:56:00 GMT",
+      "title": "„Touhou je, aby odešli.“ Nejznámější francouzský autor Houellebecq je vyšetřován za podněcování k nenávisti - Echo24",
+      "url": "https://www.echo24.cz/a/HwnUa/svet-zpravy-muslimove-musi-odejit-nejznamejsi-francouzsky-spisovatel-houellebecq-je-vysetrovan-za-podnecovani-k-nenavisti",
+      "source": "Echo24",
+      "snippet": "„Touhou je, aby odešli.“ Nejznámější francouzský autor Houellebecq je vyšetřován za podněcování k nenávisti Echo24",
+      "published": "Tue, 10 Nov 2026 19:15:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Sport nemá pohlaví, ani stranický dres - ParlamentniListy.cz",
-      "url": "https://www.parlamentnilisty.cz/profily/clanek.aspx?id=148020",
+      "title": "Babiš 17. listopadu jede jednat do Izraele? Zbabělost, ostuda, zuří Kupka - ParlamentniListy.cz",
+      "url": "https://www.parlamentnilisty.cz/arena/monitor/Babis-17-listopadu-jede-jednat-do-Izraele-Zbabelost-ostuda-zuri-Kupka-799368",
       "source": "ParlamentniListy.cz",
-      "snippet": "Sport nemá pohlaví, ani stranický dres ParlamentniListy.cz",
-      "published": "Tue, 10 Nov 2026 05:25:00 GMT",
+      "snippet": "Babiš 17. listopadu jede jednat do Izraele? Zbabělost, ostuda, zuří Kupka ParlamentniListy.cz",
+      "published": "Tue, 10 Nov 2026 17:24:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Pozor na BLISSFULIFY: za plavky posílá něco jiného - Blesk.cz",
-      "url": "https://www.blesk.cz/clanek/zpravy-ombudsman-blesku/852299/manzel-chtel-danu-potesit-pred-dovolenou-ale-misto-plavek-prisel-hadr-e-shop-penize-vratit-nechce.html",
-      "source": "Blesk.cz",
-      "snippet": "Pozor na BLISSFULIFY: za plavky posílá něco jiného Blesk.cz",
-      "published": "Tue, 10 Nov 2026 04:00:00 GMT",
+      "title": "JAKÉ PROBLÉMY PŘINÁŠÍ AŠI OBCHOD S CHUDOBOU? - regionzapad.cz",
+      "url": "https://www.regionzapad.cz/video/?code=nAClUH%2DX178",
+      "source": "regionzapad.cz",
+      "snippet": "JAKÉ PROBLÉMY PŘINÁŠÍ AŠI OBCHOD S CHUDOBOU? regionzapad.cz",
+      "published": "Tue, 10 Nov 2026 22:40:46 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Mnozí senioři doplatili na rozdělení Československa. Kvůli úředním pravidlům nemohli získat příspěvek ani v jedné zemi - České důchody",
-      "url": "https://ceskeduchody.cz/finance/mnozi-seniori-doplatili-na-rozdeleni-ceskoslovenska-kvuli-urednim-pravidlum-nemohli-ziskat-prispevek-ani-v-jedne-zemi",
-      "source": "České důchody",
-      "snippet": "Mnozí senioři doplatili na rozdělení Československa. Kvůli úředním pravidlům nemohli získat příspěvek ani v jedné zemi České důchody",
-      "published": "Tue, 10 Nov 2026 06:09:40 GMT",
+      "title": "Umění za mřížemi? Vězně nadchnete, jak ale projekt skončí, jsou zklamaní, říká kurátor - Český rozhlas Vltava",
+      "url": "https://vltava.rozhlas.cz/umeni-za-mrizemi-vezne-nadchnete-kdyz-pak-projekt-skonci-jsou-zklamani-ocekavaji-9655561",
+      "source": "Český rozhlas Vltava",
+      "snippet": "Umění za mřížemi? Vězně nadchnete, jak ale projekt skončí, jsou zklamaní, říká kurátor Český rozhlas Vltava",
+      "published": "Tue, 10 Nov 2026 17:52:40 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Manžel chtěl Danu potěšit před dovolenou, ale... Místo plavek přišel hadr! E-shop peníze vrátit nechce - Blesk.cz",
-      "url": "https://www.blesk.cz/galerie/zpravy-ombudsman-blesku/1508767/manzel-chtel-danu-potesit-pred-dovolenou-ale-misto-plavek-prisel-hadr-e-shop-penize-vratit-nechce?foto=0",
-      "source": "Blesk.cz",
-      "snippet": "Manžel chtěl Danu potěšit před dovolenou, ale... Místo plavek přišel hadr! E-shop peníze vrátit nechce Blesk.cz",
-      "published": "Tue, 10 Nov 2026 04:27:19 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T07:46:49+00:00"
-    },
-    {
-      "title": "COP31: Světoví lídři musí ukončit vliv fosilního průmyslu na klimatickou politiku",
-      "url": "https://amnesty.cz/cop31-svetovi-lidri-musi-ukoncit-vliv-fosilniho-prumyslu-na-klimatickou-politiku/",
-      "source": "https://amnesty.cz/feed/",
-      "snippet": "Vlády musí přestat podporovat fosilní průmysl a začít jednat o rychlém a spravedlivém odklonu od uhlí, ropy a plynu. Amnesty International k tomu vyzývá v den zahájení klimatické konference COP31 v Turecku. Připomíná, že ochrana klimatu a lidských práv je povinností států podle mezinárodního práva. ",
-      "published": "Mon, 09 Nov 2026 12:13:28 +0000",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "„Je potřeba vytyčit hranice“. Nejvyšší státní zastupitelství se dovolalo v kauze předvolebních plakátů SPD",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nejvyssi-statni-zastupitelstvi-se-dovolalo-v-kauze-predvolebnich-plakatu-spd-379420",
-      "source": "https://ct24.ceskatelevize.cz/rss/hlavni-zpravy",
-      "snippet": "Kauza předvolebních plakátů SPD půjde před Nejvyšší soud. Proti verdiktu, dle kterého vládní hnutí SPD nespáchalo kontroverzními předvolebními plakáty podněcování k nenávisti ani jiný trestný čin, se dovolala nejvyšší státní zástupkyně Lenka Bradáčová. ČT to sdělil mluvčí NSZ Petr Malý. Obžalovaný j",
-      "published": "Mon, 09 Nov 2026 09:27:24 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Kauza vydání knihy zpochybňující holokaust. Soud znovu rozhodl, uložil podmínky",
-      "url": "https://www.idnes.cz/brno/zpravy/kniha-holokaust-brno-mestsky-soud-podminky-zprosteni-viny.A261109_151549_brno-zpravy_zubr#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-      "source": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
-      "snippet": "V případu vydání knihy Germara Rudolfa Holocaust pod lupou, která zpochybňuje fakta o holokaustu, v pondělí Městský soud v Brně uložil třem obžalovaným podmíněné tresty, potrestal i nakladatelství. Tresty dostali jako organizovaná skupina, a to za založení, podporu a propagaci hnutí směřujícího k po",
-      "published": "Mon, 09 Nov 2026 16:48:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Nikoho nediskriminujeme, migranty můžeme donutit odejít, řekla Le Penová",
-      "url": "https://www.idnes.cz/zpravy/mediahub/nediskriminujeme-prinutime-vas-i-odejit-vzkazala-le-penova-migrantum-levice-zuri.A261109_121503_zahranicni_remy#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-      "source": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
-      "snippet": "Žhavá favoritka na budoucí francouzskou prezidentku Marine Le Penová rozhodně odmítla, že by se ona nebo její strana posouvaly k extremismu a fašismu. V nedělním pořadu 60 Minutes americké stanice CBS zároveň také tvrdila, že ve Francii není žádná rasová diskriminace.",
-      "published": "Mon, 09 Nov 2026 16:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Soud v případu vydání knihy zpochybňující holokaust uložil podmínky",
-      "url": "https://www.ceskenoviny.cz/zpravy/soud-v-pripadu-vydani-knihy-zpochybnujici-holokaust-ulozil-podminky/2899532?utm_source=rss&utm_medium=feed",
-      "source": "https://www.ceskenoviny.cz/sluzby/rss/cr.php",
-      "snippet": "Brno - Městský soud v Brně dnes v případu vydání knihy Germara Rudolfa Holocaust pod lupou, která zpochybňuje fakta o holokaustu, uložil třem obžalovaným mimo jiné podmíněné tresty, potrestal i nakladatelství....",
-      "published": "Mon, 09 Nov 2026 14:52:00 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Kalkulačka příspěvku na bydlení: Výpočet dávky online a komu se vyplatí žádat",
-      "url": "https://www.e15.cz/kalkulacka-prispevek-na-bydleni",
-      "source": "https://www.e15.cz/rss",
-      "snippet": "Příspěvek na bydlení nahradila tzv. superdávka, která slučuje příspěvek na bydlení, přídavek na dítě, příspěvek na živobytí a doplatek na bydlení. Jako samostatná dávka už tedy příspěvek na bydlení neexistuje. Pro výpočet využijte kalkulačku superdávky.",
-      "published": "Mon, 09 Nov 2026 11:45:00 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Ústava a listina práv jsou přeložené do romštiny, předmluvu napsal J. Baxa - Advokátní deník",
-      "url": "https://advokatnidenik.cz/2026/11/09/ustava-a-listina-prav-jsou-prelozene-do-romstiny-predmluvu-napsal-j-baxa/",
-      "source": "Advokátní deník",
-      "snippet": "Ústava a listina práv jsou přeložené do romštiny, předmluvu napsal J. Baxa Advokátní deník",
-      "published": "Mon, 09 Nov 2026 09:34:16 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech - Brněnská Drbna",
-      "url": "https://brnenska.drbna.cz/spolecnost/905300-za-odchodem-z-cela-muzea-romske-kultury-je-unava-i-spory-rekla-horvathova.html",
-      "source": "Brněnská Drbna",
-      "snippet": "Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech Brněnská Drbna",
-      "published": "Mon, 09 Nov 2026 10:32:50 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech – fotogalerie - Brněnská Drbna",
-      "url": "https://brnenska.drbna.cz/galerie/clanek/905300-horvathova-konci-v-cele-muzea-romske-kultury-mluvi-o-unave-i-sporech.html?zpet=%2Fspolecnost%2F905300-za-odchodem-z-cela-muzea-romske-kultury-je-unava-i-spory-rekla-horvathova.html",
-      "source": "Brněnská Drbna",
-      "snippet": "Horváthová končí v čele Muzea romské kultury. Mluví o únavě i sporech – fotogalerie Brněnská Drbna",
-      "published": "Mon, 09 Nov 2026 21:34:08 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Můj přítel Hamás a protipožární zeď proti extremismu všeho druhu - Lidovky.cz",
-      "url": "https://www.lidovky.cz/orientace/berlin-levice-volby-eralpova-hamas-protipozarni-zed-proti-extremismu.A261109_100304_ln-orientace_lvot",
-      "source": "Lidovky.cz",
-      "snippet": "Můj přítel Hamás a protipožární zeď proti extremismu všeho druhu Lidovky.cz",
-      "published": "Mon, 09 Nov 2026 13:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě - Britské listy",
-      "url": "https://blisty.cz/art/137337-izrael-netanjahu-vyzyva-k-jednote-bez-arabu-aktiviste-krajni-pravice-poradaji-pochod-v-arabsko-zidovskem-meste",
-      "source": "Britské listy",
-      "snippet": "Izrael: Netanjahu vyzývá k jednotě bez Arabů, aktivisté krajní pravice pořádají pochod v arabsko-židovském městě Britské listy",
-      "published": "Mon, 09 Nov 2026 23:10:42 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Le Penová by ve druhém kole voleb ve Francii porazila Mélenchona, ukázal průzkum - České noviny",
-      "url": "https://www.ceskenoviny.cz/zpravy/2899440",
-      "source": "České noviny",
-      "snippet": "Le Penová by ve druhém kole voleb ve Francii porazila Mélenchona, ukázal průzkum České noviny",
-      "published": "Mon, 09 Nov 2026 10:22:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Těžké chvíle pro Evropu: Nadcházející volby ve Španělsku, Francii, Itálii a Polsku mohou posunout EU výrazně doprava - Hospodářské noviny",
-      "url": "https://archiv.hn.cz/c1-67948300-tezke-chvile-pro-evropu-nadchazejici-volby-ve-spanelsku-francii-italii-a-polsku-mohou-posunout-eu-vyrazne-doprava",
-      "source": "Hospodářské noviny",
-      "snippet": "Těžké chvíle pro Evropu: Nadcházející volby ve Španělsku, Francii, Itálii a Polsku mohou posunout EU výrazně doprava Hospodářské noviny",
-      "published": "Mon, 09 Nov 2026 07:36:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Zemřel muž, který v Krakově zabil šest lidí. Téměř všichni zranění jsou ve stabilizovaném stavu - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/zemrel-utocnik-z-krakova-v-centru-mesta-zabil-sest-lidi_2611090715_raf",
+      "title": "Samoživitelé častěji žádají o pomoc. Nezisková organizace eviduje devítinásobný nárůst žádostí - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zivotni-styl/spolecnost/samozivitele-casteji-zadaji-o-pomoc-neziskova-organizace-eviduje-devitinasobny_2611100845_med",
       "source": "iROZHLAS",
-      "snippet": "Zemřel muž, který v Krakově zabil šest lidí. Téměř všichni zranění jsou ve stabilizovaném stavu iROZHLAS",
-      "published": "Mon, 09 Nov 2026 06:15:00 GMT",
+      "snippet": "Samoživitelé častěji žádají o pomoc. Nezisková organizace eviduje devítinásobný nárůst žádostí iROZHLAS",
+      "published": "Tue, 10 Nov 2026 07:45:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Paukner označil střelce z Krakova za levicového aktivistu. Důkazy chybí - Manipulátoři.cz",
-      "url": "https://manipulatori.cz/paukner-oznacil-strelce-z-krakova-za-levicoveho-aktivistu-dukazy-chybi/",
-      "source": "Manipulátoři.cz",
-      "snippet": "Paukner označil střelce z Krakova za levicového aktivistu. Důkazy chybí Manipulátoři.cz",
-      "published": "Mon, 09 Nov 2026 08:47:49 GMT",
+      "title": "Pětihodinový zátah. Policie zkontrolovala na 320 osob v ubytovnách na Rychnovsku - Rychnovský deník",
+      "url": "https://rychnovsky.denik.cz/krimi/rychnovsko-policie-kontroly-na-320-osob-cizinci-v-ubytovnach/",
+      "source": "Rychnovský deník",
+      "snippet": "Pětihodinový zátah. Policie zkontrolovala na 320 osob v ubytovnách na Rychnovsku Rychnovský deník",
+      "published": "Tue, 10 Nov 2026 13:59:50 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Bradáčová se dovolala v kauze plakátů SPD - České noviny",
-      "url": "https://www.ceskenoviny.cz/zpravy/2899339",
-      "source": "České noviny",
-      "snippet": "Bradáčová se dovolala v kauze plakátů SPD České noviny",
-      "published": "Mon, 09 Nov 2026 16:22:00 GMT",
+      "title": "Domy by do Dukovan mohly vozit kamiony, firma chce stavět ubytovny i kanceláře - iDNES.cz",
+      "url": "https://www.idnes.cz/jihlava/zpravy/budova-dum-h3atelier-modulline-havlickuv-brod-dukovany-elektrarna-zakazka.A261109_983837_jihlava-zpravy_mv",
+      "source": "iDNES.cz",
+      "snippet": "Domy by do Dukovan mohly vozit kamiony, firma chce stavět ubytovny i kanceláře iDNES.cz",
+      "published": "Tue, 10 Nov 2026 11:03:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Bradáčová se dovolala v kauze plakátů SPD. Chce určit limity politického projevu - Deník.cz",
-      "url": "https://www.denik.cz/cesko/bradacova-se-dovolala-v-kauze-plakatu-spd-chce-urcit-limity-politickeho-projevu/",
-      "source": "Deník.cz",
-      "snippet": "Bradáčová se dovolala v kauze plakátů SPD. Chce určit limity politického projevu Deník.cz",
-      "published": "Mon, 09 Nov 2026 09:43:08 GMT",
+      "title": "Vláda rezignuje na zdravé obědy pro děti. Piráti v Ostravě přitom ukázali, že změna je možná - Pirátská strana",
+      "url": "https://www.pirati.cz/jak-pirati-pracuji/vlada-rezignuje-na-zdrave-obedy-pro-deti-pirati-v-ostrave-pritom-ukazali-ze-zmena-je-mozna/",
+      "source": "Pirátská strana",
+      "snippet": "Vláda rezignuje na zdravé obědy pro děti. Piráti v Ostravě přitom ukázali, že změna je možná Pirátská strana",
+      "published": "Tue, 10 Nov 2026 11:05:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Nejvyšší státní zástupkyně Lenka Bradáčová podala dovolání v kauze plakátů hnutí SPD. - Deník N",
-      "url": "https://denikn.cz/minuta/2251019/",
-      "source": "Deník N",
-      "snippet": "Nejvyšší státní zástupkyně Lenka Bradáčová podala dovolání v kauze plakátů hnutí SPD. Deník N",
-      "published": "Mon, 09 Nov 2026 16:04:37 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Cizinci pobírali dávky na bydlení v Česku, přitom žili v cizině. Šlo o miliony korun - TN.cz",
-      "url": "https://tn.nova.cz/zpravodajstvi/clanek/660888-cizinci-pobirali-davky-na-bydleni-v-cesku-pritom-zili-v-cizine-slo-o-miliony-korun",
-      "source": "TN.cz",
-      "snippet": "Cizinci pobírali dávky na bydlení v Česku, přitom žili v cizině. Šlo o miliony korun TN.cz",
-      "published": "Mon, 09 Nov 2026 16:51:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Lidé ztroskotají na blbě zaškrtlém políčku, kritizují odborníci státní pomoc - Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-velka-kritika-statni-pomoci-lide-ztroskotaji-na-blbe-zaskrtlem-policku-319726",
-      "source": "Seznam Zprávy",
-      "snippet": "Lidé ztroskotají na blbě zaškrtlém políčku, kritizují odborníci státní pomoc Seznam Zprávy",
-      "published": "Mon, 09 Nov 2026 10:09:41 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Jak funguje tzv. superdávka - 8. listopadu - Události - Česká televize",
-      "url": "https://www.ceskatelevize.cz/porady/1097181328-udalosti/226411000101108/cast/1218564/",
-      "source": "Česká televize",
-      "snippet": "Jak funguje tzv. superdávka - 8. listopadu - Události Česká televize",
-      "published": "Sun, 08 Nov 2026 08:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Velká razie cizinecké policie: Kontroly v ubytovnách, klubech i firmách odhalily nelegální pracovníky - Noviny kraje",
-      "url": "https://www.novinykraje.cz/plzensky/2026/11/09/velka-razie-cizinecke-policie-kontroly-v-ubytovnach-klubech-i-firmach-odhalily-nelegalni-pracovniky/",
-      "source": "Noviny kraje",
-      "snippet": "Velká razie cizinecké policie: Kontroly v ubytovnách, klubech i firmách odhalily nelegální pracovníky Noviny kraje",
-      "published": "Mon, 09 Nov 2026 11:53:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Učitelku rostoucí nájem donutil hledat neobvyklé řešení. Na 37 m² získala vlastní domov i finanční svobodu - Tiscali.cz",
-      "url": "https://www.tiscali.cz/ucitelku-rostouci-najem-donutil-hledat-neobvykle-reseni-na-37-m2-ziskala-vlastni-domov-i-financni-svobodu-803206",
-      "source": "Tiscali.cz",
-      "snippet": "Učitelku rostoucí nájem donutil hledat neobvyklé řešení. Na 37 m² získala vlastní domov i finanční svobodu Tiscali.cz",
-      "published": "Mon, 09 Nov 2026 10:52:53 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Brněnský tendr na rekonstrukci cest na hřbitově byl diskriminační - Deník veřejné správy",
-      "url": "https://www.dvs.cz/clanek.asp?id=7136255",
+      "title": "Nejasná pravidla brzdí bydlení v Ústeckém kraji - Deník veřejné správy",
+      "url": "https://www.dvs.cz/clanek.asp?id=7135906",
       "source": "Deník veřejné správy",
-      "snippet": "Brněnský tendr na rekonstrukci cest na hřbitově byl diskriminační Deník veřejné správy",
-      "published": "Tue, 10 Nov 2026 00:19:07 GMT",
+      "snippet": "Nejasná pravidla brzdí bydlení v Ústeckém kraji Deník veřejné správy",
+      "published": "Tue, 10 Nov 2026 00:00:16 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Šéf antimonopolního úřadu potvrdil pokutu pro brněnský magistrát za tendr na cesty na hřbitově - Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-sef-antimonopolniho-uradu-potvrdil-pokutu-pro-brnensky-magistrat-za-tendr-na-cesty-na-hrbitove-40607674",
-      "source": "Novinky",
-      "snippet": "Šéf antimonopolního úřadu potvrdil pokutu pro brněnský magistrát za tendr na cesty na hřbitově Novinky",
-      "published": "Mon, 09 Nov 2026 21:27:44 GMT",
+      "title": "Lidé ve Slavětíně půjdou k volbám znovu, hlasování prohlásil soud za neplatné - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-lide-ve-slavetine-pujdou-k-volbam-znovu-hlasovani-prohlasil-soud-za-neplatne-320232",
+      "source": "Seznam Zprávy",
+      "snippet": "Lidé ve Slavětíně půjdou k volbám znovu, hlasování prohlásil soud za neplatné Seznam Zprávy",
+      "published": "Tue, 10 Nov 2026 20:40:20 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Podpis manžela jako podmínka pro úvěr. Farmářky si stěžují na diskriminaci - Ekonomický deník",
-      "url": "https://ekonomickydenik.cz/farmarky-eu-diskriminace-uver/",
-      "source": "Ekonomický deník",
-      "snippet": "Podpis manžela jako podmínka pro úvěr. Farmářky si stěžují na diskriminaci Ekonomický deník",
-      "published": "Mon, 09 Nov 2026 15:27:01 GMT",
+      "title": "Dražší hypotéky kvůli státním dluhům, zpoždění a mlžení kolem Dukovan a nesmyslné škrty ve špičkové vědě - www.pirati.cz",
+      "url": "https://www.pirati.cz/jak-pirati-pracuji/sdilene/?sdilene=hypoteky-dukovany-a-skrty-ve-vede",
+      "source": "www.pirati.cz",
+      "snippet": "Dražší hypotéky kvůli státním dluhům, zpoždění a mlžení kolem Dukovan a nesmyslné škrty ve špičkové vědě www.pirati.cz",
+      "published": "Sun, 08 Nov 2026 10:32:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "ÚOHS potrestal Brno pokutou 250.000 korun za chyby v zakázce na hřbitovní cesty - Metro.cz",
-      "url": "https://www.metro.cz/kraje/jihomoravsky-kraj/uohs-potrestal-brno-pokutou-250-000-korun-za-chyby-v-zakazce-na-hrbitovni-cesty.A261109_123036_metro-brno-zpravy_air",
-      "source": "Metro.cz",
-      "snippet": "ÚOHS potrestal Brno pokutou 250.000 korun za chyby v zakázce na hřbitovní cesty Metro.cz",
-      "published": "Mon, 09 Nov 2026 09:54:00 GMT",
+      "title": "Pokus o vyvraždění vlastní rodiny. Policie podezírá dívku, které nebylo ani 15 let - Echo24",
+      "url": "https://www.echo24.cz/a/HuLn5/zpravy-domov-policie-podezreni-z-pokusu-o-vyvrazdeni-pribuznych-divka-mladsi-patnacti-let",
+      "source": "Echo24",
+      "snippet": "Pokus o vyvraždění vlastní rodiny. Policie podezírá dívku, které nebylo ani 15 let Echo24",
+      "published": "Mon, 09 Nov 2026 13:28:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     },
     {
-      "title": "Marine Le Penová tvrdí, že ve Francii nedochází k diskriminaci - iDNES.tv",
-      "url": "https://tv.idnes.cz/zahranicni/marine-le-penova-francie-diskriminace-imigranti-tvrdit.V261109_181422_idnestv_made",
-      "source": "iDNES.tv",
-      "snippet": "Marine Le Penová tvrdí, že ve Francii nedochází k diskriminaci iDNES.tv",
-      "published": "Mon, 09 Nov 2026 17:36:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
-    },
-    {
-      "title": "Ombudsman pomohl muži získat výchovné za syna. ČSSZ původně uznala jen jedno dítě - Finance.cz",
-      "url": "https://www.finance.cz/clanky/ombudsman-pomohl-muzi-ziskat-vychovne-za-syna-cssz-puvodne-uznala-jen-jedno-dite/",
-      "source": "Finance.cz",
-      "snippet": "Ombudsman pomohl muži získat výchovné za syna. ČSSZ původně uznala jen jedno dítě Finance.cz",
+      "title": "Dětský ombudsman řeší stovky podnětů. Často rodinné spory a stížnosti na OSPOD - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/detsky-ombudsman-resi-stovky-podnetu-casto-rodinne-spory-a-stiznosti-na-ospod-379139",
+      "source": "ČT24",
+      "snippet": "Dětský ombudsman řeší stovky podnětů. Často rodinné spory a stížnosti na OSPOD ČT24",
       "published": "Sun, 08 Nov 2026 08:00:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-10T03:52:26+00:00"
+      "collected_utc": "2026-11-11T01:31:25+00:00"
+    },
+    {
+      "title": "Pozor na půjčky na dárky: malé částky se mohou nasčítat - Blesk.cz",
+      "url": "https://www.blesk.cz/clanek/radce-penize/852389/pujcky-na-darky-lakaji-na-par-kliknuti-3-veci-ktere-musite-znat-nez-naletite-na-vanoce-na-dluh.html",
+      "source": "Blesk.cz",
+      "snippet": "Pozor na půjčky na dárky: malé částky se mohou nasčítat Blesk.cz",
+      "published": "Tue, 10 Nov 2026 08:57:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T01:31:25+00:00"
     }
   ]
 }
