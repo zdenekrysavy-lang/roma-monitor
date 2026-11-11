@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-11T01:31:25+00:00",
-  "count": 24,
+  "generated_utc": "2026-11-11T07:46:45+00:00",
+  "count": 31,
   "sources": {
     "profile": "cz",
     "google_news": 133,
@@ -9,21 +9,93 @@
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 1,
-    "news_feeds": 11,
+    "news_feeds": 8,
     "watch": 0,
-    "before_dedup": 112,
-    "total": 90,
-    "skipped_seen": 60,
-    "gn_resolved": 24,
-    "gn_resolve_tried": 24,
-    "dropped_after_resolve": 6,
-    "new": 24,
-    "carried_over": 0,
+    "before_dedup": 105,
+    "total": 84,
+    "skipped_seen": 76,
+    "gn_resolved": 7,
+    "gn_resolve_tried": 7,
+    "dropped_after_resolve": 0,
+    "new": 8,
+    "carried_over": 23,
     "window_start": "2026-11-10T07:46:49+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Zemřel herec Stacy Keach",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-zemrel-herec-stacy-keach-40607963",
+      "source": "https://www.novinky.cz/rss",
+      "snippet": "Ve věku pětaosmdesáti let zemřel americký herec Stacy Keach. Oceňovaný držitel Zlatého glóbu za život ztvárnil například Martina Luthera, Ernesta Hemingwaye, neonacistického vůdce Camerona či Batmanova nepřítele Fantoma.",
+      "published": "Wed, 11 Nov 2026 08:32:52 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T07:46:45+00:00"
+    },
+    {
+      "title": "„Jsme taky lidé“: romští filmaři bojují proti stereotypům - Britské listy",
+      "url": "https://www.blisty.cz/art/137360-jsme-taky-lide-romsti-filmari-bojuji-proti-stereotypum.html",
+      "source": "Britské listy",
+      "snippet": "„Jsme taky lidé“: romští filmaři bojují proti stereotypům Britské listy",
+      "published": "Tue, 10 Nov 2026 23:56:18 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T07:46:45+00:00"
+    },
+    {
+      "title": "Zelenskyj je poločlověk, zvrhlík a démon. Ukrajinství je psychická porucha, běsní ruský ideolog - forum 24",
+      "url": "https://www.forum24.cz/zelenskyj-je-poloclovek-zvrhlik-a-demon-ukrajinstvi-je-psychicka-porucha-besni-rusky-ideolog",
+      "source": "forum 24",
+      "snippet": "Zelenskyj je poločlověk, zvrhlík a démon. Ukrajinství je psychická porucha, běsní ruský ideolog forum 24",
+      "published": "Tue, 10 Nov 2026 12:20:45 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T07:46:45+00:00"
+    },
+    {
+      "title": "Le Penová by ve druhém kole voleb ve Francii porazila Mélenchona, ukázal průzkum - České noviny",
+      "url": "https://www.ceskenoviny.cz/zpravy/le-penova-by-ve-druhem-kole-voleb-ve-francii-porazila-melenchona-ukazal-pruzkum/2899440",
+      "source": "České noviny",
+      "snippet": "Le Penová by ve druhém kole voleb ve Francii porazila Mélenchona, ukázal průzkum České noviny",
+      "published": "Mon, 09 Nov 2026 10:22:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T07:46:45+00:00"
+    },
+    {
+      "title": "Útok v Krakově: co víme o ideologii a motivech střelce? - VOXPOT",
+      "url": "https://www.voxpot.cz/clanky/utok-v-krakove-co-vime-o-ideologii-a-motivech-strelce",
+      "source": "VOXPOT",
+      "snippet": "Útok v Krakově: co víme o ideologii a motivech střelce? VOXPOT",
+      "published": "Wed, 11 Nov 2026 06:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T07:46:45+00:00"
+    },
+    {
+      "title": "Michel Houellebecq. fronteirasweb / Wikimedia Commons (CC BY-SA 2.0) - Echo24",
+      "url": "https://www.echo24.cz/g/HwnUa/svet-zpravy-muslimove-musi-odejit-nejznamejsi-francouzsky-spisovatel-houellebecq-je-vysetrovan-za-podnecovani-k-nenavisti",
+      "source": "Echo24",
+      "snippet": "Michel Houellebecq. fronteirasweb / Wikimedia Commons (CC BY-SA 2.0) Echo24",
+      "published": "Tue, 10 Nov 2026 23:23:02 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T07:46:45+00:00"
+    },
+    {
+      "title": "Zastupitelé si privatizací obecních bytů kupovali voliče, říká exprimátor Prahy Kasl. Účet teď platí mladí - Deník N",
+      "url": "https://denikn.cz/minuta/2253008/?ref=n3_sticker",
+      "source": "Deník N",
+      "snippet": "Zastupitelé si privatizací obecních bytů kupovali voliče, říká exprimátor Prahy Kasl. Účet teď platí mladí Deník N",
+      "published": "Wed, 11 Nov 2026 06:26:33 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T07:46:45+00:00"
+    },
+    {
+      "title": "Lékař bránil svou profesní čest kvůli balkonu. Sousedský spor skončil až u ombudsmanky - Zdravotnický deník",
+      "url": "https://www.zdravotnickydenik.cz/2026/11/lekar-branil-svou-profesni-cest-kvuli-balkonu-sousedsky-spor-skoncil-az-u-ombudsmanky/",
+      "source": "Zdravotnický deník",
+      "snippet": "Lékař bránil svou profesní čest kvůli balkonu. Sousedský spor skončil až u ombudsmanky Zdravotnický deník",
+      "published": "Sun, 08 Nov 2026 10:51:32 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-11T07:46:45+00:00"
+    },
     {
       "title": "Superdávky stihneme v listopadu přepočítat a vyplatit, slibuje Úřad práce",
       "url": "https://www.novinky.cz/clanek/ekonomika-superdavky-stihneme-v-listopadu-prepocitat-a-vyplatit-slibuje-urad-prace-40607910",
@@ -57,15 +129,6 @@
       "source": "https://www.denik.cz/rss/zpravy.html",
       "snippet": "Krakovský střelec, který zabil tři členy své rodiny a šest náhodných kolemjdoucích, se zajímal o norského neonacistického extremistu Anderse Breivika. V úterý to podle agentury PAP řekl ministr spravedlnosti Waldemar Žurek. Podle něj i další zajištěné důkazy poukazují na to, že střelec mohl mít názo",
       "published": "Tue, 10 Nov 2026 11:00:45 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-11T01:31:25+00:00"
-    },
-    {
-      "title": "Zelenskyj je poločlověk, zvrhlík a démon. Ukrajinství je psychická porucha, běsní ruský ideolog",
-      "url": "https://www.forum24.cz/zelenskyj-je-poloclovek-zvrhlik-a-demon-ukrajinstvi-je-psychicka-porucha-besni-rusky-ideolog",
-      "source": "https://www.forum24.cz/feed/",
-      "snippet": "NÁZOR / V současném Rusku můžete otevřeně hlásat fašismus, rasismus a chválit válečné zločiny, dokonce se jich dožadovat. Nesmíte ale nahlas prohlašovat, že jste proti válce. To o poměrech v této zemi snad říká vše podstatné. Všechno tohle zlo dokonale ztělesňuje fašistický ideolog Alexandr Dugin, k",
-      "published": "Tue, 10 Nov 2026 13:20:45 +0100",
       "lang": "cs",
       "collected_utc": "2026-11-11T01:31:25+00:00"
     },
