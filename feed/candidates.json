@@ -1,29 +1,272 @@
 {
-  "generated_utc": "2026-11-12T02:30:56+00:00",
-  "count": 102,
+  "generated_utc": "2026-11-12T07:45:35+00:00",
+  "count": 129,
   "sources": {
     "profile": "world",
-    "google_news": 197,
+    "google_news": 198,
     "google_news_status": "ok",
-    "gdelt": 42,
-    "gdelt_status": "ok",
-    "gdelt_note": "",
+    "gdelt": 0,
+    "gdelt_status": "rate_limited",
+    "gdelt_note": "HTTP 429 (rate-limit)",
     "feeds": 34,
     "news_feeds": 0,
-    "watch": 4,
-    "before_dedup": 269,
-    "total": 235,
-    "skipped_seen": 132,
-    "gn_resolved": 84,
-    "gn_resolve_tried": 84,
-    "dropped_after_resolve": 1,
-    "new": 102,
-    "carried_over": 0,
+    "watch": 3,
+    "before_dedup": 228,
+    "total": 194,
+    "skipped_seen": 167,
+    "gn_resolved": 27,
+    "gn_resolve_tried": 27,
+    "dropped_after_resolve": 0,
+    "new": 27,
+    "carried_over": 102,
     "window_start": "2026-11-11T07:42:53+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Kmeťo ďakuje Weissovi za Reisa: Je to príbeh RÓMSKYCH rodín - Sportovy Cas",
+      "url": "https://sportovy.cas.sk/futbal/kmeto-dakuje-weissovi-za-reisa-je-to-pribeh-romskych-rodin",
+      "source": "Sportovy Cas",
+      "snippet": "Kmeťo ďakuje Weissovi za Reisa: Je to príbeh RÓMSKYCH rodín Sportovy Cas",
+      "published": "Thu, 12 Nov 2026 07:00:00 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Odborník na školy Hipš: Deti sa radikalizujú aj pre násilie v mobiloch a politikov s Tateom - Denník N",
+      "url": "https://dennikn.sk/5686591/odbornik-na-skoly-hips-deti-sa-radikalizuju-aj-pre-nasilie-v-mobiloch-a-politikov-s-tateom/",
+      "source": "Denník N",
+      "snippet": "Odborník na školy Hipš: Deti sa radikalizujú aj pre násilie v mobiloch a politikov s Tateom Denník N",
+      "published": "Thu, 12 Nov 2026 07:26:09 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Anthony Romani Has The Chance To Become The Canucks' Next Late Round Draft Steal - Yahoo Sports",
+      "url": "https://sports.yahoo.com/videos/anthony-romani-chance-become-canucks-170045953.html?format=embed",
+      "source": "Yahoo Sports",
+      "snippet": "Anthony Romani Has The Chance To Become The Canucks' Next Late Round Draft Steal Yahoo Sports",
+      "published": "Thu, 12 Nov 2026 01:43:52 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Video - Anthony Romani Has The Chance To Become The Canucks' Next Late Round Draft Steal - The Hockey News",
+      "url": "https://thehockeynews.com/nhl/vancouver-canucks/video/anthony-romani-has-the-chance-to-become-the-canucks-next-late-round-draft-steal",
+      "source": "The Hockey News",
+      "snippet": "Video - Anthony Romani Has The Chance To Become The Canucks' Next Late Round Draft Steal The Hockey News",
+      "published": "Wed, 11 Nov 2026 17:00:45 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "WIHS Visiting Scholar 2026: Dr. Rik van Wijlick - University of Waterloo",
+      "url": "https://uwaterloo.ca/classical-studies/news/wihs-visiting-scholar-2026-dr-rik-van-wijlick",
+      "source": "University of Waterloo",
+      "snippet": "WIHS Visiting Scholar 2026: Dr. Rik van Wijlick University of Waterloo",
+      "published": "Wed, 11 Nov 2026 18:40:40 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Roma communities need more mediators, but low salaries deter qualified professionals - ipn.md",
+      "url": "https://ipn.md/en/roma-communities-need-more-mediators-but-low-salaries-deter-qualified-professionals/",
+      "source": "ipn.md",
+      "snippet": "Roma communities need more mediators, but low salaries deter qualified professionals ipn.md",
+      "published": "Tue, 10 Nov 2026 10:48:25 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Szilárd alapra kell építeni - Józsefváros Újság",
+      "url": "https://jozsefvarosujsag.hu/szilard-alapra-kell-epiteni/",
+      "source": "Józsefváros Újság",
+      "snippet": "Szilárd alapra kell építeni Józsefváros Újság",
+      "published": "Thu, 12 Nov 2026 07:29:05 GMT",
+      "lang": "hu",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Elhunyt Horváth József, a Miskolci Cigány Önkormányzat korábbi elnöke - Északhírnök",
+      "url": "https://www.eszakhirnok.com/2026/11/12/elhunyt-horvath-jozsef-a-miskolci-cigany-onkormanyzat-korabbi-elnoke/",
+      "source": "Északhírnök",
+      "snippet": "Elhunyt Horváth József, a Miskolci Cigány Önkormányzat korábbi elnöke Északhírnök",
+      "published": "Thu, 12 Nov 2026 05:48:27 GMT",
+      "lang": "hu",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Foto: Volei Alba Blaj, nou transfer: Yanileydis Sanchez, extremă din Cuba | Miercuri, meci în „Alba Blaj\" Arena, cu „U\" Cluj - Ziarul Unirea",
+      "url": "https://ziarulunirea.ro/foto-volei-alba-blaj-nou-transfer-yanileydis-sanchez-extrema-din-cuba-miercuri-meci-in-alba-blaj-arena-cu-u-cluj-1018821/",
+      "source": "Ziarul Unirea",
+      "snippet": "Foto: Volei Alba Blaj, nou transfer: Yanileydis Sanchez, extremă din Cuba | Miercuri, meci în „Alba Blaj\" Arena, cu „U\" Cluj Ziarul Unirea",
+      "published": "Tue, 10 Nov 2026 11:07:13 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Clarobscur, pe Netflix: crime puse în scenă după tablouri celebre, la Roma - Martin Cid Magazine",
+      "url": "https://ro.martincid.com/televiziune/clarobscur-pe-netflix-crime-puse-in-scena-dupa-tablouri-celebre-la-roma/",
+      "source": "Martin Cid Magazine",
+      "snippet": "Clarobscur, pe Netflix: crime puse în scenă după tablouri celebre, la Roma Martin Cid Magazine",
+      "published": "Wed, 11 Nov 2026 08:00:00 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "José, sin techo de 77 años, duerme en un banco en el corazón de la protesta en Pamplona: \"Nadie nos alquila nada porque somos gitanos\" - Diario de Navarra",
+      "url": "https://www.diariodenavarra.es/noticias/navarra/pamplona-comarca/2026/11/12/jose-techo-77-anos-duerme-banco-corazon-protesta-pamplona-nadie-alquila-gitanos-842143-16.html",
+      "source": "Diario de Navarra",
+      "snippet": "José, sin techo de 77 años, duerme en un banco en el corazón de la protesta en Pamplona: \"Nadie nos alquila nada porque somos gitanos\" Diario de Navarra",
+      "published": "Thu, 12 Nov 2026 06:36:32 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Lepe conmemora el Día de la Cultura Gitana los próximos 21 y 22 de noviembre - Canalcosta Televisión",
+      "url": "https://canalcostatv.es/lepe-conmemora-el-dia-de-la-cultura-gitana-el-proximo-21-y-22-de-noviembre/",
+      "source": "Canalcosta Televisión",
+      "snippet": "Lepe conmemora el Día de la Cultura Gitana los próximos 21 y 22 de noviembre Canalcosta Televisión",
+      "published": "Tue, 10 Nov 2026 11:49:43 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Flamenco e identidad gitana: alianza entre Granada y Jerez por la Capitalidad Europea - La Razón",
+      "url": "https://www.larazon.es/andalucia/flamenco-identidad-gitana-alianza-granada-jerez-capitalidad-europea_202611106af2f1194196933d7ed7ca7e.html?outputType=amp",
+      "source": "La Razón",
+      "snippet": "Flamenco e identidad gitana: alianza entre Granada y Jerez por la Capitalidad Europea La Razón",
+      "published": "Tue, 10 Nov 2026 10:25:29 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "La Communauté de communes de Libourne fait passer à la caisse l'ancien exploitant de ses aires de gens du voyage - Actu.fr",
+      "url": "https://actu.fr/nouvelle-aquitaine/libourne_33243/la-communaute-de-communes-de-libourne-fait-passer-a-la-caisse-l-ancien-exploitant-de-ses-aires-de-gens-du-voyage_65043919.html",
+      "source": "Actu.fr",
+      "snippet": "La Communauté de communes de Libourne fait passer à la caisse l'ancien exploitant de ses aires de gens du voyage Actu.fr",
+      "published": "Thu, 12 Nov 2026 05:18:01 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Дияна Кирилова ще представи в София книгата си „Смисълът и перспективите в образованието през погледа на някои ромски жени“ - Утро Русе",
+      "url": "https://utroruse.com/amp/1337190/",
+      "source": "Утро Русе",
+      "snippet": "Дияна Кирилова ще представи в София книгата си „Смисълът и перспективите в образованието през погледа на някои ромски жени“ Утро Русе",
+      "published": "Tue, 10 Nov 2026 11:09:00 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Томас Томов: Аз съм първият ром, печелил риалити, не Яница! - bgdnes.bg",
+      "url": "https://www.bgdnes.bg/index.php/shou/article/23897208",
+      "source": "bgdnes.bg",
+      "snippet": "Томас Томов: Аз съм първият ром, печелил риалити, не Яница! bgdnes.bg",
+      "published": "Tue, 10 Nov 2026 12:44:49 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Общинските съветници в Минерални бани ще разгледат докладна за актуализиране на плана за концесиите - Утро Русе",
+      "url": "https://utroruse.com/article/1337761/",
+      "source": "Утро Русе",
+      "snippet": "Общинските съветници в Минерални бани ще разгледат докладна за актуализиране на плана за концесиите Утро Русе",
+      "published": "Thu, 12 Nov 2026 05:11:00 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Δύο κορίτσια πουλούν παιχνίδια σε ελληνική παραλία: Η ταινία που φέρνει τις ιστορίες των Ρομά στη Σεβίλλη - LiFO",
+      "url": "https://www.lifo.gr/now/entertainment/dyo-koritsia-poyloyn-paihnidia-se-elliniki-paralia-i-tainia-poy-fernei-tis",
+      "source": "LiFO",
+      "snippet": "Δύο κορίτσια πουλούν παιχνίδια σε ελληνική παραλία: Η ταινία που φέρνει τις ιστορίες των Ρομά στη Σεβίλλη LiFO",
+      "published": "Tue, 10 Nov 2026 11:10:02 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Jak dziś wygląda syn Don Vasyla? Dziani to prawdziwy „łamacz kobiecych serc” - Nowości Dziennik Toruński",
+      "url": "https://nowosci.com.pl/jak-dzis-wyglada-syn-don-vasyla-dziani-to-prawdziwy-lamacz-kobiecych-serc/ar/c1p2-29515517",
+      "source": "Nowości Dziennik Toruński",
+      "snippet": "Jak dziś wygląda syn Don Vasyla? Dziani to prawdziwy „łamacz kobiecych serc” Nowości Dziennik Toruński",
+      "published": "Thu, 12 Nov 2026 06:06:28 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24",
+      "url": "https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-12-11-2026/ar/c9p2-29417133",
+      "source": "GP24",
+      "snippet": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! GP24",
+      "published": "Thu, 12 Nov 2026 06:49:48 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Jak wygląda dom Dona Vasyla w Ciechocinku? Czerwone ściany oraz złocone meble - Nowości Dziennik Toruński",
+      "url": "https://nowosci.com.pl/jak-wyglada-dom-dona-vasyla-w-ciechocinku-czerwone-sciany-oraz-zlocone-meble/ar/c9p2-29503627",
+      "source": "Nowości Dziennik Toruński",
+      "snippet": "Jak wygląda dom Dona Vasyla w Ciechocinku? Czerwone ściany oraz złocone meble Nowości Dziennik Toruński",
+      "published": "Thu, 12 Nov 2026 06:11:02 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Flamenco we Wrocławiu. IV edycja Festiwalu Miasto Krasnali rusza 15 listopada - Radio Rodzina",
+      "url": "https://www.radiorodzina.pl/2026/11/12/flamenco-we-wroclawiu-iv-edycja-festiwalu-miasto-krasnali-rusza-15-listopada/amp/",
+      "source": "Radio Rodzina",
+      "snippet": "Flamenco we Wrocławiu. IV edycja Festiwalu Miasto Krasnali rusza 15 listopada Radio Rodzina",
+      "published": "Thu, 12 Nov 2026 04:24:00 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Przegląd wydarzeń, które zwróciły uwagę mediów. Najnowsze podsumowanie dla Skierniewic (12.11). - Skierniewice Nasze Miasto",
+      "url": "https://skierniewice.naszemiasto.pl/prasowka-ze-skierniewic-12-11-2026-przeglad-prasy-zestawienie-najwazniejszych-informacji/ar/c1p1-19738735",
+      "source": "Skierniewice Nasze Miasto",
+      "snippet": "Przegląd wydarzeń, które zwróciły uwagę mediów. Najnowsze podsumowanie dla Skierniewic (12.11). Skierniewice Nasze Miasto",
+      "published": "Thu, 12 Nov 2026 04:51:23 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Pesquisa de professor da UFRN sobre o povo cigano cai na prova do Enem 2026 - Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/euestudante/enem/2026/11/amp/7536302-pesquisa-de-professor-da-ufrn-sobre-o-povo-cigano-cai-na-prova-do-enem-2026.html",
+      "source": "Correio Braziliense",
+      "snippet": "Pesquisa de professor da UFRN sobre o povo cigano cai na prova do Enem 2026 Correio Braziliense",
+      "published": "Tue, 10 Nov 2026 20:37:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "✨ Rotas do Sobrenatural: Bica Bar mistura coquetelaria mágica e baralho cigano em Olinda - Taís Paranhos",
+      "url": "https://www.taisparanhos.com.br/2026/11/rotas-do-sobrenatural-bica-bar-mistura.html",
+      "source": "Taís Paranhos",
+      "snippet": "✨ Rotas do Sobrenatural: Bica Bar mistura coquetelaria mágica e baralho cigano em Olinda Taís Paranhos",
+      "published": "Wed, 11 Nov 2026 22:28:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "JORNAL REPÓRTER MACEIÓ - ATIVIDADES DO GOVERNO! Governo de Alagoas entrega a 90ª Creche Cria na Grota do Cigano, em Maceió - Repórter Maceió",
+      "url": "https://reportermaceio.com.br/jornal-reporter-maceio-atividades-do-governo-governo-de-alagoas-entrega-a-90a-creche-cria-na-grota-do-cigano-em-maceio/",
+      "source": "Repórter Maceió",
+      "snippet": "JORNAL REPÓRTER MACEIÓ - ATIVIDADES DO GOVERNO! Governo de Alagoas entrega a 90ª Creche Cria na Grota do Cigano, em Maceió Repórter Maceió",
+      "published": "Tue, 10 Nov 2026 17:11:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
+    {
+      "title": "Sidney Magal protagonizou filme com roteiro de Paulo Coelho - PAIPEE -",
+      "url": "https://br.paipee.com/2026/11/12/sidney-magal-protagonizou-filme-com-roteiro-de-paulo-coelho/",
+      "source": "PAIPEE -",
+      "snippet": "Sidney Magal protagonizou filme com roteiro de Paulo Coelho PAIPEE -",
+      "published": "Thu, 12 Nov 2026 07:21:27 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-12T07:45:35+00:00"
+    },
     {
       "title": "Resistance",
       "url": "https://rroma.org/resistance-3/?utm_source=rss&utm_medium=rss&utm_campaign=resistance-3",
