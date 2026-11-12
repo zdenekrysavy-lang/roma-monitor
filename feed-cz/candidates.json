@@ -1,29 +1,119 @@
 {
-  "generated_utc": "2026-11-12T02:34:53+00:00",
-  "count": 36,
+  "generated_utc": "2026-11-12T07:47:11+00:00",
+  "count": 46,
   "sources": {
     "profile": "cz",
-    "google_news": 143,
+    "google_news": 139,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 2,
-    "news_feeds": 5,
+    "news_feeds": 4,
     "watch": 2,
-    "before_dedup": 112,
-    "total": 92,
-    "skipped_seen": 55,
-    "gn_resolved": 35,
-    "gn_resolve_tried": 35,
-    "dropped_after_resolve": 1,
-    "new": 36,
-    "carried_over": 0,
+    "before_dedup": 106,
+    "total": 88,
+    "skipped_seen": 78,
+    "gn_resolved": 10,
+    "gn_resolve_tried": 10,
+    "dropped_after_resolve": 0,
+    "new": 10,
+    "carried_over": 36,
     "window_start": "2026-11-11T07:46:45+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Zpráva Evropské komise: Romové v ČR čelí chudobě a špatným bytovým podmínkám - www.e-usti.cz",
+      "url": "https://www.e-usti.cz/zpravy/usti-nad-labem/142948-zprava-evropske-komise-romove-v-cr-celi-chudobe-a-spatnym-bytovym-podminkam",
+      "source": "www.e-usti.cz",
+      "snippet": "Zpráva Evropské komise: Romové v ČR čelí chudobě a špatným bytovým podmínkám www.e-usti.cz",
+      "published": "Thu, 12 Nov 2026 05:23:04 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Ceny Jana Opletala 2026 znají vítěze. Tito mladí Češi a Češky mění svět k lepšímu - Refresher.cz",
+      "url": "https://news.refresher.cz/215430-Ceny-Jana-Opletala-2026-znaji-sve-viteze-Tito-mladi-lide-z-Ceska-meni-svet-k-lepsimu",
+      "source": "Refresher.cz",
+      "snippet": "Ceny Jana Opletala 2026 znají vítěze. Tito mladí Češi a Češky mění svět k lepšímu Refresher.cz",
+      "published": "Thu, 12 Nov 2026 07:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Vraždy v Krakově jako projev politického přesvědčení? - Echo24",
+      "url": "https://m.echo24.cz/a/HKzjm/komentar-stindl-vrazdy-v-krakove-jako-projev-politickeho-presvedceni",
+      "source": "Echo24",
+      "snippet": "Vraždy v Krakově jako projev politického přesvědčení? Echo24",
+      "published": "Wed, 11 Nov 2026 23:01:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Decroix (ODS): Nenávist a urážky do společnosti nepatří - ParlamentniListy.cz",
+      "url": "https://www.parlamentnilisty.cz/politika/politici-volicum/Decroix-ODS-Nenavist-a-urazky-do-spolecnosti-nepatri-799410",
+      "source": "ParlamentniListy.cz",
+      "snippet": "Decroix (ODS): Nenávist a urážky do společnosti nepatří ParlamentniListy.cz",
+      "published": "Thu, 12 Nov 2026 06:04:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Řežeme si pod sebou větev, popsal pražský taxikář šílené ceny během tří týdnů deregulace - Stream.cz",
+      "url": "https://www.stream.cz/domaci-9257/rezeme-si-pod-sebou-vetev-popsal-prazsky-taxikar-silene-ceny-behem-tri-tydnu-deregulace-65608701",
+      "source": "Stream.cz",
+      "snippet": "Řežeme si pod sebou větev, popsal pražský taxikář šílené ceny během tří týdnů deregulace Stream.cz",
+      "published": "Wed, 11 Nov 2026 15:35:39 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Žádné složité postupy: Snadné těsto na medové perníčky máte hotové raz dva i bez velkých zkušeností - Stream.cz",
+      "url": "https://www.stream.cz/toprecepty-cz/zadne-slozite-postupy-snadne-testo-na-medove-pernicky-mate-hotove-raz-dva-i-bez-velkych-zkusenosti-65607609",
+      "source": "Stream.cz",
+      "snippet": "Žádné složité postupy: Snadné těsto na medové perníčky máte hotové raz dva i bez velkých zkušeností Stream.cz",
+      "published": "Tue, 10 Nov 2026 18:03:51 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Zlín: Město nabízí startovací bydlení pro letošní absolventy - ParlamentniListy.cz",
+      "url": "https://www.parlamentnilisty.cz/politika/obce-volicum/Zlin-Mesto-nabizi-startovaci-bydleni-pro-letosni-absolventy-799405",
+      "source": "ParlamentniListy.cz",
+      "snippet": "Zlín: Město nabízí startovací bydlení pro letošní absolventy ParlamentniListy.cz",
+      "published": "Wed, 11 Nov 2026 15:46:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Galerie pro Veletrh Jak na společné vzdělávání se zaměřil na bezpečí ve školách i podporu žáků - Ústecký kraj",
+      "url": "https://www.kr-ustecky.cz/4672865",
+      "source": "Ústecký kraj",
+      "snippet": "Galerie pro Veletrh Jak na společné vzdělávání se zaměřil na bezpečí ve školách i podporu žáků Ústecký kraj",
+      "published": "Thu, 12 Nov 2026 05:05:27 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Scott Colom porazil Hydeovou-Smythovou, je prvním černošským senátorem v Mississippi od občanské války - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/scott-colom-vyhral-senatni-volby-v-mississippi-prvni-cernossky-senator-od-obcanske-valky.A261112_004235_zahranicni_air",
+      "source": "iDNES.cz",
+      "snippet": "Scott Colom porazil Hydeovou-Smythovou, je prvním černošským senátorem v Mississippi od občanské války iDNES.cz",
+      "published": "Wed, 11 Nov 2026 23:40:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
+    {
+      "title": "Dětský ombudsman se obává změn ve vyhlášce o školním stravování - Metro.cz",
+      "url": "https://www.metro.cz/kraje/jihomoravsky-kraj/vyzivove-normy-ve-skolnim-stravovani-mohou-zmizet-detsky-ombudsman-varuje-pred-dopadem-na-zdravi-det.A261111_114537_metro-brno-zpravy_air",
+      "source": "Metro.cz",
+      "snippet": "Dětský ombudsman se obává změn ve vyhlášce o školním stravování Metro.cz",
+      "published": "Wed, 11 Nov 2026 09:13:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-12T07:47:11+00:00"
+    },
     {
       "title": "Reakce Amnesty na odjezd premiéra Babiše do Izraele",
       "url": "https://amnesty.cz/reakce-amnesty-na-odjezd-premiera-babise-do-izraele/",
