@@ -1,29 +1,236 @@
 {
-  "generated_utc": "2026-11-15T01:20:59+00:00",
-  "count": 69,
+  "generated_utc": "2026-11-15T07:43:05+00:00",
+  "count": 92,
   "sources": {
     "profile": "world",
-    "google_news": 157,
+    "google_news": 155,
     "google_news_status": "ok",
-    "gdelt": 0,
-    "gdelt_status": "rate_limited",
-    "gdelt_note": "HTTP 429 (rate-limit)",
+    "gdelt": 3,
+    "gdelt_status": "ok",
+    "gdelt_note": "",
     "feeds": 26,
     "news_feeds": 0,
-    "watch": 6,
+    "watch": 5,
     "before_dedup": 186,
-    "total": 165,
-    "skipped_seen": 96,
-    "gn_resolved": 63,
-    "gn_resolve_tried": 63,
+    "total": 166,
+    "skipped_seen": 143,
+    "gn_resolved": 22,
+    "gn_resolve_tried": 22,
     "dropped_after_resolve": 0,
-    "new": 69,
-    "carried_over": 0,
+    "new": 23,
+    "carried_over": 69,
     "window_start": "2026-11-14T07:45:06+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Zhrnutie a obsadenie Prekliati Dramatický seriál - CANAL+",
+      "url": "https://www.canalplus.com/sk/sk/serialy/prekliati/h/47686139_55045/zhrnutie-obsadenie/",
+      "source": "CANAL+",
+      "snippet": "Zhrnutie a obsadenie Prekliati Dramatický seriál CANAL+",
+      "published": "Sat, 14 Nov 2026 23:34:47 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Eurofondy pre rómske komunity v plnom prúde: ÚV SR už zazmluvnil 80 percent peňazí - eReport.sk",
+      "url": "https://ereport.sk/urad-vlady-eurofondy-program-slovensko-mrk-zazmluvnene-80-percent",
+      "source": "eReport.sk",
+      "snippet": "Eurofondy pre rómske komunity v plnom prúde: ÚV SR už zazmluvnil 80 percent peňazí eReport.sk",
+      "published": "Fri, 13 Nov 2026 15:52:24 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Radkovo telo našli v aute bez hlavy, jeho exmanželka bojuje o život! Desivé detaily útoku na Magdu - Nový Čas",
+      "url": "https://www.cas.sk/spravy/radkovo-telo-nasli-v-aute-bez-hlavy-jeho-exmanzelka-bojuje-o-zivot-desive-detaily-utoku-na-magdu",
+      "source": "Nový Čas",
+      "snippet": "Radkovo telo našli v aute bez hlavy, jeho exmanželka bojuje o život! Desivé detaily útoku na Magdu Nový Čas",
+      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "‘I Matter’: A Powerful Story of Identity, Belonging and Second Chances to be Screened as Mid-Fest Film at IFFI 2026 - www.pib.gov.in",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336202&lang=2&reg=48",
+      "source": "www.pib.gov.in",
+      "snippet": "‘I Matter’: A Powerful Story of Identity, Belonging and Second Chances to be Screened as Mid-Fest Film at IFFI 2026 www.pib.gov.in",
+      "published": "Sat, 14 Nov 2026 10:14:00 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Alina Șerban’s ‘I Matter’ to Have Indian Premiere at IFFI 2026 - www.nationpathindia.com",
+      "url": "https://nationpathindia.com/entertainment/alina-serban-i-matter-indian-premiere-iffi-2026",
+      "source": "www.nationpathindia.com",
+      "snippet": "Alina Șerban’s ‘I Matter’ to Have Indian Premiere at IFFI 2026 www.nationpathindia.com",
+      "published": "Sat, 14 Nov 2026 18:47:15 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Koszika és Sárik Péter Trió: Indulj el - lemezbemutató koncert Lejátszás Zene 1 óra 45 perc - CANAL+",
+      "url": "https://www.canalplus.com/hu/hu/zene/koszika-es-sarik-peter-trio-indulj-el-lemezbemutato-koncert-zene/h/48154230_55471",
+      "source": "CANAL+",
+      "snippet": "Koszika és Sárik Péter Trió: Indulj el - lemezbemutató koncert Lejátszás Zene 1 óra 45 perc CANAL+",
+      "published": "Sat, 14 Nov 2026 18:22:02 GMT",
+      "lang": "hu",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Magyar rekviem Elérhető élőben, illetve visszajátszható. - CANAL+",
+      "url": "https://www.canalplus.com/hu/hu/filmek/magyar-rekviem/h/46559144_55468",
+      "source": "CANAL+",
+      "snippet": "Magyar rekviem Elérhető élőben, illetve visszajátszható. CANAL+",
+      "published": "Sat, 14 Nov 2026 05:35:18 GMT",
+      "lang": "hu",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Nyolcan is visszaléptek, végül egyetlen jelölt sem akadt – megszűnt az önkormányzat egy Tolna megyei faluban - TEOL",
+      "url": "https://www.teol.hu/helyi-kozelet/2026/11/idokozi-valasztas-palfa-roma-onkormanyzat",
+      "source": "TEOL",
+      "snippet": "Nyolcan is visszaléptek, végül egyetlen jelölt sem akadt – megszűnt az önkormányzat egy Tolna megyei faluban TEOL",
+      "published": "Sun, 15 Nov 2026 07:20:00 GMT",
+      "lang": "hu",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "80 de ani de la nașterea lui Nicolae Gheorghe, militant pentru drepturile romilor. Eveniment comemorativ la Reghin-Apalina - Punctul.ro",
+      "url": "https://punctul.ro/80-de-ani-de-la-nasterea-lui-nicolae-gheorghe-militant-pentru-drepturile-romilor-eveniment-comemorativ-la-reghin-apalina/",
+      "source": "Punctul.ro",
+      "snippet": "80 de ani de la nașterea lui Nicolae Gheorghe, militant pentru drepturile romilor. Eveniment comemorativ la Reghin-Apalina Punctul.ro",
+      "published": "Sun, 15 Nov 2026 07:13:12 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Târgumureșeanca Crenguța Leaua, în echipa care a apărat România în procesul Roșia Montană. Litigiul de 6,5 miliarde de dolari s-a încheiat definitiv - Punctul.ro",
+      "url": "https://punctul.ro/targumureseanca-crenguta-leaua-in-echipa-care-a-aparat-romania-in-procesul-rosia-montana-litigiul-de-65-miliarde-de-dolari-s-a-incheiat-definitiv/",
+      "source": "Punctul.ro",
+      "snippet": "Târgumureșeanca Crenguța Leaua, în echipa care a apărat România în procesul Roșia Montană. Litigiul de 6,5 miliarde de dolari s-a încheiat definitiv Punctul.ro",
+      "published": "Sun, 15 Nov 2026 07:24:38 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Se reunesc comunitățile dobrogene: Prefectura Constanța anunță târguri și spectacole, cu prilejul Zilei Dobrogei - tomis news",
+      "url": "https://tomisnews.ro/se-reunesc-comunitatile-dobrogene-prefectura-constanta-anunta-targuri-si-spectacole-cu-prilejul-zilei-dobrogei/?amp=1",
+      "source": "tomis news",
+      "snippet": "Se reunesc comunitățile dobrogene: Prefectura Constanța anunță târguri și spectacole, cu prilejul Zilei Dobrogei tomis news",
+      "published": "Fri, 13 Nov 2026 14:34:19 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Târg multicultural de Ziua Dobrogei, la Pavilionul Expozițional Constanța. Două zile de spectacole și tradiții - CugetLiber.ro",
+      "url": "https://cugetliber.ro/stiri-cultura-educatie-targ-multicultural-de-ziua-dobrogei-la-pavilionul-expozitional-constanta-doua-zile-de-spectacole-si-traditii-569783",
+      "source": "CugetLiber.ro",
+      "snippet": "Târg multicultural de Ziua Dobrogei, la Pavilionul Expozițional Constanța. Două zile de spectacole și tradiții CugetLiber.ro",
+      "published": "Fri, 13 Nov 2026 15:23:18 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "'El toreo gitano', de Guillermo Sureda la última joya recuperada por El Paseíllo - Libertad Digital",
+      "url": "https://www.libertaddigital.com/cultura/toros/2026-11-15/el-toreo-gitano-de-guillermo-sureda-la-ultima-joya-recuperada-por-el-paseillo-7490468/",
+      "source": "Libertad Digital",
+      "snippet": "'El toreo gitano', de Guillermo Sureda la última joya recuperada por El Paseíllo Libertad Digital",
+      "published": "Sun, 15 Nov 2026 04:00:09 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Guillermo Sureda, el \"escritor secreto\" que recupera El Paseíllo: \"Rescatar a estos escritores es importantísimo\" - Libertad Digital",
+      "url": "https://www.libertaddigital.com/cultura/toros/2026-11-15/guillermo-sureda-el-escritor-secreto-que-recupera-el-paseillo-rescatar-a-estos-escritores-es-importantisimo-7491297/",
+      "source": "Libertad Digital",
+      "snippet": "Guillermo Sureda, el \"escritor secreto\" que recupera El Paseíllo: \"Rescatar a estos escritores es importantísimo\" Libertad Digital",
+      "published": "Sun, 15 Nov 2026 04:05:07 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Un riverain l’alerte de l’arrivée de gens du voyage aux abords d’une salle de spectacle : près de Toulouse, un élu intervient et se fait frapper à la tête - Midi Libre",
+      "url": "https://www.midilibre.fr/2026/11/15/un-riverain-lalerte-de-larrivee-de-gens-du-voyage-aux-abords-dune-salle-de-spectacle-ladjoint-au-maire-intervient-et-se-fait-frapper-a-la-tete-13653094.php",
+      "source": "Midi Libre",
+      "snippet": "Un riverain l’alerte de l’arrivée de gens du voyage aux abords d’une salle de spectacle : près de Toulouse, un élu intervient et se fait frapper à la tête Midi Libre",
+      "published": "Sun, 15 Nov 2026 04:48:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Gemeinsamer Spaziergang zu den Stolpersteinen - Walsroder Zeitung",
+      "url": "https://www.wz-net.de/walsrode/gemeinsamer-spaziergang-stolpersteinen-id314735.html",
+      "source": "Walsroder Zeitung",
+      "snippet": "Gemeinsamer Spaziergang zu den Stolpersteinen Walsroder Zeitung",
+      "published": "Sun, 15 Nov 2026 07:00:00 GMT",
+      "lang": "de",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "На този ден: Победа на българите при Пирот - TrafficNews",
+      "url": "https://trafficnews.bg/urok-po-istorija/na-tozi-den-pobeda-balgarite-pri-pirot2-395000/",
+      "source": "TrafficNews",
+      "snippet": "На този ден: Победа на българите при Пирот TrafficNews",
+      "published": "Sun, 15 Nov 2026 05:15:00 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Ομάδα Ρομά επιτέθηκε σε διασώστη του ΕΚΑΒ στο Κορωπί - newsbreak",
+      "url": "https://www.newsbreak.gr/ellada/1063936/roma-diasosti-koropi/",
+      "source": "newsbreak",
+      "snippet": "Ομάδα Ρομά επιτέθηκε σε διασώστη του ΕΚΑΒ στο Κορωπί newsbreak",
+      "published": "Sat, 14 Nov 2026 21:16:07 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Την ενίσχυση παιδιών και γονέων Ρομά χρηματοδοτεί η Περιφέρεια Κρήτης - e-OTA",
+      "url": "https://e-ota.gr/perifereies/perifereia-kritis/150283/tin-enischysi-paidion-kai-goneon-roma-chrimatodotei-i-perifereia-kritis/",
+      "source": "e-OTA",
+      "snippet": "Την ενίσχυση παιδιών και γονέων Ρομά χρηματοδοτεί η Περιφέρεια Κρήτης e-OTA",
+      "published": "Sun, 15 Nov 2026 07:03:17 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Φωτιά στο Ζεφύρι: Τρεις συλλήψεις Ρομά για την πυρκαγιά που είχε ως τραγικό αποτέλεσμα το θάνατο των 2 πυροσβεστών - doxthi.gr",
+      "url": "https://doxthi.gr/fotia-sto-zefyri-treis-syllipseis-roma-gia-tin-pyrkagia-pou-eiche-os-tragiko-apotelesma-to-thanato-ton-2-pyrosveston/",
+      "source": "doxthi.gr",
+      "snippet": "Φωτιά στο Ζεφύρι: Τρεις συλλήψεις Ρομά για την πυρκαγιά που είχε ως τραγικό αποτέλεσμα το θάνατο των 2 πυροσβεστών doxthi.gr",
+      "published": "Sat, 14 Nov 2026 19:23:57 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Do plano internacional à gestão da Fazenda Cigana - SpaceMoney",
+      "url": "https://www.spacemoney.com.br/agronegocio/fazenda-cigana-gestao-pecuaria/",
+      "source": "SpaceMoney",
+      "snippet": "Do plano internacional à gestão da Fazenda Cigana SpaceMoney",
+      "published": "Sat, 14 Nov 2026 23:26:58 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "Grupo de ciganos deixa cidade após investigação de golpe na região de Goioerê - Goionews",
+      "url": "https://goio.news/noticias/2413/55734/grupo-de-ciganos-deixa-cidade-apos-investigacao-de-golpe-na-regiao-de-goioere",
+      "source": "Goionews",
+      "snippet": "Grupo de ciganos deixa cidade após investigação de golpe na região de Goioerê Goionews",
+      "published": "Sun, 15 Nov 2026 03:33:25 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
+    {
+      "title": "17 copycat recipes for the turkey - free nights of a busy holiday week",
+      "url": "http://www.grandrapidsmn.com/around_the_web/health/17-copycat-recipes-for-the-turkey-free-nights-of-a-busy-holiday-week/article_fd33d6cf-ecfd-56aa-8af0-9d75ec1d92ec.html",
+      "source": "grandrapidsmn.com",
+      "snippet": "",
+      "published": "20261114T200000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-15T07:43:05+00:00"
+    },
     {
       "title": "Museum of Romani Culture",
       "url": "https://rroma.org/museum-of-romani-culture-3/?utm_source=rss&utm_medium=rss&utm_campaign=museum-of-romani-culture-3",
