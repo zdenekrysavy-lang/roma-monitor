@@ -1,316 +1,244 @@
 {
-  "generated_utc": "2026-11-15T07:46:39+00:00",
-  "count": 32,
+  "generated_utc": "2026-11-16T01:27:51+00:00",
+  "count": 24,
   "sources": {
     "profile": "cz",
-    "google_news": 139,
+    "google_news": 106,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 1,
-    "news_feeds": 6,
-    "watch": 1,
-    "before_dedup": 115,
-    "total": 84,
-    "skipped_seen": 78,
-    "gn_resolved": 6,
-    "gn_resolve_tried": 6,
-    "dropped_after_resolve": 1,
-    "new": 5,
-    "carried_over": 27,
-    "window_start": "2026-11-14T07:47:11+00:00",
-    "publish_run": true,
+    "feeds": 0,
+    "news_feeds": 3,
+    "watch": 0,
+    "before_dedup": 82,
+    "total": 67,
+    "skipped_seen": 43,
+    "gn_resolved": 24,
+    "gn_resolve_tried": 24,
+    "dropped_after_resolve": 0,
+    "new": 24,
+    "carried_over": 0,
+    "window_start": "2026-11-15T07:46:39+00:00",
+    "publish_run": false,
     "vps_trigger": "ok"
   },
   "candidates": [
     {
-      "title": "Thunbergová hájí hysterický smích nad klimaprotestem, Německo viní z rasismu a podpory genocidy - Echo24",
-      "url": "https://www.echo24.cz/a/Hxz29/zpravy-zahranici-hystericky-smich-fridays-for-future-thunbergova-vini-nemecko-z-rasismu-a-podpory-genocidy",
-      "source": "Echo24",
-      "snippet": "Thunbergová hájí hysterický smích nad klimaprotestem, Německo viní z rasismu a podpory genocidy Echo24",
-      "published": "Sun, 15 Nov 2026 07:05:00 GMT",
+      "title": "Ředitelka Muzea romské kultury Jana Horváthová o Mezinárodním dni Romů - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/video/reditelka-muzea-romske-kultury-jana-horvathova-o-mezinarodnim-dni-romu-21399",
+      "source": "ČT24",
+      "snippet": "Ředitelka Muzea romské kultury Jana Horváthová o Mezinárodním dni Romů ČT24",
+      "published": "Fri, 13 Nov 2026 08:00:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-15T07:46:39+00:00"
+      "collected_utc": "2026-11-16T01:27:51+00:00"
     },
     {
-      "title": "Izrael zneužíval holocaust k ospravedlnění čistky v Gaze. Naděje na změnu je malá, obává se Barša - Portál Českého rozhlasu",
-      "url": "http://www.rozhlas.cz/izrael-zneuzival-holocaust-k-ospravedlneni-cistky-v-gaze-nadeje-na-zmenu-je-mala-9655423",
-      "source": "Portál Českého rozhlasu",
-      "snippet": "Izrael zneužíval holocaust k ospravedlnění čistky v Gaze. Naděje na změnu je malá, obává se Barša Portál Českého rozhlasu",
-      "published": "Fri, 13 Nov 2026 04:04:38 GMT",
+      "title": "O Roma vakeren s Kamilou Schusterovou - Český rozhlas Sever",
+      "url": "https://sever.rozhlas.cz/o-roma-vakeren-s-kamilou-schusterovou-9656651",
+      "source": "Český rozhlas Sever",
+      "snippet": "O Roma vakeren s Kamilou Schusterovou Český rozhlas Sever",
+      "published": "Sat, 14 Nov 2026 08:00:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-15T07:46:39+00:00"
+      "collected_utc": "2026-11-16T01:27:51+00:00"
     },
     {
-      "title": "Babiš se v Dublinu sešel se Zelenským - Stream.cz",
-      "url": "https://www.stream.cz/domaci-9257/babis-se-v-dublinu-sesel-se-zelenskym-65609553",
+      "title": "Dětská chůvička zachytila nečekané noční dobrodružství. Maminka chtěla zasáhnout, ale nedokázala odtrhnout oči - Tiscali.cz",
+      "url": "https://www.tiscali.cz/detska-chuvicka-zachytila-necekane-nocni-dobrodruzstvi-maminka-chtela-zasahnout-ale-nedokazala-odtrhnout-oci-807304",
+      "source": "Tiscali.cz",
+      "snippet": "Dětská chůvička zachytila nečekané noční dobrodružství. Maminka chtěla zasáhnout, ale nedokázala odtrhnout oči Tiscali.cz",
+      "published": "Sun, 15 Nov 2026 09:12:12 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Shrnutí a obsazení Vyvrhelové Dramatický seriál - CANAL+",
+      "url": "https://www.canalplus.com/cz/cs/serialy/vyvrhelove/h/47686139_55045/shrnut%C3%AD-obsazen%C3%AD/",
+      "source": "CANAL+",
+      "snippet": "Shrnutí a obsazení Vyvrhelové Dramatický seriál CANAL+",
+      "published": "Sat, 14 Nov 2026 02:05:50 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Luis de la Fuente vzkázal Tuchelovi, že ve Španělsku není rasismus. Lepší argumenty má Tuchel - FotbalPortal.cz",
+      "url": "https://www.fotbalportal.cz/ostatni/vse/81825-luis-de-la-fuente-tuchel-rasismus-spanelsko-anglie-protokol/",
+      "source": "FotbalPortal.cz",
+      "snippet": "Luis de la Fuente vzkázal Tuchelovi, že ve Španělsku není rasismus. Lepší argumenty má Tuchel FotbalPortal.cz",
+      "published": "Sun, 15 Nov 2026 09:30:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "FILM SPRAVEDLNOST MÍŘÍ DO KIN - Radio 1",
+      "url": "https://www.radio1.cz/film-spravedlnost-miri-do-kin/",
+      "source": "Radio 1",
+      "snippet": "FILM SPRAVEDLNOST MÍŘÍ DO KIN Radio 1",
+      "published": "Sun, 15 Nov 2026 23:04:47 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Fanatismus je na vzestupu. Masový vrah z Krakova a problém krajně pravicového terorismu - forum 24",
+      "url": "https://www.forum24.cz/fanatismus-je-na-vzestupu-masovy-vrah-z-krakova-a-problem-krajne-pravicoveho-terorismu",
+      "source": "forum 24",
+      "snippet": "Fanatismus je na vzestupu. Masový vrah z Krakova a problém krajně pravicového terorismu forum 24",
+      "published": "Sun, 15 Nov 2026 04:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "MPSV: Na superdávku přechází od srpna 238 500 příjemců rušených dávek - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/od-srpna-se-zacina-vyplacet-superdavka-376165",
+      "source": "ČT24",
+      "snippet": "MPSV: Na superdávku přechází od srpna 238 500 příjemců rušených dávek ČT24",
+      "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Superdávka je průšvih, který je třeba rychle opravit. - Sociální demokracie",
+      "url": "https://socdem.cz/akt-aktuality/superdavka-je-prusvih-ktery-je-treba-rychle-opravit/",
+      "source": "Sociální demokracie",
+      "snippet": "Superdávka je průšvih, který je třeba rychle opravit. Sociální demokracie",
+      "published": "Sun, 15 Nov 2026 17:37:33 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Senioři v Praze mohou přijít o pomoc od státu: Nestačí mít nízký důchod, rozhodují úspory a bydlení - Seznam",
+      "url": "https://medium.seznam.cz/clanek/kristyna-franclova-seniori-v-praze-mohou-prijit-o-pomoc-od-statu-nestaci-mit-nizky-duchod-rozhoduji-uspory-a-bydleni-347073",
+      "source": "Seznam",
+      "snippet": "Senioři v Praze mohou přijít o pomoc od státu: Nestačí mít nízký důchod, rozhodují úspory a bydlení Seznam",
+      "published": "Sun, 15 Nov 2026 16:27:54 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Superluxus místo dohodnutých zakázek. Na Ukrajině vyšetřují možnou zpronevěru u staveb proti dronům - Stream.cz",
+      "url": "https://www.stream.cz/zahranicni-9232/misto-dohodnutych-zakazek-domaci-luxus-na-ukrajine-vysetruji-moznou-zproneveru-u-staveb-proti-dronum-65609747",
       "source": "Stream.cz",
-      "snippet": "Babiš se v Dublinu sešel se Zelenským Stream.cz",
-      "published": "Thu, 12 Nov 2026 20:09:46 GMT",
+      "snippet": "Superluxus místo dohodnutých zakázek. Na Ukrajině vyšetřují možnou zpronevěru u staveb proti dronům Stream.cz",
+      "published": "Fri, 13 Nov 2026 10:05:16 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-15T07:46:39+00:00"
+      "collected_utc": "2026-11-16T01:27:51+00:00"
     },
     {
-      "title": "„Tohle je důvod, proč nejet taxíkem.“ Muzikanti zaplnili pražskou tramvaj - Stream.cz",
-      "url": "https://www.stream.cz/domaci-1240685-1/video-tohle-je-duvod-proc-nejet-taxikem-muzikanti-zaplnili-prazskou-tramvaj-65610317",
-      "source": "Stream.cz",
-      "snippet": "„Tohle je důvod, proč nejet taxíkem.“ Muzikanti zaplnili pražskou tramvaj Stream.cz",
-      "published": "Sat, 14 Nov 2026 14:01:28 GMT",
+      "title": "Matka čekala na rozsudek, ale úřad ho požadoval dříve. Po přezkumu získala přes 63 tisíc korun na bydlení - Centrum.cz",
+      "url": "https://www.centrum.cz/clanek/matka-cekala-na-rozsudek-ale-urad-ho-pozadoval-drive-po-prezkumu-ziskala-pres-63-tisic-korun-na-bydleni-344558",
+      "source": "Centrum.cz",
+      "snippet": "Matka čekala na rozsudek, ale úřad ho požadoval dříve. Po přezkumu získala přes 63 tisíc korun na bydlení Centrum.cz",
+      "published": "Sat, 14 Nov 2026 21:05:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-15T07:46:39+00:00"
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Machatova nástěnka: Vlak na Letnou - Seznam",
+      "url": "https://medium.seznam.cz/clanek/radek-machata-machatova-nastenka-vlak-na-letnou-346941",
+      "source": "Seznam",
+      "snippet": "Machatova nástěnka: Vlak na Letnou Seznam",
+      "published": "Sun, 15 Nov 2026 09:48:45 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Otázka, kterou nechcete v letadle slyšet - Seznam",
+      "url": "https://medium.seznam.cz/clanek/pavel-kujal-otazka-kterou-nechcete-v-letadle-slyset-346808",
+      "source": "Seznam",
+      "snippet": "Otázka, kterou nechcete v letadle slyšet Seznam",
+      "published": "Sun, 15 Nov 2026 07:08:38 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Kdo, když ne my? Kdy, když ne teď? - Seznam",
+      "url": "https://medium.seznam.cz/clanek/vladimir-balcar-kdo-kdyz-ne-my-kdy-kdyz-ne-ted-346601",
+      "source": "Seznam",
+      "snippet": "Kdo, když ne my? Kdy, když ne teď? Seznam",
+      "published": "Sat, 14 Nov 2026 10:16:39 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Nadstandardní služba zákazníkům - Seznam",
+      "url": "https://medium.seznam.cz/clanek/pavel-kujal-nadstandardni-sluzba-zakaznikum-346148",
+      "source": "Seznam",
+      "snippet": "Nadstandardní služba zákazníkům Seznam",
+      "published": "Fri, 13 Nov 2026 07:09:29 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Vyzývat veřejnost k milosrdenství nestačí - RESPEKT",
+      "url": "https://www.respekt.cz/tydenik/2026/47/vyzyvat-verejnost-k-milosrdenstvi-nestaci",
+      "source": "RESPEKT",
+      "snippet": "Vyzývat veřejnost k milosrdenství nestačí RESPEKT",
+      "published": "Sun, 15 Nov 2026 11:05:08 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Místo honosných kanceláří ubytovna. Senátoři po večerech hráli na kytary a řešili politiku - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ubytovna-kytary-a-trucujici-klaus-senat-pred-30-lety-zacinal-po-svem.A261113_191916_domaci_bury",
+      "source": "iDNES.cz",
+      "snippet": "Místo honosných kanceláří ubytovna. Senátoři po večerech hráli na kytary a řešili politiku iDNES.cz",
+      "published": "Sat, 14 Nov 2026 14:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Inkluze a pokrytectví: o přehlížení potřeb těch, kterým má pomáhat - Seznam",
+      "url": "https://medium.seznam.cz/clanek/nevrly-neurovedec-inkluze-a-pokrytectvi-nekterych-jejich-zastancu-kazou-empatii-sami-pocity-deti-casto-ignoruji-345127",
+      "source": "Seznam",
+      "snippet": "Inkluze a pokrytectví: o přehlížení potřeb těch, kterým má pomáhat Seznam",
+      "published": "Fri, 13 Nov 2026 12:26:55 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "MS juniorů bude bez Rusů. Ti se bouří: politické rozhodnutí a diskriminace - iDNES.cz",
+      "url": "https://www.idnes.cz/hokej/reprezentace/rusti-hokejiste-si-v-kanade-nezahraji-iihf-potvrdila-ze-bude-ms-dvacitek-bez-nich.A261115_191352_hokej_kazdt",
+      "source": "iDNES.cz",
+      "snippet": "MS juniorů bude bez Rusů. Ti se bouří: politické rozhodnutí a diskriminace iDNES.cz",
+      "published": "Sun, 15 Nov 2026 18:17:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Ombudsman: Chybějící tlumočník nesmí automaticky ukončit řízení o pobytu - ParlamentniListy.cz",
+      "url": "https://www.parlamentnilisty.cz/zpravy/tiskovezpravy/Ombudsman-Chybejici-tlumocnik-nesmi-automaticky-ukoncit-rizeni-o-pobytu-799498",
+      "source": "ParlamentniListy.cz",
+      "snippet": "Ombudsman: Chybějící tlumočník nesmí automaticky ukončit řízení o pobytu ParlamentniListy.cz",
+      "published": "Sun, 15 Nov 2026 15:18:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
+    },
+    {
+      "title": "Potřebuje společnost institut ombudsmana? Nepotřebuje. Pokud by řádně fungovaly příslušné instituce - Seznam",
+      "url": "https://medium.seznam.cz/clanek/petr-manak-potrebuje-spolecnost-institut-ombudsmana-nepotrebuje-pokud-by-radne-fungovaly-prislusne-instituce-347014",
+      "source": "Seznam",
+      "snippet": "Potřebuje společnost institut ombudsmana? Nepotřebuje. Pokud by řádně fungovaly příslušné instituce Seznam",
+      "published": "Sun, 15 Nov 2026 14:40:16 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T01:27:51+00:00"
     },
     {
       "title": "Ukrinform - zprávy z Ukrajiny - České noviny",
-      "url": "https://www.ceskenoviny.cz/ukrinform/cesky/zprava.php?id=1464192",
+      "url": "https://www.ceskenoviny.cz/ukrinform/cesky/zprava.php?id=1464237",
       "source": "České noviny",
       "snippet": "Ukrinform - zprávy z Ukrajiny České noviny",
-      "published": "Sun, 15 Nov 2026 02:20:00 GMT",
+      "published": "Sun, 15 Nov 2026 08:00:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-15T07:46:39+00:00"
+      "collected_utc": "2026-11-16T01:27:51+00:00"
     },
     {
-      "title": "Ubytovna, kytary a trucující Klaus. Senát před 30 lety začínal po svém",
-      "url": "https://www.idnes.cz/zpravy/domaci/ubytovna-kytary-a-trucujici-klaus-senat-pred-30-lety-zacinal-po-svem.A261113_191916_domaci_bury#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-      "source": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
-      "snippet": "V Ústavě České republiky existoval Senát už od rozpadu federace, ale dlouhé čtyři roky zůstával jen prázdným pojmem. Zatímco poslanci si ve Sněmovně zvykli na zákonodárný monopol, horní komora „žila“ pouze na papíře. Teprve před 30 lety, 15. listopadu 1996, se do ní poprvé volilo.",
-      "published": "Sat, 14 Nov 2026 14:00:00 GMT",
+      "title": "Porodnost se řítí dolů. Experti chtějí rozšířit povinnost obcí starat se o děti - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-recept-na-vyssi-porodnost-vlada-celi-tlaku-aby-zmenila-system-pece-o-deti-320512",
+      "source": "Seznam Zprávy",
+      "snippet": "Porodnost se řítí dolů. Experti chtějí rozšířit povinnost obcí starat se o děti Seznam Zprávy",
+      "published": "Sat, 14 Nov 2026 14:30:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Z „rasistického srdce“ Ameriky přišel největší šok voleb",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zatracene-dobra-zprava-z-rasistickeho-srdce-ameriky-320438",
-      "source": "https://www.seznamzpravy.cz/rss",
-      "snippet": "Demokraté vyhráli midterms v celé řadě konzervativních bašt, od Jižní Karolíny přes Kansas až po Texas. Za největší otřes lze ale jednoznačně považovat jejich senátní vítězství v Mississippi.",
-      "published": "Sat, 14 Nov 2026 16:00:00 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Po Fukové bude zmocněnkyní pro romské záležitosti náměstkyně MPSV Stejskalová - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/po-fukove-bude-zmocnenkyni-pro-romske-zalezitosti-namestkyne-mpsv-stejskalova-374848",
-      "source": "ČT24",
-      "snippet": "Po Fukové bude zmocněnkyní pro romské záležitosti náměstkyně MPSV Stejskalová ČT24",
-      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Příběh romského hrdiny Josefa Serinka ožívá na divadelních prknech i v nové výstavě - Radiožurnál",
-      "url": "https://radiozurnal.rozhlas.cz/pribeh-romskeho-hrdiny-josefa-serinka-oziva-na-divadelnich-prknech-i-v-nove-9656067",
-      "source": "Radiožurnál",
-      "snippet": "Příběh romského hrdiny Josefa Serinka ožívá na divadelních prknech i v nové výstavě Radiožurnál",
-      "published": "Sat, 14 Nov 2026 10:22:23 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Ústava a Listina práv jsou už i v romštině. Některé právní výrazy musela překladatelka vymyslet - iROZHLAS",
-      "url": "https://www.irozhlas.cz/kultura/literatura/ustava-a-listina-prav-jsou-uz-i-v-romstine-nekterych-pravnich-vyrazu-se-musela_2611141130_tez",
-      "source": "iROZHLAS",
-      "snippet": "Ústava a Listina práv jsou už i v romštině. Některé právní výrazy musela překladatelka vymyslet iROZHLAS",
-      "published": "Sat, 14 Nov 2026 10:30:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "V souvislostech: Marína Urbániková: Veřejnoprávní média - TV Noe",
-      "url": "https://www.tvnoe.cz/porad/47205-v+souvislostech+marina+urbanikova+verejnopravni+media",
-      "source": "TV Noe",
-      "snippet": "V souvislostech: Marína Urbániková: Veřejnoprávní média TV Noe",
-      "published": "Sat, 14 Nov 2026 17:20:20 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Epizody Slečna Marplová: Nekonečná noc - Sezóna 2 - CANAL+",
-      "url": "https://www.canalplus.com/cz/cs/serialy/slecna-marplova-nekonecna-noc/h/42256356_55016/r-2/",
-      "source": "CANAL+",
-      "snippet": "Epizody Slečna Marplová: Nekonečná noc - Sezóna 2 CANAL+",
-      "published": "Fri, 13 Nov 2026 21:55:51 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Epizody Slečna Marplová: Nekonečná noc - Sezóna 5 - CANAL+",
-      "url": "https://www.canalplus.com/cz/cs/serialy/slecna-marplova-nekonecna-noc/h/42256356_55016/r-5/",
-      "source": "CANAL+",
-      "snippet": "Epizody Slečna Marplová: Nekonečná noc - Sezóna 5 CANAL+",
-      "published": "Sat, 14 Nov 2026 00:57:02 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Quentin Tarantino se po 32 letech pustil do herečky z Pulp Fiction, jeho ostrá odpověď šokovala Hollywood - Filmožrouti.cz",
-      "url": "https://www.filmozrout.cz/quentin-tarantino-se-po-32-letech-pustil-do-herecky-z-pulp-fiction-jeho-ostra-odpoved-sokovala-hollywood/",
-      "source": "Filmožrouti.cz",
-      "snippet": "Quentin Tarantino se po 32 letech pustil do herečky z Pulp Fiction, jeho ostrá odpověď šokovala Hollywood Filmožrouti.cz",
-      "published": "Sat, 14 Nov 2026 13:35:21 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "„Krajní pravice“ na pochodu - Echo24",
-      "url": "https://www.echo24.cz/a/HBCME/komentar-ruczaj-krajni-pravice-na-pochodu-polsko-nacionalismus-",
-      "source": "Echo24",
-      "snippet": "„Krajní pravice“ na pochodu Echo24",
-      "published": "Sat, 14 Nov 2026 23:07:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Česko-německé odborné setkání v Dachau: Jak čelit antisemitismu a pravicovému extremismu? - NovinyVM",
-      "url": "https://www.novinyvm.cz/29471-cesko-nemecke-odborne-setkani-v-dachau-jak-celit-antisemitismu-a-pravicovemu-extremismu.html",
-      "source": "NovinyVM",
-      "snippet": "Česko-německé odborné setkání v Dachau: Jak čelit antisemitismu a pravicovému extremismu? NovinyVM",
-      "published": "Fri, 13 Nov 2026 23:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Fatima Rahimi: Už zase chce někdo násilím rozhodovat o tom, kdo kam může patřit - Deník Referendum",
-      "url": "https://denikreferendum.cz/clanek/239595-uz-zase-chce-nekdo-nasilim-rozhodovat-o-tom-kdo-kam-muze-patrit",
-      "source": "Deník Referendum",
-      "snippet": "Fatima Rahimi: Už zase chce někdo násilím rozhodovat o tom, kdo kam může patřit Deník Referendum",
-      "published": "Sat, 14 Nov 2026 06:12:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Superdávku čekají další změny - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/superdavku-cekaji-dalsi-zmeny-377771",
-      "source": "ČT24",
-      "snippet": "Superdávku čekají další změny ČT24",
-      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Juchelka chce upravit superdávku. Změny mají cílit třeba na samoživitelky - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/juchelka-chce-upravit-superdavku-zmeny-maji-cilit-treba-na-samozivitelky-373011",
-      "source": "ČT24",
-      "snippet": "Juchelka chce upravit superdávku. Změny mají cílit třeba na samoživitelky ČT24",
-      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Návrat do Sálu zadků: Aleš Háma ničeho nelituje, dočkal se obrovské vlny solidarity od gayů z celé republiky - Stream.cz",
-      "url": "https://www.stream.cz/super-cz/navrat-do-salu-zadku-ales-hama-niceho-nelituje-dockal-se-obrovske-vlny-solidarity-od-gayu-z-cele-republiky-65609535",
-      "source": "Stream.cz",
-      "snippet": "Návrat do Sálu zadků: Aleš Háma ničeho nelituje, dočkal se obrovské vlny solidarity od gayů z celé republiky Stream.cz",
-      "published": "Thu, 12 Nov 2026 18:34:55 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Česko zůstává zemí živnostníků. Jejich počet láme rekordy, pravidla se mohou změnit - Echo24",
-      "url": "https://www.echo24.cz/a/HnrGY/zpravy-domov-zeme-zivnostniku-mozne-zmeny",
-      "source": "Echo24",
-      "snippet": "Česko zůstává zemí živnostníků. Jejich počet láme rekordy, pravidla se mohou změnit Echo24",
-      "published": "Sat, 14 Nov 2026 23:04:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Roste počet exekucí kvůli neplacení výživného. Od ledna se nejedná o trestný čin - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/roste-pocet-exekuci-kvuli-neplaceni-vyzivneho-od-ledna-se-nejedna-o-trestny-cin-375610",
-      "source": "ČT24",
-      "snippet": "Roste počet exekucí kvůli neplacení výživného. Od ledna se nejedná o trestný čin ČT24",
-      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Pivoňka Vaňková (STAN): Omluva nájem nezaplatí, ministře Juchelko - ParlamentniListy.cz",
-      "url": "https://www.parlamentnilisty.cz/politika/politici-volicum/Pivonka-Vankova-STAN-Omluva-najem-nezaplati-ministre-Juchelko-799536",
-      "source": "ParlamentniListy.cz",
-      "snippet": "Pivoňka Vaňková (STAN): Omluva nájem nezaplatí, ministře Juchelko ParlamentniListy.cz",
-      "published": "Sat, 14 Nov 2026 09:15:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Stát hodlá po letech srazit počet segregovaných škol - Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-stat-hodla-po-letech-srazit-pocet-segregovanych-skol-40608584",
-      "source": "Novinky",
-      "snippet": "Stát hodlá po letech srazit počet segregovaných škol Novinky",
-      "published": "Sat, 14 Nov 2026 06:30:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Plaga plánuje reformy školství. Brání mu dohady s koaličními partnery i finance - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/velky-plan-roberta-plagy-ministr-chce-do-tri-let-promenit-ceske-skolstvi.A261112_192054_domaci_kton",
-      "source": "iDNES.cz",
-      "snippet": "Plaga plánuje reformy školství. Brání mu dohady s koaličními partnery i finance iDNES.cz",
-      "published": "Sat, 14 Nov 2026 23:00:08 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Mississippi bude mít prvního černošského senátora od občanské války. Colom vítězí v baště republikánů - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/mississippi-bude-mit-prvniho-cernosskeho-senatora-od-obcanske-valky-colom-vitezi_2611120647_bva",
-      "source": "iROZHLAS",
-      "snippet": "Mississippi bude mít prvního černošského senátora od občanské války. Colom vítězí v baště republikánů iROZHLAS",
-      "published": "Thu, 12 Nov 2026 05:47:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Kylie Jenner žaluje další zaměstnankyně. Hospodyně popisuje šokující zážitky - Antiyoutuber.cz",
-      "url": "https://www.antiyoutuber.cz/clanky/kylie-jenner-the-kardashians-dospodyne-dinora-amaya-zaloba.A261113_160354_antiyout-clanky_sorm",
-      "source": "Antiyoutuber.cz",
-      "snippet": "Kylie Jenner žaluje další zaměstnankyně. Hospodyně popisuje šokující zážitky Antiyoutuber.cz",
-      "published": "Sat, 14 Nov 2026 12:59:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Chceme vrátit domů nejméně tisícovku Ukrajinců, hlásí ombudsman Lubinec - Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-chceme-vratit-domu-nejmene-tisicovku-ukrajincu-hlasi-ombudsman-lubinec-40608670",
-      "source": "Novinky",
-      "snippet": "Chceme vrátit domů nejméně tisícovku Ukrajinců, hlásí ombudsman Lubinec Novinky",
-      "published": "Sat, 14 Nov 2026 19:13:22 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Místa v srdci potravinového ombudsmana Jindřicha Fialky - Český rozhlas České Budějovice",
-      "url": "https://budejovice.rozhlas.cz/mista-v-srdci-potravinoveho-ombudsmana-jindricha-fialky-9656425",
-      "source": "Český rozhlas České Budějovice",
-      "snippet": "Místa v srdci potravinového ombudsmana Jindřicha Fialky Český rozhlas České Budějovice",
-      "published": "Sat, 14 Nov 2026 20:08:12 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Zvolení zastupitele v Slatiňanech je neplatné - Novinky",
-      "url": "https://www.novinky.cz/clanek/volby-zvoleni-zastupitele-v-slatinanech-je-neplatne-40608413",
-      "source": "Novinky",
-      "snippet": "Zvolení zastupitele v Slatiňanech je neplatné Novinky",
-      "published": "Fri, 13 Nov 2026 06:46:06 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Na ulici v německých Cáchách byl zastřelen muž - Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-na-ulici-v-nemeckych-cachach-byl-zastrelen-muz-40608600",
-      "source": "Novinky",
-      "snippet": "Na ulici v německých Cáchách byl zastřelen muž Novinky",
-      "published": "Fri, 13 Nov 2026 17:09:26 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
-    },
-    {
-      "title": "Po Hlinsku se pohyboval muž v kukle a se zbraní - Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-po-hlinsku-se-pohyboval-muz-v-kukle-a-se-zbrani-policie-ho-zpacifikovala-40608598",
-      "source": "Novinky",
-      "snippet": "Po Hlinsku se pohyboval muž v kukle a se zbraní Novinky",
-      "published": "Fri, 13 Nov 2026 16:49:22 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-15T01:23:03+00:00"
+      "collected_utc": "2026-11-16T01:27:51+00:00"
     }
   ]
 }
