@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-16T01:27:51+00:00",
-  "count": 24,
+  "generated_utc": "2026-11-16T07:51:36+00:00",
+  "count": 27,
   "sources": {
     "profile": "cz",
-    "google_news": 106,
+    "google_news": 97,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
@@ -11,19 +11,46 @@
     "feeds": 0,
     "news_feeds": 3,
     "watch": 0,
-    "before_dedup": 82,
-    "total": 67,
-    "skipped_seen": 43,
-    "gn_resolved": 24,
-    "gn_resolve_tried": 24,
-    "dropped_after_resolve": 0,
-    "new": 24,
-    "carried_over": 0,
+    "before_dedup": 72,
+    "total": 60,
+    "skipped_seen": 56,
+    "gn_resolved": 4,
+    "gn_resolve_tried": 4,
+    "dropped_after_resolve": 1,
+    "new": 3,
+    "carried_over": 24,
     "window_start": "2026-11-15T07:46:39+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Vydali jsme se na kontrolu do tiskárny, kde se připravuje moje nová kniha - Stream.cz",
+      "url": "https://www.stream.cz/sikulio-zahrada/vydali-jsme-se-na-kontrolu-do-tiskarny-kde-se-pripravuje-moje-nova-kniha-65609903",
+      "source": "Stream.cz",
+      "snippet": "Vydali jsme se na kontrolu do tiskárny, kde se připravuje moje nová kniha Stream.cz",
+      "published": "Sat, 14 Nov 2026 13:01:25 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T07:51:36+00:00"
+    },
+    {
+      "title": "Machatova nástěnka: Národní bouchání - Seznam",
+      "url": "https://medium.seznam.cz/clanek/radek-machata-machatova-nastenka-narodni-bouchani-347237",
+      "source": "Seznam",
+      "snippet": "Machatova nástěnka: Národní bouchání Seznam",
+      "published": "Sun, 15 Nov 2026 20:11:30 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T07:51:36+00:00"
+    },
+    {
+      "title": "67/Umělecké ztvárnění aktu potetovaného muže propojuje tradiční estetikou zdobení kůže - Seznam",
+      "url": "https://medium.seznam.cz/clanek/karel-vorisek-67-umelecke-ztvarneni-aktu-potetovaneho-muze-propojuje-tradicni-estetikou-zdobeni-kuze-346360",
+      "source": "Seznam",
+      "snippet": "67/Umělecké ztvárnění aktu potetovaného muže propojuje tradiční estetikou zdobení kůže Seznam",
+      "published": "Fri, 13 Nov 2026 14:31:59 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-16T07:51:36+00:00"
+    },
     {
       "title": "Ředitelka Muzea romské kultury Jana Horváthová o Mezinárodním dni Romů - ČT24",
       "url": "https://ct24.ceskatelevize.cz/video/reditelka-muzea-romske-kultury-jana-horvathova-o-mezinarodnim-dni-romu-21399",
