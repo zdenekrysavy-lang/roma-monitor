@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-17T04:14:53+00:00",
-  "count": 95,
+  "generated_utc": "2026-11-17T07:49:03+00:00",
+  "count": 108,
   "sources": {
     "profile": "world",
-    "google_news": 146,
+    "google_news": 147,
     "google_news_status": "partial",
     "gdelt": 5,
     "gdelt_status": "ok",
@@ -11,19 +11,136 @@
     "feeds": 32,
     "news_feeds": 0,
     "watch": 3,
-    "before_dedup": 182,
-    "total": 162,
-    "skipped_seen": 67,
-    "gn_resolved": 54,
-    "gn_resolve_tried": 79,
+    "before_dedup": 183,
+    "total": 163,
+    "skipped_seen": 150,
+    "gn_resolved": 3,
+    "gn_resolve_tried": 13,
     "dropped_after_resolve": 0,
-    "new": 95,
-    "carried_over": 0,
+    "new": 13,
+    "carried_over": 95,
     "window_start": "2026-11-16T07:45:28+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Suveranul Pontif, surprins la bordul unui elicopter in Peru - TRUmedia.ro",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkFJOW03OHMzU01RVTcwdWZGdFBQSnhmdmtzRElJLXB6b09OR082ZEQ4ajlFa3MwaFpDbjJpejZTMU55NGo5dklKUHozVm4weldseGROUDhOSE4xSGk3cTE5UU9qRjJhVjhWSUF6ZFBpRVFNOU16bDVOek5lVmZpRWo3YmJGQQ?oc=5",
+      "source": "TRUmedia.ro",
+      "snippet": "Suveranul Pontif, surprins la bordul unui elicopter in Peru TRUmedia.ro",
+      "published": "Sun, 15 Nov 2026 14:44:03 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "(P) Formula 1 a Romei antice: cursele de care înnebuneau mulțimile! De ce Marcus Aurelius disprețuia spectacolul care fascina imperiul - Prosport",
+      "url": "https://www.prosport.ro/comunicate/formula-1-a-romei-antice-cursele-de-care-innebuneau-multimile-de-ce-marcus-aurelius-dispretuia-spectacolul-care-fascina-imperiul-20570735",
+      "source": "Prosport",
+      "snippet": "(P) Formula 1 a Romei antice: cursele de care înnebuneau mulțimile! De ce Marcus Aurelius disprețuia spectacolul care fascina imperiul Prosport",
+      "published": "Mon, 16 Nov 2026 14:42:40 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "Influencias y comienzos del «Gitano», astro latinoamericano - Radio Nacional Rock",
+      "url": "https://www.radionacional.com.ar/las-influencias-y-los-comienzos-del-astro/",
+      "source": "Radio Nacional Rock",
+      "snippet": "Influencias y comienzos del «Gitano», astro latinoamericano Radio Nacional Rock",
+      "published": "Tue, 17 Nov 2026 06:08:25 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "No apuestes sin antes ver el Cronicazo - Crónica",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBRT0pSc28wU0lrMzVNcDI0bExvWDhSYXRrdS1SLWhDeUd0WDNtaWo3bF95QnFQcktoMUplTURSaFY1c0ZrcXlaZUJIYzdZdTRJdk9RNTNHVnhqMzc4M0syY2pzdVBNR0k4S0gtQjVGZUwzbi1yeEtKWWc2WHBlbGcyakRZUUpCeklJN2hEUEnSAZYBQVVfeXFMUHhncnJhb3lZYmNWMjlBUzZ2NUk0Rk9qcUc3UmV5S3liTGc4WkxHSDVua0ZJR0lCYWZmdEhKQ1MzRS1JNE5xWmpaRnJkZktXVGpfX1hudnlxSTlDUXRONldUV0RhVkt6VEIwNEJYM2RBNVplMGxaMnVWcEcwc1R2S0NyMkhYbDN2YWhadncwb0hmenJQblh3?oc=5",
+      "source": "Crónica",
+      "snippet": "No apuestes sin antes ver el Cronicazo Crónica",
+      "published": "Tue, 17 Nov 2026 03:20:00 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "Un partenariat signé entre le collège et la société STS - Centre Presse Aveyron",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU1wX2d3NVIxcHBrcExiMEUyWlJrTzhQWWNfTHNnUjVWMlVmc1JjbkI1ZlBPT3ZRSFRpWGl6UmozZW1Nb0hHQTVHTnpFVl82V0NzMXJObmhBRTlWV0lWS0ZrSnA0UEpqWGU5dWpiTmhwTzlTb2FmTnZvMTZwZ2dFM2hZRmh6Q2trUjN3dkd4R1ZQWjRQQ3Z1Z0hSMDY5MVVzNVRjdk5vcEdZSlU1WWY1VG1ZOTU?oc=5",
+      "source": "Centre Presse Aveyron",
+      "snippet": "Un partenariat signé entre le collège et la société STS Centre Presse Aveyron",
+      "published": "Mon, 16 Nov 2026 20:47:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "Saint-Symphorien-de-Thénières. Le Foyer rural de sortie au Garden Palace - Centre Presse Aveyron",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdi11Y1hSQjJnaVVCZXNmQ0NtTmw5R2Ftc25mMVBpZlBCbEhXeHhndGVpOGVoc1NCV29RX0N3Ukp0V1FZdnZNQkx5dDFGbV92RVBsRlVDVXBVbVpWTnZHbWZsN1JUUlpqbGIwT2lXZHZfMW02N0IzdGtGVjZKR0FRenpkbzlFeDVYMTNuNkF0LWl3NHAyUC1seDVpT2gxWndaY0E?oc=5",
+      "source": "Centre Presse Aveyron",
+      "snippet": "Saint-Symphorien-de-Thénières. Le Foyer rural de sortie au Garden Palace Centre Presse Aveyron",
+      "published": "Sun, 15 Nov 2026 23:50:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "TV-Programm heute + 8-Wochen-Übersicht - hr-fernsehen.de",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEhpNkJNanRWTnZvTHUxRUpFa1N3d0N3NDZpblFwTjRHenJBUjRfX2VDejM1eDFBMkR6eVU1SGxKY21uV0NKTGhTLWxhZUVKdVBHdTNEMFJxZm5UWGZ5cVUzUmxadDhLVjFqY0pfMWJndERJX2hNVVhnbU1DY2JzMWtOQUZyVjM0Nlpj?oc=5",
+      "source": "hr-fernsehen.de",
+      "snippet": "TV-Programm heute + 8-Wochen-Übersicht hr-fernsehen.de",
+      "published": "Tue, 17 Nov 2026 05:03:50 GMT",
+      "lang": "de",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "La colpa, l’indifferenza e l’odio - LatinaNews",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51NnotX3NSa3FvTnRoRFFGWC1nTDZNeTlIb0xqWXNHeEN1alF4OFYwdzBnQ2l0bDhuWFZpanhqRmZ0X1pnYjhrbVAyVdIBcEFVX3lxTE81cjh3UjlzSG1SaTNzZXUzN05CVjE2UEFmZVdjc0xvM2drR2dCaUtQQm0zR1M0Z3FUcmtUTGpaM3piSEhFZ1dLTzJqbEZkV2piZnVwLWFZLXNGZ0U0RGxISlQ3bzcwblgxekVOaTJMUkI?oc=5",
+      "source": "LatinaNews",
+      "snippet": "La colpa, l’indifferenza e l’odio LatinaNews",
+      "published": "Mon, 16 Nov 2026 06:05:46 GMT",
+      "lang": "it",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "Съдят наш сексуален маниак в Германия: Колю К. изнасилил дете - Dnes.bg",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWw2QW43WDRCQWE2VERLQ3FVWncxeVQzTlUzaENxSF8xNkZYY0Z6TXllQnl4SFhZMG1vcGZqeGVZVEZWZzRyeHF3d1R5R0RUbVpWWWdYb1dtUW1ESHF6RHNKcDhkQS1uRjV2NkxnWVJ5dDdmWlFGaDBaWlZneUVKUEZ0WEQwRU5QSjVIUFU2dEdaMXZ1Rk82cWFtN29takFSS0E?oc=5",
+      "source": "Dnes.bg",
+      "snippet": "Съдят наш сексуален маниак в Германия: Колю К. изнасилил дете Dnes.bg",
+      "published": "Tue, 17 Nov 2026 04:45:00 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "Σ. Μπαλάσκας για τον ξυλοδαρμό διασώστη του ΕΚΑΒ από Ρομά: Προβληματικοί αυτοί οι άνθρωποι – Το ασθενοφόρο δεν είναι ταξί - Newsbeast",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUkYyc0toWkRMbHVTUHBPZ1N1RF9ORnhQTHpBVVhYemRoUmN6NzZYemluaGtfMGwzYUc0ZlgyeWJLdUtwdlpWMWxoYy1HcFBSckxSbTh4enZsQTZtWGFkODd6N09feUFnTk04eVRnRWc0dVBOcTFjMDFXajdGblJka0xEVW5xVm15blpVaDNCSU1QajloZXc1NjJOTzd3NzVDcFlNYmc0QjN6bnluZmM3Z1RGeFQtS1RfUXM4WGR2QUtBbVFwdkVxcjdOYVdVU1lDblMzZENuX2sycUE4Z1E4UGdyR3Y1amRxUzFBdUxiQ0RPdVBpVVVJYzdLWQ?oc=5",
+      "source": "Newsbeast",
+      "snippet": "Σ. Μπαλάσκας για τον ξυλοδαρμό διασώστη του ΕΚΑΒ από Ρομά: Προβληματικοί αυτοί οι άνθρωποι – Το ασθενοφόρο δεν είναι ταξί Newsbeast",
+      "published": "Tue, 17 Nov 2026 06:58:16 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "Edyta Górniak wspomina dyskryminację z powodu romskiego pochodzenia. \"Nauczyciel mówił, że się nie domyłam\" - cgm.pl",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYURfYUU1VGN5NGN6eVFMZDZONjFJTEJZbjROcXhxMzl1cXBEREFncHFPOENUSU91Wl9zRV83UUZiMDVoUXM2SWFKTW1SaF9OVkhaUFJ0T0JXX1J5ZEttS3duMTJpalZMcVUxcXp6SDBmNC01aFpockJJOXMtelBwMlNEWXFjZG9LQ3NEX1BucFJtdVlZaWdSSTBDOEhxQjBGME83LTNsdWNNS0VFWHJDd2o1UjdkbGNDVDE5UTNnQ1laZw?oc=5",
+      "source": "cgm.pl",
+      "snippet": "Edyta Górniak wspomina dyskryminację z powodu romskiego pochodzenia. \"Nauczyciel mówił, że się nie domyłam\" cgm.pl",
+      "published": "Tue, 17 Nov 2026 07:00:58 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUhfclAtNWZJQ3dBSUkxUFRzS1FVaVJIN2ZsVmxIcVhLdWtOeFh1a3hhQU5JS09iWjdxeldwNnlIalp4bjRLb0IyVmlQRG5FT3JRN1JKNzY2UnM2NXNtc0NJRFJkb1dLdm9sWEpHVzNrVEpJV1lnVG10WGtpNnJ0SElINFlzdkxJdW1RRjBLSlZHYWFLTHFnSVp4aHVUSEVfRVU2c0hDaFl4THl6aG9ZODNDVVZhb3p0VnNVR0NB?oc=5",
+      "source": "GP24",
+      "snippet": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! GP24",
+      "published": "Tue, 17 Nov 2026 06:50:53 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
+    {
+      "title": "Vereador Daniel Pinto entrega van 0 km às comunidades ciganas de Sousa em parceria com o deputado Luiz Couto - Notícia Já",
+      "url": "https://www.portalnoticiaja.com/noticia/sertao/2026/11/16/vereador-daniel-pinto-entrega-van-0-km-as-comunidades-ciganas-de-sousa-em-parceria-com-deputado-luiz-couto/77571.html",
+      "source": "Notícia Já",
+      "snippet": "Vereador Daniel Pinto entrega van 0 km às comunidades ciganas de Sousa em parceria com o deputado Luiz Couto Notícia Já",
+      "published": "Tue, 17 Nov 2026 01:45:08 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-17T07:49:03+00:00"
+    },
     {
       "title": "Bosnia and Minorities",
       "url": "https://rroma.org/bosnia-and-minorities/?utm_source=rss&utm_medium=rss&utm_campaign=bosnia-and-minorities",
