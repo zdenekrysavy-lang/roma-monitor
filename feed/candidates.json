@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-18T03:08:43+00:00",
-  "count": 78,
+  "generated_utc": "2026-11-18T07:45:27+00:00",
+  "count": 92,
   "sources": {
     "profile": "world",
-    "google_news": 155,
+    "google_news": 159,
     "google_news_status": "ok",
     "gdelt": 5,
     "gdelt_status": "ok",
@@ -11,19 +11,145 @@
     "feeds": 34,
     "news_feeds": 0,
     "watch": 5,
-    "before_dedup": 196,
-    "total": 178,
-    "skipped_seen": 100,
-    "gn_resolved": 70,
-    "gn_resolve_tried": 70,
+    "before_dedup": 199,
+    "total": 180,
+    "skipped_seen": 166,
+    "gn_resolved": 14,
+    "gn_resolve_tried": 14,
     "dropped_after_resolve": 0,
-    "new": 78,
-    "carried_over": 0,
+    "new": 14,
+    "carried_over": 78,
     "window_start": "2026-11-17T07:49:03+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Robia prácu, ktorú nevidno, no menia životy. Lúč z tmy ocenil výnimočné osobnosti - trnavske.radio",
+      "url": "https://trnavske.radio/2026/11/18/robia-pracu-ktoru-nevidno-no-menia-zivoty-luc-z-tmy-ocenil-vynimocne-osobnosti/",
+      "source": "trnavske.radio",
+      "snippet": "Robia prácu, ktorú nevidno, no menia životy. Lúč z tmy ocenil výnimočné osobnosti trnavske.radio",
+      "published": "Wed, 18 Nov 2026 07:30:00 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "HÜSNÜ ŞENLENDİRİCİ IN TORONTO ON NOVEMBER 22 - Turkville",
+      "url": "https://turkville.ca/en/news/husnu-senlendirici-in-toronto-on-november-22",
+      "source": "Turkville",
+      "snippet": "HÜSNÜ ŞENLENDİRİCİ IN TORONTO ON NOVEMBER 22 Turkville",
+      "published": "Wed, 18 Nov 2026 04:28:06 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "„Ria, ria, Hungária!” – botrány a román válogatott meccsén, a rendőrök is közbeléptek - Magyar Nemzet",
+      "url": "https://mno.hu/sport/2026/11/romania-botrany-magyar-rigmus-bosznia-marius-corbu-fradi",
+      "source": "Magyar Nemzet",
+      "snippet": "„Ria, ria, Hungária!” – botrány a román válogatott meccsén, a rendőrök is közbeléptek Magyar Nemzet",
+      "published": "Wed, 18 Nov 2026 07:03:35 GMT",
+      "lang": "hu",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "Vârstnici dependenți din comunele Gârceni și Băcești vor beneficia de îngrijire la domiciliu - Vaslui azi",
+      "url": "https://vasluiazi.ro/2026/11/18/varstnici-dependenti-din-comunele-garceni-si-bacesti-vor-beneficia-de-ingrijire-la-domiciliu/",
+      "source": "Vaslui azi",
+      "snippet": "Vârstnici dependenți din comunele Gârceni și Băcești vor beneficia de îngrijire la domiciliu Vaslui azi",
+      "published": "Wed, 18 Nov 2026 06:50:00 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "Pitingo y sus dificultades por tener un un padre payo y una madre gitana: \"Los niños no querían jugar conmigo\" - Vanitatis",
+      "url": "https://www.vanitatis.elconfidencial.com/cafe-society/2026-11-18/pitingo-dificultades-padre-payo-madre-gitana-ninos-no-querian-jugar-conmigo_4466533/",
+      "source": "Vanitatis",
+      "snippet": "Pitingo y sus dificultades por tener un un padre payo y una madre gitana: \"Los niños no querían jugar conmigo\" Vanitatis",
+      "published": "Wed, 18 Nov 2026 04:00:00 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "«Mi sobrina me dijo: 'Tita, ser gitana es un problema', y le contesté que sí, pero el más bonito que le había pasado» - La Gaceta de Salamanca",
+      "url": "https://www.lagacetadesalamanca.es/salamanca/sobrina-dijo-tita-gitana-problema-conteste-bonito-20261117221303-nt.html",
+      "source": "La Gaceta de Salamanca",
+      "snippet": "«Mi sobrina me dijo: 'Tita, ser gitana es un problema', y le contesté que sí, pero el más bonito que le había pasado» La Gaceta de Salamanca",
+      "published": "Tue, 17 Nov 2026 21:13:08 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "Jaén estrena una plataforma para conectar a empresas con personas que buscan empleo - Ideal",
+      "url": "https://www.ideal.es/jaen/jaen/jaen-estrena-plataforma-conectar-empresas-personas-buscan-20261117191604-nt.html",
+      "source": "Ideal",
+      "snippet": "Jaén estrena una plataforma para conectar a empresas con personas que buscan empleo Ideal",
+      "published": "Tue, 17 Nov 2026 18:16:04 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "D’une info à l’autre : la vie des villages - NRPyrenees.fr",
+      "url": "https://www.nrpyrenees.fr/2026/11/18/dune-info-a-lautre-la-vie-des-villages-13657957.php",
+      "source": "NRPyrenees.fr",
+      "snippet": "D’une info à l’autre : la vie des villages NRPyrenees.fr",
+      "published": "Wed, 18 Nov 2026 04:20:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "ADZ-Online - Tradierte Klischees dekonstruieren für die Demokratie - Allgemeine Deutsche Zeitung für Rumänien",
+      "url": "https://adz.news/artikel/artikel/tradierte-klischees-dekonstruieren-fuer-die-demokratie",
+      "source": "Allgemeine Deutsche Zeitung für Rumänien",
+      "snippet": "ADZ-Online - Tradierte Klischees dekonstruieren für die Demokratie Allgemeine Deutsche Zeitung für Rumänien",
+      "published": "Wed, 18 Nov 2026 06:03:17 GMT",
+      "lang": "de",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "Εργολάβος για τα αυθαίρετα στον καταυλισμό Ρομά στη Νεάπολη - Taxydromos",
+      "url": "https://www.taxydromos.gr/magnesia/volos/1392072/ergolavos-gia-ta-aythaireta-ston-kataylismo-roma-sti-neapoli/",
+      "source": "Taxydromos",
+      "snippet": "Εργολάβος για τα αυθαίρετα στον καταυλισμό Ρομά στη Νεάπολη Taxydromos",
+      "published": "Wed, 18 Nov 2026 06:00:18 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "Δ. Ιατρόπουλος: «Ανατριχιαστική η εικόνα με τις άθλιες συνθήκες στις οποίες ζουν τα παιδιά Ρομά - Open TV",
+      "url": "https://www.tvopen.gr/watch/283708/diatropoylosanatrixiastikhheikonametisathliessynthhkesstisopoieszoyntapaidiaroma",
+      "source": "Open TV",
+      "snippet": "Δ. Ιατρόπουλος: «Ανατριχιαστική η εικόνα με τις άθλιες συνθήκες στις οποίες ζουν τα παιδιά Ρομά Open TV",
+      "published": "Tue, 17 Nov 2026 16:41:31 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24",
+      "url": "https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-18-11-2026/ar/c9p2-29417133",
+      "source": "GP24",
+      "snippet": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! GP24",
+      "published": "Wed, 18 Nov 2026 06:51:08 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "Złoto, kryształy i cygańska dusza. Tak wygląda luksusowa rezydencja Dona Vasyla 17.11.2026 - GP24",
+      "url": "https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-17-11-2026/gh/c9p2-29417133/2",
+      "source": "GP24",
+      "snippet": "Złoto, kryształy i cygańska dusza. Tak wygląda luksusowa rezydencja Dona Vasyla 17.11.2026 GP24",
+      "published": "Tue, 17 Nov 2026 07:48:13 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
+    {
+      "title": "Program tv dla Ojciec Mateusz 3 , sezon 3, odc. 33 - Pilot WP",
+      "url": "https://pilot.wp.pl/program-tv/serial/ojciec-mateusz-3-833444f9fbb2e2f94095da096144b5a7",
+      "source": "Pilot WP",
+      "snippet": "Program tv dla Ojciec Mateusz 3 , sezon 3, odc. 33 Pilot WP",
+      "published": "Wed, 18 Nov 2026 01:52:41 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-18T07:45:27+00:00"
+    },
     {
       "title": "Roma Representation",
       "url": "https://rroma.org/roma-representation-2/?utm_source=rss&utm_medium=rss&utm_campaign=roma-representation-2",
