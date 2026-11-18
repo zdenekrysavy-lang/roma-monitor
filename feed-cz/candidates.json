@@ -1,397 +1,199 @@
 {
-  "generated_utc": "2026-11-17T07:51:27+00:00",
-  "count": 41,
+  "generated_utc": "2026-11-18T03:11:50+00:00",
+  "count": 19,
   "sources": {
     "profile": "cz",
-    "google_news": 92,
-    "google_news_status": "partial",
+    "google_news": 90,
+    "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 1,
     "news_feeds": 2,
     "watch": 0,
-    "before_dedup": 65,
-    "total": 58,
-    "skipped_seen": 57,
-    "gn_resolved": 0,
-    "gn_resolve_tried": 1,
+    "before_dedup": 58,
+    "total": 55,
+    "skipped_seen": 36,
+    "gn_resolved": 18,
+    "gn_resolve_tried": 18,
     "dropped_after_resolve": 0,
-    "new": 1,
-    "carried_over": 40,
-    "window_start": "2026-11-16T07:51:36+00:00",
-    "publish_run": true,
+    "new": 19,
+    "carried_over": 0,
+    "window_start": "2026-11-17T07:51:27+00:00",
+    "publish_run": false,
     "vps_trigger": "ok"
   },
   "candidates": [
     {
-      "title": "Ombudsman: Kompostárna znepříjemnila život lidem v okolí - ParlamentniListy.cz",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVk54bjZuRlRiZEpMTUZDWlZDakdwb1M4RGw4VDlGbE5mZ2Y0SHowdUp0SmpqeFlNeWhocEhGMlZ0cXkwd3RWMS1NM1VUcC15YnRybmJack9pY0I0OTRnYndEbEx6R050WC14eUVrRlp3U28tNEFDLUEzSEVzVzFHLVpyeDZNTlZ5bmNrSjN0bHpMV1JSMy05WW9tWGliUmU4ZkRCNHRKZ2lUMThNeFlfLWE5YVpwZw?oc=5",
-      "source": "ParlamentniListy.cz",
-      "snippet": "Ombudsman: Kompostárna znepříjemnila život lidem v okolí ParlamentniListy.cz",
-      "published": "Tue, 17 Nov 2026 06:06:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T07:51:27+00:00"
-    },
-    {
-      "title": "Na Letné za svobodná média a lidská práva",
-      "url": "https://amnesty.cz/na-letne-za-svobodna-media-a-lidska-prava/",
-      "source": "https://amnesty.cz/feed/",
-      "snippet": "Ředitelka Amnesty Intenrational ČR Lucie Laštíková jako jedna ze 3 zástupců a zástupkyň neziskového sektoru promluvila ke stovkám tisíc lidí, kteří se 15. listopadu sešly na Letné na podporu nezávislosti veřejnoprávních médií. Připomněla, že autoritáři nepřicházejí ze dne na den. Svobodu omezují pos",
-      "published": "Mon, 16 Nov 2026 14:09:20 +0000",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Polské úřady zadržely tři mladé Poláky chystající útok i vyhrožujícího Rusa",
-      "url": "https://www.denik.cz/evropa/polske-urady-zadrzely-tri-mlade-polaky-chystajici-utok-i-vyhrozujiciho-rusa/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=evropa",
+      "title": "Šílený zápas: Hráč zkopal rivala, přišel i rasismus. Utkání se málem nedohrálo",
+      "url": "https://www.denik.cz/ostatni-fotbal/sileny-zapas-hrac-zkopal-rivala-prisel-i-rasismus-utkani-se-malem-nedohralo/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=ostatni-fotbal",
       "source": "https://www.denik.cz/rss/zpravy.html",
-      "snippet": "Polská kontrarozvědka ABW zadržela tři mladé Poláky, spjaté s neonacisty a chystající teroristický útok s použitím podomácku vyrobených výbušnin, informovala v pondělí polská média s odvoláním na ministra pověřeného koordinací tajných služeb. Kromě toho policie zadržela v jedné z varšavských škol še",
-      "published": "Mon, 16 Nov 2026 10:57:49 +0100",
+      "snippet": "/VIDEO/ Místo fotbalové podívané přinesl zápas kvalifikace mistrovství Asie fotbalistů do 17 let mezi Indií a Palestinou pořádný skandál. Utkání poznamenala červená karta za hrubé napadení jednoho z hráčů, přišlo i gesto s možným rasistickým podtextem. Duel, v němž padlo pět gólů, se nakonec málem a",
+      "published": "Tue, 17 Nov 2026 21:02:51 +0100",
       "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
+      "collected_utc": "2026-11-18T03:11:50+00:00"
     },
     {
-      "title": "Zadrhnutá superdávka nepomáhá, ale škodí",
-      "url": "https://denikreferendum.cz/clanek/239601-zadrhnuta-superdavka-nepomaha-ale-skodi",
-      "source": "https://denikreferendum.cz/rss.xml",
-      "snippet": "Přetížení Úřadu práce při přepočtu superdávky odhaluje dlouhodobé slabiny systému. Stát totiž od roku 2011 opakuje stále stejné chyby. Bez úzké spolupráce státu s občanským sektorem se situace nezlepší.",
-      "published": "Mon, 16 Nov 2026 13:04:05 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Policie v Polsku zadržela tři puberťáky: Chystali teroristické útoky!",
-      "url": "https://www.blesk.cz/clanek/zpravy-krimi/852818/policie-v-polsku-zadrzela-tri-pubertaky-chystali-teroristicke-utoky.html",
-      "source": "https://www.blesk.cz/rss",
-      "snippet": "Polská kontrarozvědka ABW zadržela tři mladé Poláky, spjaté s neonacisty a chystající teroristický útok s použitím podomácku vyrobených výbušnin, informovala v pondělí polská média s odvoláním na ministra pověřeného koordinací tajných služeb. Kromě toho policie zadržela v jedné z varšavských škol 16",
-      "published": "Mon, 16 Nov 2026 12:00:00 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "37 let od sametové revoluce: Romové připomínají Ščukova slova z Letné. Podle některých společnost stále nenaslouchá - Seznam",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdVZ1TmQyNGFfRlNuc0pXWW1JX1otMGxnT3JtSnctWnlkVW1FZ2tkSWtreHJwMkV0N2RYb3g0T1pyVjZfaEFIVTNQY2hXdGxVa05mLUxKQXE2bWlyUHpKbWdyU0dXSndEZGtYSmlxeHFuVU52ZjBobFdmNVBWR2dmYWdNdkNIbm9GT1g0V05ya3ZwVHktRTRlQkhwNU1kSTI1anh3ejlidWNuMlB6eE9vTFR2SDNUUFRDdkZoVzlZVlQ5RDVDTWwwUFRaLXRrUkZLbldQNS1qSWNTNkxGSVpQYTJYVmY3Wi1MYS1YUlFFMkxMMVRpRUhBQWE3aEhzdTYzb1E?oc=5",
-      "source": "Seznam",
-      "snippet": "37 let od sametové revoluce: Romové připomínají Ščukova slova z Letné. Podle některých společnost stále nenaslouchá Seznam",
-      "published": "Tue, 17 Nov 2026 00:08:36 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Ceny Jana Opletala 2026 znají své vítěze. Ocenění získali mladí lidé, kteří hájí studentská práva, zpřístupňují právní vzdělávání a podporují zapojení mladých Romů do společnosti - Pro kulturu",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcE5SakMwT3V6LV9seW8tZDBsSjEwRXBRcTY3b3ZjT05sQXR1dWFSMUZ6T0FSMGE5bzB3QzZXY2VvUDdrSnZGTFF0MW5sRlZiZ1VmVHFrQ3lkby1fano3T2pPZmdmRFBka21rVElPbE1SeUtkc2EyMU9YLW9HLUhqOEZ4TERGb2hWV0E4OW1FMHQwcWhYaEpsUllBa2l4TmtlWlFXMVdBYVdGSjl3bHpKV19nVGJOaHMzbTNkc1J3Y3dDU2QzbVYxRFJuNEIwZXQyVVZvRzVGSXB2bFkwUThNWEhPYnlVQm9GMnNmMEg3VWRKX1JyUkVSX2xCRGFkYkFDZUUtY0FBUWhITWpWUWhncHM4aVBjbEhGOWNPejlzbWJpejdOeXJ6ZXhCZw?oc=5",
-      "source": "Pro kulturu",
-      "snippet": "Ceny Jana Opletala 2026 znají své vítěze. Ocenění získali mladí lidé, kteří hájí studentská práva, zpřístupňují právní vzdělávání a podporují zapojení mladých Romů do společnosti Pro kulturu",
-      "published": "Mon, 16 Nov 2026 07:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "bEDUin 38/2026: Dobrovolná pravidla pro stravování ve školních jídelnách jako evropský unikát - EDUin",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZ0lVZWd3LWJob2hHTFd0OEZMeTQydC1ua2ItV2tadmN1OGRkdG1Sdlo0S1NsUmpMTlBJWFdfRk9TUGp4djZQWDdTQkpkT3pGR0V6NW13?oc=5",
-      "source": "EDUin",
-      "snippet": "bEDUin 38/2026: Dobrovolná pravidla pro stravování ve školních jídelnách jako evropský unikát EDUin",
-      "published": "Mon, 16 Nov 2026 10:51:22 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Zahraniční festivaly ho oslavovaly, česká kina zůstala poloprázdná. Příběh filmu Marian - Seznam",
-      "url": "https://medium.seznam.cz/clanek/tom-kopecny-zahranicni-festivaly-ho-oslavovaly-ceska-kina-zustala-poloprazdna-pribeh-filmu-marian-346776",
-      "source": "Seznam",
-      "snippet": "Zahraniční festivaly ho oslavovaly, česká kina zůstala poloprázdná. Příběh filmu Marian Seznam",
-      "published": "Sat, 14 Nov 2026 16:13:48 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Lídryně francouzské krajní pravice Marine Le Pen řekla, že pokud se stane prezidentkou, splní závazky k Ukrajině - Deník N",
-      "url": "https://denikn.cz/minuta/2259779/",
-      "source": "Deník N",
-      "snippet": "Lídryně francouzské krajní pravice Marine Le Pen řekla, že pokud se stane prezidentkou, splní závazky k Ukrajině Deník N",
-      "published": "Mon, 16 Nov 2026 16:50:49 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Jordánsko zakázalo Telegram kvůli obavám z extremismu a radikalizace - VOXPOT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEpNRzc0OGEzWGJ1NjdCT0h2TTNUM2g4OGU1YThrZnA3UVNxS1kwa2N4WUI3bWI1ZnBXTnhJSUhjMXBGOU1ZNHZKVmpXWnVaYTE2ZE9zS1lDVXpMODBueE1jclFVbEc2V1hpX3hLMEZaT210NHNwX2hYTWl2UDB4dGUtYUptUFJLdUl0X1A0Z3A5OC1UODI3T2lURjAzZXlVRTdCQTYzODYwdw?oc=5",
-      "source": "VOXPOT",
-      "snippet": "Jordánsko zakázalo Telegram kvůli obavám z extremismu a radikalizace VOXPOT",
-      "published": "Mon, 16 Nov 2026 14:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "FILM SPRAVEDLNOST MÍŘÍ DO KIN - Radio 1",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wUDlaQUQzUVIyM3ZfTkVtaTFGUEN5VXFOcm8wSEtvZ2pycWh6RHZoSUJ0QmhuSEMwVjhoSHVJWTZFRk1HeV9LTkF0RDN1SjN1LXhMYzl6S1JnVXdQ?oc=5",
-      "source": "Radio 1",
-      "snippet": "FILM SPRAVEDLNOST MÍŘÍ DO KIN Radio 1",
-      "published": "Sun, 15 Nov 2026 23:04:47 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Izrael zneužíval holocaust k ospravedlnění čistky v Gaze. Naděje na změnu je malá, obává se Barša - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/izrael-zneuzival-holocaust-k-ospravedlneni-cistky-v-gaze-nadeje-na-zmenu-je-mala_2611141000_elev",
-      "source": "iROZHLAS",
-      "snippet": "Izrael zneužíval holocaust k ospravedlnění čistky v Gaze. Naděje na změnu je malá, obává se Barša iROZHLAS",
-      "published": "Sat, 14 Nov 2026 09:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Názor má každý hlupák, prohlásil rozladěný Putna a opustil debatu na ČT - Rádio Impuls",
-      "url": "https://www.impuls.cz/zpravy/domaci/putna-opustil-studio-vysilani-ct-udalosti-tydne-moderator/",
-      "source": "Rádio Impuls",
-      "snippet": "Názor má každý hlupák, prohlásil rozladěný Putna a opustil debatu na ČT Rádio Impuls",
-      "published": "Mon, 16 Nov 2026 10:18:55 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Le Penová v případě zvolení slíbila dostát francouzským závazkům vůči Kyjevu - České noviny",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QakFHajJuRmpXVmotNVg2VWNFNGlkUFVlN2Y3VnJrSXJGdW9RT2JGb2Nkc0puTGFqN0k0WDBxRGNnbkg1Q2VRbWF4QktaMmxPZV9F?oc=5",
-      "source": "České noviny",
-      "snippet": "Le Penová v případě zvolení slíbila dostát francouzským závazkům vůči Kyjevu České noviny",
-      "published": "Mon, 16 Nov 2026 15:35:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Otakar Bureš: Radost z odporu. Odpor z radosti - Deník Referendum",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yVlU1Y29wNzJQOXFrdWt5ajNqM09DRVJEQ1VxcjdCN3R6bFRYckhOakhmbWpDTVBvMXR5dDdPZl9yMDBzVHRYSERCMjExS2RlUG00Q2lPZ1lKUWFieG40WnV3NHRjQjdVYnJxNHRxYlU5c2JLZldVTW15T1g?oc=5",
-      "source": "Deník Referendum",
-      "snippet": "Otakar Bureš: Radost z odporu. Odpor z radosti Deník Referendum",
-      "published": "Mon, 16 Nov 2026 11:07:10 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Budu říkat, co chci. Host se v živém vysílání pustil do moderátora, pak označil debatu za neseriózní a odešel - Život v Česku",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYlRwbjFWb0FJcm5NdzkyZnVXZWZROUk4Wnk1QXZGSHFxN3p1SmFpSkJPMG1PeW5FRkF5NDJVTW9QakF6YnR2UUM2bUk3V1BjbllsQXZxSkVnMXlhWUE3N210alhrREdkZWsxNURYZDliNFFaRDBjeDgtaG5rTEo4UWtuSzJlWEgxOVNOWGRES21TT2owWkFzc1JtX3dLNEVDeWJ6OHpRWFY2UDJnZUNtRUFyTGVPbDZ5UXRjMk1RY2pueHNzRWgySkZyd2VJTEstSjZ2RmY1VENmSXo3?oc=5",
-      "source": "Život v Česku",
-      "snippet": "Budu říkat, co chci. Host se v živém vysílání pustil do moderátora, pak označil debatu za neseriózní a odešel Život v Česku",
-      "published": "Mon, 16 Nov 2026 05:40:38 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Nůž: Pokus o vraždu Salmana Rushdieho [Knife: The Attempted Murder of Salman Rushdie] (2026) - Kinobox",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxZnk1VjlRR1dCRk1oekJES2VQQXdkTkFQM2tHMU1KLWh3eXhSYms0RW1YOXk1SWtRUFBSaDktWTVaN2NSYzBzOEFheDdoU1RZSnFTV051dnlma3NudEluc3ZVTkZxNHFNZWdfcEdPeGEtbHN4eWx4MWVmYmg?oc=5",
-      "source": "Kinobox",
-      "snippet": "Nůž: Pokus o vraždu Salmana Rushdieho [Knife: The Attempted Murder of Salman Rushdie] (2026) Kinobox",
-      "published": "Sat, 14 Nov 2026 19:38:40 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Boj o moc pokračuje. Centrální banka zastavila platby z účtů polského ústavního soudu - Echo24",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNek05ZmZ6WlU1VWh2WDlndVdvZHlNaDJNdklOSEhvNU5ZT2xjd053cmw1NGZfOHE2RTVpV1NEU09HUFdwMjVuUWVmdFVCUUxvYk1iUUlEN1N2b3FmcXBJbHdPWGFuWllJTktfV3lpMHRFRkVZeThDVU5zTUlzVjZPMWdEaWUtUjZ0MGx2dFFKenJWd1FPRG5iMkJwenVWYjNuSWpKTg?oc=5",
-      "source": "Echo24",
-      "snippet": "Boj o moc pokračuje. Centrální banka zastavila platby z účtů polského ústavního soudu Echo24",
-      "published": "Mon, 16 Nov 2026 15:55:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "„Ukončeme chaos.“ Morawiecki chce sesadit Tuska. Sejm má hlasovat o nedůvěře vládě - Echo24",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmYxQlZhOTJaV3BzSjlMZTVyRjZHVThZWWQyM3dKZFB6UElOS1dobmxQZFl2Z2FYTG9jZTctb1VWUjZUVEZQT1haQnhJVmFScWwwWmttZkM3YzNqek4zTThiODM2THRXRmJFaVpieHRid2lpaTQ4Q1Qtd3pGUldEUTdOQWRva0pzZE1PY1o1TQ?oc=5",
-      "source": "Echo24",
-      "snippet": "„Ukončeme chaos.“ Morawiecki chce sesadit Tuska. Sejm má hlasovat o nedůvěře vládě Echo24",
-      "published": "Mon, 16 Nov 2026 17:49:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Kupka je Fiala bez hanáckého akcentu. Skončí ODS jako sociální demokracie? - Echo24",
-      "url": "https://www.echo24.cz/a/HvhTV/podcast-porada-echa-kupka-je-fiala-bez-hanackeho-akcentu-skonci-ods-jako-socialni-demokracie",
-      "source": "Echo24",
-      "snippet": "Kupka je Fiala bez hanáckého akcentu. Skončí ODS jako sociální demokracie? Echo24",
-      "published": "Sun, 15 Nov 2026 07:57:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Tři oříšky pro Popelku odvysílají německé televize letos sedmnáctkrát - Echo24",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSi1EVVd3Y08tUVV6R1BaNHRVMlpwZzhKLTFMNDlVZGY2Yi1HLXlhQkczSUx1RlJGWTZQOXY2Wm9XdXhMUjhrZzVjcXNLbWJKU04xbWR1MjdxOTU1Y3ZjMFkzVXBpTk1UNm5Fa2dJcWUzV1VOX29Ud1lyaEFXQy0zY0RB?oc=5",
-      "source": "Echo24",
-      "snippet": "Tři oříšky pro Popelku odvysílají německé televize letos sedmnáctkrát Echo24",
-      "published": "Sun, 15 Nov 2026 09:02:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Rekord Kanárských ostrovů: dorazilo tam 1500 migrantů za jeden den - Echo24",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkZmVngySGxHQUlyVWlKV08zcXEtWk4taTlqVm5lbFR1eDZtRTRKdG0wNGRTcmNrakY2elVXUENzeXdHNmxnQ2YzcHhLXzNoLU10R3RYTXN2TmhyZDFBaTZab25QYlhmdWRmMDMwZUlnNExUZFQ5WVB4YjBUM0I0VW5pdkkyZXRYWU53LTFqM2I0ZUtCa2dUVHNYVXFXTGZMVHh4V3NIN2hIUmc?oc=5",
-      "source": "Echo24",
-      "snippet": "Rekord Kanárských ostrovů: dorazilo tam 1500 migrantů za jeden den Echo24",
-      "published": "Sun, 15 Nov 2026 10:51:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Historický úspěch: vesmírnou loď Starship při návratu na Zemi zachytila mechanická ramena - Echo24",
-      "url": "https://www.echo24.cz/a/Hb9LZ/panorama-zpravy-vesmirna-lod-starship-se-vratila-na-zemi-poprve-ji-zachytila-mechanicka-ramena",
-      "source": "Echo24",
-      "snippet": "Historický úspěch: vesmírnou loď Starship při návratu na Zemi zachytila mechanická ramena Echo24",
-      "published": "Sat, 14 Nov 2026 23:09:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Superdávka pro seniory (2026): V Praze přes 15 000 Kč, v Bruntálu méně než polovinu. Češi radí stěhování - Tiscali.cz",
-      "url": "https://www.tiscali.cz/superdavka-pro-seniory-2026-v-praze-pres-15-000-kc-v-bruntalu-mene-nez-polovinu-cesi-radi-stehovani-807841",
-      "source": "Tiscali.cz",
-      "snippet": "Superdávka pro seniory (2026): V Praze přes 15 000 Kč, v Bruntálu méně než polovinu. Češi radí stěhování Tiscali.cz",
-      "published": "Mon, 16 Nov 2026 07:57:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Jak (ne)funguje superdávka - Konzervativní noviny",
-      "url": "https://www.konzervativninoviny.cz/jak-nefunguje-superdavka/",
-      "source": "Konzervativní noviny",
-      "snippet": "Jak (ne)funguje superdávka Konzervativní noviny",
-      "published": "Mon, 16 Nov 2026 04:07:07 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Kvůli alimentům opět do vězení. Lepší dám peníze dětem, než dlužníkům, říká Tejc - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/kvuli-alimentum-zase-do-vezeni-neplatici-prijdou-i-o-penize-z-davek-planuje-tejc.A261115_193347_domaci_kton",
-      "source": "iDNES.cz",
-      "snippet": "Kvůli alimentům opět do vězení. Lepší dám peníze dětem, než dlužníkům, říká Tejc iDNES.cz",
-      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Statisíce mobilů rozsvítily Letnou - Stream.cz",
-      "url": "https://www.stream.cz/domaci-9257/on-line-statisice-mobilu-rozsvitily-letnou-65610569",
-      "source": "Stream.cz",
-      "snippet": "Statisíce mobilů rozsvítily Letnou Stream.cz",
-      "published": "Sun, 15 Nov 2026 18:37:01 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Slaven Bilič netušil, že by český útočník mohl reprezentovat i Chorvatsko - Stream.cz",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkk5aWdfZy14QW9GRnh3dzhuRFZDd2JiN2xfQkRwRk1yX3YwSFEtRU1EcmtyeU9JZTg4bE85bWxpd2RvbFRvWUlYTVhZdVY0VV9iWmcyOVE4THdscEdCWHZuOUtnSFMzWjZzZ1ktY3BlZHpjd1N6ZEJ5VGh5OVdpdkowWU53dUlvWXY2MEQwblZudUNDSUtUeVlQb1g4VS1OdUlJTFoxTk1xM2I4U1lPZndBbmJYSTRsa0E?oc=5",
-      "source": "Stream.cz",
-      "snippet": "Slaven Bilič netušil, že by český útočník mohl reprezentovat i Chorvatsko Stream.cz",
-      "published": "Sun, 15 Nov 2026 00:42:23 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Záporák z Ulice je znovu šťastný. Komínkovi do života vstoupila stará láska - Stream.cz",
-      "url": "https://www.stream.cz/extra-v-terenu/zaporak-z-ulice-je-znovu-stastny-kominkovi-do-zivota-vstoupila-stara-laska-65601345",
-      "source": "Stream.cz",
-      "snippet": "Záporák z Ulice je znovu šťastný. Komínkovi do života vstoupila stará láska Stream.cz",
-      "published": "Sun, 15 Nov 2026 05:07:24 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "V Brně muselo být z hořícího domu evakuováno 14 lidí - Stream.cz",
-      "url": "https://www.stream.cz/krimi-9237/v-brne-muselo-byt-z-horiciho-domu-evakuovano-14-lidi-65610353",
-      "source": "Stream.cz",
-      "snippet": "V Brně muselo být z hořícího domu evakuováno 14 lidí Stream.cz",
-      "published": "Sat, 14 Nov 2026 21:20:57 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Zákupy odloží rekonstrukci radnice kvůli koupi panelové budovy. Chtějí zabránit vzniku ubytovny - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-domov/zakupy-odlozi-rekonstrukci-radnice-kvuli-koupi-panelove-budovy-chteji-zabranit_2611161121_lhv",
-      "source": "iROZHLAS",
-      "snippet": "Zákupy odloží rekonstrukci radnice kvůli koupi panelové budovy. Chtějí zabránit vzniku ubytovny iROZHLAS",
-      "published": "Mon, 16 Nov 2026 10:21:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Férové a dostupné bydlení. Jaká je praxe ve Vídni? - CZECHDESIGN.cz",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHZxOVd0V1dtVkpzcWhsS1pUNFhFcEN0czJMbEk1OXhzTlFRSm05LWNtOXRIaGVlanNzdnZIZjBWbkdsLWxQUkFfRGwtWVhLcVVULWdfenpLRmlnNHhORlpsNTBNM1RuVUNUdGI3bC1sSlpJMkVveENQUXFvT2gtYk5GeklhcHdONVNxSWVSQm94MWVQdmpn?oc=5",
-      "source": "CZECHDESIGN.cz",
-      "snippet": "Férové a dostupné bydlení. Jaká je praxe ve Vídni? CZECHDESIGN.cz",
-      "published": "Mon, 16 Nov 2026 05:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Günter Grass: Leváci (1/7) - mujRozhlas",
-      "url": "https://www.mujrozhlas.cz/povidka/gunter-grass-levaci",
+      "title": "Milan Giovanni Bindatsch, spisovatel a komunitní pracovník. \"V Ostravě je pět skupin Romů, každá žije jiným způsobem, má jiný dialekt, jinou kulturu i tradice,\" říká Milan Giovanni Bindatsch, ostravský asistent pedagoga, spisovatel a komunitní pracovník… - mujRozhlas",
+      "url": "https://www.mujrozhlas.cz/vizitka/milan-giovanni-bindatsch-spisovatel-komunitni-pracovnik-v-ostrave-je-pet-skupin-romu-kazda",
       "source": "mujRozhlas",
-      "snippet": "Günter Grass: Leváci (1/7) mujRozhlas",
-      "published": "Mon, 16 Nov 2026 12:30:00 GMT",
+      "snippet": "Milan Giovanni Bindatsch, spisovatel a komunitní pracovník. \"V Ostravě je pět skupin Romů, každá žije jiným způsobem, má jiný dialekt, jinou kulturu i tradice,\" říká Milan Giovanni Bindatsch, ostravský asistent pedagoga, spisovatel a komunitní pracovník… mujRozhlas",
+      "published": "Tue, 17 Nov 2026 10:16:55 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
+      "collected_utc": "2026-11-18T03:11:50+00:00"
     },
     {
-      "title": "Umělá inteligence: 9. část - The Portugal News",
-      "url": "https://www.theportugalnews.com/cs/zpravy/2026-11-16/umla-inteligence-8-ast/1101333",
-      "source": "The Portugal News",
-      "snippet": "Umělá inteligence: 9. část The Portugal News",
-      "published": "Mon, 16 Nov 2026 12:01:29 GMT",
+      "title": "Tarantinovská jízda po Slovensku. Proč si nesmíte nechat ujít nekorektní pecku Invalida? - Kinobox",
+      "url": "https://www.kinobox.cz/clanky/daily/60451-kinobox-daily-tarantinovska-jizda-po-slovensku-proc-si-nesmite-nechat-ujit-nekorektni-pecku-invalida",
+      "source": "Kinobox",
+      "snippet": "Tarantinovská jízda po Slovensku. Proč si nesmíte nechat ujít nekorektní pecku Invalida? Kinobox",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
+      "collected_utc": "2026-11-18T03:11:50+00:00"
     },
     {
-      "title": "Šéf IIHF o Rusech: Vůči nám nic špatného neudělali. Bojkot musíme brát velmi vážně - iDNES.cz",
-      "url": "https://www.idnes.cz/hokej/reprezentace/rusko-navrat-mistrovstvi-sveta-franz-reindl-sef-iihf.A261116_150418_reprezentace_ivt",
+      "title": "Afro Gitano – Kulturní přehled - ČT art",
+      "url": "https://art.ceskatelevize.cz/kulturni-prehled/afro-gitano/0Emdp",
+      "source": "ČT art",
+      "snippet": "Afro Gitano – Kulturní přehled ČT art",
+      "published": "Tue, 17 Nov 2026 10:55:34 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Tvrdé, nebo férové? Fanoušek dostal za rasistické urážky Mbappého trojí trest - Eurofotbal",
+      "url": "https://www.eurofotbal.cz/clanky/tvrde-nebo-ferove-fanousek-dostal-za-rasisticke-urazky-mbappeho-troji-trest-853213/",
+      "source": "Eurofotbal",
+      "snippet": "Tvrdé, nebo férové? Fanoušek dostal za rasistické urážky Mbappého trojí trest Eurofotbal",
+      "published": "Tue, 17 Nov 2026 19:53:35 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Urážel Mbappého a dostal jedenáct měsíců vězení. Fanoušek si za rasistické pokřiky vyslechl svůj trest - inFOTBAL",
+      "url": "https://infotbal.cz/urazel-mbappeho-a-dostal-jedenact-mesicu-vezeni-fanousek-si-za-rasisticke-pokriky-vyslechl-svuj-trest/",
+      "source": "inFOTBAL",
+      "snippet": "Urážel Mbappého a dostal jedenáct měsíců vězení. Fanoušek si za rasistické pokřiky vyslechl svůj trest inFOTBAL",
+      "published": "Tue, 17 Nov 2026 10:51:54 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Jsem z Ku Klux Klanu. Víme, jak na to. Montgomeryho kauza odstartovala boj proti úřednímu rasismu - Reflex.cz",
+      "url": "https://www.reflex.cz/clanek/historie/121827/jsem-z-ku-klux-klanu-vime-jak-na-to-montgomeryho-kauza-odstartovala-boj-proti-urednimu-rasismu.html",
+      "source": "Reflex.cz",
+      "snippet": "Jsem z Ku Klux Klanu. Víme, jak na to. Montgomeryho kauza odstartovala boj proti úřednímu rasismu Reflex.cz",
+      "published": "Sun, 15 Nov 2026 09:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Mbappé: fanoušek Realu Oviedo dostal za rasistická gesta 11 měsíců podmíněně. Soud zopakoval model z případu Vinícia - FotbalPortal.cz",
+      "url": "https://www.fotbalportal.cz/spanelsko/primera-division/81885-mbappe-oviedo-fanousek-rasismus-odsouzen-11-mesicu-vinicius/",
+      "source": "FotbalPortal.cz",
+      "snippet": "Mbappé: fanoušek Realu Oviedo dostal za rasistická gesta 11 měsíců podmíněně. Soud zopakoval model z případu Vinícia FotbalPortal.cz",
+      "published": "Tue, 17 Nov 2026 17:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Máme toho dost! Plné náměstí v Bratislavě protestovalo proti Ficovi - Stream.cz",
+      "url": "https://www.stream.cz/zahranicni-9232/mame-toho-dost-plne-namesti-v-bratislave-protestovalo-proti-ficovi-65611613",
+      "source": "Stream.cz",
+      "snippet": "Máme toho dost! Plné náměstí v Bratislavě protestovalo proti Ficovi Stream.cz",
+      "published": "Tue, 17 Nov 2026 19:03:28 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Co si myslí koalice o Letné? Byly tam prý jen tisíce ovcí. Macinka se málem udusil vlastní arogancí - Stream.cz",
+      "url": "https://www.stream.cz/udalosti-ludka-stanka/co-si-mysli-koalice-o-letne-byly-tam-pry-jen-tisice-ovci-macinka-se-malem-udusil-vlastni-aroganci-65611193",
+      "source": "Stream.cz",
+      "snippet": "Co si myslí koalice o Letné? Byly tam prý jen tisíce ovcí. Macinka se málem udusil vlastní arogancí Stream.cz",
+      "published": "Mon, 16 Nov 2026 20:28:08 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Nejprodávanější auto na světě je taky to nejspolehlivější. Je ale jako ojetina bez rizik? - Stream.cz",
+      "url": "https://www.stream.cz/hrubis/nejprodavanejsi-auto-na-svete-je-taky-to-nejspolehlivejsi-je-ale-jako-ojetina-bez-rizik-65609037",
+      "source": "Stream.cz",
+      "snippet": "Nejprodávanější auto na světě je taky to nejspolehlivější. Je ale jako ojetina bez rizik? Stream.cz",
+      "published": "Mon, 16 Nov 2026 11:33:01 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Polévka z mletého masa s fazolemi: Rychlý a sytý oběd - Stream.cz",
+      "url": "https://www.stream.cz/varime-s-mozkem/polevka-z-mleteho-masa-s-fazolemi-rychly-a-syty-obed-65602995",
+      "source": "Stream.cz",
+      "snippet": "Polévka z mletého masa s fazolemi: Rychlý a sytý oběd Stream.cz",
+      "published": "Sun, 15 Nov 2026 09:47:03 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Auta byla jen začátek. Čína zkouší létání na baterky - Stream.cz",
+      "url": "https://www.stream.cz/automoto-9262/auta-byla-jen-zacatek-cina-zkousi-letani-na-baterky-65610437",
+      "source": "Stream.cz",
+      "snippet": "Auta byla jen začátek. Čína zkouší létání na baterky Stream.cz",
+      "published": "Sun, 15 Nov 2026 09:57:04 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Superdávka pro seniory (2026): V Praze přes 15 000 Kč, v Bruntálu méně než polovinu. Češi radí stěhování - Spotrebitelov.cz",
+      "url": "https://www.spotrebitelov.cz/clanky/superdavka-pro-seniory-2026-v-praze-pres-15-000-kc-v-bruntalu-mene-nez-polovinu-cesi-radi-stehovani/",
+      "source": "Spotrebitelov.cz",
+      "snippet": "Superdávka pro seniory (2026): V Praze přes 15 000 Kč, v Bruntálu méně než polovinu. Češi radí stěhování Spotrebitelov.cz",
+      "published": "Mon, 16 Nov 2026 07:57:50 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "„Vyhrožoval, že to tu vystřílí.“ Školy kvůli inkluzi nemohou přesunout problémové žáky - TN.cz",
+      "url": "https://tn.nova.cz/zpravodajstvi/clanek/661487-vyhrozoval-ze-to-tu-vystrili-skoly-kvuli-inkluzi-nemohou-presunout-problemove-zaky",
+      "source": "TN.cz",
+      "snippet": "„Vyhrožoval, že to tu vystřílí.“ Školy kvůli inkluzi nemohou přesunout problémové žáky TN.cz",
+      "published": "Tue, 17 Nov 2026 09:20:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "Zapalte svíčku na dálku a buďte součástí oslav 17. listopadu ✌🏻 - Darujme.cz",
+      "url": "https://www.darujme.cz/zapalte-svicku",
+      "source": "Darujme.cz",
+      "snippet": "Zapalte svíčku na dálku a buďte součástí oslav 17. listopadu ✌🏻 Darujme.cz",
+      "published": "Mon, 16 Nov 2026 19:38:38 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-18T03:11:50+00:00"
+    },
+    {
+      "title": "MS v hokeji do 20 let 2027: Program a výsledky šampionátu U20, kdy hrají Češi - iDNES.cz",
+      "url": "https://www.idnes.cz/hokej/reprezentace/hokej-ms-do-20-let-2027.A261027_090640_reprezentace_ald",
       "source": "iDNES.cz",
-      "snippet": "Šéf IIHF o Rusech: Vůči nám nic špatného neudělali. Bojkot musíme brát velmi vážně iDNES.cz",
-      "published": "Mon, 16 Nov 2026 15:19:00 GMT",
+      "snippet": "MS v hokeji do 20 let 2027: Program a výsledky šampionátu U20, kdy hrají Češi iDNES.cz",
+      "published": "Sun, 15 Nov 2026 08:00:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
+      "collected_utc": "2026-11-18T03:11:50+00:00"
     },
     {
-      "title": "Rusové se obracejí na MOV kvůli vyloučení z MS dvacítek, žádají trest pro Kanadu - iDNES.cz",
-      "url": "https://www.idnes.cz/hokej/reprezentace/rusko-mov-vylouceni-z-ms-dvacitek-zadost-trest-pro-kanadu.A261116_121553_reprezentace_ten",
-      "source": "iDNES.cz",
-      "snippet": "Rusové se obracejí na MOV kvůli vyloučení z MS dvacítek, žádají trest pro Kanadu iDNES.cz",
-      "published": "Mon, 16 Nov 2026 11:19:00 GMT",
+      "title": "Lavrov: O požadavcích Charty OSN se nevyjednává - Vaše věc",
+      "url": "https://vasevec.parlamentnilisty.cz/lavrov-o-pozadavcich-charty-osn-se-nevyjednava",
+      "source": "Vaše věc",
+      "snippet": "Lavrov: O požadavcích Charty OSN se nevyjednává Vaše věc",
+      "published": "Tue, 17 Nov 2026 18:04:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
+      "collected_utc": "2026-11-18T03:11:50+00:00"
     },
     {
-      "title": "Německo vítá zákaz pro ruské hokejisty, mluví o solidaritě: Ale co bude s naším MS? - iDNES.cz",
-      "url": "https://www.idnes.cz/hokej/reprezentace/nemecko-reakce-zakaz-rusi-na-ms-junioru-stanvosko.A261116_124117_reprezentace_rmp",
-      "source": "iDNES.cz",
-      "snippet": "Německo vítá zákaz pro ruské hokejisty, mluví o solidaritě: Ale co bude s naším MS? iDNES.cz",
-      "published": "Mon, 16 Nov 2026 12:42:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "ČR bude trestat zkušené učitele. V EU si ale praktiků naopak cení a zohledňují praxi o dost víc. - Seznam",
-      "url": "https://medium.seznam.cz/clanek/zuzana-ruzickova-cr-bude-trestat-zkusene-ucitele-v-eu-si-ale-praktiku-naopak-ceni-a-zohlednuji-praxi-o-dost-vic-347619",
-      "source": "Seznam",
-      "snippet": "ČR bude trestat zkušené učitele. V EU si ale praktiků naopak cení a zohledňují praxi o dost víc. Seznam",
-      "published": "Mon, 16 Nov 2026 22:34:44 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Duševní zdraví dětí je jedno ze stěžejních témat dětského ombudsmana - Advokátní deník",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0tJcWgtYjdWRk01dWg0Ny1SdWR3RTRROWR0T05JeFhfckRWOG9tSlhGTElGTHk5Z283RmxiR3g1T1pxWjFabW9JWE16MzJHREhVX2lMN1RoQjFoalg1dDdfaVN1Q0ZPXzFsYVNUQUphNWR2NTF3bzBvWExTb1NScEs2M29rOUNZaXRHUmNoeGFKNEdPbmRmY2lVR2l6d3JKX0FiV3RMRjhmZw?oc=5",
-      "source": "Advokátní deník",
-      "snippet": "Duševní zdraví dětí je jedno ze stěžejních témat dětského ombudsmana Advokátní deník",
-      "published": "Mon, 16 Nov 2026 08:36:37 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
-    },
-    {
-      "title": "Ombudsman otevřel novou kancelář v Severní Mitrovici: Pro občany čtyř obcí na severu platí různé adresy - KoSSev",
-      "url": "https://kossev.info/cs/ombudsman-otvorio-novu-kancelariju-u-severnoj-mitrovici-za-gradjane-cetiri-opstine-na-severu-razliciti-nazivi-adrese/",
+      "title": "Ombudsman v Severní Mitrovici od roku 2002, nyní otevřena druhá kancelář: Sentić a Radaković za KoSSev o důvodech a předchozí práci - KoSSev",
+      "url": "https://kossev.info/cs/ombudsman-u-severnoj-mitrovici-od-2002-sada-otvorena-druga-kancelarija-sentic-i-radakovic-za-kossev-o-razlozima-i-dosadasnjem-radu/",
       "source": "KoSSev",
-      "snippet": "Ombudsman otevřel novou kancelář v Severní Mitrovici: Pro občany čtyř obcí na severu platí různé adresy KoSSev",
-      "published": "Mon, 16 Nov 2026 19:27:05 GMT",
+      "snippet": "Ombudsman v Severní Mitrovici od roku 2002, nyní otevřena druhá kancelář: Sentić a Radaković za KoSSev o důvodech a předchozí práci KoSSev",
+      "published": "Tue, 17 Nov 2026 14:11:11 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-17T04:16:49+00:00"
+      "collected_utc": "2026-11-18T03:11:50+00:00"
     }
   ]
 }
