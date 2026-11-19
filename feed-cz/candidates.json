@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-19T02:52:31+00:00",
-  "count": 14,
+  "generated_utc": "2026-11-19T07:47:34+00:00",
+  "count": 21,
   "sources": {
     "profile": "cz",
-    "google_news": 80,
+    "google_news": 85,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
@@ -11,27 +11,90 @@
     "feeds": 1,
     "news_feeds": 3,
     "watch": 2,
-    "before_dedup": 55,
-    "total": 49,
-    "skipped_seen": 34,
-    "gn_resolved": 13,
-    "gn_resolve_tried": 13,
-    "dropped_after_resolve": 1,
-    "new": 14,
-    "carried_over": 0,
+    "before_dedup": 57,
+    "total": 52,
+    "skipped_seen": 44,
+    "gn_resolved": 7,
+    "gn_resolve_tried": 7,
+    "dropped_after_resolve": 0,
+    "new": 8,
+    "carried_over": 13,
     "window_start": "2026-11-18T07:47:08+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
     {
-      "title": "UEFA trestá Plzeň za rasismus. Součástí „norského“ maléru je i podmínka",
-      "url": "https://sport.aktualne.cz/fotbal/uefa-tresta-plzen-za-rasismus-soucasti-svedskeho-maleru-je-i-podminka/r~aaa296c73e9ddac5b81210322a395239/",
-      "source": "https://www.aktualne.cz/rss/",
-      "snippet": "Fotbalová Viktoria Plzeň dostala pokutu 30 tisíc eur (732 tisíc korun) za nevhodné chování fanoušků v utkání Evropské ligy v Lilleströmu.",
-      "published": "Wed, 18 Nov 2026 18:07:00 +0100",
+      "title": "Jedna žena proti systému. Oceňovaný thriller Spravedlnost je právě v kinech",
+      "url": "https://denikn.cz/2259703/jedna-zena-proti-systemu-ocenovany-thriller-spravedlnost-je-prave-v-kinech/",
+      "source": "https://denikn.cz/feed/",
+      "snippet": "Napínavý soudní thriller, nekompromisní hrdinka a znepokojivý obraz současného Německa. V českých kinech je k vidění Spravedlnost německo-íránského režiséra Faraze Shariata, oceněná Cenou diváků v sekci Panorama na letošním Berlinale. Film propojuje aktuální téma pravicového extremismu a selhávání s",
+      "published": "Thu, 19 Nov 2026 05:00:00 +0000",
       "lang": "cs",
-      "collected_utc": "2026-11-19T02:52:31+00:00"
+      "collected_utc": "2026-11-19T07:47:34+00:00"
+    },
+    {
+      "title": "UEFA trestá Plzeň za rasismus. Součástí „norského“ maléru je i podmínka - Aktuálně.cz",
+      "url": "https://sport.aktualne.cz/fotbal/uefa-tresta-plzen-za-rasismus-soucasti-svedskeho-maleru-je-i-podminka/r~aaa296c73e9ddac5b81210322a395239/",
+      "source": "Aktuálně.cz",
+      "snippet": "UEFA trestá Plzeň za rasismus. Součástí „norského“ maléru je i podmínka Aktuálně.cz",
+      "published": "Wed, 18 Nov 2026 17:07:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T07:47:34+00:00"
+    },
+    {
+      "title": "Lze ji za to nemilovat? Když nejlepší sociální dem... - forum 24",
+      "url": "https://www.forum24.cz/lze-ji-za-to-nemilovat-kdyz-nejlepsi-socialni-demokratce-na-svete-tleska-i-krajni-pravice",
+      "source": "forum 24",
+      "snippet": "Lze ji za to nemilovat? Když nejlepší sociální dem... forum 24",
+      "published": "Thu, 19 Nov 2026 04:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T07:47:34+00:00"
+    },
+    {
+      "title": "Diskuze: Lze ji za to nemilovat? Když nejlepší sociální demokratce na světě tleská i krajní pravice - forum 24",
+      "url": "https://www.forum24.cz/lze-ji-za-to-nemilovat-kdyz-nejlepsi-socialni-demokratce-na-svete-tleska-i-krajni-pravice/diskuze",
+      "source": "forum 24",
+      "snippet": "Diskuze: Lze ji za to nemilovat? Když nejlepší sociální demokratce na světě tleská i krajní pravice forum 24",
+      "published": "Thu, 19 Nov 2026 04:20:34 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T07:47:34+00:00"
+    },
+    {
+      "title": "Na nájem stát uzná 5880 korun. Nejlevnější byt jsme našli za 7500 - Penize.cz",
+      "url": "https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/500168-na-najem-stat-uzna-5880-korun-nejlevnejsi-byt-jsme-nasli-za-7500",
+      "source": "Penize.cz",
+      "snippet": "Na nájem stát uzná 5880 korun. Nejlevnější byt jsme našli za 7500 Penize.cz",
+      "published": "Thu, 19 Nov 2026 04:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T07:47:34+00:00"
+    },
+    {
+      "title": "V Pisárkách by měl vzniknout městský sportovní i rekreační areál - Seznam",
+      "url": "https://medium.seznam.cz/clanek/pavel-jelinek-v-pisarkach-by-mel-vzniknout-mestsky-sportovni-i-rekreacni-areal-347349",
+      "source": "Seznam",
+      "snippet": "V Pisárkách by měl vzniknout městský sportovní i rekreační areál Seznam",
+      "published": "Mon, 16 Nov 2026 23:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T07:47:34+00:00"
+    },
+    {
+      "title": "Plzeň vyfasovala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků - Sport.cz",
+      "url": "https://www.sport.cz/clanek/fotbal-evropska-liga-plzen-vyfasovala-od-uefa-pokutu-temer-tri-ctvrte-milionu-korun-za-chovani-fanousku-5578534",
+      "source": "Sport.cz",
+      "snippet": "Plzeň vyfasovala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků Sport.cz",
+      "published": "Wed, 18 Nov 2026 16:44:59 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T07:47:34+00:00"
+    },
+    {
+      "title": "Děti a oběti bychom měli chránit daleko víc, než se děje, říká Michaela Kolman, první ombudsmanka MPSV - legalweb.cz",
+      "url": "https://legalweb.cz/deti-a-obeti-bychom-meli-chranit-daleko-vic-nez-se-deje-rika-michaela-kolman-prvni-ombudsmanka-mpsv-11169/",
+      "source": "legalweb.cz",
+      "snippet": "Děti a oběti bychom měli chránit daleko víc, než se děje, říká Michaela Kolman, první ombudsmanka MPSV legalweb.cz",
+      "published": "Wed, 18 Nov 2026 23:04:59 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T07:47:34+00:00"
     },
     {
       "title": "Odhalili jsme člena Svobodných v neonacistické skupině. Strana ho vyloučila",
