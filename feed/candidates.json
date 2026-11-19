@@ -1,29 +1,209 @@
 {
-  "generated_utc": "2026-11-19T02:50:05+00:00",
-  "count": 107,
+  "generated_utc": "2026-11-19T07:42:49+00:00",
+  "count": 127,
   "sources": {
     "profile": "world",
-    "google_news": 155,
+    "google_news": 152,
     "google_news_status": "ok",
     "gdelt": 7,
     "gdelt_status": "ok",
     "gdelt_note": "",
     "feeds": 36,
     "news_feeds": 0,
-    "watch": 5,
-    "before_dedup": 201,
-    "total": 187,
-    "skipped_seen": 80,
-    "gn_resolved": 92,
-    "gn_resolve_tried": 93,
+    "watch": 6,
+    "before_dedup": 199,
+    "total": 184,
+    "skipped_seen": 164,
+    "gn_resolved": 20,
+    "gn_resolve_tried": 20,
     "dropped_after_resolve": 0,
-    "new": 107,
-    "carried_over": 0,
+    "new": 20,
+    "carried_over": 107,
     "window_start": "2026-11-18T07:45:27+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Starostovi Jarovníc schválili 7 640 eur. Dužda sľubuje výkon - Roma Television",
+      "url": "https://romatv.sk/slovensko/starostovi-jarovn%C3%ADc-schv%C3%A1lili-7-640-eur-du%C5%BEda-s%C4%BEubuje-v%C3%BDkon/1401218",
+      "source": "Roma Television",
+      "snippet": "Starostovi Jarovníc schválili 7 640 eur. Dužda sľubuje výkon Roma Television",
+      "published": "Thu, 19 Nov 2026 05:02:00 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Ponúkajú ich aj za granule, predávajú množiarňam aj laboratóriám. Psy vyrastajú v desivých podmienkach - tnlive.sk",
+      "url": "https://www.tvnoviny.sk/domace/clanok/1063656-ponukaju-ich-aj-za-granule-predavaju-mnoziarnam-aj-laboratoriam-psy-vyrastaju-v-desivych-podmienkach",
+      "source": "tnlive.sk",
+      "snippet": "Ponúkajú ich aj za granule, predávajú množiarňam aj laboratóriám. Psy vyrastajú v desivých podmienkach tnlive.sk",
+      "published": "Wed, 18 Nov 2026 23:01:00 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "58 million lei program to support the Roma community for four years - Moldova 1",
+      "url": "https://moldova1.md/p/90571",
+      "source": "Moldova 1",
+      "snippet": "58 million lei program to support the Roma community for four years Moldova 1",
+      "published": "Wed, 18 Nov 2026 17:48:45 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Program de 58 de milioane de lei pentru susținerea comunității rome în următorii patru ani - Moldova 1",
+      "url": "https://moldova1.md/p/90546",
+      "source": "Moldova 1",
+      "snippet": "Program de 58 de milioane de lei pentru susținerea comunității rome în următorii patru ani Moldova 1",
+      "published": "Wed, 18 Nov 2026 13:30:48 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Turiștii nu mai aruncă la fel de mulți bani în Fontana di Trevi. Cele două motive care amenință o tradiție celebră din Roma - Cotidianul RO",
+      "url": "https://www.cotidianul.ro/turistii-nu-mai-arunca-la-fel-de-multi-bani-in-fontana-di-trevi-cele-doua-motive-care-ameninta-o-traditie-celebra-din-roma/",
+      "source": "Cotidianul RO",
+      "snippet": "Turiștii nu mai aruncă la fel de mulți bani în Fontana di Trevi. Cele două motive care amenință o tradiție celebră din Roma Cotidianul RO",
+      "published": "Thu, 19 Nov 2026 04:00:27 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Fontana di Trevi: cu 5 tone mai puține monede în 2026 - Stiripesurse",
+      "url": "https://www.stiripesurse.ro/fontana-di-trevi-scad-monezile-taxa-plati-digitale_3938023",
+      "source": "Stiripesurse",
+      "snippet": "Fontana di Trevi: cu 5 tone mai puține monede în 2026 Stiripesurse",
+      "published": "Thu, 19 Nov 2026 03:15:03 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "La generación de jóvenes gitanos zamoranos que planta cara a los prejuicios y conquista las aulas universitarias - La Opinión de Zamora",
+      "url": "https://www.laopiniondezamora.es/zamora/2026/11/19/generacion-jovenes-gitanos-zamoranos-planta-136593409.html",
+      "source": "La Opinión de Zamora",
+      "snippet": "La generación de jóvenes gitanos zamoranos que planta cara a los prejuicios y conquista las aulas universitarias La Opinión de Zamora",
+      "published": "Thu, 19 Nov 2026 06:00:52 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "La seguridad adquirida por Juan, el esfuerzo con premio de Emilio y los perfiles cada vez más visibles del pueblo gitano: \"Tú vales, tú puedes, tú lo logras\" - Enfoque Zamora",
+      "url": "https://enfoquezamora.com/2026/11/19/la-seguridad-adquirida-por-juan-el-esfuerzo-con-premio-de-emilio-y-los-perfiles-cada-vez-mas-visibles-del-pueblo-gitano-tu-vales-tu-puedes-tu-lo-logras/",
+      "source": "Enfoque Zamora",
+      "snippet": "La seguridad adquirida por Juan, el esfuerzo con premio de Emilio y los perfiles cada vez más visibles del pueblo gitano: \"Tú vales, tú puedes, tú lo logras\" Enfoque Zamora",
+      "published": "Thu, 19 Nov 2026 07:13:08 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Reeditado ‘El toreo gitano’ de Sureda: la intuición mágica frente a la razón lógica - EFE - Agencia de noticias",
+      "url": "https://efe.com/andalucia/2026-11-19/reeditado-el-toreo-gitano-de-sureda-la-intuicion-magica-frente-a-la-razon-logica/",
+      "source": "EFE - Agencia de noticias",
+      "snippet": "Reeditado ‘El toreo gitano’ de Sureda: la intuición mágica frente a la razón lógica EFE - Agencia de noticias",
+      "published": "Thu, 19 Nov 2026 06:21:19 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "La comunidad gitana de Zamora celebra sus éxitos educativos: “Sin perder la identidad se puede ser lo que quieras ser” - Zamora24horas",
+      "url": "https://www.zamora24horas.com/local/comunidad-gitana-zamora-celebra-exitos-educativos-sin-perder-identidad-puede-ser-quieras-ser",
+      "source": "Zamora24horas",
+      "snippet": "La comunidad gitana de Zamora celebra sus éxitos educativos: “Sin perder la identidad se puede ser lo que quieras ser” Zamora24horas",
+      "published": "Thu, 19 Nov 2026 05:08:00 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Los ‘primos’ de Kali Yag, la asociación que lucha contra la marginación infantil en La Coma a través de la cultura gitana: \"No tenemos la opción de ser payos, por eso deben conocer su herencia\" - Levante-EMV",
+      "url": "https://www.levante-emv.com/horta/2026/11/19/primos-kali-yag-asociacion-lucha-marginacion-infantil-cultura-gitana-136571645.html",
+      "source": "Levante-EMV",
+      "snippet": "Los ‘primos’ de Kali Yag, la asociación que lucha contra la marginación infantil en La Coma a través de la cultura gitana: \"No tenemos la opción de ser payos, por eso deben conocer su herencia\" Levante-EMV",
+      "published": "Thu, 19 Nov 2026 04:30:16 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Granada celebra el Día Andaluz del Pueblo Gitano con flamenco y un homenaje al papel de las mujeres en el arte - Motril Digital",
+      "url": "https://www.motrildigital.news/granada-celebra-el-dia-andaluz-del-pueblo-gitano-con-flamenco-y-un-homenaje-al-papel-de-las-mujeres-en-el-arte",
+      "source": "Motril Digital",
+      "snippet": "Granada celebra el Día Andaluz del Pueblo Gitano con flamenco y un homenaje al papel de las mujeres en el arte Motril Digital",
+      "published": "Wed, 18 Nov 2026 18:55:21 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Cayetano Martínez de Irujo repasa sus años en Los Gitanos y su infancia - 101tv Sevilla",
+      "url": "https://101tvsevilla.es/cayetano-martinez-de-irujo-repasa-sus-anos-en-los-gitanos-y-su-infancia/",
+      "source": "101tv Sevilla",
+      "snippet": "Cayetano Martínez de Irujo repasa sus años en Los Gitanos y su infancia 101tv Sevilla",
+      "published": "Thu, 19 Nov 2026 04:29:47 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Este viernes se celebra el Día Andaluz del Pueblo Gitano con la lectura de un manifiesto y un izado de bandera - Ayuntamiento de San Roque",
+      "url": "https://www.sanroque.app/noticias-1/i/184388/este-viernes-se-celebra-el-dia-andaluz-del-pueblo-gitano-con-la-lectura-de-un-manifiesto-y-un-izado-de-bandera",
+      "source": "Ayuntamiento de San Roque",
+      "snippet": "Este viernes se celebra el Día Andaluz del Pueblo Gitano con la lectura de un manifiesto y un izado de bandera Ayuntamiento de San Roque",
+      "published": "Wed, 18 Nov 2026 09:11:32 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Montceau – 110 actions, sans oublier la vitesse, les caméras et les gens du voyage - L'infoRmateur de Bourgogne",
+      "url": "https://linformateurdebourgogne.com/montceau-110-actions-sans-oublier-la-vitesse-les-cameras-et-les-gens-du-voyage/",
+      "source": "L'infoRmateur de Bourgogne",
+      "snippet": "Montceau – 110 actions, sans oublier la vitesse, les caméras et les gens du voyage L'infoRmateur de Bourgogne",
+      "published": "Thu, 19 Nov 2026 04:42:17 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Was heißt hier Minderheit? - Landeshauptstadt Saarbrücken",
+      "url": "https://www.saarbruecken.de/fr/se_divertir/manifestations/manifestations_d_tail/event-6ab24171695bb/date-898938",
+      "source": "Landeshauptstadt Saarbrücken",
+      "snippet": "Was heißt hier Minderheit? Landeshauptstadt Saarbrücken",
+      "published": "Wed, 18 Nov 2026 13:09:48 GMT",
+      "lang": "de",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "ZINEP LISA 2026 - САМО ТУТ МАНГАВА 2027 РОМСКИ ХИТ ( Video ) - YouTube",
+      "url": "https://youtu.be/f8oIs0i6_sY?feature=shared",
+      "source": "YouTube",
+      "snippet": "ZINEP LISA 2026 - САМО ТУТ МАНГАВА 2027 РОМСКИ ХИТ ( Video ) YouTube",
+      "published": "Tue, 17 Nov 2026 22:26:51 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Ξέσπασε ο Μαρίν για τα «γύφτοι» που φώναζαν στο Βοσνία - Ρουμανία: «Μας έχουν συμπεριφερθεί ξανά με αυτόν τον τρόπο εδώ» - Agones",
+      "url": "https://agones.gr/news/141278/marin_gia_ta_ratsistika_synthimata_mas_echoun_symperiferthei_xana_me_afton_ton_tropo_sti_vosnia",
+      "source": "Agones",
+      "snippet": "Ξέσπασε ο Μαρίν για τα «γύφτοι» που φώναζαν στο Βοσνία - Ρουμανία: «Μας έχουν συμπεριφερθεί ξανά με αυτόν τον τρόπο εδώ» Agones",
+      "published": "Wed, 18 Nov 2026 10:45:41 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Program tv dla Ojciec Mateusz 3 , sezon 3, odc. 33 - Pilot WP",
+      "url": "https://pilot.wp.pl/program-tv/serial/ojciec-mateusz-3-f1e1f17b5d1c2fdbcb3967a8497fef5d",
+      "source": "Pilot WP",
+      "snippet": "Program tv dla Ojciec Mateusz 3 , sezon 3, odc. 33 Pilot WP",
+      "published": "Thu, 19 Nov 2026 01:56:37 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
+    {
+      "title": "Baralho cigano: veja as previsões para os 12 signos de 16 a 22 de novembro de 2026 - Tribuna Online",
+      "url": "https://tribunaonline.com.br/pe/entretenimento/astrologia/baralho-cigano-veja-as-previsoes-para-os-12-signos-de-16-a-22-de-novembro-de-2026/",
+      "source": "Tribuna Online",
+      "snippet": "Baralho cigano: veja as previsões para os 12 signos de 16 a 22 de novembro de 2026 Tribuna Online",
+      "published": "Wed, 18 Nov 2026 21:52:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-19T07:42:49+00:00"
+    },
     {
       "title": "Eviction",
       "url": "https://rroma.org/eviction/?utm_source=rss&utm_medium=rss&utm_campaign=eviction",
