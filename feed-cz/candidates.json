@@ -1,271 +1,154 @@
 {
-  "generated_utc": "2026-11-18T07:47:08+00:00",
-  "count": 27,
+  "generated_utc": "2026-11-19T02:52:31+00:00",
+  "count": 14,
   "sources": {
     "profile": "cz",
-    "google_news": 88,
+    "google_news": 80,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 1,
     "news_feeds": 3,
-    "watch": 1,
-    "before_dedup": 62,
-    "total": 59,
-    "skipped_seen": 50,
-    "gn_resolved": 8,
-    "gn_resolve_tried": 8,
+    "watch": 2,
+    "before_dedup": 55,
+    "total": 49,
+    "skipped_seen": 34,
+    "gn_resolved": 13,
+    "gn_resolve_tried": 13,
     "dropped_after_resolve": 1,
-    "new": 8,
-    "carried_over": 19,
-    "window_start": "2026-11-17T07:51:27+00:00",
-    "publish_run": true,
+    "new": 14,
+    "carried_over": 0,
+    "window_start": "2026-11-18T07:47:08+00:00",
+    "publish_run": false,
     "vps_trigger": "ok"
   },
   "candidates": [
     {
-      "title": "Video: Pronikli jsme do organizace, která se připravuje na rasovou válku v Česku",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-chce-to-akcelerovat-nasili-pronikli-jsme-se-skrytou-kamerou-mezi-neonacisty-320148",
+      "title": "UEFA trestá Plzeň za rasismus. Součástí „norského“ maléru je i podmínka",
+      "url": "https://sport.aktualne.cz/fotbal/uefa-tresta-plzen-za-rasismus-soucasti-svedskeho-maleru-je-i-podminka/r~aaa296c73e9ddac5b81210322a395239/",
+      "source": "https://www.aktualne.cz/rss/",
+      "snippet": "Fotbalová Viktoria Plzeň dostala pokutu 30 tisíc eur (732 tisíc korun) za nevhodné chování fanoušků v utkání Evropské ligy v Lilleströmu.",
+      "published": "Wed, 18 Nov 2026 18:07:00 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "Odhalili jsme člena Svobodných v neonacistické skupině. Strana ho vyloučila",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-odhalili-jsme-clena-svobodnych-v-neonacisticke-skupine-strana-ho-vyloucila-320935",
       "source": "https://www.seznamzpravy.cz/rss",
-      "snippet": "Říkají si Active Club a trénují box. Nejde ale o sport, ve skutečnosti tvoří neonacistickou organizaci, před kterou varovalo ministerstvo vnitra ve zprávě o extremismu. Reportérovi Seznam Zpráv se podařilo do skupiny infiltrovat.",
-      "published": "Wed, 18 Nov 2026 05:00:00 +0100",
+      "snippet": "Vládní strana Svobodných vyloučila svého člena Davida Štafla. A to poté, co Seznam Zprávy přinesly důkazy o jeho zapojení v neonacistické skupině Active Club. Štafl své angažmá navzdory důkazům popíral.",
+      "published": "Wed, 18 Nov 2026 22:52:59 +0100",
       "lang": "cs",
-      "collected_utc": "2026-11-18T07:47:08+00:00"
+      "collected_utc": "2026-11-19T02:52:31+00:00"
     },
     {
-      "title": "NSVZ_vzdelavaci program_karty urovni_1_01.cdr - Ministerstvo pro místní rozvoj",
-      "url": "https://www.mmr.gov.cz/getmedia/3d9186ea-a8d9-4284-bb35-c4637dd5e4ba/NSVZ_vzdelavaci-program_karty-urovni_1_01.pdf.aspx?ext=.pdf",
-      "source": "Ministerstvo pro místní rozvoj",
-      "snippet": "NSVZ_vzdelavaci program_karty urovni_1_01.cdr Ministerstvo pro místní rozvoj",
-      "published": "Tue, 17 Nov 2026 17:17:43 GMT",
+      "title": "Microsoft Outlook - Styl zĂˇpisu - Veřejný ochránce práv | Ombudsman",
+      "url": "https://www.ochrance.cz/uploads/0bd1fa33-8a8c-418b-82d0-088999100e8a.pdf",
+      "source": "Veřejný ochránce práv | Ombudsman",
+      "snippet": "Microsoft Outlook - Styl zĂˇpisu Veřejný ochránce práv | Ombudsman",
+      "published": "Wed, 18 Nov 2026 09:29:46 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-18T07:47:08+00:00"
+      "collected_utc": "2026-11-19T02:52:31+00:00"
     },
     {
-      "title": "Monika ze Zrádců měla drsné dětství. Kvůli barvě pleti ji ponižovali i učitelé - Kafe.cz",
-      "url": "https://www.kafe.cz/celebrity/monika-ben-thabetova-zije-s-kralem/",
-      "source": "Kafe.cz",
-      "snippet": "Monika ze Zrádců měla drsné dětství. Kvůli barvě pleti ji ponižovali i učitelé Kafe.cz",
-      "published": "Wed, 18 Nov 2026 07:00:51 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T07:47:08+00:00"
-    },
-    {
-      "title": "Byt ve stylu vintage. Muž ho zařídil starožitnostmi z různých historických období - Stream.cz",
-      "url": "https://www.stream.cz/bydleni-9287/byt-ve-stylu-vintage-muz-ho-zaridil-starozitnostmi-z-ruznych-historickych-obdobi-65611433",
-      "source": "Stream.cz",
-      "snippet": "Byt ve stylu vintage. Muž ho zařídil starožitnostmi z různých historických období Stream.cz",
-      "published": "Tue, 17 Nov 2026 12:11:49 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T07:47:08+00:00"
-    },
-    {
-      "title": "Vánoční švédská jízda na Netflixu. V akční komedii Permafrost je v ohrožení předávání Nobelovek - Stream.cz",
-      "url": "https://www.stream.cz/kinobox/vanocni-svedska-jizda-na-netflixu-v-akcni-komedii-permafrost-je-v-ohrozeni-predavani-nobelovek-65609361",
-      "source": "Stream.cz",
-      "snippet": "Vánoční švédská jízda na Netflixu. V akční komedii Permafrost je v ohrožení předávání Nobelovek Stream.cz",
-      "published": "Wed, 18 Nov 2026 02:04:37 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T07:47:08+00:00"
-    },
-    {
-      "title": "Vánoční dekorace: Efektní výzdoba na dveře, kterou můžete snadno a rychle sami vytvořit - Stream.cz",
-      "url": "https://www.stream.cz/tvorte-s-nami/vanocni-dekorace-efektni-vyzdoba-na-dvere-kterou-muzete-snadno-a-rychle-sami-vytvorit-65611589",
-      "source": "Stream.cz",
-      "snippet": "Vánoční dekorace: Efektní výzdoba na dveře, kterou můžete snadno a rychle sami vytvořit Stream.cz",
-      "published": "Tue, 17 Nov 2026 19:03:28 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T07:47:08+00:00"
-    },
-    {
-      "title": "Firmy mají odkrýt pravidla odměňování. Zaměstnanci dostanou možnost zjistit, kolik vydělává kolega - Lidovky.cz",
-      "url": "https://www.lidovky.cz/byznys/mzdy-odmeny-srovnani-kolega-zverejneni.A261113_115117_ln_ekonomika_paza",
-      "source": "Lidovky.cz",
-      "snippet": "Firmy mají odkrýt pravidla odměňování. Zaměstnanci dostanou možnost zjistit, kolik vydělává kolega Lidovky.cz",
-      "published": "Wed, 18 Nov 2026 05:42:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T07:47:08+00:00"
-    },
-    {
-      "title": "Eva Kostolanská míří do čela ombudsmanského úřadu v Brně - Zprávy z Moravy",
-      "url": "https://zpravyzmoravy.cz/eva-kostolanska-miri-do-cela-ombudsmanskeho-uradu-v-brne/",
-      "source": "Zprávy z Moravy",
-      "snippet": "Eva Kostolanská míří do čela ombudsmanského úřadu v Brně Zprávy z Moravy",
-      "published": "Tue, 17 Nov 2026 21:56:59 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T07:47:08+00:00"
-    },
-    {
-      "title": "Šílený zápas: Hráč zkopal rivala, přišel i rasismus. Utkání se málem nedohrálo",
-      "url": "https://www.denik.cz/ostatni-fotbal/sileny-zapas-hrac-zkopal-rivala-prisel-i-rasismus-utkani-se-malem-nedohralo/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=ostatni-fotbal",
-      "source": "https://www.denik.cz/rss/zpravy.html",
-      "snippet": "/VIDEO/ Místo fotbalové podívané přinesl zápas kvalifikace mistrovství Asie fotbalistů do 17 let mezi Indií a Palestinou pořádný skandál. Utkání poznamenala červená karta za hrubé napadení jednoho z hráčů, přišlo i gesto s možným rasistickým podtextem. Duel, v němž padlo pět gólů, se nakonec málem a",
-      "published": "Tue, 17 Nov 2026 21:02:51 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Milan Giovanni Bindatsch, spisovatel a komunitní pracovník. \"V Ostravě je pět skupin Romů, každá žije jiným způsobem, má jiný dialekt, jinou kulturu i tradice,\" říká Milan Giovanni Bindatsch, ostravský asistent pedagoga, spisovatel a komunitní pracovník… - mujRozhlas",
-      "url": "https://www.mujrozhlas.cz/vizitka/milan-giovanni-bindatsch-spisovatel-komunitni-pracovnik-v-ostrave-je-pet-skupin-romu-kazda",
-      "source": "mujRozhlas",
-      "snippet": "Milan Giovanni Bindatsch, spisovatel a komunitní pracovník. \"V Ostravě je pět skupin Romů, každá žije jiným způsobem, má jiný dialekt, jinou kulturu i tradice,\" říká Milan Giovanni Bindatsch, ostravský asistent pedagoga, spisovatel a komunitní pracovník… mujRozhlas",
-      "published": "Tue, 17 Nov 2026 10:16:55 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Tarantinovská jízda po Slovensku. Proč si nesmíte nechat ujít nekorektní pecku Invalida? - Kinobox",
-      "url": "https://www.kinobox.cz/clanky/daily/60451-kinobox-daily-tarantinovska-jizda-po-slovensku-proc-si-nesmite-nechat-ujit-nekorektni-pecku-invalida",
-      "source": "Kinobox",
-      "snippet": "Tarantinovská jízda po Slovensku. Proč si nesmíte nechat ujít nekorektní pecku Invalida? Kinobox",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Afro Gitano – Kulturní přehled - ČT art",
-      "url": "https://art.ceskatelevize.cz/kulturni-prehled/afro-gitano/0Emdp",
-      "source": "ČT art",
-      "snippet": "Afro Gitano – Kulturní přehled ČT art",
-      "published": "Tue, 17 Nov 2026 10:55:34 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Tvrdé, nebo férové? Fanoušek dostal za rasistické urážky Mbappého trojí trest - Eurofotbal",
-      "url": "https://www.eurofotbal.cz/clanky/tvrde-nebo-ferove-fanousek-dostal-za-rasisticke-urazky-mbappeho-troji-trest-853213/",
-      "source": "Eurofotbal",
-      "snippet": "Tvrdé, nebo férové? Fanoušek dostal za rasistické urážky Mbappého trojí trest Eurofotbal",
-      "published": "Tue, 17 Nov 2026 19:53:35 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Urážel Mbappého a dostal jedenáct měsíců vězení. Fanoušek si za rasistické pokřiky vyslechl svůj trest - inFOTBAL",
-      "url": "https://infotbal.cz/urazel-mbappeho-a-dostal-jedenact-mesicu-vezeni-fanousek-si-za-rasisticke-pokriky-vyslechl-svuj-trest/",
-      "source": "inFOTBAL",
-      "snippet": "Urážel Mbappého a dostal jedenáct měsíců vězení. Fanoušek si za rasistické pokřiky vyslechl svůj trest inFOTBAL",
-      "published": "Tue, 17 Nov 2026 10:51:54 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Jsem z Ku Klux Klanu. Víme, jak na to. Montgomeryho kauza odstartovala boj proti úřednímu rasismu - Reflex.cz",
-      "url": "https://www.reflex.cz/clanek/historie/121827/jsem-z-ku-klux-klanu-vime-jak-na-to-montgomeryho-kauza-odstartovala-boj-proti-urednimu-rasismu.html",
-      "source": "Reflex.cz",
-      "snippet": "Jsem z Ku Klux Klanu. Víme, jak na to. Montgomeryho kauza odstartovala boj proti úřednímu rasismu Reflex.cz",
-      "published": "Sun, 15 Nov 2026 09:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Mbappé: fanoušek Realu Oviedo dostal za rasistická gesta 11 měsíců podmíněně. Soud zopakoval model z případu Vinícia - FotbalPortal.cz",
-      "url": "https://www.fotbalportal.cz/spanelsko/primera-division/81885-mbappe-oviedo-fanousek-rasismus-odsouzen-11-mesicu-vinicius/",
-      "source": "FotbalPortal.cz",
-      "snippet": "Mbappé: fanoušek Realu Oviedo dostal za rasistická gesta 11 měsíců podmíněně. Soud zopakoval model z případu Vinícia FotbalPortal.cz",
-      "published": "Tue, 17 Nov 2026 17:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Máme toho dost! Plné náměstí v Bratislavě protestovalo proti Ficovi - Stream.cz",
-      "url": "https://www.stream.cz/zahranicni-9232/mame-toho-dost-plne-namesti-v-bratislave-protestovalo-proti-ficovi-65611613",
-      "source": "Stream.cz",
-      "snippet": "Máme toho dost! Plné náměstí v Bratislavě protestovalo proti Ficovi Stream.cz",
-      "published": "Tue, 17 Nov 2026 19:03:28 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Co si myslí koalice o Letné? Byly tam prý jen tisíce ovcí. Macinka se málem udusil vlastní arogancí - Stream.cz",
-      "url": "https://www.stream.cz/udalosti-ludka-stanka/co-si-mysli-koalice-o-letne-byly-tam-pry-jen-tisice-ovci-macinka-se-malem-udusil-vlastni-aroganci-65611193",
-      "source": "Stream.cz",
-      "snippet": "Co si myslí koalice o Letné? Byly tam prý jen tisíce ovcí. Macinka se málem udusil vlastní arogancí Stream.cz",
-      "published": "Mon, 16 Nov 2026 20:28:08 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Nejprodávanější auto na světě je taky to nejspolehlivější. Je ale jako ojetina bez rizik? - Stream.cz",
-      "url": "https://www.stream.cz/hrubis/nejprodavanejsi-auto-na-svete-je-taky-to-nejspolehlivejsi-je-ale-jako-ojetina-bez-rizik-65609037",
-      "source": "Stream.cz",
-      "snippet": "Nejprodávanější auto na světě je taky to nejspolehlivější. Je ale jako ojetina bez rizik? Stream.cz",
-      "published": "Mon, 16 Nov 2026 11:33:01 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Polévka z mletého masa s fazolemi: Rychlý a sytý oběd - Stream.cz",
-      "url": "https://www.stream.cz/varime-s-mozkem/polevka-z-mleteho-masa-s-fazolemi-rychly-a-syty-obed-65602995",
-      "source": "Stream.cz",
-      "snippet": "Polévka z mletého masa s fazolemi: Rychlý a sytý oběd Stream.cz",
-      "published": "Sun, 15 Nov 2026 09:47:03 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Auta byla jen začátek. Čína zkouší létání na baterky - Stream.cz",
-      "url": "https://www.stream.cz/automoto-9262/auta-byla-jen-zacatek-cina-zkousi-letani-na-baterky-65610437",
-      "source": "Stream.cz",
-      "snippet": "Auta byla jen začátek. Čína zkouší létání na baterky Stream.cz",
-      "published": "Sun, 15 Nov 2026 09:57:04 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Superdávka pro seniory (2026): V Praze přes 15 000 Kč, v Bruntálu méně než polovinu. Češi radí stěhování - Spotrebitelov.cz",
-      "url": "https://www.spotrebitelov.cz/clanky/superdavka-pro-seniory-2026-v-praze-pres-15-000-kc-v-bruntalu-mene-nez-polovinu-cesi-radi-stehovani/",
-      "source": "Spotrebitelov.cz",
-      "snippet": "Superdávka pro seniory (2026): V Praze přes 15 000 Kč, v Bruntálu méně než polovinu. Češi radí stěhování Spotrebitelov.cz",
-      "published": "Mon, 16 Nov 2026 07:57:50 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "„Vyhrožoval, že to tu vystřílí.“ Školy kvůli inkluzi nemohou přesunout problémové žáky - TN.cz",
-      "url": "https://tn.nova.cz/zpravodajstvi/clanek/661487-vyhrozoval-ze-to-tu-vystrili-skoly-kvuli-inkluzi-nemohou-presunout-problemove-zaky",
-      "source": "TN.cz",
-      "snippet": "„Vyhrožoval, že to tu vystřílí.“ Školy kvůli inkluzi nemohou přesunout problémové žáky TN.cz",
-      "published": "Tue, 17 Nov 2026 09:20:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "Zapalte svíčku na dálku a buďte součástí oslav 17. listopadu ✌🏻 - Darujme.cz",
-      "url": "https://www.darujme.cz/zapalte-svicku",
-      "source": "Darujme.cz",
-      "snippet": "Zapalte svíčku na dálku a buďte součástí oslav 17. listopadu ✌🏻 Darujme.cz",
-      "published": "Mon, 16 Nov 2026 19:38:38 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
-    },
-    {
-      "title": "MS v hokeji do 20 let 2027: Program a výsledky šampionátu U20, kdy hrají Češi - iDNES.cz",
-      "url": "https://www.idnes.cz/hokej/reprezentace/hokej-ms-do-20-let-2027.A261027_090640_reprezentace_ald",
+      "title": "Začínal v Ostravě v unimobuňce, teď zastánce Romů ocenil prezident - iDNES.cz",
+      "url": "https://www.idnes.cz/ostrava/zpravy/kumar-vishwanathan-ostrava-romove-moravskoslezsky-vesnicka-souziti-petr-pavel.A261117_141008_ostrava-zpravy_stv",
       "source": "iDNES.cz",
-      "snippet": "MS v hokeji do 20 let 2027: Program a výsledky šampionátu U20, kdy hrají Češi iDNES.cz",
-      "published": "Sun, 15 Nov 2026 08:00:00 GMT",
+      "snippet": "Začínal v Ostravě v unimobuňce, teď zastánce Romů ocenil prezident iDNES.cz",
+      "published": "Wed, 18 Nov 2026 10:00:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
+      "collected_utc": "2026-11-19T02:52:31+00:00"
     },
     {
-      "title": "Lavrov: O požadavcích Charty OSN se nevyjednává - Vaše věc",
-      "url": "https://vasevec.parlamentnilisty.cz/lavrov-o-pozadavcich-charty-osn-se-nevyjednava",
-      "source": "Vaše věc",
-      "snippet": "Lavrov: O požadavcích Charty OSN se nevyjednává Vaše věc",
-      "published": "Tue, 17 Nov 2026 18:04:00 GMT",
+      "title": "Šílený zápas: Hráč zkopal rivala, přišel i rasismus. Utkání se málem nedohrálo - Deník.cz",
+      "url": "https://www.denik.cz/ostatni-fotbal/sileny-zapas-hrac-zkopal-rivala-prisel-i-rasismus-utkani-se-malem-nedohralo/",
+      "source": "Deník.cz",
+      "snippet": "Šílený zápas: Hráč zkopal rivala, přišel i rasismus. Utkání se málem nedohrálo Deník.cz",
+      "published": "Tue, 17 Nov 2026 20:04:03 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
+      "collected_utc": "2026-11-19T02:52:31+00:00"
     },
     {
-      "title": "Ombudsman v Severní Mitrovici od roku 2002, nyní otevřena druhá kancelář: Sentić a Radaković za KoSSev o důvodech a předchozí práci - KoSSev",
-      "url": "https://kossev.info/cs/ombudsman-u-severnoj-mitrovici-od-2002-sada-otvorena-druga-kancelarija-sentic-i-radakovic-za-kossev-o-razlozima-i-dosadasnjem-radu/",
-      "source": "KoSSev",
-      "snippet": "Ombudsman v Severní Mitrovici od roku 2002, nyní otevřena druhá kancelář: Sentić a Radaković za KoSSev o důvodech a předchozí práci KoSSev",
-      "published": "Tue, 17 Nov 2026 14:11:11 GMT",
+      "title": "Fanoušek, co rasisticky urážel Viníciuse a Mbappého, dostal 11 měsíců podmíněně - nastartu.cz",
+      "url": "https://www.nastartu.cz/fanousek-co-rasisticky-urazel-viniciuse-a-mbappeho-dostal-11-mesicu-podminene",
+      "source": "nastartu.cz",
+      "snippet": "Fanoušek, co rasisticky urážel Viníciuse a Mbappého, dostal 11 měsíců podmíněně nastartu.cz",
+      "published": "Wed, 18 Nov 2026 10:04:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-18T03:11:50+00:00"
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "Spojte se proti Le Penové a Mélenchonovi, vyzývá francouzský ministr centristy - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/vyzva-ministra-volba-spolecneho-prezidentskeho-kandidata-proti-le-penove-a-melenchonovi.A261118_121550_zahranicni_asus",
+      "source": "iDNES.cz",
+      "snippet": "Spojte se proti Le Penové a Mélenchonovi, vyzývá francouzský ministr centristy iDNES.cz",
+      "published": "Wed, 18 Nov 2026 12:10:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "Aleš Juchelka (ANO): Superdávka bude vyplacena do konce listopadu - Frekvence 1",
+      "url": "https://www.frekvence1.cz/radio/zaznamy-poradu/press-klub/ales-juchelka-ano-superdavka-bude-vyplacena-do-konce-listopadu.shtml",
+      "source": "Frekvence 1",
+      "snippet": "Aleš Juchelka (ANO): Superdávka bude vyplacena do konce listopadu Frekvence 1",
+      "published": "Wed, 18 Nov 2026 17:43:49 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "Úřady práce přepočítávají superdávku. Tyto 4 skupiny Čechů na ni mohou doplatit - Spotrebitelov.cz",
+      "url": "https://www.spotrebitelov.cz/clanky/urady-prace-prepocitavaji-superdavku-tyto-4-skupiny-cechu-na-ni-mohou-doplatit/",
+      "source": "Spotrebitelov.cz",
+      "snippet": "Úřady práce přepočítávají superdávku. Tyto 4 skupiny Čechů na ni mohou doplatit Spotrebitelov.cz",
+      "published": "Wed, 18 Nov 2026 05:38:26 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "Mladík pod silným vlivem drog napadal záchranáře - Krimi Plzeň",
+      "url": "https://krimi-plzen.cz/a/napadeni-2026-11-18-113539/",
+      "source": "Krimi Plzeň",
+      "snippet": "Mladík pod silným vlivem drog napadal záchranáře Krimi Plzeň",
+      "published": "Wed, 18 Nov 2026 10:35:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "Plzeň dostala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků - České noviny",
+      "url": "https://www.ceskenoviny.cz/zpravy/2903594",
+      "source": "České noviny",
+      "snippet": "Plzeň dostala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků České noviny",
+      "published": "Wed, 18 Nov 2026 15:40:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "Ukrajina a Rusko jednají o výměně zajatců. Zelenskyj vidí pozice na frontě jako silné - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-jedna-s-ruskem-o-vymene-zajatcu-zelenskyj-chvali-pozice-na-fronte.A261118_201359_zahranicni_ichuc",
+      "source": "iDNES.cz",
+      "snippet": "Ukrajina a Rusko jednají o výměně zajatců. Zelenskyj vidí pozice na frontě jako silné iDNES.cz",
+      "published": "Wed, 18 Nov 2026 19:53:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "ONLINE: Krasnodarský kraj hlásí útok ukrajinských dronů. Mohly tam zasáhnout dvě ropné rafinerie - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-svet/online-krasnodarsky-kraj-hlasi-utok-ukrajinskych-dronu-mohly-tam-zasahnout-dve_2611180727_jho",
+      "source": "iROZHLAS",
+      "snippet": "ONLINE: Krasnodarský kraj hlásí útok ukrajinských dronů. Mohly tam zasáhnout dvě ropné rafinerie iROZHLAS",
+      "published": "Wed, 18 Nov 2026 06:27:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
+    },
+    {
+      "title": "Aegis Law hledá advokáta či advokátku na korporátní agendu a transakční poradenství - https://legalweb.cz/",
+      "url": "https://legalweb.cz/aegis-law-hleda-advokata-ci-advokatku-na-korporatni-agendu-a-transakcni-poradenstvi-11177/",
+      "source": "https://legalweb.cz/",
+      "snippet": "Aegis Law hledá advokáta či advokátku na korporátní agendu a transakční poradenství https://legalweb.cz/",
+      "published": "Wed, 18 Nov 2026 14:02:35 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-19T02:52:31+00:00"
     }
   ]
 }
