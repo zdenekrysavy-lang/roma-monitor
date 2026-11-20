@@ -1,87 +1,95 @@
-# Kandidáti — 2026-11-19T07:47:34+00:00 (21 položek)
+# Kandidáti — 2026-11-20T02:41:44+00:00 (23 položek)
 
-_Zdroje: Google News 85 · GDELT 0 (disabled) · feedy 1 · watch 2_
+_Zdroje: Google News 90 · GDELT 0 (disabled) · feedy 1 · watch 2_
 
-1. **Jedna žena proti systému. Oceňovaný thriller Spravedlnost je právě v kinech** — https://denikn.cz/feed/ [cs]
-   https://denikn.cz/2259703/jedna-zena-proti-systemu-ocenovany-thriller-spravedlnost-je-prave-v-kinech/
-   Napínavý soudní thriller, nekompromisní hrdinka a znepokojivý obraz současného Německa. V českých kinech je k vidění Spravedlnost německo-íránského režiséra Faraze Shariata, oceněná Cenou diváků v sek
+1. **Podpoříme 14 regionálních projektů i zahraniční spolupráci: výsledky EEA Civil Society Fund** — https://osf.cz/feed/ [cs]
+   https://osf.cz/2026/11/19/podporime-14-regionalnich-projektu-i-zahranicni-spolupraci-vysledky-eea-civil-society-fund/
+   Zveřejňujeme výsledky bilaterálních a regionálních grantových výzev programu EEA Civil Society Fund, jejichž uzávěrka byla 15. září 2026. Odborná hodnotící komise vybrala celkem 14 projektů, které zís
 
-2. **UEFA trestá Plzeň za rasismus. Součástí „norského“ maléru je i podmínka - Aktuálně.cz** — Aktuálně.cz [cs]
-   https://sport.aktualne.cz/fotbal/uefa-tresta-plzen-za-rasismus-soucasti-svedskeho-maleru-je-i-podminka/r~aaa296c73e9ddac5b81210322a395239/
-   UEFA trestá Plzeň za rasismus. Součástí „norského“ maléru je i podmínka Aktuálně.cz
+2. **Češi na boxu v Nizozemsku, kde se hajlovalo a křičela nacistická hesla** — https://www.seznamzpravy.cz/rss [cs]
+   https://www.seznamzpravy.cz/clanek/domaci-kauzy-cesti-extremiste-v-nizozemsku-kde-se-hajlovalo-a-kricela-nacisticka-hesla-320941
+   Hajlování a výkřiky nacistických hesel provázely boxerské turnaje v Nizozemsku, kterých se účastnili i členové české neonacistické organizace Active Club. Záběry zveřejnili nizozemští novináři z inves
 
-3. **Lze ji za to nemilovat? Když nejlepší sociální dem... - forum 24** — forum 24 [cs]
-   https://www.forum24.cz/lze-ji-za-to-nemilovat-kdyz-nejlepsi-socialni-demokratce-na-svete-tleska-i-krajni-pravice
-   Lze ji za to nemilovat? Když nejlepší sociální dem... forum 24
+3. **Poprvé za 18 let. Svobodní vyloučili člena kvůli neonacistům, nedávno přitom hostili krajní pravici** — https://www.forum24.cz/feed/ [cs]
+   https://www.forum24.cz/poprve-za-18-let-svobodni-vyloucili-clena-kvuli-neonacistum-nedavno-pritom-hostili-krajni-pravici
+   Svobodní vyloučili svého člena Davida Štafla poté, co investigace Seznam Zpráv odhalila jeho působení v neonacistické organizaci Active Club. Podle vedení strany jde o první podobný případ za 18 let j
 
-4. **Diskuze: Lze ji za to nemilovat? Když nejlepší sociální demokratce na světě tleská i krajní pravice - forum 24** — forum 24 [cs]
-   https://www.forum24.cz/lze-ji-za-to-nemilovat-kdyz-nejlepsi-socialni-demokratce-na-svete-tleska-i-krajni-pravice/diskuze
-   Diskuze: Lze ji za to nemilovat? Když nejlepší sociální demokratce na světě tleská i krajní pravice forum 24
+4. **Řádění zdrogovaného Eduarda (43): Napadl 4 muže a nezletilou dívku (14)! Sestřičku bránila s nožem v ruce** — https://www.blesk.cz/rss [cs]
+   https://www.blesk.cz/clanek/regiony-praha/853082/radeni-zdrogovaneho-eduarda-43-napadl-4-muze-a-nezletilou-divku-14-sestricku-branila-s-nozem-v-ruce.html
+   Krajský soud v Praze začal ve čtvrtek projednávat případ Eduarda P. z Ukrajiny, který v únoru v Kralupech nad Vltavou pod vlivem drog na ubytovně napadl čtyři muže teleskopickým obuškem a dvěma noži. 
 
-5. **Na nájem stát uzná 5880 korun. Nejlevnější byt jsme našli za 7500 - Penize.cz** — Penize.cz [cs]
-   https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/500168-na-najem-stat-uzna-5880-korun-nejlevnejsi-byt-jsme-nasli-za-7500
-   Na nájem stát uzná 5880 korun. Nejlevnější byt jsme našli za 7500 Penize.cz
+5. **Romské děti samy sobě musí věřit a postavit se na vlastní nohy, říká Milan Giovanni Bindatsch - Český rozhlas Vltava** — Český rozhlas Vltava [cs]
+   https://vltava.rozhlas.cz/romske-deti-samy-sobe-musi-verit-a-postavit-se-na-vlastni-nohy-rika-milan-9657587
+   Romské děti samy sobě musí věřit a postavit se na vlastní nohy, říká Milan Giovanni Bindatsch Český rozhlas Vltava
 
-6. **V Pisárkách by měl vzniknout městský sportovní i rekreační areál - Seznam** — Seznam [cs]
-   https://medium.seznam.cz/clanek/pavel-jelinek-v-pisarkach-by-mel-vzniknout-mestsky-sportovni-i-rekreacni-areal-347349
-   V Pisárkách by měl vzniknout městský sportovní i rekreační areál Seznam
+6. **Útočníci na romskou ubytovnu v Aši dostali téměř 7 let vězení - regionzapad.cz** — regionzapad.cz [cs]
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xWDhKLTFKbmQzc2VhOXRVamltU0RDWVlhMmhVQWE3eFRMbFRlZGJnV05LNms5bnFXZEVHMUhnX3VTRFlXMHNDWWYtWlNUNHJlcDhSMEdzTndab29nZE9rckRB?oc=5
+   Útočníci na romskou ubytovnu v Aši dostali téměř 7 let vězení regionzapad.cz
 
-7. **Plzeň vyfasovala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků - Sport.cz** — Sport.cz [cs]
-   https://www.sport.cz/clanek/fotbal-evropska-liga-plzen-vyfasovala-od-uefa-pokutu-temer-tri-ctvrte-milionu-korun-za-chovani-fanousku-5578534
-   Plzeň vyfasovala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků Sport.cz
+7. **Tomáš Kačo vydá vánoční album, které si dlouho přál. Už teď má v hlavě další desky - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/zlinsky-kraj/tomas-kaco-vyda-vanocni-album-ktere-si-dlouho-pral-uz-ted-ma-v-hlave-dalsi-desky.A261119_140140_metro-zlin-zpravy_air
+   Tomáš Kačo vydá vánoční album, které si dlouho přál. Už teď má v hlavě další desky Metro.cz
 
-8. **Děti a oběti bychom měli chránit daleko víc, než se děje, říká Michaela Kolman, první ombudsmanka MPSV - legalweb.cz** — legalweb.cz [cs]
-   https://legalweb.cz/deti-a-obeti-bychom-meli-chranit-daleko-vic-nez-se-deje-rika-michaela-kolman-prvni-ombudsmanka-mpsv-11169/
-   Děti a oběti bychom měli chránit daleko víc, než se děje, říká Michaela Kolman, první ombudsmanka MPSV legalweb.cz
+8. **Smyslem je, aby bylo co nejméně osamělých lidí, říká ředitel Nadačního fondu Českého rozhlasu Jiří Váňa - mujRozhlas** — mujRozhlas [cs]
+   https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT21CaExYd2Y4VmJ3bXFzUklwM2d4Nmh4d21DTGI0RURsUzY4NnNCZktQTkRqQnUxcWl1TXFseF9OWkMzNGlxaE5DTmQ5a0hTTTZIVTN5bkl2SllNTHBSQTh6bF84OXBUNFlaa2owMERPdi1iWkpUb2ZSMkFrd2R4UjB6WnFObEVDa3ZneHJRT0ktWUVKeEJPTkZ0TGtlT3NEdXBKSzJYUVRlRXZ4bjZGQ0FoUDNRWEc0R2Z2QWR4ejhFb2c?oc=5
+   Smyslem je, aby bylo co nejméně osamělých lidí, říká ředitel Nadačního fondu Českého rozhlasu Jiří Váňa mujRozhlas
 
-9. **Odhalili jsme člena Svobodných v neonacistické skupině. Strana ho vyloučila** — https://www.seznamzpravy.cz/rss [cs]
-   https://www.seznamzpravy.cz/clanek/domaci-kauzy-odhalili-jsme-clena-svobodnych-v-neonacisticke-skupine-strana-ho-vyloucila-320935
-   Vládní strana Svobodných vyloučila svého člena Davida Štafla. A to poté, co Seznam Zprávy přinesly důkazy o jeho zapojení v neonacistické skupině Active Club. Štafl své angažmá navzdory důkazům popíra
+9. **Říkali mi, že mi Arab vezme děti a už je neuvidím. Dcera hlavně po 11. září odmítala palestinskou kulturu, vzpomíná Erika - Heroine.cz** — Heroine.cz [cs]
+   https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUh3VGVhLWV6WHJEYXJmekY0T1ZLSHJGNzA4TDU1Y0h6eWJHN0gwTlgxamRGUE9RV3JXTmRYVjFfT2REZ0JZRUphU0lGMS1NOHBIRUpCaVVRSVpGVldaRDc0aVQ1eW1jcTBuYzhVUGFJVmhpdVNOTkZTbEc1SHNjd3NFcXBYNjBvcXJMWmllaVJkRHRfZ25pbjlXb3RmZmd1clJDRGg0U2JqZUYwTVQxSDhpWll3U19feEUzNEN5RmdpWFVJMlhCdTdrTkcxcklVYm8wWi0wcHhmZ1oxQUliS2hrdURxdw?oc=5
+   Říkali mi, že mi Arab vezme děti a už je neuvidím. Dcera hlavně po 11. září odmítala palestinskou kulturu, vzpomíná Erika Heroine.cz
 
-10. **Microsoft Outlook - Styl zĂˇpisu - Veřejný ochránce práv | Ombudsman** — Veřejný ochránce práv | Ombudsman [cs]
-   https://www.ochrance.cz/uploads/0bd1fa33-8a8c-418b-82d0-088999100e8a.pdf
-   Microsoft Outlook - Styl zĂˇpisu Veřejný ochránce práv | Ombudsman
+10. **Viktoria zaplatí za chování fanoušků v Norsku téměř tři čtvrtě milionu korun - Plzeňský deník** — Plzeňský deník [cs]
+   https://plzensky.denik.cz/ostatni-fotbal/fotbal-viktoria-plzen-evropska-liga-lillestrom-uefa-trest-pokuta-fanousci-rasismus/
+   Viktoria zaplatí za chování fanoušků v Norsku téměř tři čtvrtě milionu korun Plzeňský deník
 
-11. **Začínal v Ostravě v unimobuňce, teď zastánce Romů ocenil prezident - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/ostrava/zpravy/kumar-vishwanathan-ostrava-romove-moravskoslezsky-vesnicka-souziti-petr-pavel.A261117_141008_ostrava-zpravy_stv
-   Začínal v Ostravě v unimobuňce, teď zastánce Romů ocenil prezident iDNES.cz
+11. **V Německu je ve vazbě mladík, který plánoval teroristický útok na mešitu - Seznam Zprávy** — Seznam Zprávy [cs]
+   https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2R1cHQ2ODJNWGNVcU9SMXlNMmVoN1Y2VU1zaGNmT3VwSGNOMGxMSDhZOGlnREdfN2cwLWl3RWJmREtQM2FROXZoaUhoNmE1cldkMWx6cVJoQ0xQSEdqQWxCeW5TYkhNWFQ0TWZVaVkyUm5XLVV5VWlyN0pnQ1RZRjNmYnN6VWlTam1fZG4tSkladks3QVZRSEptNUMzYUtpd29pTE43dUhSajF2RkF3WENqVFFwb1dIeDJGakJoY1JsZw?oc=5
+   V Německu je ve vazbě mladík, který plánoval teroristický útok na mešitu Seznam Zprávy
 
-12. **Šílený zápas: Hráč zkopal rivala, přišel i rasismus. Utkání se málem nedohrálo - Deník.cz** — Deník.cz [cs]
-   https://www.denik.cz/ostatni-fotbal/sileny-zapas-hrac-zkopal-rivala-prisel-i-rasismus-utkani-se-malem-nedohralo/
-   Šílený zápas: Hráč zkopal rivala, přišel i rasismus. Utkání se málem nedohrálo Deník.cz
+12. **Tady je stíhaný Houellebecq, tady se ukažte! - Echo24** — Echo24 [cs]
+   https://www.echo24.cz/a/HChyF/komentar-jiri-penas-tady-je-stihany-houellebecq-tady-se-ukazte
+   Tady je stíhaný Houellebecq, tady se ukažte! Echo24
 
-13. **Fanoušek, co rasisticky urážel Viníciuse a Mbappého, dostal 11 měsíců podmíněně - nastartu.cz** — nastartu.cz [cs]
-   https://www.nastartu.cz/fanousek-co-rasisticky-urazel-viniciuse-a-mbappeho-dostal-11-mesicu-podminene
-   Fanoušek, co rasisticky urážel Viníciuse a Mbappého, dostal 11 měsíců podmíněně nastartu.cz
+13. **Superdávka bude do konce listopadu, slibuje Juchelka. Podle odborníků to ale nemá šanci stihnout - EnergoZrouti.cz** — EnergoZrouti.cz [cs]
+   https://energozrouti.cz/clanek/superdavka-juchelka-slibuje-listopad-odbornici-varuji-pred-protazenim
+   Superdávka bude do konce listopadu, slibuje Juchelka. Podle odborníků to ale nemá šanci stihnout EnergoZrouti.cz
 
-14. **Spojte se proti Le Penové a Mélenchonovi, vyzývá francouzský ministr centristy - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/vyzva-ministra-volba-spolecneho-prezidentskeho-kandidata-proti-le-penove-a-melenchonovi.A261118_121550_zahranicni_asus
-   Spojte se proti Le Penové a Mélenchonovi, vyzývá francouzský ministr centristy iDNES.cz
+14. **Desítky Plzeňanů přespaly na břehu Radbuzy s bezdomovci. Jedna noc ukázala, jak se město dívá na chudobu - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/plzensky-kraj/desitky-plzenanu-prespaly-na-brehu-radbuzy-s-bezdomovci-jedna-noc-ukazala-jak-se-mesto-diva-na-chudo.A261119_231533_metro-plzen-zpravy_air
+   Desítky Plzeňanů přespaly na břehu Radbuzy s bezdomovci. Jedna noc ukázala, jak se město dívá na chudobu Metro.cz
 
-15. **Aleš Juchelka (ANO): Superdávka bude vyplacena do konce listopadu - Frekvence 1** — Frekvence 1 [cs]
-   https://www.frekvence1.cz/radio/zaznamy-poradu/press-klub/ales-juchelka-ano-superdavka-bude-vyplacena-do-konce-listopadu.shtml
-   Aleš Juchelka (ANO): Superdávka bude vyplacena do konce listopadu Frekvence 1
+15. **Město dává nejchudším najevo, že nejsou vítáni, upozorňují organizátoři akce Noc venku - Plzeňská Drbna** — Plzeňská Drbna [cs]
+   https://plzenska.drbna.cz/zpravy/906072-mesto-dava-nejchudsim-najevo-ze-nejsou-vitani-upozornuji-organizatori-akce-noc-venku.html
+   Město dává nejchudším najevo, že nejsou vítáni, upozorňují organizátoři akce Noc venku Plzeňská Drbna
 
-16. **Úřady práce přepočítávají superdávku. Tyto 4 skupiny Čechů na ni mohou doplatit - Spotrebitelov.cz** — Spotrebitelov.cz [cs]
-   https://www.spotrebitelov.cz/clanky/urady-prace-prepocitavaji-superdavku-tyto-4-skupiny-cechu-na-ni-mohou-doplatit/
-   Úřady práce přepočítávají superdávku. Tyto 4 skupiny Čechů na ni mohou doplatit Spotrebitelov.cz
+16. **Aleš Juchelka: Chceme ušetřit, ale ochránit zranitelné lidi - Frekvence 1** — Frekvence 1 [cs]
+   https://www.frekvence1.cz/clanky/press-klub-clanky/ales-juchelka-podpora-v-nezamestnanosti-se-zmeni-zranitelnejsi-skupiny-si-zachovaji-vyhodnejsi-podminky.shtml
+   Aleš Juchelka: Chceme ušetřit, ale ochránit zranitelné lidi Frekvence 1
 
-17. **Mladík pod silným vlivem drog napadal záchranáře - Krimi Plzeň** — Krimi Plzeň [cs]
-   https://krimi-plzen.cz/a/napadeni-2026-11-18-113539/
-   Mladík pod silným vlivem drog napadal záchranáře Krimi Plzeň
+17. **Kde je hranice , jestli je 200 korun moc nebo málo ? - Seznam** — Seznam [cs]
+   https://medium.seznam.cz/clanek/mirek-vladar-kde-je-hranice-jestli-je-200-korun-moc-nebo-malo-348262
+   Kde je hranice , jestli je 200 korun moc nebo málo ? Seznam
 
-18. **Plzeň dostala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/zpravy/2903594
-   Plzeň dostala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků České noviny
+18. **V okolí Opuštěné vyroste také úplně nová čtvrť - Seznam** — Seznam [cs]
+   https://medium.seznam.cz/clanek/pavel-jelinek-v-okoli-opustene-vyroste-take-uplne-nova-ctvrt-347691
+   V okolí Opuštěné vyroste také úplně nová čtvrť Seznam
 
-19. **Ukrajina a Rusko jednají o výměně zajatců. Zelenskyj vidí pozice na frontě jako silné - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/ukrajina-jedna-s-ruskem-o-vymene-zajatcu-zelenskyj-chvali-pozice-na-fronte.A261118_201359_zahranicni_ichuc
-   Ukrajina a Rusko jednají o výměně zajatců. Zelenskyj vidí pozice na frontě jako silné iDNES.cz
+19. **Nová starostka Čáslavi: Chceme dostupné bydlení pro mladé i seniory - Kutnohorský deník** — Kutnohorský deník [cs]
+   https://kutnohorsky.denik.cz/komunalni-volby/nova-starostka-caslavi-chceme-dostupne-bydleni-pro-mlade-i-seniory/
+   Nová starostka Čáslavi: Chceme dostupné bydlení pro mladé i seniory Kutnohorský deník
 
-20. **ONLINE: Krasnodarský kraj hlásí útok ukrajinských dronů. Mohly tam zasáhnout dvě ropné rafinerie - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/online-krasnodarsky-kraj-hlasi-utok-ukrajinskych-dronu-mohly-tam-zasahnout-dve_2611180727_jho
-   ONLINE: Krasnodarský kraj hlásí útok ukrajinských dronů. Mohly tam zasáhnout dvě ropné rafinerie iROZHLAS
+20. **Zákupy se rázně postavily proti ubytovně. Než mít ve městě nepřizpůsobivé, raději se vzdají na čas investic - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-zakupy-se-razne-postavily-proti-ubytovne-nez-mit-ve-meste-neprizpusobive-radeji-se-vzdaji-na-cas-investic-40609491
+   Zákupy se rázně postavily proti ubytovně. Než mít ve městě nepřizpůsobivé, raději se vzdají na čas investic Novinky
 
-21. **Aegis Law hledá advokáta či advokátku na korporátní agendu a transakční poradenství - https://legalweb.cz/** — https://legalweb.cz/ [cs]
-   https://legalweb.cz/aegis-law-hleda-advokata-ci-advokatku-na-korporatni-agendu-a-transakcni-poradenstvi-11177/
-   Aegis Law hledá advokáta či advokátku na korporátní agendu a transakční poradenství https://legalweb.cz/
+21. **Rusko si předvolalo finskou chargé d’affaires v Moskvě - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/zahranicni-rusko-si-predvolalo-finskou-charge-daffaires-v-moskve-40609547
+   Rusko si předvolalo finskou chargé d’affaires v Moskvě Novinky
+
+22. **Dnes se slaví Mezinárodní den mužů, o který nestojí ani samotní muži - Reflex.cz** — Reflex.cz [cs]
+   https://www.reflex.cz/clanek/zajimavosti/139472/dnes-se-slavi-mezinarodni-den-muzu-o-ktery-nestoji-ani-samotni-muzi.html
+   Dnes se slaví Mezinárodní den mužů, o který nestojí ani samotní muži Reflex.cz
+
+23. **Součástí Týdne za dětství bez násilí je Bubnovačka, učí děti, jak si říci o pomoc - Advokátní deník** — Advokátní deník [cs]
+   https://advokatnidenik.cz/2026/11/19/soucasti-tydne-za-detstvi-bez-nasili-je-bubnovacka-uci-deti-jak-si-rici-o-pomoc/
+   Součástí Týdne za dětství bez násilí je Bubnovačka, učí děti, jak si říci o pomoc Advokátní deník
