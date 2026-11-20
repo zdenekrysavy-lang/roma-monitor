@@ -1,1171 +1,937 @@
 {
-  "generated_utc": "2026-11-19T07:42:49+00:00",
-  "count": 127,
+  "generated_utc": "2026-11-20T02:37:48+00:00",
+  "count": 101,
   "sources": {
     "profile": "world",
-    "google_news": 152,
+    "google_news": 169,
     "google_news_status": "ok",
-    "gdelt": 7,
-    "gdelt_status": "ok",
-    "gdelt_note": "",
-    "feeds": 36,
+    "gdelt": 0,
+    "gdelt_status": "rate_limited",
+    "gdelt_note": "HTTP 429 (rate-limit)",
+    "feeds": 35,
     "news_feeds": 0,
-    "watch": 6,
-    "before_dedup": 199,
-    "total": 184,
-    "skipped_seen": 164,
-    "gn_resolved": 20,
-    "gn_resolve_tried": 20,
+    "watch": 5,
+    "before_dedup": 205,
+    "total": 189,
+    "skipped_seen": 88,
+    "gn_resolved": 89,
+    "gn_resolve_tried": 91,
     "dropped_after_resolve": 0,
-    "new": 20,
-    "carried_over": 107,
-    "window_start": "2026-11-18T07:45:27+00:00",
-    "publish_run": true,
+    "new": 101,
+    "carried_over": 0,
+    "window_start": "2026-11-19T07:42:49+00:00",
+    "publish_run": false,
     "vps_trigger": "ok"
   },
   "candidates": [
     {
-      "title": "Starostovi Jarovníc schválili 7 640 eur. Dužda sľubuje výkon - Roma Television",
-      "url": "https://romatv.sk/slovensko/starostovi-jarovn%C3%ADc-schv%C3%A1lili-7-640-eur-du%C5%BEda-s%C4%BEubuje-v%C3%BDkon/1401218",
+      "title": "Representation of Roma",
+      "url": "https://rroma.org/representation-of-roma/?utm_source=rss&utm_medium=rss&utm_campaign=representation-of-roma",
+      "source": "https://rroma.org/feed/",
+      "snippet": "André Raatzsch, a Roma minority member and researcher, emphasizes the importance of representing Roma identity and addressing discrimination through his […]",
+      "published": "Thu, 19 Nov 2026 08:27:05 +0000",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Switzerland and Minorities",
+      "url": "https://rroma.org/switzerland-and-minorities-6/?utm_source=rss&utm_medium=rss&utm_campaign=switzerland-and-minorities-6",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The Swiss Federal Council approved the sixth report on the implementation of the Council of Europe’s Framework Convention for the […]",
+      "published": "Thu, 19 Nov 2026 08:26:15 +0000",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Hungary and Roma",
+      "url": "https://rroma.org/hungary-and-roma-12/?utm_source=rss&utm_medium=rss&utm_campaign=hungary-and-roma-12",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The new government was initially seen as a hopeful change for the Roma community, with Roma representation in parliament and […]",
+      "published": "Thu, 19 Nov 2026 08:25:23 +0000",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Moldovan Program",
+      "url": "https://rroma.org/moldovan-program/?utm_source=rss&utm_medium=rss&utm_campaign=moldovan-program",
+      "source": "https://rroma.org/feed/",
+      "snippet": "The Moldovan government has approved a program to support the Roma population from 2027 to 2030, focusing on education, employment, […]",
+      "published": "Thu, 19 Nov 2026 08:24:40 +0000",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Baby Trafficking",
+      "url": "https://rroma.org/baby-trafficking/?utm_source=rss&utm_medium=rss&utm_campaign=baby-trafficking",
+      "source": "https://rroma.org/feed/",
+      "snippet": "A Roma family from the Lampeitio area allegedly sold their newborn baby three days after birth for €3,500, using the […]",
+      "published": "Thu, 19 Nov 2026 08:23:48 +0000",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Roma Politics",
+      "url": "https://rroma.org/roma-politics-5/?utm_source=rss&utm_medium=rss&utm_campaign=roma-politics-5",
+      "source": "https://rroma.org/feed/",
+      "snippet": "Osman Balić, president of the YUROM Center, criticizes the political representation of the Roma community, stating that past representatives have […]",
+      "published": "Thu, 19 Nov 2026 08:22:45 +0000",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Ku Klux Clan Plovdiv",
+      "url": "https://rroma.org/ku-klux-clan-plovdiv/?utm_source=rss&utm_medium=rss&utm_campaign=ku-klux-clan-plovdiv",
+      "source": "https://rroma.org/feed/",
+      "snippet": "A suspect in the murder of Georgi Kuzev in Plovdiv was eager to join a local Ku Klux Klan division, […]",
+      "published": "Thu, 19 Nov 2026 08:21:52 +0000",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Amari Kultura – Amari Zor: An Evening Celebrating Roma Culture at ERIAC",
+      "url": "https://eriac.org/amari-kultura-amari-zor-an-evening-celebrating-roma-culture-at-eriac/",
+      "source": "https://eriac.org/feed/",
+      "snippet": "On 26 November, The European Roma Institute for Arts and Culture (ERIAC) will conclude the conference Amari Kultura – Amari Zor (“Our Culture, Our Power”): Roma Pride and Cultural Resilience with a cultural evening from 19:00 to 23:00, at the ERIAC Berlin Space. The celebration opens to the sound of",
+      "published": "Thu, 19 Nov 2026 15:00:43 +0000",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Bakić i Hubač obećali saradnju sa Romima: Studentska lista spremna da se bavi problemima romske zajednice(VIDEO)",
+      "url": "https://rominfomedia.rs/2026/11/20/bakic-i-hubac-obecali-saradnju-sa-romima-studentska-lista-spremna-da-se-bavi-problemima-romske-zajednicevideo/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "Poslanica SNS-a romske nacionalnosti govorila o položaju Roma, političkim podelama i potrebi za dijalogom, a Željko Hubac i Jovo Bakić poručili da su spremni za saradnju sa predstavnicima romske zajednice. Narodna poslanica Nataša Tasić Knežević svoje prvo obraćanje započela je na maternjem romskom ",
+      "published": "Fri, 20 Nov 2026 01:43:39 +0000",
+      "lang": "sr",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "U leskovačkom porodilištu na svet došlo šest beba",
+      "url": "https://rominfomedia.rs/2026/11/19/u-leskovackom-porodilistu-na-svet-doslo-sest-beba/",
+      "source": "https://rominfomedia.rs/feed/",
+      "snippet": "U leskovačkom porodilištu rođeno je 6 beba: četiri devojčice i dva dečaka. U hitnoj službi leskovačkog Doma zdravlja prethodne noći bilo je intervencija: 22 kućne posete lekara, a ambulantno je pregledan 51 pacijent. Članak U leskovačkom porodilištu na svet došlo šest beba se pojavljuje prvo na Rom ",
+      "published": "Thu, 19 Nov 2026 09:37:12 +0000",
+      "lang": "sr",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Research report on Roma child poverty and the prevention of family separation - ERGO Network",
+      "url": "https://ergonetwork.org/2026/11/research-report-on-roma-child-poverty-and-the-prevention-of-family-separation/",
+      "source": "ERGO Network",
+      "snippet": "Research report on Roma child poverty and the prevention of family separation ERGO Network",
+      "published": "Thu, 19 Nov 2026 17:23:41 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Rómovia v Trebišove majú nový pastoračný dom - Roma Television",
+      "url": "https://romatv.sk/slovensko/r%C3%B3movia-v-trebi%C5%A1ove-maj%C3%BA-nov%C3%BD-pastora%C4%8Dn%C3%BD-dom/1401219",
       "source": "Roma Television",
-      "snippet": "Starostovi Jarovníc schválili 7 640 eur. Dužda sľubuje výkon Roma Television",
-      "published": "Thu, 19 Nov 2026 05:02:00 GMT",
+      "snippet": "Rómovia v Trebišove majú nový pastoračný dom Roma Television",
+      "published": "Thu, 19 Nov 2026 17:50:58 GMT",
       "lang": "sk",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Ponúkajú ich aj za granule, predávajú množiarňam aj laboratóriám. Psy vyrastajú v desivých podmienkach - tnlive.sk",
-      "url": "https://www.tvnoviny.sk/domace/clanok/1063656-ponukaju-ich-aj-za-granule-predavaju-mnoziarnam-aj-laboratoriam-psy-vyrastaju-v-desivych-podmienkach",
-      "source": "tnlive.sk",
-      "snippet": "Ponúkajú ich aj za granule, predávajú množiarňam aj laboratóriám. Psy vyrastajú v desivých podmienkach tnlive.sk",
-      "published": "Wed, 18 Nov 2026 23:01:00 GMT",
+      "title": "Arcidiecéza prináša odkazy kňazov, rodín, detí aj Rómov pre biskupa Forgáča - TK KBS",
+      "url": "https://www.tkkbs.sk/view.php?cisloclanku=20261119006",
+      "source": "TK KBS",
+      "snippet": "Arcidiecéza prináša odkazy kňazov, rodín, detí aj Rómov pre biskupa Forgáča TK KBS",
+      "published": "Thu, 19 Nov 2026 09:20:00 GMT",
       "lang": "sk",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "58 million lei program to support the Roma community for four years - Moldova 1",
-      "url": "https://moldova1.md/p/90571",
-      "source": "Moldova 1",
-      "snippet": "58 million lei program to support the Roma community for four years Moldova 1",
-      "published": "Wed, 18 Nov 2026 17:48:45 GMT",
-      "lang": "en",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Program de 58 de milioane de lei pentru susținerea comunității rome în următorii patru ani - Moldova 1",
-      "url": "https://moldova1.md/p/90546",
-      "source": "Moldova 1",
-      "snippet": "Program de 58 de milioane de lei pentru susținerea comunității rome în următorii patru ani Moldova 1",
-      "published": "Wed, 18 Nov 2026 13:30:48 GMT",
-      "lang": "ro",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Turiștii nu mai aruncă la fel de mulți bani în Fontana di Trevi. Cele două motive care amenință o tradiție celebră din Roma - Cotidianul RO",
-      "url": "https://www.cotidianul.ro/turistii-nu-mai-arunca-la-fel-de-multi-bani-in-fontana-di-trevi-cele-doua-motive-care-ameninta-o-traditie-celebra-din-roma/",
-      "source": "Cotidianul RO",
-      "snippet": "Turiștii nu mai aruncă la fel de mulți bani în Fontana di Trevi. Cele două motive care amenință o tradiție celebră din Roma Cotidianul RO",
-      "published": "Thu, 19 Nov 2026 04:00:27 GMT",
-      "lang": "ro",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Fontana di Trevi: cu 5 tone mai puține monede în 2026 - Stiripesurse",
-      "url": "https://www.stiripesurse.ro/fontana-di-trevi-scad-monezile-taxa-plati-digitale_3938023",
-      "source": "Stiripesurse",
-      "snippet": "Fontana di Trevi: cu 5 tone mai puține monede în 2026 Stiripesurse",
-      "published": "Thu, 19 Nov 2026 03:15:03 GMT",
-      "lang": "ro",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "La generación de jóvenes gitanos zamoranos que planta cara a los prejuicios y conquista las aulas universitarias - La Opinión de Zamora",
-      "url": "https://www.laopiniondezamora.es/zamora/2026/11/19/generacion-jovenes-gitanos-zamoranos-planta-136593409.html",
-      "source": "La Opinión de Zamora",
-      "snippet": "La generación de jóvenes gitanos zamoranos que planta cara a los prejuicios y conquista las aulas universitarias La Opinión de Zamora",
-      "published": "Thu, 19 Nov 2026 06:00:52 GMT",
-      "lang": "es",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "La seguridad adquirida por Juan, el esfuerzo con premio de Emilio y los perfiles cada vez más visibles del pueblo gitano: \"Tú vales, tú puedes, tú lo logras\" - Enfoque Zamora",
-      "url": "https://enfoquezamora.com/2026/11/19/la-seguridad-adquirida-por-juan-el-esfuerzo-con-premio-de-emilio-y-los-perfiles-cada-vez-mas-visibles-del-pueblo-gitano-tu-vales-tu-puedes-tu-lo-logras/",
-      "source": "Enfoque Zamora",
-      "snippet": "La seguridad adquirida por Juan, el esfuerzo con premio de Emilio y los perfiles cada vez más visibles del pueblo gitano: \"Tú vales, tú puedes, tú lo logras\" Enfoque Zamora",
-      "published": "Thu, 19 Nov 2026 07:13:08 GMT",
-      "lang": "es",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Reeditado ‘El toreo gitano’ de Sureda: la intuición mágica frente a la razón lógica - EFE - Agencia de noticias",
-      "url": "https://efe.com/andalucia/2026-11-19/reeditado-el-toreo-gitano-de-sureda-la-intuicion-magica-frente-a-la-razon-logica/",
-      "source": "EFE - Agencia de noticias",
-      "snippet": "Reeditado ‘El toreo gitano’ de Sureda: la intuición mágica frente a la razón lógica EFE - Agencia de noticias",
-      "published": "Thu, 19 Nov 2026 06:21:19 GMT",
-      "lang": "es",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "La comunidad gitana de Zamora celebra sus éxitos educativos: “Sin perder la identidad se puede ser lo que quieras ser” - Zamora24horas",
-      "url": "https://www.zamora24horas.com/local/comunidad-gitana-zamora-celebra-exitos-educativos-sin-perder-identidad-puede-ser-quieras-ser",
-      "source": "Zamora24horas",
-      "snippet": "La comunidad gitana de Zamora celebra sus éxitos educativos: “Sin perder la identidad se puede ser lo que quieras ser” Zamora24horas",
-      "published": "Thu, 19 Nov 2026 05:08:00 GMT",
-      "lang": "es",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Los ‘primos’ de Kali Yag, la asociación que lucha contra la marginación infantil en La Coma a través de la cultura gitana: \"No tenemos la opción de ser payos, por eso deben conocer su herencia\" - Levante-EMV",
-      "url": "https://www.levante-emv.com/horta/2026/11/19/primos-kali-yag-asociacion-lucha-marginacion-infantil-cultura-gitana-136571645.html",
-      "source": "Levante-EMV",
-      "snippet": "Los ‘primos’ de Kali Yag, la asociación que lucha contra la marginación infantil en La Coma a través de la cultura gitana: \"No tenemos la opción de ser payos, por eso deben conocer su herencia\" Levante-EMV",
-      "published": "Thu, 19 Nov 2026 04:30:16 GMT",
-      "lang": "es",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Granada celebra el Día Andaluz del Pueblo Gitano con flamenco y un homenaje al papel de las mujeres en el arte - Motril Digital",
-      "url": "https://www.motrildigital.news/granada-celebra-el-dia-andaluz-del-pueblo-gitano-con-flamenco-y-un-homenaje-al-papel-de-las-mujeres-en-el-arte",
-      "source": "Motril Digital",
-      "snippet": "Granada celebra el Día Andaluz del Pueblo Gitano con flamenco y un homenaje al papel de las mujeres en el arte Motril Digital",
-      "published": "Wed, 18 Nov 2026 18:55:21 GMT",
-      "lang": "es",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Cayetano Martínez de Irujo repasa sus años en Los Gitanos y su infancia - 101tv Sevilla",
-      "url": "https://101tvsevilla.es/cayetano-martinez-de-irujo-repasa-sus-anos-en-los-gitanos-y-su-infancia/",
-      "source": "101tv Sevilla",
-      "snippet": "Cayetano Martínez de Irujo repasa sus años en Los Gitanos y su infancia 101tv Sevilla",
-      "published": "Thu, 19 Nov 2026 04:29:47 GMT",
-      "lang": "es",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Este viernes se celebra el Día Andaluz del Pueblo Gitano con la lectura de un manifiesto y un izado de bandera - Ayuntamiento de San Roque",
-      "url": "https://www.sanroque.app/noticias-1/i/184388/este-viernes-se-celebra-el-dia-andaluz-del-pueblo-gitano-con-la-lectura-de-un-manifiesto-y-un-izado-de-bandera",
-      "source": "Ayuntamiento de San Roque",
-      "snippet": "Este viernes se celebra el Día Andaluz del Pueblo Gitano con la lectura de un manifiesto y un izado de bandera Ayuntamiento de San Roque",
-      "published": "Wed, 18 Nov 2026 09:11:32 GMT",
-      "lang": "es",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Montceau – 110 actions, sans oublier la vitesse, les caméras et les gens du voyage - L'infoRmateur de Bourgogne",
-      "url": "https://linformateurdebourgogne.com/montceau-110-actions-sans-oublier-la-vitesse-les-cameras-et-les-gens-du-voyage/",
-      "source": "L'infoRmateur de Bourgogne",
-      "snippet": "Montceau – 110 actions, sans oublier la vitesse, les caméras et les gens du voyage L'infoRmateur de Bourgogne",
-      "published": "Thu, 19 Nov 2026 04:42:17 GMT",
-      "lang": "fr",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Was heißt hier Minderheit? - Landeshauptstadt Saarbrücken",
-      "url": "https://www.saarbruecken.de/fr/se_divertir/manifestations/manifestations_d_tail/event-6ab24171695bb/date-898938",
-      "source": "Landeshauptstadt Saarbrücken",
-      "snippet": "Was heißt hier Minderheit? Landeshauptstadt Saarbrücken",
-      "published": "Wed, 18 Nov 2026 13:09:48 GMT",
-      "lang": "de",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "ZINEP LISA 2026 - САМО ТУТ МАНГАВА 2027 РОМСКИ ХИТ ( Video ) - YouTube",
-      "url": "https://youtu.be/f8oIs0i6_sY?feature=shared",
-      "source": "YouTube",
-      "snippet": "ZINEP LISA 2026 - САМО ТУТ МАНГАВА 2027 РОМСКИ ХИТ ( Video ) YouTube",
-      "published": "Tue, 17 Nov 2026 22:26:51 GMT",
-      "lang": "bg",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Ξέσπασε ο Μαρίν για τα «γύφτοι» που φώναζαν στο Βοσνία - Ρουμανία: «Μας έχουν συμπεριφερθεί ξανά με αυτόν τον τρόπο εδώ» - Agones",
-      "url": "https://agones.gr/news/141278/marin_gia_ta_ratsistika_synthimata_mas_echoun_symperiferthei_xana_me_afton_ton_tropo_sti_vosnia",
-      "source": "Agones",
-      "snippet": "Ξέσπασε ο Μαρίν για τα «γύφτοι» που φώναζαν στο Βοσνία - Ρουμανία: «Μας έχουν συμπεριφερθεί ξανά με αυτόν τον τρόπο εδώ» Agones",
-      "published": "Wed, 18 Nov 2026 10:45:41 GMT",
-      "lang": "el",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Program tv dla Ojciec Mateusz 3 , sezon 3, odc. 33 - Pilot WP",
-      "url": "https://pilot.wp.pl/program-tv/serial/ojciec-mateusz-3-f1e1f17b5d1c2fdbcb3967a8497fef5d",
-      "source": "Pilot WP",
-      "snippet": "Program tv dla Ojciec Mateusz 3 , sezon 3, odc. 33 Pilot WP",
-      "published": "Thu, 19 Nov 2026 01:56:37 GMT",
-      "lang": "pl",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Baralho cigano: veja as previsões para os 12 signos de 16 a 22 de novembro de 2026 - Tribuna Online",
-      "url": "https://tribunaonline.com.br/pe/entretenimento/astrologia/baralho-cigano-veja-as-previsoes-para-os-12-signos-de-16-a-22-de-novembro-de-2026/",
-      "source": "Tribuna Online",
-      "snippet": "Baralho cigano: veja as previsões para os 12 signos de 16 a 22 de novembro de 2026 Tribuna Online",
-      "published": "Wed, 18 Nov 2026 21:52:00 GMT",
-      "lang": "pt",
-      "collected_utc": "2026-11-19T07:42:49+00:00"
-    },
-    {
-      "title": "Eviction",
-      "url": "https://rroma.org/eviction/?utm_source=rss&utm_medium=rss&utm_campaign=eviction",
-      "source": "https://rroma.org/feed/",
-      "snippet": "A Roma camp in Schaerbeek, Brussels, housing around sixty individuals, including young children, has been dismantled due to concerns from […]",
-      "published": "Wed, 18 Nov 2026 12:55:04 +0000",
-      "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Sexual Abuse?",
-      "url": "https://rroma.org/sexual-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=sexual-abuse",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Serious allegations of sexual harassment against Roma children have emerged at a school in Novo mesto, prompting police investigations and […]",
-      "published": "Wed, 18 Nov 2026 12:51:30 +0000",
-      "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Relocation",
-      "url": "https://rroma.org/relocation-8/?utm_source=rss&utm_medium=rss&utm_campaign=relocation-8",
-      "source": "https://rroma.org/feed/",
-      "snippet": "The article discusses the relocation of Roma communities in Neapolis, Greece, to organized settlements with proper infrastructure, coordinated by the […]",
-      "published": "Wed, 18 Nov 2026 12:49:55 +0000",
-      "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Roma in Serbia – 2",
-      "url": "https://rroma.org/roma-in-serbia-2-2/?utm_source=rss&utm_medium=rss&utm_campaign=roma-in-serbia-2-2",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Another article on the r4ecent survey in Serbia. In Serbia, only 319 Roma are employed in the public sector, and […]",
-      "published": "Wed, 18 Nov 2026 12:49:03 +0000",
-      "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Roma in Serbia",
-      "url": "https://rroma.org/roma-in-serbia-12/?utm_source=rss&utm_medium=rss&utm_campaign=roma-in-serbia-12",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Accodring to the articles, despite 85.4% of Roma children enrolling in primary school, employment rates among Roma remain critically low […]",
-      "published": "Wed, 18 Nov 2026 12:47:57 +0000",
-      "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Racism in Football",
-      "url": "https://rroma.org/racism-in-football/?utm_source=rss&utm_medium=rss&utm_campaign=racism-in-football",
-      "source": "https://rroma.org/feed/",
-      "snippet": "Romania lost 2-1 to Bosnia and Hercegovina. But the match needed to be interrupted after Bosnian fas chanted “Gypsies, Gypsies!”. […]",
-      "published": "Wed, 18 Nov 2026 12:46:47 +0000",
-      "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Leskovac usvojio akcione planove za Rome, ali za njih nema novca u budžetu za 2027.",
-      "url": "https://rominfomedia.rs/2026/11/18/leskovac-usvojio-akcione-planove-za-rome-ali-za-njih-nema-novca-u-budzetu-za-2027/",
-      "source": "https://rominfomedia.rs/feed/",
-      "snippet": "Iako je Skupština grada Leskovca ove godine usvojila Lokalne akcione planove za unapređenje položaja Roma i Romkinja, u predlogu budžeta za 2027. godinu nisu posebno opredeljena sredstva za njihovu realizaciju. Planovi postoje na papiru, ali bez budžetskog pokrića ostaje nejasno kako će i kada biti ",
-      "published": "Wed, 18 Nov 2026 15:18:15 +0000",
-      "lang": "sr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Balić: Romsku politiku razorili trgovina glasovima i kvazi-lideri (VIDEO)",
-      "url": "https://rominfomedia.rs/2026/11/18/balic-romsku-politiku-razorili-trgovina-glasovima-i-kvazi-lideri-video/",
-      "source": "https://rominfomedia.rs/feed/",
-      "snippet": "Predsednik YUROM centra iz Niša Osman Balić ocenjuje da su romski politički predstavnici tokom prethodnih decenija kompromitovali politički položaj zajednice, zbog čega danas nema Roma ni na poslaničkoj listi studentskog pokreta. Poziva na stvaranje nove romske političke partije, bez ljudi opterećen",
-      "published": "Wed, 18 Nov 2026 14:42:52 +0000",
-      "lang": "sr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "U četvrtak bez struje Bratmilovce, Nomanica, Zloćudovo, Badince, Mrštane i deo Donjeg Guberevca",
-      "url": "https://rominfomedia.rs/2026/11/18/u-cetvrtak-bez-struje-bratmilovce-nomanica-zlocudovo-badince-mrstane-i-deo-donjeg-guberevca/",
-      "source": "https://rominfomedia.rs/feed/",
-      "snippet": "Zbog planiranih radova na elektroenergetskoj mreži, u četvrtak, 19. novembra, doći će do privremenih isključenja električne energije u više mesta na području Leskovca, saopštila je Elektrodistribucija Srbije. U periodu od 9 do 10 časova bez električne energije biće korisnici u Bratmilovcu, Nomanici,",
-      "published": "Wed, 18 Nov 2026 13:42:20 +0000",
-      "lang": "sr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Bez saobraćajnih nezgoda u Leskovcu, policija upozorava na maglu i klizave puteve",
-      "url": "https://rominfomedia.rs/2026/11/18/bez-saobracajnih-nezgoda-u-leskovcu-policija-upozorava-na-maglu-i-klizave-puteve/",
-      "source": "https://rominfomedia.rs/feed/",
-      "snippet": "Na području Policijske uprave u Leskovcu tokom prethodnog dana nije bilo registrovanih saobraćajnih nezgoda, saopšteno je iz policije. Ipak, zbog magle, niskih temperatura i klizavih kolovoza, Ministarstvo unutrašnjih poslova apeluje na vozače da budu posebno oprezni, naročito tokom jutarnjih časova",
-      "published": "Wed, 18 Nov 2026 13:34:41 +0000",
-      "lang": "sr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Isplate iz budžeta Grada Leskovca",
-      "url": "https://rominfomedia.rs/2026/11/18/isplate-iz-budzeta-grada-leskovca-117/",
-      "source": "https://rominfomedia.rs/feed/",
-      "snippet": "Iz budžeta Grada Leskovca isplaćeno je danas 12.909.067 dinara. Ukupno 11.987.350 dinara opredeljeno je za sufinansiranje troškova boravka dece u privatnim vrtićima i to za: Za subvencionisanje neinvazivnih prenatalnih testova za 13 trudnica izdvojeno je 260.000 dinara. Isplaćeno je i 240.000 dinara",
-      "published": "Wed, 18 Nov 2026 13:27:35 +0000",
-      "lang": "sr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Z Luníka IX rovno do praxe. dm otvára dvere aj mladým Rómom - Roma Television",
-      "url": "https://romatv.sk/slovensko/z-lun%C3%ADka-ix-rovno-do-praxe-dm-otv%C3%A1ra-dvere-aj-mlad%C3%BDm-r%C3%B3mom/1401216",
-      "source": "Roma Television",
-      "snippet": "Z Luníka IX rovno do praxe. dm otvára dvere aj mladým Rómom Roma Television",
-      "published": "Wed, 18 Nov 2026 15:40:00 GMT",
+      "title": "Zomrel Róbert Botoš známy ako rómsky kráľ Róbert I. z Košíc. Aká bola jeho korunovácia? - Aktuality",
+      "url": "https://www.aktuality.sk/video/z3gaYCM/robert-botos-znamy-ako-romsky-kral-odisiel-vo-veku-54-rokov-po-operacii-a-vaznych-komplikaciach/?jw_start={seek_to_second_number}",
+      "source": "Aktuality",
+      "snippet": "Zomrel Róbert Botoš známy ako rómsky kráľ Róbert I. z Košíc. Aká bola jeho korunovácia? Aktuality",
+      "published": "Thu, 19 Nov 2026 10:33:55 GMT",
       "lang": "sk",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Hlasujte dnes za Nikolasa a Adama! Potrebujú každý váš SMS hlas - Roma Television",
-      "url": "https://romatv.sk/zaujimavosti/hlasujte-za-nikolasa-a-adama-potrebuj%C3%BA-ka%C5%BEd%C3%BD-v%C3%A1%C5%A1-sms-hlas/1401217",
-      "source": "Roma Television",
-      "snippet": "Hlasujte dnes za Nikolasa a Adama! Potrebujú každý váš SMS hlas Roma Television",
-      "published": "Wed, 18 Nov 2026 18:07:24 GMT",
-      "lang": "sk",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Chcem Vás poprosiť, bez ohľadu na to, ktorú politickú stranu volíte. Či ste liberáli, či ste konzervatívci, či ste Slováci, Maďari, Rusíni alebo Rómovia. Či ste homosexuáli alebo heterosexuáli, je to úplne jedno. Prosím, spojme sa a pošlime už toho Fica kade ľahši - Facebook",
-      "url": "https://www.facebook.com/JaroNadPublic/videos/chcem-v%C3%A1s-poprosi%C5%A5-bez-oh%C4%BEadu-na-to-ktor%C3%BA-politick%C3%BA-stranu-vol%C3%ADte-%C4%8Di-ste-liber%C3%A1l/1506008748051126/",
-      "source": "Facebook",
-      "snippet": "Chcem Vás poprosiť, bez ohľadu na to, ktorú politickú stranu volíte. Či ste liberáli, či ste konzervatívci, či ste Slováci, Maďari, Rusíni alebo Rómovia. Či ste homosexuáli alebo heterosexuáli, je to úplne jedno. Prosím, spojme sa a pošlime už toho Fica kade ľahši Facebook",
-      "published": "Wed, 18 Nov 2026 13:15:00 GMT",
-      "lang": "sk",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Rómska osada inými očami | Mladé dievča fotilo v osade. Zachytilo skrytú krásu - tnlive.sk",
-      "url": "https://tnlive.sk/domace/galeria/2098-mlade-dievca-fotilo-v-osade-zachytilo-skrytu-krasu/4248e458-a504-4f1b-861b-e84d99799df7",
-      "source": "tnlive.sk",
-      "snippet": "Rómska osada inými očami | Mladé dievča fotilo v osade. Zachytilo skrytú krásu tnlive.sk",
-      "published": "Wed, 18 Nov 2026 16:14:03 GMT",
-      "lang": "sk",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Ponúkajú ich aj za granule, predávajú množiarňam aj laboratóriám. Psy vyrastajú v desivých podmienkach - TNLIVE.sk",
-      "url": "https://tnlive.sk/domace/clanok/1063656-ponukaju-ich-aj-za-granule-predavaju-mnoziarnam-aj-laboratoriam-psy-vyrastaju-v-desivych-podmienkach",
-      "source": "TNLIVE.sk",
-      "snippet": "Ponúkajú ich aj za granule, predávajú množiarňam aj laboratóriám. Psy vyrastajú v desivých podmienkach TNLIVE.sk",
-      "published": "Wed, 18 Nov 2026 23:01:00 GMT",
-      "lang": "sk",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
       "title": "Na pozemok chcú presťahovať rómsku osadu. „Cez moju mŕtvolu,“ odkazuje majiteľ - tnlive.sk",
-      "url": "https://www.tvnoviny.sk/domace/clanok/1063696-na-pozemok-chcu-prestahovat-romsku-osadu-cez-moju-mrtvolu-odkazuje-majitel",
+      "url": "https://tnlive.sk/domace/clanok/1063696-na-pozemok-chcu-prestahovat-romsku-osadu-cez-moju-mrtvolu-odkazuje-majitel",
       "source": "tnlive.sk",
       "snippet": "Na pozemok chcú presťahovať rómsku osadu. „Cez moju mŕtvolu,“ odkazuje majiteľ tnlive.sk",
-      "published": "Wed, 18 Nov 2026 18:28:00 GMT",
+      "published": "Fri, 20 Nov 2026 01:30:01 GMT",
       "lang": "sk",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "SMC Opera Theatre to present ‘Songs of Travelers’ Nov. 20 - Santa Monica Daily Press",
-      "url": "https://www.smdp.com/smc-opera-theatre-to-present-songs-of-travelers-nov-20/",
-      "source": "Santa Monica Daily Press",
-      "snippet": "SMC Opera Theatre to present ‘Songs of Travelers’ Nov. 20 Santa Monica Daily Press",
-      "published": "Wed, 18 Nov 2026 19:03:11 GMT",
+      "title": "Integrácia Rómov by vyriešila časť problémov slovenského trhu práce - fotogaléria 1 - Aktuality",
+      "url": "https://www.aktuality.sk/foto/o8d6afc/integracia-romov-by-vyriesila-cast-problemov-slovenskeho-trhu-prace/1/detail/",
+      "source": "Aktuality",
+      "snippet": "Integrácia Rómov by vyriešila časť problémov slovenského trhu práce - fotogaléria 1 Aktuality",
+      "published": "Wed, 18 Nov 2026 23:16:56 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Komisár Rady Európy otvorí v Bratislave výstavu Nepočutých 12 miliónov - Bleskovky",
+      "url": "https://bleskovky.zoznam.sk/cl/1005001/9559109/Komisar-rady-europy-otvori-v-bratislave-vystavu-nepocutych-12-milionov",
+      "source": "Bleskovky",
+      "snippet": "Komisár Rady Európy otvorí v Bratislave výstavu Nepočutých 12 miliónov Bleskovky",
+      "published": "Thu, 19 Nov 2026 09:03:49 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Thurman Named to SEC Community Service Team - SWARK Today",
+      "url": "https://swark.today/articles/thurman-named-to-sec-community-service-team",
+      "source": "SWARK Today",
+      "snippet": "Thurman Named to SEC Community Service Team SWARK Today",
+      "published": "Thu, 19 Nov 2026 20:26:30 GMT",
       "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "China’s Jetour to start Brazil car production in 2027, plans $69 million investment - WNWN-FM",
-      "url": "https://wincountry.com/2026/11/18/chinas-jetour-to-start-brazil-car-production-in-2027-plans-69-million-investment/",
-      "source": "WNWN-FM",
-      "snippet": "China’s Jetour to start Brazil car production in 2027, plans $69 million investment WNWN-FM",
-      "published": "Thu, 19 Nov 2026 00:19:32 GMT",
+      "title": "Canucks Prospect Wilson Björk Is Quietly Making A Name For Himself - The Hockey News",
+      "url": "https://thehockeynews.com/nhl/vancouver-canucks/players/canucks-prospect-wilson-bjork-is-quietly-making-a-name-for-himself",
+      "source": "The Hockey News",
+      "snippet": "Canucks Prospect Wilson Björk Is Quietly Making A Name For Himself The Hockey News",
+      "published": "Thu, 19 Nov 2026 17:00:52 GMT",
       "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Penn State faces criticism over 'decolonizing' Holocaust museums - The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-915352",
-      "source": "The Jerusalem Post",
-      "snippet": "Penn State faces criticism over 'decolonizing' Holocaust museums The Jerusalem Post",
-      "published": "Wed, 18 Nov 2026 17:39:18 GMT",
+      "title": "30th Made in Prague Festival 2026: Only Beautiful Things To Look At - The Reviews Hub",
+      "url": "https://www.thereviewshub.com/30th-made-in-prague-festival-2026-only-beautiful-things-to-look-at/",
+      "source": "The Reviews Hub",
+      "snippet": "30th Made in Prague Festival 2026: Only Beautiful Things To Look At The Reviews Hub",
+      "published": "Thu, 19 Nov 2026 17:43:49 GMT",
       "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Government launches new support program for Roma education and employment - Radio Moldova",
-      "url": "https://radiomoldova.md/p/90040/government-launches-new-support-program-for-roma-education-and-employment",
-      "source": "Radio Moldova",
-      "snippet": "Government launches new support program for Roma education and employment Radio Moldova",
-      "published": "Wed, 18 Nov 2026 18:04:25 GMT",
+      "title": "Cook Islands declares state of emergency for Nassau as Cyclone Xavier approaches - RNZ",
+      "url": "https://www.rnz.co.nz/news/pacific/2705528/cook-islands-declares-state-of-emergency-for-nassau-as-cyclone-xavier-approaches",
+      "source": "RNZ",
+      "snippet": "Cook Islands declares state of emergency for Nassau as Cyclone Xavier approaches RNZ",
+      "published": "Thu, 19 Nov 2026 22:40:17 GMT",
       "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "58 million lei program to support the Roma community for four years - Moldova 1",
-      "url": "https://moldova1.md/p/90571/58-million-lei-program-to-support-the-roma-community-for-four-years",
-      "source": "Moldova 1",
-      "snippet": "58 million lei program to support the Roma community for four years Moldova 1",
-      "published": "Wed, 18 Nov 2026 17:12:01 GMT",
-      "lang": "en",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Horváth Aladár a roma közgyűjteményekről: ha nem vigyázunk, nyom nélkül tűnik el a romák Magyarországa - | hvg.hu",
-      "url": "https://hvg.hu/360/20261118_horvath-aladar-a-roma-kozgyujtemenyekrol-velemeny",
-      "source": "| hvg.hu",
-      "snippet": "Horváth Aladár a roma közgyűjteményekről: ha nem vigyázunk, nyom nélkül tűnik el a romák Magyarországa | hvg.hu",
-      "published": "Wed, 18 Nov 2026 12:25:29 GMT",
+      "title": "Az Egyház küldetése, hogy mindenkinek otthont adjon – Webinárium a romák lelkipásztori gondozásáról - Magyar Kurír",
+      "url": "https://www.magyarkurir.hu/hirek/az-egyhaz-kuldetese-hogy-mindenkinek-otthont-adjon-webinarium-romak-lelkipasztori-gondozasarol",
+      "source": "Magyar Kurír",
+      "snippet": "Az Egyház küldetése, hogy mindenkinek otthont adjon – Webinárium a romák lelkipásztori gondozásáról Magyar Kurír",
+      "published": "Thu, 19 Nov 2026 15:03:40 GMT",
       "lang": "hu",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Ki képviselheti szabadon a romákat? - magyarnarancs.hu",
-      "url": "https://magyarnarancs.hu/publicisztika/ki-kepviselheti-szabadon-a-romakat-280627",
-      "source": "magyarnarancs.hu",
-      "snippet": "Ki képviselheti szabadon a romákat? magyarnarancs.hu",
-      "published": "Wed, 18 Nov 2026 20:00:00 GMT",
+      "title": "Civil részvételi kitüntetést kapott a csíksomlyói romák befogadását segítő Right Egyesület - Transtelex",
+      "url": "https://transtelex.ro/kozelet/2026/11/19/civil-reszveteli-kituntetest-kapott-a-csiksomlyoi-romak-befogadasat-segito-szocialis-varroda",
+      "source": "Transtelex",
+      "snippet": "Civil részvételi kitüntetést kapott a csíksomlyói romák befogadását segítő Right Egyesület Transtelex",
+      "published": "Thu, 19 Nov 2026 10:48:49 GMT",
       "lang": "hu",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Papusza (Babácska) – monodráma Tatabányán Danis Lídia előadásában - Fidelio.hu",
-      "url": "https://fidelio.hu/szinhaz/papusza-babacska-monodrama-tatabanyan-danis-lidia-eloadasaban-186359.html",
-      "source": "Fidelio.hu",
-      "snippet": "Papusza (Babácska) – monodráma Tatabányán Danis Lídia előadásában Fidelio.hu",
-      "published": "Wed, 18 Nov 2026 16:25:06 GMT",
+      "title": "A magyarokat éltető rigmussal hergelték a román szurkolókat - Bihari Napló",
+      "url": "https://biharinaplo.ro/cikk/sport/a-magyarokat-elteto-rigmussal-hergeltek-a-roman-szurkolokat-133586",
+      "source": "Bihari Napló",
+      "snippet": "A magyarokat éltető rigmussal hergelték a román szurkolókat Bihari Napló",
+      "published": "Thu, 19 Nov 2026 12:36:11 GMT",
       "lang": "hu",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Új korszak kezdődik a társadalmi esélyteremtésben – átalakul a TEF - Magyarország Kormánya",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2ZKYk1FcVBxSk9UN21pU2lzdl9sWFpGTlB4Rk1tc2JWUzh5b0xpRjVzX0ZlanZEdV9kOUxOZ2NPSjNCalZTVEUycnd5bmlHMGxXVWtBS0h0ZzhwMTkxbTRVcXJKUUZXZVdRdHpuR1dqelpVQVV3ZTdoR3BXV1M2eTNlUWFncjVMb3dhR3dYRUR5cm5mZEtkNFFrY3RqdU83VHAwb3o3TkxNd0V6aWdaU01CSzJucE8xOTdfSVdiNDZfM0t1UloyZ28xS0JtY3I0N0JJ?oc=5",
-      "source": "Magyarország Kormánya",
-      "snippet": "Új korszak kezdődik a társadalmi esélyteremtésben – átalakul a TEF Magyarország Kormánya",
-      "published": "Wed, 18 Nov 2026 11:56:22 GMT",
-      "lang": "hu",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "PRIVÁT KOPÓ bűnügyi magazin - Privát Kopó",
-      "url": "https://www.privatkopo.info/WebArticleShow.aspx?AGM=Hirmix&MN=Hirmix&AN=borotvavalraboltakki&LN=hungarian",
-      "source": "Privát Kopó",
-      "snippet": "PRIVÁT KOPÓ bűnügyi magazin Privát Kopó",
-      "published": "Tue, 17 Nov 2026 10:16:06 GMT",
-      "lang": "hu",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Szögesdrót a vadkeleten: a Betyárseregben bíznak a helyiek Hosszúpályiban - Hírstart",
-      "url": "https://www.hirstart.hu/hk/20261118_hosszupalyiban_sem_birnak_magukkal_a_ciganyok_kovel_es_sorosuveggel_dobaljak_a_magyarokat",
-      "source": "Hírstart",
-      "snippet": "Szögesdrót a vadkeleten: a Betyárseregben bíznak a helyiek Hosszúpályiban Hírstart",
-      "published": "Wed, 18 Nov 2026 10:12:05 GMT",
-      "lang": "hu",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "NL: a románok a bennmaradásért, a magyarok a feljutásért játszhatnak osztályozót - Maszol",
-      "url": "https://maszol.ro/sport/NL-a-romanok-a-bennmaradasert-a-magyarok-a-feljutasert-jatszhatnak-osztalyozot",
-      "source": "Maszol",
-      "snippet": "NL: a románok a bennmaradásért, a magyarok a feljutásért játszhatnak osztályozót Maszol",
-      "published": "Wed, 18 Nov 2026 07:49:00 GMT",
-      "lang": "hu",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "O listă cu politicieni italieni „anti-ucraineni” stârnește reacții dure la Roma. Italia cere explicaţii... - Digi24",
-      "url": "https://www.digi24.ro/stiri/externe/o-lista-cu-politicieni-italieni-anti-ucraineni-starneste-reactii-dure-la-roma-italia-cere-explicatii-ucrainei-4042899",
-      "source": "Digi24",
-      "snippet": "O listă cu politicieni italieni „anti-ucraineni” stârnește reacții dure la Roma. Italia cere explicaţii... Digi24",
-      "published": "Wed, 18 Nov 2026 20:06:29 GMT",
+      "title": "„Minuni uimitoare” ajunge la Forte Trionfale din Roma: arta întâlnește tehnologia. - Agenzia Nova",
+      "url": "https://www.agenzianova.com/ro/news/Expozi%C8%9Bia-Amazing-Wonders-ajunge-la-Fortul-Triumfal-din-Roma%3A-arta-%C3%AEnt%C3%A2lne%C8%99te-tehnologia/",
+      "source": "Agenzia Nova",
+      "snippet": "„Minuni uimitoare” ajunge la Forte Trionfale din Roma: arta întâlnește tehnologia. Agenzia Nova",
+      "published": "Thu, 19 Nov 2026 19:00:35 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Program de 58 de milioane de lei pentru susținerea comunității rome în următorii patru ani - Moldova 1",
-      "url": "https://moldova1.md/p/90546/program-de-58-de-milioane-de-lei-pentru-sustinerea-comunitatii-rome-in-urmatorii-patru-ani",
-      "source": "Moldova 1",
-      "snippet": "Program de 58 de milioane de lei pentru susținerea comunității rome în următorii patru ani Moldova 1",
-      "published": "Wed, 18 Nov 2026 13:30:48 GMT",
+      "title": "Italia împărțită. Palme d’Or-ul lui Mungiu, lăudat de unii critici, desființat de alții - Mediafax",
+      "url": "https://www.mediafax.ro/it/italia-impartita-palme-dor-ul-lui-mungiu-laudat-de-unii-critici-desfiintat-de-altii-5665/amp",
+      "source": "Mediafax",
+      "snippet": "Italia împărțită. Palme d’Or-ul lui Mungiu, lăudat de unii critici, desființat de alții Mediafax",
+      "published": "Thu, 19 Nov 2026 08:05:40 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "A fost aprobat Programul pentru susținerea populației de etnie romă din Moldova. Care sunt principalele obiective ale proiectului - Diez.md",
-      "url": "https://diez.md/2026/11/18/a-fost-aprobat-programul-pentru-sustinerea-populatiei-de-etnie-roma-din-moldova-care-sunt-principalele-obiective-ale-proiectului/",
-      "source": "Diez.md",
-      "snippet": "A fost aprobat Programul pentru susținerea populației de etnie romă din Moldova. Care sunt principalele obiective ale proiectului Diez.md",
-      "published": "Wed, 18 Nov 2026 11:26:43 GMT",
+      "title": "Roma cere socoteală Kievului după ce eurodeputaţii din Mișcarea 5 Stele au ajuns pe o listă a „inamicilor Ucrainei” - Antena 3",
+      "url": "https://www.antena3.ro/externe/roma-cere-socoteala-kievului-dupa-ce-eurodeputatii-din-miscarea-5-stele-au-ajuns-pe-o-lista-a-inamicilor-ucrainei-811743.html",
+      "source": "Antena 3",
+      "snippet": "Roma cere socoteală Kievului după ce eurodeputaţii din Mișcarea 5 Stele au ajuns pe o listă a „inamicilor Ucrainei” Antena 3",
+      "published": "Wed, 18 Nov 2026 20:32:32 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "CSȘ Blaj, lider la Under 17, volei masculin | Victorii pe linie, la Bistrița, pentru formația lui Alexandru Man - Ziarul Unirea",
-      "url": "https://ziarulunirea.ro/css-blaj-lider-la-under-17-volei-masculin-victorii-pe-linie-la-bistrita-pentru-formatia-lui-alexandru-man-1020114/",
-      "source": "Ziarul Unirea",
-      "snippet": "CSȘ Blaj, lider la Under 17, volei masculin | Victorii pe linie, la Bistrița, pentru formația lui Alexandru Man Ziarul Unirea",
-      "published": "Wed, 18 Nov 2026 07:49:37 GMT",
+      "title": "Colindul care ne unește: Arhiepiscopia Iașilor va organiza un concert caritabil cu tematică inspirată de steaua de la Betleem - Basilica.ro",
+      "url": "https://basilica.ro/arhiepiscopia-iasilor-concert-caritabil-nasterea-domnului",
+      "source": "Basilica.ro",
+      "snippet": "Colindul care ne unește: Arhiepiscopia Iașilor va organiza un concert caritabil cu tematică inspirată de steaua de la Betleem Basilica.ro",
+      "published": "Thu, 19 Nov 2026 10:08:32 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Gipsy Kings by André Reyes concertează la Sala Palatului în martie 2027 - InfoMusic",
-      "url": "https://www.infomusic.ro/2026/11/gipsy-kings-by-andre-reyes-concerteaza-la-sala-palatului-2027/",
-      "source": "InfoMusic",
-      "snippet": "Gipsy Kings by André Reyes concertează la Sala Palatului în martie 2027 InfoMusic",
-      "published": "Wed, 18 Nov 2026 09:30:11 GMT",
+      "title": "Prefectul Andronachi vrea identificarea unor lideri ai comunităților de romi care se bucură de respect și autoritate pentru a deveni un liant între cetățeni și instituțiile publice (foto) - Suceava News Online",
+      "url": "https://www.svnews.ro/prefectul-andronachi-vrea-identificarea-unor-lideri-ai-comunitatilor-de-romi-care-se-bucura-de-respect-si-autoritate-pentru-a-deveni-un-liant-intre-cetateni-si-institutiile-publice-foto/574963/",
+      "source": "Suceava News Online",
+      "snippet": "Prefectul Andronachi vrea identificarea unor lideri ai comunităților de romi care se bucură de respect și autoritate pentru a deveni un liant între cetățeni și instituțiile publice (foto) Suceava News Online",
+      "published": "Thu, 19 Nov 2026 14:31:06 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Susținerea comunității rome: Guvernul a aprobat un program de 58 de milioane de lei - Stiri.md",
-      "url": "https://stiri.md/article/social/sustinerea-comunitatii-rome-guvernul-a-aprobat-un-program-de-58-de-milioane-de-lei",
-      "source": "Stiri.md",
-      "snippet": "Susținerea comunității rome: Guvernul a aprobat un program de 58 de milioane de lei Stiri.md",
-      "published": "Wed, 18 Nov 2026 19:53:50 GMT",
+      "title": "Actele de proprietate și accesul copiilor la educație, discutate cu reprezentanții comunităților de romi din Suceava - RADIO TOP 91 SRL",
+      "url": "https://www.radiotop.ro/administratie/actele-de-proprietate-si-accesul-copiilor-la-educatie-discutate-cu-reprezentantii-comunitatilor-de-romi-din-suceava.html",
+      "source": "RADIO TOP 91 SRL",
+      "snippet": "Actele de proprietate și accesul copiilor la educație, discutate cu reprezentanții comunităților de romi din Suceava RADIO TOP 91 SRL",
+      "published": "Thu, 19 Nov 2026 15:32:38 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Tineri ROMI pentru ROMÂNIA - iasitvlife.ro",
-      "url": "https://iasitvlife.ro/emisiuni/tineri-romi-pentru-romania/",
-      "source": "iasitvlife.ro",
-      "snippet": "Tineri ROMI pentru ROMÂNIA iasitvlife.ro",
-      "published": "Wed, 18 Nov 2026 11:03:24 GMT",
+      "title": "Prefectul Traian Andronachi cere o colaborare mai strânsă între autorități și comunitățile de romi din județul Suceava - Ducatul Bukowina",
+      "url": "https://ducatulbukowina.ro/prefectul-traian-andronachi-cere-o-colaborare-mai-stransa-intre-autoritati-si-comunitatile-de-romi-din-judetul-suceava/",
+      "source": "Ducatul Bukowina",
+      "snippet": "Prefectul Traian Andronachi cere o colaborare mai strânsă între autorități și comunitățile de romi din județul Suceava Ducatul Bukowina",
+      "published": "Thu, 19 Nov 2026 12:08:41 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Malen a atras atenția giganților europeni, Roma vrea să-l păstreze la Olimpico cu un nou contract - Слободен печат",
-      "url": "https://www.slobodenpecat.mk/ro/malen-go-privleche-vnimanieto-na-evropskite-giganti-roma-saka-da-go-zadrzhi-na-olimpiko-so-nov-dogovor/",
-      "source": "Слободен печат",
-      "snippet": "Malen a atras atenția giganților europeni, Roma vrea să-l păstreze la Olimpico cu un nou contract Слободен печат",
-      "published": "Wed, 18 Nov 2026 19:54:21 GMT",
+      "title": "Iuliana Demetrescu, momente tensionate cu o jucătoare în Champions League! - Fanatik.ro",
+      "url": "https://www.fanatik.ro/iuliana-demetrescu-momente-tensionate-cu-o-jucatoare-in-champions-league-21595711",
+      "source": "Fanatik.ro",
+      "snippet": "Iuliana Demetrescu, momente tensionate cu o jucătoare în Champions League! Fanatik.ro",
+      "published": "Thu, 19 Nov 2026 22:30:00 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Dicționarul Cambridge a ales cuvântul anului 2026. E legat de inteligența artificială - Stiri.md",
-      "url": "https://stiri.md/article/international/dictionarul-cambridge-a-ales-cuvantul-anului-2026-e-legat-de-inteligenta-artificiala",
-      "source": "Stiri.md",
-      "snippet": "Dicționarul Cambridge a ales cuvântul anului 2026. E legat de inteligența artificială Stiri.md",
-      "published": "Wed, 18 Nov 2026 23:00:58 GMT",
+      "title": "Celebra Fontana Trevi din Roma ar putea pierde sute de mii de euro - noi.md",
+      "url": "https://noi.md/md/in-lume/celebra-fontana-trevi-din-roma-ar-putea-pierde-sute-de-mii-de-euro?mibextid=tejx2t&prev=1&utm_com=&_gl=1%2Aq2o2me%2A_up%2AMQ..%2A_ga%2AMTkwNTQxNzYyNS4xNzg4MzQyMjc4%2A_ga_49FC0BWBER%2AczE3ODgzNDIyNzgkbzEkZzEkdDE3ODgzNDIyODAkajU4JGwwJGgw%2A_ga_Z3LCQB35MB%2AczE3ODgzNDIyNzgkbzEkZzEkdDE3ODgzNDIyODAkajU4JGwwJGgxMTIwMjg2ODYw",
+      "source": "noi.md",
+      "snippet": "Celebra Fontana Trevi din Roma ar putea pierde sute de mii de euro noi.md",
+      "published": "Thu, 19 Nov 2026 02:00:25 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "O femeie din Los Angeles și-a pus câinele să atace un polițist ca să scape de arest - Stiri.md",
-      "url": "https://stiri.md/article/international/o-femeie-din-los-angeles-si-a-pus-cainele-sa-atace-un-politist-ca-sa-scape-de-arest",
-      "source": "Stiri.md",
-      "snippet": "O femeie din Los Angeles și-a pus câinele să atace un polițist ca să scape de arest Stiri.md",
-      "published": "Wed, 18 Nov 2026 21:03:22 GMT",
+      "title": "O botoșăneancă a spart ușa unui fost sediu de partid și s-a instalat acolo! Primăria solicită evacuarea cu jandarmii - Botosaneanul",
+      "url": "https://www.botosaneanul.ro/index.php/halucinant-o-botosaneanca-a-spart-usa-unui-fost-sediu-de-partid-si-s-a-instalat-acolo-primaria-solicita-evacuarea-cu-jandarmii",
+      "source": "Botosaneanul",
+      "snippet": "O botoșăneancă a spart ușa unui fost sediu de partid și s-a instalat acolo! Primăria solicită evacuarea cu jandarmii Botosaneanul",
+      "published": "Thu, 19 Nov 2026 07:22:21 GMT",
       "lang": "ro",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "La Pastoral Gitana de Sevilla participa en las XXVII Jornadas Nacionales de Pastoral con los Gitanos en Barcelona - Archidiócesis de Sevilla",
-      "url": "https://www.archisevilla.org/la-pastoral-gitana-de-sevilla-participa-en-las-xxvii-jornadas-nacionales-de-pastoral-con-los-gitanos-en-barcelona/",
-      "source": "Archidiócesis de Sevilla",
-      "snippet": "La Pastoral Gitana de Sevilla participa en las XXVII Jornadas Nacionales de Pastoral con los Gitanos en Barcelona Archidiócesis de Sevilla",
-      "published": "Wed, 18 Nov 2026 09:00:59 GMT",
+      "title": "Certificatul de vaccinare pentru călătorii internaţionali nu este susținut de Organizaţia Mondială... - StiriDiaspora",
+      "url": "https://www.stiridiaspora.ro/amp/certificatul-de-vaccinare-pentru-calatorii-internationali-nu-este-sustinut-de-organizatia-mondiala-a-sanatatii_460458.html",
+      "source": "StiriDiaspora",
+      "snippet": "Certificatul de vaccinare pentru călătorii internaţionali nu este susținut de Organizaţia Mondială... StiriDiaspora",
+      "published": "Wed, 18 Nov 2026 16:07:01 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "El Ayuntamiento da difusión a la muestra ‘Mujeres gitanas. Identidades diversas’ en los centros educativos - Ayuntamiento de Jerez",
+      "url": "https://www.jerez.es/el-ayuntamiento-da-difusion-a-la-muestra-mujeres-gitanas-identidades-diversas-en-los-centros-educativos",
+      "source": "Ayuntamiento de Jerez",
+      "snippet": "El Ayuntamiento da difusión a la muestra ‘Mujeres gitanas. Identidades diversas’ en los centros educativos Ayuntamiento de Jerez",
+      "published": "Thu, 19 Nov 2026 17:03:35 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Mercedes Santiago: \"Todavía existe mucho prejuicio, mucho racismo y mucho antigitanismo\" - Cadena SER",
-      "url": "https://cadenaser.com/comunitat-valenciana/2026/11/18/mercedes-santiago-todavia-existe-mucho-prejuicio-mucho-racismo-y-mucho-antigitanismo-radio-valencia/",
-      "source": "Cadena SER",
-      "snippet": "Mercedes Santiago: \"Todavía existe mucho prejuicio, mucho racismo y mucho antigitanismo\" Cadena SER",
-      "published": "Wed, 18 Nov 2026 18:52:19 GMT",
+      "title": "Ángeles Vázquez sitúa la nueva sede de la Fundación Secretariado Gitano como ejemplo del crecimiento y consolidación de su proyecto de inclusión - Xunta de Galicia",
+      "url": "https://www.xunta.gal/es/notas-de-prensa/-/nova/030508/angeles-vazquez-situa-nueva-sede-fundacion-secretariado-gitano-como-ejemplo-del",
+      "source": "Xunta de Galicia",
+      "snippet": "Ángeles Vázquez sitúa la nueva sede de la Fundación Secretariado Gitano como ejemplo del crecimiento y consolidación de su proyecto de inclusión Xunta de Galicia",
+      "published": "Thu, 19 Nov 2026 12:07:23 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Granada conmemora el Día Andaluz del Pueblo Gitano con una programación que reivindica su legado cultural y la igualdad de oportunidades - Granada Hoy",
-      "url": "https://www.granadahoy.com/granada/granada-conmemora-dia-andaluz-pueblo-gitano-programacion-legado-cultural-igualdad-oportunidades_0_2008534147.html",
-      "source": "Granada Hoy",
-      "snippet": "Granada conmemora el Día Andaluz del Pueblo Gitano con una programación que reivindica su legado cultural y la igualdad de oportunidades Granada Hoy",
-      "published": "Wed, 18 Nov 2026 12:58:53 GMT",
+      "title": "I Zambomba de la Hermandad de Los Gitanos - Hermandad de los Gitanos",
+      "url": "https://www.hermandaddelosgitanos.com/12028-2/",
+      "source": "Hermandad de los Gitanos",
+      "snippet": "I Zambomba de la Hermandad de Los Gitanos Hermandad de los Gitanos",
+      "published": "Thu, 19 Nov 2026 15:41:47 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Granada celebra el Día del Pueblo Gitano Andaluz con un homenaje a su cultura y al papel de las mujeres - Granada es Noticia",
-      "url": "https://www.granadaesnoticia.com/provincia/granada-celebra-el-dia-del-pueblo-gitano-andaluz-con-un-homenaje-a-su-cultura-y-al-papel-de-las-mujeres",
-      "source": "Granada es Noticia",
-      "snippet": "Granada celebra el Día del Pueblo Gitano Andaluz con un homenaje a su cultura y al papel de las mujeres Granada es Noticia",
-      "published": "Wed, 18 Nov 2026 18:02:26 GMT",
+      "title": "Marina Heredia presenta \"En libertad. El camino de los gitanos\", un viaje musical por cinco siglos de historia y memoria gitana - Radiole.com",
+      "url": "https://www.radiole.com/2026/marina-heredia-presenta-en-libertad-el-camino-de-los-gitanos-un-viaje-musical-porcinco-siglos-de-historia-y-memoria-gitana-66200.html",
+      "source": "Radiole.com",
+      "snippet": "Marina Heredia presenta \"En libertad. El camino de los gitanos\", un viaje musical por cinco siglos de historia y memoria gitana Radiole.com",
+      "published": "Thu, 19 Nov 2026 14:00:50 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Alba Heredia pondrá voz al manifiesto del Día Andaluz del Pueblo Gitano en Granada - Ideal",
-      "url": "https://www.ideal.es/granada/alba-heredia-pondra-voz-manifiesto-dia-andaluz-20261118131426-nt.html",
-      "source": "Ideal",
-      "snippet": "Alba Heredia pondrá voz al manifiesto del Día Andaluz del Pueblo Gitano en Granada Ideal",
-      "published": "Wed, 18 Nov 2026 12:14:26 GMT",
+      "title": "El PSOE de León se reúne con la Fundación Secretariado Gitano para abordar la discriminación y el acceso al empleo - León 24 Horas",
+      "url": "https://www.leon24horas.net/politica/psoe-leon-reune-fundacion-secretariado-gitano-abordar-discriminacion-acceso-empleo/20261119140723214781.html",
+      "source": "León 24 Horas",
+      "snippet": "El PSOE de León se reúne con la Fundación Secretariado Gitano para abordar la discriminación y el acceso al empleo León 24 Horas",
+      "published": "Thu, 19 Nov 2026 13:07:23 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Lomo en manteca y pescado fresco en Echaté Payá, el bar del 'gitano rubio' \"bonito y con buen género\" en Villamartín - La Voz del Sur",
-      "url": "https://www.lavozdelsur.es/el-gusto-es-suyo/lomo-en-manteca-y-pescado-fresco-en-echate-paya-el-bar-del-gitano-rubio-bonito-y-con-buen-genero-en-villamartin.html",
-      "source": "La Voz del Sur",
-      "snippet": "Lomo en manteca y pescado fresco en Echaté Payá, el bar del 'gitano rubio' \"bonito y con buen género\" en Villamartín La Voz del Sur",
-      "published": "Wed, 18 Nov 2026 19:48:06 GMT",
+      "title": "La Fundación Secretariado Gitano inaugura su nueva sede en Santiago - GC Diario",
+      "url": "https://gcdiario.com/sociedad/616652-la-fundacion-secretariado-gitano-inaugura-su-nueva-sede-en-santiago/",
+      "source": "GC Diario",
+      "snippet": "La Fundación Secretariado Gitano inaugura su nueva sede en Santiago GC Diario",
+      "published": "Thu, 19 Nov 2026 17:28:11 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Granada conmemora el Día Andaluz del Pueblo Gitano con actividades culturales y una mesa redonda - La Gaceta de Granada",
-      "url": "https://lagacetadegranada.es/granada-conmemora-el-dia-andaluz-del-pueblo-gitano-con-actividades-culturales-y-una-mesa-redonda/",
-      "source": "La Gaceta de Granada",
-      "snippet": "Granada conmemora el Día Andaluz del Pueblo Gitano con actividades culturales y una mesa redonda La Gaceta de Granada",
-      "published": "Wed, 18 Nov 2026 13:01:55 GMT",
+      "title": "Secretariado Gitano abre sede en rúa das Fontiñas, Santiago - GaliciaPress",
+      "url": "https://www.galiciapress.es/articulo/santiago/2026-11-19/6100952-secretariado-gitano-abre-sede-rua-das-fontinas-santiago",
+      "source": "GaliciaPress",
+      "snippet": "Secretariado Gitano abre sede en rúa das Fontiñas, Santiago GaliciaPress",
+      "published": "Thu, 19 Nov 2026 16:56:41 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "IU-La Isla propone que la estación de Bahía Sur se llame Camarón y dedicar una calle al pueblo gitano - El Castillo de San Fernando",
-      "url": "https://www.elcastillodesanfernando.es/2026/11/iu-la-isla-propone-que-la-estacion-de-bahia-sur-se-llame-camaron-y-dedicar-una-calle-al-pueblo-gitano/",
-      "source": "El Castillo de San Fernando",
-      "snippet": "IU-La Isla propone que la estación de Bahía Sur se llame Camarón y dedicar una calle al pueblo gitano El Castillo de San Fernando",
-      "published": "Wed, 18 Nov 2026 19:03:14 GMT",
+      "title": "La Fundación Secretariado Gitano estrena nueva sede en Santiago - Diario de Santiago",
+      "url": "https://www.diariodesantiago.es/santiago/la-fundacion-secretariado-gitano-estrena-nueva-sede-en-santiago/",
+      "source": "Diario de Santiago",
+      "snippet": "La Fundación Secretariado Gitano estrena nueva sede en Santiago Diario de Santiago",
+      "published": "Thu, 19 Nov 2026 12:33:37 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "El Secretariado Gitano de Zamora reconoce el esfuerzo académico de sus jóvenes - El Día de Zamora",
-      "url": "https://eldiadezamora.es/art/73488/el-secretariado-gitano-de-zamora-reconoce-el-esfuerzo-academico-de-sus-jovenes",
-      "source": "El Día de Zamora",
-      "snippet": "El Secretariado Gitano de Zamora reconoce el esfuerzo académico de sus jóvenes El Día de Zamora",
-      "published": "Wed, 18 Nov 2026 22:05:29 GMT",
+      "title": "El PSOE de León sitúa la lucha contra el antigitanismo entre sus prioridades - Heraldo de León",
+      "url": "https://www.heraldodeleon.es/leon/psoe-leon-situa-lucha-antigitanismo-entre-prioridades/20261119134825118636.html",
+      "source": "Heraldo de León",
+      "snippet": "El PSOE de León sitúa la lucha contra el antigitanismo entre sus prioridades Heraldo de León",
+      "published": "Thu, 19 Nov 2026 12:48:25 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "El Paseíllo reedita 'El toreo gitano' de Guillermo Sureda - Diario de Sevilla",
-      "url": "https://www.diariodesevilla.es/toros/paseillo-reedita-toreo-gitano-guillermo_0_2008532862.html",
-      "source": "Diario de Sevilla",
-      "snippet": "El Paseíllo reedita 'El toreo gitano' de Guillermo Sureda Diario de Sevilla",
-      "published": "Wed, 18 Nov 2026 10:36:26 GMT",
+      "title": "La Fundación Secretariado Gitano estrena sede en Santiago para reforzar su labor de inclusión social - Diario Compostela",
+      "url": "https://diariodecompostela.elidealgallego.com/compostela/2026-11-19/fundacion-secretariado-gitano-estrena-sede-santiago-reforzar-labor-inclusion-social-891931.html",
+      "source": "Diario Compostela",
+      "snippet": "La Fundación Secretariado Gitano estrena sede en Santiago para reforzar su labor de inclusión social Diario Compostela",
+      "published": "Thu, 19 Nov 2026 16:30:00 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "La Fundación Secretariado Gitano crea Sociall, una plataforma digital de captación de talento - La Voz de Galicia",
-      "url": "https://www.lavozdegalicia.es/amp/noticia/santiago/santiago/2026/11/18/fundacion-secretariado-gitano-crea-sociall-plataforma-digital-captacion-talento/00031794999501253938306.htm?utm_campaign=amp",
-      "source": "La Voz de Galicia",
-      "snippet": "La Fundación Secretariado Gitano crea Sociall, una plataforma digital de captación de talento La Voz de Galicia",
-      "published": "Wed, 18 Nov 2026 11:42:00 GMT",
+      "title": "El PSOE de León reafirma su compromiso con la igualdad y la lucha contra el antigitanismo en un encuentro con la Fundación Secretariado Gitano - Diario de León",
+      "url": "https://www.diariodeleon.es/leon/261119/2103657/psoe-leon-reafirma-compromiso-igualdad-lucha-antigitanismo-encuentro-fundacion-secretariado-gitano.html",
+      "source": "Diario de León",
+      "snippet": "El PSOE de León reafirma su compromiso con la igualdad y la lucha contra el antigitanismo en un encuentro con la Fundación Secretariado Gitano Diario de León",
+      "published": "Thu, 19 Nov 2026 11:14:40 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Linares conmemora el Día del Pueblo Gitano Andaluz dando visibilidad a la aportación histórica del colectivo - Cadena SER",
-      "url": "https://cadenaser.com/andalucia/2026/11/18/linares-conmemora-el-dia-del-pueblo-gitano-andaluz-dando-visibilidad-a-la-aportacion-historica-del-colectivo-radio-linares/?outputType=amp",
-      "source": "Cadena SER",
-      "snippet": "Linares conmemora el Día del Pueblo Gitano Andaluz dando visibilidad a la aportación histórica del colectivo Cadena SER",
-      "published": "Wed, 18 Nov 2026 12:25:34 GMT",
+      "title": "Cendón presume de datos de empleo en Trobajo y lleva sus propuestas a Asaja y al Secretariado Gitano - La Nueva Crónica",
+      "url": "https://www.lanuevacronica.com/actualidad/cendon-presume-datos-empleo-en-trobajo-lleva-sus-propuestas-asaja-secretariado-gitano_206832_102.html",
+      "source": "La Nueva Crónica",
+      "snippet": "Cendón presume de datos de empleo en Trobajo y lleva sus propuestas a Asaja y al Secretariado Gitano La Nueva Crónica",
+      "published": "Thu, 19 Nov 2026 15:38:00 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "La Fundación Secretariado Gitano lleva a Alcázar su campaña «Grandes» contra la desigualdad infantil - Alcázar de San Juan",
-      "url": "https://alcazardesanjuan.com/la-fundacion-secretariado-gitano-lleva-a-alcazar-su-campana-grandes-contra-la-desigualdad-infantil/",
-      "source": "Alcázar de San Juan",
-      "snippet": "La Fundación Secretariado Gitano lleva a Alcázar su campaña «Grandes» contra la desigualdad infantil Alcázar de San Juan",
-      "published": "Wed, 18 Nov 2026 11:54:48 GMT",
+      "title": "Granada celebra el Día Andaluz del Pueblo Gitano con actividades especiales - Andalucía Información",
+      "url": "https://www.andaluciainformacion.es/granada/andalucia-granada-granada-conmemora-dia-andaluz-pueblo-gitano-programacion-especial/202611191318243541222.html",
+      "source": "Andalucía Información",
+      "snippet": "Granada celebra el Día Andaluz del Pueblo Gitano con actividades especiales Andalucía Información",
+      "published": "Thu, 19 Nov 2026 12:18:24 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "¡Prepara un delicioso brazo gitano para Thanksgiving y sorprende a todos en la cena! - Yahoo en Español Vida y Estilo",
-      "url": "https://es-us.vida-estilo.yahoo.com/prepara-delicioso-brazo-gitano-thanksgiving-154003195.html",
-      "source": "Yahoo en Español Vida y Estilo",
-      "snippet": "¡Prepara un delicioso brazo gitano para Thanksgiving y sorprende a todos en la cena! Yahoo en Español Vida y Estilo",
-      "published": "Wed, 18 Nov 2026 15:40:03 GMT",
+      "title": "Granada celebra el Día Andaluz del Pueblo Gitano con un programa que reivindica su historia y su futuro - COPE",
+      "url": "https://www.cope.es/emisoras/andalucia/granada-provincia/granada/noticias/granada-celebra-dia-andaluz-pueblo-gitano-programa-reivindica-historia-futuro-20261119_3478023.amp.html",
+      "source": "COPE",
+      "snippet": "Granada celebra el Día Andaluz del Pueblo Gitano con un programa que reivindica su historia y su futuro COPE",
+      "published": "Thu, 19 Nov 2026 07:40:50 GMT",
       "lang": "es",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Les gens du voyage tentent de découper un portail à la disqueuse : un élu tente de s’interposer et se fait frapper - Midi Libre",
-      "url": "https://www.midilibre.fr/2026/11/18/les-gens-du-voyage-tentent-de-decouper-un-portail-a-la-disqueuse-un-elu-tente-de-sinterposer-et-se-fait-frapper-13659332.php",
-      "source": "Midi Libre",
-      "snippet": "Les gens du voyage tentent de découper un portail à la disqueuse : un élu tente de s’interposer et se fait frapper Midi Libre",
-      "published": "Wed, 18 Nov 2026 16:19:00 GMT",
+      "title": "Avera Glase: otras voces, el documental de Ainhoa Carnicero que da voz a cinco mujeres gitanas y sus historias personales - 21Noticias",
+      "url": "https://21noticias.com/2026/11/19/avera-glase-otras-voces-el-documental-de-ainhoa-carnicero-que-da-voz-a-cinco-mujeres-gitanas-y-sus-historias-personales/",
+      "source": "21Noticias",
+      "snippet": "Avera Glase: otras voces, el documental de Ainhoa Carnicero que da voz a cinco mujeres gitanas y sus historias personales 21Noticias",
+      "published": "Thu, 19 Nov 2026 09:55:00 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "« Ils voudraient que l’on rase le site » : quel avenir pour l’aire d’accueil des gens du voyage à Labège ? - Actu.fr",
+      "url": "https://actu.fr/occitanie/labege_31254/ils-voudraient-que-lon-rase-le-site-quel-avenir-pour-laire-daccueil-des-gens-du-voyage-a-labege_65017388.html",
+      "source": "Actu.fr",
+      "snippet": "« Ils voudraient que l’on rase le site » : quel avenir pour l’aire d’accueil des gens du voyage à Labège ? Actu.fr",
+      "published": "Fri, 20 Nov 2026 01:36:01 GMT",
       "lang": "fr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "À Lisieux, une automobiliste contrôlée avec de grosses sommes en liquide, fruit d’une « quête » pour les gens du voyage - Ouest-France",
-      "url": "https://www.ouest-france.fr/normandie/lisieux-14100/a-lisieux-une-automobiliste-controlee-avec-de-grosses-sommes-en-liquide-fruit-dune-quete-pour-les-gens-du-voyage-46bcff8c-e29f-11f1-9549-83e3460b2e87",
-      "source": "Ouest-France",
-      "snippet": "À Lisieux, une automobiliste contrôlée avec de grosses sommes en liquide, fruit d’une « quête » pour les gens du voyage Ouest-France",
-      "published": "Wed, 18 Nov 2026 17:58:18 GMT",
+      "title": "Menace d’installation illégale de gens du voyage en Haute-Savoie : un policier insulté, un homme en garde à vue - Le Messager",
+      "url": "https://www.lemessager.fr/649360549/article/2026-11-19/menace-d-installation-illegale-de-gens-du-voyage-en-haute-savoie-un-policier",
+      "source": "Le Messager",
+      "snippet": "Menace d’installation illégale de gens du voyage en Haute-Savoie : un policier insulté, un homme en garde à vue Le Messager",
+      "published": "Thu, 19 Nov 2026 14:30:00 GMT",
       "lang": "fr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "\"On en est à sept blocs sinistrés\" : une facture salée pour l’aire d’accueil des gens du voyage incendiée de Condom - ladepeche.fr",
-      "url": "https://www.ladepeche.fr/2026/11/18/on-en-est-a-sept-blocs-sinistres-une-facture-salee-pour-laire-daccueil-des-gens-du-voyage-incendiee-de-condom-13659472.php",
-      "source": "ladepeche.fr",
-      "snippet": "\"On en est à sept blocs sinistrés\" : une facture salée pour l’aire d’accueil des gens du voyage incendiée de Condom ladepeche.fr",
-      "published": "Wed, 18 Nov 2026 17:27:00 GMT",
+      "title": "La présence de gens du voyage au Parc des expositions de Lanester perturbe le salon le Forum du Handicap - Le Télégramme",
+      "url": "https://www.letelegramme.fr/morbihan/lanester-56600/la-presence-de-gens-du-voyage-au-parc-des-expositions-de-lanester-perturbe-le-salon-le-forum-du-handicap-7162317.php",
+      "source": "Le Télégramme",
+      "snippet": "La présence de gens du voyage au Parc des expositions de Lanester perturbe le salon le Forum du Handicap Le Télégramme",
+      "published": "Thu, 19 Nov 2026 16:24:48 GMT",
       "lang": "fr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Quand la radio s’invente une voix numérique : la langue et la culture roms arrivent sur Internet au Kosovo - Global Voices en Français",
-      "url": "https://fr.globalvoices.org/2026/11/18/304175/",
-      "source": "Global Voices en Français",
-      "snippet": "Quand la radio s’invente une voix numérique : la langue et la culture roms arrivent sur Internet au Kosovo Global Voices en Français",
-      "published": "Wed, 18 Nov 2026 10:21:41 GMT",
+      "title": "Aire d’accueil des gens du voyage à Calais : des occupants dénoncent leurs conditions de vie - Nord Littoral",
+      "url": "https://www.nordlittoral.fr/304647/article/2026-11-19/aire-d-accueil-des-gens-du-voyage-calais-des-occupants-denoncent-leurs",
+      "source": "Nord Littoral",
+      "snippet": "Aire d’accueil des gens du voyage à Calais : des occupants dénoncent leurs conditions de vie Nord Littoral",
+      "published": "Thu, 19 Nov 2026 17:39:21 GMT",
       "lang": "fr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Un chef de camp de gens du voyage devant le tribunal pour vol d'électricité et bris d'une barrière à Walibi - L'Avenir",
-      "url": "https://www.lavenir.net/regions/brabantwallon/wavre/2026/11/18/un-chef-de-camp-de-gens-du-voyage-devant-le-tribunal-pour-vol-delectricite-et-bris-dune-barriere-a-walibi-OKJQZ2NTBFCLROURIF3FMRSX3E/",
-      "source": "L'Avenir",
-      "snippet": "Un chef de camp de gens du voyage devant le tribunal pour vol d'électricité et bris d'une barrière à Walibi L'Avenir",
-      "published": "Wed, 18 Nov 2026 05:51:00 GMT",
+      "title": "Où en est le projet d’aire d’accueil des gens du voyage à Houdain-Haillicourt ? - La Voix du Nord",
+      "url": "https://www.lavoixdunord.fr/1756291/article/2026-11-19/ou-en-est-le-projet-d-aire-d-accueil-des-gens-du-voyage-houdain-haillicourt",
+      "source": "La Voix du Nord",
+      "snippet": "Où en est le projet d’aire d’accueil des gens du voyage à Houdain-Haillicourt ? La Voix du Nord",
+      "published": "Thu, 19 Nov 2026 13:00:00 GMT",
       "lang": "fr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "L’école Polytechnique décide de jouer la carte de l’inaction face à l’installation illégale de gens du voyage sur ses terrains - Frontières",
-      "url": "https://www.frontieresmedia.fr/societe/ecole-polytechnique-lencadrement-face-aux-installations-illegales-de-caravanes---20066",
-      "source": "Frontières",
-      "snippet": "L’école Polytechnique décide de jouer la carte de l’inaction face à l’installation illégale de gens du voyage sur ses terrains Frontières",
-      "published": "Tue, 17 Nov 2026 19:38:05 GMT",
+      "title": "Accusé d'avoir volé 14.000 euros d'électricité, un chef de gens du voyage échappe à une peine devant le tribunal - DHnet",
+      "url": "https://www.dhnet.be/regions/brabant/2026/11/19/accuse-davoir-vole-14000-euros-delectricite-u-chef-de-gens-du-voyage-echappe-a-une-peine-devant-le-tribunal-BSNUTSPRVZBPXLGDRRSLJ5IBNU/",
+      "source": "DHnet",
+      "snippet": "Accusé d'avoir volé 14.000 euros d'électricité, un chef de gens du voyage échappe à une peine devant le tribunal DHnet",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
       "lang": "fr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Margny-lès-Compiègne. Lors de la marche blanche pour Paul Tancre, un Polonais crache sur la commissaire - Oise Hebdo",
-      "url": "https://www.oisehebdo.fr/2026/11/18/margny-les-compiegne-marche-blanche-paul-tancre-polonais-crache-commissaire/",
-      "source": "Oise Hebdo",
-      "snippet": "Margny-lès-Compiègne. Lors de la marche blanche pour Paul Tancre, un Polonais crache sur la commissaire Oise Hebdo",
-      "published": "Wed, 18 Nov 2026 12:07:23 GMT",
+      "title": "Redécouvrir l'histoire des Tsiganes - Hérault - Béziers - www.lepetitjournal.net",
+      "url": "https://www.lepetitjournal.net/34-herault/2026/11/18/redecouvrir-lhistoire-des-tsiganes/",
+      "source": "www.lepetitjournal.net",
+      "snippet": "Redécouvrir l'histoire des Tsiganes - Hérault - Béziers www.lepetitjournal.net",
+      "published": "Wed, 18 Nov 2026 05:05:34 GMT",
       "lang": "fr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "« C’est grave, on doit montrer l’exemple » : en Indre-et-Loire, un ex-maire jugé pour avoir frappé un gérant de camping - Ouest-France",
-      "url": "https://www.ouest-france.fr/faits-divers/violences/cest-grave-on-doit-montrer-lexemple-en-indre-et-loire-un-ex-maire-juge-pour-avoir-frappe-un-gerant-de-camping-2322e38a-e339-11f1-8937-e3b17ddb6abc",
-      "source": "Ouest-France",
-      "snippet": "« C’est grave, on doit montrer l’exemple » : en Indre-et-Loire, un ex-maire jugé pour avoir frappé un gérant de camping Ouest-France",
-      "published": "Wed, 18 Nov 2026 10:28:01 GMT",
+      "title": "Languidic : une pétition contre le projet d’aire d’accueil à Kergonan - Jaimeradio",
+      "url": "https://www.jaimeradio.fr/2026/11/18/petition-projet-aire-accueil-gens-du-voyage-languidic-kergonan/",
+      "source": "Jaimeradio",
+      "snippet": "Languidic : une pétition contre le projet d’aire d’accueil à Kergonan Jaimeradio",
+      "published": "Wed, 18 Nov 2026 08:33:16 GMT",
       "lang": "fr",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Roma-Familien vor der Rolleiflex - Neustadt-Geflüster",
-      "url": "https://www.neustadt-ticker.de/243474/alltag/kultur/roma-familien-vor-der-rolleiflex",
-      "source": "Neustadt-Geflüster",
-      "snippet": "Roma-Familien vor der Rolleiflex Neustadt-Geflüster",
-      "published": "Wed, 18 Nov 2026 15:18:15 GMT",
+      "title": "« J’ai pété les plombs » : Il avait agressé le gérant du camping municipal, un ancien maire d'Indre-et-Loire condamné - Le Berry Républicain",
+      "url": "https://www.leberry.fr/sainte-maure-de-touraine-37800/faits-divers/jai-pete-les-plombs-il-avait-agresse-le-gerant-du-camping-municipal-un-ancien-maire-d-indre-et-loire-condamne_15085384/",
+      "source": "Le Berry Républicain",
+      "snippet": "« J’ai pété les plombs » : Il avait agressé le gérant du camping municipal, un ancien maire d'Indre-et-Loire condamné Le Berry Républicain",
+      "published": "Thu, 19 Nov 2026 04:12:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Ce week-end à Lannion : concert tsigane, trail nocturne dans la boue et ateliers créatifs, 6 sorties à ne pas rater du 20 au 22 novembre - jds.fr",
+      "url": "https://www.jds.fr/lannion/agenda/lannion-notre-selection-de-sorties-du-week-end-du-20-au-22-novembre-2026-1851566_A",
+      "source": "jds.fr",
+      "snippet": "Ce week-end à Lannion : concert tsigane, trail nocturne dans la boue et ateliers créatifs, 6 sorties à ne pas rater du 20 au 22 novembre jds.fr",
+      "published": "Thu, 19 Nov 2026 05:01:57 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Schloss Lichtenburg: Tuschzeichnung von Heide Kramer - Zukunft braucht Erinnerung",
+      "url": "https://www.zukunft-braucht-erinnerung.de/lichtenburg-zeichnung-kramer/",
+      "source": "Zukunft braucht Erinnerung",
+      "snippet": "Schloss Lichtenburg: Tuschzeichnung von Heide Kramer Zukunft braucht Erinnerung",
+      "published": "Thu, 19 Nov 2026 20:51:02 GMT",
       "lang": "de",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Bundesrat verabschiedet sechsten Bericht zum Minderheitenschutz - imTicker",
-      "url": "https://imticker.ch/bundesrat-verabschiedet-sechsten-bericht-zum-minderheitenschutz/",
-      "source": "imTicker",
-      "snippet": "Bundesrat verabschiedet sechsten Bericht zum Minderheitenschutz imTicker",
-      "published": "Wed, 18 Nov 2026 13:46:53 GMT",
+      "title": "Kein Himmel über Bergen-Belsen: Eine Vision im Bild - Zukunft braucht Erinnerung",
+      "url": "https://www.zukunft-braucht-erinnerung.de/bergen-belsen-vision/",
+      "source": "Zukunft braucht Erinnerung",
+      "snippet": "Kein Himmel über Bergen-Belsen: Eine Vision im Bild Zukunft braucht Erinnerung",
+      "published": "Wed, 18 Nov 2026 07:23:17 GMT",
       "lang": "de",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Fondi europei per il contrasto all’antiziganismo. Intanto a Milano si distrugge una comunità rom - Pressenza - International Press Agency",
-      "url": "https://www.pressenza.com/it/2026/11/fondi-europei-per-il-contrasto-allantiziganismo-intanto-a-milano-si-distrugge-una-comunita-rom/",
-      "source": "Pressenza - International Press Agency",
-      "snippet": "Fondi europei per il contrasto all’antiziganismo. Intanto a Milano si distrugge una comunità rom Pressenza - International Press Agency",
-      "published": "Wed, 18 Nov 2026 15:43:16 GMT",
+      "title": "Cagli: \"Gli zingari felici - 50 anni dopo\", il capolavoro di Claudio Lolli in concerto con i musicisti originali del disco - Marcheinfinite",
+      "url": "https://marcheinfinite.com/2026/11/19/cagli-gli-zingari-felici-50-anni-dopo-il-capolavoro-di-claudio-lolli-in-concerto-con-i-musicisti-originali-del-disco/",
+      "source": "Marcheinfinite",
+      "snippet": "Cagli: \"Gli zingari felici - 50 anni dopo\", il capolavoro di Claudio Lolli in concerto con i musicisti originali del disco Marcheinfinite",
+      "published": "Thu, 19 Nov 2026 11:56:43 GMT",
       "lang": "it",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Cagli, sabato 21 novembre “Gli zingari felici… 50 anni dopo”. Il capolavoro di Claudio Lolli in concerto con i musicisti originali del disco - Non solo Flaminia",
-      "url": "https://www.nonsoloflaminia.it/index.php/2026/11/18/cagli-sabato-21-novembre-gli-zingari-felici-50-anni-dopo-il-capolavoro-di-claudio-lolli-in-concerto-con-i-musicisti-originali-del-disco/",
-      "source": "Non solo Flaminia",
-      "snippet": "Cagli, sabato 21 novembre “Gli zingari felici… 50 anni dopo”. Il capolavoro di Claudio Lolli in concerto con i musicisti originali del disco Non solo Flaminia",
-      "published": "Wed, 18 Nov 2026 10:29:22 GMT",
+      "title": "Roma. Primo Forum Italiano sulle Minoranze - Il Corriere Nazionale",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEJpQ3hXbXdHWXIzWF9jOG9PcFNrV1VhM0xwbEU1b0U0Q0lkUm91eXc4a1lTNW5JcnhXT0FmMlhTS1B5UFh1eXR2TmppQm5sSjFqQUJraFFwU3p0Y2Fjb3JCbnFfR1BBRThFZWdKRklVaWtIcllDdXdvenlFYUJHbDczWW4yQk9OX1VGNlFNdXM?oc=5",
+      "source": "Il Corriere Nazionale",
+      "snippet": "Roma. Primo Forum Italiano sulle Minoranze Il Corriere Nazionale",
+      "published": "Thu, 19 Nov 2026 16:36:29 GMT",
       "lang": "it",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Claudio Lolli, una mostra e un’associazione per non essere «Extranei» - il manifesto",
-      "url": "https://ilmanifesto.it/claudio-lolli-una-mostra-e-unassociazione-per-non-essere-extranei",
-      "source": "il manifesto",
-      "snippet": "Claudio Lolli, una mostra e un’associazione per non essere «Extranei» il manifesto",
-      "published": "Wed, 18 Nov 2026 23:06:13 GMT",
+      "title": "Dagli “Zingari felici” a Francesco e Jacopa: prosegue Marchestorie - Cronache Maceratesi",
+      "url": "https://www.cronachemaceratesi.it/2026/11/19/dagli-zingari-felici-a-francesco-e-jacopa-prosegue-marchestorie/2128026/",
+      "source": "Cronache Maceratesi",
+      "snippet": "Dagli “Zingari felici” a Francesco e Jacopa: prosegue Marchestorie Cronache Maceratesi",
+      "published": "Thu, 19 Nov 2026 12:26:45 GMT",
       "lang": "it",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Quinto anno della giunta Gualtieri: i voti agli assessori - RomaToday",
-      "url": "https://www.romatoday.it/politica/voti-assessori-giunta-gualtieri-2026.html/pag/4",
-      "source": "RomaToday",
-      "snippet": "Quinto anno della giunta Gualtieri: i voti agli assessori RomaToday",
-      "published": "Wed, 18 Nov 2026 07:46:00 GMT",
-      "lang": "it",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Il \"permesso\" della ’ndrangheta per i furti: «Chiedi prima se puoi colpire» - Zoom24",
-      "url": "https://www.zoom24.it/news/297581579782/il-permesso-della-ndrangheta-per-i-furti-chiedi-prima-se-puoi-colpire",
-      "source": "Zoom24",
-      "snippet": "Il \"permesso\" della ’ndrangheta per i furti: «Chiedi prima se puoi colpire» Zoom24",
-      "published": "Wed, 18 Nov 2026 15:11:00 GMT",
-      "lang": "it",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Проект за водоснабдяване на кв. „Филиповци“ ще се реализира до 2029 г. - Утро Русе",
-      "url": "https://utroruse.com/amp/1340048/",
-      "source": "Утро Русе",
-      "snippet": "Проект за водоснабдяване на кв. „Филиповци“ ще се реализира до 2029 г. Утро Русе",
-      "published": "Wed, 18 Nov 2026 13:19:02 GMT",
+      "title": "Остани във връзка с „Роми за демокрация“ - actionnetwork.org",
+      "url": "https://actionnetwork.org/forms/romanipe-short-form-bg-post-deadline",
+      "source": "actionnetwork.org",
+      "snippet": "Остани във връзка с „Роми за демокрация“ actionnetwork.org",
+      "published": "Thu, 19 Nov 2026 14:35:52 GMT",
       "lang": "bg",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Румънски кошмар в Зеница: местните им освиркаха химна и ги нарекоха цигани, а полицията влезе да ги бие (ВИДЕО) - Dsport.bg",
-      "url": "https://dsport.bg/rumanski-koshmar-v-zenica-mestnite-im-osvirkaha-himna-i-gi-narekoha-cigani-a-policiata-vleze-da-gi-bie-video~245042.html",
-      "source": "Dsport.bg",
-      "snippet": "Румънски кошмар в Зеница: местните им освиркаха химна и ги нарекоха цигани, а полицията влезе да ги бие (ВИДЕО) Dsport.bg",
-      "published": "Wed, 18 Nov 2026 21:37:05 GMT",
+      "title": "Роми продадоха новороденото си бебе за 3500 евро в Гърция, купиха си употребявана кола - Bgonair",
+      "url": "https://www.bgonair.bg/a/4-world/437134-romi-prodadoha-novorodenoto-si-bebe-za-3500-evro-v-gartsiya-kupiha-si-upotrebyavana-kola",
+      "source": "Bgonair",
+      "snippet": "Роми продадоха новороденото си бебе за 3500 евро в Гърция, купиха си употребявана кола Bgonair",
+      "published": "Thu, 19 Nov 2026 12:33:00 GMT",
       "lang": "bg",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "\"Облеклата на етносите\" събра традициите на българи, роми, турци и татари в община Кайнарджа - Кворум Силистра",
-      "url": "https://www.kvorum-silistra.info/news/72301",
-      "source": "Кворум Силистра",
-      "snippet": "\"Облеклата на етносите\" събра традициите на българи, роми, турци и татари в община Кайнарджа Кворум Силистра",
-      "published": "Wed, 18 Nov 2026 13:00:04 GMT",
+      "title": "Роми продадоха бебето си в Гърция за кола втора употреба - DarikNews.bg",
+      "url": "https://dariknews.bg/novini/sviat/romi-prodadoha-bebeto-si-v-gyrciia-za-kola-vtora-upotreba-2472437",
+      "source": "DarikNews.bg",
+      "snippet": "Роми продадоха бебето си в Гърция за кола втора употреба DarikNews.bg",
+      "published": "Thu, 19 Nov 2026 07:40:00 GMT",
       "lang": "bg",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Чадъра от Пловдив оглавил Ку-клукс-клан, непълнолетен последовател бил на Младежкия при убийството на Георги - TrafficNews",
-      "url": "https://trafficnews.bg/krimi/chadara-plovdiv-oglavil-ku-kluks-klan-nepalnoleten-395366/",
-      "source": "TrafficNews",
-      "snippet": "Чадъра от Пловдив оглавил Ку-клукс-клан, непълнолетен последовател бил на Младежкия при убийството на Георги TrafficNews",
-      "published": "Wed, 18 Nov 2026 14:40:00 GMT",
+      "title": "Българи продадоха бебето си в Гърция, за да си купят кола - Филтър",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3dlQ0JJLUJlUEFsZDdpMGlKZmNPNk9jZDJCWFRrVEl6Nl9DUEltUGxmdHRJSnFVaVYxaW9UVTZmVFZITXhmMGd6a2JDTVh2UEk0YXpFWDZiVUJEUTRtbjh1NERSanZuV1ZYRDF1MjBLWWV0ekZ4WHFrWUhRU290dzRYTWs5ajNZUEE?oc=5",
+      "source": "Филтър",
+      "snippet": "Българи продадоха бебето си в Гърция, за да си купят кола Филтър",
+      "published": "Thu, 19 Nov 2026 08:10:23 GMT",
       "lang": "bg",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Уволненият скандален шеф на „Кауфланд“ спасил Ловния парк - Новините без цензура",
-      "url": "https://www.mignews.info/borisov-piratska-darzhava-sme-shte-izkarat-moi-dvamata-shishkovtsi/",
-      "source": "Новините без цензура",
-      "snippet": "Уволненият скандален шеф на „Кауфланд“ спасил Ловния парк Новините без цензура",
-      "published": "Wed, 18 Nov 2026 19:43:55 GMT",
+      "title": "Скандал в Зеница: Румънците бяха посрещнати с \"цигани\", а полицията ги би (ВИДЕО) - Lupa BG",
+      "url": "https://lupa.bg/news/skandal-v-zenica-rumancite-byaha-posreshtnati-s-quotciganiquot-a-policiyata-gi-bi-video_435695news.html",
+      "source": "Lupa BG",
+      "snippet": "Скандал в Зеница: Румънците бяха посрещнати с \"цигани\", а полицията ги би (ВИДЕО) Lupa BG",
+      "published": "Thu, 19 Nov 2026 09:53:49 GMT",
       "lang": "bg",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Θάνατος πυροσβεστών στο Ζεφύρι: Διαφωνία ανακρίτριας και εισαγγελέα για την 34χρονη Ρομά, ελεύθερες οι δύο ανήλικες κόρες της - ProtoThema",
-      "url": "https://www.protothema.gr/greece/article/1913231/thanatos-purosveston-zefuri-diafonia-anakritrias-kai-eisaggelea-gia-34hroni-roma-eleutheres-oi-duo-anilikes-kores/",
-      "source": "ProtoThema",
-      "snippet": "Θάνατος πυροσβεστών στο Ζεφύρι: Διαφωνία ανακρίτριας και εισαγγελέα για την 34χρονη Ρομά, ελεύθερες οι δύο ανήλικες κόρες της ProtoThema",
-      "published": "Wed, 18 Nov 2026 16:49:00 GMT",
+      "title": "Българи са продали новороденото си бебе в Гърция за 3500 евро, за да си купят кола? - ФОКУС",
+      "url": "https://www.focus-news.net/novini/mejdunarodni/Bulgari-sa-prodali-novorodenoto-si-bebe-v-Gurciya-za-3500-evro-za-da-si-kupyat-kola-3058834",
+      "source": "ФОКУС",
+      "snippet": "Българи са продали новороденото си бебе в Гърция за 3500 евро, за да си купят кола? ФОКУС",
+      "published": "Thu, 19 Nov 2026 08:35:55 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Ромско семейство е продало новороденото си бебе за 3500 евро - https://novini247.com/",
+      "url": "https://novini247.com/novini/romsko-semeystvo-e-prodalo-novorodenoto-si-bebe-za-3500-evro_11410445.html",
+      "source": "https://novini247.com/",
+      "snippet": "Ромско семейство е продало новороденото си бебе за 3500 евро https://novini247.com/",
+      "published": "Thu, 19 Nov 2026 14:25:07 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "„Амалипе“ с тревожни данни за сегрегацията в училища и детски градини във Великотърновско - Вестник Борба",
+      "url": "https://www.borbabg.com/2026/11/19/amalipe-s-trevozhni-danni-za-segregatsiyata/",
+      "source": "Вестник Борба",
+      "snippet": "„Амалипе“ с тревожни данни за сегрегацията в училища и детски градини във Великотърновско Вестник Борба",
+      "published": "Thu, 19 Nov 2026 13:40:05 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Кои професии са най-търсени у нас? Над 13 000 безработни са започнали работа през октомври - FlashNews",
+      "url": "https://www.flashnews.bg/koi-profesii-sa-naj-tarseni-u-nas-nad-13-000-bezrabotni-sa-zapochnali-rabota-prez-oktomvri/",
+      "source": "FlashNews",
+      "snippet": "Кои професии са най-търсени у нас? Над 13 000 безработни са започнали работа през октомври FlashNews",
+      "published": "Thu, 19 Nov 2026 07:07:21 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Ромска двойка, живееща в Гърция, е продала бебето си за - https://novini247.com/",
+      "url": "https://novini247.com/novini/romska-dvoyka-jiveeshta-v-gartsiya-e-prodala-bebeto-si-za_11408923.html",
+      "source": "https://novini247.com/",
+      "snippet": "Ромска двойка, живееща в Гърция, е продала бебето си за https://novini247.com/",
+      "published": "Thu, 19 Nov 2026 08:36:56 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Κέντρο Ημέρας για τους Ρομά | ΚΛΙΜΑΚΑ - socialpolicy.gr",
+      "url": "https://socialpolicy.gr/2026/11/%CE%BA%CE%AD%CE%BD%CF%84%CF%81%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CF%85%CF%82-%CF%81%CE%BF%CE%BC%CE%AC-%CE%BA%CE%BB%CE%B9%CE%BC%CE%B1%CE%BA%CE%B1.html",
+      "source": "socialpolicy.gr",
+      "snippet": "Κέντρο Ημέρας για τους Ρομά | ΚΛΙΜΑΚΑ socialpolicy.gr",
+      "published": "Thu, 19 Nov 2026 13:48:12 GMT",
       "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Πύργος: Ρομά πούλησαν το νεογέννητο μωρό τους για να αγοράσουν αυτοκίνητο - Zougla",
-      "url": "https://www.zougla.gr/greece/pyrgos-roma-poulisan-to-neogennito-moro-tous-gia-na-agorasoun-aftokinito/",
+      "title": "Ολοκληρώθηκαν οι δράσεις ενημέρωσης για τον νεανικό διαβήτη στα Παραρτήματα Ρομά του Δ. Τρικκαίων - Δήμος Τρικκαίων",
+      "url": "https://trikalacity.gr/oloklirothikan-oi-draseis-enimerosis-gia-ton-neaniko-diaviti-sta-parartimata-roma-toy-d-trikkaion/",
+      "source": "Δήμος Τρικκαίων",
+      "snippet": "Ολοκληρώθηκαν οι δράσεις ενημέρωσης για τον νεανικό διαβήτη στα Παραρτήματα Ρομά του Δ. Τρικκαίων Δήμος Τρικκαίων",
+      "published": "Thu, 19 Nov 2026 12:59:20 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Σοκ στον Πύργο: 14χρονη έγκυος στο νοσοκομείο – Η θετή μητέρα την αγόρασε από Ρομά και πλέον δεν τη θέλει - Newsbeast",
+      "url": "https://www.newsbeast.gr/greece/arthro/13508286/sok-ston-pyrgo-14chroni-egkyos-sto-nosokomeio-i-mitria-tin-agorase-apo-roma-kai-pleon-den-ti-thelei",
+      "source": "Newsbeast",
+      "snippet": "Σοκ στον Πύργο: 14χρονη έγκυος στο νοσοκομείο – Η θετή μητέρα την αγόρασε από Ρομά και πλέον δεν τη θέλει Newsbeast",
+      "published": "Thu, 19 Nov 2026 14:27:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Ιωάννινα: Άφαντοι οι τρεις Ρομά της επεισοδιακής καταδίωξης - Zougla",
+      "url": "https://www.zougla.gr/greece/ioannina-afantoi-oi-treis-roma-tis-epeisodiakis-katadioxis/",
       "source": "Zougla",
-      "snippet": "Πύργος: Ρομά πούλησαν το νεογέννητο μωρό τους για να αγοράσουν αυτοκίνητο Zougla",
-      "published": "Wed, 18 Nov 2026 19:13:16 GMT",
+      "snippet": "Ιωάννινα: Άφαντοι οι τρεις Ρομά της επεισοδιακής καταδίωξης Zougla",
+      "published": "Thu, 19 Nov 2026 07:42:13 GMT",
       "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Τραγωδία στο Ζεφύρι: Διαφωνία ανακρίτριας και εισαγγελέα για την 34χρονη Ρομά – Ελεύθερες με όρους οι δύο ανήλικες κόρες της - NewsIT",
-      "url": "https://www.newsit.gr/ellada/tragodia-sto-zefyri-diafonia-anakritrias-kai-eisaggelea-gia-tin-34xroni-roma-eleytheres-me-orous-oi-dyo-anilikes-kores-tis/4825689/",
-      "source": "NewsIT",
-      "snippet": "Τραγωδία στο Ζεφύρι: Διαφωνία ανακρίτριας και εισαγγελέα για την 34χρονη Ρομά – Ελεύθερες με όρους οι δύο ανήλικες κόρες της NewsIT",
-      "published": "Wed, 18 Nov 2026 16:58:52 GMT",
+      "title": "Θάνατος πυροσβεστών στο Ζεφύρι: Διαφωνία ανακρίτριας και εισαγγελέα για την 34χρονη Ρομά - Open TV",
+      "url": "https://www.tvopen.gr/watch/283848/thanatospyrosbestonstozefyridiafoniaanakritriaskaieisaggeleagiathn34xronhroma",
+      "source": "Open TV",
+      "snippet": "Θάνατος πυροσβεστών στο Ζεφύρι: Διαφωνία ανακρίτριας και εισαγγελέα για την 34χρονη Ρομά Open TV",
+      "published": "Thu, 19 Nov 2026 06:41:53 GMT",
       "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Θάνατος πυροσβεστών στο Ζεφύρι: Διαφωνία ανακρίτριας και εισαγγελέα για την 34χρονη Ρομά, ελεύθερες οι κόρες της - Protagon.gr",
-      "url": "https://www.protagon.gr/epikairotita/thanatos-pyrosvestwn-sto-zefyri-diafwnia-anakritrias-kai-eisaggelea-gia-tin-34xroni-roma-eleftheres-oi-kores-tis-44343476678",
-      "source": "Protagon.gr",
-      "snippet": "Θάνατος πυροσβεστών στο Ζεφύρι: Διαφωνία ανακρίτριας και εισαγγελέα για την 34χρονη Ρομά, ελεύθερες οι κόρες της Protagon.gr",
-      "published": "Wed, 18 Nov 2026 17:14:00 GMT",
+      "title": "«Ρήμαζε» σπίτια στα Χανιά ζευγάρι με λεία 95.000 ευρώ – Το κόλπο που χρησιμοποιούσαν για να μην κινούν υποψίες - NeaKriti",
+      "url": "https://www.neakriti.gr/kriti/hania/2212355_rimaze-spitia-sta-hania-zeygari-me-leia-95000-eyro-kolpo-poy-hrisimopoioysan",
+      "source": "NeaKriti",
+      "snippet": "«Ρήμαζε» σπίτια στα Χανιά ζευγάρι με λεία 95.000 ευρώ – Το κόλπο που χρησιμοποιούσαν για να μην κινούν υποψίες NeaKriti",
+      "published": "Thu, 19 Nov 2026 16:42:13 GMT",
       "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Βόλος: Το 2027 η κατεδάφιση παραπηγμάτων στον οικισμό των Ρομά στην Νεάπολη Βόλου - ertnews.gr",
-      "url": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/volos-to-2027-i-katedafisi-parapigmaton-ston-oikismo-ton-roma-stin-neapoli-volou/",
-      "source": "ertnews.gr",
-      "snippet": "Βόλος: Το 2027 η κατεδάφιση παραπηγμάτων στον οικισμό των Ρομά στην Νεάπολη Βόλου ertnews.gr",
-      "published": "Wed, 18 Nov 2026 11:06:28 GMT",
+      "title": "Εξιχνιάστηκε η υπόθεση παράνομης υιοθεσίας βρέφους στον Πύργο – Ζευγάρι Ρομά πούλησε το νεογέννητο έναντι 3.500 ευρώ, για να αγοράσουν αυτοκίνητο - News.gr",
+      "url": "https://www.news.gr/ellada/article/4253957/exichniastike-i-ipothesi-paranomis-iiothesias-vrefous-ston-pirgo-zevgari-roma-poulise-to-neogennito-enanti-3-500-evro-gia-na-agorasoun-aftokinito.html",
+      "source": "News.gr",
+      "snippet": "Εξιχνιάστηκε η υπόθεση παράνομης υιοθεσίας βρέφους στον Πύργο – Ζευγάρι Ρομά πούλησε το νεογέννητο έναντι 3.500 ευρώ, για να αγοράσουν αυτοκίνητο News.gr",
+      "published": "Thu, 19 Nov 2026 10:41:51 GMT",
       "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Φονική πυρκαγιά στο Ζεφύρι: Σε κατ' οίκον περιορισμό η 34χρονη Ρομά -Διαφώνησαν ανακρίτρια και εισαγγελέας για το εάν πρέπει να προφυλακιστεί - iefimerida.gr",
-      "url": "https://www.iefimerida.gr/ellada/foniki-pyrkagia-sto-zefyri-se-katoikon-periorismo-i-34hroni-roma-diafonisan-anakritria-kai",
-      "source": "iefimerida.gr",
-      "snippet": "Φονική πυρκαγιά στο Ζεφύρι: Σε κατ' οίκον περιορισμό η 34χρονη Ρομά -Διαφώνησαν ανακρίτρια και εισαγγελέας για το εάν πρέπει να προφυλακιστεί iefimerida.gr",
-      "published": "Wed, 18 Nov 2026 16:40:14 GMT",
+      "title": "Χανιά: 95.000 ευρώ η λεία ζευγαριού Ρομά που \"ξάφριζε\" σπίτια! - Parakritika.gr",
+      "url": "https://www.parakritika.gr/19/11/2026/para-kritika/chania-95-000-eyro-i-leia-zeygarioy-roma-poy-xafrize-spitia/",
+      "source": "Parakritika.gr",
+      "snippet": "Χανιά: 95.000 ευρώ η λεία ζευγαριού Ρομά που \"ξάφριζε\" σπίτια! Parakritika.gr",
+      "published": "Thu, 19 Nov 2026 05:45:00 GMT",
       "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Πυροβολισμοί στο Πανεπιστημιακό Νοσοκομείο Ιωαννίνων: Άφαντοι οι τρεις Ρομά που επέβαιναν στο μαύρο SUV - ΤΑ ΝΕΑ",
-      "url": "https://www.tanea.gr/2026/11/18/greece/pyrovolismoi-sto-panepistimiako-nosokomeio-ioanninon-afantoi-oi-treis-roma-pou-epevainan-sto-mayro-suv/",
-      "source": "ΤΑ ΝΕΑ",
-      "snippet": "Πυροβολισμοί στο Πανεπιστημιακό Νοσοκομείο Ιωαννίνων: Άφαντοι οι τρεις Ρομά που επέβαιναν στο μαύρο SUV ΤΑ ΝΕΑ",
-      "published": "Wed, 18 Nov 2026 19:05:31 GMT",
+      "title": "Πύργος: Ζευγάρι Ρομά πούλησε το μωρό του για 3.500€ και αγόρασε αυτοκίνητο - Star.gr",
+      "url": "https://www.star.gr/tv/psychagogia/protos-kafes-me-ti-zina/purgos-zeugari-roma-poulise-to-moro-tou-gia-3500-kai-agorase-autokinito",
+      "source": "Star.gr",
+      "snippet": "Πύργος: Ζευγάρι Ρομά πούλησε το μωρό του για 3.500€ και αγόρασε αυτοκίνητο Star.gr",
+      "published": "Thu, 19 Nov 2026 09:06:41 GMT",
       "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Δείτε βίντεο: Η άγρια καταδίωξη του ΙΧ με τους 3 Ρομά από αστυνομικό στο Πανεπιστημιακό Νοσοκομείο Ιωαννίνων - ProtoThema",
-      "url": "https://www.protothema.gr/greece/article/1913315/i-kinimatografiki-katadioxi-tou-ih-me-tous-3-roma-apo-astunomiko-sto-panepistimiako-nosokomeio-ioanninon-video/",
-      "source": "ProtoThema",
-      "snippet": "Δείτε βίντεο: Η άγρια καταδίωξη του ΙΧ με τους 3 Ρομά από αστυνομικό στο Πανεπιστημιακό Νοσοκομείο Ιωαννίνων ProtoThema",
-      "published": "Wed, 18 Nov 2026 20:08:00 GMT",
-      "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Αγρια καταδίωξη με πυροβολισμούς στο νοσοκομείο Ιωαννίνων - Ρομά εμβόλισαν μηχανή της ΔΙΑΣ - Protagon.gr",
-      "url": "https://www.protagon.gr/epikairotita/agrio-pistolidi-sto-nosokomeio-iwanninwn-roma-emvolisan-mixani-tis-dias-44343476564",
-      "source": "Protagon.gr",
-      "snippet": "Αγρια καταδίωξη με πυροβολισμούς στο νοσοκομείο Ιωαννίνων - Ρομά εμβόλισαν μηχανή της ΔΙΑΣ Protagon.gr",
-      "published": "Wed, 18 Nov 2026 14:32:00 GMT",
-      "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Ιωάννινα: Μπλόκα σε όλη την Ήπειρο για τους τρεις Ρομά που έσπασαν τη μπάρα και εισέβαλαν στο νοσοκομείο - Zougla",
-      "url": "https://www.zougla.gr/greece/ioannina-bloka-se-oli-tin-ipeiro-gia-tous-treis-roma-pou-espasan-tin-bara-kai-eisevalan-sto-nosokomeio/",
-      "source": "Zougla",
-      "snippet": "Ιωάννινα: Μπλόκα σε όλη την Ήπειρο για τους τρεις Ρομά που έσπασαν τη μπάρα και εισέβαλαν στο νοσοκομείο Zougla",
-      "published": "Wed, 18 Nov 2026 16:29:18 GMT",
-      "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Ο Ραζβάν Μαρίν ξέσπασε για το «γύφτοι» που φώναζαν οπαδοί στο Βοσνία – Ρουμανία - NewsIT",
-      "url": "https://www.newsit.gr/athlitika/o-razvan-marin-ksespase-gia-to-gyftoi-pou-fonazan-opadoi-sto-vosnia-roumania/4825191/",
-      "source": "NewsIT",
-      "snippet": "Ο Ραζβάν Μαρίν ξέσπασε για το «γύφτοι» που φώναζαν οπαδοί στο Βοσνία – Ρουμανία NewsIT",
-      "published": "Wed, 18 Nov 2026 08:53:06 GMT",
-      "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "«Έσπασε την μπάρα του πάρκινγκ, από τύχη δεν είχαμε νεκρούς»: Εργαζόμενοι στο Πανεπιστημιακό Νοσοκομείο Ιωαννίνων περιγράφουν την καταδίωξη του ΙΧ με τους Ρομά - ProtoThema",
-      "url": "https://www.protothema.gr/greece/article/1913186/kare-kare-i-katadioxi-ohimatos-me-treis-roma-sta-ioannina-me-enan-traumatia-sta-lastiha-purovolise-astunomikos/",
-      "source": "ProtoThema",
-      "snippet": "«Έσπασε την μπάρα του πάρκινγκ, από τύχη δεν είχαμε νεκρούς»: Εργαζόμενοι στο Πανεπιστημιακό Νοσοκομείο Ιωαννίνων περιγράφουν την καταδίωξη του ΙΧ με τους Ρομά ProtoThema",
-      "published": "Wed, 18 Nov 2026 16:35:00 GMT",
-      "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Αγριο πιστολίδι στο νοσοκομείο Ιωαννίνων – Σεσημασμένοι Ρομά εμβόλισαν μηχανή της ΔΙΑΣ - Protagon.gr",
-      "url": "https://www.protagon.gr/epikairotita/agrio-pistolidi-sto-nosokomeio-iwanninwn-sesimasmenoi-roma-emvolisan-mixani-tis-dias-44343476564",
-      "source": "Protagon.gr",
-      "snippet": "Αγριο πιστολίδι στο νοσοκομείο Ιωαννίνων – Σεσημασμένοι Ρομά εμβόλισαν μηχανή της ΔΙΑΣ Protagon.gr",
-      "published": "Wed, 18 Nov 2026 14:32:00 GMT",
-      "lang": "el",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Skąd wśród kilku tysięcy grobów na białośliwskim cmentarzu znalazł się jeden romski? - Fakty Pilskie",
-      "url": "https://faktypilskie.pl/pl/19_wiadomosci-z-regionu/634_bialosliwie/54259_skad-wsrod-kilku-tysiecy-grobow-na-bialosliwskim-cmentarzu-jeden-jest-romski.html",
-      "source": "Fakty Pilskie",
-      "snippet": "Skąd wśród kilku tysięcy grobów na białośliwskim cmentarzu znalazł się jeden romski? Fakty Pilskie",
-      "published": "Wed, 18 Nov 2026 19:39:03 GMT",
+      "title": "Zaproszenie do udziału w pracach Komisji do oceny wniosków w ramach Programu integracji społecznej i obywatelskiej Romów w Polsce na lata 2021-2030 - Gov.pl",
+      "url": "https://www.gov.pl/web/uw-opolski/zaproszenie-do-udzialu-w-pracach-komisji-do-oceny-wnioskow-w-ramach-programu-integracji-spolecznej-i-obywatelskiej-romow-w-polsce-na-lata-20212030",
+      "source": "Gov.pl",
+      "snippet": "Zaproszenie do udziału w pracach Komisji do oceny wniosków w ramach Programu integracji społecznej i obywatelskiej Romów w Polsce na lata 2021-2030 Gov.pl",
+      "published": "Thu, 19 Nov 2026 08:18:26 GMT",
       "lang": "pl",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Tak wygląda syn Don Vasyla! Oto Dziani, artysta z duszą i gorący „łamacz kobiecych serc” - Nowości Dziennik Toruński",
-      "url": "https://nowosci.com.pl/tak-wyglada-syn-don-vasyla-oto-dziani-artysta-z-dusza-i-goracy-lamacz-kobiecych-serc/ar/c1p2-29515517",
-      "source": "Nowości Dziennik Toruński",
-      "snippet": "Tak wygląda syn Don Vasyla! Oto Dziani, artysta z duszą i gorący „łamacz kobiecych serc” Nowości Dziennik Toruński",
-      "published": "Wed, 18 Nov 2026 18:51:05 GMT",
+      "title": "Źli Polacy dokonali pogromu na dobrych Romach? To kłamstwo i manipulacja - OświęcimOnLine.pl",
+      "url": "https://www.oswiecimonline.pl/zli-polacy-dokonali-pogromu-na-dobrych-romach-to-klamstwo-i-manipulacja/",
+      "source": "OświęcimOnLine.pl",
+      "snippet": "Źli Polacy dokonali pogromu na dobrych Romach? To kłamstwo i manipulacja OświęcimOnLine.pl",
+      "published": "Thu, 19 Nov 2026 08:08:35 GMT",
       "lang": "pl",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24",
-      "url": "https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-19-11-2026/ar/c9p2-29417133",
-      "source": "GP24",
-      "snippet": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! GP24",
-      "published": "Wed, 18 Nov 2026 23:32:14 GMT",
+      "title": "Festiwal Literatura Nieobca we Wrocławiu. W tym roku jest poświęcony literaturze Wojwodiny. Co to takiego? - Gazeta Wrocławska",
+      "url": "https://gazetawroclawska.pl/festiwal-literatura-nieobca-we-wroclawiu-w-tym-roku-jest-poswiecony-literaturze-wojwodiny-co-to-takiego/ar/c13p2-29537969",
+      "source": "Gazeta Wrocławska",
+      "snippet": "Festiwal Literatura Nieobca we Wrocławiu. W tym roku jest poświęcony literaturze Wojwodiny. Co to takiego? Gazeta Wrocławska",
+      "published": "Thu, 19 Nov 2026 13:07:40 GMT",
       "lang": "pl",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Mecz rywali Polaków przerwany. Sędzia uruchomił protokół - SportoweFakty",
-      "url": "https://sportowefakty.wp.pl/pilka-nozna/1284817/mecz-rywali-polakow-przerwany-sedzia-uruchomil-protokol",
-      "source": "SportoweFakty",
-      "snippet": "Mecz rywali Polaków przerwany. Sędzia uruchomił protokół SportoweFakty",
-      "published": "Wed, 18 Nov 2026 12:14:45 GMT",
+      "title": "Polski serial zachwycił świat. Od dziś jest dostępny na kolejnej platformie - Dziennik.pl",
+      "url": "https://film.dziennik.pl/news/artykuly/11346413,czarne-stokrotki-polski-serial-thriller-nowa-platforma-streaming-gdzie-ogladac.html",
+      "source": "Dziennik.pl",
+      "snippet": "Polski serial zachwycił świat. Od dziś jest dostępny na kolejnej platformie Dziennik.pl",
+      "published": "Wed, 18 Nov 2026 18:00:00 GMT",
       "lang": "pl",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Gorąco podczas meczu rywali Polski. Sędzia musiał interweniować - weszlo.com",
-      "url": "https://weszlo.com/goraco-podczas-meczu-rywali-polski-sedzia-musial-interweniowac/",
-      "source": "weszlo.com",
-      "snippet": "Gorąco podczas meczu rywali Polski. Sędzia musiał interweniować weszlo.com",
-      "published": "Wed, 18 Nov 2026 10:12:00 GMT",
+      "title": "Rozbudowa DK44 w Oświęcimiu: 11 firm chce zaprojektować drogę - OświęcimOnLine.pl",
+      "url": "https://www.oswiecimonline.pl/rozbudowa-dk44-w-oswiecimiu-11-firm-chce-zaprojektowac-droge/",
+      "source": "OświęcimOnLine.pl",
+      "snippet": "Rozbudowa DK44 w Oświęcimiu: 11 firm chce zaprojektować drogę OświęcimOnLine.pl",
+      "published": "Thu, 19 Nov 2026 07:59:42 GMT",
       "lang": "pl",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Promocje na Czarny Piątek: Office 2024 za jedyne 21,27 EUR i Windows 11 Pro za 12,25 EUR - xiaomi-miui.gr",
-      "url": "https://pl.xiaomi-miui.gr/godeal24-black-friday-2026-deals/",
-      "source": "xiaomi-miui.gr",
-      "snippet": "Promocje na Czarny Piątek: Office 2024 za jedyne 21,27 EUR i Windows 11 Pro za 12,25 EUR xiaomi-miui.gr",
-      "published": "Wed, 18 Nov 2026 19:47:28 GMT",
-      "lang": "pl",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Program tv dla Pokój ze stajnią: Co za cyrk! - Pilot WP",
-      "url": "https://pilot.wp.pl/program-tv/film/pokoj-ze-stajnia-co-za-cyrk-ee689775f0404699ee308a8e94de01b3",
-      "source": "Pilot WP",
-      "snippet": "Program tv dla Pokój ze stajnią: Co za cyrk! Pilot WP",
-      "published": "Wed, 18 Nov 2026 06:29:36 GMT",
-      "lang": "pl",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Europa: Conselho das Conferências Episcopais convida a refletir sobre o acompanhamento da Igreja às comunidades ciganas - Agência ECCLESIA",
-      "url": "https://agencia.ecclesia.pt/portal/europa-conselho-das-conferencias-episcopais-convida-a-refletir-sobre-o-acompanhamento-da-igreja-as-comunidades-ciganas/",
+      "title": "Europa: CCEE e Vaticano defendem maior aposta na pastoral dos ciganos - Agência ECCLESIA",
+      "url": "https://agencia.ecclesia.pt/portal/europa-ccee-e-vaticano-defendem-maior-aposta-na-pastoral-dos-ciganos/",
       "source": "Agência ECCLESIA",
-      "snippet": "Europa: Conselho das Conferências Episcopais convida a refletir sobre o acompanhamento da Igreja às comunidades ciganas Agência ECCLESIA",
-      "published": "Wed, 18 Nov 2026 08:11:00 GMT",
+      "snippet": "Europa: CCEE e Vaticano defendem maior aposta na pastoral dos ciganos Agência ECCLESIA",
+      "published": "Thu, 19 Nov 2026 15:22:00 GMT",
       "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "CELORICO DA BEIRA: Biblioteca Municipal acolheu formação sobre igualdade e inclusão das comunidades ciganas - SAPO",
-      "url": "https://sapo.pt/artigo/celorico-da-beira-biblioteca-municipal-acolheu-formacao-sobre-igualdade-e-inclusao-das-comunidades-ciganas-6afdcc2adc9ea922694f3400",
-      "source": "SAPO",
-      "snippet": "CELORICO DA BEIRA: Biblioteca Municipal acolheu formação sobre igualdade e inclusão das comunidades ciganas SAPO",
-      "published": "Wed, 18 Nov 2026 14:56:00 GMT",
+      "title": "Vereadora Cigana (PDT) divulga nota e confirma viagem espiritual após reportagem sobre ausência e protocolo tardio - Berlinda News",
+      "url": "https://berlinda.com.br/politica/vereador-cigana-pdt-divulga-nota-e-confirma-viagem-espiritual-apos-reportagem-sobre-ausencia-e-protocolo-tardio",
+      "source": "Berlinda News",
+      "snippet": "Vereadora Cigana (PDT) divulga nota e confirma viagem espiritual após reportagem sobre ausência e protocolo tardio Berlinda News",
+      "published": "Thu, 19 Nov 2026 17:33:42 GMT",
       "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Associação condena divulgação repetida de imagens de agressão a aluna - TV RECORD Europa",
-      "url": "https://recordeuropa.com/noticias/portugal/associacao-condena-divulgacao-repetida-de-imagens-de-agressao-a-aluna-18-11-2026-369217",
-      "source": "TV RECORD Europa",
-      "snippet": "Associação condena divulgação repetida de imagens de agressão a aluna TV RECORD Europa",
-      "published": "Wed, 18 Nov 2026 13:23:16 GMT",
+      "title": "GIPSY KINGS by Diego Baliardo - rolecomfish.com.br",
+      "url": "https://rolecomfish.com.br/noticia/6138/gipsy-kings-by-diego-baliardo/amp",
+      "source": "rolecomfish.com.br",
+      "snippet": "GIPSY KINGS by Diego Baliardo rolecomfish.com.br",
+      "published": "Thu, 19 Nov 2026 11:24:00 GMT",
       "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "CEPROL e Sindicato dos Servidores pedem abertura de processo por quebra de decoro contra vereadora Cigana (PDT) - Berlinda News",
+      "url": "https://berlinda.com.br/destaques/ceprol-e-sindicato-dos-servidores-pedem-abertura-de-processo-por-quebra-de-decoro-contra-vereadora-cigana",
+      "source": "Berlinda News",
+      "snippet": "CEPROL e Sindicato dos Servidores pedem abertura de processo por quebra de decoro contra vereadora Cigana (PDT) Berlinda News",
+      "published": "Thu, 19 Nov 2026 20:29:09 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
       "title": "Gipsy Kings by Diego Baliardo e Sidney Magal fazem show único no Qualistage em 29/11 - ABIH-RJ",
-      "url": "https://abihrj.com.br/eventos/gipsy-kings-by-diego-baliardo-e-sidney-magal-fazem-show-unico-no-qualistage-em-29-11",
+      "url": "https://abihrj.com.br/blog/gipsy-kings-by-diego-baliardo-e-sidney-magal-fazem-show-unico-no-qualistage-em-29-11",
       "source": "ABIH-RJ",
       "snippet": "Gipsy Kings by Diego Baliardo e Sidney Magal fazem show único no Qualistage em 29/11 ABIH-RJ",
       "published": "Thu, 19 Nov 2026 02:08:34 GMT",
       "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Festival gratuito reúne música, cultura afro-brasileira e debate sobre intolerância religiosa - O TEMPO Betim",
-      "url": "https://www.otempobetim.com.br/cultura/2026/11/17/festival-gratuito-reune-musica-cultura-afro-brasileira-e-debate-sobre-intolerancia-religiosa",
-      "source": "O TEMPO Betim",
-      "snippet": "Festival gratuito reúne música, cultura afro-brasileira e debate sobre intolerância religiosa O TEMPO Betim",
-      "published": "Tue, 17 Nov 2026 15:39:26 GMT",
+      "title": "E vem aí a mega Cavalgada dos Ciganos, com gravação de DVD e até almoço para os cavaleiros - Eu vi em Linhares",
+      "url": "https://www.euviemlinhares.net/noticia/35567/e-vem-ai-a-mega-cavalgada-dos-ciganos-com-gravacao-de-dvd-e-ate-almoco-para-os-cavaleiros",
+      "source": "Eu vi em Linhares",
+      "snippet": "E vem aí a mega Cavalgada dos Ciganos, com gravação de DVD e até almoço para os cavaleiros Eu vi em Linhares",
+      "published": "Thu, 19 Nov 2026 09:58:39 GMT",
       "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "De projeto nas redes a bar em Barão Geraldo, empreendedora de Campinas conquista espaço no mercado cervejeiro - A Tribuna Regional",
-      "url": "https://atribunaregional.com.br/de-projeto-nas-redes-a-bar-em-barao-geraldo-empreendedora-de-campinas-conquista-espaco-no-mercado-cervejeiro/",
-      "source": "A Tribuna Regional",
-      "snippet": "De projeto nas redes a bar em Barão Geraldo, empreendedora de Campinas conquista espaço no mercado cervejeiro A Tribuna Regional",
-      "published": "Wed, 18 Nov 2026 18:18:00 GMT",
+      "title": "Polícia prende no Piauí cigano suspeito de feminicídio em Luis Gomes-RN - Mossoró Hoje",
+      "url": "https://mossorohoje.com.br/noticias/57590-policia-prende-no-piaui-cigano-suspeito-de-feminicidio-em-luis-gomes-rn",
+      "source": "Mossoró Hoje",
+      "snippet": "Polícia prende no Piauí cigano suspeito de feminicídio em Luis Gomes-RN Mossoró Hoje",
+      "published": "Thu, 19 Nov 2026 17:20:37 GMT",
       "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Festival Mostra Guerreiros de Ogum - O TEMPO Betim",
-      "url": "https://www.otempobetim.com.br/eventos-betim/2026/11/17/festival-mostra-guerreiros-de-ogum",
-      "source": "O TEMPO Betim",
-      "snippet": "Festival Mostra Guerreiros de Ogum O TEMPO Betim",
-      "published": "Tue, 17 Nov 2026 16:24:17 GMT",
-      "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Horóscopo cigano de 19/11/2026: previsões para os 12 signos e mensagens das cartas - O Maringá",
-      "url": "https://omaringa.com.br/coluna/diversidades/horoscopo-cigano-de-19-11-2026-previsoes-para-os-12-signos-e-mensagens-das-cartas/",
-      "source": "O Maringá",
-      "snippet": "Horóscopo cigano de 19/11/2026: previsões para os 12 signos e mensagens das cartas O Maringá",
-      "published": "Wed, 18 Nov 2026 14:14:24 GMT",
-      "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Baralho cigano: veja as previsões para os 12 signos de 16 a 22 de novembro de 2026 - Visor Notícias",
-      "url": "https://visornoticias.com.br/baralho-cigano-veja-as-previsoes-para-os-12-signos-de-16-a-22-de-novembro-de-2026/",
-      "source": "Visor Notícias",
-      "snippet": "Baralho cigano: veja as previsões para os 12 signos de 16 a 22 de novembro de 2026 Visor Notícias",
-      "published": "Tue, 17 Nov 2026 06:01:13 GMT",
-      "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
       "title": "Grupo de ciganos deixa cidade após investigação de golpe na região de Goioerê - Goionews",
-      "url": "https://goio.news/noticias/2417/55734/grupo-de-ciganos-deixa-cidade-apos-investigacao-de-golpe-na-regiao-de-goioere",
+      "url": "https://goio.news/noticias/2418/55734/grupo-de-ciganos-deixa-cidade-apos-investigacao-de-golpe-na-regiao-de-goioere",
       "source": "Goionews",
       "snippet": "Grupo de ciganos deixa cidade após investigação de golpe na região de Goioerê Goionews",
-      "published": "Thu, 19 Nov 2026 02:00:44 GMT",
+      "published": "Fri, 20 Nov 2026 02:00:26 GMT",
       "lang": "pt",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Romska arvsmedel finansierar kultur, utbildning och ungdomsverksamhet - Sveriges Radio",
-      "url": "https://www.sverigesradio.se/avsnitt/romska-arvsmedel-finansierar-kultur-utbildning-och-ungdomsverksamhet",
+      "title": "Vasco x Internacional: videntes fazem previsões e agitam torcida - Vascaino.net",
+      "url": "https://vascaino.net/noticias-do-vasco/vasco-internacional-videntes-e/",
+      "source": "Vascaino.net",
+      "snippet": "Vasco x Internacional: videntes fazem previsões e agitam torcida Vascaino.net",
+      "published": "Thu, 19 Nov 2026 16:48:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
+    },
+    {
+      "title": "Sagor och berättelser på olika romska dialekter och varieteter - Sveriges Radio",
+      "url": "https://www.sverigesradio.se/avsnitt/sagor-och-berattelser-pa-olika-romska-dialekter-och-varieteter",
       "source": "Sveriges Radio",
-      "snippet": "Romska arvsmedel finansierar kultur, utbildning och ungdomsverksamhet Sveriges Radio",
-      "published": "Wed, 18 Nov 2026 14:42:49 GMT",
+      "snippet": "Sagor och berättelser på olika romska dialekter och varieteter Sveriges Radio",
+      "published": "Thu, 19 Nov 2026 22:35:45 GMT",
       "lang": "sv",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Αγριος ξυλοδαρμός γυναίκας από τον σύζυγο και τους δύο γιους της ( video ) ",
-      "url": "https://www.e-radio.gr/post/337857/agrios-xylodarmos-gynaikas-apo-ton-syzygo-kai-toys-dyo-gioys-tis",
-      "source": "e-radio.gr",
-      "snippet": "",
-      "published": "20261118T173000Z",
-      "lang": "Greek",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "title": "\"Vi skulle mördas och styckas\" - TV4 Nyheterna",
+      "url": "https://www.tv4.se/artikel/4fbfbfa204bf72519400676c/vi-skulle-mordas-och-styckas",
+      "source": "TV4 Nyheterna",
+      "snippet": "\"Vi skulle mördas och styckas\" TV4 Nyheterna",
+      "published": "Wed, 18 Nov 2026 13:26:21 GMT",
+      "lang": "sv",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     },
     {
-      "title": "Zatvárať agresívne deti do väzenia nič nevyrieši . Prečo sociálka prehliada varovné signály detských tragédií ? ",
-      "url": "https://www.aktuality.sk/clanok/ZdO4bnO/kde-bola-socialka-ked-deti-vrazdili-za-dverami-uradov-vladne-chaos-na-ktory-doplacaju-nevinni/",
-      "source": "aktuality.sk",
-      "snippet": "",
-      "published": "20261118T173000Z",
-      "lang": "Slovak",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
-    },
-    {
-      "title": "Newcastle United Suffer Blow In Juan Miranda Chase",
-      "url": "http://insidefutbol.com/2026/11/18/not-a-topic-newcastle-united-and-manchester-united-face-battle-for-full-back/733119/",
-      "source": "insidefutbol.com",
-      "snippet": "",
-      "published": "20261118T173000Z",
-      "lang": "English",
-      "collected_utc": "2026-11-19T02:50:05+00:00"
+      "title": "Älä vie hamettani | Telkku | Ohjelman aikataulut - Iltalehti",
+      "url": "https://www.iltalehti.fi/telkku/ohjelmat/ala-vie-hamettani/13388111",
+      "source": "Iltalehti",
+      "snippet": "Älä vie hamettani | Telkku | Ohjelman aikataulut Iltalehti",
+      "published": "Thu, 19 Nov 2026 17:28:14 GMT",
+      "lang": "fi",
+      "collected_utc": "2026-11-20T02:37:48+00:00"
     }
   ]
 }
