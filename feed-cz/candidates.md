@@ -1,111 +1,147 @@
-# Kandidáti — 2026-11-20T07:47:05+00:00 (27 položek)
+# Kandidáti — 2026-11-21T02:53:39+00:00 (36 položek)
 
-_Zdroje: Google News 84 · GDELT 0 (disabled) · feedy 1 · watch 2_
+_Zdroje: Google News 134 · GDELT 0 (disabled) · feedy 2 · watch 1_
 
-1. **Plná pusa nácků na Ukrajině, přitom je mají ve straně. Zdechovský nešetřil Svobodné, upravil jejich logo** — https://www.forum24.cz/feed/ [cs]
-   https://www.forum24.cz/plna-pusa-nacku-na-ukrajine-pritom-je-maji-ve-strane-zdechovsky-nesetril-svobodne-upravil-jejich-logo
-   Klauni, nenechal lidovecký europoslanec Tomáš Zdechovský bez povšimnutí dění ve straně Svobodných. Ti vyloučili svého člena Davida Štafla poté, co novináři odhalili jeho působení v neonacistické organ
+1. **Chcete pracovat v Nadaci OSF? Hledáme manažera*ku komunikace a PR** — https://osf.cz/feed/ [cs]
+   https://osf.cz/2026/11/20/chcete-pracovat-v-nadaci-osf-hledame-manazeraku-komunikace-a-pr/
+   Víme, kam chceme komunikaci Nadace OSF posouvat. Do týmu rozvoje hledáme osobnost, která propojí strategické uvažování s praktickou realizací. Člověka, který rozhoduje o tom, co a jak sdělujeme, a zár
 
-2. **Umění, pokud je výborné, nepotřebuje výklad. To je důvod síly Santiniho architektury, říká výtvarník Vladimír Kiseljov - mujRozhlas** — mujRozhlas [cs]
-   https://www.mujrozhlas.cz/vizitka/umeni-pokud-je-vyborne-nepotrebuje-vyklad-je-duvod-sily-santiniho-architektury-rika
-   Umění, pokud je výborné, nepotřebuje výklad. To je důvod síly Santiniho architektury, říká výtvarník Vladimír Kiseljov mujRozhlas
+2. **Stovky studentek v Iráku protestovaly proti odvolání mužů-učitelů z jejich školy** — https://servis.idnes.cz/rss.aspx?c=zpravodaj [cs]
+   https://www.idnes.cz/zpravy/zahranicni/studentky-segregace-irak-genderova-univerzita-demonstrace.A261120_193707_zahranicni_votr#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main
+   Stovky studentek protestovaly proti odvolání mužských vyučujících z jejich univerzity v jižním Iráku. Kroky ženy kritizovaly spolu s lidskoprávními aktivisty jako politiku genderové segregace. V uplyn
 
-3. **Anglie dostala od UEFA pokutu za protikatolické pokřiky v Madridu. Podmínka platí na celou kvalifikaci EURO - FotbalPortal.cz** — FotbalPortal.cz [cs]
-   https://www.fotbalportal.cz/ostatni/vse/81943-anglie-uefa-pokuta-protikatolicke-pokriky-madrid-zakaz-fanousku/
-   Anglie dostala od UEFA pokutu za protikatolické pokřiky v Madridu. Podmínka platí na celou kvalifikaci EURO FotbalPortal.cz
+3. **Nadutec, bojí se žen, vmetla Macinkovi mluvčí ruské diplomacie. Z Černínu přišla ironická reakce** — https://www.aktualne.cz/rss/ [cs]
+   https://zpravy.aktualne.cz/zahranici/je-naduty-a-boji-se-zen-zacharovova-se-kvuli-vyrokum-o-muzatkach-obula-do-macinky/r~aaa294c37c86be3553a83670d5d623c5/
+   Jako rasistický a neonacistický označila mluvčí ruského ministerstva zahraničí Marija Zacharovová výrok českého ministra zahraničí Petra Macinky, který nedávno nazval ruské družstvo juniorských hokeji
 
-4. **Ukrajinec měl na dívku zaútočit sekerou, ona se bránila nožem. Muž stanul před soudem - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/praha/zpravy/ukrajinec-mel-na-divku-zautocit-sekerou-ona-se-branila-nozem-muz-stanul-pred-soudem.A261119_134621_praha-zpravy_ichuc
-   Ukrajinec měl na dívku zaútočit sekerou, ona se bránila nožem. Muž stanul před soudem iDNES.cz
+4. **Pětka SZ: Odhalená buňka neonacistů a obavy z odplaty na radnicích** — https://www.seznamzpravy.cz/rss [cs]
+   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-petka-sz-odhalena-bunka-neonacistu-a-obavy-z-odplaty-na-radnicich-321139
+   Vážení čtenáři, toto je další vydání páteční Pětky, která bude dnes o nacistech (pardon, že otvíráme takhle zostra), cenách v roce 1985 i o tom, co už je možná korupce.
 
-5. **Podpoříme 14 regionálních projektů i zahraniční spolupráci: výsledky EEA Civil Society Fund** — https://osf.cz/feed/ [cs]
-   https://osf.cz/2026/11/19/podporime-14-regionalnich-projektu-i-zahranicni-spolupraci-vysledky-eea-civil-society-fund/
-   Zveřejňujeme výsledky bilaterálních a regionálních grantových výzev programu EEA Civil Society Fund, jejichž uzávěrka byla 15. září 2026. Odborná hodnotící komise vybrala celkem 14 projektů, které zís
+5. **Tribunál poprvé odsoudil stát za genocidu. Důkazy Myanmaru o úmyslu vyvraždit Rohingy jsou dalekosáhlé** — https://denikn.cz/feed/ [cs]
+   https://denikn.cz/2264645/tribunal-poprve-odsoudil-stat-za-genocidu-dukazy-myanmaru-o-umyslu-vyvrazdit-rohingy-jsou-dalekosahle/
+   Od doby, kdy OSN po holokaustu přijala úmluvu o genocidě, ještě nikdy Mezinárodní soudní dvůr nerozhodl, že genocidu spáchal přímo stát. Až dodnes. Myanmar, někdejší Barma, je první.
 
-6. **Češi na boxu v Nizozemsku, kde se hajlovalo a křičela nacistická hesla** — https://www.seznamzpravy.cz/rss [cs]
-   https://www.seznamzpravy.cz/clanek/domaci-kauzy-cesti-extremiste-v-nizozemsku-kde-se-hajlovalo-a-kricela-nacisticka-hesla-320941
-   Hajlování a výkřiky nacistických hesel provázely boxerské turnaje v Nizozemsku, kterých se účastnili i členové české neonacistické organizace Active Club. Záběry zveřejnili nizozemští novináři z inves
+6. **Roma Janka adoptovali Švédové. Po 20 letech se vrátil a děkoval biologické matce** — https://www.denik.cz/rss/zpravy.html [cs]
+   https://www.denik.cz/spolecnost/roma-janka-adoptovali-svedove-po-20-letech-se-vratil-a-dekoval-biologicke-matce/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=spolecnost
+   Janka z romské osady si adoptoval švédský pár, když mu byl rok a půl. Ve Švédsku vyrostl jako Alexander Armbäck a o adopci věděl odmalička. V dospívání ho začalo zajímat, proč se ho biologická rodina 
 
-7. **Poprvé za 18 let. Svobodní vyloučili člena kvůli neonacistům, nedávno přitom hostili krajní pravici** — https://www.forum24.cz/feed/ [cs]
+7. **Je to rasismus a neonacismus, zuří v Rusku. Vadí Macinkova slova o hokejistkách** — https://www.denik.cz/rss/zpravy.html [cs]
+   https://www.denik.cz/hokej/rasismus-neonacismus-petr-macinka-ministerstvo-zahranici-rusko/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=hokej
+   Jako rasistický a neonacistický označila mluvčí ruského ministerstva zahraničí Marija Zacharovová výrok českého ministra zahraničí Petra Macinky, který nedávno nazval ruské družstvo juniorských hokeji
+
+8. **Výrok o „mužatkách“ má dohru. Zacharovová ostře napadla Macinku** — https://www.forum24.cz/feed/ [cs]
+   https://www.forum24.cz/vyrok-o-muzatkach-ma-dohru-zacharovova-ostre-napadla-macinku
+   Výrok ministra zahraničí Petra Macinky (Motoristé) o ruských hokejistkách vyvolal reakci Moskvy. Mluvčí ruského ministerstva zahraničí Marija Zacharovová v pátek napadla i jeho následnou omluvu, ktero
+
+9. **Macinkovy hokejové „mužatky“: Rasismus a neonacismus, odsuzuje ho ruské ministerstvo** — https://www.blesk.cz/rss [cs]
+   https://www.blesk.cz/clanek/zpravy-politika/853155/macinkovy-hokejove-muzatky-rasismus-a-neonacismus-odsuzuje-ho-ruske-ministerstvo.html
+   Jako rasistický a neonacistický označila mluvčí ruského ministerstva zahraničí Marija Zacharovová výrok českého ministra zahraničí Petra Macinky, který nedávno nazval ruské družstvo juniorských hokeji
+
+10. **Romské děti samy sobě musí věřit a postavit se na vlastní nohy, říká Milan Giovanni Bindatsch - mujRozhlas** — mujRozhlas [cs]
+   https://www.mujrozhlas.cz/vizitka/romske-deti-samy-sobe-musi-verit-postavit-se-na-vlastni-nohy-rika-milan-giovanni-bindatsch
+   Romské děti samy sobě musí věřit a postavit se na vlastní nohy, říká Milan Giovanni Bindatsch mujRozhlas
+
+11. **Lavi a Jarda naposledy spolu. Třetí Vyšehrad je dotočený a vrací se ke sprostým kořenům - Kinobox** — Kinobox [cs]
+   https://www.kinobox.cz/clanky/filmy/60551-lavi-a-jarda-naposledy-spolu-vysehrad-try-je-dotoceny-a-vraci-micudu-na-domaci-pazit
+   Lavi a Jarda naposledy spolu. Třetí Vyšehrad je dotočený a vrací se ke sprostým kořenům Kinobox
+
+12. **Baví mě okamžiky zrodu nápadu. Najednou je tu něco, co před chvílí nebylo, říká skladatel Pavel Trojan - mujRozhlas** — mujRozhlas [cs]
+   https://www.mujrozhlas.cz/vizitka/bavi-me-okamziky-zrodu-napadu-najednou-je-tu-neco-co-pred-chvili-nebylo-rika-skladatel
+   Baví mě okamžiky zrodu nápadu. Najednou je tu něco, co před chvílí nebylo, říká skladatel Pavel Trojan mujRozhlas
+
+13. **Zacharovová označila Macinkův výrok o hokejistkách za rasismus a neonacismus - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/2904446
+   Zacharovová označila Macinkův výrok o hokejistkách za rasismus a neonacismus České noviny
+
+14. **Je nadutý a bojí se žen. Zacharovová nařkla Macinku z rasismu a neonacismu - iDNES.tv** — iDNES.tv [cs]
+   https://tv.idnes.cz/zahranicni/macinka-muzatky-zacharovova-ministerstvo-zahranici-rusko-sport-hokej.V261120_153559_tv-mimohp_pech
+   Je nadutý a bojí se žen. Zacharovová nařkla Macinku z rasismu a neonacismu iDNES.tv
+
+15. **Hluboce urážlivé skandování. UEFA potrestala Anglii kvůli fanouškům ve Španělsku - Eurofotbal** — Eurofotbal [cs]
+   https://www.eurofotbal.cz/clanky/hluboce-urazlive-skandovani-uefa-potrestala-anglii-kvuli-fanouskum-ve-spanelsku-853541/
+   Hluboce urážlivé skandování. UEFA potrestala Anglii kvůli fanouškům ve Španělsku Eurofotbal
+
+16. **Anglie dostala trest za chování fanoušků během vítězného duelu ve Španělsku - Sport.cz** — Sport.cz [cs]
+   https://www.sport.cz/clanek/fotbal-liga-narodu-anglie-dostala-trest-za-chovani-fanousku-behem-vitezneho-duelu-ve-spanelsku-5579334
+   Anglie dostala trest za chování fanoušků během vítězného duelu ve Španělsku Sport.cz
+
+17. **Zacharovová nešetřila Macinku. Podle ní je nadutý a bojí se žen - iSport.cz** — iSport.cz [cs]
+   https://isport.blesk.cz/clanek/hokej/482367/je-naduty-rasista-neonacista-a-boji-se-zen-zacharovova-se-ostre-pustila-do-macinky.html
+   Zacharovová nešetřila Macinku. Podle ní je nadutý a bojí se žen iSport.cz
+
+18. **Ostrý vzkaz do Ruska. Macinkův mluvčí spustil bouři - ParlamentniListy.cz** — ParlamentniListy.cz [cs]
+   https://www.parlamentnilisty.cz/arena/monitor/Ostry-vzkaz-do-Ruska-Macinkuv-mluvci-spustil-bouri-799826
+   Ostrý vzkaz do Ruska. Macinkův mluvčí spustil bouři ParlamentniListy.cz
+
+19. **Recenze: Možná je načase, aby Spravedlnost otevřela oči, navrhuje německý thriller s diváckou cenou z Berlína - Totalfilm.cz** — Totalfilm.cz [cs]
+   https://www.totalfilm.cz/2026/11/recenze-spravedlnost/
+   Recenze: Možná je načase, aby Spravedlnost otevřela oči, navrhuje německý thriller s diváckou cenou z Berlína Totalfilm.cz
+
+20. **Češi vyšli do ulic. K čemu povede protestní podzim? - RESPEKT** — RESPEKT [cs]
+   https://www.respekt.cz/podcasty/cesi-vysli-do-ulic-k-cemu-povede-protestni-podzim
+   Češi vyšli do ulic. K čemu povede protestní podzim? RESPEKT
+
+21. **Neonacistické extrémisty vede finanční poradce. Kandidoval do budějckého zastupitelstva - Budějcká Drbna** — Budějcká Drbna [cs]
+   https://budejcka.drbna.cz/krimi/906084-velitel-neonacistickeho-active-clubu-kandidoval-za-svobodne-do-budejckeho-zastupitelstva.html
+   Neonacistické extrémisty vede finanční poradce. Kandidoval do budějckého zastupitelstva Budějcká Drbna
+
+22. **Další problém u Svobodných: politik vládní strany pracoval pro zastánce bílé nadřazenosti - Page Not Found** — Page Not Found [cs]
+   https://pagenotfound.cz/clanek/dalsi-clen-vladnich-svobodnych-ma-problem-s-extremismem
+   Další problém u Svobodných: politik vládní strany pracoval pro zastánce bílé nadřazenosti Page Not Found
+
+23. **Poprvé za 18 let. Svobodní vyloučili člena kvůli neonacistům, nedávno přitom hostili krajní pravici - forum 24** — forum 24 [cs]
    https://www.forum24.cz/poprve-za-18-let-svobodni-vyloucili-clena-kvuli-neonacistum-nedavno-pritom-hostili-krajni-pravici
-   Svobodní vyloučili svého člena Davida Štafla poté, co investigace Seznam Zpráv odhalila jeho působení v neonacistické organizaci Active Club. Podle vedení strany jde o první podobný případ za 18 let j
+   Poprvé za 18 let. Svobodní vyloučili člena kvůli neonacistům, nedávno přitom hostili krajní pravici forum 24
 
-8. **Řádění zdrogovaného Eduarda (43): Napadl 4 muže a nezletilou dívku (14)! Sestřičku bránila s nožem v ruce** — https://www.blesk.cz/rss [cs]
-   https://www.blesk.cz/clanek/regiony-praha/853082/radeni-zdrogovaneho-eduarda-43-napadl-4-muze-a-nezletilou-divku-14-sestricku-branila-s-nozem-v-ruce.html
-   Krajský soud v Praze začal ve čtvrtek projednávat případ Eduarda P. z Ukrajiny, který v únoru v Kralupech nad Vltavou pod vlivem drog na ubytovně napadl čtyři muže teleskopickým obuškem a dvěma noži. 
+24. **Švýcaři rozhodnou o uvolnění vývozu zbraní. Průzkumy ukazují těsný souboj - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/ekonomika/zahranicni/svycarsko-referendum-vyvoz-zbrani.A261119_144205_eko-zahranicni_rie
+   Švýcaři rozhodnou o uvolnění vývozu zbraní. Průzkumy ukazují těsný souboj iDNES.cz
 
-9. **Romské děti samy sobě musí věřit a postavit se na vlastní nohy, říká Milan Giovanni Bindatsch - Český rozhlas Vltava** — Český rozhlas Vltava [cs]
-   https://vltava.rozhlas.cz/romske-deti-samy-sobe-musi-verit-a-postavit-se-na-vlastni-nohy-rika-milan-9657587
-   Romské děti samy sobě musí věřit a postavit se na vlastní nohy, říká Milan Giovanni Bindatsch Český rozhlas Vltava
+25. **Depardieu a Houellebecq čelí obvinění ze skupinového znásilnění herečky - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/zahranicni/depardieu-a-houellebecq-celi-obvineni-ze-skupinoveho-znasilneni-herecky.A261120_161236_zahranicni_kha
+   Depardieu a Houellebecq čelí obvinění ze skupinového znásilnění herečky iDNES.cz
 
-10. **Útočníci na romskou ubytovnu v Aši dostali téměř 7 let vězení - regionzapad.cz** — regionzapad.cz [cs]
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xWDhKLTFKbmQzc2VhOXRVamltU0RDWVlhMmhVQWE3eFRMbFRlZGJnV05LNms5bnFXZEVHMUhnX3VTRFlXMHNDWWYtWlNUNHJlcDhSMEdzTndab29nZE9rckRB?oc=5
-   Útočníci na romskou ubytovnu v Aši dostali téměř 7 let vězení regionzapad.cz
+26. **Svoboda projevu a fact-checking aneb Jak se Seznam netrefil - Konzervativní noviny** — Konzervativní noviny [cs]
+   https://www.konzervativninoviny.cz/svoboda-projevu-a-fact-checking-aneb-jak-se-seznam-netrefil/
+   Svoboda projevu a fact-checking aneb Jak se Seznam netrefil Konzervativní noviny
 
-11. **Tomáš Kačo vydá vánoční album, které si dlouho přál. Už teď má v hlavě další desky - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/zlinsky-kraj/tomas-kaco-vyda-vanocni-album-ktere-si-dlouho-pral-uz-ted-ma-v-hlave-dalsi-desky.A261119_140140_metro-zlin-zpravy_air
-   Tomáš Kačo vydá vánoční album, které si dlouho přál. Už teď má v hlavě další desky Metro.cz
+27. **Češi se konečně dočkají dlouho očekávaných peněz. Juchelka slíbil, že státní dávky dorazí ještě do konce listopadu - EnergoZrouti.cz** — EnergoZrouti.cz [cs]
+   https://energozrouti.cz/clanek/juchelka-slibene-statni-davky-dorazi-do-konce-listopadu
+   Češi se konečně dočkají dlouho očekávaných peněz. Juchelka slíbil, že státní dávky dorazí ještě do konce listopadu EnergoZrouti.cz
 
-12. **Smyslem je, aby bylo co nejméně osamělých lidí, říká ředitel Nadačního fondu Českého rozhlasu Jiří Váňa - mujRozhlas** — mujRozhlas [cs]
-   https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT21CaExYd2Y4VmJ3bXFzUklwM2d4Nmh4d21DTGI0RURsUzY4NnNCZktQTkRqQnUxcWl1TXFseF9OWkMzNGlxaE5DTmQ5a0hTTTZIVTN5bkl2SllNTHBSQTh6bF84OXBUNFlaa2owMERPdi1iWkpUb2ZSMkFrd2R4UjB6WnFObEVDa3ZneHJRT0ktWUVKeEJPTkZ0TGtlT3NEdXBKSzJYUVRlRXZ4bjZGQ0FoUDNRWEc0R2Z2QWR4ejhFb2c?oc=5
-   Smyslem je, aby bylo co nejméně osamělých lidí, říká ředitel Nadačního fondu Českého rozhlasu Jiří Váňa mujRozhlas
+28. **Amnesty International zdokumentovala desítky případů policejního násilí při stávce ve Španělsku - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/svet/amnesty-international-zdokumentovala-desitky-pripadu-policejniho-nasili-pri-stavce-ve-spanelsku-379798
+   Amnesty International zdokumentovala desítky případů policejního násilí při stávce ve Španělsku ČT24
 
-13. **Říkali mi, že mi Arab vezme děti a už je neuvidím. Dcera hlavně po 11. září odmítala palestinskou kulturu, vzpomíná Erika - Heroine.cz** — Heroine.cz [cs]
-   https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUh3VGVhLWV6WHJEYXJmekY0T1ZLSHJGNzA4TDU1Y0h6eWJHN0gwTlgxamRGUE9RV3JXTmRYVjFfT2REZ0JZRUphU0lGMS1NOHBIRUpCaVVRSVpGVldaRDc0aVQ1eW1jcTBuYzhVUGFJVmhpdVNOTkZTbEc1SHNjd3NFcXBYNjBvcXJMWmllaVJkRHRfZ25pbjlXb3RmZmd1clJDRGg0U2JqZUYwTVQxSDhpWll3U19feEUzNEN5RmdpWFVJMlhCdTdrTkcxcklVYm8wWi0wcHhmZ1oxQUliS2hrdURxdw?oc=5
-   Říkali mi, že mi Arab vezme děti a už je neuvidím. Dcera hlavně po 11. září odmítala palestinskou kulturu, vzpomíná Erika Heroine.cz
+29. **Gregorová žádá Čínu o vysvětlení svého zadržení. “Jinak navrhnu sankce,” hrozí - Pirátská strana** — Pirátská strana [cs]
+   https://www.pirati.cz/jak-pirati-pracuji/gregorova-zada-cinu-o-vysvetleni-sveho-zadrzeni-jinak-navrhnu-sankce-hrozi/
+   Gregorová žádá Čínu o vysvětlení svého zadržení. “Jinak navrhnu sankce,” hrozí Pirátská strana
 
-14. **Viktoria zaplatí za chování fanoušků v Norsku téměř tři čtvrtě milionu korun - Plzeňský deník** — Plzeňský deník [cs]
-   https://plzensky.denik.cz/ostatni-fotbal/fotbal-viktoria-plzen-evropska-liga-lillestrom-uefa-trest-pokuta-fanousci-rasismus/
-   Viktoria zaplatí za chování fanoušků v Norsku téměř tři čtvrtě milionu korun Plzeňský deník
+30. **Muž se sekerou zaútočil na čtrnáctiletou dívku - Náš REGION** — Náš REGION [cs]
+   https://nasregion.cz/muz-se-sekerou-zautocil-na-ctrnactiletou-divku-470918/
+   Muž se sekerou zaútočil na čtrnáctiletou dívku Náš REGION
 
-15. **V Německu je ve vazbě mladík, který plánoval teroristický útok na mešitu - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2R1cHQ2ODJNWGNVcU9SMXlNMmVoN1Y2VU1zaGNmT3VwSGNOMGxMSDhZOGlnREdfN2cwLWl3RWJmREtQM2FROXZoaUhoNmE1cldkMWx6cVJoQ0xQSEdqQWxCeW5TYkhNWFQ0TWZVaVkyUm5XLVV5VWlyN0pnQ1RZRjNmYnN6VWlTam1fZG4tSkladks3QVZRSEptNUMzYUtpd29pTE43dUhSajF2RkF3WENqVFFwb1dIeDJGakJoY1JsZw?oc=5
-   V Německu je ve vazbě mladík, který plánoval teroristický útok na mešitu Seznam Zprávy
+31. **V Kralupech řádil jako šílenec. Byl jsem pod vlivem neznámé látky, prohlásil u soudu Ukrajinec - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/krimi-v-kralupech-radil-jako-silenec-byl-jsem-pod-vlivem-nezname-latky-prohlasil-u-soudu-ukrajinec-40609428
+   V Kralupech řádil jako šílenec. Byl jsem pod vlivem neznámé látky, prohlásil u soudu Ukrajinec Novinky
 
-16. **Tady je stíhaný Houellebecq, tady se ukažte! - Echo24** — Echo24 [cs]
-   https://www.echo24.cz/a/HChyF/komentar-jiri-penas-tady-je-stihany-houellebecq-tady-se-ukazte
-   Tady je stíhaný Houellebecq, tady se ukažte! Echo24
+32. **Omluvu nepřijímám, málem mi zabil syna, prohlásil jeden z napadených - iDNES.tv** — iDNES.tv [cs]
+   https://tv.idnes.cz/krimi/ukrajinec-drogy-ubytovna-utok-nuz-sekera-kralupy-nad-vltavou-nezletila-pokus-vrazda.V261119_140629_idnestv_iri
+   Omluvu nepřijímám, málem mi zabil syna, prohlásil jeden z napadených iDNES.tv
 
-17. **Superdávka bude do konce listopadu, slibuje Juchelka. Podle odborníků to ale nemá šanci stihnout - EnergoZrouti.cz** — EnergoZrouti.cz [cs]
-   https://energozrouti.cz/clanek/superdavka-juchelka-slibuje-listopad-odbornici-varuji-pred-protazenim
-   Superdávka bude do konce listopadu, slibuje Juchelka. Podle odborníků to ale nemá šanci stihnout EnergoZrouti.cz
+33. **Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují - Radio Wave** — Radio Wave [cs]
+   https://wave.rozhlas.cz/iracka-univerzita-zakazala-muzum-vyucovat-zeny-stovky-studentek-protestuji-9657881
+   Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují Radio Wave
 
-18. **Desítky Plzeňanů přespaly na břehu Radbuzy s bezdomovci. Jedna noc ukázala, jak se město dívá na chudobu - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/plzensky-kraj/desitky-plzenanu-prespaly-na-brehu-radbuzy-s-bezdomovci-jedna-noc-ukazala-jak-se-mesto-diva-na-chudo.A261119_231533_metro-plzen-zpravy_air
-   Desítky Plzeňanů přespaly na břehu Radbuzy s bezdomovci. Jedna noc ukázala, jak se město dívá na chudobu Metro.cz
+34. **Plzeň dostala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků - České noviny** — České noviny [cs]
+   https://www.ceskenoviny.cz/zpravy/plzen-dostala-od-uefa-pokutu-temer-tri-ctvrte-milionu-korun-za-chovani-fanousku/2903594
+   Plzeň dostala od UEFA pokutu téměř tři čtvrtě milionu korun za chování fanoušků České noviny
 
-19. **Město dává nejchudším najevo, že nejsou vítáni, upozorňují organizátoři akce Noc venku - Plzeňská Drbna** — Plzeňská Drbna [cs]
-   https://plzenska.drbna.cz/zpravy/906072-mesto-dava-nejchudsim-najevo-ze-nejsou-vitani-upozornuji-organizatori-akce-noc-venku.html
-   Město dává nejchudším najevo, že nejsou vítáni, upozorňují organizátoři akce Noc venku Plzeňská Drbna
+35. **Dílčí ruské vítězství, IIHF neuspěla se stížností. Sport má spojovat, vzkázal Putin - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/hokej/reprezentace/rusko-cas-iihf-stiznost-soudci-navsteva-moskvy.A261120_092226_reprezentace_ivt
+   Dílčí ruské vítězství, IIHF neuspěla se stížností. Sport má spojovat, vzkázal Putin iDNES.cz
 
-20. **Aleš Juchelka: Chceme ušetřit, ale ochránit zranitelné lidi - Frekvence 1** — Frekvence 1 [cs]
-   https://www.frekvence1.cz/clanky/press-klub-clanky/ales-juchelka-podpora-v-nezamestnanosti-se-zmeni-zranitelnejsi-skupiny-si-zachovaji-vyhodnejsi-podminky.shtml
-   Aleš Juchelka: Chceme ušetřit, ale ochránit zranitelné lidi Frekvence 1
-
-21. **Kde je hranice , jestli je 200 korun moc nebo málo ? - Seznam** — Seznam [cs]
-   https://medium.seznam.cz/clanek/mirek-vladar-kde-je-hranice-jestli-je-200-korun-moc-nebo-malo-348262
-   Kde je hranice , jestli je 200 korun moc nebo málo ? Seznam
-
-22. **V okolí Opuštěné vyroste také úplně nová čtvrť - Seznam** — Seznam [cs]
-   https://medium.seznam.cz/clanek/pavel-jelinek-v-okoli-opustene-vyroste-take-uplne-nova-ctvrt-347691
-   V okolí Opuštěné vyroste také úplně nová čtvrť Seznam
-
-23. **Nová starostka Čáslavi: Chceme dostupné bydlení pro mladé i seniory - Kutnohorský deník** — Kutnohorský deník [cs]
-   https://kutnohorsky.denik.cz/komunalni-volby/nova-starostka-caslavi-chceme-dostupne-bydleni-pro-mlade-i-seniory/
-   Nová starostka Čáslavi: Chceme dostupné bydlení pro mladé i seniory Kutnohorský deník
-
-24. **Zákupy se rázně postavily proti ubytovně. Než mít ve městě nepřizpůsobivé, raději se vzdají na čas investic - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-zakupy-se-razne-postavily-proti-ubytovne-nez-mit-ve-meste-neprizpusobive-radeji-se-vzdaji-na-cas-investic-40609491
-   Zákupy se rázně postavily proti ubytovně. Než mít ve městě nepřizpůsobivé, raději se vzdají na čas investic Novinky
-
-25. **Rusko si předvolalo finskou chargé d’affaires v Moskvě - Novinky** — Novinky [cs]
-   https://www.novinky.cz/clanek/zahranicni-rusko-si-predvolalo-finskou-charge-daffaires-v-moskve-40609547
-   Rusko si předvolalo finskou chargé d’affaires v Moskvě Novinky
-
-26. **Dnes se slaví Mezinárodní den mužů, o který nestojí ani samotní muži - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/clanek/zajimavosti/139472/dnes-se-slavi-mezinarodni-den-muzu-o-ktery-nestoji-ani-samotni-muzi.html
-   Dnes se slaví Mezinárodní den mužů, o který nestojí ani samotní muži Reflex.cz
-
-27. **Součástí Týdne za dětství bez násilí je Bubnovačka, učí děti, jak si říci o pomoc - Advokátní deník** — Advokátní deník [cs]
-   https://advokatnidenik.cz/2026/11/19/soucasti-tydne-za-detstvi-bez-nasili-je-bubnovacka-uci-deti-jak-si-rici-o-pomoc/
-   Součástí Týdne za dětství bez násilí je Bubnovačka, učí děti, jak si říci o pomoc Advokátní deník
+36. **Ombudsmanka upozornila na nejasnosti při zaměstnávání lidí z Ukrajiny - Advokátní deník** — Advokátní deník [cs]
+   https://advokatnidenik.cz/2026/11/20/ombudsmanka-upozornila-na-nejasnosti-pri-zamestnavani-lidi-z-ukrajiny/
+   Ombudsmanka upozornila na nejasnosti při zaměstnávání lidí z Ukrajiny Advokátní deník
