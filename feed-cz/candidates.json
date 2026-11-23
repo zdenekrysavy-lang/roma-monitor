@@ -1,154 +1,154 @@
 {
-  "generated_utc": "2026-11-22T07:47:07+00:00",
+  "generated_utc": "2026-11-23T02:02:03+00:00",
   "count": 14,
   "sources": {
     "profile": "cz",
-    "google_news": 96,
+    "google_news": 87,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 2,
+    "feeds": 1,
     "news_feeds": 4,
     "watch": 0,
-    "before_dedup": 64,
-    "total": 50,
-    "skipped_seen": 49,
-    "gn_resolved": 1,
-    "gn_resolve_tried": 1,
-    "dropped_after_resolve": 0,
-    "new": 1,
-    "carried_over": 13,
-    "window_start": "2026-11-21T07:46:43+00:00",
-    "publish_run": true,
+    "before_dedup": 58,
+    "total": 43,
+    "skipped_seen": 27,
+    "gn_resolved": 13,
+    "gn_resolve_tried": 13,
+    "dropped_after_resolve": 2,
+    "new": 14,
+    "carried_over": 0,
+    "window_start": "2026-11-22T07:47:07+00:00",
+    "publish_run": false,
     "vps_trigger": "ok"
   },
   "candidates": [
     {
-      "title": "V Olomouckém kraji přibývají místa pro lidi bez domova. Odborníci ale varují, že bez dostupného bydlení to nestačí - Metro.cz",
-      "url": "https://www.metro.cz/kraje/olomoucky-kraj/v-olomouckem-kraji-pribyvaji-mista-pro-lidi-bez-domova-odbornici-ale-varuji-ze-bez-dostupneho-bydlen.A261121_073038_metro-olomouc-zpravy_air",
-      "source": "Metro.cz",
-      "snippet": "V Olomouckém kraji přibývají místa pro lidi bez domova. Odborníci ale varují, že bez dostupného bydlení to nestačí Metro.cz",
-      "published": "Sat, 21 Nov 2026 05:00:00 GMT",
+      "title": "Židovský terorismus. Eisenkot, který skládá izraelskou vládu, odsoudil útok osadníků na Palestince",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-zidovsky-terorismus-eisenkot-ktery-sklada-izraelskou-vladu-odsoudil-utok-osadniku-na-palestince-40609913",
+      "source": "https://www.novinky.cz/rss",
+      "snippet": "Militantní izraelští osadníci v neděli časně ráno napadli palestinské vesnice na Západním břehu, informuje agentura Reuters. Podle místních obyvatel útočníci zakládali ohně a psali rasistické vzkazy. Předák izraelské opozice Gadi Eisenkot, který se snaží sestavit novou vládu, to označil za židovský ",
+      "published": "Sun, 22 Nov 2026 23:06:50 +0100",
       "lang": "cs",
-      "collected_utc": "2026-11-22T07:47:07+00:00"
+      "collected_utc": "2026-11-23T02:02:03+00:00"
     },
     {
-      "title": "Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují",
-      "url": "https://www.irozhlas.cz/zpravy-svet/iracka-univerzita-zakazala-muzum-vyucovat-zeny-stovky-studentek-protestuji_2611212256_cen",
-      "source": "https://www.irozhlas.cz/rss/irozhlas",
-      "snippet": "Na irácké univerzitě Al-Qadisiyah už muži nesmí vyučovat ženy. Rozhodnutí vyvolalo několikatýdenní protesty a podle aktivistů naznačuje, že se země ubírá stejným směrem jako Afghánistán do tálibánského stylu genderové segregace.",
-      "published": "Sat, 21 Nov 2026 22:56:00 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
-    },
-    {
-      "title": "Samoživitelkám se žije hůř. Superdávka většině uškodila, snížila jim příjmy",
-      "url": "https://www.idnes.cz/zpravy/domaci/superdavka-pripravila-cast-samozivitelek-o-penize-nektere-kvuli-ni-omezuji-praci.A261121_155501_domaci_ichuc#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+      "title": "Průvody krampusáků v Rakousku provázely fyzické útoky i rasistické reakce",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/krampus-cert-rakousko-zraneni-nemocnice-kostym-rohy-letak.A261122_135505_zahranicni_votr#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
       "source": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
-      "snippet": "Po zavedení takzvané superdávky více než polovina samoživitelek pobírá nižší dávky. Pětina samoživitelek, aby se vyhnula snížení superdávky nebo její ztrátě, buď přestala úplně pracovat, nebo pracuje omezeně či nepřiznává příjem. Vyplývá to z průzkumu poskytovatele půjček Provident Financial mezi 19",
-      "published": "Sat, 21 Nov 2026 15:07:00 GMT",
+      "snippet": "Několik násilných útoků poznamenalo v rakouských Korutanech v sobotu večer průvody krampusáků, hrozivější obdoby českého čerta. Dva muži kvůli nim skončili v nemocnici. V horském městečku Bad Kleinkirchheim jeden z diváků chytil muže v kostýmu pekelníka za rohy, vytáhl ho do výšky a pak ho srazil k ",
+      "published": "Sun, 22 Nov 2026 13:18:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
+      "collected_utc": "2026-11-23T02:02:03+00:00"
     },
     {
-      "title": "Protipalestinský rasismus a památný den Gazy? Berlínská SPD šokovala vlastní členy",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/socialni-demokrate-berlin-spd-palestina-rasismus-antisemitismus.A261121_114210_zahranicni_sahu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-      "source": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
-      "snippet": "Berlínská sociální demokracie (SPD) rozvířila v německé metropoli bouřlivou debatu. Při vyjednávání o nové rudo-zeleno-rudé koalici s Levicí a Zelenými navrhla, aby město začalo oficiálně evidovat takzvaný protipalestinský rasismus jako samostatnou formu diskriminace, uvedl německý deník Tagesspiege",
-      "published": "Sat, 21 Nov 2026 11:29:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
-    },
-    {
-      "title": "Zemřela žena, o které Mengele řekl, že je silná jako kůň. Její příběh udivuje",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-silna-jako-kun-rekl-ji-mengele-osobni-vzpominka-na-zenu-ktera-tak-vydrzela-az-do-smrti-321218",
+      "title": "Zapomeňte na skinheady, máme tady nové neonacisty. V oblecích",
+      "url": "https://www.seznamzpravy.cz/clanek/nazory-komentare-zapomente-na-skinheady-mame-tady-nove-neonacisty-v-oblecich-321146",
       "source": "https://www.seznamzpravy.cz/rss",
-      "snippet": "Ve věku 97 let odešla psycholožka Lydia Tischlerová. Žena, která přežila holokaust, v koncentrácích strávila skoro tři roky. Přesto nebyla jen přeživší. Žena, která byla mnohem víc. Vzpomíná na ni redaktor Seznam Zpráv.",
-      "published": "Sat, 21 Nov 2026 20:06:49 +0100",
+      "snippet": "Po Šachtě jsme tento týden vypustili do světa další velký investigativní projekt letošního podzimu. A tentokrát šli kolegové doslova s kůží na trh.",
+      "published": "Sun, 22 Nov 2026 15:00:00 +0100",
       "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
+      "collected_utc": "2026-11-23T02:02:03+00:00"
     },
     {
-      "title": "Jiří Váňa, ředitel Nadačního fondu Českého rozhlasu. Ježíškova vnoučata letos slaví deset let. Projekt, který v roce 2016 začal jako spontánní iniciativa, se postupně proměnil v celorepublikovou charitativní akci, která každoročně plní přání osamělým… - mujRozhlas",
-      "url": "https://www.mujrozhlas.cz/vizitka/jiri-vana-reditel-nadacniho-fondu-ceskeho-rozhlasu-jeziskova-vnoucata-letos-slavi-deset-let",
+      "title": "O Roma vakeren s Kamilou Schusterovou - mujRozhlas",
+      "url": "https://www.mujrozhlas.cz/o-roma-vakeren/o-roma-vakeren-s-kamilou-schusterovou-3688793",
       "source": "mujRozhlas",
-      "snippet": "Jiří Váňa, ředitel Nadačního fondu Českého rozhlasu. Ježíškova vnoučata letos slaví deset let. Projekt, který v roce 2016 začal jako spontánní iniciativa, se postupně proměnil v celorepublikovou charitativní akci, která každoročně plní přání osamělým… mujRozhlas",
-      "published": "Thu, 19 Nov 2026 10:34:39 GMT",
+      "snippet": "O Roma vakeren s Kamilou Schusterovou mujRozhlas",
+      "published": "Sun, 22 Nov 2026 11:18:34 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
+      "collected_utc": "2026-11-23T02:02:03+00:00"
     },
     {
-      "title": "Nedostižný major Kalaš. Rudolf Hrušínský jde znovu po stopách krve - iDNES.cz",
-      "url": "https://www.idnes.cz/kultura/film-televize/rudolf-hrusinsky-major-kalas-po-stopach-krve.A261119_103937_filmvideo_spm",
-      "source": "iDNES.cz",
-      "snippet": "Nedostižný major Kalaš. Rudolf Hrušínský jde znovu po stopách krve iDNES.cz",
-      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
-    },
-    {
-      "title": "Gottův imitátor Provazník jde za mříže - ProSvět.cz",
-      "url": "https://prosvet.cz/gottuv-imitator-ondrej-provaznik-vezeni-podvody-slavacek/",
-      "source": "ProSvět.cz",
-      "snippet": "Gottův imitátor Provazník jde za mříže ProSvět.cz",
-      "published": "Sat, 21 Nov 2026 08:29:22 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
-    },
-    {
-      "title": "Francouzský soud včera pozdě večer odsoudil tři policisty, kteří se před šesti lety podíleli na zatčení černošského hudebního producenta Michela Zeclera - Deník N",
-      "url": "https://denikn.cz/minuta/2265674/",
+      "title": "Izraelští osadníci dnes brzy ráno zaútočili na palestinské vesnice na okupovaném Západním břehu, kde podle místních obyvatel zakládali ohně a čmárali rasistické graffiti - Deník N",
+      "url": "https://denikn.cz/minuta/2266086/?ref=n3_sticker",
       "source": "Deník N",
-      "snippet": "Francouzský soud včera pozdě večer odsoudil tři policisty, kteří se před šesti lety podíleli na zatčení černošského hudebního producenta Michela Zeclera Deník N",
-      "published": "Sat, 21 Nov 2026 10:10:30 GMT",
+      "snippet": "Izraelští osadníci dnes brzy ráno zaútočili na palestinské vesnice na okupovaném Západním břehu, kde podle místních obyvatel zakládali ohně a čmárali rasistické graffiti Deník N",
+      "published": "Sun, 22 Nov 2026 13:53:25 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
+      "collected_utc": "2026-11-23T02:02:03+00:00"
     },
     {
-      "title": "Fotbalová Plzeň dostala od UEFA pokutu za rasistické chování fanoušků - Centrum.cz",
-      "url": "https://www.centrum.cz/clanek/fotbalova-plzen-dostala-od-uefa-pokutu-za-rasisticke-chovani-fanousku-347865",
+      "title": "Neoliberální kořeny současného autoritářství a fašismu - Anarchistická federace",
+      "url": "https://www.afed.cz/text/8777/neoliberalni-koreny-soucasneho-autoritarstvi-a-fasismu",
+      "source": "Anarchistická federace",
+      "snippet": "Neoliberální kořeny současného autoritářství a fašismu Anarchistická federace",
+      "published": "Sun, 22 Nov 2026 09:52:11 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T02:02:03+00:00"
+    },
+    {
+      "title": "\"Chránit hodnoty Západu.\" Strana premiérky Meloniové chce zakázat zahalování žen a zpřísnit dohled nad mešitami - Echo24",
+      "url": "https://www.echo24.cz/a/HAvv9/zpravy-svet-strana-italske-premierky-meloniove-chce-zakazat-celotelove-zahalovani-zen-a-zprisnit-dohled-nad-mesitami",
+      "source": "Echo24",
+      "snippet": "\"Chránit hodnoty Západu.\" Strana premiérky Meloniové chce zakázat zahalování žen a zpřísnit dohled nad mešitami Echo24",
+      "published": "Sun, 22 Nov 2026 16:55:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T02:02:03+00:00"
+    },
+    {
+      "title": "Superdávka připravila samoživitelky o část příjmů - https://zpravycr.cz/",
+      "url": "https://zpravycr.cz/superdavka-pripravila-samozivitelky-o-cast-prijmu/",
+      "source": "https://zpravycr.cz/",
+      "snippet": "Superdávka připravila samoživitelky o část příjmů https://zpravycr.cz/",
+      "published": "Sun, 22 Nov 2026 08:17:42 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T02:02:03+00:00"
+    },
+    {
+      "title": "O tzv. \"superdávce\" v oligarchické České republice | 22. 11. 2026 - Britské listy",
+      "url": "https://blisty.cz/art/137599-o-tzv-superdavce-v-oligarchicke-ceske-republice.html",
+      "source": "Britské listy",
+      "snippet": "O tzv. \"superdávce\" v oligarchické České republice | 22. 11. 2026 Britské listy",
+      "published": "Sun, 22 Nov 2026 10:27:13 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T02:02:03+00:00"
+    },
+    {
+      "title": "Tisíce domácností mohou dostat na bydlení o 2 216 Kč měsíčně víc. Rozhodují nová pravidla státní podpory - Dřevostavitel",
+      "url": "https://www.drevostavitel.cz/clanek/tisice-fomacnosti-bude-dostavat-na-bydleni-vic",
+      "source": "Dřevostavitel",
+      "snippet": "Tisíce domácností mohou dostat na bydlení o 2 216 Kč měsíčně víc. Rozhodují nová pravidla státní podpory Dřevostavitel",
+      "published": "Sun, 22 Nov 2026 16:10:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T02:02:03+00:00"
+    },
+    {
+      "title": "Babiš prozradil přesné datum konce poplatků! - ProSvět.cz",
+      "url": "https://prosvet.cz/babis-prozradil-termin-koncesionarske-poplatky-skonci-nejpozdeji-1-cervence-2027/",
+      "source": "ProSvět.cz",
+      "snippet": "Babiš prozradil přesné datum konce poplatků! ProSvět.cz",
+      "published": "Sun, 22 Nov 2026 10:47:31 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T02:02:03+00:00"
+    },
+    {
+      "title": "Bungalov za 2,98 milionu vypadá jako dostupné bydlení. V katalogové ceně ale chybí zásadní položka - Centrum.cz",
+      "url": "https://www.centrum.cz/clanek/bungalov-za-298-milionu-vypada-jako-dostupne-bydleni-v-katalogove-cene-ale-chybi-zasadni-polozka-349579",
       "source": "Centrum.cz",
-      "snippet": "Fotbalová Plzeň dostala od UEFA pokutu za rasistické chování fanoušků Centrum.cz",
-      "published": "Thu, 19 Nov 2026 05:25:00 GMT",
+      "snippet": "Bungalov za 2,98 milionu vypadá jako dostupné bydlení. V katalogové ceně ale chybí zásadní položka Centrum.cz",
+      "published": "Sun, 22 Nov 2026 02:16:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
+      "collected_utc": "2026-11-23T02:02:03+00:00"
     },
     {
-      "title": "Průzkum: Po zavedení superdávky většina samoživitelek pobírá nižší dávky - České noviny",
-      "url": "https://www.ceskenoviny.cz/zpravy/2904736",
-      "source": "České noviny",
-      "snippet": "Průzkum: Po zavedení superdávky většina samoživitelek pobírá nižší dávky České noviny",
-      "published": "Sat, 21 Nov 2026 06:50:00 GMT",
+      "title": "Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-svet/iracka-univerzita-zakazala-muzum-vyucovat-zeny-stovky-studentek-protestuji_2611212256_cen",
+      "source": "iROZHLAS",
+      "snippet": "Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují iROZHLAS",
+      "published": "Sat, 21 Nov 2026 21:56:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
+      "collected_utc": "2026-11-23T02:02:03+00:00"
     },
     {
-      "title": "Na ulici žijí i senioři a vozíčkáři. Hradecká charita varuje před rostoucím bezdomovectvím - Christnet.eu",
-      "url": "https://www.christnet.eu/zpravy/33514/na-ulici-ziji-i-seniori-a-vozickari-hradecka-charita-varuje-pred-rostoucim-bezdomovectvim.url",
-      "source": "Christnet.eu",
-      "snippet": "Na ulici žijí i senioři a vozíčkáři. Hradecká charita varuje před rostoucím bezdomovectvím Christnet.eu",
-      "published": "Sat, 21 Nov 2026 18:04:12 GMT",
+      "title": "Tuláci na Algarve budou sterilizováni - The Portugal News",
+      "url": "https://www.theportugalnews.com/cs/zpravy/2026-11-22/tulaci-na-algarve-budou-sterilizovani/1069100",
+      "source": "The Portugal News",
+      "snippet": "Tuláci na Algarve budou sterilizováni The Portugal News",
+      "published": "Sun, 22 Nov 2026 22:09:01 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
-    },
-    {
-      "title": "Stovky studentek v Iráku protestovaly proti odvolání mužů-učitelů z jejich školy - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/studentky-segregace-irak-genderova-univerzita-demonstrace.A261120_193707_zahranicni_votr",
-      "source": "iDNES.cz",
-      "snippet": "Stovky studentek v Iráku protestovaly proti odvolání mužů-učitelů z jejich školy iDNES.cz",
-      "published": "Fri, 20 Nov 2026 21:15:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
-    },
-    {
-      "title": "20. listopadu - Horizont ČT24 - ČT24",
-      "url": "https://ct24.ceskatelevize.cz/video/playlist/horizont-9",
-      "source": "ČT24",
-      "snippet": "20. listopadu - Horizont ČT24 ČT24",
-      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-22T01:42:12+00:00"
+      "collected_utc": "2026-11-23T02:02:03+00:00"
     }
   ]
 }

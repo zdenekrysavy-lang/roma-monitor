@@ -1,59 +1,59 @@
-# Kandidáti — 2026-11-22T07:47:07+00:00 (14 položek)
+# Kandidáti — 2026-11-23T02:02:03+00:00 (14 položek)
 
-_Zdroje: Google News 96 · GDELT 0 (disabled) · feedy 2 · watch 0_
+_Zdroje: Google News 87 · GDELT 0 (disabled) · feedy 1 · watch 0_
 
-1. **V Olomouckém kraji přibývají místa pro lidi bez domova. Odborníci ale varují, že bez dostupného bydlení to nestačí - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/olomoucky-kraj/v-olomouckem-kraji-pribyvaji-mista-pro-lidi-bez-domova-odbornici-ale-varuji-ze-bez-dostupneho-bydlen.A261121_073038_metro-olomouc-zpravy_air
-   V Olomouckém kraji přibývají místa pro lidi bez domova. Odborníci ale varují, že bez dostupného bydlení to nestačí Metro.cz
+1. **Židovský terorismus. Eisenkot, který skládá izraelskou vládu, odsoudil útok osadníků na Palestince** — https://www.novinky.cz/rss [cs]
+   https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-zidovsky-terorismus-eisenkot-ktery-sklada-izraelskou-vladu-odsoudil-utok-osadniku-na-palestince-40609913
+   Militantní izraelští osadníci v neděli časně ráno napadli palestinské vesnice na Západním břehu, informuje agentura Reuters. Podle místních obyvatel útočníci zakládali ohně a psali rasistické vzkazy. 
 
-2. **Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují** — https://www.irozhlas.cz/rss/irozhlas [cs]
+2. **Průvody krampusáků v Rakousku provázely fyzické útoky i rasistické reakce** — https://servis.idnes.cz/rss.aspx?c=zpravodaj [cs]
+   https://www.idnes.cz/zpravy/zahranicni/krampus-cert-rakousko-zraneni-nemocnice-kostym-rohy-letak.A261122_135505_zahranicni_votr#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main
+   Několik násilných útoků poznamenalo v rakouských Korutanech v sobotu večer průvody krampusáků, hrozivější obdoby českého čerta. Dva muži kvůli nim skončili v nemocnici. V horském městečku Bad Kleinkir
+
+3. **Zapomeňte na skinheady, máme tady nové neonacisty. V oblecích** — https://www.seznamzpravy.cz/rss [cs]
+   https://www.seznamzpravy.cz/clanek/nazory-komentare-zapomente-na-skinheady-mame-tady-nove-neonacisty-v-oblecich-321146
+   Po Šachtě jsme tento týden vypustili do světa další velký investigativní projekt letošního podzimu. A tentokrát šli kolegové doslova s kůží na trh.
+
+4. **O Roma vakeren s Kamilou Schusterovou - mujRozhlas** — mujRozhlas [cs]
+   https://www.mujrozhlas.cz/o-roma-vakeren/o-roma-vakeren-s-kamilou-schusterovou-3688793
+   O Roma vakeren s Kamilou Schusterovou mujRozhlas
+
+5. **Izraelští osadníci dnes brzy ráno zaútočili na palestinské vesnice na okupovaném Západním břehu, kde podle místních obyvatel zakládali ohně a čmárali rasistické graffiti - Deník N** — Deník N [cs]
+   https://denikn.cz/minuta/2266086/?ref=n3_sticker
+   Izraelští osadníci dnes brzy ráno zaútočili na palestinské vesnice na okupovaném Západním břehu, kde podle místních obyvatel zakládali ohně a čmárali rasistické graffiti Deník N
+
+6. **Neoliberální kořeny současného autoritářství a fašismu - Anarchistická federace** — Anarchistická federace [cs]
+   https://www.afed.cz/text/8777/neoliberalni-koreny-soucasneho-autoritarstvi-a-fasismu
+   Neoliberální kořeny současného autoritářství a fašismu Anarchistická federace
+
+7. **"Chránit hodnoty Západu." Strana premiérky Meloniové chce zakázat zahalování žen a zpřísnit dohled nad mešitami - Echo24** — Echo24 [cs]
+   https://www.echo24.cz/a/HAvv9/zpravy-svet-strana-italske-premierky-meloniove-chce-zakazat-celotelove-zahalovani-zen-a-zprisnit-dohled-nad-mesitami
+   "Chránit hodnoty Západu." Strana premiérky Meloniové chce zakázat zahalování žen a zpřísnit dohled nad mešitami Echo24
+
+8. **Superdávka připravila samoživitelky o část příjmů - https://zpravycr.cz/** — https://zpravycr.cz/ [cs]
+   https://zpravycr.cz/superdavka-pripravila-samozivitelky-o-cast-prijmu/
+   Superdávka připravila samoživitelky o část příjmů https://zpravycr.cz/
+
+9. **O tzv. "superdávce" v oligarchické České republice | 22. 11. 2026 - Britské listy** — Britské listy [cs]
+   https://blisty.cz/art/137599-o-tzv-superdavce-v-oligarchicke-ceske-republice.html
+   O tzv. "superdávce" v oligarchické České republice | 22. 11. 2026 Britské listy
+
+10. **Tisíce domácností mohou dostat na bydlení o 2 216 Kč měsíčně víc. Rozhodují nová pravidla státní podpory - Dřevostavitel** — Dřevostavitel [cs]
+   https://www.drevostavitel.cz/clanek/tisice-fomacnosti-bude-dostavat-na-bydleni-vic
+   Tisíce domácností mohou dostat na bydlení o 2 216 Kč měsíčně víc. Rozhodují nová pravidla státní podpory Dřevostavitel
+
+11. **Babiš prozradil přesné datum konce poplatků! - ProSvět.cz** — ProSvět.cz [cs]
+   https://prosvet.cz/babis-prozradil-termin-koncesionarske-poplatky-skonci-nejpozdeji-1-cervence-2027/
+   Babiš prozradil přesné datum konce poplatků! ProSvět.cz
+
+12. **Bungalov za 2,98 milionu vypadá jako dostupné bydlení. V katalogové ceně ale chybí zásadní položka - Centrum.cz** — Centrum.cz [cs]
+   https://www.centrum.cz/clanek/bungalov-za-298-milionu-vypada-jako-dostupne-bydleni-v-katalogove-cene-ale-chybi-zasadni-polozka-349579
+   Bungalov za 2,98 milionu vypadá jako dostupné bydlení. V katalogové ceně ale chybí zásadní položka Centrum.cz
+
+13. **Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují - iROZHLAS** — iROZHLAS [cs]
    https://www.irozhlas.cz/zpravy-svet/iracka-univerzita-zakazala-muzum-vyucovat-zeny-stovky-studentek-protestuji_2611212256_cen
-   Na irácké univerzitě Al-Qadisiyah už muži nesmí vyučovat ženy. Rozhodnutí vyvolalo několikatýdenní protesty a podle aktivistů naznačuje, že se země ubírá stejným směrem jako Afghánistán do tálibánskéh
+   Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují iROZHLAS
 
-3. **Samoživitelkám se žije hůř. Superdávka většině uškodila, snížila jim příjmy** — https://servis.idnes.cz/rss.aspx?c=zpravodaj [cs]
-   https://www.idnes.cz/zpravy/domaci/superdavka-pripravila-cast-samozivitelek-o-penize-nektere-kvuli-ni-omezuji-praci.A261121_155501_domaci_ichuc#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main
-   Po zavedení takzvané superdávky více než polovina samoživitelek pobírá nižší dávky. Pětina samoživitelek, aby se vyhnula snížení superdávky nebo její ztrátě, buď přestala úplně pracovat, nebo pracuje 
-
-4. **Protipalestinský rasismus a památný den Gazy? Berlínská SPD šokovala vlastní členy** — https://servis.idnes.cz/rss.aspx?c=zpravodaj [cs]
-   https://www.idnes.cz/zpravy/zahranicni/socialni-demokrate-berlin-spd-palestina-rasismus-antisemitismus.A261121_114210_zahranicni_sahu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main
-   Berlínská sociální demokracie (SPD) rozvířila v německé metropoli bouřlivou debatu. Při vyjednávání o nové rudo-zeleno-rudé koalici s Levicí a Zelenými navrhla, aby město začalo oficiálně evidovat tak
-
-5. **Zemřela žena, o které Mengele řekl, že je silná jako kůň. Její příběh udivuje** — https://www.seznamzpravy.cz/rss [cs]
-   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-silna-jako-kun-rekl-ji-mengele-osobni-vzpominka-na-zenu-ktera-tak-vydrzela-az-do-smrti-321218
-   Ve věku 97 let odešla psycholožka Lydia Tischlerová. Žena, která přežila holokaust, v koncentrácích strávila skoro tři roky. Přesto nebyla jen přeživší. Žena, která byla mnohem víc. Vzpomíná na ni red
-
-6. **Jiří Váňa, ředitel Nadačního fondu Českého rozhlasu. Ježíškova vnoučata letos slaví deset let. Projekt, který v roce 2016 začal jako spontánní iniciativa, se postupně proměnil v celorepublikovou charitativní akci, která každoročně plní přání osamělým… - mujRozhlas** — mujRozhlas [cs]
-   https://www.mujrozhlas.cz/vizitka/jiri-vana-reditel-nadacniho-fondu-ceskeho-rozhlasu-jeziskova-vnoucata-letos-slavi-deset-let
-   Jiří Váňa, ředitel Nadačního fondu Českého rozhlasu. Ježíškova vnoučata letos slaví deset let. Projekt, který v roce 2016 začal jako spontánní iniciativa, se postupně proměnil v celorepublikovou chari
-
-7. **Nedostižný major Kalaš. Rudolf Hrušínský jde znovu po stopách krve - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/kultura/film-televize/rudolf-hrusinsky-major-kalas-po-stopach-krve.A261119_103937_filmvideo_spm
-   Nedostižný major Kalaš. Rudolf Hrušínský jde znovu po stopách krve iDNES.cz
-
-8. **Gottův imitátor Provazník jde za mříže - ProSvět.cz** — ProSvět.cz [cs]
-   https://prosvet.cz/gottuv-imitator-ondrej-provaznik-vezeni-podvody-slavacek/
-   Gottův imitátor Provazník jde za mříže ProSvět.cz
-
-9. **Francouzský soud včera pozdě večer odsoudil tři policisty, kteří se před šesti lety podíleli na zatčení černošského hudebního producenta Michela Zeclera - Deník N** — Deník N [cs]
-   https://denikn.cz/minuta/2265674/
-   Francouzský soud včera pozdě večer odsoudil tři policisty, kteří se před šesti lety podíleli na zatčení černošského hudebního producenta Michela Zeclera Deník N
-
-10. **Fotbalová Plzeň dostala od UEFA pokutu za rasistické chování fanoušků - Centrum.cz** — Centrum.cz [cs]
-   https://www.centrum.cz/clanek/fotbalova-plzen-dostala-od-uefa-pokutu-za-rasisticke-chovani-fanousku-347865
-   Fotbalová Plzeň dostala od UEFA pokutu za rasistické chování fanoušků Centrum.cz
-
-11. **Průzkum: Po zavedení superdávky většina samoživitelek pobírá nižší dávky - České noviny** — České noviny [cs]
-   https://www.ceskenoviny.cz/zpravy/2904736
-   Průzkum: Po zavedení superdávky většina samoživitelek pobírá nižší dávky České noviny
-
-12. **Na ulici žijí i senioři a vozíčkáři. Hradecká charita varuje před rostoucím bezdomovectvím - Christnet.eu** — Christnet.eu [cs]
-   https://www.christnet.eu/zpravy/33514/na-ulici-ziji-i-seniori-a-vozickari-hradecka-charita-varuje-pred-rostoucim-bezdomovectvim.url
-   Na ulici žijí i senioři a vozíčkáři. Hradecká charita varuje před rostoucím bezdomovectvím Christnet.eu
-
-13. **Stovky studentek v Iráku protestovaly proti odvolání mužů-učitelů z jejich školy - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/studentky-segregace-irak-genderova-univerzita-demonstrace.A261120_193707_zahranicni_votr
-   Stovky studentek v Iráku protestovaly proti odvolání mužů-učitelů z jejich školy iDNES.cz
-
-14. **20. listopadu - Horizont ČT24 - ČT24** — ČT24 [cs]
-   https://ct24.ceskatelevize.cz/video/playlist/horizont-9
-   20. listopadu - Horizont ČT24 ČT24
+14. **Tuláci na Algarve budou sterilizováni - The Portugal News** — The Portugal News [cs]
+   https://www.theportugalnews.com/cs/zpravy/2026-11-22/tulaci-na-algarve-budou-sterilizovani/1069100
+   Tuláci na Algarve budou sterilizováni The Portugal News
