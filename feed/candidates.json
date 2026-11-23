@@ -1,29 +1,272 @@
 {
-  "generated_utc": "2026-11-23T02:01:49+00:00",
-  "count": 77,
+  "generated_utc": "2026-11-23T07:45:58+00:00",
+  "count": 104,
   "sources": {
     "profile": "world",
-    "google_news": 148,
+    "google_news": 151,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "rate_limited",
     "gdelt_note": "HTTP 429 (rate-limit)",
-    "feeds": 33,
+    "feeds": 34,
     "news_feeds": 0,
-    "watch": 5,
-    "before_dedup": 181,
-    "total": 159,
-    "skipped_seen": 82,
-    "gn_resolved": 51,
-    "gn_resolve_tried": 72,
+    "watch": 6,
+    "before_dedup": 185,
+    "total": 160,
+    "skipped_seen": 133,
+    "gn_resolved": 26,
+    "gn_resolve_tried": 26,
     "dropped_after_resolve": 0,
-    "new": 77,
-    "carried_over": 0,
+    "new": 27,
+    "carried_over": 77,
     "window_start": "2026-11-22T07:42:58+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Filmárka Vera Lacková: Rómovia bývajú zobrazovaní ako kriminálnici alebo exotika, chýbajú príbehy z každodennosti",
+      "url": "https://romanoforum.dennikn.sk/filmarka-vera-lackova-romovia-byvaju-zobrazovani-ako-kriminalnici-alebo-exotika-chybaju-pribehy-z-kazdodennosti/",
+      "source": "https://romanoforum.dennikn.sk/feed/",
+      "snippet": "„Desaťročia rozprávali príbehy o Rómoch prevažne iní tvorcovia, často bez zapojenia samotných Rómov,\" hovorí oceňovaná producentka.",
+      "published": "Mon, 23 Nov 2026 06:12:36 +0000",
+      "lang": "sk",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Požiar im vzal domovy. Rodiny v Mirkovciach sa boja blížiacej sa zimy - Roma Television",
+      "url": "https://romatv.sk/slovensko/po%C5%BEiar-im-vzal-domovy-rodiny-v-mirkovciach-sa-boja-bl%C3%AD%C5%BEiacej-sa-zimy/1401225",
+      "source": "Roma Television",
+      "snippet": "Požiar im vzal domovy. Rodiny v Mirkovciach sa boja blížiacej sa zimy Roma Television",
+      "published": "Mon, 23 Nov 2026 05:20:00 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "romska osade projekt pre romov 2 il | Namiesto pomoci osadám idú milióny na analýzy - Noviny.sk",
+      "url": "https://www.noviny.sk/galeria/31106-namiesto-pomoci-osadam-idu-miliony-na-analyzy/e0d42471-8cad-4a15-b895-57a1d255d447",
+      "source": "Noviny.sk",
+      "snippet": "romska osade projekt pre romov 2 il | Namiesto pomoci osadám idú milióny na analýzy Noviny.sk",
+      "published": "Sun, 22 Nov 2026 18:20:17 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Castelli Romani … 22 novembre 2026 - YouTube",
+      "url": "https://youtu.be/640iPk37guE?is=E0NnwOdd6PKNHqtk",
+      "source": "YouTube",
+      "snippet": "Castelli Romani … 22 novembre 2026 YouTube",
+      "published": "Sun, 22 Nov 2026 15:20:40 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Michigan State 2-0 Michigan (22 Nov, 2026) Video Highlights - ESPN Singapore",
+      "url": "https://www.espn.com.sg/mens-college-hockey/video/_/gameId/401923162",
+      "source": "ESPN Singapore",
+      "snippet": "Michigan State 2-0 Michigan (22 Nov, 2026) Video Highlights ESPN Singapore",
+      "published": "Sat, 21 Nov 2026 08:00:00 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Explore nature on six Italian hikes for the Immaculate Conception holiday - inITALY",
+      "url": "https://www.initaly.it/en/articolo/sei-trekking-in-italia-per-vivere-la-natura-durante-il-ponte-dell-immacolata-44154",
+      "source": "inITALY",
+      "snippet": "Explore nature on six Italian hikes for the Immaculate Conception holiday inITALY",
+      "published": "Sun, 22 Nov 2026 20:32:01 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Tesla’s FSD v15 renders the road like a video game and claims a 25x safety jump - Martin Cid Magazine",
+      "url": "https://www.martincid.com/technology-sv/tesla-fsd-v15-reality-view-self-driving-video-game/",
+      "source": "Martin Cid Magazine",
+      "snippet": "Tesla’s FSD v15 renders the road like a video game and claims a 25x safety jump Martin Cid Magazine",
+      "published": "Sun, 22 Nov 2026 07:09:17 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Dayoo – Biashara Ft. Kontawa | Music Legal Download - TrendyHipHop",
+      "url": "https://www2.trendyhiphop.com/songs/dayoo-biashara-ft-kontawa/",
+      "source": "TrendyHipHop",
+      "snippet": "Dayoo – Biashara Ft. Kontawa | Music Legal Download TrendyHipHop",
+      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "A treia Romă a lui Putin și tronul de chihlimbar, cadou pentru Trump - Contributors",
+      "url": "https://www.contributors.ro/a-treia-roma-a-lui-putin-si-tronul-de-chihlimbar-cadou-pentru-trump/",
+      "source": "Contributors",
+      "snippet": "A treia Romă a lui Putin și tronul de chihlimbar, cadou pentru Trump Contributors",
+      "published": "Mon, 23 Nov 2026 05:28:26 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "De ce nu mai aruncă turiștii monede în Fontana di Trevi din Roma: Explicațiile organizației care strânge banii - Unimedia",
+      "url": "https://unimedia.info/ro/news/ccdf3c936641f8ed/de-ce-nu-mai-arunca-turistii-monede-in-fontana-di-trevi-din-roma-explicatiile-organizatiei-care-strange-banii",
+      "source": "Unimedia",
+      "snippet": "De ce nu mai aruncă turiștii monede în Fontana di Trevi din Roma: Explicațiile organizației care strânge banii Unimedia",
+      "published": "Sun, 22 Nov 2026 15:00:00 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "45 agresiones al pueblo gitano en Madrid en 2025: \"Difundir bulos y estereotipos alimenta la hostilidad y la discriminación\" - El Periódico de España",
+      "url": "https://www.epe.es/es/madrid/20261123/45-agresiones-pueblo-gitano-madrid-2025-bulos-estereotipos-136622656",
+      "source": "El Periódico de España",
+      "snippet": "45 agresiones al pueblo gitano en Madrid en 2025: \"Difundir bulos y estereotipos alimenta la hostilidad y la discriminación\" El Periódico de España",
+      "published": "Mon, 23 Nov 2026 03:59:13 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "El Raval da la mano al ‘braç de gitano’ especiado en el restaurante Arraval - El Periódico",
+      "url": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261123/restaurante-arraval-barcelona-brazo-de-gitano-136656836",
+      "source": "El Periódico",
+      "snippet": "El Raval da la mano al ‘braç de gitano’ especiado en el restaurante Arraval El Periódico",
+      "published": "Mon, 23 Nov 2026 07:11:53 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Más de 7.000 metros cuadrados para una futura 'milla de oro' en el Centro de Sevilla: los casos de las parcelas junto a Los Gitanos - El Español",
+      "url": "https://www.elespanol.com/sevilla/20261123/metros-cuadrados-futura-milla-oro-centro-sevilla-casos-parcelas-junto-gitanos/1003744466806_0.amp.html",
+      "source": "El Español",
+      "snippet": "Más de 7.000 metros cuadrados para una futura 'milla de oro' en el Centro de Sevilla: los casos de las parcelas junto a Los Gitanos El Español",
+      "published": "Mon, 23 Nov 2026 05:50:00 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Avrillé. Discriminations : « Porter haut et fort les luttes » - Ouest-France",
+      "url": "https://www.ouest-france.fr/pays-de-la-loire/avrille-49240/avrille-discriminations-porter-haut-et-fort-les-luttes-317ddc62-8a78-4bc2-b236-18b3ca4aa249",
+      "source": "Ouest-France",
+      "snippet": "Avrillé. Discriminations : « Porter haut et fort les luttes » Ouest-France",
+      "published": "Mon, 23 Nov 2026 05:00:34 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "INFO ICI Normandie - Un père et ses deux fils interpellés après le déraillement du train Rouen-Caen - ici.fr",
+      "url": "https://www.ici.fr/normandie/seine-maritime-76/cleon/info-ici-normandie-un-pere-et-ses-deux-fils-interpelles-apres-le-deraillement-du-train-rouen-caen-3984233",
+      "source": "ici.fr",
+      "snippet": "INFO ICI Normandie - Un père et ses deux fils interpellés après le déraillement du train Rouen-Caen ici.fr",
+      "published": "Mon, 23 Nov 2026 07:25:50 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Chalonnes-sur-Loire. « Un matériel qui est peu présent » - Ouest-France",
+      "url": "https://www.ouest-france.fr/pays-de-la-loire/chalonnes-sur-loire-49290/chalonnes-sur-loire-un-materiel-qui-est-peu-present-64c8d4ae-f959-4595-8dfe-ed832c87a831",
+      "source": "Ouest-France",
+      "snippet": "Chalonnes-sur-Loire. « Un matériel qui est peu présent » Ouest-France",
+      "published": "Mon, 23 Nov 2026 05:01:09 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "« Ils m’ont émue plus d’une fois » : dans les pas des gens du voyage, par l’image et le son - maville.com",
+      "url": "https://niort.maville.com/actu/actudet_-ils-m-ont-emue-plus-d-une-fois-dans-les-pas-des-gens-du-voyage-par-l-image-et-le-son_dep-7579780_actu.Htm",
+      "source": "maville.com",
+      "snippet": "« Ils m’ont émue plus d’une fois » : dans les pas des gens du voyage, par l’image et le son maville.com",
+      "published": "Sat, 21 Nov 2026 11:50:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "„Оранжево зелено“, „Веща“ и „Огледало“ са сред заглавията, които ще имат премиери тази седмица - Утро Русе",
+      "url": "https://utroruse.com/article/1341367/",
+      "source": "Утро Русе",
+      "snippet": "„Оранжево зелено“, „Веща“ и „Огледало“ са сред заглавията, които ще имат премиери тази седмица Утро Русе",
+      "published": "Mon, 23 Nov 2026 04:30:00 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Λογιστής Ρομά εξαπάτησε άλλους Ρομά και τους πήρε τα επιδόματα - PowerGame",
+      "url": "https://www.powergame.gr/ellada/1457855/logistis-roma-exapatise-allous-roma-kai-tous-pire-ta-epidomata/",
+      "source": "PowerGame",
+      "snippet": "Λογιστής Ρομά εξαπάτησε άλλους Ρομά και τους πήρε τα επιδόματα PowerGame",
+      "published": "Mon, 23 Nov 2026 07:08:22 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Θεσσαλία: Τουλάχιστον 50 Ρομά έπεσαν θύματα του λογιστή τους - Επαιρνε τα επιδόματά τους - The TOC",
+      "url": "https://www.thetoc.gr/koinwnia/article/thessalia-toulaxiston-50-roma-epesan-thumata-tou-roma-logisti-tous---epairne-ta-epidomata-tous/",
+      "source": "The TOC",
+      "snippet": "Θεσσαλία: Τουλάχιστον 50 Ρομά έπεσαν θύματα του λογιστή τους - Επαιρνε τα επιδόματά τους The TOC",
+      "published": "Sun, 22 Nov 2026 09:09:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Λάρισα:Ρομά λογιστής εξαπατούσε άλλους Ρομά και τους έκλεβε τα επιδόματα - Newsbomb",
+      "url": "https://www.newsbomb.gr/ellada/story/1778335/larisa-roma-logistis-eksapatoyse-allous-roma-kai-tous-ekleve-ta-epidomata",
+      "source": "Newsbomb",
+      "snippet": "Λάρισα:Ρομά λογιστής εξαπατούσε άλλους Ρομά και τους έκλεβε τα επιδόματα Newsbomb",
+      "published": "Mon, 23 Nov 2026 04:49:37 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Λάρισα: Ρομά λογιστής φέρεται να εξαπατούσε τουλάχιστον 50 Ρομά - Άλλαζε τα IBAN και εισέπραττε τα επιδόματα - Παραπολιτικά",
+      "url": "https://www.parapolitika.gr/ellada/article/1825579/larisa-roma-logistis-feretai-na-exapatouse-toulahiston-50-roma-allaze-ta-iban-kai-eisepratte-ta-epidomata/",
+      "source": "Παραπολιτικά",
+      "snippet": "Λάρισα: Ρομά λογιστής φέρεται να εξαπατούσε τουλάχιστον 50 Ρομά - Άλλαζε τα IBAN και εισέπραττε τα επιδόματα Παραπολιτικά",
+      "published": "Mon, 23 Nov 2026 06:27:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Λάρισα: Λογιστής φέρεται να έκλεβε τα επιδόματα τουλάχιστον 50 Ρομά μέσω Taxisnet - Voice News",
+      "url": "https://voicenews.gr/larisa-logistis-feretai-na-ekleve-ta-epidomata-toulachiston-50-roma-meso-taxisnet/",
+      "source": "Voice News",
+      "snippet": "Λάρισα: Λογιστής φέρεται να έκλεβε τα επιδόματα τουλάχιστον 50 Ρομά μέσω Taxisnet Voice News",
+      "published": "Mon, 23 Nov 2026 05:47:04 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24",
+      "url": "https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-22-11-2026/ar/c9p2-29417133",
+      "source": "GP24",
+      "snippet": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! GP24",
+      "published": "Sun, 22 Nov 2026 08:40:06 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Burmistrz Albufeiry oskarżony w związku z wypowiedziami na temat Romów - The Portugal News",
+      "url": "https://www.theportugalnews.com/pl/aktualnosci/2026-11-21/burmistrz-albufeiry-oskarony-w-zwizku-z-wypowiedziami-na-temat-romow/1071615",
+      "source": "The Portugal News",
+      "snippet": "Burmistrz Albufeiry oskarżony w związku z wypowiedziami na temat Romów The Portugal News",
+      "published": "Sun, 22 Nov 2026 04:18:35 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Palił się budynek mieszkalny po byłej szkole w Błażejewicach. Jedna osoba nie żyje - Aleksandrów Łódzki Nasze Miasto",
+      "url": "https://aleksandrowlodzki.naszemiasto.pl/palil-sie-budynek-mieszkalny-po-bylej-szkole-w-blazejewicach-jedna-osoba-nie-zyje/ar/c1p2-29546531",
+      "source": "Aleksandrów Łódzki Nasze Miasto",
+      "snippet": "Palił się budynek mieszkalny po byłej szkole w Błażejewicach. Jedna osoba nie żyje Aleksandrów Łódzki Nasze Miasto",
+      "published": "Sun, 22 Nov 2026 07:06:05 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
+    {
+      "title": "Uneb abre 120 vagas para cursos de bacharelado; inscrições são gratuitas - iBahia - iBahia",
+      "url": "https://ibahia.com/noticias/educacao/uneb-abre-120-vagas-para-cursos-de-bacharelado-inscricoes-sao-gratuitas-393606?_=amp",
+      "source": "iBahia",
+      "snippet": "Uneb abre 120 vagas para cursos de bacharelado; inscrições são gratuitas - iBahia iBahia",
+      "published": "Sun, 22 Nov 2026 15:18:23 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-23T07:45:58+00:00"
+    },
     {
       "title": "Young Activists",
       "url": "https://rroma.org/young-activists/?utm_source=rss&utm_medium=rss&utm_campaign=young-activists",
