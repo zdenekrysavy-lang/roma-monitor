@@ -1,44 +1,116 @@
 {
-  "generated_utc": "2026-11-23T02:02:03+00:00",
-  "count": 14,
+  "generated_utc": "2026-11-23T07:47:10+00:00",
+  "count": 22,
   "sources": {
     "profile": "cz",
-    "google_news": 87,
+    "google_news": 93,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 1,
-    "news_feeds": 4,
+    "news_feeds": 3,
     "watch": 0,
-    "before_dedup": 58,
-    "total": 43,
-    "skipped_seen": 27,
-    "gn_resolved": 13,
-    "gn_resolve_tried": 13,
-    "dropped_after_resolve": 2,
-    "new": 14,
-    "carried_over": 0,
+    "before_dedup": 60,
+    "total": 46,
+    "skipped_seen": 37,
+    "gn_resolved": 8,
+    "gn_resolve_tried": 8,
+    "dropped_after_resolve": 0,
+    "new": 9,
+    "carried_over": 13,
     "window_start": "2026-11-22T07:47:07+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Box, hajlování a trénink na bitky. Expert zkoumá skryté záběry z neonacistického klubu rváčů v Praze",
+      "url": "https://www.irozhlas.cz/zpravy-domov/box-hajlovani-a-trenink-na-bitky-expert-zkouma-skryte-zabery-z-neonacistickeho_2611230600_cen",
+      "source": "https://www.irozhlas.cz/rss/irozhlas",
+      "snippet": "Perou se v ringu, hajlují na přednáškách. Neonacistický klub rváčů v Praze. Jak podobné skupiny fungují a proč na ně upozorňuje ministerstvo vnitra?",
+      "published": "Mon, 23 Nov 2026 06:00:00 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
+    {
+      "title": "Starosta města Albufeira obviněn kvůli výrokům o Romech - The Portugal News",
+      "url": "https://www.theportugalnews.com/cs/zpravy/2026-11-22/starosta-msta-albufeira-obvinn-kvli-vyrokm-o-romech/1071613",
+      "source": "The Portugal News",
+      "snippet": "Starosta města Albufeira obviněn kvůli výrokům o Romech The Portugal News",
+      "published": "Sun, 22 Nov 2026 04:16:41 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
+    {
+      "title": "Šance i pro lidi z rušené osady Bedřiška. Vesnička soužití v Ostravě se rozšíří - iDNES.cz",
+      "url": "https://www.idnes.cz/ostrava/zpravy/vesnicka-souziti-ostrava-muglinov-bedriska-dostavba.A261120_133928_ostrava-zpravy_jog",
+      "source": "iDNES.cz",
+      "snippet": "Šance i pro lidi z rušené osady Bedřiška. Vesnička soužití v Ostravě se rozšíří iDNES.cz",
+      "published": "Mon, 23 Nov 2026 05:39:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
+    {
+      "title": "Poloviční Rom a poloviční Vietnamec hrají hlavní role v debutu Martina Kanaloše Já, Tran a všechno ostatní - Český rozhlas České Budějovice",
+      "url": "https://budejovice.rozhlas.cz/polovicni-rom-a-polovicni-vietnamec-hraji-hlavni-role-v-debutu-martina-kanalose-9657970",
+      "source": "Český rozhlas České Budějovice",
+      "snippet": "Poloviční Rom a poloviční Vietnamec hrají hlavní role v debutu Martina Kanaloše Já, Tran a všechno ostatní Český rozhlas České Budějovice",
+      "published": "Sun, 22 Nov 2026 19:28:55 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
+    {
+      "title": "O Roma vakeren s Kamilou Schusterovou - Radiožurnál",
+      "url": "https://radiozurnal.rozhlas.cz/o-roma-vakeren-s-kamilou-schusterovou-9658134",
+      "source": "Radiožurnál",
+      "snippet": "O Roma vakeren s Kamilou Schusterovou Radiožurnál",
+      "published": "Sun, 22 Nov 2026 09:35:27 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
+    {
+      "title": "Průvody krampusáků v Rakousku provázely fyzické útoky i rasistické reakce - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/krampus-cert-rakousko-zraneni-nemocnice-kostym-rohy-letak.A261122_135505_zahranicni_votr",
+      "source": "iDNES.cz",
+      "snippet": "Průvody krampusáků v Rakousku provázely fyzické útoky i rasistické reakce iDNES.cz",
+      "published": "Sun, 22 Nov 2026 13:18:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
+    {
+      "title": "Pětice evropských vlád boří dosavadní tabu - RESPEKT",
+      "url": "https://www.respekt.cz/zahranici/petice-evropskych-vlad-bori-dosavadni-tabu",
+      "source": "RESPEKT",
+      "snippet": "Pětice evropských vlád boří dosavadní tabu RESPEKT",
+      "published": "Sat, 21 Nov 2026 09:01:46 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
+    {
+      "title": "Diecéze odsoudila Redžajovy výroky o srbských svatých místech: Mají známky nenávistných projevů, kosovské instituce musí reagovat - KoSSev",
+      "url": "https://kossev.info/cs/eparhija-osudila-izjave-redzaja-o-srpskim-svetinjama/",
+      "source": "KoSSev",
+      "snippet": "Diecéze odsoudila Redžajovy výroky o srbských svatých místech: Mají známky nenávistných projevů, kosovské instituce musí reagovat KoSSev",
+      "published": "Sun, 22 Nov 2026 21:08:58 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
+    {
+      "title": "Simić o Redžajeho výrocích: Překlad byl špatný, odpověděl jsem mu - kritika studentů, Rašiće a nové vlády v Bělehradě - KoSSev",
+      "url": "https://kossev.info/cs/simic-redzaj-izjave-srpske-svetinje/",
+      "source": "KoSSev",
+      "snippet": "Simić o Redžajeho výrocích: Překlad byl špatný, odpověděl jsem mu - kritika studentů, Rašiće a nové vlády v Bělehradě KoSSev",
+      "published": "Sun, 22 Nov 2026 21:41:44 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-23T07:47:10+00:00"
+    },
     {
       "title": "Židovský terorismus. Eisenkot, který skládá izraelskou vládu, odsoudil útok osadníků na Palestince",
       "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-zidovsky-terorismus-eisenkot-ktery-sklada-izraelskou-vladu-odsoudil-utok-osadniku-na-palestince-40609913",
       "source": "https://www.novinky.cz/rss",
       "snippet": "Militantní izraelští osadníci v neděli časně ráno napadli palestinské vesnice na Západním břehu, informuje agentura Reuters. Podle místních obyvatel útočníci zakládali ohně a psali rasistické vzkazy. Předák izraelské opozice Gadi Eisenkot, který se snaží sestavit novou vládu, to označil za židovský ",
       "published": "Sun, 22 Nov 2026 23:06:50 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
-    },
-    {
-      "title": "Průvody krampusáků v Rakousku provázely fyzické útoky i rasistické reakce",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/krampus-cert-rakousko-zraneni-nemocnice-kostym-rohy-letak.A261122_135505_zahranicni_votr#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-      "source": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
-      "snippet": "Několik násilných útoků poznamenalo v rakouských Korutanech v sobotu večer průvody krampusáků, hrozivější obdoby českého čerta. Dva muži kvůli nim skončili v nemocnici. V horském městečku Bad Kleinkirchheim jeden z diváků chytil muže v kostýmu pekelníka za rohy, vytáhl ho do výšky a pak ho srazil k ",
-      "published": "Sun, 22 Nov 2026 13:18:00 GMT",
       "lang": "cs",
       "collected_utc": "2026-11-23T02:02:03+00:00"
     },
