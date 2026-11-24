@@ -1,226 +1,325 @@
 {
-  "generated_utc": "2026-11-23T07:47:10+00:00",
-  "count": 22,
+  "generated_utc": "2026-11-24T05:37:30+00:00",
+  "count": 33,
   "sources": {
     "profile": "cz",
-    "google_news": 93,
+    "google_news": 105,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
-    "feeds": 1,
-    "news_feeds": 3,
+    "feeds": 0,
+    "news_feeds": 6,
     "watch": 0,
-    "before_dedup": 60,
-    "total": 46,
-    "skipped_seen": 37,
-    "gn_resolved": 8,
-    "gn_resolve_tried": 8,
-    "dropped_after_resolve": 0,
-    "new": 9,
-    "carried_over": 13,
-    "window_start": "2026-11-22T07:47:07+00:00",
-    "publish_run": true,
+    "before_dedup": 75,
+    "total": 55,
+    "skipped_seen": 21,
+    "gn_resolved": 28,
+    "gn_resolve_tried": 28,
+    "dropped_after_resolve": 1,
+    "new": 33,
+    "carried_over": 0,
+    "window_start": "2026-11-23T07:47:10+00:00",
+    "publish_run": false,
     "vps_trigger": "ok"
   },
   "candidates": [
     {
-      "title": "Box, hajlování a trénink na bitky. Expert zkoumá skryté záběry z neonacistického klubu rváčů v Praze",
-      "url": "https://www.irozhlas.cz/zpravy-domov/box-hajlovani-a-trenink-na-bitky-expert-zkouma-skryte-zabery-z-neonacistickeho_2611230600_cen",
+      "title": "Superdávka. Sociální experiment, který dál zhoršuje situaci na trhu s nájemním bydlením",
+      "url": "https://www.irozhlas.cz/komentare/superdavka-socialni-experiment-ktery-dal-zhorsuje-situaci-na-trhu-s-najemnim_2611240630_aln",
       "source": "https://www.irozhlas.cz/rss/irozhlas",
-      "snippet": "Perou se v ringu, hajlují na přednáškách. Neonacistický klub rváčů v Praze. Jak podobné skupiny fungují a proč na ně upozorňuje ministerstvo vnitra?",
-      "published": "Mon, 23 Nov 2026 06:00:00 +0100",
+      "snippet": "Měla to být revoluce. Tzv. superdávka, která nahradila přídavek na dítě, příspěvek a doplatek na bydlení i příspěvek na živobytí, měla podle jejího tvůrce, exministra práce a sociálních věcí Mariana Jurečky (KDU-ČSL), motivovat lidi k práci a současně zjednodušit a zpřehlednit celou dávkovou adminis",
+      "published": "Tue, 24 Nov 2026 06:30:00 +0100",
       "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Neonacismus 3.0: Odkryli jsme vazby extremistů na vládní poslance",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-video-odkryli-jsme-vazby-neonacistu-na-poslance-svobodnych-a-motoristu-321247",
+      "source": "https://www.seznamzpravy.cz/rss",
+      "snippet": "Velitel neonacistické organizace David Štafl dvakrát kandidoval za Svobodné a další člen, Štěpán Rataj, je v mládežnické organizaci Motoristů. Oba se setkávají s poslanci vládní koalice. Téma pro druhý díl série Neonacismus 3.0.",
+      "published": "Tue, 24 Nov 2026 05:00:00 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "„Chladnokrevný rasista.“ Strůjce Trumpových deportací je na vrcholu moci",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-otravoval-novinare-kvuli-pozornosti-ted-je-po-trumpovi-nejmocnejsim-muzem-321294",
+      "source": "https://www.seznamzpravy.cz/rss",
+      "snippet": "Personální šéf Bílého domu Stephen Miller tvrdí, že následující dva roky budou ty nejlepší v historii USA. Demokratům, kteří právě získali jasnou většinu v obou komorách Kongresu, přitom slibuje nemilosrdný boj.",
+      "published": "Mon, 23 Nov 2026 18:00:00 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "EU uvalila sankce na zakladatele extremistické skupiny The Base",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-eu-uvalila-sankce-na-zakladatele-extremisticke-skupiny-the-base-321326",
+      "source": "https://www.seznamzpravy.cz/rss",
+      "snippet": "Neonacista a zakladatel skupiny The Base Rinald Nazzaro se v rámci boje proti terorismu ocitl na sankčním seznamu EU. Nebude moci vstoupit na území Evropské unie a čeká ho zmrazení majetku.",
+      "published": "Mon, 23 Nov 2026 16:25:20 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Co když krajní pravice prorůstá do justice? Thriller Spravedlnost varuje před extremismem",
+      "url": "https://denikn.cz/2260192/co-kdyz-krajni-pravice-prorusta-do-justice-thriller-spravedlnost-varuje-pred-extremismem/",
+      "source": "https://denikn.cz/feed/",
+      "snippet": "Kina od 19. listopadu uvádějí film Spravedlnost oceněný na Berlinale. Íránsko-německý režisér Faraz Shariat v mrazivém thrilleru rozplétá vazby pravicových radikálů na státní zastupitele i policisty. Hlavní hrdinkou je prokurátorka korejského původu, jež zažila rasově motivovaný útok a pátrá po pach",
+      "published": "Tue, 24 Nov 2026 05:30:00 +0000",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Superdávka jako vyústění dlouhodobé snahy o „zombifikaci“ úřadů práce",
+      "url": "https://denikreferendum.cz/clanek/239623-superdavka-jako-vyusteni-dlouhodobe-snahy-o-zombifikaci-uradu-prace",
+      "source": "https://denikreferendum.cz/rss.xml",
+      "snippet": "O zavedení superdávky se stále často mluví jako o kroku, za nímž původně stály dobré úmysly, a všechny její nedostatky se označují za dílčí odstranitelné chyby. Ve skutečnosti se jedná o nástroj záměrně nadesignovaný tak, aby nefungoval.",
+      "published": "Mon, 23 Nov 2026 11:17:15 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Starosta slovenské obce s největší romskou komunitou bude vydělávat přes 186 tisíc korun - Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-starosta-slovenske-obce-s-nejvetsi-romskou-komunitou-bude-vydelavat-pres-186-tisic-korun-40609830",
+      "source": "Novinky",
+      "snippet": "Starosta slovenské obce s největší romskou komunitou bude vydělávat přes 186 tisíc korun Novinky",
+      "published": "Mon, 23 Nov 2026 08:51:46 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "„Některé se odškodnění ani nedožijí.“ Obětem protiprávních sterilizací dochází čas - Heroine.cz",
+      "url": "https://www.heroine.cz/spolecnost/nektere-se-odskodneni-ani-nedoziji-obetem-protipravnich-sterilizaci-dochazi-cas-a-ministerstvo-nezvlada-zadosti-vyridit",
+      "source": "Heroine.cz",
+      "snippet": "„Některé se odškodnění ani nedožijí.“ Obětem protiprávních sterilizací dochází čas Heroine.cz",
+      "published": "Tue, 24 Nov 2026 05:27:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     },
     {
       "title": "Starosta města Albufeira obviněn kvůli výrokům o Romech - The Portugal News",
-      "url": "https://www.theportugalnews.com/cs/zpravy/2026-11-22/starosta-msta-albufeira-obvinn-kvli-vyrokm-o-romech/1071613",
+      "url": "https://www.theportugalnews.com/cs/zpravy/2026-11-22/starosta-albufeiry-obvinn-kvli-vyrokm-o-romach/1071613",
       "source": "The Portugal News",
       "snippet": "Starosta města Albufeira obviněn kvůli výrokům o Romech The Portugal News",
-      "published": "Sun, 22 Nov 2026 04:16:41 GMT",
+      "published": "Sun, 22 Nov 2026 23:15:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     },
     {
-      "title": "Šance i pro lidi z rušené osady Bedřiška. Vesnička soužití v Ostravě se rozšíří - iDNES.cz",
-      "url": "https://www.idnes.cz/ostrava/zpravy/vesnicka-souziti-ostrava-muglinov-bedriska-dostavba.A261120_133928_ostrava-zpravy_jog",
-      "source": "iDNES.cz",
-      "snippet": "Šance i pro lidi z rušené osady Bedřiška. Vesnička soužití v Ostravě se rozšíří iDNES.cz",
-      "published": "Mon, 23 Nov 2026 05:39:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
-    },
-    {
-      "title": "Poloviční Rom a poloviční Vietnamec hrají hlavní role v debutu Martina Kanaloše Já, Tran a všechno ostatní - Český rozhlas České Budějovice",
-      "url": "https://budejovice.rozhlas.cz/polovicni-rom-a-polovicni-vietnamec-hraji-hlavni-role-v-debutu-martina-kanalose-9657970",
-      "source": "Český rozhlas České Budějovice",
-      "snippet": "Poloviční Rom a poloviční Vietnamec hrají hlavní role v debutu Martina Kanaloše Já, Tran a všechno ostatní Český rozhlas České Budějovice",
-      "published": "Sun, 22 Nov 2026 19:28:55 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
-    },
-    {
-      "title": "O Roma vakeren s Kamilou Schusterovou - Radiožurnál",
-      "url": "https://radiozurnal.rozhlas.cz/o-roma-vakeren-s-kamilou-schusterovou-9658134",
-      "source": "Radiožurnál",
-      "snippet": "O Roma vakeren s Kamilou Schusterovou Radiožurnál",
-      "published": "Sun, 22 Nov 2026 09:35:27 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
-    },
-    {
-      "title": "Průvody krampusáků v Rakousku provázely fyzické útoky i rasistické reakce - iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/krampus-cert-rakousko-zraneni-nemocnice-kostym-rohy-letak.A261122_135505_zahranicni_votr",
-      "source": "iDNES.cz",
-      "snippet": "Průvody krampusáků v Rakousku provázely fyzické útoky i rasistické reakce iDNES.cz",
-      "published": "Sun, 22 Nov 2026 13:18:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
-    },
-    {
-      "title": "Pětice evropských vlád boří dosavadní tabu - RESPEKT",
-      "url": "https://www.respekt.cz/zahranici/petice-evropskych-vlad-bori-dosavadni-tabu",
-      "source": "RESPEKT",
-      "snippet": "Pětice evropských vlád boří dosavadní tabu RESPEKT",
-      "published": "Sat, 21 Nov 2026 09:01:46 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
-    },
-    {
-      "title": "Diecéze odsoudila Redžajovy výroky o srbských svatých místech: Mají známky nenávistných projevů, kosovské instituce musí reagovat - KoSSev",
-      "url": "https://kossev.info/cs/eparhija-osudila-izjave-redzaja-o-srpskim-svetinjama/",
-      "source": "KoSSev",
-      "snippet": "Diecéze odsoudila Redžajovy výroky o srbských svatých místech: Mají známky nenávistných projevů, kosovské instituce musí reagovat KoSSev",
-      "published": "Sun, 22 Nov 2026 21:08:58 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
-    },
-    {
-      "title": "Simić o Redžajeho výrocích: Překlad byl špatný, odpověděl jsem mu - kritika studentů, Rašiće a nové vlády v Bělehradě - KoSSev",
-      "url": "https://kossev.info/cs/simic-redzaj-izjave-srpske-svetinje/",
-      "source": "KoSSev",
-      "snippet": "Simić o Redžajeho výrocích: Překlad byl špatný, odpověděl jsem mu - kritika studentů, Rašiće a nové vlády v Bělehradě KoSSev",
-      "published": "Sun, 22 Nov 2026 21:41:44 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T07:47:10+00:00"
-    },
-    {
-      "title": "Židovský terorismus. Eisenkot, který skládá izraelskou vládu, odsoudil útok osadníků na Palestince",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-zidovsky-terorismus-eisenkot-ktery-sklada-izraelskou-vladu-odsoudil-utok-osadniku-na-palestince-40609913",
-      "source": "https://www.novinky.cz/rss",
-      "snippet": "Militantní izraelští osadníci v neděli časně ráno napadli palestinské vesnice na Západním břehu, informuje agentura Reuters. Podle místních obyvatel útočníci zakládali ohně a psali rasistické vzkazy. Předák izraelské opozice Gadi Eisenkot, který se snaží sestavit novou vládu, to označil za židovský ",
-      "published": "Sun, 22 Nov 2026 23:06:50 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
-    },
-    {
-      "title": "Zapomeňte na skinheady, máme tady nové neonacisty. V oblecích",
-      "url": "https://www.seznamzpravy.cz/clanek/nazory-komentare-zapomente-na-skinheady-mame-tady-nove-neonacisty-v-oblecich-321146",
-      "source": "https://www.seznamzpravy.cz/rss",
-      "snippet": "Po Šachtě jsme tento týden vypustili do světa další velký investigativní projekt letošního podzimu. A tentokrát šli kolegové doslova s kůží na trh.",
-      "published": "Sun, 22 Nov 2026 15:00:00 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
-    },
-    {
-      "title": "O Roma vakeren s Kamilou Schusterovou - mujRozhlas",
-      "url": "https://www.mujrozhlas.cz/o-roma-vakeren/o-roma-vakeren-s-kamilou-schusterovou-3688793",
+      "title": "Baví mě vyprávět a pohybovat se v různých žánrech mě těší, říká spisovatel a scenárista Lukáš Csicsely - mujRozhlas",
+      "url": "https://www.mujrozhlas.cz/vizitka/bavi-me-vypravet-pohybovat-se-v-ruznych-zanrech-me-tesi-rika-spisovatel-scenarista-lukas",
       "source": "mujRozhlas",
-      "snippet": "O Roma vakeren s Kamilou Schusterovou mujRozhlas",
-      "published": "Sun, 22 Nov 2026 11:18:34 GMT",
+      "snippet": "Baví mě vyprávět a pohybovat se v různých žánrech mě těší, říká spisovatel a scenárista Lukáš Csicsely mujRozhlas",
+      "published": "Mon, 23 Nov 2026 13:37:32 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     },
     {
-      "title": "Izraelští osadníci dnes brzy ráno zaútočili na palestinské vesnice na okupovaném Západním břehu, kde podle místních obyvatel zakládali ohně a čmárali rasistické graffiti - Deník N",
-      "url": "https://denikn.cz/minuta/2266086/?ref=n3_sticker",
-      "source": "Deník N",
-      "snippet": "Izraelští osadníci dnes brzy ráno zaútočili na palestinské vesnice na okupovaném Západním břehu, kde podle místních obyvatel zakládali ohně a čmárali rasistické graffiti Deník N",
-      "published": "Sun, 22 Nov 2026 13:53:25 GMT",
+      "title": "V minimalismu se nedá nic skrýt. Je v něm jen melodie a letmý dotyk emoce, říká hudebník Andy Cermak - mujRozhlas",
+      "url": "https://www.mujrozhlas.cz/vizitka/v-minimalismu-se-neda-nic-skryt-je-v-nem-jen-melodie-letmy-dotyk-emoce-rika-hudebnik-andy",
+      "source": "mujRozhlas",
+      "snippet": "V minimalismu se nedá nic skrýt. Je v něm jen melodie a letmý dotyk emoce, říká hudebník Andy Cermak mujRozhlas",
+      "published": "Sun, 22 Nov 2026 23:39:08 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     },
     {
-      "title": "Neoliberální kořeny současného autoritářství a fašismu - Anarchistická federace",
-      "url": "https://www.afed.cz/text/8777/neoliberalni-koreny-soucasneho-autoritarstvi-a-fasismu",
-      "source": "Anarchistická federace",
-      "snippet": "Neoliberální kořeny současného autoritářství a fašismu Anarchistická federace",
-      "published": "Sun, 22 Nov 2026 09:52:11 GMT",
+      "title": "Petr Janyška: Nacionalismus v ulicích Varšavy - Deník Referendum",
+      "url": "https://denikreferendum.cz/clanek/239625-nacionalismus-v-ulicich-varsavy",
+      "source": "Deník Referendum",
+      "snippet": "Petr Janyška: Nacionalismus v ulicích Varšavy Deník Referendum",
+      "published": "Mon, 23 Nov 2026 04:26:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     },
     {
-      "title": "\"Chránit hodnoty Západu.\" Strana premiérky Meloniové chce zakázat zahalování žen a zpřísnit dohled nad mešitami - Echo24",
-      "url": "https://www.echo24.cz/a/HAvv9/zpravy-svet-strana-italske-premierky-meloniove-chce-zakazat-celotelove-zahalovani-zen-a-zprisnit-dohled-nad-mesitami",
-      "source": "Echo24",
-      "snippet": "\"Chránit hodnoty Západu.\" Strana premiérky Meloniové chce zakázat zahalování žen a zpřísnit dohled nad mešitami Echo24",
-      "published": "Sun, 22 Nov 2026 16:55:00 GMT",
+      "title": "Tři francouzští policisté dostali pětileté tresty za zbití černošského producenta - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/soud-ve-francii-shledal-tri-policisty-vinnymi-z-utoku-na-cernosskeho-producenta.A261121_121856_zahranicni_sahu",
+      "source": "iDNES.cz",
+      "snippet": "Tři francouzští policisté dostali pětileté tresty za zbití černošského producenta iDNES.cz",
+      "published": "Sun, 22 Nov 2026 11:54:00 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     },
     {
-      "title": "Superdávka připravila samoživitelky o část příjmů - https://zpravycr.cz/",
-      "url": "https://zpravycr.cz/superdavka-pripravila-samozivitelky-o-cast-prijmu/",
-      "source": "https://zpravycr.cz/",
-      "snippet": "Superdávka připravila samoživitelky o část příjmů https://zpravycr.cz/",
-      "published": "Sun, 22 Nov 2026 08:17:42 GMT",
+      "title": "Otráví Babiš děti školním jídlem, zatímco se neonacisté roztahují ve vládní straně? - Reflex.cz",
+      "url": "https://www.reflex.cz/clanek/padni-komu-padni/139514/ceka-na-video-otravi-babis-deti-skolnim-jidlem-zatimco-se-neonaciste-roztahuji-ve-vladni-strane.html",
+      "source": "Reflex.cz",
+      "snippet": "Otráví Babiš děti školním jídlem, zatímco se neonacisté roztahují ve vládní straně? Reflex.cz",
+      "published": "Mon, 23 Nov 2026 16:26:14 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     },
     {
-      "title": "O tzv. \"superdávce\" v oligarchické České republice | 22. 11. 2026 - Britské listy",
-      "url": "https://blisty.cz/art/137599-o-tzv-superdavce-v-oligarchicke-ceske-republice.html",
-      "source": "Britské listy",
-      "snippet": "O tzv. \"superdávce\" v oligarchické České republice | 22. 11. 2026 Britské listy",
-      "published": "Sun, 22 Nov 2026 10:27:13 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
-    },
-    {
-      "title": "Tisíce domácností mohou dostat na bydlení o 2 216 Kč měsíčně víc. Rozhodují nová pravidla státní podpory - Dřevostavitel",
-      "url": "https://www.drevostavitel.cz/clanek/tisice-fomacnosti-bude-dostavat-na-bydleni-vic",
-      "source": "Dřevostavitel",
-      "snippet": "Tisíce domácností mohou dostat na bydlení o 2 216 Kč měsíčně víc. Rozhodují nová pravidla státní podpory Dřevostavitel",
-      "published": "Sun, 22 Nov 2026 16:10:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
-    },
-    {
-      "title": "Babiš prozradil přesné datum konce poplatků! - ProSvět.cz",
-      "url": "https://prosvet.cz/babis-prozradil-termin-koncesionarske-poplatky-skonci-nejpozdeji-1-cervence-2027/",
-      "source": "ProSvět.cz",
-      "snippet": "Babiš prozradil přesné datum konce poplatků! ProSvět.cz",
-      "published": "Sun, 22 Nov 2026 10:47:31 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
-    },
-    {
-      "title": "Bungalov za 2,98 milionu vypadá jako dostupné bydlení. V katalogové ceně ale chybí zásadní položka - Centrum.cz",
-      "url": "https://www.centrum.cz/clanek/bungalov-za-298-milionu-vypada-jako-dostupne-bydleni-v-katalogove-cene-ale-chybi-zasadni-polozka-349579",
-      "source": "Centrum.cz",
-      "snippet": "Bungalov za 2,98 milionu vypadá jako dostupné bydlení. V katalogové ceně ale chybí zásadní položka Centrum.cz",
-      "published": "Sun, 22 Nov 2026 02:16:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
-    },
-    {
-      "title": "Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují - iROZHLAS",
-      "url": "https://www.irozhlas.cz/zpravy-svet/iracka-univerzita-zakazala-muzum-vyucovat-zeny-stovky-studentek-protestuji_2611212256_cen",
+      "title": "Box, hajlování a trénink na bitky. Expert zkoumá skryté záběry z neonacistického klubu rváčů v Praze - iROZHLAS",
+      "url": "https://www.irozhlas.cz/zpravy-domov/box-hajlovani-a-trenink-na-bitky-expert-zkouma-skryte-zabery-z-neonacistickeho_2611230600_cen",
       "source": "iROZHLAS",
-      "snippet": "Irácká univerzita zakázala mužům vyučovat ženy. Stovky studentek protestují iROZHLAS",
-      "published": "Sat, 21 Nov 2026 21:56:00 GMT",
+      "snippet": "Box, hajlování a trénink na bitky. Expert zkoumá skryté záběry z neonacistického klubu rváčů v Praze iROZHLAS",
+      "published": "Mon, 23 Nov 2026 05:03:52 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     },
     {
-      "title": "Tuláci na Algarve budou sterilizováni - The Portugal News",
-      "url": "https://www.theportugalnews.com/cs/zpravy/2026-11-22/tulaci-na-algarve-budou-sterilizovani/1069100",
-      "source": "The Portugal News",
-      "snippet": "Tuláci na Algarve budou sterilizováni The Portugal News",
-      "published": "Sun, 22 Nov 2026 22:09:01 GMT",
+      "title": "Jak se připravit na nové bezpečnostní hrozby? Olomouc hostí konferenci SOCRES - Hanácké novinky",
+      "url": "https://hanackenovinky.cz/2026/11/jak-se-pripravit-na-nove-bezpecnostni-hrozby-olomouc-hosti-konferenci-socres",
+      "source": "Hanácké novinky",
+      "snippet": "Jak se připravit na nové bezpečnostní hrozby? Olomouc hostí konferenci SOCRES Hanácké novinky",
+      "published": "Mon, 23 Nov 2026 11:41:19 GMT",
       "lang": "cs",
-      "collected_utc": "2026-11-23T02:02:03+00:00"
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Proaktivní ohledně Redžajevových prohlášení: Nenávistné projevy a historický revizionismus ohrožují bezpečnost srbských svatých míst, mezinárodní společenství musí reagovat - KoSSev",
+      "url": "https://kossev.info/cs/proaktiv-o-redzajevim-izjavama-govor-mrznje-i-istorijski-revizionizam-ugrozavaju-bezbednost-srpskih-svetinja-medjunarodna-zajednica-da-reaguje/",
+      "source": "KoSSev",
+      "snippet": "Proaktivní ohledně Redžajevových prohlášení: Nenávistné projevy a historický revizionismus ohrožují bezpečnost srbských svatých míst, mezinárodní společenství musí reagovat KoSSev",
+      "published": "Mon, 23 Nov 2026 17:13:50 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Migrace Unie je znepokojena nárůstem nenávistných projevů namířených proti přistěhovalcům v Portugalsku - The Portugal News",
+      "url": "https://www.theportugalnews.com/cs/zpravy/2026-11-23/migrace-unie-je-znepokojena-narstem-nenavistnych-projev-namienych-proti-pisthovalcm-v-portugalsku/1058169",
+      "source": "The Portugal News",
+      "snippet": "Migrace Unie je znepokojena nárůstem nenávistných projevů namířených proti přistěhovalcům v Portugalsku The Portugal News",
+      "published": "Mon, 23 Nov 2026 21:07:16 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Sociální vyloučení hrozí desetině obcí, riziko je hlavně ve třech krajích - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/mmr-obce-ohrozene-socialni-vylouceni-vzrostl-zhruba-14-procent.A261123_104526_domaci_sahu",
+      "source": "iDNES.cz",
+      "snippet": "Sociální vyloučení hrozí desetině obcí, riziko je hlavně ve třech krajích iDNES.cz",
+      "published": "Mon, 23 Nov 2026 10:23:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "„Postavíme budovy, umístíme odsouzené a tím končíme.“ Výstava tematizuje slabá místa českého vězeňství - Deník N",
+      "url": "https://denikn.cz/2255748/postavime-budovy-umistime-odsouzene-a-tim-koncime-vystava-tematizuje-slaba-mista-ceskeho-vezenstvi/?ref=mwac",
+      "source": "Deník N",
+      "snippet": "„Postavíme budovy, umístíme odsouzené a tím končíme.“ Výstava tematizuje slabá místa českého vězeňství Deník N",
+      "published": "Tue, 24 Nov 2026 05:30:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Superdávka, sociální experiment, který dál zhoršuje situaci na trhu s nájemním bydlením - Hospodářské noviny",
+      "url": "https://archiv.hn.cz/c1-67962970-superdavka-socialni-experiment-ktery-dal-zhorsuje-situaci-na-trhu-s-najemnim-bydlenim",
+      "source": "Hospodářské noviny",
+      "snippet": "Superdávka, sociální experiment, který dál zhoršuje situaci na trhu s nájemním bydlením Hospodářské noviny",
+      "published": "Mon, 23 Nov 2026 08:37:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Superdávka ubrala samoživitelkám tisíce. Chybí jim na jídlo i nájem, ukázal průzkum - Penize.cz",
+      "url": "https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/500362-superdavka-ubrala-samozivitelkam-tisice-chybi-jim-na-jidlo-i-zakladni-potreby-ukazal-pruzkum",
+      "source": "Penize.cz",
+      "snippet": "Superdávka ubrala samoživitelkám tisíce. Chybí jim na jídlo i nájem, ukázal průzkum Penize.cz",
+      "published": "Mon, 23 Nov 2026 15:06:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem - Český rozhlas Plus",
+      "url": "https://plus.rozhlas.cz/poslechnete-si-vsechny-pondelni-komentare-s-ondrejem-konradem-9658228",
+      "source": "Český rozhlas Plus",
+      "snippet": "Poslechněte si všechny pondělní komentáře s Ondřejem Konrádem Český rozhlas Plus",
+      "published": "Mon, 23 Nov 2026 14:11:44 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Liberecká potravinová banka má po podzimní sbírce skoro prázdné sklady. Lidé darovali bezmála 36,5 tuny - Metro.cz",
+      "url": "https://www.metro.cz/kraje/liberecky-kraj/liberecka-potravinova-banka-ma-po-podzimni-sbirce-skoro-prazdne-sklady-lide-darovali-bezmala-36-5-tu.A261123_161532_metro-liberec-zpravy_air",
+      "source": "Metro.cz",
+      "snippet": "Liberecká potravinová banka má po podzimní sbírce skoro prázdné sklady. Lidé darovali bezmála 36,5 tuny Metro.cz",
+      "published": "Mon, 23 Nov 2026 13:36:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Senior má nízký důchod, přesto nemusí dostat pomoc od státu. Překážkou mohou být i peníze našetřené na pohřeb - TVGURU.cz",
+      "url": "https://www.tvguru.cz/uspory-na-pohreb-superdavka-duchodci/",
+      "source": "TVGURU.cz",
+      "snippet": "Senior má nízký důchod, přesto nemusí dostat pomoc od státu. Překážkou mohou být i peníze našetřené na pohřeb TVGURU.cz",
+      "published": "Tue, 24 Nov 2026 02:25:16 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Dostupné bydlení v EU: kulatý stůl v Bruselu o využití evropské agendy v Česku - Svaz měst a obcí",
+      "url": "https://www.smocr.cz/cs/cinnost/udrzitelny-rozvoj/a/dostupne-bydleni-v-eu-kulaty-stul-v-bruselu-o-vyuziti-evropske-agendy-v-cesku",
+      "source": "Svaz měst a obcí",
+      "snippet": "Dostupné bydlení v EU: kulatý stůl v Bruselu o využití evropské agendy v Česku Svaz měst a obcí",
+      "published": "Mon, 23 Nov 2026 16:10:35 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Nechtěla vydělávat jen na nájem či hypotéku. Proto si postavila domov na kolech - Aktuálně.cz",
+      "url": "https://magazin.aktualne.cz/nikdy-predtim-v-ruce-nedrzela-naradi-i-tak-si-vytvorila-dostupne-bydleni-z-autobusu/r~aaa2943a56e2749c8c17733423db1c91/",
+      "source": "Aktuálně.cz",
+      "snippet": "Nechtěla vydělávat jen na nájem či hypotéku. Proto si postavila domov na kolech Aktuálně.cz",
+      "published": "Mon, 23 Nov 2026 15:30:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "ADRA v Ekvádoru a Peru pomohla 183 tisícům lidí. V pomoci pokračuje - Metro.cz",
+      "url": "https://www.metro.cz/protext/adra-v-ekvadoru-a-peru-pomohla-183-tisicum-lidi-v-pomoci-pokracuje.A261123_092900_metro-protext_air",
+      "source": "Metro.cz",
+      "snippet": "ADRA v Ekvádoru a Peru pomohla 183 tisícům lidí. V pomoci pokračuje Metro.cz",
+      "published": "Mon, 23 Nov 2026 08:29:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Policisté, zdravotníci i učitelé získají levnější bydlení. Stát pro ně chystá výstavbu bytů za 6 miliard korun - EnergoZrouti.cz",
+      "url": "https://energozrouti.cz/clanek/policiste-zdravotnici-a-ucitele-ziskaji-levnejsi-bydleni",
+      "source": "EnergoZrouti.cz",
+      "snippet": "Policisté, zdravotníci i učitelé získají levnější bydlení. Stát pro ně chystá výstavbu bytů za 6 miliard korun EnergoZrouti.cz",
+      "published": "Sun, 22 Nov 2026 15:40:02 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Lidem na ulici už Česko s bytem pomoct umí. Co ale pořád rozhoduje o tom, zda o bydlení nepřijdou - Metro.cz",
+      "url": "https://www.metro.cz/kraje/jihomoravsky-kraj/lidem-na-ulici-uz-cesko-s-bytem-pomoct-umi-co-ale-porad-rozhoduje-o-tom-zda-o-bydleni-neprijdou.A261123_170036_metro-brno-zpravy_air",
+      "source": "Metro.cz",
+      "snippet": "Lidem na ulici už Česko s bytem pomoct umí. Co ale pořád rozhoduje o tom, zda o bydlení nepřijdou Metro.cz",
+      "published": "Mon, 23 Nov 2026 14:19:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Algarve 2030 podporuje projekty sociálního bydlení v sedmi obcích - The Portugal News",
+      "url": "http://www.theportugalnews.com/cs/zpravy/2026-11-21/algarve-2030-podporuje-projekty-socialniho-bydleni-v-sedmi-obcich/1093853",
+      "source": "The Portugal News",
+      "snippet": "Algarve 2030 podporuje projekty sociálního bydlení v sedmi obcích The Portugal News",
+      "published": "Sun, 22 Nov 2026 04:59:41 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Sedm obcí v Algarve podalo žádosti o podporu sociálního bydlení - The Portugal News",
+      "url": "https://www.theportugalnews.com/cs/zpravy/2026-11-22/sedm-obci-v-algarve-podalo-zadosti-o-podporu-socialniho-bydleni/1094891",
+      "source": "The Portugal News",
+      "snippet": "Sedm obcí v Algarve podalo žádosti o podporu sociálního bydlení The Portugal News",
+      "published": "Sun, 22 Nov 2026 02:04:50 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
+    },
+    {
+      "title": "Michaela Nosková přetavila zkušenosti z toxického vztahu do pomoci druhým: Všechno si to beru osobně - Lifee.cz",
+      "url": "https://www.lifee.cz/michaela-noskova-toxicky-vztah-prace-ombudsmanky-vsechno-si-beru-osobne-edbc2",
+      "source": "Lifee.cz",
+      "snippet": "Michaela Nosková přetavila zkušenosti z toxického vztahu do pomoci druhým: Všechno si to beru osobně Lifee.cz",
+      "published": "Mon, 23 Nov 2026 10:03:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T05:37:30+00:00"
     }
   ]
 }
