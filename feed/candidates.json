@@ -1,29 +1,686 @@
 {
-  "generated_utc": "2026-11-24T05:35:06+00:00",
-  "count": 106,
+  "generated_utc": "2026-11-24T07:43:13+00:00",
+  "count": 179,
   "sources": {
     "profile": "world",
-    "google_news": 154,
+    "google_news": 160,
     "google_news_status": "ok",
-    "gdelt": 0,
-    "gdelt_status": "rate_limited",
-    "gdelt_note": "HTTP 429 (rate-limit)",
-    "feeds": 31,
+    "gdelt": 71,
+    "gdelt_status": "ok",
+    "gdelt_note": "",
+    "feeds": 30,
     "news_feeds": 0,
-    "watch": 8,
-    "before_dedup": 188,
-    "total": 164,
-    "skipped_seen": 58,
-    "gn_resolved": 102,
-    "gn_resolve_tried": 102,
+    "watch": 9,
+    "before_dedup": 261,
+    "total": 235,
+    "skipped_seen": 162,
+    "gn_resolved": 23,
+    "gn_resolve_tried": 23,
     "dropped_after_resolve": 0,
-    "new": 106,
-    "carried_over": 0,
+    "new": 73,
+    "carried_over": 106,
     "window_start": "2026-11-23T07:45:58+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Pred rokmi ich adoptovali Švédi. Návrat do osád odhalil ich dva svety - Roma Television",
+      "url": "https://romatv.sk/zaujimavosti/pred-rokmi-ich-adoptovali-%C5%A1v%C3%A9di-n%C3%A1vrat-do-os%C3%A1d-odhalil-ich-dva-svety/1401232",
+      "source": "Roma Television",
+      "snippet": "Pred rokmi ich adoptovali Švédi. Návrat do osád odhalil ich dva svety Roma Television",
+      "published": "Tue, 24 Nov 2026 05:01:00 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Gemerská Hôrka modernizovala takmer dva kilometre miestnych ciest za takmer milión eur - Epoch Times Slovensko",
+      "url": "https://www.epochtimes.sk/gemerska-horka-modernizovala-takmer-dva-kilometre-miestnych-ciest-za-takmer-milion-eur_111323.html",
+      "source": "Epoch Times Slovensko",
+      "snippet": "Gemerská Hôrka modernizovala takmer dva kilometre miestnych ciest za takmer milión eur Epoch Times Slovensko",
+      "published": "Mon, 23 Nov 2026 19:47:36 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "romska osade projekt pre romov 3 il | Namiesto pomoci osadám idú milióny na analýzy - Noviny.sk",
+      "url": "https://www.noviny.sk/galeria/31106-namiesto-pomoci-osadam-idu-miliony-na-analyzy/b9d3bbbc-b38e-4aa9-8d75-76111dde4c02",
+      "source": "Noviny.sk",
+      "snippet": "romska osade projekt pre romov 3 il | Namiesto pomoci osadám idú milióny na analýzy Noviny.sk",
+      "published": "Sun, 22 Nov 2026 19:22:29 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Brazil targets primary surplus of up to 2% of GDP by end of Lula’s next term - WTVB",
+      "url": "https://wtvbam.com/2026/11/23/brazil-targets-primary-surplus-of-up-to-2-of-gdp-by-end-of-lulas-next-term/",
+      "source": "WTVB",
+      "snippet": "Brazil targets primary surplus of up to 2% of GDP by end of Lula’s next term WTVB",
+      "published": "Mon, 23 Nov 2026 18:50:21 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Rigoarea cea lipsă din învățământul românesc – Dumitru MONACU - Monitorul de Botoșani",
+      "url": "https://www.monitorulbt.ro/editorial/2026/11/24/rigoarea-cea-lipsa-din-invatamantul-romanesc-dumitru-monacu/",
+      "source": "Monitorul de Botoșani",
+      "snippet": "Rigoarea cea lipsă din învățământul românesc – Dumitru MONACU Monitorul de Botoșani",
+      "published": "Tue, 24 Nov 2026 05:30:20 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Preot, intre Dumnezeu si Satana! VIDEO SOCANT - Kanal D Romania",
+      "url": "https://www.kanald.ro/preot-intre-dumnezeu-si-satana-video-socant-16674198",
+      "source": "Kanal D Romania",
+      "snippet": "Preot, intre Dumnezeu si Satana! VIDEO SOCANT Kanal D Romania",
+      "published": "Sun, 22 Nov 2026 11:13:16 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Esclavas sexuales, bebés vendidos, gitanos, prostitutas: la otra historia - EL ASOMBRARIO & Co.",
+      "url": "https://elasombrario.publico.es/esclavas-sexuales-bebes-vendidos-gitanos-prostitutas-la-otra-historia/",
+      "source": "EL ASOMBRARIO & Co.",
+      "snippet": "Esclavas sexuales, bebés vendidos, gitanos, prostitutas: la otra historia EL ASOMBRARIO & Co.",
+      "published": "Tue, 24 Nov 2026 06:30:06 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Oliva Soto, toreo y orgullo gitano en el Parlamento de Andalucía - Aplausos.es",
+      "url": "https://www.aplausos.es/oliva-soto-toreo-y-orgullo-gitano-en-el-parlamento-de-andalucia/",
+      "source": "Aplausos.es",
+      "snippet": "Oliva Soto, toreo y orgullo gitano en el Parlamento de Andalucía Aplausos.es",
+      "published": "Mon, 23 Nov 2026 21:24:11 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Interpellations après le déraillement d'un TER : la \"stupeur\" sur le camp de gens du voyage de Cléon - ici.fr",
+      "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-normandie-seine-maritime-eure/interpellations-apres-le-deraillement-d-un-ter-la-stupeur-sur-le-camp-de-gens-du-voyage-de-cleon-6050762",
+      "source": "ici.fr",
+      "snippet": "Interpellations après le déraillement d'un TER : la \"stupeur\" sur le camp de gens du voyage de Cléon ici.fr",
+      "published": "Tue, 24 Nov 2026 06:32:30 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Festiv’Jazz #4 Trois soirs de swing à l’Espace Grappelli à Nice - - Le Jazzophone",
+      "url": "https://www.lejazzophone.com/festivjazz-4-trois-soirs-de-swing-a-lespace-grappelli-a-nice/",
+      "source": "Le Jazzophone",
+      "snippet": "Festiv’Jazz #4 Trois soirs de swing à l’Espace Grappelli à Nice - Le Jazzophone",
+      "published": "Mon, 23 Nov 2026 17:22:51 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Des écoles et crèches fermées par précaution à Pibrac dès ce mardi, à la suite de l'incendie sur l'aire d'accueil de Colomiers - ladepeche.fr",
+      "url": "https://www.ladepeche.fr/2026/11/24/des-ecoles-et-creches-fermees-par-precaution-a-pibrac-des-ce-mardi-a-la-suite-de-lincendie-sur-laire-daccueil-de-colomiers-13668420.php",
+      "source": "ladepeche.fr",
+      "snippet": "Des écoles et crèches fermées par précaution à Pibrac dès ce mardi, à la suite de l'incendie sur l'aire d'accueil de Colomiers ladepeche.fr",
+      "published": "Tue, 24 Nov 2026 07:23:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Déraillement en Normandie : Un père et ses deux fils interpellés deux mois après le grave accident de train - Yahoo Actualités",
+      "url": "https://fr.news.yahoo.com/d%C3%A9raillement-normandie-p%C3%A8re-deux-fils-082744955.html",
+      "source": "Yahoo Actualités",
+      "snippet": "Déraillement en Normandie : Un père et ses deux fils interpellés deux mois après le grave accident de train Yahoo Actualités",
+      "published": "Mon, 23 Nov 2026 08:27:44 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Wer ist Menowin Fröhlich? Der DSDS-Sieger 2026 hinter dem Pocher-Eklat - Nacionale",
+      "url": "https://www.nacionale.com/de/articles/wer-ist-menowin-froehlich-dsds-sieger-2026",
+      "source": "Nacionale",
+      "snippet": "Wer ist Menowin Fröhlich? Der DSDS-Sieger 2026 hinter dem Pocher-Eklat Nacionale",
+      "published": "Tue, 24 Nov 2026 07:14:20 GMT",
+      "lang": "de",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Войната срещу ТЕЛК и рекордният бюджет за война - Вестник \"ДУМА\"",
+      "url": "https://www.duma.bg/voynata-sreshtu-telk-i-rekordniyat-byudzhet-za-voyna-n329970",
+      "source": "Вестник \"ДУМА\"",
+      "snippet": "Войната срещу ТЕЛК и рекордният бюджет за война Вестник \"ДУМА\"",
+      "published": "Mon, 23 Nov 2026 12:19:08 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Тъмна индия! Квартал на Враца потъна в мрак, гражданите апелират за спешни мерки /снимки/ - BulNews",
+      "url": "https://www.bulnews.bg/article/522392",
+      "source": "BulNews",
+      "snippet": "Тъмна индия! Квартал на Враца потъна в мрак, гражданите апелират за спешни мерки /снимки/ BulNews",
+      "published": "Tue, 24 Nov 2026 06:40:00 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Ανήλικοι Ρομά έκαναν 23 κλοπές στη Βόρεια Ελλάδα σε λιγότερο από δύο εβδομάδες - Voria",
+      "url": "https://www.voria.gr/article/anilikoi-roma-ekanan-23-klopes-sti-boreia-ellada-se-ligotero-apo-dyo-ebdomades",
+      "source": "Voria",
+      "snippet": "Ανήλικοι Ρομά έκαναν 23 κλοπές στη Βόρεια Ελλάδα σε λιγότερο από δύο εβδομάδες Voria",
+      "published": "Tue, 24 Nov 2026 06:56:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Γυναίκες Ρομά «χτύπησαν» δύο φορές καταστήματα με καπνικά προϊόντα στην Καλαμάτα - εφημεριδα θαρρος",
+      "url": "https://www.tharrosnews.gr/2026/11/gynaikes-roma-chtypisan-dyo-fores-katastimata-me-kapnika-proionta-stin-kalamata/",
+      "source": "εφημεριδα θαρρος",
+      "snippet": "Γυναίκες Ρομά «χτύπησαν» δύο φορές καταστήματα με καπνικά προϊόντα στην Καλαμάτα εφημεριδα θαρρος",
+      "published": "Tue, 24 Nov 2026 07:00:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Θεσσαλονίκη: Συμμορία ανήλικων Ρομά έκανε 23 κλοπές – Σε ποιες περιοχές «χτυπούσαν» - Typosthes",
+      "url": "https://www.typosthes.gr/thessaloniki/449687_thessaloniki-symmoria-anilikon-roma-ekane-23-klopes-se-poies-periohes-htypoysan",
+      "source": "Typosthes",
+      "snippet": "Θεσσαλονίκη: Συμμορία ανήλικων Ρομά έκανε 23 κλοπές – Σε ποιες περιοχές «χτυπούσαν» Typosthes",
+      "published": "Tue, 24 Nov 2026 07:00:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Δύο ανήλικοι Ρομά πίσω από 23 κλοπές σε 13 ημέρες σε Θεσσαλονίκη, Κιλκίς, Πέλλα και Ημαθία - www.focusfm.gr",
+      "url": "https://www.focusfm.gr/dyo-anilikoi-roma-piso-apo-23-klopes-se-13-imeres-se-thessaloniki-kilkis-pella-kai-imathia/",
+      "source": "www.focusfm.gr",
+      "snippet": "Δύο ανήλικοι Ρομά πίσω από 23 κλοπές σε 13 ημέρες σε Θεσσαλονίκη, Κιλκίς, Πέλλα και Ημαθία www.focusfm.gr",
+      "published": "Tue, 24 Nov 2026 07:20:18 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Sterty śmieci i szczury. Mieszkańcy Zagłębia Ruhry narzekają na sąsiedztwo Romów - Dojczland.info",
+      "url": "https://dojczland.info/wiadomosci/zaglebie-ruhry-smieci-szczury-reportaz/",
+      "source": "Dojczland.info",
+      "snippet": "Sterty śmieci i szczury. Mieszkańcy Zagłębia Ruhry narzekają na sąsiedztwo Romów Dojczland.info",
+      "published": "Tue, 24 Nov 2026 06:06:19 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24",
+      "url": "https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-23-11-2026/ar/c9p2-29417133",
+      "source": "GP24",
+      "snippet": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! GP24",
+      "published": "Mon, 23 Nov 2026 06:30:28 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Figueira da Foz reúne mais de 50 parceiros para reforçar inclusão da população cigana - SAPO",
+      "url": "https://sapo.pt/artigo/figueira-da-foz-reune-mais-de-50-parceiros-para-reforcar-inclusao-da-populacao-cigana-6b052d722feb67ff6b9ddd84",
+      "source": "SAPO",
+      "snippet": "Figueira da Foz reúne mais de 50 parceiros para reforçar inclusão da população cigana SAPO",
+      "published": "Tue, 24 Nov 2026 05:15:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Ouro, diamantes, malas de dinheiro e centenas de vítimas: golpe da pirâmide financeira abala comunidade cigana de SP - O GLOBO",
+      "url": "https://oglobo.globo.com/brasil/noticia/2026/11/24/ouro-diamantes-malas-de-dinheiro-e-centenas-de-vitimas-golpe-da-piramide-financeira-abala-comunidade-cigana-de-sp.ghtml",
+      "source": "O GLOBO",
+      "snippet": "Ouro, diamantes, malas de dinheiro e centenas de vítimas: golpe da pirâmide financeira abala comunidade cigana de SP O GLOBO",
+      "published": "Tue, 24 Nov 2026 06:30:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis",
+      "url": "https://www.eurasiareview.com/24112026-the-erosion-of-institutional-memory-and-the-crisis-of-governance-in-somalia-and-puntland-analysis/",
+      "source": "eurasiareview.com",
+      "snippet": "",
+      "published": "20261124T071500Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "OUT până în 2027 ?! Diagnosticul primit de Daniel Bîrligea , după ce a ieșit accidentat la ultimul meci",
+      "url": "https://www.gsp.ro/international/campionate/diagnosticul-primit-de-daniel-birligea-dupa-ce-a-iesit-accidentat-la-ultimul-meci-1002406.html",
+      "source": "gsp.ro",
+      "snippet": "",
+      "published": "20261124T071500Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Terra di illegalità . Liberato campo rom di via Chiesa Rossa",
+      "url": "https://www.ilgiornale.it/news/cronaca-locale/terra-di-illegalita-liberato-campo-rom-di-via-chiesa-rossa/",
+      "source": "ilgiornale.it",
+      "snippet": "",
+      "published": "20261124T063000Z",
+      "lang": "Italian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Коментари - Борисов поиска оставките на хората на ГЕРБ в ОИК - Варна , гласували за махането на Коцев",
+      "url": "https://dnes.dir.bg/comments/borisov-poiska-ostavkite-na-horata-na-gerb-v-oik-varna-glasuvali-za-mahaneto-na-kotsev",
+      "source": "dnes.dir.bg",
+      "snippet": "",
+      "published": "20261124T063000Z",
+      "lang": "Bulgarian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "6 Mutant Family Trees That Make Absolutely Zero Sense",
+      "url": "https://screenrant.com/mutant-families-make-no-sense/",
+      "source": "screenrant.com",
+      "snippet": "",
+      "published": "20261124T063000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Tichete de 120 de lei pentru sărbători , oferite de Primărie",
+      "url": "https://www.viata-libera.ro/eveniment/265879-tichete-de-120-de-lei-pentru-sarbatori,-oferite-de-primarie",
+      "source": "viata-libera.ro",
+      "snippet": "",
+      "published": "20261124T063000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": " « Seven Guitars » hapet zyrtarisht në Lincoln Center : kritika përqafon ringjalljen e August Wilson - it dhe shfaqja zgjatet deri më 17 janar",
+      "url": "https://24-ore.com/seven-guitars-hapet-zyrtarisht-ne-lincoln-center-kritika-perqafon-ringjalljen-e-august-wilson-it-dhe-shfaqja-zgjatet-deri-me-17-janar/",
+      "source": "24-ore.com",
+      "snippet": "",
+      "published": "20261124T063000Z",
+      "lang": "Albanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Calendarul zilei - 24 noiembrie - Radio România Constanța",
+      "url": "https://www.radioconstanta.ro/2026/11/24/calendarul-zilei-24-noiembrie-13/",
+      "source": "radioconstanta.ro",
+      "snippet": "",
+      "published": "20261124T061500Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Formentor : notable diversidad botánica condicionada por el relieve y el clima , con algunos endemismos",
+      "url": "https://www.ultimahora.es/sucesos/ultimas/2026/11/24/2756191/formentor-notable-diversidad-botanica-condicionada-por-relieve-clima-algunos-endemismos.html",
+      "source": "ultimahora.es",
+      "snippet": "",
+      "published": "20261124T051500Z",
+      "lang": "Spanish",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Radu Tudoran , jurnalista impudică și brățările de tinichea . Amintiri neprețuite despre autorul romanului „ Toate pînzele sus ! ",
+      "url": "https://jurnalul.ro/cultura/radu-tudoran-amintiri-nepretuite-autor-toate-panzele-sus-1050233.html",
+      "source": "jurnalul.ro",
+      "snippet": "",
+      "published": "20261124T044500Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Во Владивостоке мужчина упал в шахту лифта торгового центра",
+      "url": "https://www.eastrussia.ru/news/vo-vladivostoke-muzhchina-upal-v-shakhtu-lifta-torgovogo-tsentra/",
+      "source": "eastrussia.ru",
+      "snippet": "",
+      "published": "20261124T043000Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "  สหรัฐ  เปิดเอกสารลับพบเห็น  บิ๊กฟุต  ตั้งแต่ยุค 1940 ปลุกกระแสสิ่งมีชีวิตลึกลับ",
+      "url": "https://www.bangkokbiznews.com/sustainability/1262037",
+      "source": "bangkokbiznews.com",
+      "snippet": "",
+      "published": "20261124T033000Z",
+      "lang": "Thai",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Smelly Lunch Stories : Smaran Jworchan",
+      "url": "https://www.bandt.com.au/smelly-lunch-stories-smaran-jworchan/",
+      "source": "bandt.com.au",
+      "snippet": "",
+      "published": "20261124T014500Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Namibia : Spanish Embassy Introduces Jazz Caló to Namibia",
+      "url": "https://allafrica.com/stories/202611240019.html",
+      "source": "allafrica.com",
+      "snippet": "",
+      "published": "20261124T013000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Tyson Fury , former boxing champ , reveals schizophrenia diagnosis",
+      "url": "https://www.aol.com/articles/tyson-fury-former-boxing-champ-211827000.html",
+      "source": "aol.com",
+      "snippet": "",
+      "published": "20261124T013000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Why pig farmer took  revenge  on neighbours by selling field to travellers : Landowner reveals he was  spied on  by council after locals complained he was living illegally in log cabin",
+      "url": "https://www.dailymail.com/news/article-16295837/Pig-farmer-revenge-neighbours-feud-travellers-tribunal-council-spying.html",
+      "source": "dailymail.com",
+      "snippet": "",
+      "published": "20261124T011500Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": " ¿ Quién es Antonio Roma ?: El cantante creado con IA que agotó un show en Madrid",
+      "url": "https://www.t13.cl/noticia/espectaculos/quien-antonio-roma-cantante-creado-ia-agoto-show-madrid-23-11-2026",
+      "source": "t13.cl",
+      "snippet": "",
+      "published": "20261124T003000Z",
+      "lang": "Spanish",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Roma , studente di 58 anni trovato morto davanti alla Sapienza : viveva in tenda per protesta",
+      "url": "https://www.adnkronos.com/cronaca/studente-morto-sapienza-roma-protesta-per-studentato_7sh0hnoQAJj70nCP1nfsoz",
+      "source": "adnkronos.com",
+      "snippet": "",
+      "published": "20261123T213000Z",
+      "lang": "Italian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "De ce renunță mulți copii din România la școală înainte de absolvire : O generație pierdută în statistici , o societate afectată pe termen lung",
+      "url": "https://ziarulunirea.ro/de-ce-renunta-multi-copii-din-romania-la-scoala-inainte-de-absolvire-o-generatie-pierduta-in-statistici-o-societate-afectata-pe-termen-lung-1020357/",
+      "source": "ziarulunirea.ro",
+      "snippet": "",
+      "published": "20261123T213000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Antonio Roma , el cantante de flamenco generado con IA que agotó un show en Madrid | Sociedad",
+      "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/23/antonio-roma-el-cantante-de-flamenco-generado-con-ia-que-agoto-un-show-en-madrid.shtml",
+      "source": "biobiochile.cl",
+      "snippet": "",
+      "published": "20261123T213000Z",
+      "lang": "Spanish",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": " « Не спешите , со мной все хорошо ». Как из - под завалов разрушенного дома под Киевом спасли 7 - летнего Давида и 79 - летнюю Валентину",
+      "url": "https://www.bbc.com/russian/articles/c6eq4g2ww5n1o",
+      "source": "bbc.com",
+      "snippet": "",
+      "published": "20261123T213000Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "DEC Announces New Deer Check Station as Part of Chronic Wasting Disease Response",
+      "url": "https://dec.ny.gov/news/press-releases/2026/11/dec-announces-new-deer-check-station-as-part-of-chronic-wasting-disease-response",
+      "source": "dec.ny.gov",
+      "snippet": "",
+      "published": "20261123T213000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Roma , trovato morto studente di 58 anni in tenda alla Sapienza",
+      "url": "https://tg24.sky.it/cronaca/2026/11/23/roma-morto-studente-58-anni-universita-la-sapienza",
+      "source": "tg24.sky.it",
+      "snippet": "",
+      "published": "20261123T213000Z",
+      "lang": "Italian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Firm Handshakes , Selfies , and Fiery Speeches",
+      "url": "https://tol.org/client/article/firm-handshakes-selfies-and-fiery-speeches.html",
+      "source": "tol.org",
+      "snippet": "",
+      "published": "20261123T213000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "马赛球迷组织拉横幅讽刺老板麦考特 ： SOLD OUT ！ ",
+      "url": "https://www.163.com/dy/article/LCDMV1070549BAP0.html",
+      "source": "163.com",
+      "snippet": "",
+      "published": "20261123T023000Z",
+      "lang": "Chinese",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Ansamblul Violoncellissimo în concert la Palazzo Barberini din Roma",
+      "url": "https://www.romania-muzical.ro/stire/ansamblul-violoncellissimo-in-concert-la-palazzo-barberini-din-roma/3958821/47/5",
+      "source": "romania-muzical.ro",
+      "snippet": "",
+      "published": "20261123T023000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "No me extraña que te pasen cosas , chaval",
+      "url": "https://www.libertaddigital.com/espana/politica/2026-11-22/santiago-navajas-no-me-extrana-que-te-pasen-cosas-chaval-7495798/",
+      "source": "libertaddigital.com",
+      "snippet": "",
+      "published": "20261122T223000Z",
+      "lang": "Spanish",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Росія збирається посилити атаки по заходу України екстрасенс дав тривожний прогноз Ексклюзив ТСН",
+      "url": "https://tsn.ua/exclusive/rosiia-zbyrayetsia-posylyty-ataky-po-zakhodu-ukrayiny-ekstrasens-dav-tryvoznyy-prohnoz-3223815.html",
+      "source": "tsn.ua",
+      "snippet": "",
+      "published": "20261122T213000Z",
+      "lang": "Ukrainian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Arrestohen në Shqipëri dy shqiptarë të kërkuar nga Italia , pritet ekstradimi i tyre",
+      "url": "https://indeksonline.net/arrestohen-ne-shqiperi-dy-shqiptare-te-kerkuar-nga-italia-pritet-ekstradimi-i-tyre/",
+      "source": "indeksonline.net",
+      "snippet": "",
+      "published": "20261122T213000Z",
+      "lang": "Albanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Шоу голоса : SHAMAN ярко отметил 35 - летие в Кремле",
+      "url": "https://news.mail.ru/society/73195622/",
+      "source": "news.mail.ru",
+      "snippet": "",
+      "published": "20261122T213000Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Alcaraz vence Zverev e é campeão do ATP Finals pela 1ª vez",
+      "url": "https://veja.abril.com.br/brasil/alcaraz-vence-zverev-e-e-campeao-do-atp-finals-pela-1a-vez/",
+      "source": "veja.abril.com.br",
+      "snippet": "",
+      "published": "20261122T213000Z",
+      "lang": "Portuguese",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Kalendari i ditëve jo pune në Maqedoni për vitin 2027",
+      "url": "https://24-ore.com/kalendari-i-diteve-jo-pune-ne-maqedoni-per-vitin-2027/",
+      "source": "24-ore.com",
+      "snippet": "",
+      "published": "20261122T213000Z",
+      "lang": "Albanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": " „ Scandalagiul  autoproclamat din Italia vrea să - și pună amprenta pe al doilea mandat al Giorgiei Meloni",
+      "url": "https://www.antena3.ro/externe/scandalagiul-autoproclamat-din-italia-vrea-sa-si-puna-amprenta-pe-al-doilea-mandat-al-giorgiei-meloni-811273.html",
+      "source": "antena3.ro",
+      "snippet": "",
+      "published": "20261122T213000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Ministria e Brendshme e Francës tronditet nga hetimet për rrjedhjen e informacioneve sekrete te ekstremi i djathtë",
+      "url": "https://telegrafi.com/ministria-e-brendshme-e-frances-tronditet-nga-hetimet-per-rrjedhjen-e-informacioneve-sekrete-te-ekstremi-i-djathte/",
+      "source": "telegrafi.com",
+      "snippet": "",
+      "published": "20261122T203000Z",
+      "lang": "Albanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Ζεφύρι : Δύο νεκροί πυροσβέστες και εγκληματικές ελλείψεις",
+      "url": "https://prin.gr/2026/11/zefyri-pyrosvestes/",
+      "source": "prin.gr",
+      "snippet": "",
+      "published": "20261122T203000Z",
+      "lang": "Greek",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Arborist and teacher earning $130 , 000 buy their first home in a PEI village for under half a million",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-my-first-home-pei-village-arborist-teacher/",
+      "source": "theglobeandmail.com",
+      "snippet": "",
+      "published": "20261122T190000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "  Wall Street sabe que el plan de Milei y Caputo ya fracasó  ",
+      "url": "https://www.lapoliticaonline.com:443/entrevista/wall-street-sabe-que-el-plan-de-milei-y-caputo-ya-fracaso/",
+      "source": "lapoliticaonline.com",
+      "snippet": "",
+      "published": "20261122T190000Z",
+      "lang": "Spanish",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Cuvinte care traversează granițe : despre limbă , migrație și identitate , la Institutul Cervantes din București",
+      "url": "https://www.romaniapozitiva.ro/bucuresti/cuvinte-care-traverseaza-granite-despre-limba-migratie-si-identitate-la-institutul-cervantes-din-bucuresti/",
+      "source": "romaniapozitiva.ro",
+      "snippet": "",
+      "published": "20261122T190000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": " „ Tržnice je nedůstojná , všichni politici jen slibují , říká pořadatel bleších trhů Jindřich Skácel",
+      "url": "https://www.vecernikpv.cz/rozhovory/36076-trznice-je-nedustojna-vsichni-politici-jen-slibuji-rika-poradatel-blesich-trhu-jindrich-skacel",
+      "source": "vecernikpv.cz",
+      "snippet": "",
+      "published": "20261122T190000Z",
+      "lang": "Czech",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "UK national Andrew Glauberman sentenced for Auckland home improvement scam",
+      "url": "https://www.rnz.co.nz/news/crime-and-justice/2738957/uk-national-andrew-glauberman-sentenced-for-auckland-home-improvement-scam",
+      "source": "rnz.co.nz",
+      "snippet": "",
+      "published": "20261122T184500Z",
+      "lang": "English",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Aeroportul Internațional Timișoara redeschide pista pentru revenirea curselor principalelor companii aeriene",
+      "url": "https://business24.ro/aeroportul-timisoara/aeroport-timisoara-redeschidere-pista-curse-companii-1675649",
+      "source": "business24.ro",
+      "snippet": "",
+      "published": "20261122T184500Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Tragičan kraj potrage za šestogodišnjakom : „ Nismo mogli da odustanemo , oni su prvi pronašli telo - Vesti",
+      "url": "https://www.telegraf.rs/vesti/jugosfera/4437486-tragican-kraj-potrage-za-sestogodisnjakom-nismo-mogli-da-odustanemo-oni-su-prvi-pronasli-telo",
+      "source": "telegraf.rs",
+      "snippet": "",
+      "published": "20261122T123000Z",
+      "lang": "Serbian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Επίθεση με γκαζάκια σε σπίτι στο Αιγάλεω",
+      "url": "https://www.newsit.gr/ellada/epithesi-me-gkazakia-se-spiti-sto-aigaleo/4828606/",
+      "source": "newsit.gr",
+      "snippet": "",
+      "published": "20261122T103000Z",
+      "lang": "Greek",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Interul lui Chivu a picat pe locul trei în Italia , după un  one man show . Jucătorul care a marcat patru goluri",
+      "url": "https://ziare.com/as-roma/inter-chivu-picat-locul-trei-italia-2049187",
+      "source": "ziare.com",
+      "snippet": "",
+      "published": "20261122T103000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Syarat singkir DAP bukan pendirian rasmi PN",
+      "url": "https://www.utusan.com.my/nasional/2026/11/syarat-singkir-dap-bukan-pendirian-rasmi-pn/",
+      "source": "utusan.com.my",
+      "snippet": "",
+      "published": "20261122T103000Z",
+      "lang": "Malay",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Șase orașe din România , în topul celor mai frumoase 100 din Europa . Unul dintre ele depășește Amsterdam și Barcelona",
+      "url": "https://ziare.com/orase-romania/frumoase-europa-top-amsterdam-barcelona-2049195",
+      "source": "ziare.com",
+      "snippet": "",
+      "published": "20261122T103000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Fjalori i  Bashkimit  dhe Kongresi i Manastirit – Epoka e Re",
+      "url": "https://www.epokaere.com/fjalori-i-bashkimit-dhe-kongresi-i-manastirit/",
+      "source": "epokaere.com",
+      "snippet": "",
+      "published": "20261122T103000Z",
+      "lang": "Albanian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Ernest Muciye sürpriz teklif : 22 milyon Euro ! ",
+      "url": "https://ajansspor.com/haber/ernest-muciye-surpriz-teklif-22-milyon-euro-739123",
+      "source": "ajansspor.com",
+      "snippet": "",
+      "published": "20261122T073000Z",
+      "lang": "Turkish",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Krisztus Király főünnepére jelenik meg a Remény hetilap 47 . száma",
+      "url": "https://felvidek.ma/2026/11/22/krisztus-kiraly-founnepere-jelenik-meg-a-remeny-hetilap-47-szama/",
+      "source": "felvidek.ma",
+      "snippet": "",
+      "published": "20261122T073000Z",
+      "lang": "Hungarian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
+    {
+      "title": "Pesta Gol di Markas Parma , Donyell Malen Borong Empat Gol Roma – Olahraga",
+      "url": "https://olahraga.batampos.co.id/pesta-gol-di-markas-parma-donyell-malen-borong-empat-gol-roma/",
+      "source": "olahraga.batampos.co.id",
+      "snippet": "",
+      "published": "20261122T073000Z",
+      "lang": "Indonesian",
+      "collected_utc": "2026-11-24T07:43:13+00:00"
+    },
     {
       "title": "Field Trip",
       "url": "https://rroma.org/field-trip/?utm_source=rss&utm_medium=rss&utm_campaign=field-trip",
