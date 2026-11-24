@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-08",
+  "sample": true,
+  "items": [
+    {
+      "url": "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html",
+      "source": "Le Monde",
+      "country": "FR",
+      "lang": "fr",
+      "published": "2026-11-08",
+      "importance": "high",
+      "category": {
+        "cs": "Bydlení",
+        "en": "Housing"
+      },
+      "original_title": "A Saint-Denis, des familles roms expulsées illégalement par les polices nationale et municipale",
+      "title": {
+        "cs": "V Saint-Denis policie nezákonně vystěhovala romské rodiny",
+        "en": "Police unlawfully evicted Roma families in Saint-Denis"
+      },
+      "summary": {
+        "cs": "Státní i obecní policie podle deníku Le Monde vystěhovaly romské rodiny v Saint-Denis u Paříže, aniž by k tomu měly zákonný podklad.",
+        "en": "According to Le Monde, national and municipal police evicted Roma families in Saint-Denis near Paris without any legal basis."
+      }
+    },
+    {
+      "url": "https://24.hu/elet-stilus/2026/11/08/gaspar-virag-budapesti-szorakozohely-diszkriminacio/",
+      "source": "24.hu",
+      "country": "HU",
+      "lang": "hu",
+      "published": "2026-11-08",
+      "importance": "high",
+      "category": {
+        "cs": "Diskriminace",
+        "en": "Discrimination"
+      },
+      "original_title": "Gáspár Virág azt mondja, a származása miatt nem engedték be egy budapesti szórakozóhelyre",
+      "title": {
+        "cs": "Virág Gáspárovou nepustili do budapešťského klubu kvůli romskému původu",
+        "en": "Virág Gáspár says a Budapest club turned her away for being Roma"
+      },
+      "summary": {
+        "cs": "Virág Gáspárová tvrdí, že ji se sestrou Evelin odmítli pustit do budapešťského klubu se slovy „jsi cikánka, nemůžeš dovnitř“. Příhodu popsala ve videu na TikToku.",
+        "en": "Virág Gáspár says she and her sister Evelin were refused entry to a Budapest club and told “you are a Gypsy, you can’t come in”. She described the incident in a TikTok video."
+      }
+    },
+    {
+      "url": "https://naslovi.net/2026-11-08/moj-novi-sad/poceli-izbori-za-savete-nacionalnih-manjina-pravo-glasa-ima-blizu-pola-miliona-gradjana/42581559",
+      "source": "Naslovi.net",
+      "country": "RS",
+      "lang": "sr",
+      "published": "2026-11-08",
+      "importance": "medium",
+      "category": {
+        "cs": "Politika",
+        "en": "Politics"
+      },
+      "original_title": "Počeli izbori za savete nacionalnih manjina, pravo glasa ima blizu pola miliona građana",
+      "title": {
+        "cs": "V Srbsku se volí rady národnostních menšin, včetně romské",
+        "en": "Serbia elects national minority councils, including the Roma council"
+      },
+      "summary": {
+        "cs": "Téměř půl milionu voličů z 21 národnostních menšin, mezi nimi i Romové, si v neděli volí členy menšinových rad. Hlasuje se na 949 volebních místech po celém Srbsku.",
+        "en": "Nearly half a million voters from 21 national minorities, Roma among them, elect members of their minority councils on Sunday at 949 polling stations across Serbia."
+      }
+    },
+    {
+      "url": "https://fakti.bg/bulgaria/1098548-cvetelin-kanchev-bednostta-e-novata-granica-na-diskriminaciata",
+      "source": "Fakti.bg",
+      "country": "BG",
+      "lang": "bg",
+      "published": "2026-11-07",
+      "importance": "medium",
+      "category": {
+        "cs": "Politika",
+        "en": "Politics"
+      },
+      "original_title": "Цветелин Кънчев: Бедността е новата граница на дискриминацията",
+      "title": {
+        "cs": "Předseda Evroromy: Chudoba je nová hranice diskriminace",
+        "en": "Euroroma leader: Poverty is the new frontier of discrimination"
+      },
+      "summary": {
+        "cs": "Předseda strany Evroroma Cvetelin Kančev tvrdí, že kupování hlasů bylo při prezidentských volbách ojedinělé a Romové ho stále častěji odmítají. Obyvatelé obce Bukovlak popisují odmítnuté nabídky peněz.",
+        "en": "Euroroma chairman Tsvetelin Kanchev says vote buying in the presidential election was isolated and Roma increasingly refuse to sell their votes. Residents of Bukovlak describe turning down cash offers."
+      }
+    },
+    {
+      "url": "https://www.lejdd.fr/Societe/face-a-60-caravanes-il-sort-son-tracteur-un-eleveur-de-loise-condamne-pour-avoir-blesse-un-homme-187995",
+      "source": "Le JDD",
+      "country": "FR",
+      "lang": "fr",
+      "published": "2026-11-07",
+      "importance": "medium",
+      "category": {
+        "cs": "Justice",
+        "en": "Justice"
+      },
+      "original_title": "Face à 60 caravanes, il sort son tracteur : un éleveur de l’Oise condamné pour avoir blessé un homme",
+      "title": {
+        "cs": "Chovatel, který vyjel traktorem proti 60 karavanům, dostal podmínku",
+        "en": "Farmer who drove a tractor at 60 caravans gets suspended sentence"
+      },
+      "summary": {
+        "cs": "Soud odsoudil chovatele z departementu Oise k pěti měsícům podmíněně. V roce 2021 těžce zranil muže, když se snažil zabránit, aby se na jeho pozemku v Houdancourtu usadily karavany.",
+        "en": "A court gave a farmer from the Oise department a five-month suspended sentence. In 2021 he seriously injured a man while trying to stop caravans from settling on his land in Houdancourt."
+      }
+    },
+    {
+      "url": "https://romatv.sk/slovensko/firmy-chc%C3%BA-zamestn%C3%A1va%C5%A5-znev%C3%BDhodnen%C3%BDch-ale-nar%C3%A1%C5%BEaj%C3%BA-na-ve%C4%BEk%C3%A9-prek%C3%A1%C5%BEky/1401192",
+      "source": "Roma Television",
+      "country": "SK",
+      "lang": "sk",
+      "published": "2026-11-07",
+      "importance": "low",
+      "category": {
+        "cs": "Zaměstnanost",
+        "en": "Employment"
+      },
+      "original_title": "Firmy chcú zamestnávať znevýhodnených, ale narážajú na veľké prekážky",
+      "title": {
+        "cs": "Firmy chtějí zaměstnávat znevýhodněné, narážejí ale na překážky",
+        "en": "Companies want to hire disadvantaged people but face obstacles"
+      },
+      "summary": {
+        "cs": "Získat práci je pro mnoho znevýhodněných lidí jen první krok, větší výzva přichází po nástupu. Romská televize popisuje, s čím se firmy při jejich zaměstnávání potýkají.",
+        "en": "For many disadvantaged people, landing a job is only the first step; the bigger challenge comes afterwards. Roma Television looks at what employers have to deal with."
+      }
+    }
+  ]
+}

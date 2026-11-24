@@ -3,9 +3,39 @@
 ## Co to je
 Automatický pipeline, který **1× denně** projde zpravodajské zdroje napříč
 jazyky a publikuje kandidátské zprávy o Romech ve světě. Třídění, česká
-shrnutí a e-mail pak dělá naplánovaný agent v ChatGPT (režim B, NASAZENO)
-nebo Claude přes API (režim A, připraveno, vypnuto). Plánování řeší GitHub
-Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
+shrnutí a e-mail pak dělá naplánovaný agent **Amanpour** na VPS (režim B,
+NASAZENO) nebo Claude přes API (režim A, připraveno, vypnuto). Plánování
+řeší GitHub Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
+
+## Agent Amanpour (zjištěno 11/2026)
+Běží na VPS (Ubuntu, WinSCP relace „AI - VPS Server“, SFTP). Původně byl
+agent v ChatGPT, odtud názvy `chatgpt_task*.md` – **dnes ChatGPT není**.
+Sám o sobě uvádí nástroje Bash, Read/Write/Edit, Agent, Workflow, Cron,
+Artifact (prostředí typu Claude Code) a konektory Gmail, Google Drive/
+Kalendář, Microsoft 365. **Shell má**, síť ven funguje (api.github.com 200),
+zapisovat na disk umí. **GitHub konektor NEMÁ** – feed stahuje `curl`em.
+Platné zadání: `PROMPT_AMANPOUR.md`. Placené Anthropic API Zdeněk nechce –
+vše, co potřebuje AI, dělá Amanpour v rámci předplatného.
+
+## Web „Romové ve světě“ (rozpracováno 11/2026)
+Veřejný agregátor (cs + en) ze zpráv, které Amanpour vybral do e-mailu
+„Romové ve světě“ – NE ze surového feedu. Tok:
+1. Amanpour zapíše výběr jako JSON (formát v hlavičce `build_web.py`
+   a v `PROMPT_AMANPOUR.md`, sekce B2) a spustí `nastroje/odeslat_vyber.py`.
+2. Skript data zkontroluje (věk ≤ 7 dní, cs+en, ISO země, žádná ČTK)
+   a přes GitHub Contents API zapíše `web/data/RRRR-MM-DD.json`.
+   Token (fine-grained PAT, **Contents: Read and write**) leží na VPS
+   v `~/.config/roma-monitor/github-token`, do repa nepatří.
+3. `build_web.py` dohledá fotky (og:image, cache `web/cache/images.json`)
+   a vygeneruje statické stránky do `web/` (cs v kořeni, en v `en/`).
+   Fotky se nekopírují, jen odkazují na servery vydavatelů.
+4. Publikace přes GitHub Pages – workflow zatím CHYBÍ (krok 3).
+
+- **ČTK na web nikdy** – licencovaný obsah bez veřejného odkazu.
+- Ukázková data mají `"sample": true` (web pak ukáže žlutý pruh);
+  `web/data/2026-11-0{7,8}.json` jsou ukázka, před spuštěním smazat.
+- Stránky mají `noindex` (konstanta `ROBOTS` v `build_web.py`) do spuštění.
+- Lokální náhled: `.claude/launch.json` → server `web-nahled` na :8765.
 
 ## Tři zdroje pro agenta
 1. `feed/` — Romové ve světě (profil `world`, 15 jazyků + GDELT + romské feedy)
@@ -19,7 +49,7 @@ Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
   Veřejná URL feedu **pro agenta** (jsDelivr CDN — `raw.githubusercontent.com`
   vrací automatům 403, viz níže):
   `https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json`
-  Prompt agenta: `chatgpt_task.md`.
+  Prompt agenta: `PROMPT_AMANPOUR.md` (`chatgpt_task*.md` jsou historické).
 - **A (plný):** `main.py` → sběr + Claude třídí/shrnuje + e-mail. Vyžaduje
   ANTHROPIC_API_KEY + SMTP secrets. Cron v `digest.yml` je zakomentovaný,
   jde spustit jen ručně (workflow_dispatch).

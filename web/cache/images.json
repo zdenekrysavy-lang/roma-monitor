@@ -1,0 +1,50 @@
+{
+ "https://24.hu/elet-stilus/2026/11/08/gaspar-virag-budapesti-szorakozohely-diszkriminacio/": {
+  "checked": "2026-11-24T23:40:01+00:00",
+  "image": "https://s.24.hu/app/uploads/2026/11/central-0985184727-e1794134140292-1024x576.jpg",
+  "note": "ok",
+  "tries": 1
+ },
+ "https://fakti.bg/bulgaria/1098548-cvetelin-kanchev-bednostta-e-novata-granica-na-diskriminaciata": {
+  "checked": "2026-11-24T23:40:01+00:00",
+  "image": "https://cdn4.focus.bg/fakti/photos/fb/525/cvetelin-kanchev-bednostta-e-novata-granica-na-diskriminaciata-1.jpg",
+  "note": "ok",
+  "tries": 1
+ },
+ "https://lamianet.gr/emvoliasmos-paidion-roma-stous-katavlismous-kyparissiou-dimou-lokron/": {
+  "checked": "2026-11-24T23:40:01+00:00",
+  "image": "https://i0.wp.com/lamianet.gr/wp-content/uploads/2026/11/emvoliasmoi-dimos-lokrwn-2.jpg?fit=800%2C349&ssl=1",
+  "note": "ok",
+  "tries": 1
+ },
+ "https://naslovi.net/2026-11-08/moj-novi-sad/poceli-izbori-za-savete-nacionalnih-manjina-pravo-glasa-ima-blizu-pola-miliona-gradjana/42581559": {
+  "checked": "2026-11-24T23:40:01+00:00",
+  "image": "https://www.mojnovisad.com/wp-content/uploads/2026/11/glasanje-izbori04-1.jpg",
+  "note": "ok",
+  "tries": 1
+ },
+ "https://romatv.sk/slovensko/firmy-chc%C3%BA-zamestn%C3%A1va%C5%A5-znev%C3%BDhodnen%C3%BDch-ale-nar%C3%A1%C5%BEaj%C3%BA-na-ve%C4%BEk%C3%A9-prek%C3%A1%C5%BEky/1401192": {
+  "checked": "2026-11-24T23:40:01+00:00",
+  "image": "https://cf-images.assettype.com/romatv%2F2025-11-07%2F61l2btq0%2F1312863.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=romatv%2F2025-03-23%2Fgbun0a0e%2Fag%20%E2%80%93%20ko%CC%81pia%20%E2%80%93%20ko%CC%81pia.png&overlay_position=bottom&overlay_width=100",
+  "note": "ok",
+  "tries": 1
+ },
+ "https://www.lejdd.fr/Societe/face-a-60-caravanes-il-sort-son-tracteur-un-eleveur-de-loise-condamne-pour-avoir-blesse-un-homme-187995": {
+  "checked": "2026-11-24T23:40:01+00:00",
+  "image": "https://static.lejdd.fr/lmnr/var/jdd/public/media/image/2026/11/07/14/080_hl_alevu_1794632.jpg?VersionId=fo6XEn2npjJpikO7ZyObbWND07vOz9Es",
+  "note": "ok",
+  "tries": 1
+ },
+ "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html": {
+  "checked": "2026-11-24T23:40:01+00:00",
+  "image": null,
+  "note": "HTTP 402",
+  "tries": 1
+ },
+ "https://www.teraz.sk/najnovsie/usvrk-niektore-romske-lokality-su-o/1005817-clanok.html": {
+  "checked": "2026-11-24T23:40:01+00:00",
+  "image": "https://www.teraz.sk/usercontent/socialmedia/92a5a7c365caae26ed21e6472775112abedb8da6.jpg?wm=tasr-teraz&v=2",
+  "note": "ok",
+  "tries": 1
+ }
+}

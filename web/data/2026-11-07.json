@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-07",
+  "sample": true,
+  "items": [
+    {
+      "url": "https://www.teraz.sk/najnovsie/usvrk-niektore-romske-lokality-su-o/1005817-clanok.html",
+      "source": "TERAZ.sk",
+      "country": "SK",
+      "lang": "sk",
+      "published": "2026-11-07",
+      "importance": "medium",
+      "category": {
+        "cs": "Sociální vyloučení",
+        "en": "Social exclusion"
+      },
+      "original_title": "ÚSVRK: Niektoré rómske lokality sú od obce vzdialené 8-10 kilometrov",
+      "title": {
+        "cs": "Některé romské osady leží 8–10 kilometrů od obce, ukázalo mapování",
+        "en": "Some Roma settlements lie 8–10 km from the village, mapping shows"
+      },
+      "summary": {
+        "cs": "Úřad zmocněnce slovenské vlády pro romské komunity zveřejnil hlavní zjištění mapování SMARK 2025. Podrobnou analýzu chce vydat v příštích měsících.",
+        "en": "The Slovak government’s Office of the Plenipotentiary for Roma Communities published key findings of the SMARK 2025 mapping. A detailed analysis is due in the coming months."
+      }
+    },
+    {
+      "url": "https://lamianet.gr/emvoliasmos-paidion-roma-stous-katavlismous-kyparissiou-dimou-lokron/",
+      "source": "LamiaNet",
+      "country": "GR",
+      "lang": "el",
+      "published": "2026-11-06",
+      "importance": "low",
+      "category": {
+        "cs": "Zdraví",
+        "en": "Health"
+      },
+      "original_title": "Εμβολιασμός παιδιών Ρομά στους καταυλισμούς Κυπαρισσίου Δήμου Λοκρών",
+      "title": {
+        "cs": "Lékaři očkovali 40 romských dětí přímo v osadách u Kyparissi",
+        "en": "Doctors vaccinated 40 Roma children in the Kyparissi settlements"
+      },
+      "summary": {
+        "cs": "V obci Lokroi ve středním Řecku proběhla 31. října pediatrická prohlídka a očkování 40 romských dětí přímo v osadách.",
+        "en": "In the municipality of Lokroi in central Greece, 40 Roma children received a paediatric check-up and vaccinations on 31 October, directly in their settlements."
+      }
+    }
+  ]
+}

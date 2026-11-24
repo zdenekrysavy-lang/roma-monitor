@@ -1,0 +1,179 @@
+/* Romové ve světě – styl agregátoru. Barvy odkazují k romské vlajce
+   (modrá nebe, zelená země, červené kolo), ale tlumeně, ať nesoupeří
+   s fotkami z cizích webů. */
+:root {
+  --paper:    #f7f6f2;
+  --surface:  #ffffff;
+  --ink:      #15191f;
+  --ink-soft: #3b424d;
+  --muted:    #6a717c;
+  --line:     #e3e1da;
+  --blue:     #1f5f9e;
+  --green:    #2e7d4f;
+  --red:      #b3261e;
+  --link:     #1f5f9e;
+  --ph-a:     #dfe8f1;
+  --ph-b:     #e1ece4;
+  --shadow:   0 1px 2px rgba(20, 25, 31, .05), 0 4px 16px rgba(20, 25, 31, .05);
+  --serif: "Iowan Old Style", "Charter", "Georgia", "Cambria", serif;
+  --sans:  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --radius: 12px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper:    #111418;
+    --surface:  #191d23;
+    --ink:      #eceef1;
+    --ink-soft: #c3c8cf;
+    --muted:    #8d949e;
+    --line:     #2a3038;
+    --blue:     #6ea8e0;
+    --green:    #5fb383;
+    --red:      #ff6b5e;
+    --link:     #8fbdf0;
+    --ph-a:     #1d2733;
+    --ph-b:     #1c2a22;
+    --shadow:   none;
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 16px/1.55 var(--sans);
+}
+a { color: var(--link); }
+.wrap { max-width: 1140px; margin: 0 auto; padding: 0 16px; }
+@media (min-width: 700px) { .wrap { padding: 0 28px; } }
+
+/* --- upozornění na ukázková data */
+.sample {
+  background: #fff4d6; color: #5c4400;
+  text-align: center; font-size: .85rem; padding: .45rem 16px;
+}
+@media (prefers-color-scheme: dark) { .sample { background: #3a2f12; color: #f3dfa6; } }
+
+/* --- hlavička */
+header.site {
+  background: var(--surface);
+  border-bottom: 1px solid var(--line);
+  position: relative;
+}
+header.site::before {            /* tenký pruh v barvách vlajky */
+  content: ""; display: block; height: 4px;
+  background: linear-gradient(90deg, var(--blue) 0 50%, var(--green) 50% 100%);
+}
+.top { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-top: 18px; padding-bottom: 10px; }
+.brand { display: flex; align-items: center; gap: 12px; color: inherit; text-decoration: none; min-width: 0; }
+.brand strong { display: block; font: 700 1.45rem/1.15 var(--serif); letter-spacing: -.01em; }
+.brand small { display: block; color: var(--muted); font-size: .88rem; line-height: 1.35; margin-top: 2px; }
+.mark {
+  flex: none; width: 34px; height: 34px; border-radius: 50%;
+  background:
+    radial-gradient(circle, transparent 0 5px, var(--red) 5px 8px, transparent 8px),
+    linear-gradient(var(--blue) 0 50%, var(--green) 50% 100%);
+}
+@media (max-width: 599px) {
+  .top { padding-top: 14px; }
+  .brand { gap: 10px; }
+  .brand strong { font-size: 1.2rem; }
+  .brand small { font-size: .8rem; }
+  .mark { width: 28px; height: 28px; }
+  .day-head h2 { font-size: 1.15rem; }
+}
+.lang {
+  flex: none; font-size: .85rem; font-weight: 600; text-decoration: none;
+  color: var(--ink); border: 1px solid var(--line); border-radius: 999px;
+  padding: .35rem .85rem;
+}
+.lang:hover { border-color: var(--ink-soft); }
+.nav { display: flex; gap: 22px; }
+.nav a {
+  padding: 10px 0 11px; font-size: .92rem; font-weight: 600;
+  color: var(--muted); text-decoration: none; border-bottom: 2px solid transparent;
+}
+.nav a:hover { color: var(--ink); }
+.nav a[aria-current] { color: var(--ink); border-bottom-color: var(--green); }
+
+main { padding-top: 8px; padding-bottom: 56px; }
+
+/* --- den */
+.day { margin-top: 36px; }
+.day-head {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
+  border-bottom: 2px solid var(--ink); padding-bottom: 8px; margin-bottom: 22px;
+}
+.day-head h2 { margin: 0; font: 700 1.3rem/1.25 var(--serif); }
+.day-head h2 a { color: inherit; text-decoration: none; }
+.count { color: var(--muted); font-size: .85rem; white-space: nowrap; }
+
+.grid { display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
+
+/* --- karta zprávy */
+.card {
+  display: flex; flex-direction: column; min-width: 0;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow);
+}
+.media {
+  position: relative; display: block; aspect-ratio: 16 / 9; overflow: hidden;
+  background: linear-gradient(135deg, var(--ph-a), var(--ph-b));
+}
+.media img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .4s ease; }
+.card:hover .media img { transform: scale(1.03); }
+.ph {
+  position: absolute; inset: 0; display: none; align-items: center; justify-content: center;
+  padding: 16px; text-align: center; color: var(--ink-soft);
+  font: 600 1.05rem/1.2 var(--serif); letter-spacing: .02em;
+}
+.media.noimg .ph { display: flex; }
+
+.body { display: flex; flex-direction: column; flex: 1; padding: 16px 18px 18px; }
+.kicker { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin: 0 0 8px; font-size: .76rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+.kicker .country { color: var(--green); }
+.kicker .country + .cat::before { content: "·"; margin-right: 10px; color: var(--line); }
+.badge { background: var(--red); color: #fff; border-radius: 4px; padding: 2px 7px; letter-spacing: .05em; }
+.card h3 { margin: 0 0 8px; font: 700 1.17rem/1.3 var(--serif); letter-spacing: -.005em; }
+.card h3 a { color: var(--ink); text-decoration: none; }
+.card h3 a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.perex { margin: 0 0 12px; color: var(--ink-soft); font-size: .95rem; }
+.meta { margin: 0 0 12px; color: var(--muted); font-size: .82rem; }
+.more {
+  margin-top: auto; align-self: flex-start;
+  font-size: .86rem; font-weight: 600; text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.more:hover { text-decoration: underline; }
+.card a:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+
+/* hlavní zpráva dne */
+.card.lead { margin-bottom: 22px; }
+@media (min-width: 860px) {
+  .card.lead { display: grid; grid-template-columns: 1.4fr 1fr; }
+  .card.lead .media { aspect-ratio: auto; min-height: 340px; }
+  .card.lead .body { padding: 28px 30px; justify-content: center; }
+  .card.lead h3 { font-size: 1.75rem; line-height: 1.2; margin-bottom: 14px; }
+  .card.lead .perex { font-size: 1.05rem; }
+}
+@media (max-width: 859px) {
+  .card.lead h3 { font-size: 1.35rem; }
+}
+
+/* --- archiv */
+.page-title { font: 700 1.6rem/1.2 var(--serif); margin: 32px 0 18px; }
+.archive { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.archive li { padding: 14px 0; border-bottom: 1px solid var(--line); }
+.archive li > a { font: 700 1.08rem var(--serif); color: var(--ink); text-decoration: none; margin-right: 8px; }
+.archive li > a:hover { text-decoration: underline; }
+.archive p { margin: 4px 0 0; color: var(--ink-soft); font-size: .9rem; }
+.older { margin-top: 32px; font-weight: 600; }
+.empty { margin-top: 40px; color: var(--muted); }
+
+/* --- patička */
+footer.site { border-top: 1px solid var(--line); background: var(--surface); color: var(--muted); font-size: .86rem; }
+footer.site p { margin: 0; padding: 22px 0 28px; max-width: 70ch; }
