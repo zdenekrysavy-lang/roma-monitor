@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-24T05:37:30+00:00",
-  "count": 33,
+  "generated_utc": "2026-11-24T07:47:16+00:00",
+  "count": 39,
   "sources": {
     "profile": "cz",
-    "google_news": 105,
+    "google_news": 106,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
@@ -11,19 +11,91 @@
     "feeds": 0,
     "news_feeds": 6,
     "watch": 0,
-    "before_dedup": 75,
+    "before_dedup": 77,
     "total": 55,
-    "skipped_seen": 21,
-    "gn_resolved": 28,
-    "gn_resolve_tried": 28,
-    "dropped_after_resolve": 1,
-    "new": 33,
-    "carried_over": 0,
+    "skipped_seen": 47,
+    "gn_resolved": 7,
+    "gn_resolve_tried": 7,
+    "dropped_after_resolve": 0,
+    "new": 8,
+    "carried_over": 31,
     "window_start": "2026-11-23T07:47:10+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Za fotku hrozila smrt! Tajné album z Terezína odhaluje děsivou pravdu na unikátních snímcích",
+      "url": "https://www.blesk.cz/clanek/zpravy-pribehy/853357/za-fotku-hrozila-smrt-tajne-album-z-terezina-odhaluje-desivou-pravdu.html",
+      "source": "https://www.blesk.cz/rss",
+      "snippet": "Přesně před 85 lety vyjel z Prahy první transport do terezínského ghetta. Na toto mrazivé výročí nyní poprvé knižně vychází mimořádný historický objev – Album G. T. Obsahuje 41 unikátních fotografií, které v ghettu vznikly v roce 1943 navzdory přísnému zákazu a hrozbě smrti.",
+      "published": "Tue, 24 Nov 2026 07:17:00 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T07:47:16+00:00"
+    },
+    {
+      "title": "CNN Prima NEWS na odvrácené straně Slovenska Takhle se žije v romských osadách - CNN Prima NEWS",
+      "url": "https://cnn.iprima.cz/videa/cnn-prima-news-na-odvracene-strane-slovenska-takhle-se-zije-v-romskych-osadach",
+      "source": "CNN Prima NEWS",
+      "snippet": "CNN Prima NEWS na odvrácené straně Slovenska Takhle se žije v romských osadách CNN Prima NEWS",
+      "published": "Tue, 24 Nov 2026 06:37:24 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T07:47:16+00:00"
+    },
+    {
+      "title": "Poloviční Rom a poloviční Vietnamec hrají hlavní role v debutu Martina Kanaloše Já, Tran a všechno ostatní - mujRozhlas",
+      "url": "https://www.mujrozhlas.cz/knizni-hlidka-filipa-cerneho/polovicni-rom-polovicni-vietnamec-hraji-hlavni-role-v-debutu-martina",
+      "source": "mujRozhlas",
+      "snippet": "Poloviční Rom a poloviční Vietnamec hrají hlavní role v debutu Martina Kanaloše Já, Tran a všechno ostatní mujRozhlas",
+      "published": "Sun, 22 Nov 2026 14:42:21 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T07:47:16+00:00"
+    },
+    {
+      "title": "Další bizarní reklama z Česka. Firma GoldBee čelí kritice kvůli „yellow face“, stáhla ji a omluvila se - Refresher.cz",
+      "url": "https://refresher.cz/216460-Dalsi-bizarni-reklama-z-Ceska-Firma-GoldBee-celi-kritice-kvuli-yellow-face-stahla-ji-a-omluvila-se",
+      "source": "Refresher.cz",
+      "snippet": "Další bizarní reklama z Česka. Firma GoldBee čelí kritice kvůli „yellow face“, stáhla ji a omluvila se Refresher.cz",
+      "published": "Tue, 24 Nov 2026 07:30:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T07:47:16+00:00"
+    },
+    {
+      "title": "EU uvalila sankce na zakladatele extremistické skupiny The Base - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-eu-uvalila-sankce-na-zakladatele-extremisticke-skupiny-the-base-321326",
+      "source": "Seznam Zprávy",
+      "snippet": "EU uvalila sankce na zakladatele extremistické skupiny The Base Seznam Zprávy",
+      "published": "Mon, 23 Nov 2026 15:25:20 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T07:47:16+00:00"
+    },
+    {
+      "title": "„Postavíme budovy, umístíme odsouzené a tím končíme.“ Výstava tematizuje slabá místa českého vězeňství - Deník N",
+      "url": "https://denikn.cz/2255748/postavime-budovy-umistime-odsouzene-a-tim-koncime-vystava-tematizuje-slaba-mista-ceskeho-vezenstvi/",
+      "source": "Deník N",
+      "snippet": "„Postavíme budovy, umístíme odsouzené a tím končíme.“ Výstava tematizuje slabá místa českého vězeňství Deník N",
+      "published": "Tue, 24 Nov 2026 05:30:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T07:47:16+00:00"
+    },
+    {
+      "title": "Pomůže superdávka důchodcům, co žijí sami v Praze? Některým ano, ale není to žádná hitparáda - Lidovky.cz",
+      "url": "https://www.lidovky.cz/byznys/najemne-v-praze-je-vyssi-nez-duchod-pomuze-superdavka-nebo-prestehovani.A261123_111710_ln_ekonomika_paza",
+      "source": "Lidovky.cz",
+      "snippet": "Pomůže superdávka důchodcům, co žijí sami v Praze? Některým ano, ale není to žádná hitparáda Lidovky.cz",
+      "published": "Tue, 24 Nov 2026 05:44:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T07:47:16+00:00"
+    },
+    {
+      "title": "Samoživitelkám se žije hůř. Superdávka většině uškodila, snížila jim příjmy - iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/superdavka-pripravila-cast-samozivitelek-o-penize-nektere-kvuli-ni-omezuji-praci.A261121_155501_domaci_ichuc",
+      "source": "iDNES.cz",
+      "snippet": "Samoživitelkám se žije hůř. Superdávka většině uškodila, snížila jim příjmy iDNES.cz",
+      "published": "Sat, 21 Nov 2026 15:07:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-24T07:47:16+00:00"
+    },
     {
       "title": "Superdávka. Sociální experiment, který dál zhoršuje situaci na trhu s nájemním bydlením",
       "url": "https://www.irozhlas.cz/komentare/superdavka-socialni-experiment-ktery-dal-zhorsuje-situaci-na-trhu-s-najemnim_2611240630_aln",
@@ -48,15 +120,6 @@
       "source": "https://www.seznamzpravy.cz/rss",
       "snippet": "Personální šéf Bílého domu Stephen Miller tvrdí, že následující dva roky budou ty nejlepší v historii USA. Demokratům, kteří právě získali jasnou většinu v obou komorách Kongresu, přitom slibuje nemilosrdný boj.",
       "published": "Mon, 23 Nov 2026 18:00:00 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-24T05:37:30+00:00"
-    },
-    {
-      "title": "EU uvalila sankce na zakladatele extremistické skupiny The Base",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-eu-uvalila-sankce-na-zakladatele-extremisticke-skupiny-the-base-321326",
-      "source": "https://www.seznamzpravy.cz/rss",
-      "snippet": "Neonacista a zakladatel skupiny The Base Rinald Nazzaro se v rámci boje proti terorismu ocitl na sankčním seznamu EU. Nebude moci vstoupit na území Evropské unie a čeká ho zmrazení majetku.",
-      "published": "Mon, 23 Nov 2026 16:25:20 +0100",
       "lang": "cs",
       "collected_utc": "2026-11-24T05:37:30+00:00"
     },
@@ -192,15 +255,6 @@
       "source": "iDNES.cz",
       "snippet": "Sociální vyloučení hrozí desetině obcí, riziko je hlavně ve třech krajích iDNES.cz",
       "published": "Mon, 23 Nov 2026 10:23:00 GMT",
-      "lang": "cs",
-      "collected_utc": "2026-11-24T05:37:30+00:00"
-    },
-    {
-      "title": "„Postavíme budovy, umístíme odsouzené a tím končíme.“ Výstava tematizuje slabá místa českého vězeňství - Deník N",
-      "url": "https://denikn.cz/2255748/postavime-budovy-umistime-odsouzene-a-tim-koncime-vystava-tematizuje-slaba-mista-ceskeho-vezenstvi/?ref=mwac",
-      "source": "Deník N",
-      "snippet": "„Postavíme budovy, umístíme odsouzené a tím končíme.“ Výstava tematizuje slabá místa českého vězeňství Deník N",
-      "published": "Tue, 24 Nov 2026 05:30:00 GMT",
       "lang": "cs",
       "collected_utc": "2026-11-24T05:37:30+00:00"
     },
