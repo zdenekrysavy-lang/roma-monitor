@@ -1,29 +1,659 @@
 {
-  "generated_utc": "2026-11-25T04:38:03+00:00",
-  "count": 102,
+  "generated_utc": "2026-11-25T07:43:02+00:00",
+  "count": 171,
   "sources": {
     "profile": "world",
     "google_news": 180,
     "google_news_status": "ok",
-    "gdelt": 0,
-    "gdelt_status": "rate_limited",
-    "gdelt_note": "HTTP 429 (rate-limit)",
+    "gdelt": 106,
+    "gdelt_status": "ok",
+    "gdelt_note": "",
     "feeds": 29,
     "news_feeds": 0,
-    "watch": 9,
-    "before_dedup": 214,
-    "total": 192,
-    "skipped_seen": 90,
-    "gn_resolved": 93,
-    "gn_resolve_tried": 93,
-    "dropped_after_resolve": 0,
-    "new": 102,
-    "carried_over": 0,
+    "watch": 8,
+    "before_dedup": 311,
+    "total": 284,
+    "skipped_seen": 213,
+    "gn_resolved": 25,
+    "gn_resolve_tried": 25,
+    "dropped_after_resolve": 1,
+    "new": 70,
+    "carried_over": 101,
     "window_start": "2026-11-24T07:43:13+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Weekly property review: Recently completed sales - Beef Central",
+      "url": "https://www.beefcentral.com/property/weekly-property-review-recently-completed-sales-153/",
+      "source": "Beef Central",
+      "snippet": "Weekly property review: Recently completed sales Beef Central",
+      "published": "Wed, 25 Nov 2026 06:58:03 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Castel Gandolfo ranks among Italy’s most searched villages - inITALY",
+      "url": "https://www.initaly.it/en/articolo/castel-gandolfo-tra-i-borghi-italiani-pi-cercati-online-44441",
+      "source": "inITALY",
+      "snippet": "Castel Gandolfo ranks among Italy’s most searched villages inITALY",
+      "published": "Wed, 25 Nov 2026 00:06:19 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Közmeghallgatást tart a Tolna Vármegyei Cigány Nemzetiségi Önkormányzat - TEOL",
+      "url": "https://www.teol.hu/pr/2026/11/kozmeghallgatast-tart-a-tolna-varmegyei-cigany-nemzetisegi-onkormanyzat",
+      "source": "TEOL",
+      "snippet": "Közmeghallgatást tart a Tolna Vármegyei Cigány Nemzetiségi Önkormányzat TEOL",
+      "published": "Tue, 24 Nov 2026 07:00:00 GMT",
+      "lang": "hu",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Comoara pierdută a romilor - VOYO",
+      "url": "https://voyo.protv.ro/i/03691985-comoara-pierduta-a-romilor",
+      "source": "VOYO",
+      "snippet": "Comoara pierdută a romilor VOYO",
+      "published": "Wed, 25 Nov 2026 07:01:56 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Arhiva video - Pagina 8780 - Stirile ProTV",
+      "url": "https://stirileprotv.ro/video/arhiva/?page=8780",
+      "source": "Stirile ProTV",
+      "snippet": "Arhiva video - Pagina 8780 Stirile ProTV",
+      "published": "Wed, 25 Nov 2026 06:00:22 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Gitanos y gitanas: que nadie deje de votar el domingo - La Voz de Tomelloso",
+      "url": "https://www.lavozdetomelloso.com/76877/gitanos_gitanas_nadie_deje_votar_domingo",
+      "source": "La Voz de Tomelloso",
+      "snippet": "Gitanos y gitanas: que nadie deje de votar el domingo La Voz de Tomelloso",
+      "published": "Wed, 25 Nov 2026 06:24:36 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "À Colomiers, l'incendie de l'aire des gens du voyage toujours en cours, la préfecture annonce une nouvelle évacuation - ici.fr",
+      "url": "https://www.ici.fr/occitanie/haute-garonne-31/colomiers/a-colomiers-l-incendie-de-l-aire-des-gens-du-voyages-toujours-encore-la-prefecture-annonce-une-nouvelle-evacuation-7615712",
+      "source": "ici.fr",
+      "snippet": "À Colomiers, l'incendie de l'aire des gens du voyage toujours en cours, la préfecture annonce une nouvelle évacuation ici.fr",
+      "published": "Tue, 24 Nov 2026 18:56:10 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Les Toulousains du groupe de musique tzigane Taraboï participent au festival Balkanica avec leurs mélodies festives et enjouées - ladepeche.fr",
+      "url": "https://www.ladepeche.fr/2026/11/25/les-toulousains-du-groupe-de-musique-tzigane-taraboi-participent-au-festival-balkanica-avec-leurs-melodies-festives-et-enjouees-13667139.php",
+      "source": "ladepeche.fr",
+      "snippet": "Les Toulousains du groupe de musique tzigane Taraboï participent au festival Balkanica avec leurs mélodies festives et enjouées ladepeche.fr",
+      "published": "Wed, 25 Nov 2026 05:51:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Interpellations après le déraillement d'un TER : la \"stupeur\" sur le camp de gens du voyage de Cléon - Radio France",
+      "url": "https://www.radiofrance.fr/ici/podcasts/l-info-d-ici-ici-normandie-seine-maritime-eure/interpellations-apres-le-deraillement-d-un-ter-la-stupeur-sur-le-camp-de-gens-du-voyage-de-cleon-6050762",
+      "source": "Radio France",
+      "snippet": "Interpellations après le déraillement d'un TER : la \"stupeur\" sur le camp de gens du voyage de Cléon Radio France",
+      "published": "Tue, 24 Nov 2026 06:32:30 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Четири години по-късно: Съдът в Монтана даде ход на делото за убийството на Горан Юлиянов от Лом /снимки/ - BulNews",
+      "url": "https://www.bulnews.bg/article/522448",
+      "source": "BulNews",
+      "snippet": "Четири години по-късно: Съдът в Монтана даде ход на делото за убийството на Горан Юлиянов от Лом /снимки/ BulNews",
+      "published": "Wed, 25 Nov 2026 06:40:00 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Детската имунизация в България се срина - www.24plovdiv.bg",
+      "url": "https://www.24plovdiv.bg/novini/article/23989689",
+      "source": "www.24plovdiv.bg",
+      "snippet": "Детската имунизация в България се срина www.24plovdiv.bg",
+      "published": "Wed, 25 Nov 2026 06:12:27 GMT",
+      "lang": "bg",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Ανήλικοι Ρομά το «έσκασαν» από αναμορφωτήριο και λήστεψαν 16χρονο μέσα σε λεωφορείο στη Θεσσαλονίκη - ProtoThema",
+      "url": "https://www.protothema.gr/greece/article/1916594/anilikoi-roma-to-eskasan-apo-anamorfotirio-kai-listepsan-16hrono-mesa-se-leoforeio-sti-thessaloniki/",
+      "source": "ProtoThema",
+      "snippet": "Ανήλικοι Ρομά το «έσκασαν» από αναμορφωτήριο και λήστεψαν 16χρονο μέσα σε λεωφορείο στη Θεσσαλονίκη ProtoThema",
+      "published": "Wed, 25 Nov 2026 07:34:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "«Στο κόκκινο» η ρατσιστική βία από τα σώματα ασφαλείας: Παιδιά, πρόσφυγες και Ρομά τα θύματα - Documento - Documento",
+      "url": "https://www.documentonews.gr/article/sto-kokkino-i-ratsistiki-via-apo-ta-somata-asfaleias-paidia-prosfyges-kai-roma-ta-thymata/",
+      "source": "Documento",
+      "snippet": "«Στο κόκκινο» η ρατσιστική βία από τα σώματα ασφαλείας: Παιδιά, πρόσφυγες και Ρομά τα θύματα - Documento Documento",
+      "published": "Wed, 25 Nov 2026 05:00:38 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Στο εδώλιο δύο Ρομά για την απάτη με τον ψεύτικο υπάλληλο της ΔΕΗ και τα κοσμήματα των 40.000 ευρώ - Δημοκρατική της Ρόδου",
+      "url": "https://www.dimokratiki.gr/25-11-2026/sto-edolio-dyo-roma-gia-tin-apati-me-ton-pseftiko-ypallilo-tis-dei-ke-ta-kosmimata-ton-40-000-evro/",
+      "source": "Δημοκρατική της Ρόδου",
+      "snippet": "Στο εδώλιο δύο Ρομά για την απάτη με τον ψεύτικο υπάλληλο της ΔΕΗ και τα κοσμήματα των 40.000 ευρώ Δημοκρατική της Ρόδου",
+      "published": "Wed, 25 Nov 2026 06:08:09 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Ομιλία για θέματα υγείας και ιατρικές εξετάσεις στο Παράρτημα Ρομά του Δήμου Τυρνάβου (φώτο) - onlarissa.gr",
+      "url": "https://www.onlarissa.gr/2026/11/25/omilia-gia-themata-ygeias-kai-iatrikes-exetaseis-sto-parartima-roma-tou-dimou-tyrnavou-foto/",
+      "source": "onlarissa.gr",
+      "snippet": "Ομιλία για θέματα υγείας και ιατρικές εξετάσεις στο Παράρτημα Ρομά του Δήμου Τυρνάβου (φώτο) onlarissa.gr",
+      "published": "Wed, 25 Nov 2026 07:15:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Θεσσαλονίκη: Ανήλικοι Ρομά χτύπησαν και λήστεψαν 16χρονο μέσα σε αστικό λεωφορείο - Το είχαν σκάσει από Ίδρυμα Αγωγής Ανηλίκων - Thestival",
+      "url": "https://www.thestival.gr/eidiseis/astynomika/thessaloniki-anilikoi-roma-chtypisan-k/",
+      "source": "Thestival",
+      "snippet": "Θεσσαλονίκη: Ανήλικοι Ρομά χτύπησαν και λήστεψαν 16χρονο μέσα σε αστικό λεωφορείο - Το είχαν σκάσει από Ίδρυμα Αγωγής Ανηλίκων Thestival",
+      "published": "Wed, 25 Nov 2026 07:13:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Θεσσαλονίκη: Ανήλικοι Ρομά χτύπησαν και λήστεψαν 16χρονο μέσα σε λεωφορείο - Typosthes",
+      "url": "https://www.typosthes.gr/thessaloniki/449800_thessaloniki-anilikoi-roma-htypisan-kai-listepsan-16hrono-mesa-se-leoforeio",
+      "source": "Typosthes",
+      "snippet": "Θεσσαλονίκη: Ανήλικοι Ρομά χτύπησαν και λήστεψαν 16χρονο μέσα σε λεωφορείο Typosthes",
+      "published": "Wed, 25 Nov 2026 07:15:06 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Λάρισα: Λογιστής φέρεται να εξαπάτησε τουλάχιστον 50 Ρομά, εισπράττοντας παράνομα τα επιδόματά τους - LarisaNew.gr",
+      "url": "https://www.larisanew.gr/larisa-logistis-feretai-na-exapatise-toulachiston-50-roma-eisprattontas-paranoma-ta-epidomata-tous/",
+      "source": "LarisaNew.gr",
+      "snippet": "Λάρισα: Λογιστής φέρεται να εξαπάτησε τουλάχιστον 50 Ρομά, εισπράττοντας παράνομα τα επιδόματά τους LarisaNew.gr",
+      "published": "Wed, 25 Nov 2026 06:30:41 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Ρουμανία: Η συμβολή της Ορθόδοξης Εκκλησίας στην κοινωνική ένταξη των Ρομά - Ενωση Ορθοδοξων Δημοσιογραφων",
+      "url": "https://eeod.gr/news/93074-roumania-i-symvoli-tis-orthodoxis-ekklisias-stin-koinoniki-entaxi-ton-roma",
+      "source": "Ενωση Ορθοδοξων Δημοσιογραφων",
+      "snippet": "Ρουμανία: Η συμβολή της Ορθόδοξης Εκκλησίας στην κοινωνική ένταξη των Ρομά Ενωση Ορθοδοξων Δημοσιογραφων",
+      "published": "Tue, 24 Nov 2026 17:30:00 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Λάρισα: Λογιστής άλλαζε τα IBAN 50 Ρομά και έπαιρνε τα επιδόματά τους. Έχει εξαφανιστεί και αναζητείται από την ΕΛ.ΑΣ. - Athens Magazine",
+      "url": "https://www.athensmagazine.gr/article/news/ellada/larisa-logistis-allaze-ta-iban-50-roma-kai-epairne-ta-epidomata-tous-exei-exafanistei-kai-anaziteitai-apo-tin-el-as/",
+      "source": "Athens Magazine",
+      "snippet": "Λάρισα: Λογιστής άλλαζε τα IBAN 50 Ρομά και έπαιρνε τα επιδόματά τους. Έχει εξαφανιστεί και αναζητείται από την ΕΛ.ΑΣ. Athens Magazine",
+      "published": "Tue, 24 Nov 2026 12:59:19 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Tak luksusowo mieszka Don Vasyl. Zaglądamy do wnętrz domu króla Cyganów w Ciechocinku - Gazeta Pomorska",
+      "url": "https://pomorska.pl/tak-luksusowo-mieszka-don-vasyl-zagladamy-do-wnetrz-domu-krola-cyganow-w-ciechocinku/ar/c9p2-29544697",
+      "source": "Gazeta Pomorska",
+      "snippet": "Tak luksusowo mieszka Don Vasyl. Zaglądamy do wnętrz domu króla Cyganów w Ciechocinku Gazeta Pomorska",
+      "published": "Wed, 25 Nov 2026 06:33:30 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Historia OSP Łomów zapisana na kartach książki - Twoja Słupca",
+      "url": "https://twojaslupca.pl/historia-osp-lomow-zapisana-na-kartach-ksiazki/",
+      "source": "Twoja Słupca",
+      "snippet": "Historia OSP Łomów zapisana na kartach książki Twoja Słupca",
+      "published": "Wed, 25 Nov 2026 07:17:29 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! - GP24",
+      "url": "https://gp24.pl/zloto-krysztaly-i-cyganska-dusza-tak-wyglada-luksusowa-rezydencja-dona-vasyla-24-11-2026/ar/c9p2-29417133",
+      "source": "GP24",
+      "snippet": "Tak luksusowo mieszka Don Vasyl. Zobacz bogate wnętrza domu artysty! GP24",
+      "published": "Mon, 23 Nov 2026 23:17:27 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "https://streamable.com/yfsx8z Takiego #heheszki to się nie spodziewał... (@KamillNowak) - Wykop",
+      "url": "https://wykop.pl/wpis/88373001/https-streamable-com-yfsx8z-takiego-heheszki-to-si",
+      "source": "Wykop",
+      "snippet": "https://streamable.com/yfsx8z Takiego #heheszki to się nie spodziewał... (@KamillNowak) Wykop",
+      "published": "Mon, 23 Nov 2026 16:15:24 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "В США задержали выигравшего в лотерею миллион долларов мигранта",
+      "url": "https://lenta.ru/news/2026/11/25/v-ssha-zaderzhali-vyigravshego-v-lotereyu-million-dollarov-migranta/",
+      "source": "lenta.ru",
+      "snippet": "",
+      "published": "20261125T054500Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "В США задержали выигравшего миллион долларов мигранта",
+      "url": "https://news.mail.ru/society/73226548/",
+      "source": "news.mail.ru",
+      "snippet": "",
+      "published": "20261125T054500Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": " ( ANALIZA ) Za nasilje v družini večinoma pogojne obsodbe , žrtve spolnega nasilja brez celovite pomoči",
+      "url": "https://vecer.com/kronika/nasilje-nad-zenskami-v-druzini-mednarodni-dan-zrtve-10500834",
+      "source": "vecer.com",
+      "snippet": "",
+      "published": "20261125T054500Z",
+      "lang": "Slovenian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Giang hồ mạng Long Chín Ngón : Tôi đã đánh mất quá nhiều thứ - Pháp luật",
+      "url": "https://vietgiaitri.com/giang-ho-mang-long-chin-ngon-toi-da-danh-mat-qua-nhieu-thu-20261125i7821407/",
+      "source": "vietgiaitri.com",
+      "snippet": "",
+      "published": "20261125T054500Z",
+      "lang": "Vietnamese",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Cintia Rocho ratifica que el exjuez propuso causar daño físico a Biedma",
+      "url": "https://www.mundiario.com/politica/muy-segura-cintia-rocho-ratifica-que-exjuez-propuso-causar-dano-fisico-biedma/20261125044143454777.html",
+      "source": "mundiario.com",
+      "snippet": "",
+      "published": "20261125T051500Z",
+      "lang": "Spanish",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "В США задержали нелегального мигранта , выигравшего $1 млн в лотерею",
+      "url": "https://russiatoday.ru/world/news/1713566-ssha-zaderzhali-vyigravshego-migranta",
+      "source": "russiatoday.ru",
+      "snippet": "",
+      "published": "20261125T051500Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Fox News : в США задержали мигранта из Сальвадора , выигравшего миллион долларов в лотерею РБК",
+      "url": "https://www.rbc.ru/rbcfreenews/6b066740f0a12a128c66b440",
+      "source": "rbc.ru",
+      "snippet": "",
+      "published": "20261125T051500Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Champions League : Τα αποτελέσματα της 5ης αγωνιστικής στη League Phase",
+      "url": "http://sofokleousin.gr/epikairotita/athlitika/champions-league-ta-apotelesmata-tis-5is-agonistikis-sti-league-p-1",
+      "source": "sofokleousin.gr",
+      "snippet": "",
+      "published": "20261125T051500Z",
+      "lang": "Greek",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Роман Бондар – подробности о мужчине , которого РФ убила ударом по железнодорожной станции Коростеня – фото",
+      "url": "https://war.obozrevatel.com/section-war/news-yomu-nazavzhdy-bude-33-zyavylysya-podrobytsi-pro-cholovika-yakoho-rf-vbyla-udarom-po-zaliznychniy-stantsiyi-korostenya-foto-25-11-2026.html",
+      "source": "war.obozrevatel.com",
+      "snippet": "",
+      "published": "20261125T044500Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Today UEFA Champions League & Fixtures - The Ghanaian Chronicle",
+      "url": "https://thechronicle.com.gh/todays-uefa-champions-league-fixtures/",
+      "source": "thechronicle.com.gh",
+      "snippet": "",
+      "published": "20261125T044500Z",
+      "lang": "English",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Bellingham beauty in Real Madrid win ; Arsenal , Man City held in Champions League",
+      "url": "https://www.vanguardngr.com/2026/11/bellingham-beauty-in-real-madrid-win-arsenal-man-city-held-in-champions-league/",
+      "source": "vanguardngr.com",
+      "snippet": "",
+      "published": "20261125T041500Z",
+      "lang": "English",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "โคเวสโตร คว้ารางวัลอุตสาหกรรมดีเด่น 2569 ด้านการจัดการพลังงาน",
+      "url": "https://www.ryt9.com/s/iq/12859119",
+      "source": "ryt9.com",
+      "snippet": "",
+      "published": "20261125T034500Z",
+      "lang": "Thai",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Petr Pavel měl pravdu . Neonacisté v okolí vládních stran a otázka , kam až jsme ochotni zajít | 25 . 11 . 2026 | Petr Waniek Horváth",
+      "url": "https://www.blisty.cz/art/137659-petr-pavel-mel-pravdu-neonaciste-v-okoli-vladnich-stran-a-otazka-kam-az-jsme-ochotni-zajit.html",
+      "source": "blisty.cz",
+      "snippet": "",
+      "published": "20261125T034500Z",
+      "lang": "Czech",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Petr Pavel měl pravdu . Neonacisté v okolí vládních stran a otázka , kam až jsme ochotni zajít | 24 . 11 . 2026 | Petr Waniek Horváth",
+      "url": "https://www.blisty.cz/art/137658-petr-pavel-mel-pravdu-neonaciste-v-okoli-vladnich-stran-a-otazka-kam-az-jsme-ochotni-zajit.html",
+      "source": "blisty.cz",
+      "snippet": "",
+      "published": "20261125T034500Z",
+      "lang": "Czech",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "โคเวสโตร ประเทศไทย คว้ารางวัลอุตสาหกรรมดีเด่น ประเภทการจัดการพลังงาน",
+      "url": "https://www.ryt9.com/s/iqml/12859109",
+      "source": "ryt9.com",
+      "snippet": "",
+      "published": "20261125T034500Z",
+      "lang": "Thai",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "El flamenco rinde homenaje a Ramón el Portugués y su hijo , Sabú Porrina , con un gran concierto en Madrid",
+      "url": "https://www.larazon.es/gente/famosos/flamenco-rinde-homenaje-ramon-portugues-hijo-sabu-porrina-gran-concierto-madrid_202611256b0645f35cb1082f89b41ee3.html",
+      "source": "larazon.es",
+      "snippet": "",
+      "published": "20261125T034500Z",
+      "lang": "Spanish",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Kelesuan pengundi , isu ekonomi , politik perkauman antara cabaran PH , kata Loke",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/25/kelesuan-pengundi-isu-ekonomi-politik-perkauman-antara-cabaran-ph-kata-loke",
+      "source": "freemalaysiatoday.com",
+      "snippet": "",
+      "published": "20261125T031500Z",
+      "lang": "Malay",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Мигрант выиграл миллион долларов и попал под арест",
+      "url": "https://www.mk.ru/social/2026/11/25/migrant-vyigral-million-dollarov-i-popal-pod-arest.html",
+      "source": "mk.ru",
+      "snippet": "",
+      "published": "20261125T024500Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "В США задержали нелегального иммигранта , выигравшего в лотерею , пишут СМИ",
+      "url": "https://ria.ru/20261125/ssha-2133749938.html",
+      "source": "ria.ru",
+      "snippet": "",
+      "published": "20261125T024500Z",
+      "lang": "Russian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Giang hồ mạng Long  Chín Ngón : Tôi đã đánh mất quá nhiều thứ",
+      "url": "https://dantri.com.vn/phap-luat/giang-ho-mang-long-chin-ngon-toi-da-danh-mat-qua-nhieu-thu-20261124092801444.htm",
+      "source": "dantri.com.vn",
+      "snippet": "",
+      "published": "20261125T023000Z",
+      "lang": "Vietnamese",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Trailerul Avengers Doomsday a avut 563 milioane de vizionări",
+      "url": "https://bravonet.ro/trailerul-final-avengers-doomsday-a-strans-563-de-milioane-de-vizionari-in-24-de-ore/",
+      "source": "bravonet.ro",
+      "snippet": "",
+      "published": "20261125T014500Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "O navă de război rusă , suspectată că a bruiat semnalul GPS al 140 de avioane în largul coastei britanice . Zboruri British Airways , Ryanair și easyJet , afectate",
+      "url": "https://adevarul.ro/stiri-externe/europa/o-nava-de-razboi-rusa-suspectata-ca-a-bruiat-2574156.html",
+      "source": "adevarul.ro",
+      "snippet": "",
+      "published": "20261125T011500Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Winners announced for Leader Holiday Recipe Contest | Local News",
+      "url": "https://www.myleaderpaper.com/news/winners-announced-for-leader-holiday-recipe-contest/article_c65750c1-b969-4058-b667-e02b0f6fb0f0.html",
+      "source": "myleaderpaper.com",
+      "snippet": "",
+      "published": "20261125T011500Z",
+      "lang": "English",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "O Culto de André Ventura e o fim da Direita",
+      "url": "https://observador.pt/opiniao/o-culto-de-andre-ventura-e-o-fim-da-direita/",
+      "source": "observador.pt",
+      "snippet": "",
+      "published": "20261125T011500Z",
+      "lang": "Portuguese",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "266 . Papa Francis : Şeytan  ı ve Cehennemin girişini gördüm",
+      "url": "https://www.gazetevatan.com/dunya/266-papa-francis-seytani-ve-cehennemin-girisini-gordum-2468390",
+      "source": "gazetevatan.com",
+      "snippet": "",
+      "published": "20261125T004500Z",
+      "lang": "Turkish",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "În jurnalul său personal , suveranul pontif face destăinuiri uluitoare - Papa care l - a văzut pe diavol",
+      "url": "https://www.crisana.ro/stiri/magazin-12/in-jurnalul-sau-personal-suveranul-pontif-face-destainuiri-uluitoare-papa-care-l-a-vazut-pe-diavol-216593.html",
+      "source": "crisana.ro",
+      "snippet": "",
+      "published": "20261125T003000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "นูเมโร ไทยแลนด์ มอบเงินสนับสนุนการศึกษา",
+      "url": "https://www.ryt9.com/s/prg/12859029",
+      "source": "ryt9.com",
+      "snippet": "",
+      "published": "20261125T003000Z",
+      "lang": "Thai",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Pope Franci diary details spiritual battles , encounters with devil amid Chile abuse crisis :  From this , you will all see  ",
+      "url": "http://thedialog.org/international-news/pope-francis-diary/",
+      "source": "thedialog.org",
+      "snippet": "",
+      "published": "20261125T003000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Stephen King Was Outed as Richard Bachman Thanks to This Book That Was Turned Into a Movie 30 Years Ago",
+      "url": "https://comicbook.com/movies/feature/stephen-king-was-outed-as-richard-bachman-thanks-to-this-book-that-was-turned-into-a-movie-30-years-ago/",
+      "source": "comicbook.com",
+      "snippet": "",
+      "published": "20261125T001500Z",
+      "lang": "English",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "  Nisam Rom , ja sam Srbin ! Voditelj pokrenuo polemiku o poreklu Ljube Aličića , pevač žestoko reagovao",
+      "url": "https://www.telegraf.rs/jetset/vesti-jetset/4439254-nisam-rom-ja-sam-srbin-voditelj-pokrenuo-polemiku-o-poreklu-ljube-alicica-pevac-zestoko-reagovao",
+      "source": "telegraf.rs",
+      "snippet": "",
+      "published": "20261124T234500Z",
+      "lang": "Serbian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Η ΑΕΚ στην 31η θέση της βαθμολογίας στη League Phase του Champions League",
+      "url": "https://www.newsit.gr/athlitika/i-aek-stin-31i-thesi-tis-vathmologias-sti-league-phase-tou-champions-league/4830971/",
+      "source": "newsit.gr",
+      "snippet": "",
+      "published": "20261124T234500Z",
+      "lang": "Greek",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Brazilian digital lender Inter lays off over 200 people , union says",
+      "url": "https://www.933thedrive.com/2026/11/24/brazilian-digital-lender-inter-lays-off-over-200-people-union-says/",
+      "source": "933thedrive.com",
+      "snippet": "",
+      "published": "20261124T233000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Robotët humanoidë mund të arrijnë 10 miliardë brenda 60 vitesh",
+      "url": "https://ata.gov.al/2026/11/24/robotet-humanoide-mund-te-arrijne-10-miliarde-brenda-60-vitesh/",
+      "source": "ata.gov.al",
+      "snippet": "",
+      "published": "20261124T223000Z",
+      "lang": "Albanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Champions League : Ρεάλ Μαδρίτης - Αϊντχόφεν 5 - 1 , Άρσεναλ - Ντόρτμουντ 1 - 1 και Μάντσεστερ Σίτι",
+      "url": "https://www.newsit.gr/athlitika/champions-league-real-madritis-aintxofen-5-1-arsenal-ntortmount-1-1-kai-mantsester-siti-napoli-2-2/4830917/",
+      "source": "newsit.gr",
+      "snippet": "",
+      "published": "20261124T223000Z",
+      "lang": "Greek",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "A do të na bëjnë makinat autonome më pak aktivë mendërisht ? Paralajmërimi i psikologëve",
+      "url": "https://ata.gov.al/2026/11/24/a-do-te-na-bejne-makinat-autonome-me-pak-aktive-menderisht-paralajmerimi-i-psikologeve/",
+      "source": "ata.gov.al",
+      "snippet": "",
+      "published": "20261124T223000Z",
+      "lang": "Albanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Тайсон Ф  юрі зробив заяву щодо третього поєдинку з Олександром Усиком",
+      "url": "https://fight.24tv.ua/tayson-fyuri-zrobiv-zayavu-shhodo-tretogo-poyedinku-oleksandrom_n3213788",
+      "source": "fight.24tv.ua",
+      "snippet": "",
+      "published": "20261124T221500Z",
+      "lang": "Ukrainian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Jannik Sinner , despre operația la care a fost supus : „ Îmi lipsește enorm terenul de tenis . Când va reveni",
+      "url": "https://ziare.com/tenis/jannik-sinner-finlanda-operatie-atp-revenire-2049757",
+      "source": "ziare.com",
+      "snippet": "",
+      "published": "20261124T213000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "La jefa de los Rocho tumba a Sánchez ante Pedraz : un nexo del PSOE pidió eliminar a la jueza Biedma",
+      "url": "https://www.esdiario.com/opinion/261124/203840/jefa-rocho-tumba-sanchez-pedraz-nexo-psoe-pidio-eliminar-jueza-biedma.html",
+      "source": "esdiario.com",
+      "snippet": "",
+      "published": "20261124T213000Z",
+      "lang": "Spanish",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Jannik Sinner a confirmat că a fost operat la genunchiul drept",
+      "url": "https://www.stiripesurse.ro/jannik-sinner-a-confirmat-ca-a-fost-operat-la-genunchiul-drept_3939575",
+      "source": "stiripesurse.ro",
+      "snippet": "",
+      "published": "20261124T213000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Ce ascundea jurnalul secret al Papei Francisc : mărturii despre întâlnirile cu diavolul , „ poarta iadului  și propriile regrete",
+      "url": "https://www.libertatea.ro/stiri/papa-francisc-jurnal-privat-marturii-diavol-poarta-iadului-p6rpkqq",
+      "source": "libertatea.ro",
+      "snippet": "",
+      "published": "20261124T213000Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Injured Chelsea forward spotted back in training and why it could lead to transfer exit",
+      "url": "https://theprideoflondon.com/injured-chelsea-forward-spotted-back-in-training-and-why-it-could-lead-to-transfer-exit",
+      "source": "theprideoflondon.com",
+      "snippet": "",
+      "published": "20261124T213000Z",
+      "lang": "English",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "40 de avioane comerciale au rămas fără semnal . O navă de război rusă , principala suspectă",
+      "url": "https://www.stiripesurse.ro/140-de-avioane-comerciale-au-ramas-fara-semnal-o-nava-de-razboi-rusa-principala-suspecta_3939539",
+      "source": "stiripesurse.ro",
+      "snippet": "",
+      "published": "20261124T201500Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Bet Builder hos Expekt :  Det vælter ind med mål i PSG mod Roma",
+      "url": "https://www.bt.dk/betting/bet-builder-hos-expektdet-vaelter-ind-med-maal-i-psg-mod-roma",
+      "source": "bt.dk",
+      "snippet": "",
+      "published": "20261124T201500Z",
+      "lang": "Danish",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Brasil concede R$ 4 , 5 bi em incentivos à minerao em meio ao avanço estrangeiro",
+      "url": "https://veja.abril.com.br/agenda-verde/brasil-concede-r-45-bi-em-incentivos-a-mineracao-em-meio-ao-avanco-estrangeiro/",
+      "source": "veja.abril.com.br",
+      "snippet": "",
+      "published": "20261124T201500Z",
+      "lang": "Portuguese",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "Champions League : Γαλατάσαραϊ - Άστον Βίλα 1 - 0 και Μπόντο Γκλιμτ",
+      "url": "https://www.newsit.gr/athlitika/champions-league-galatasarai-aston-vila-1-0-kai-mponto-gklimt-lask-1-0/4830727/",
+      "source": "newsit.gr",
+      "snippet": "",
+      "published": "20261124T201500Z",
+      "lang": "Greek",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
+    {
+      "title": "DGASPC Vaslui , lansare de proiect : „ Servicii integrate în vederea dezinstituționalizării pentru tinerii din județul Vaslui  ",
+      "url": "https://www.monitoruldevaslui.ro/2026/11/24/dgaspc-vaslui-lansare-de-proiect-servicii-integrate-in-vederea-dezinstitutionalizarii-pentru-tinerii-din-judetul-vaslui/",
+      "source": "monitoruldevaslui.ro",
+      "snippet": "",
+      "published": "20261124T074500Z",
+      "lang": "Romanian",
+      "collected_utc": "2026-11-25T07:43:02+00:00"
+    },
     {
       "title": "Genocide",
       "url": "https://rroma.org/genocide/?utm_source=rss&utm_medium=rss&utm_campaign=genocide",
@@ -354,15 +984,6 @@
       "source": "romania-actualitati.ro",
       "snippet": "La Roma, în Italia, evenimente dedicate Zilei Naţionale a României romania-actualitati.ro",
       "published": "Tue, 24 Nov 2026 11:10:46 GMT",
-      "lang": "ro",
-      "collected_utc": "2026-11-25T04:38:03+00:00"
-    },
-    {
-      "title": "Arhiva video - Pagina 11040 - Stirile ProTV",
-      "url": "https://stirileprotv.ro/video/arhiva/?page=11040",
-      "source": "Stirile ProTV",
-      "snippet": "Arhiva video - Pagina 11040 Stirile ProTV",
-      "published": "Tue, 24 Nov 2026 19:29:14 GMT",
       "lang": "ro",
       "collected_utc": "2026-11-25T04:38:03+00:00"
     },
