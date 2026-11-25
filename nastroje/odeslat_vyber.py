@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Nahraje denní výběr agenta pro web „Romové ve světě“ do repozitáře.
 
-Běží na VPS, spouští ho agent Amanpour po sestavení výběru:
+ZATÍM NENASAZENO (viz CLAUDE.md, „Web Romové ve světě“). Použití:
 
     python3 ~/roma-monitor/odeslat_vyber.py ~/roma-monitor/vyber/vyber-2026-11-25.json
     python3 ~/roma-monitor/odeslat_vyber.py soubor.json --zkouska   # jen kontrola

@@ -3,33 +3,50 @@
 ## Co to je
 Automatický pipeline, který **1× denně** projde zpravodajské zdroje napříč
 jazyky a publikuje kandidátské zprávy o Romech ve světě. Třídění, česká
-shrnutí a e-mail pak dělá naplánovaný agent **Amanpour** na VPS (režim B,
+shrnutí a e-maily pak dělá **cloudová rutina na claude.ai** (režim B,
 NASAZENO) nebo Claude přes API (režim A, připraveno, vypnuto). Plánování
-řeší GitHub Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
+sběru řeší GitHub Actions v repu `zdenekrysavy-lang/roma-monitor` (veřejné).
 
-## Agent Amanpour (zjištěno 11/2026)
-Běží na VPS (Ubuntu, WinSCP relace „AI - VPS Server“, SFTP). Původně byl
-agent v ChatGPT, odtud názvy `chatgpt_task*.md` – **dnes ChatGPT není**.
-Sám o sobě uvádí nástroje Bash, Read/Write/Edit, Agent, Workflow, Cron,
-Artifact (prostředí typu Claude Code) a konektory Gmail, Google Drive/
-Kalendář, Microsoft 365. **Shell má**, síť ven funguje (api.github.com 200),
-zapisovat na disk umí. **GitHub konektor NEMÁ** – feed stahuje `curl`em.
-Platné zadání: `PROMPT_AMANPOUR.md`. Placené Anthropic API Zdeněk nechce –
-vše, co potřebuje AI, dělá Amanpour v rámci předplatného.
+## Kde co běží (ověřeno 25. 11. 2026)
+- **Denní e-maily = cloudová rutina** „ROMEA monitoring - denní přehled
+  Romové“, ID `trig_01RYJCJ3rf5w9sdDN84pEprv`, cron `15 8 * * *` UTC
+  (9:15 Praha), model claude-sonnet-5, nástroje Bash/Read/Write/WebFetch/
+  WebSearch, konektor **jen Gmail**. **Nemá repozitář** (`sources: []`),
+  **žádné proměnné prostředí** ani token – do repa zapisovat nemůže, feed
+  jen čte `curl`em z raw.githubusercontent.com. K souborům na VPS přístup nemá.
+  Zadání se čte/mění přes RemoteTrigger (`get` / `update`).
+- **`PROMPT_AMANPOUR.md` = kopie zadání rutiny** (stav 25. 11. 2026), jen
+  s vynechanou adresou příjemce (repo je veřejné). Při změně zadání rutiny
+  ho aktualizovat. **Zadání rutiny NIKDY nenahrazovat celé** – jen doplnit
+  konkrétní sekci a nejdřív ji ukázat Zdeňkovi (25. 11. se celým přepisem
+  ztratil příjemce i polovina pravidel; vráceno ze zálohy).
+- **VPS** (Ubuntu, uživatel `eleven`, WinSCP relace „AI - VPS Server“): cron
+  v 8:40/8:45 spouští sběr přes GitHub API (token `roma-monitor-vps` v
+  `~/.config/roma-monitor/github-token`, Actions RW + od 11/2026 i Contents RW).
+  Běží tam i agent **Amanpour** (prostředí typu Claude Code, shell, Gmail,
+  Drive, M365) – rutinu SPRAVUJE, ale denní e-maily neposílá. Záloha zadání
+  rutiny: `/home/eleven/romea-monitoring/archive/`.
+- Původně byl agent v ChatGPT, odtud `chatgpt_task*.md` – historické.
+- Placené Anthropic API Zdeněk nechce – AI práce běží v rámci předplatného.
 
 ## Web „Romové ve světě“ (rozpracováno 11/2026)
-Veřejný agregátor (cs + en) ze zpráv, které Amanpour vybral do e-mailu
-„Romové ve světě“ – NE ze surového feedu. Tok:
-1. Amanpour zapíše výběr jako JSON (formát v hlavičce `build_web.py`
-   a v `PROMPT_AMANPOUR.md`, sekce B2) a spustí `nastroje/odeslat_vyber.py`.
-2. Skript data zkontroluje (věk ≤ 7 dní, cs+en, ISO země, žádná ČTK)
-   a přes GitHub Contents API zapíše `web/data/RRRR-MM-DD.json`.
-   Token (fine-grained PAT, **Contents: Read and write**) leží na VPS
-   v `~/.config/roma-monitor/github-token`, do repa nepatří.
-3. `build_web.py` dohledá fotky (og:image, cache `web/cache/images.json`)
-   a vygeneruje statické stránky do `web/` (cs v kořeni, en v `en/`).
-   Fotky se nekopírují, jen odkazují na servery vydavatelů.
-4. Publikace přes GitHub Pages – workflow zatím CHYBÍ (krok 3).
+Veřejný agregátor (cs + en) ze zpráv, které rutina vybrala do e-mailu
+„Romové ve světě“ – NE ze surového feedu. Hotovo:
+- `build_web.py` – z `web/data/RRRR-MM-DD.json` (formát v hlavičce souboru)
+  dohledá fotky (og:image, cache `web/cache/images.json`) a vygeneruje
+  statické stránky do `web/` (cs v kořeni, en v `en/`). Fotky se nekopírují,
+  jen odkazují na servery vydavatelů. Prototyp je na GitHub Pages
+  (`…github.io/roma-monitor/web/`) s ukázkovými daty.
+- `nastroje/odeslat_vyber.py` – kontrola výběru (věk ≤ 7 dní, cs+en, ISO
+  země, žádná ČTK) a zápis přes GitHub Contents API.
+
+**NENASAZENO – výběr z rutiny se zatím na web nedostává.** Plán:
+1. nový fine-grained token jen **Contents: Read and write** na roma-monitor;
+   Zdeněk ho sám vloží do proměnných prostředí rutiny (ne do zadání);
+2. `odeslat_vyber.py` naučit číst token z proměnné prostředí;
+3. do zadání rutiny DOPLNIT krok B2 – návrh v `PROMPT_B2_WEB_NAVRH.md`
+   (cesty v něm jsou ještě pro VPS, před nasazením upravit);
+4. workflow, které po zápisu do `web/data/` sestaví a zveřejní web.
 
 - **ČTK na web nikdy** – licencovaný obsah bez veřejného odkazu.
 - Ukázková data mají `"sample": true` (web pak ukáže žlutý pruh);
@@ -49,7 +66,7 @@ Veřejný agregátor (cs + en) ze zpráv, které Amanpour vybral do e-mailu
   Veřejná URL feedu **pro agenta** (jsDelivr CDN — `raw.githubusercontent.com`
   vrací automatům 403, viz níže):
   `https://cdn.jsdelivr.net/gh/zdenekrysavy-lang/roma-monitor@main/feed/candidates.json`
-  Prompt agenta: `PROMPT_AMANPOUR.md` (`chatgpt_task*.md` jsou historické).
+  Zadání agenta: cloudová rutina, kopie v `PROMPT_AMANPOUR.md`.
 - **A (plný):** `main.py` → sběr + Claude třídí/shrnuje + e-mail. Vyžaduje
   ANTHROPIC_API_KEY + SMTP secrets. Cron v `digest.yml` je zakomentovaný,
   jde spustit jen ručně (workflow_dispatch).
@@ -187,7 +204,7 @@ v nejhorším případě o 1,4 h, 12 h leží uprostřed.
 ### Hlavní spouštění z VPS (od 11/2026)
 
 Noční crony jsou jen obezlička – feed vznikne „někdy v noci". Proto sběr
-spouští **cron na VPS** (kde běží agent) v **8:40 (svět) a 8:45 (Česko)**
+spouští **cron na VPS** (e-maily ale posílá cloudová rutina) v **8:40 (svět) a 8:45 (Česko)**
 pražského času voláním GitHub API:
 
 ```
