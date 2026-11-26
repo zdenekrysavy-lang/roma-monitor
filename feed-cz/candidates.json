@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-26T03:49:31+00:00",
-  "count": 28,
+  "generated_utc": "2026-11-26T07:48:05+00:00",
+  "count": 34,
   "sources": {
     "profile": "cz",
     "google_news": 132,
@@ -9,21 +9,84 @@
     "gdelt_status": "disabled",
     "gdelt_note": "GDELT je v tomto profilu vypnutý",
     "feeds": 5,
-    "news_feeds": 4,
+    "news_feeds": 3,
     "watch": 2,
-    "before_dedup": 86,
-    "total": 71,
-    "skipped_seen": 42,
-    "gn_resolved": 21,
-    "gn_resolve_tried": 21,
+    "before_dedup": 88,
+    "total": 77,
+    "skipped_seen": 69,
+    "gn_resolved": 7,
+    "gn_resolve_tried": 7,
     "dropped_after_resolve": 1,
-    "new": 28,
-    "carried_over": 0,
+    "new": 7,
+    "carried_over": 27,
     "window_start": "2026-11-25T07:47:26+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Zlehčování i obhajoba. Co říkají politici na neonacismus 3.0 v Česku",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-zlehcovani-i-obhajoba-co-rikaji-politici-na-neonacismus-3-0-v-cesku-321470",
+      "source": "https://www.seznamzpravy.cz/rss",
+      "snippet": "Průnik do nitra neonacistické organizace Active Club ukázal také to, že mezi jejími členy jsou i lidé s kontakty na poslance vládní koalice. Investigativní reportéři Seznam Zpráv líčí podrobnosti svých zjištění i reakce politiků.",
+      "published": "Thu, 26 Nov 2026 05:59:00 +0100",
+      "lang": "cs",
+      "collected_utc": "2026-11-26T07:48:05+00:00"
+    },
+    {
+      "title": "Šance i pro lidi z rušené osady Bedřiška. Vesnička soužití v Ostravě se rozšíří - Rádio Impuls",
+      "url": "https://www.impuls.cz/zpravy/regiony/moravskoslezsky-kraj/vesnicka-souziti-ostrava-muglinov-bedriska-dostavba/",
+      "source": "Rádio Impuls",
+      "snippet": "Šance i pro lidi z rušené osady Bedřiška. Vesnička soužití v Ostravě se rozšíří Rádio Impuls",
+      "published": "Mon, 23 Nov 2026 10:01:02 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-26T07:48:05+00:00"
+    },
+    {
+      "title": "Ví to premiér v pyžamu? Extremisté na obraně rozčílili europoslankyni, mluví o proruské sebrance z SPD - forum 24",
+      "url": "https://www.forum24.cz/vi-to-premier-v-pyzamu-extremiste-na-obrane-rozcilili-europoslankyni-mluvi-o-proruske-sebrance-z-spd",
+      "source": "forum 24",
+      "snippet": "Ví to premiér v pyžamu? Extremisté na obraně rozčílili europoslankyni, mluví o proruské sebrance z SPD forum 24",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-26T07:48:05+00:00"
+    },
+    {
+      "title": "Vojtěch Petrů: Hřib má pravdu. Okamura si založil na hlásání nenávisti regulérní byznys - Deník Referendum",
+      "url": "https://denikreferendum.cz/clanek/239634-hrib-ma-pravdu-okamura-sizalozil-nahlasani-nenavisti-regulerni-byznys",
+      "source": "Deník Referendum",
+      "snippet": "Vojtěch Petrů: Hřib má pravdu. Okamura si založil na hlásání nenávisti regulérní byznys Deník Referendum",
+      "published": "Tue, 24 Nov 2026 23:45:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-26T07:48:05+00:00"
+    },
+    {
+      "title": "Kevin bude už zase Sám doma! Macaulay Culkin znovu zamotá hlavy lupičům - Metro.cz",
+      "url": "https://www.metro.cz/spolecnost/kevin-mccallister-je-zpet-macaulay-culkin-chysta-nove-sam-doma-se-sethem-rogenem.A261125_135229_metro-spolecnost_mjafi",
+      "source": "Metro.cz",
+      "snippet": "Kevin bude už zase Sám doma! Macaulay Culkin znovu zamotá hlavy lupičům Metro.cz",
+      "published": "Wed, 25 Nov 2026 17:15:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-26T07:48:05+00:00"
+    },
+    {
+      "title": "Zima prověřuje pomoc lidem bez domova. Na jihu Moravy nabízejí zázemí města i charity - www.regionbrno.cz",
+      "url": "https://www.regionbrno.cz/zpravodajstvi/zima-proveruje-pomoc-lidem-bez-domova-n-308698/",
+      "source": "www.regionbrno.cz",
+      "snippet": "Zima prověřuje pomoc lidem bez domova. Na jihu Moravy nabízejí zázemí města i charity www.regionbrno.cz",
+      "published": "Thu, 26 Nov 2026 07:06:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-26T07:48:05+00:00"
+    },
+    {
+      "title": "Do Brna přijede prezident. Navštíví významná místa a sfoukne i debatu se studenty - Brněnská Drbna",
+      "url": "https://brnenska.drbna.cz/spolecnost/906587-do-brna-prijede-prezident-navstivi-vyznamna-mista-a-sfoukne-i-debatu-se-studenty.html",
+      "source": "Brněnská Drbna",
+      "snippet": "Do Brna přijede prezident. Navštíví významná místa a sfoukne i debatu se studenty Brněnská Drbna",
+      "published": "Thu, 26 Nov 2026 05:15:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-26T07:48:05+00:00"
+    },
     {
       "title": "Šestnáct let vězení pro Michaila Loščinina. Jeho zdravotní stav se ve vězení zhoršuje",
       "url": "https://amnesty.cz/sestnact-let-vezeni-pro-michaila-loscinina-jeho-zdravotni-stav-se-ve-vezeni-zhorsuje/",
@@ -75,15 +138,6 @@
       "source": "https://www.seznamzpravy.cz/rss",
       "snippet": "Předseda Motoristů Petr Macinka se zatím nezabýval odhalením Seznam Zpráv, že jeden ze členů mládežnické organizace strany působí v neonacistické organizaci. Zároveň nedokázal odpovědět na to, jestli by mu to vadilo.",
       "published": "Wed, 25 Nov 2026 15:48:36 +0100",
-      "lang": "cs",
-      "collected_utc": "2026-11-26T03:49:31+00:00"
-    },
-    {
-      "title": "Ví to premiér v pyžamu? Extremisté na obraně rozčílili europoslankyni, mluví o proruské sebrance z SPD",
-      "url": "https://www.forum24.cz/vi-to-premier-v-pyzamu-extremiste-na-obrane-rozcilili-europoslankyni-mluvi-o-proruske-sebrance-z-spd",
-      "source": "https://www.forum24.cz/feed/",
-      "snippet": "„Proruská sebranka z SPD ohrožuje bezpečnost České republiky. Ví vůbec premiér v pyžamu, s kým se vládní SPD schází a tahá do toho ministerstvo obrany?“ reagovala europoslankyně Danuše Nerudová (STAN) na informace o návštěvě německých politiků z krajně pravicové Alternativy pro Německo (AfD) na mini",
-      "published": "Wed, 25 Nov 2026 12:00:00 +0100",
       "lang": "cs",
       "collected_utc": "2026-11-26T03:49:31+00:00"
     },
