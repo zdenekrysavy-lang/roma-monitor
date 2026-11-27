@@ -1,29 +1,182 @@
 {
-  "generated_utc": "2026-11-27T03:50:51+00:00",
-  "count": 120,
+  "generated_utc": "2026-11-27T07:45:55+00:00",
+  "count": 135,
   "sources": {
     "profile": "world",
-    "google_news": 196,
+    "google_news": 203,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "rate_limited",
     "gdelt_note": "HTTP 429 (rate-limit)",
-    "feeds": 32,
+    "feeds": 27,
     "news_feeds": 0,
     "watch": 6,
-    "before_dedup": 229,
-    "total": 209,
-    "skipped_seen": 87,
-    "gn_resolved": 116,
-    "gn_resolve_tried": 116,
-    "dropped_after_resolve": 2,
-    "new": 120,
-    "carried_over": 0,
+    "before_dedup": 231,
+    "total": 208,
+    "skipped_seen": 188,
+    "gn_resolved": 19,
+    "gn_resolve_tried": 20,
+    "dropped_after_resolve": 3,
+    "new": 17,
+    "carried_over": 118,
     "window_start": "2026-11-26T07:45:15+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "Tragický požiar na Spiši: Zahynulo jedno dieťa, ďalšie sú nezvestné. Zhorelo 14 obydlí - Plus 7 Dní",
+      "url": "https://plus7dni.pluska.sk/aktualne/tragicky-poziar-na-spisi-zahynulo-jedno-dieta-dalsie-su-nezvestne-zhorelo-14-obydli",
+      "source": "Plus 7 Dní",
+      "snippet": "Tragický požiar na Spiši: Zahynulo jedno dieťa, ďalšie sú nezvestné. Zhorelo 14 obydlí Plus 7 Dní",
+      "published": "Thu, 26 Nov 2026 09:00:00 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Požiar v Kolačkove si vyžiadal život dieťaťa, ďalšie dve hľadajú - Štandard",
+      "url": "https://standard.sk/1375826/poziar-v-kolackove-si-vyziadal-zivot-dietata-dalsie-dve-hladaju",
+      "source": "Štandard",
+      "snippet": "Požiar v Kolačkove si vyžiadal život dieťaťa, ďalšie dve hľadajú Štandard",
+      "published": "Thu, 26 Nov 2026 15:00:41 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Smer pre migrantov čelí kritike už aj z Progresívneho Slovenska - Marker.sk",
+      "url": "https://marker.sk/clanky/2227/smer-pre-migrantov-celi-kritike-uz-aj-z-progresivneho-slovenska",
+      "source": "Marker.sk",
+      "snippet": "Smer pre migrantov čelí kritike už aj z Progresívneho Slovenska Marker.sk",
+      "published": "Thu, 26 Nov 2026 09:25:18 GMT",
+      "lang": "sk",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Top New England property returns to market - Sheep Central",
+      "url": "https://www.sheepcentral.com/top-new-england-property-returns-to-market/",
+      "source": "Sheep Central",
+      "snippet": "Top New England property returns to market Sheep Central",
+      "published": "Fri, 27 Nov 2026 05:35:13 GMT",
+      "lang": "en",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Díler és fogyasztó is bűnügyi őrizetben - szinte hihetetlen, de cigányok - Privát Kopó",
+      "url": "https://www.privatkopo.info/WebArticleShow.aspx?AGM=&AN=dileresfogyaszto&MN=Fooldal&LN=Hungarian",
+      "source": "Privát Kopó",
+      "snippet": "Díler és fogyasztó is bűnügyi őrizetben - szinte hihetetlen, de cigányok Privát Kopó",
+      "published": "Fri, 27 Nov 2026 07:22:48 GMT",
+      "lang": "hu",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Arhiva video - Pagina 7645 - Stirile ProTV",
+      "url": "https://stirileprotv.ro/video/arhiva/?page=7645",
+      "source": "Stirile ProTV",
+      "snippet": "Arhiva video - Pagina 7645 Stirile ProTV",
+      "published": "Wed, 25 Nov 2026 18:41:59 GMT",
+      "lang": "ro",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Los gitanos piden más cooperación institucional contra la discriminación - Segre.com",
+      "url": "https://www.segre.com/es/lleida/261127/gitanos-piden-cooperacion-institucional-discriminacion_1413020.html",
+      "source": "Segre.com",
+      "snippet": "Los gitanos piden más cooperación institucional contra la discriminación Segre.com",
+      "published": "Fri, 27 Nov 2026 04:21:26 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "«Voy a estar 25 años preso», la conversación que mantuvo José el Gitano durante su huida a Santander - El Diario Montañés",
+      "url": "https://www.eldiariomontanes.es/cantabria/estar-anos-preso-conversacion-mantuvo-jose-gitano-20261127081352-nt.html",
+      "source": "El Diario Montañés",
+      "snippet": "«Voy a estar 25 años preso», la conversación que mantuvo José el Gitano durante su huida a Santander El Diario Montañés",
+      "published": "Fri, 27 Nov 2026 07:13:53 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "29N: Gitanos y gitanas: que nadie deje de votar el domingo - navarra información",
+      "url": "https://www.navarrainformacion.es/2026/11/26/gitanos-y-gitanas-que-nadie-deje-de-votar-el-domingo/",
+      "source": "navarra información",
+      "snippet": "29N: Gitanos y gitanas: que nadie deje de votar el domingo navarra información",
+      "published": "Thu, 26 Nov 2026 08:29:33 GMT",
+      "lang": "es",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "ENTRETIEN. \"Ils se sentent valorisés et pris en compte\" : Sylvie Laroche, la médiatrice qui \"va vers\" les gens du voyage - ladepeche.fr",
+      "url": "https://www.ladepeche.fr/2026/11/27/entretien-ils-se-sentent-valorises-et-pris-en-compte-sylvie-laroche-la-mediatrice-qui-va-vers-les-gens-du-voyage-13672457.php",
+      "source": "ladepeche.fr",
+      "snippet": "ENTRETIEN. \"Ils se sentent valorisés et pris en compte\" : Sylvie Laroche, la médiatrice qui \"va vers\" les gens du voyage ladepeche.fr",
+      "published": "Fri, 27 Nov 2026 06:01:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Pour se venger de ses voisins, il vend sa propriété à des gens du voyage - 20 Minutes",
+      "url": "https://www.20minutes.fr/monde/4266012-20261126-angleterre-vend-terrain-gens-voyage-venger-voisins-attaque-justice",
+      "source": "20 Minutes",
+      "snippet": "Pour se venger de ses voisins, il vend sa propriété à des gens du voyage 20 Minutes",
+      "published": "Thu, 26 Nov 2026 15:02:00 GMT",
+      "lang": "fr",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Χανιά: Ξυλοδαρμός μεταξύ δύο Ρομά – Στο νοσοκομείο ένας τραυματίας - patris.gr",
+      "url": "https://www.patris.gr/kriti/xania-epeisodio-metaxi-dio-roma-sto-nosokomeio-enas-travmatias/",
+      "source": "patris.gr",
+      "snippet": "Χανιά: Ξυλοδαρμός μεταξύ δύο Ρομά – Στο νοσοκομείο ένας τραυματίας patris.gr",
+      "published": "Thu, 26 Nov 2026 19:08:02 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "3,4 χλμ καλώδια ρευματοκλοπής σε οικισμούς Ρομά σε Γέρακα και Χαλάνδρι: Πέντε συλλήψεις για ρευματοκλοπές! - εφημερίδα δημοκρατία",
+      "url": "https://www.dimokratia.gr/ellada/770339/3-4-chlm-kalodia-reymatoklopis-se-oikismoys-roma-se-geraka-kai-chalandri/",
+      "source": "εφημερίδα δημοκρατία",
+      "snippet": "3,4 χλμ καλώδια ρευματοκλοπής σε οικισμούς Ρομά σε Γέρακα και Χαλάνδρι: Πέντε συλλήψεις για ρευματοκλοπές! εφημερίδα δημοκρατία",
+      "published": "Thu, 26 Nov 2026 19:55:55 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Καταγράφηκαν 135 περιστατικά παραβατικότητας σε μόλις 25 ημέρες με \"πρωταγωνιστές\" Ρομά - Παραπολιτικά",
+      "url": "https://www.parapolitika.gr/ellada/article/1827208/katagrafikan-135-peristatika-paravatikotitas-se-molis-25-imeres-me-protagonistes-roma-ti-edeixan-ta-stoiheia-tis-elas/",
+      "source": "Παραπολιτικά",
+      "snippet": "Καταγράφηκαν 135 περιστατικά παραβατικότητας σε μόλις 25 ημέρες με \"πρωταγωνιστές\" Ρομά Παραπολιτικά",
+      "published": "Thu, 26 Nov 2026 11:46:52 GMT",
+      "lang": "el",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Zakopane. Wystawa „Weś gilaweł / Laś śpiewa / The forest Is singing” Małgorzaty Mirgi-Tas - Samorząd Województwa Małopolskiego",
+      "url": "https://www.malopolska.pl/aktualnosci/kultura/zakopane-wystawa-wes-gilawel-las-spiewa-forest-singing-malgorzaty-mirgi-tas?v=calendar&termin=2026-11-27",
+      "source": "Samorząd Województwa Małopolskiego",
+      "snippet": "Zakopane. Wystawa „Weś gilaweł / Laś śpiewa / The forest Is singing” Małgorzaty Mirgi-Tas Samorząd Województwa Małopolskiego",
+      "published": "Fri, 27 Nov 2026 05:08:46 GMT",
+      "lang": "pl",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "MPF e UFG mapeiam 45 comunidades quilombolas em Goiás para proteção territorial - Tribuna do Planalto",
+      "url": "https://tribunadoplanalto.com.br/mpf-e-ufg-mapeiam-45-comunidades-quilombolas-em-goias-para-protecao-territorial/",
+      "source": "Tribuna do Planalto",
+      "snippet": "MPF e UFG mapeiam 45 comunidades quilombolas em Goiás para proteção territorial Tribuna do Planalto",
+      "published": "Thu, 26 Nov 2026 18:35:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
+    {
+      "title": "Tocantins passa a ter Semana Estadual dos Povos e Comunidades Tradicionais - Gazeta do Cerrado",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2N5Zm5qc3JaeFNqcXV4NUN1enB2c0s5bTVuN1BhZmt1QlBici1aWXFkU3BXd25yMmdnNmNSb1RQV3pUcFpWSkxsVmFKZzJlUXh2Z09nQ0ctSEpnREoyXzZXeFEyU0c1UF9JdEJJTEtDMXdsaEUxLWpPb1VIS1J3ejktV1IxT3I0blJVNVlaakczYVpiQkxLVFVYUVdRYXhROFZwcmxGaEN4bllQWUFuYlhkcHdVeXM?oc=5",
+      "source": "Gazeta do Cerrado",
+      "snippet": "Tocantins passa a ter Semana Estadual dos Povos e Comunidades Tradicionais Gazeta do Cerrado",
+      "published": "Thu, 26 Nov 2026 17:08:00 GMT",
+      "lang": "pt",
+      "collected_utc": "2026-11-27T07:45:55+00:00"
+    },
     {
       "title": "Exhibition",
       "url": "https://rroma.org/exhibition-19/?utm_source=rss&utm_medium=rss&utm_campaign=exhibition-19",
@@ -304,15 +457,6 @@
       "collected_utc": "2026-11-27T03:50:51+00:00"
     },
     {
-      "title": "PRIVÁT KOPÓ bűnügyi magazin - Privát Kopó",
-      "url": "https://www.privatkopo.info/WebArticleShow.aspx?AGM=Hirmix&MN=Hirmix&AN=tizenharomevfegyhaz&LN=Hungarian",
-      "source": "Privát Kopó",
-      "snippet": "PRIVÁT KOPÓ bűnügyi magazin Privát Kopó",
-      "published": "Thu, 26 Nov 2026 10:45:31 GMT",
-      "lang": "hu",
-      "collected_utc": "2026-11-27T03:50:51+00:00"
-    },
-    {
       "title": "Elfogatóparancsot adtak ki a 16 éves Radics Dzsasztin ellen - Hírstart",
       "url": "https://www.hirstart.hu/hk/20261126_13_evre_sulyositotta_a_masodfoku_birosag_a_godolloi_idos_embert_kirablo_ferfi_bunteteset",
       "source": "Hírstart",
@@ -354,15 +498,6 @@
       "source": "Digi Sport",
       "snippet": "Scandal după PSG – AS Roma 2-2! Suporterii italieni, acuzați de rasism și saluturi naziste Digi Sport",
       "published": "Thu, 26 Nov 2026 18:04:00 GMT",
-      "lang": "ro",
-      "collected_utc": "2026-11-27T03:50:51+00:00"
-    },
-    {
-      "title": "Arhiva video - Pagina 10994 - Stirile ProTV",
-      "url": "https://stirileprotv.ro/video/arhiva/?page=10994",
-      "source": "Stirile ProTV",
-      "snippet": "Arhiva video - Pagina 10994 Stirile ProTV",
-      "published": "Thu, 26 Nov 2026 08:23:33 GMT",
       "lang": "ro",
       "collected_utc": "2026-11-27T03:50:51+00:00"
     },
