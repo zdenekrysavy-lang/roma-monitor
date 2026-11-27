@@ -1,139 +1,103 @@
-# Kandidáti — 2026-11-26T07:48:05+00:00 (34 položek)
+# Kandidáti — 2026-11-27T03:51:09+00:00 (25 položek)
 
-_Zdroje: Google News 132 · GDELT 0 (disabled) · feedy 5 · watch 2_
+_Zdroje: Google News 143 · GDELT 0 (disabled) · feedy 5 · watch 3_
 
-1. **Zlehčování i obhajoba. Co říkají politici na neonacismus 3.0 v Česku** — https://www.seznamzpravy.cz/rss [cs]
-   https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-zlehcovani-i-obhajoba-co-rikaji-politici-na-neonacismus-3-0-v-cesku-321470
-   Průnik do nitra neonacistické organizace Active Club ukázal také to, že mezi jejími členy jsou i lidé s kontakty na poslance vládní koalice. Investigativní reportéři Seznam Zpráv líčí podrobnosti svýc
+1. **„Sídliště pro ty, které jinde nechtějí.“ Dočká se šluknovská Slunečnice radikální proměny?** — https://denikn.cz/feed/ [cs]
+   https://denikn.cz/2259351/sidliste-pro-ty-ktere-jinde-nechteji-docka-se-sluknovska-slunecnice-radikalni-promeny/
+   Sídliště Slunečnice v severočeském Šluknově patří mezi největší vyloučené lokality v Česku. Když zanedbané paneláky koupí město, může to zlepšit nejen bydlení, ale i vzdělávací šance zdejších dětí.
 
-2. **Šance i pro lidi z rušené osady Bedřiška. Vesnička soužití v Ostravě se rozšíří - Rádio Impuls** — Rádio Impuls [cs]
-   https://www.impuls.cz/zpravy/regiony/moravskoslezsky-kraj/vesnicka-souziti-ostrava-muglinov-bedriska-dostavba/
-   Šance i pro lidi z rušené osady Bedřiška. Vesnička soužití v Ostravě se rozšíří Rádio Impuls
+2. **Romům se z Pasáže nechce. Čeká je zřejmě vystěhování - Přerovský deník** — Přerovský deník [cs]
+   https://prerovsky.denik.cz/zpravy-region/prerov-pasaz-problemovi-najemnici-vystehovani-soud/
+   Romům se z Pasáže nechce. Čeká je zřejmě vystěhování Přerovský deník
 
-3. **Ví to premiér v pyžamu? Extremisté na obraně rozčílili europoslankyni, mluví o proruské sebrance z SPD - forum 24** — forum 24 [cs]
-   https://www.forum24.cz/vi-to-premier-v-pyzamu-extremiste-na-obrane-rozcilili-europoslankyni-mluvi-o-proruske-sebrance-z-spd
-   Ví to premiér v pyžamu? Extremisté na obraně rozčílili europoslankyni, mluví o proruské sebrance z SPD forum 24
+3. **Dzurko tvořil z odpadní skleněné drti. Muzeum romské kultury v Brně ukazuje 13 jeho obrazů - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihomoravsky-kraj/dzurko-tvoril-z-odpadni-sklenene-drti-muzeum-romske-kultury-v-brne-ukazuje-13-jeho-obrazu.A261126_184637_metro-brno-zpravy_air
+   Dzurko tvořil z odpadní skleněné drti. Muzeum romské kultury v Brně ukazuje 13 jeho obrazů Metro.cz
 
-4. **Vojtěch Petrů: Hřib má pravdu. Okamura si založil na hlásání nenávisti regulérní byznys - Deník Referendum** — Deník Referendum [cs]
-   https://denikreferendum.cz/clanek/239634-hrib-ma-pravdu-okamura-sizalozil-nahlasani-nenavisti-regulerni-byznys
-   Vojtěch Petrů: Hřib má pravdu. Okamura si založil na hlásání nenávisti regulérní byznys Deník Referendum
+4. **Důchodkyně žije v malém domku, kterému říká „Dračí hnízdo“. Celý internet žasne, jak ho svépomocí přestavěla - Tiscali.cz** — Tiscali.cz [cs]
+   https://www.tiscali.cz/duchodkyne-zije-v-malem-domku-kteremu-rika-draci-hnizdo-cely-internet-zasne-jak-ho-svepomoci-prestavela-814805
+   Důchodkyně žije v malém domku, kterému říká „Dračí hnízdo“. Celý internet žasne, jak ho svépomocí přestavěla Tiscali.cz
 
-5. **Kevin bude už zase Sám doma! Macaulay Culkin znovu zamotá hlavy lupičům - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/spolecnost/kevin-mccallister-je-zpet-macaulay-culkin-chysta-nove-sam-doma-se-sethem-rogenem.A261125_135229_metro-spolecnost_mjafi
-   Kevin bude už zase Sám doma! Macaulay Culkin znovu zamotá hlavy lupičům Metro.cz
+5. **Na východě Slovenska hořelo v romské osadě. Tři děti jsou pohřešované - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-svet/na-vychode-slovenska-horelo-v-romske-osade-nejmene-jedno-dite-zemrelo-dve-jsou_2611261744_vsn
+   Na východě Slovenska hořelo v romské osadě. Tři děti jsou pohřešované iROZHLAS
 
-6. **Zima prověřuje pomoc lidem bez domova. Na jihu Moravy nabízejí zázemí města i charity - www.regionbrno.cz** — www.regionbrno.cz [cs]
-   https://www.regionbrno.cz/zpravodajstvi/zima-proveruje-pomoc-lidem-bez-domova-n-308698/
-   Zima prověřuje pomoc lidem bez domova. Na jihu Moravy nabízejí zázemí města i charity www.regionbrno.cz
+6. **Tragický požár romské osady na východě Slovenska... | iROZHLAS - spolehlivé zprávy - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/fotogalerie/9659293?fid=12163746
+   Tragický požár romské osady na východě Slovenska... | iROZHLAS - spolehlivé zprávy iROZHLAS
 
-7. **Do Brna přijede prezident. Navštíví významná místa a sfoukne i debatu se studenty - Brněnská Drbna** — Brněnská Drbna [cs]
-   https://brnenska.drbna.cz/spolecnost/906587-do-brna-prijede-prezident-navstivi-vyznamna-mista-a-sfoukne-i-debatu-se-studenty.html
-   Do Brna přijede prezident. Navštíví významná místa a sfoukne i debatu se studenty Brněnská Drbna
+7. **V osadě na východě Slovenska uhořelo dítě, další dvě jsou nezvěstné - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/zpravy/zahranicni/jedno-dite-podle-medii-zemrelo-pri-pozaru-pribytku-na-vychodnim-slovensku.A261126_201142_zahranicni_kha
+   V osadě na východě Slovenska uhořelo dítě, další dvě jsou nezvěstné iDNES.cz
 
-8. **Šestnáct let vězení pro Michaila Loščinina. Jeho zdravotní stav se ve vězení zhoršuje** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/sestnact-let-vezeni-pro-michaila-loscinina-jeho-zdravotni-stav-se-ve-vezeni-zhorsuje/
-   Michail Loščinin byl v červnu 2026 odsouzen k šestnácti letům vězení za údajnou vlastizradu. Soudní řízení probíhalo za zavřenými dveřmi a provázely ho vážné pochybnosti o dodržování práva na spravedl
+8. **Romské dělníky strašil střelbou z brokovnice! Opilec jim nadával do „černých negramotů" - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/galerie/regiony-praha/1424941/romske-delniky-strasil-strelbou-z-brokovnice-opilec-jim-nadaval-do-cernych-negramotu?foto=0
+   Romské dělníky strašil střelbou z brokovnice! Opilec jim nadával do „černých negramotů" Blesk.cz
 
-9. **Gaza: Izraelská genocida pokračuje. Amnesty dokumentuje její dopady na ženy a dívky** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/gaza-izraelska-genocida-pokracuje-amnesty-dokumentuje-jeji-dopady-na-zeny-a-divky/
-   Izrael podle Amnesty International pokračuje v genocidě Palestinců v Pásmu Gazy i po příměří z října 2025. Nová výzkumná zpráva Podmínky neslučitelné se životem: Ženy, dívky a genderové aspekty izrael
+9. **Hrůza v ostravské nemocnici. Granát před třiceti roky usmrtil dvě uklízečky, vrah zůstal neznámý - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/ostrava/zpravy/vyroci-1996-ostrava-vybuch-granat-nemocnice-uklizecky-tragedie.A261126_140635_ostrava-zpravy_jog
+   Hrůza v ostravské nemocnici. Granát před třiceti roky usmrtil dvě uklízečky, vrah zůstal neznámý iDNES.cz
 
-10. **Tuniský novinář dostal další čtyři roky vězení. Soud ho odsoudil na základě jeho novinářské práce** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/tunisky-novinar-dostal-dalsi-ctyri-roky-vezeni-soud-ho-odsoudil-na-zaklade-jeho-novinarske-prace/
-   Tuniský novinář a politický komentátor Zied El Heni byl 27. října 2026 odsouzen ke čtyřem letům vězení a dalším pěti letům administrativního dohledu. Nový rozsudek se týká aktivit souvisejících s jeho
+10. **Opavské abonmá čeká 10 koncertů. Beethovenovu stopu připomene několik večerů i finále soutěže - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/moravskoslezsky-kraj/opavske-abonma-ceka-10-koncertu-beethovenovu-stopu-pripomene-nekolik-veceru-i-finale-souteze.A261125_164535_metro-ostrava-zpravy_air
+   Opavské abonmá čeká 10 koncertů. Beethovenovu stopu připomene několik večerů i finále soutěže Metro.cz
 
-11. **Místo svobody další tresty. Pákistánští právníci zůstávají ve vězení** — https://amnesty.cz/feed/ [cs]
-   https://amnesty.cz/misto-svobody-dalsi-tresty-pakistansti-pravnici-zustavaji-ve-vezeni/
-   Právníci v oblasti lidských práv Imaan Mazari-Hazir a Hadi Ali Chattha jsou od ledna 2026 ve vězení kvůli své pokojné lidskoprávní činnosti. Poté, co pákistánský nejvyšší soud v září pozastavil jejich
+11. **Pohár přetekl: Vulgarismy a rasismus zaplavovaly facebook pražských strážníků, tak přišla reakce - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/galerie/regiony-praha/1181476/pohar-pretekl-vulgarismy-a-rasismus-zaplavovaly-facebook-prazskych-strazniku-tak-prisla-reakce
+   Pohár přetekl: Vulgarismy a rasismus zaplavovaly facebook pražských strážníků, tak přišla reakce Blesk.cz
 
-12. **Mosty porozumění: Co si neseme z minulosti a co předáme dětem?** — https://iqrs.cz/feed/ [cs]
-   https://iqrs.cz/mosty-porozumeni-co-si-neseme-z-minulosti-a-co-predame-detem/
-   Od rodinných svědectví ke školním lavicím IQ Roma servis společně s Knihovnou Jiřího Mahena v Brně uspořádal 24. listopadu setkání s názvem Mosty porozumění. Autorské čtení a panelová debata otevřely 
+12. **Může to někoho překvapit? Neonacisté hlásající rasovou válku mají vazby na Motoristy a Svobodné - Reflex.cz** — Reflex.cz [cs]
+   https://www.reflex.cz/clanek/komentare/139616/muze-to-nekoho-prekvapit-neonaciste-hlasajici-rasovou-valku-maji-vazby-na-motoristy-a-svobodne.html
+   Může to někoho překvapit? Neonacisté hlásající rasovou válku mají vazby na Motoristy a Svobodné Reflex.cz
 
-13. **Třeba je to nějaký vrátný, zlehčuje Macinka odhalení neonacisty v Motorgenu** — https://www.seznamzpravy.cz/rss [cs]
-   https://www.seznamzpravy.cz/clanek/domaci-kauzy-macinka-clena-neonacistickeho-klubu-v-motorgenu-proverim-az-budu-mit-cas-321487
-   Předseda Motoristů Petr Macinka se zatím nezabýval odhalením Seznam Zpráv, že jeden ze členů mládežnické organizace strany působí v neonacistické organizaci. Zároveň nedokázal odpovědět na to, jestli 
+13. **Extremismus mozkových záhybů: Lze ideologii změřit? - Konzervativní noviny** — Konzervativní noviny [cs]
+   https://www.konzervativninoviny.cz/extremismus-mozkovych-zahybu-lze-ideologii-zmerit/
+   Extremismus mozkových záhybů: Lze ideologii změřit? Konzervativní noviny
 
-14. **Podcasty DR: Proč Brno posílá lidi v nouzi do sociálně vyloučených lokalit** — https://denikreferendum.cz/rss.xml [cs]
-   https://denikreferendum.cz/clanek/239636-podcasty-dr-proc-brno-posila-lidi-v-nouzi-do-socialne-vyloucenych-lokalit
-   V Brně je přibližně dvě stě sociálních bytů, většina z nich se ale nachází v městských částech Brno-střed a Brno-sever. Proč se je nedaří rozmístit rovnoměrněji a jak současný systém dopadá na jejich 
+14. **Účastnící konference Multilaw darovali Nadaci Terezy Maxové 680 000 korun - Advokátní deník** — Advokátní deník [cs]
+   https://advokatnidenik.cz/2026/11/26/ucastnici-konference-multilaw-darovali-nadaci-terezy-maxove-680-000-korun/
+   Účastnící konference Multilaw darovali Nadaci Terezy Maxové 680 000 korun Advokátní deník
 
-15. **Jsou Romové potomky ztracených izraelských kmenů? Vědecké poznatky tuto teorii nepotvrzují - Seznam** — Seznam [cs]
-   https://medium.seznam.cz/clanek/romano-hangos-jsou-romove-potomky-ztracenych-izraelskych-kmenu-vedecke-poznatky-tuto-teorii-nepotvrzuji-351360
-   Jsou Romové potomky ztracených izraelských kmenů? Vědecké poznatky tuto teorii nepotvrzují Seznam
+15. **První neshoda v nové koalici. Hradec má dva zájemce o ubytovnu, s prodejem ale váhá - Salonky HK** — Salonky HK [cs]
+   https://www.salonkyhk.cz/prvni-neshoda-v-nove-koalici-hradec-ma-dva-zajemce-o-ubytovnu-s-prodejem-ale-vaha/
+   První neshoda v nové koalici. Hradec má dva zájemce o ubytovnu, s prodejem ale váhá Salonky HK
 
-16. **Vymřeli, či ještě žijí? Vyhynulý druh Miroslav Sládek už opět kandiduje na prezidenta - Lidovky.cz** — Lidovky.cz [cs]
-   https://www.lidovky.cz/nazory/miroslav-sladek-kandidatura-na-prezidenta-spr-rsc-republikani-extremiste.A261125_151921_ln_nazory_lgs
-   Vymřeli, či ještě žijí? Vyhynulý druh Miroslav Sládek už opět kandiduje na prezidenta Lidovky.cz
+16. **Nová sociální demokracie. Druhý život staré značky, nebo politický reparát bez zákazníků? - Lidovky.cz** — Lidovky.cz [cs]
+   https://www.lidovky.cz/nazory/nova-socialni-demokracie-martin-matas-vladimir-spidla-socdem-cssd.A261125_155655_ln_nazory_lgs
+   Nová sociální demokracie. Druhý život staré značky, nebo politický reparát bez zákazníků? Lidovky.cz
 
-17. **Elena Gorolová: Aktivistka za odškodnění romských žen - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/tag/elena-gorolova-132542
-   Elena Gorolová: Aktivistka za odškodnění romských žen Seznam Zprávy
+17. **Od proplácení faktur k hodnocení výsledků. Nová kapitola evropské dotační politiky přinese zásadní změny - Aktuálně.cz** — Aktuálně.cz [cs]
+   https://www.aktualne.cz/benative/od-proplaceni-faktur-k-hodnoceni-vysledku-nova-kapitola-evropske-dotacni-politiky-prinese-zasadni-zmeny/r~aaa2980d392606968df9894a74985402/
+   Od proplácení faktur k hodnocení výsledků. Nová kapitola evropské dotační politiky přinese zásadní změny Aktuálně.cz
 
-18. **Tomáš Kačo mísí klasickou hudbu a jazz s romskými kořeny - Televize TVS** — Televize TVS [cs]
-   https://itvs24.cz/zpravy/zlin/tomas-kaco-misi-klasickou-hudbu-a-jazz-s-romskymi-koreny/
-   Tomáš Kačo mísí klasickou hudbu a jazz s romskými kořeny Televize TVS
+18. **Praha 5 má nového starostu. Chce prověřit možnost získání nové radnice - NašePraha** — NašePraha [cs]
+   https://www.nasepraha.cz/praha-5-ma-noveho-starostu-chce-proverit-moznost-ziskani-nove-radnice/
+   Praha 5 má nového starostu. Chce prověřit možnost získání nové radnice NašePraha
 
-19. **Co když krajní pravice prorůstá do justice? Thriller Spravedlnost varuje před extremismem - Deník N** — Deník N [cs]
-   https://denikn.cz/2260192/co-kdyz-krajni-pravice-prorusta-do-justice-thriller-spravedlnost-varuje-pred-extremismem/
-   Co když krajní pravice prorůstá do justice? Thriller Spravedlnost varuje před extremismem Deník N
+19. **Od mezinárodní zkušenosti k lokálnímu dopadu: NEOLAiA rozvíjí novou generaci mentorů a mentorek - Ostravská univerzita** — Ostravská univerzita [cs]
+   https://alive.osu.cz/od-mezinarodni-zkusenosti-k-lokalnimu-dopadu-neolaia-rozviji-novou-generaci-mentoru-a-mentorek/
+   Od mezinárodní zkušenosti k lokálnímu dopadu: NEOLAiA rozvíjí novou generaci mentorů a mentorek Ostravská univerzita
 
-20. **Donnarummu rozzlobily urážky jeho matky od fanoušků Neapole. Podobné pokřiky slyšel v Manchesteru už loni - FotbalPortal.cz** — FotbalPortal.cz [cs]
-   https://www.fotbalportal.cz/pohary/liga-mistru/82064-donnarumma-neapol-fanousci-pokriky-matka-manchester-city-uefa/
-   Donnarummu rozzlobily urážky jeho matky od fanoušků Neapole. Podobné pokřiky slyšel v Manchesteru už loni FotbalPortal.cz
+20. **Diskriminace žen ve sportu (z edice Otakarův průvodce životem) - Seznam** — Seznam [cs]
+   https://medium.seznam.cz/clanek/marek-vechytek-diskriminace-zen-ve-sportu-z-edice-otakaruv-pruvodce-zivotem-351384
+   Diskriminace žen ve sportu (z edice Otakarův průvodce životem) Seznam
 
-21. **Jak se stát hvězdou formátu BTS? Poradí vám snímek K-Pop: Debut - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/kultura/film-televize/k-pop-debut-korea-hudba-film-premiera-bts-ji-young-yoo.A261124_132240_filmvideo_lysa
-   Jak se stát hvězdou formátu BTS? Poradí vám snímek K-Pop: Debut iDNES.cz
+21. **Když veřejnost soudí dříve než soud: pražské fórum otevřelo případ Shincheonji - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/protext/kdyz-verejnost-soudi-drive-nez-soud-prazske-forum-otevrelo-pripad-shincheonji.A261126_101600_metro-protext_air
+   Když veřejnost soudí dříve než soud: pražské fórum otevřelo případ Shincheonji Metro.cz
 
-22. **Petr Pavel měl pravdu. Neonacisté v okolí vládních stran a otázka, kam až jsme ochotni zajít - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/137659-petr-pavel-mel-pravdu-neonaciste-v-okoli-vladnich-stran-a-otazka-kam-az-jsme-ochotni-zajit.html
-   Petr Pavel měl pravdu. Neonacisté v okolí vládních stran a otázka, kam až jsme ochotni zajít Britské listy
+22. **Tragické dopady. Kontroloři nelegální dětské práce chybí, varuje ombudsman - Seznam Zprávy** — Seznam Zprávy [cs]
+   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-tragicke-dopady-kontrolori-nelegalni-detske-prace-chybi-varuje-ombudsman-321587
+   Tragické dopady. Kontroloři nelegální dětské práce chybí, varuje ombudsman Seznam Zprávy
 
-23. **Superdávka nás připravila o peníze. A zpožďuje se, stěžují si samoživitelky - Deník.cz** — Deník.cz [cs]
-   https://www.denik.cz/ekonomika/superdavka-samozivitelky-si-stezuji-pripravila-je-o-penize/
-   Superdávka nás připravila o peníze. A zpožďuje se, stěžují si samoživitelky Deník.cz
+23. **Inspekce práce nestíhá už teď. Beneš varuje, že to může zhoršit odhalování dětské práce - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihomoravsky-kraj/inspekce-prace-nestiha-uz-ted-benes-varuje-ze-to-muze-zhorsit-odhalovani-detske-prace.A261126_174536_metro-brno-zpravy_air
+   Inspekce práce nestíhá už teď. Beneš varuje, že to může zhoršit odhalování dětské práce Metro.cz
 
-24. **Juchelka chce snížit nezaměstnaným podporu. Současná výše zůstane jen některým - TN.cz** — TN.cz [cs]
-   https://tn.nova.cz/zpravodajstvi/clanek/662177-juchelka-chce-snizit-nezamestnanym-podporu-soucasna-vyse-zustane-jen-nekterym
-   Juchelka chce snížit nezaměstnaným podporu. Současná výše zůstane jen některým TN.cz
+24. **Ombudsman varuje před bagatelizací stížností na soudce u dítěte. Rozhodovat má i záznam - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihomoravsky-kraj/ombudsman-varuje-pred-bagatelizaci-stiznosti-na-soudce-u-ditete-rozhodovat-ma-i-zaznam.A261126_154536_metro-brno-zpravy_air
+   Ombudsman varuje před bagatelizací stížností na soudce u dítěte. Rozhodovat má i záznam Metro.cz
 
-25. **Superdávka a JENDA má konkrétní tvůrce, kteří by měli rezignovat .... | 25. 11. 2026 | Pavel Veleman - Britské listy** — Britské listy [cs]
-   https://www.blisty.cz/art/137655-superdavka-a-jenda-ma-konkretni-tvurce-kteri-by-meli-rezignovat.html
-   Superdávka a JENDA má konkrétní tvůrce, kteří by měli rezignovat .... | 25. 11. 2026 | Pavel Veleman Britské listy
-
-26. **Hradec Králové má dvě nabídky na koupi bývalé nemocniční ubytovny se 177 pokoji - Hradecký deník** — Hradecký deník [cs]
-   https://hradecky.denik.cz/zpravy-region/hradec-kralove-dve-nabidky-byvala-nemocnicni-ubytovna/
-   Hradec Králové má dvě nabídky na koupi bývalé nemocniční ubytovny se 177 pokoji Hradecký deník
-
-27. **KRUH POŘÁDÁ PŘEDNÁŠKU O DOSTUPNÉM BYDLENÍ VE VÍDNI - Radio 1** — Radio 1 [cs]
-   https://radio1.cz/kruh-porada-prednasku-o-dostupnem-bydleni-ve-vidni/
-   KRUH POŘÁDÁ PŘEDNÁŠKU O DOSTUPNÉM BYDLENÍ VE VÍDNI Radio 1
-
-28. **Stát slibuje miliardy na dostupné bydlení. Nový program má napravit zpoždění, na které doplatily obce - Noviny kraje** — Noviny kraje [cs]
-   https://www.novinykraje.cz/2026/11/25/stat-slibuje-miliardy-na-dostupne-bydleni-novy-program-ma-napravit-zpozdeni-na-ktere-doplatily-obce/
-   Stát slibuje miliardy na dostupné bydlení. Nový program má napravit zpoždění, na které doplatily obce Noviny kraje
-
-29. **Praha plánuje investovat přes 53 miliard. ANO vidí problém - NašePraha** — NašePraha [cs]
-   https://www.nasepraha.cz/praha-planuje-investovat-pres-53-miliard-ano-vidi-problem/
-   Praha plánuje investovat přes 53 miliard. ANO vidí problém NašePraha
-
-30. **Hodonínští dali radním 10 priorit k řešení. Nejpalčivější problém je štve roky - Hodonínský deník** — Hodonínský deník [cs]
-   https://hodoninsky.denik.cz/zpravy-region/hodonin-10-priorit-k-reseni-nejpalcivejsi-problem/
-   Hodonínští dali radním 10 priorit k řešení. Nejpalčivější problém je štve roky Hodonínský deník
-
-31. **Protesty proti cenám bydlení v Portugalsku se rozšířily do Londýna a Bruselu - The Portugal News** — The Portugal News [cs]
-   https://www.theportugalnews.com/cs/zpravy/2026-11-23/protesty-proti-bydleni-v-portugalsku-se-rozsiily-do-londyna-a-bruselu/1113772
-   Protesty proti cenám bydlení v Portugalsku se rozšířily do Londýna a Bruselu The Portugal News
-
-32. **Festival Případ pro sociálku se vrací do Venuše ve Švehlovce - Divadelní noviny** — Divadelní noviny [cs]
-   https://www.divadelni-noviny.cz/festivaly/201249-festival-pripad-pro-socialku-se-vraci-do-venuse-ve-svehlovce
-   Festival Případ pro sociálku se vrací do Venuše ve Švehlovce Divadelní noviny
-
-33. **„Diskriminační,“ kritizují výrobci nová pravidla pro názvy potravin. Ministerstvo je hájí ochranou spotřebitelů - Deník N** — Deník N [cs]
-   https://denikn.cz/2246322/diskriminacni-kritizuji-vyrobci-nova-pravidla-pro-nazvy-potravin-ministerstvo-je-haji-ochranou-spotrebitelu/
-   „Diskriminační,“ kritizují výrobci nová pravidla pro názvy potravin. Ministerstvo je hájí ochranou spotřebitelů Deník N
-
-34. **Otisky prstů bez odsouzení. První republika zavedla diskriminační legitimace - Centrum.cz** — Centrum.cz [cs]
-   https://www.centrum.cz/clanek/otisky-prstu-bez-odsouzeni-prvni-republika-zavedla-diskriminacni-legitimace-351853
-   Otisky prstů bez odsouzení. První republika zavedla diskriminační legitimace Centrum.cz
+25. **Reklamace a vrácení vánočních dárků: Odborník na práva spotřebitelů radí, jak se nedat odbýt - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/galerie/radce-pravni-poradna/1289033/reklamace-a-vraceni-vanocnich-darku-odbornik-na-prava-spotrebitelu-radi-jak-se-nedat-odbyt?foto=0
+   Reklamace a vrácení vánočních dárků: Odborník na práva spotřebitelů radí, jak se nedat odbýt Blesk.cz
