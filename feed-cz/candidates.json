@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-28T03:36:12+00:00",
-  "count": 29,
+  "generated_utc": "2026-11-28T07:46:59+00:00",
+  "count": 37,
   "sources": {
     "profile": "cz",
-    "google_news": 132,
+    "google_news": 144,
     "google_news_status": "ok",
     "gdelt": 0,
     "gdelt_status": "disabled",
@@ -11,19 +11,91 @@
     "feeds": 5,
     "news_feeds": 5,
     "watch": 3,
-    "before_dedup": 91,
-    "total": 80,
-    "skipped_seen": 49,
-    "gn_resolved": 29,
-    "gn_resolve_tried": 29,
+    "before_dedup": 95,
+    "total": 81,
+    "skipped_seen": 71,
+    "gn_resolved": 10,
+    "gn_resolve_tried": 10,
     "dropped_after_resolve": 2,
-    "new": 29,
-    "carried_over": 0,
+    "new": 8,
+    "carried_over": 29,
     "window_start": "2026-11-27T07:46:45+00:00",
-    "publish_run": false,
+    "publish_run": true,
     "vps_trigger": "ok"
   },
   "candidates": [
+    {
+      "title": "„Nudný technokrat“ chce dát Španělsko do pořádku. Má to jeden háček - Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-alberto-nunez-feijoo-nudny-technokrat-chce-dat-spanelsko-do-poradku-ma-to-jeden-hacek-320718",
+      "source": "Seznam Zprávy",
+      "snippet": "„Nudný technokrat“ chce dát Španělsko do pořádku. Má to jeden háček Seznam Zprávy",
+      "published": "Sat, 28 Nov 2026 05:30:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-28T07:46:59+00:00"
+    },
+    {
+      "title": "Vzorný vojáček ⭐ 73% [A Good Little Soldier] (2026) - Kinobox",
+      "url": "https://www.kinobox.cz/film/3271328-vzorny-vojacek",
+      "source": "Kinobox",
+      "snippet": "Vzorný vojáček ⭐ 73% [A Good Little Soldier] (2026) Kinobox",
+      "published": "Sat, 28 Nov 2026 07:29:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-28T07:46:59+00:00"
+    },
+    {
+      "title": "„Sídliště pro ty, které jinde nechtějí.“ Dočká se šluknovská Slunečnice radikální proměny? - Deník N",
+      "url": "https://denikn.cz/2259351/sidliste-pro-ty-ktere-jinde-nechteji-docka-se-sluknovska-slunecnice-radikalni-promeny/",
+      "source": "Deník N",
+      "snippet": "„Sídliště pro ty, které jinde nechtějí.“ Dočká se šluknovská Slunečnice radikální proměny? Deník N",
+      "published": "Thu, 26 Nov 2026 15:48:58 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-28T07:46:59+00:00"
+    },
+    {
+      "title": "Ohrožené děti často končí tam, kde je volná postel, říká dětský ombudsman - České noviny",
+      "url": "https://www.ceskenoviny.cz/zpravy/ohrozene-deti-casto-konci-tam-kde-je-volna-postel-rika-detsky-ombudsman/2907912",
+      "source": "České noviny",
+      "snippet": "Ohrožené děti často končí tam, kde je volná postel, říká dětský ombudsman České noviny",
+      "published": "Sat, 28 Nov 2026 04:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-28T07:46:59+00:00"
+    },
+    {
+      "title": "Dětský ombudsman řeší stovky podnětů. Často rodinné spory a stížnosti na OSPOD - ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/detsky-ombudsman-resi-stovky-podnetu-casto-rodinne-spory-a-stiznosti-na-ospod-379139",
+      "source": "ČT24",
+      "snippet": "Dětský ombudsman řeší stovky podnětů. Často rodinné spory a stížnosti na OSPOD ČT24",
+      "published": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-28T07:46:59+00:00"
+    },
+    {
+      "title": "Deset let na Vinted, přes tisíc recenzí. Pak přišla stopka - Blesk.cz",
+      "url": "https://www.blesk.cz/clanek/radce-ombudsman-blesku/853275/aplikace-vinted-odrizla-anetu-od-jejiho-uctu-po-deseti-letech-muze-se-to-stat-i-vam.html",
+      "source": "Blesk.cz",
+      "snippet": "Deset let na Vinted, přes tisíc recenzí. Pak přišla stopka Blesk.cz",
+      "published": "Sat, 28 Nov 2026 04:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-28T07:46:59+00:00"
+    },
+    {
+      "title": "Jílka: Počet dětí ve školských pobytových zařízeních lze snížit podporou rodin - České noviny",
+      "url": "https://www.ceskenoviny.cz/zpravy/jilka-pocet-deti-ve-skolskych-pobytovych-zarizenich-lze-snizit-podporou-rodin/2907913",
+      "source": "České noviny",
+      "snippet": "Jílka: Počet dětí ve školských pobytových zařízeních lze snížit podporou rodin České noviny",
+      "published": "Sat, 28 Nov 2026 04:00:00 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-28T07:46:59+00:00"
+    },
+    {
+      "title": "Letadlo neodletělo, peníze za letenky nedostaly! Dámskou jízdu na Krétu řeší Ombudsman Blesku - Blesk.cz",
+      "url": "https://www.blesk.cz/galerie/radce-pravni-poradna/1059198/letadlo-neodletelo-penize-za-letenky-nedostaly-damskou-jizdu-na-kretu-resi-ombudsman-blesku?foto=0",
+      "source": "Blesk.cz",
+      "snippet": "Letadlo neodletělo, peníze za letenky nedostaly! Dámskou jízdu na Krétu řeší Ombudsman Blesku Blesk.cz",
+      "published": "Sat, 28 Nov 2026 02:16:18 GMT",
+      "lang": "cs",
+      "collected_utc": "2026-11-28T07:46:59+00:00"
+    },
     {
       "title": "Pětka SZ: „Skutečná vláda“ Česka a pozoruhodný veletoč v Nvidii",
       "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-petka-sz-skutecna-vlada-ceska-a-pozoruhodny-veletoc-v-nvidii-321653",
