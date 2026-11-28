@@ -1,159 +1,119 @@
-# Kandidáti — 2026-11-27T07:46:45+00:00 (39 položek)
+# Kandidáti — 2026-11-28T03:36:12+00:00 (29 položek)
 
-_Zdroje: Google News 143 · GDELT 0 (disabled) · feedy 5 · watch 2_
+_Zdroje: Google News 132 · GDELT 0 (disabled) · feedy 5 · watch 3_
 
-1. **Češi budovali ráj, reakci Kremlu nečekali. Dnes mění Rusko gulagy na muzea dozorců** — https://www.aktualne.cz/rss/ [cs]
-   https://video.aktualne.cz/cesi-budovali-raj-reakci-kremlu-necekali-dnes-meni-rusko-gulagy-na-muzea-dozorcu/r~aaa294dd1c03b7e9fc05060291227f9d/
-   Pojem gulag zná po celém světě téměř každý jako příklad temné historie. Umíraly v nich miliony nevinných lidí, přesto jsou v zemi katů a obětí historici označováni za extremisty a ruší se muzea. Tým č
+1. **Pětka SZ: „Skutečná vláda“ Česka a pozoruhodný veletoč v Nvidii** — https://www.seznamzpravy.cz/rss [cs]
+   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-petka-sz-skutecna-vlada-ceska-a-pozoruhodny-veletoc-v-nvidii-321653
+   Vážení čtenáři, Seznam Zprávy v uplynulém týdnu pokračovaly v rozkrývání české neonacistické buňky – a narazily na kontakty extremistů na politické scéně. V USA zase svých kontaktů na politiky využil 
 
-2. **„Oběti tleskají katům,” říká rusista. Češi budovali ráj, drsnou odpověď Kremlu nečekali** — https://www.aktualne.cz/rss/ [cs]
-   https://zpravy.aktualne.cz/zahranici/obeti-tleskaji-katum-rika-badatel-cesi-budovali-raj-odpoved-kremlu-necekali/r~aaa29f85b48163fbaea7d4021c6de4d0/
-   Pojem gulag zná po celém světě téměř každý jako příklad temné historie. Umíraly v nich miliony nevinných lidí, přesto jsou v zemi katů a obětí historici označováni za extremisty a ruší se muzea. Tým č
+2. **Tragický požár na Slovensku: Zemřely tři děti, o domov přišlo 20 rodin** — https://www.denik.cz/rss/zpravy.html [cs]
+   https://www.denik.cz/evropa/pozar-domu-na-slovensku-zemrely-tri-deti/?utm_source=rss&utm_medium=feed-vse&utm_campaign=www.denik.cz&utm_content=evropa
+   Rozsáhlý požár v romské osadě v obci Kolačkov na severovýchodě Slovenska si vyžádal životy tří dětí ve věku dvou, sedmi a čtrnácti let. Přibližně dvacet rodin se kvůli čtvrteční tragédii ocitlo bez st
 
-3. **Řeči o vlastencích bourá realita: mládež ze stran krajní pravice se hlásí k extremismu** — https://hlidacipes.org/feed/ [cs]
-   https://hlidacipes.org/reci-o-vlastencich-boura-realita-mladez-ze-stran-krajni-pravice-se-hlasi-k-extremismu/
-   ANALÝZA. Zatímco krajní pravice v Evropě se už léta v rámci spojování sil snaží působit navenek co možná nejméně radikálně, mládežnické organizace stran typu německé AfD často odhalují skutečné podhou
+3. **Za drobnou chybu v kolonce čtyři měsíce bez dávek. Ombudsmanka upozorňuje poslance na chyby v bezpečnostní novele - Veřejný ochránce práv | Ombudsman** — Veřejný ochránce práv | Ombudsman [cs]
+   https://www.ochrance.cz/aktualne/za-drobnou-chybu-v-kolonce-ctyri-mesice-bez-davek-ombudsmanka-upozornuje-poslance-na-chyby-v-bezpecnostni-novele/
+   Za drobnou chybu v kolonce čtyři měsíce bez dávek. Ombudsmanka upozorňuje poslance na chyby v bezpečnostní novele Veřejný ochránce práv | Ombudsman
 
-4. **Zabít gaye ve hře a Žida v realitě je sakra rozdíl. Proč to extremisté z obou břehů nechápou?** — https://www.info.cz/rss [cs]
-   https://www.info.cz/zpravodajstvi-a-komentare/svoboda-slova-gta-vi-rajchl-popirani-genocidy
-   KOMENTÁŘ MARTINA SCHMARCZE | Prostřelila ve hře duhovou vlajku! Je tedy vinná? Schvaluje holocaust… A má být nevinný? Až takto absurdní debatu o verbálních trestných činech vedou extremisté. V prvním 
+4. **Neue Gesichter – Ausmoderiert! ORF ersetzt Weichselbraun und Sigl - Heute** — Heute [cs]
+   https://www.heute.at/s/ausmoderiert-orf-ersetzt-weichselbraun-und-sigl-120287479
+   Neue Gesichter – Ausmoderiert! ORF ersetzt Weichselbraun und Sigl Heute
 
-5. **Krutý osud Romského Gotta: Podle Slováčka to mohl dotáhnout daleko, Ondřej Provazník však skončil ve vězení - In-lifestyle.cz** — In-lifestyle.cz [cs]
-   https://in-lifestyle.cz/romsky-gott-ondrej-provaznik-vezeni/
-   Krutý osud Romského Gotta: Podle Slováčka to mohl dotáhnout daleko, Ondřej Provazník však skončil ve vězení In-lifestyle.cz
-
-6. **Pestrobarevný rej kostýmů a balkánská dechovka: Romský festival Khamoro se po roce vrátil do Prahy - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/galerie/regiony-praha/1325634/pestrobarevny-rej-kostymu-a-balkanska-dechovka-romsky-festival-khamoro-se-po-roce-vratil-do-prahy?foto=20
+5. **Pestrobarevný rej kostýmů a balkánská dechovka: Romský festival Khamoro se po roce vrátil do Prahy - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/galerie/regiony-praha/1325634/pestrobarevny-rej-kostymu-a-balkanska-dechovka-romsky-festival-khamoro-se-po-roce-vratil-do-prahy?foto=2
    Pestrobarevný rej kostýmů a balkánská dechovka: Romský festival Khamoro se po roce vrátil do Prahy Blesk.cz
 
-7. **Pohár přetekl: Vulgarismy a rasismus zaplavovaly facebook pražských strážníků, tak přišla reakce - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/galerie/regiony-praha/1181476/pohar-pretekl-vulgarismy-a-rasismus-zaplavovaly-facebook-prazskych-strazniku-tak-prisla-reakce?foto=0
-   Pohár přetekl: Vulgarismy a rasismus zaplavovaly facebook pražských strážníků, tak přišla reakce Blesk.cz
+6. **Kraj představil strategii romské integrace. Vyloučené lokality jsou i v Kolíně - Kolínský deník** — Kolínský deník [cs]
+   https://kolinsky.denik.cz/zpravy-region/kraj-predstavil-strategii-romske-integrace-vyloucene-lokality-jsou-i-v-koline/?utm_source=rss&utm_medium=feed-vse&utm_campaign=kolinsky.denik.cz&utm_content=zpravy-region
+   Kraj představil strategii romské integrace. Vyloučené lokality jsou i v Kolíně Kolínský deník
 
-8. **Čeká Španělsko deportace cizinců? Volby můžou otevřít dveře krajní pravici - VOXPOT** — VOXPOT [cs]
-   https://www.voxpot.cz/clanky/ceka-spanelsko-deportace-cizincu-volby-muzou-otevrit-dvere-krajni-pravici
-   Čeká Španělsko deportace cizinců? Volby můžou otevřít dveře krajní pravici VOXPOT
+7. **Recenze: Dietl naruby. Aňa Geislerová září ve filmu o sterilizaci romských žen - Aktuálně.cz** — Aktuálně.cz [cs]
+   https://magazin.aktualne.cz/kultura/film/recenze-dietl-naruby-ana-geislerova-zari-ve-filmu-o-sterilizaci-romskych-zen/galerie/r~aaa29d1c77d52e14bafdd50b3c776e7c/?foto=3
+   Recenze: Dietl naruby. Aňa Geislerová září ve filmu o sterilizaci romských žen Aktuálně.cz
 
-9. **Miláček levice, klidná síla z Galicie nebo drsný macho. Španělé si zvolí nového lídra - CNN Prima NEWS** — CNN Prima NEWS [cs]
-   https://cnn.iprima.cz/milacek-levice-klidna-sila-z-galicie-nebo-drsny-macho-spanele-si-zvoli-noveho-lidra-528018
-   Miláček levice, klidná síla z Galicie nebo drsný macho. Španělé si zvolí nového lídra CNN Prima NEWS
+8. **Shrnutí a obsazení Spor Dramatický film 1h25 - CANAL+** — CANAL+ [cs]
+   https://www.canalplus.com/cz/cs/filmy/spor/h/43397117_55559
+   Shrnutí a obsazení Spor Dramatický film 1h25 CANAL+
 
-10. **O superdávce a Jendovi prý MPSV moc neví. A za to, co ví, nám účtuje 50 tisíc - Penize.cz** — Penize.cz [cs]
-   https://www.penize.cz/davka-statni-socialni-pomoci-superdavka/500592-o-superdavce-a-jendovi-pry-mpsv-moc-nevi-a-za-to-co-vi-nam-uctuje-50-tisic
-   O superdávce a Jendovi prý MPSV moc neví. A za to, co ví, nám účtuje 50 tisíc Penize.cz
+9. **V Irsku zaznívají výzvy k regulaci technologií zprostředkujících sexuální násilí - ČT24** — ČT24 [cs]
+   https://ct24.ceskatelevize.cz/clanek/svet/v-irsku-zaznivaji-vyzvy-k-regulaci-technologii-zprostredkujicich-sexualni-nasili-380015
+   V Irsku zaznívají výzvy k regulaci technologií zprostředkujících sexuální násilí ČT24
 
-11. **Podzimní sbírka zajistila pro potřebné v Libereckém kraji přes 36 tun zboží - Liberecká Drbna** — Liberecká Drbna [cs]
-   https://liberecka.drbna.cz/spolecnost/906549-podzimni-sbirka-zajistila-pro-potrebne-v-libereckem-kraji-pres-36-tun-zbozi.html
-   Podzimní sbírka zajistila pro potřebné v Libereckém kraji přes 36 tun zboží Liberecká Drbna
+10. **Spravedlnost: Když spravedlnost vnímá každý trochu jinak… (Recenze) - plotpoint** — plotpoint [cs]
+   https://plotpoint.sk/spravedlnost-kdyz-spravedlnost-vnima-kazdy-trochu-jinak-recenze/
+   Spravedlnost: Když spravedlnost vnímá každý trochu jinak… (Recenze) plotpoint
 
-12. **"Ne, líp nebude," znělo včera před Sněmovnou od zdravotně postižených - ZdraveZpravy.cz** — ZdraveZpravy.cz [cs]
-   https://www.zdravezpravy.cz/2026/11/25/ne-lip-nebude-znelo-vcera-prahou-od-nejvice-zdravotne-postizenych/
-   "Ne, líp nebude," znělo včera před Sněmovnou od zdravotně postižených ZdraveZpravy.cz
+11. **Politická mapa Česka se mění. Starostové chtějí voliče ANO, krajní pravice zase jednotný blok - RESPEKT** — RESPEKT [cs]
+   https://www.respekt.cz/podcasty/politicka-mapa-ceska-se-meni-starostove-chteji-volice-ano-krajni-pravice-zase-jednotny-blok
+   Politická mapa Česka se mění. Starostové chtějí voliče ANO, krajní pravice zase jednotný blok RESPEKT
 
-13. **Španělsko je rozdělené a Sánchez s tím umí pracovat. Opozici vadí migrace i autonomie, říká odborník - Český rozhlas Plus** — Český rozhlas Plus [cs]
-   https://plus.rozhlas.cz/spanelsko-je-rozdelene-a-sanchez-s-tim-umi-pracovat-opozici-vadi-migrace-i-9659173
-   Španělsko je rozdělené a Sánchez s tím umí pracovat. Opozici vadí migrace i autonomie, říká odborník Český rozhlas Plus
+12. **Šéfredaktor týdeníku Die Zeit: Nevěřím, že Alternativa pro Německo převezme vládu - RESPEKT** — RESPEKT [cs]
+   https://www.respekt.cz/rozhovor/sefredaktor-tydeniku-die-zeit-neverim-ze-alternativa-pro-nemecko-prevezme-vladu
+   Šéfredaktor týdeníku Die Zeit: Nevěřím, že Alternativa pro Německo převezme vládu RESPEKT
 
-14. **Zasadil mu 50 ran nožem. Za brutální vraždu ve Znojmě si odsedí 16 let - Stisk online** — Stisk online [cs]
-   https://stisk.online/a/prnPM/zasadil-mu-50-ran-nozem-za-brutalni-vrazdu-ve-znojme-si-odsedi-16-let
-   Zasadil mu 50 ran nožem. Za brutální vraždu ve Znojmě si odsedí 16 let Stisk online
+13. **Levicová vláda nad Španělskem zřejmě po osmi letech končí - RESPEKT** — RESPEKT [cs]
+   https://www.respekt.cz/zahranici/levicova-vlada-nad-spanelskem-zrejme-po-osmi-letech-konci
+   Levicová vláda nad Španělskem zřejmě po osmi letech končí RESPEKT
 
-15. **Vězení zaplatíme. Úřednici ne - Seznam** — Seznam [cs]
-   https://medium.seznam.cz/clanek/jiri-bodenlos-vezeni-zaplatime-urednici-ne-351241
-   Vězení zaplatíme. Úřednici ne Seznam
+14. **Tři dospívající z případu německé extremistické skupiny jsou po předvedení na svobodě - TrendySvet.cz** — TrendySvet.cz [cs]
+   https://www.trendysvet.cz/clanek/tri-dospivajici-z-pripadu-nemecke-extremisticke-skupiny-jsou-po-predvedeni-na-svobode
+   Tři dospívající z případu německé extremistické skupiny jsou po předvedení na svobodě TrendySvet.cz
 
-16. **„Sídliště pro ty, které jinde nechtějí.“ Dočká se šluknovská Slunečnice radikální proměny?** — https://denikn.cz/feed/ [cs]
-   https://denikn.cz/2259351/sidliste-pro-ty-ktere-jinde-nechteji-docka-se-sluknovska-slunecnice-radikalni-promeny/
-   Sídliště Slunečnice v severočeském Šluknově patří mezi největší vyloučené lokality v Česku. Když zanedbané paneláky koupí město, může to zlepšit nejen bydlení, ale i vzdělávací šance zdejších dětí.
+15. **Německá policie zadržela tři dospívající. Podezírá je z členství v extremistické skupině - TrendySvet.cz** — TrendySvet.cz [cs]
+   https://www.trendysvet.cz/clanek/nemecka-policie-zadrzela-tri-dospivajici-podezira-je-z-clenstvi-v-extremisticke-skupine
+   Německá policie zadržela tři dospívající. Podezírá je z členství v extremistické skupině TrendySvet.cz
 
-17. **Romům se z Pasáže nechce. Čeká je zřejmě vystěhování - Přerovský deník** — Přerovský deník [cs]
-   https://prerovsky.denik.cz/zpravy-region/prerov-pasaz-problemovi-najemnici-vystehovani-soud/
-   Romům se z Pasáže nechce. Čeká je zřejmě vystěhování Přerovský deník
+16. **Stopka online násilí na ženách: Na britském velvyslanectví se diskutovalo o nenávisti na internetu - https://allnews.cz/** — https://allnews.cz/ [cs]
+   https://allnews.cz/2026/11/27/stopka-online-nasili-na-zenach-na-britskem-velvyslanectvi-se-diskutovalo-o-nenavisti-na-internetu/
+   Stopka online násilí na ženách: Na britském velvyslanectví se diskutovalo o nenávisti na internetu https://allnews.cz/
 
-18. **Dzurko tvořil z odpadní skleněné drti. Muzeum romské kultury v Brně ukazuje 13 jeho obrazů - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/jihomoravsky-kraj/dzurko-tvoril-z-odpadni-sklenene-drti-muzeum-romske-kultury-v-brne-ukazuje-13-jeho-obrazu.A261126_184637_metro-brno-zpravy_air
-   Dzurko tvořil z odpadní skleněné drti. Muzeum romské kultury v Brně ukazuje 13 jeho obrazů Metro.cz
+17. **Superdávka nabírá obrátky. Už ji bere na 300 tisíc domácností, náklady jdou do miliard měsíčně - Echo24** — Echo24 [cs]
+   https://www.echo24.cz/a/HkAWQ/zpravy-domaci-superdavka-narusta-miliardy-mesicne-300-tisic-domacnosti-nova-cisla
+   Superdávka nabírá obrátky. Už ji bere na 300 tisíc domácností, náklady jdou do miliard měsíčně Echo24
 
-19. **Důchodkyně žije v malém domku, kterému říká „Dračí hnízdo“. Celý internet žasne, jak ho svépomocí přestavěla - Tiscali.cz** — Tiscali.cz [cs]
-   https://www.tiscali.cz/duchodkyne-zije-v-malem-domku-kteremu-rika-draci-hnizdo-cely-internet-zasne-jak-ho-svepomoci-prestavela-814805
-   Důchodkyně žije v malém domku, kterému říká „Dračí hnízdo“. Celý internet žasne, jak ho svépomocí přestavěla Tiscali.cz
+18. **Superdávka nefunguje, kritizoval Kolář. „Soudruzi z ANO“ podle něj udělali klíčovou chybu - CNN Prima NEWS** — CNN Prima NEWS [cs]
+   https://cnn.iprima.cz/soudruzi-z-hnuti-ano-udelali-chybu-tvrdi-kolar-vysvetlil-co-ministr-juchelka-nezvladl-528198
+   Superdávka nefunguje, kritizoval Kolář. „Soudruzi z ANO“ podle něj udělali klíčovou chybu CNN Prima NEWS
 
-20. **Na východě Slovenska hořelo v romské osadě. Tři děti jsou pohřešované - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/zpravy-svet/na-vychode-slovenska-horelo-v-romske-osade-nejmene-jedno-dite-zemrelo-dve-jsou_2611261744_vsn
-   Na východě Slovenska hořelo v romské osadě. Tři děti jsou pohřešované iROZHLAS
+19. **Věk brzdí Pražany v práci. Starší zájemci narážejí na obavy firem - iDNES.cz** — iDNES.cz [cs]
+   https://www.idnes.cz/praha/zpravy/prace-starsi-zajemci-obavy-vek-technologie-firmy-hledani-zamestnani.A261127_101649_praha-zpravy_fohl
+   Věk brzdí Pražany v práci. Starší zájemci narážejí na obavy firem iDNES.cz
 
-21. **Tragický požár romské osady na východě Slovenska... | iROZHLAS - spolehlivé zprávy - iROZHLAS** — iROZHLAS [cs]
-   https://www.irozhlas.cz/fotogalerie/9659293?fid=12163746
-   Tragický požár romské osady na východě Slovenska... | iROZHLAS - spolehlivé zprávy iROZHLAS
+20. **VIDEO: Dítě běhalo mezi stříkačkami. Matku se synem vyhodili z ubytovny, šli spát do opuštěného domu - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/galerie/regiony-praha/716648/video-dite-behalo-mezi-strikackami-matku-se-synem-vyhodili-z-ubytovny-sli-spat-do-opusteneho-domu?foto=4
+   VIDEO: Dítě běhalo mezi stříkačkami. Matku se synem vyhodili z ubytovny, šli spát do opuštěného domu Blesk.cz
 
-22. **V osadě na východě Slovenska uhořelo dítě, další dvě jsou nezvěstné - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/zpravy/zahranicni/jedno-dite-podle-medii-zemrelo-pri-pozaru-pribytku-na-vychodnim-slovensku.A261126_201142_zahranicni_kha
-   V osadě na východě Slovenska uhořelo dítě, další dvě jsou nezvěstné iDNES.cz
+21. **Sokolov povede znovu Jan Picka. Město čekají změny v dopravě i vytápění - Český rozhlas Karlovy Vary** — Český rozhlas Karlovy Vary [cs]
+   https://vary.rozhlas.cz/sokolov-povede-znovu-jan-picka-mesto-cekaji-zmeny-v-doprave-i-vytapeni-9659334
+   Sokolov povede znovu Jan Picka. Město čekají změny v dopravě i vytápění Český rozhlas Karlovy Vary
 
-23. **Romské dělníky strašil střelbou z brokovnice! Opilec jim nadával do „černých negramotů" - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/galerie/regiony-praha/1424941/romske-delniky-strasil-strelbou-z-brokovnice-opilec-jim-nadaval-do-cernych-negramotu?foto=0
-   Romské dělníky strašil střelbou z brokovnice! Opilec jim nadával do „černých negramotů" Blesk.cz
+22. **Může pes do kasina? Pokud je asistenční, tak tam musí, zastal se úřad ombudsmanky postiženého hráče - Novinky** — Novinky [cs]
+   https://www.novinky.cz/clanek/krimi-muze-pes-do-kasina-pokud-je-asistencni-tak-tam-musi-zastal-se-urad-ombudsmanky-postizeneho-hrace-40610819
+   Může pes do kasina? Pokud je asistenční, tak tam musí, zastal se úřad ombudsmanky postiženého hráče Novinky
 
-24. **Hrůza v ostravské nemocnici. Granát před třiceti roky usmrtil dvě uklízečky, vrah zůstal neznámý - iDNES.cz** — iDNES.cz [cs]
-   https://www.idnes.cz/ostrava/zpravy/vyroci-1996-ostrava-vybuch-granat-nemocnice-uklizecky-tragedie.A261126_140635_ostrava-zpravy_jog
-   Hrůza v ostravské nemocnici. Granát před třiceti roky usmrtil dvě uklízečky, vrah zůstal neznámý iDNES.cz
+23. **Kvůli věku ho prý vyhodili, Volvo mluví o tajných datech. Bývalý manažer žádá miliony - Aktuálně.cz** — Aktuálně.cz [cs]
+   https://zpravy.aktualne.cz/ekonomika/auto/elektromobilita/kvuli-veku-ho-pry-vyhodili-volvo-mluvi-o-tajnych-datech-byvaly-manazer-zada-miliony/r~aaa29cbbc6a9532a323dfe0b056156fc/
+   Kvůli věku ho prý vyhodili, Volvo mluví o tajných datech. Bývalý manažer žádá miliony Aktuálně.cz
 
-25. **Opavské abonmá čeká 10 koncertů. Beethovenovu stopu připomene několik večerů i finále soutěže - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/moravskoslezsky-kraj/opavske-abonma-ceka-10-koncertu-beethovenovu-stopu-pripomene-nekolik-veceru-i-finale-souteze.A261125_164535_metro-ostrava-zpravy_air
-   Opavské abonmá čeká 10 koncertů. Beethovenovu stopu připomene několik večerů i finále soutěže Metro.cz
+24. **KOMENTÁŘ: Měsíc od (ne)návratu Rusů. Z hokeje je hokej a IIHF flikuje děravou cestu. Jaro ukáže - Sport.cz** — Sport.cz [cs]
+   https://www.sport.cz/clanek/nazory-komentare-komentar-mesic-od-ne-navratu-rusu-z-hokeje-je-hokej-a-iihf-flikuje-deravou-cestu-jaro-ukaze-5583930
+   KOMENTÁŘ: Měsíc od (ne)návratu Rusů. Z hokeje je hokej a IIHF flikuje děravou cestu. Jaro ukáže Sport.cz
 
-26. **Může to někoho překvapit? Neonacisté hlásající rasovou válku mají vazby na Motoristy a Svobodné - Reflex.cz** — Reflex.cz [cs]
-   https://www.reflex.cz/clanek/komentare/139616/muze-to-nekoho-prekvapit-neonaciste-hlasajici-rasovou-valku-maji-vazby-na-motoristy-a-svobodne.html
-   Může to někoho překvapit? Neonacisté hlásající rasovou válku mají vazby na Motoristy a Svobodné Reflex.cz
+25. **Děti by u soudu mohli zastupovat specializovaní advokáti. Jejich zapojení má vyřešit dvojí roli OSPOD - iROZHLAS** — iROZHLAS [cs]
+   https://www.irozhlas.cz/zpravy-domov/deti-u-soudu-mohli-zastupovat-advokati-ceska-advokatni-komora-podporuje-vznik_2611271000_zfr
+   Děti by u soudu mohli zastupovat specializovaní advokáti. Jejich zapojení má vyřešit dvojí roli OSPOD iROZHLAS
 
-27. **Extremismus mozkových záhybů: Lze ideologii změřit? - Konzervativní noviny** — Konzervativní noviny [cs]
-   https://www.konzervativninoviny.cz/extremismus-mozkovych-zahybu-lze-ideologii-zmerit/
-   Extremismus mozkových záhybů: Lze ideologii změřit? Konzervativní noviny
+26. **Inspekce práce je podle dětského ombudsmana už teď přetížená. Hrozí, že přehlédne další případy dětské práce - Metro.cz** — Metro.cz [cs]
+   https://www.metro.cz/kraje/jihomoravsky-kraj/inspekce-prace-je-podle-detskeho-ombudsmana-uz-ted-pretizena-hrozi-ze-prehledne-dalsi-pripady-detske.A261127_114535_metro-brno-zpravy_air
+   Inspekce práce je podle dětského ombudsmana už teď přetížená. Hrozí, že přehlédne další případy dětské práce Metro.cz
 
-28. **Účastnící konference Multilaw darovali Nadaci Terezy Maxové 680 000 korun - Advokátní deník** — Advokátní deník [cs]
-   https://advokatnidenik.cz/2026/11/26/ucastnici-konference-multilaw-darovali-nadaci-terezy-maxove-680-000-korun/
-   Účastnící konference Multilaw darovali Nadaci Terezy Maxové 680 000 korun Advokátní deník
+27. **Ohrožené děti bude v budoucnu zastupovat dětský advokát. Změnu připravuje ministerstvo spravedlnosti - Radiožurnál** — Radiožurnál [cs]
+   https://radiozurnal.rozhlas.cz/ohrozene-deti-bude-v-budoucnu-zastupovat-detsky-advokat-zmenu-pripravuje-9659377
+   Ohrožené děti bude v budoucnu zastupovat dětský advokát. Změnu připravuje ministerstvo spravedlnosti Radiožurnál
 
-29. **První neshoda v nové koalici. Hradec má dva zájemce o ubytovnu, s prodejem ale váhá - Salonky HK** — Salonky HK [cs]
-   https://www.salonkyhk.cz/prvni-neshoda-v-nove-koalici-hradec-ma-dva-zajemce-o-ubytovnu-s-prodejem-ale-vaha/
-   První neshoda v nové koalici. Hradec má dva zájemce o ubytovnu, s prodejem ale váhá Salonky HK
+28. **Zelenskyj děkuje Trumpově manželce: Z Ruska se vrátilo devět dětí - Aktuálně.cz** — Aktuálně.cz [cs]
+   https://zpravy.aktualne.cz/zahranici/zelenskyj-dekuje-trumpove-manzelce-z-ruska-se-vratilo-devet-deti/r~aaa29dacbdfe6fc9242676d90badfed7/
+   Zelenskyj děkuje Trumpově manželce: Z Ruska se vrátilo devět dětí Aktuálně.cz
 
-30. **Nová sociální demokracie. Druhý život staré značky, nebo politický reparát bez zákazníků? - Lidovky.cz** — Lidovky.cz [cs]
-   https://www.lidovky.cz/nazory/nova-socialni-demokracie-martin-matas-vladimir-spidla-socdem-cssd.A261125_155655_ln_nazory_lgs
-   Nová sociální demokracie. Druhý život staré značky, nebo politický reparát bez zákazníků? Lidovky.cz
-
-31. **Od proplácení faktur k hodnocení výsledků. Nová kapitola evropské dotační politiky přinese zásadní změny - Aktuálně.cz** — Aktuálně.cz [cs]
-   https://www.aktualne.cz/benative/od-proplaceni-faktur-k-hodnoceni-vysledku-nova-kapitola-evropske-dotacni-politiky-prinese-zasadni-zmeny/r~aaa2980d392606968df9894a74985402/
-   Od proplácení faktur k hodnocení výsledků. Nová kapitola evropské dotační politiky přinese zásadní změny Aktuálně.cz
-
-32. **Praha 5 má nového starostu. Chce prověřit možnost získání nové radnice - NašePraha** — NašePraha [cs]
-   https://www.nasepraha.cz/praha-5-ma-noveho-starostu-chce-proverit-moznost-ziskani-nove-radnice/
-   Praha 5 má nového starostu. Chce prověřit možnost získání nové radnice NašePraha
-
-33. **Od mezinárodní zkušenosti k lokálnímu dopadu: NEOLAiA rozvíjí novou generaci mentorů a mentorek - Ostravská univerzita** — Ostravská univerzita [cs]
-   https://alive.osu.cz/od-mezinarodni-zkusenosti-k-lokalnimu-dopadu-neolaia-rozviji-novou-generaci-mentoru-a-mentorek/
-   Od mezinárodní zkušenosti k lokálnímu dopadu: NEOLAiA rozvíjí novou generaci mentorů a mentorek Ostravská univerzita
-
-34. **Diskriminace žen ve sportu (z edice Otakarův průvodce životem) - Seznam** — Seznam [cs]
-   https://medium.seznam.cz/clanek/marek-vechytek-diskriminace-zen-ve-sportu-z-edice-otakaruv-pruvodce-zivotem-351384
-   Diskriminace žen ve sportu (z edice Otakarův průvodce životem) Seznam
-
-35. **Když veřejnost soudí dříve než soud: pražské fórum otevřelo případ Shincheonji - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/protext/kdyz-verejnost-soudi-drive-nez-soud-prazske-forum-otevrelo-pripad-shincheonji.A261126_101600_metro-protext_air
-   Když veřejnost soudí dříve než soud: pražské fórum otevřelo případ Shincheonji Metro.cz
-
-36. **Tragické dopady. Kontroloři nelegální dětské práce chybí, varuje ombudsman - Seznam Zprávy** — Seznam Zprávy [cs]
-   https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-tragicke-dopady-kontrolori-nelegalni-detske-prace-chybi-varuje-ombudsman-321587
-   Tragické dopady. Kontroloři nelegální dětské práce chybí, varuje ombudsman Seznam Zprávy
-
-37. **Inspekce práce nestíhá už teď. Beneš varuje, že to může zhoršit odhalování dětské práce - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/jihomoravsky-kraj/inspekce-prace-nestiha-uz-ted-benes-varuje-ze-to-muze-zhorsit-odhalovani-detske-prace.A261126_174536_metro-brno-zpravy_air
-   Inspekce práce nestíhá už teď. Beneš varuje, že to může zhoršit odhalování dětské práce Metro.cz
-
-38. **Ombudsman varuje před bagatelizací stížností na soudce u dítěte. Rozhodovat má i záznam - Metro.cz** — Metro.cz [cs]
-   https://www.metro.cz/kraje/jihomoravsky-kraj/ombudsman-varuje-pred-bagatelizaci-stiznosti-na-soudce-u-ditete-rozhodovat-ma-i-zaznam.A261126_154536_metro-brno-zpravy_air
-   Ombudsman varuje před bagatelizací stížností na soudce u dítěte. Rozhodovat má i záznam Metro.cz
-
-39. **Reklamace a vrácení vánočních dárků: Odborník na práva spotřebitelů radí, jak se nedat odbýt - Blesk.cz** — Blesk.cz [cs]
-   https://www.blesk.cz/galerie/radce-pravni-poradna/1289033/reklamace-a-vraceni-vanocnich-darku-odbornik-na-prava-spotrebitelu-radi-jak-se-nedat-odbyt?foto=0
-   Reklamace a vrácení vánočních dárků: Odborník na práva spotřebitelů radí, jak se nedat odbýt Blesk.cz
+29. **Jak zákon chrání zaměstnané rodiče? A je strach z války překážkou služební cesty? Odpovídají právní experti - Blesk.cz** — Blesk.cz [cs]
+   https://www.blesk.cz/galerie/radce-pravni-poradna/1327077/jak-zakon-chrani-zamestnane-rodice-a-je-strach-z-valky-prekazkou-sluzebni-cesty-odpovidaji-pravni-experti?foto=0
+   Jak zákon chrání zaměstnané rodiče? A je strach z války překážkou služební cesty? Odpovídají právní experti Blesk.cz
